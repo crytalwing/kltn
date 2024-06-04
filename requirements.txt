@@ -13,3 +13,5 @@ underthesea
 keras-self-attention
 fasttext-wheel
 spacy
+ipykernel
+streamlit
