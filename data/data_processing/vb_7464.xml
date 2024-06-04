@@ -1,0 +1,79 @@
+Thông_tư số 17/2018/tt-btttt ngày 14 tháng 12 năm 2018 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tần_số vô_tuyến_điện ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Căn_cứ Quyết_định số 71/2013/QĐ-Ttg ngày 21 tháng 11 năm 2013 của Thủ_tướng Chính_phủ ban_hành Quy_hoạch phổ tần_số vô_tuyến_điện quốc_gia ;
+
+Căn_cứ Quyết_định số 02/2017/QĐ-Ttg ngày 17 tháng 01 năm 2017 của Thủ_tướng Chính_phủ về sửa_đổi , bổ_sung Quy_hoạch phổ tần_số vô_tuyến_điện quốc_gia ban_hành kèm theo Quyết_định số 71/2013/QĐ-Ttg ngày 21 tháng 11 năm 2013 của Thủ_tướng Chính_phủ ;
+
+Theo đề_nghị của Cục_trưởng Cục Tần_số vô_tuyến_điện ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư về Quy_hoạch phân kênh tần_số cho nghiệp_vụ Cố_định và Di_động mặt_đất băng tần 30-30000 MHz .
+
+1 . Thông_tư này quy_hoạch phân kênh tần_số cho nghiệp_vụ Cố_định và nghiệp_vụ Di_động mặt_đất băng tần 30-30000 MHz ( trừ các hệ_thống thông_tin di_động tế_bào có quy_hoạch riêng ) .
+
+2 . Thông_tư này áp_dụng đối_với các tổ_chức , cá_nhân quản_lý , sử_dụng , sản_xuất , nhập_khẩu , kinh_doanh thiết_bị vô_tuyến_điện thuộc nghiệp_vụ Cố_định và nghiệp_vụ Di_động mặt_đất băng tần 30-30000 MHz ( trừ các hệ_thống thông_tin di_động tế_bào ) tại Việt_nam .
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Kênh tần_số vô_tuyến_điện ( sau đây gọi tắt là kênh ) là dải_tần_số vô_tuyến_điện được xác_định bằng độ rộng và tần_số trung_tâm của kênh hoặc các thông_số đặc_trưng khác .
+
+2 . Nghiệp_vụ Di_động mặt_đất là nghiệp_vụ thông_tin vô_tuyến_điện giữa các đài vô_tuyến_điện gốc và các đài vô_tuyến_điện di_động mặt_đất , hoặc giữa các đài vô_tuyến_điện di_động mặt_đất với nhau .
+
+3 . Nghiệp_vụ Cố_định là nghiệp_vụ thông_tin vô_tuyến giữa các điểm cố_định đã xác_định trước .
+
+4 . Truyền_dẫn một tần_số là phương_thức hoạt_động mà hai đài vô_tuyến_điện có_thể truyền_dẫn theo một hoặc hai chiều , nhưng không đồng_thời theo hai chiều và chỉ sử_dụng một kênh tần_số .
+
+5 . Truyền_dẫn hai tần_số là phương_thức hoạt_động mà các truyền_dẫn giữa hai đài vô_tuyến_điện sử_dụng hai kênh tần_số .
+
+6 . Đơn công là phương_thức khai_thác mà truyền_dẫn được thực_hiện trên một kênh thông_tin lần_lượt theo mỗi chiều .
+
+7 . Song công là phương_thức khai_thác mà truyền_dẫn được thực_hiện đồng_thời theo hai chiều của một kênh thông_tin .
+
+8 . Bán song công là phương_thức khai_thác mà đơn công tại một đầu_cuối của kênh và song công tại đầu_cuối kia .
+
+9 . Hệ_thống vi ba là hệ_thống thông_tin vô_tuyến thuộc nghiệp_vụ cố_định khai_thác trong dải_tần trên 30MHz , sử_dụng truyền_lan tầng đối_lưu và thông_thường bao_gồm một hoặc nhiều đài vô_tuyến_điện chuyển_tiếp .
+
+10 . Liên_lạc điểm - điểm ( áp_dụng cho vi ba ) là tuyến liên_lạc giữa hai đài vô_tuyến_điện đặt tại hai điểm cố_định xác_định .
+
+11 . Liên_lạc điểm - đa điểm ( áp_dụng cho vi ba ) là các tuyến liên_lạc giữa một đài vô_tuyến_điện đặt tại một điểm cố_định và một_số đài vô_tuyến_điện đặt tại các điểm cố_định xác_định .
+
+12 . Phân kênh là việc sắp_xếp các kênh trong cùng một đoạn băng tần .
+
+13 . Phân kênh chính là phân kênh được xác_định bằng các tham_số cơ_bản bao_gồm tần_số trung_tâm , khoảng_cách giữa hai kênh lân_cận , khoảng_cách tần_số thu phát .
+
+14 . Phân_kênh xen_kẽ là phân thêm các kênh xen_kẽ giữa các kênh chính , các tần_số trung_tâm của các kênh xen_kẽ được tính lệch đi một nửa khoảng_cách giữa hai kênh lân_cận so với các tần_số trung_tâm của các kênh tần_số chính .
+
+15 . Cự_li truyền_dẫn tối_thiểu ( áp_dụng cho vi ba ) là khoảng_cách truyền_dẫn nhỏ nhất mà một tuyến vi ba được khuyến_nghị sử_dụng trong phân kênh tương_ứng .
+
+1 . Thiết_lập trật_tự sử_dụng kênh , thống_nhất tiêu_chuẩn cho các hệ_thống thông_tin vô_tuyến_điện , hạn_chế nhiễu có hại giữa các thiết_bị , hệ_thống và giữa các mạng .
+
+2 . Định_hướng cho người sản_xuất , nhập_khẩu , kinh_doanh và sử_dụng trong việc sản_xuất , nhập_khẩu và đầu_tư thiết_bị , giúp cho cơ_quan quản_lí sắp_xếp trật_tự sử_dụng phổ tần và quản_lí phổ tần hiệu_quả , hợp_lý .
+
+1 . Tuân theo Quy_hoạch phổ tần_số vô_tuyến_điện quốc_gia đã được Thủ_tướng Chính_phủ_phê_duyệt và đang có hiệu_lực thi_hành .
+
+2 . Trên_cơ_sở các khuyến_nghị phân kênh của Liên_minh Viễn_thông quốc_tế ( itu ) và các tổ_chức viễn_thông khu_vực .
+
+3 . Tính đến hiện_trạng sử_dụng tần_số vô_tuyến_điện ở Việt_nam , việc chuyển_đổi từ hiện_trạng sang Quy_hoạch có lộ_trình .
+
+4 . Đáp_ứng nhu_cầu sử_dụng kênh trong những năm tới và khả_năng đưa các công_nghệ mới vào sử_dụng .
+
+Quy_hoạch phân kênh tần_số cho nghiệp_vụ Cố_định và nghiệp_vụ Di_động mặt_đất băng tần 30-30000 MHz kèm theo các điều_kiện sử_dụng kênh tần_số bao_gồm :
+
+a ) Quy_hoạch phân kênh tần_số cho nghiệp_vụ Cố_định và nghiệp_vụ Di_động mặt_đất băng tần 30-1000 MHz tại Phụ_lục 1 ;
+
+b ) Quy_hoạch phân kênh tần_số cho nghiệp_vụ Cố_định và nghiệp_vụ Di_động mặt_đất băng tần 1000-30000 MHz tại Phụ_lục 2 .
+
+1 . Cục Tần_số vô_tuyến_điện chịu trách_nhiệm phổ_biến , hướng_dẫn triển_khai Thông_tư này .
+
+2 . Tổ_chức , cá_nhân sử_dụng tần_số vô_tuyến_điện có trách_nhiệm sử_dụng đúng mục_đích , nghiệp_vụ vô_tuyến_điện , điều_kiện sử_dụng quy_định tại Thông_tư này và các quy_định khác của pháp_luật về tần_số vô_tuyến_điện .
+
+3 . Tổ_chức , cá_nhân sản_xuất , nhập_khẩu , kinh_doanh thiết_bị vô_tuyến_điện có trách_nhiệm đảm_bảo thiết_bị vô_tuyến_điện có tính_năng kĩ_thuật phù_hợp với nghiệp_vụ vô_tuyến và điều_kiện sử_dụng quy_định tại Thông_tư này và các quy_định khác của pháp_luật về tần_số vô_tuyến_điện .
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 28 tháng 01 năm 2019 và thay_thế Thông_tư số 13/2013/TT-BTTTT ngày 14 tháng 6 năm 2013 của Bộ_trưởng Bộ Thông_tin và Truyền_thông về Quy_hoạch phân kênh tần_số cho nghiệp_vụ Cố_định và Di_động mặt_đất băng tần 30-30000 MHz .
+
+2 . Chánh Văn_phòng , Cục_trưởng Cục Tần_số vô_tuyến_điện , Thủ_trưởng cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , các tổ_chức và cá_nhân trong nước và nước_ngoài tại Việt_nam sử_dụng , sản_xuất , nhập_khẩu , kinh_doanh thiết_bị vô_tuyến_điện để sử_dụng tại Việt_nam chịu trách_nhiệm thi_hành Thông_tư này .
+
+3 . Trong quá_trình thực_hiện nếu có vướng_mắc , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Thông_tin và Truyền_thông ( Cục Tần_số vô_tuyến_điện ) để được hướng_dẫn hoặc xem_xét , sửa_đổi , bổ_sung . / .

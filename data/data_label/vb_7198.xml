@@ -1,0 +1,781 @@
+Thông_tư số 24/2019/tt-bgtvt ngày 05 tháng 07 năm 2019 của bộ giao_thông vận_tải
+
+Căn_cứ <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 127/20077NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều của <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 12/20177NĐ-CP ngày 10 tháng 02 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Giao_thông vận_tải ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học - Công_nghệ và Cục_trưởng Cục Đường_sắt Việt_nam ,
+
+Bộ_trưởng Bộ Giao_thông vận_tải ban_hành Thông_tư ban_hành Quy_chuẩn kĩ_thuật quốc_gia về hệ_thống_thiết_bị phòng_vệ đường ngang cảnh_báo tự_động - Qcvn 104 : 2019 / bgtvt .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về hệ_thống_thiết_bị phòng_vệ đường ngang cảnh_báo tự_động - Qcvn 104 : 2019 / b Gtvt .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 10 năm 2019 .
+
+Điều 3 . Chánh Văn_phòng Bộ , Chánh Thanh_tra Bộ , các Vụ_trưởng , Cục_trưởng Cục Đường_sắt Việt_nam , Thủ_trưởng các cơ_quan , tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 104 : 2019 / bgtvt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Hệ_thống_thiết_bị Phòng_vệ Đường Ngang Cảnh_báo Tự_động
+
+National technical regulation on protection equipment system of automatic warning level crossing
+
+Lời_nói_đầu
+
+Quy_chuẩn kĩ_thuật quốc_gia Qcvn 104 : 2019 / bgtvt Hệ_thống_thiết_bị phòng_vệ đường ngang cảnh_báo tự_động do Cục Đường_sắt Việt_nam chủ_trì biên_soạn , Bộ Khoa_học và Công_nghệ thẩm_định , Bộ Giao_thông vận_tải ban_hành theo số . . / 2019 / t - Bgtvt n<TT rel="None"> Thông_tư gày_tháng năm 2019 </TT> .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Hệ_thống_thiết Bị Phòng_vệ Đường Ngang Cảnh_báo Tự_động
+
+National technical regulation on protection equipment system of automatic warning level crossing
+
+1 . Quy_định chung
+
+1 . 1 Phạm_vi điều_chỉnh
+
+Quy_chuẩn kĩ_thuật quốc_gia về hệ_thống_thiết_bị phòng_vệ đường ngang cảnh_báo tự_động ( sau đây gọi tắt là Quy_chuẩn ) quy_định các yêu_cầu kĩ_thuật đối_với hệ_thống_thiết_bị phòng_vệ đường ngang cảnh_báo tự_động trên đường_sắt quốc_gia và đường_sắt chuyên_dùng có nối ray với đường_sắt quốc_gia , nhằm bảo_đảm an_toàn trong quá_trình vận_hành .
+
+1 . 2 Đối_tượng áp_dụng
+
+Quy_chuẩn này áp_dụng đối_với tổ_chức , cá_nhân có liên_quan đến công_tác thiết_kế , cung_cấp , lắp_đặt , giám_sát , nghiệm_thu , vận_hành và bảo_trì thiết_bị phòng_vệ đường ngang cảnh_báo tự_động trên đường_sắt quốc_gia và đường_sắt chuyên_dùng có nối ray với đường_sắt quốc_gia .
+
+1 . 3 Tài_liệu viện_dẫn
+
+Quy_chuẩn này sử_dụng các tài_liệu được viện_dẫn dưới đây ( trường_hợp các tài_liệu viện_dẫn được sửa_đổi , bổ_sung và thay_thế_thì áp_dụng phiên_bản mới nhất ) :
+
+- Qcvn 08 : 2018 / bgtvt Quy_chuẩn kĩ_thuật quốc_gia về Khai_thác đường_sắt ;
+
+- Qcvn 06 : 2018 / bgtvt Quy_chuẩn kĩ_thuật quốc_gia về Tín_hiệu giao_thông đường_sắt ;
+
+- Qcvn 41 : 2016 / bgtvt Quy_chuẩn kĩ_thuật quốc_gia về báo_hiệu đường_bộ ;
+
+- Tcvn 7699-2-30:2007 ( iec 60068 - 2 - 30 : 2005 ) Tiêu_chuẩn quốc_gia về Thử_nghiệm môi_trường - Phần 2-30: Các thử_nghiệm - Thử_nghiệm Db : Nóng ẩm , chu_kì ( chu_kì 12h + 12h ) ;
+
+- Tcvn 4756 : 1989 Quy_phạm nối đất và nối không các thiết_bị điện ;
+
+- Tcvn 8071 : 2009 Công_trình viễn_thông - Quy_tắc thực_hành chống sét và tiếp đất ;
+
+- Tcvn 11391 : 2016 ( en 50128 : 2011 ) Ứng_dụng đường_sắt - Hệ_thống xử_lí và thông_tin tín_hiệu Phần_mềm cho các hệ_thống phòng_vệ và điều_khiển đường_sắt ;
+
+- Iec / ts 61000 - 6 - 2 và 61000 - 6 - 4 ( hoặc tiêu_chuẩn En 61000 - 6 - 2 và En 61000 - 6 - 4 ) Bộ tiêu_chuẩn về miễn_nhiễm_điện từ và phát_xạ điện_tử áp_dụng cho thiết_bị trong môi_trường công_nghiệp lắp_đặt trong nhà và ngoài_trời .
+
+1 . 4 Giải_thích từ_ngữ
+
+Trong Quy_chuẩn này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . 4 . 1 Thiết_bị phát_hiện tàu : là thiết_bị có chức_năng phát_hiện chính_xác sự xuất_hiện của đoàn tàu thông_qua các loại cảm_biến , mạch xử_lí tín_hiệu ;
+
+1 . 4 . 2 Hệ_thống_thiết_bị phòng_vệ đường ngang cảnh_báo tự_động gồm thiết_bị rời , cấu_thành hệ_thống phòng_vệ đường ngang bao_gồm : cần chắn tự_động ( nếu có ) ; đèn tín_hiệu và chuông điện hoặc loa phát_âm_thanh ; tủ điều_khiển ; cáp điều_khiển , cáp điện ; thiết_bị phát_hiện tàu ; hệ_thống_thiết_bị giám_sát tập_trung ; phần_mềm điều_khiển Tbpvđn_cbtđ và các thiết_bị khác liên_quan đến đảm_bảo_an_toàn giao_thông tại đường ngang ;
+
+1 . 4 . 3 Hệ_thống_thiết_bị giám_sát tập_trung là hệ_thống_thiết_bị được đặt tại trung_tâm giám_sát từ xa , có khả_năng giám_sát và lưu_trữ các số_liệu về hoạt_động của hệ_thống Tbpvđn_cbtđ ;
+
+1 . 4 . 4 Cảnh_báo ( hoặc báo_hiệu ) là việc cung_cấp các cảnh_báo ( báo_hiệu ) tại đường ngang thông_qua các phương_thức để người tham giao giao_thông đường_bộ nhận_biết có tàu đến đường ngang như : đèn_hiệu , chuông điện hoặc loa phát_âm_thanh , cần chắn đường ( khu_vực cấm xâm_nhập ) để cảnh_báo , ngăn_chặn người và phương_tiện tham_gia giao_thông đường_bộ không được phép vượt qua các đèn_hiệu cấm , rào_chắn đường hoặc tự quan_sát tình_hình giao_thông về hai phía để nhanh_chóng vượt qua đường ngang một_cách an_toàn khi đèn_vàng sáng nháy ;
+
+1 . 4 . 5 Chế_độ tăng_cường là chế_độ thường_trực kiểm_tra các thông_số kĩ_thuật , giám_sát các chức_năng chính đối_với hệ_thống_thiết_bị phòng_vệ đường ngang cảnh_báo tự_động với tần xuất 120 phút / 1 lần và sẵn_sàng giải_quyết các trở_ngại phát_sinh trong quá_trình vận_hành hệ_thống ;
+
+1 . 4 . 6 Tàu chạy bất_thường là các đoàn tàu chạy không tuân_thủ tốc_độ quy_định , thời_gian chạy_tàu quá 5 phút kể từ thời_điểm đoàn tàu chiếm_dụng khu đoạn đến gần đường ngang hoặc tàu phải dừng đỗ do sự_cố , tai_nạn chạy_tàu trên khu đoạn đến gần của đường ngang hoặc ngay trong phạm_vi đường ngang ;
+
+1 . 4 . 7 Tương_thích điện từ là khả_năng thiết_bị , hệ_thống_thiết_bị điện , điện_tử hoạt_động bình_thường trong môi_trường điện từ và không gây nhiễu đến thiết_bị , hệ_thống_thiết_bị khác .
+
+1 . 5 Những chữ_viết tắt
+
+- Cbtđ : Cảnh_báo tự_động ;
+
+- Cctđ : Cần chắn tự_động ;
+
+- Csdl : Cơ_sở dữ_liệu ;
+
+- Tbpvđn : Thiết_bị phòng_vệ đường ngang ;
+
+- En ( European_standard ) : Tiêu_chuẩn châu Âu ;
+
+- Gprs ( General Packet Radio_service ) : Dịch_vụ vô_tuyến gói chung ;
+
+- Iec ( International Electrotechnical_commission ) : Ủy_ban kĩ_thuật điện quốc_tế ;
+
+- Ip ( Ingress_protection ) : Cấp bảo_vệ được quy_định trong Tcvn 4255 ( iec 60529 ) Tiêu_chuẩn về cấp bảo_vệ bằng vỏ ngoài ;
+
+- Led ( Light emitting diode ) : Diode phát_quang ;
+
+- Sil ( Safety Integrity_level ) : Qui_định mức_độ toàn_vẹn an_toàn của hệ_thống đường_sắt ; được chia làm các cấp từ cấp_độ thấp đến cao , theo quy_định tại Tcvn 11391 : 2016 ( en 50128 : 2011 ) Ứng_dụng đường_sắt - Hệ_thống xử_lí và thông_tin tín_hiệu - Phần_mềm cho các hệ_thống phòng_vệ và điều_khiển đường_sắt ;
+
+- Rams ( Reliability , Availability , Maintainability , Safety ) : Là Độ tin_cậy - Tính sẵn_sàng để dùng - Khả_năng bảo_trì - Độ an_toàn của một hệ_thống_thiết_bị ;
+
+- Sms ( Short Message_service ) : Dịch_vụ tin nhắn ngắn .
+
+2 . Yêu_cầu chung
+
+2 . 1 Có khả_năng giám_sát và điều_khiển ( khi gặp trở_ngại nghiêm_trọng ) hoạt_động của hệ_thống Tbpvđn Cbtđ trên miền thời_gian thực qua mạng viễn_thông theo phương_thức không dây hoặc có dây ; dễ đo kiểm , quan_trắc các thông_số điện khí ; thuận_tiện trong bảo_trì ; dễ_dàng thay_thế phụ_kiện , chi_tiết tại_chỗ khi hư_hỏng ;
+
+2 . 2 Về cơ_khí : Đầy_đủ các chi_tiết , đúng quy_cách , lắp_đặt ngay_ngắn , chắc_chắn và không có rạn_nứt , sứt vỡ làm ảnh_hưởng đến hoạt_động của thiết_bị . Các bộ_phận cơ_khí chuyển_động phải linh_hoạt , không bị kẹt . Các bu_lông , đai_ốc , vít vặn không được chờn ren . Các thiết_bị phải viết tên , các cọc đấu dây phải có đánh_số hoặc đánh_dấu để thuận_tiện nhận_biết và phân_biệt và đọc số thứ tự cọc ;
+
+2 . 3 Đối_với các hệ_thống Tbpvđn Cbtđ gần ga hoặc trong phạm_vi ga mà việc cung_cấp các dịch_vụ cảnh_báo có_thể bị ảnh_hưởng do hoạt_động của nhóm các thiết_bị tín_hiệu khác hoặc sự vận_hành của các đoàn tàu , thì hệ_thống Tbpvđn Cbtđ phải thực_hiện kết_nối để nhận tín_hiệu điều_khiển từ hệ_thống tín_hiệu ga . Trong mọi trường_hợp tổ_chức kết_nối với thiết_bị tín_hiệu ga thì việc hoạt_động hoặc mọi trở_ngại của hệ_thống Tbpvđn Cbtđ không được gây ảnh_hưởng đến sự làm_việc bình_thường của hệ_thống tín_hiệu ga mà hệ_thống Tbpvđn Cbtđ móc_nối để nhận tín_hiệu điều_khiển ;
+
+2 . 4 Có khả_năng kết_nối đèn tín_hiệu giao_thông đường_bộ với tín_hiệu đèn báo_hiệu trên đường_bộ tại đường ngang theo quy_định của <TT rel="DC"> Thông_tư số 28/2018/TT-BGTVT ngày 14/5/2018 </TT> của Bộ Giao_thông vận_tải Quy_định về kết_nối tín_hiệu đèn giao_thông đường_bộ với tín_hiệu đèn báo_hiệu trên đường_bộ tại đường ngang , cung_cấp thông_tin hỗ_trợ cảnh_giới tại các điểm giao_cắt giữa đường_bộ và đường_sắt ;
+
+2 . 5 Nhãn hàng_hoá phải được dán , gắn , in hoặc đúc trực_tiếp lên vỏ thiết_bị và thể_hiện các thông_tin tối_thiểu như sau :
+
+( 1 ) Tên ( kiểu loại , model ) và số sê - ri ( số sản_xuất ) ;
+
+( 2 ) Tên và số điện_thoại đơn_vị sản_xuất , nhập_khẩu chịu trách_nhiệm về chất_lượng hàng_hoá ;
+
+( 3 ) Tháng , năm sản_xuất ;
+
+( 4 ) Điện_áp sử_dụng ( nếu có ) ;
+
+( 5 ) Cấp bảo_vệ ( nếu có ) ;
+
+( 6 ) Xuất_xứ hàng_hoá .
+
+3 . Quy_định kĩ_thuật chi_tiết
+
+3 . 1 Khung vỏ tủ điều_khiển
+
+3 . 1 . 1 Vỏ tủ điều_khiển được chế_tạo bằng thép tấm đảm_bảo chắc_chắn ; được xử_lí bề_mặt và sơn tĩnh_điện hai lớp ; màu sơn vỏ tủ sơn màu ghi xám ; bên trong vỏ tủ được lót một lớp cách_nhiệt , chống cháy ;
+
+3 . 1 . 2 Kết_cấu tủ điều_khiển đảm_bảo độ an_toàn cao , có cửa phía trước và phía sau ; cửa tủ chắc_chắn , có khoá chống_phá xâm_nhập trái_phép ; tủ được bố_trí quạt làm mát ; mặt vỏ tủ về phía đường_sắt được đánh_số lí trình đường_sắt bằng sơn màu đen trên nền màu ghi ; cỡ chữ_viết theo quy_định của Qcvn 06 : 2018 / bgtvt Quy_chuẩn kĩ_thuật quốc_gia về Tín_hiệu giao_thông đường_sắt ; trong tủ có một bảng đồng tiếp đất chung để nối đến hệ_thống tiếp đất bảo_vệ ;
+
+3 . 1 . 3 Các thiết_bị , phụ_kiện trong tủ điều_khiển có cấu_trúc hợp_lý , gọn_nhẹ và bố_trí tách_biệt nhau với khoảng_cách hợp_lí để chống gia_tăng nhiệt hoặc tổn_thất do hư_hỏng tác_động chéo sang nhau và giúp cho người vận_hành , bảo_trì dễ quan_sát , thay_thế linh , phụ_kiện ;
+
+3 . 1 . 4 Tủ điều_khiển được chế_tạo có khả_năng ngăn_ngừa xâm_thực của bụi , côn_trùng , động_vật gặm_nhấm và nước theo mọi hướng ; các đầu cáp tín_hiệu , điều_khiển , cung_cấp điện được dẫn vào tủ qua các ống dẫn cáp , ống dẫn cáp được đổ hợp_chất ngăn ẩm , chống côn_trùng , động_vật gặm_nhấm ; độ phòng_vệ cơ_học và ngăn_ngừa ẩm xâm_thực tủ điều_khiển phải có cấp bảo_vệ tối_thiểu đạt Ip54 theo Tcvn 4255 ( iec 60529 ) .
+
+3 . 2 Nguyên_tắc đấu phối dây hệ_thống
+
+3 . 2 . 1 Bản_vẽ thiết_kế kĩ_thuật phải được thể_hiện đầy_đủ mạch điện , số_hiệu các tổ tiếp_điểm , các cọc , phiến đấu dây tên cũng như kiểu loại của các loại đèn biểu_thị , giao_tiếp , rơ_le , mỗi dây_dẫn đều phải thể_hiện ( đánh_dấu ) hai lần , một ghi ở đầu đi và một ghi ở đầu đến ;
+
+3 . 2 . 2 Bản_vẽ thiết_kế thi_công phải thể_hiện chính_xác bản_vẽ thiết_kế kĩ_thuật đã thể_hiện để phục_vụ đấu phối dây , đo kiểm_thử hoạt_động chính_xác ; Dây_dẫn đấu gọn_gàng , không chồng_chéo nhau ; mỗi vị_trí đấu dây không nên có quá hai đầu dây_dẫn để tránh chạm chập giữa các tiếp_điểm cũng như gây khó_khăn cho việc hàn_nối ;
+
+3 . 2 . 3 Dây phối có những chức_năng khác nhau như : cấp nguồn điện , biểu_thị , điều_khiển , tiếp đất ; dây_dẫn nguồn phải tiếp_cận từ hai phía khác nhau để đảm_bảo cấp nguồn liên_tục khi gặp sự_cố đứt dây từ một phía .
+
+3 . 3 Các yêu_cầu_tiêu_chuẩn điện khí chính của tủ điều_khiển
+
+3 . 3 . 1 Bộ điều_khiển tín_hiệu đường ngang :
+
+3 . 3 . 1 . 1 Số đầu_vào / ra được tích_hợp sẵn : đáp_ứng tối_thiểu cho đường ngang đơn ; có khả_năng tích_hợp bằng các mô - đun định_hình để mở_rộng các đầu_vào ra ;
+
+3 . 3 . 1 . 2 Tài_nguyên phần_cứng : đáp_ứng cho tất_cả các loại_hình đường ngang và có đồng_hồ thời_gian thực ;
+
+3 . 3 . 1 . 3 Chuẩn_truyền_thông : Hỗ_trợ các chuẩn truyền_thông công_nghiệp phù_hợp để kết_nối các thiết_bị thuộc hệ_thống Tbpvđn_cbtđ ;
+
+3 . 3 . 1 . 4 Đáp_ứng các yêu_cầu kĩ_thuật về tương_thích điện từ theo bộ tiêu_chuẩn Iec / ts 61000 - 6 - 2 và 61000 - 6 - 4 ( hoặc tiêu_chuẩn En 61000 - 6 - 2 và En 61000 - 6 - 4 ) ;
+
+3 . 3 . 1 . 5 Độ_ẩm môi_trường làm_việc tới 95 % Rh ( không ngưng_tụ nước ) ;
+
+3 . 3 . 1 . 6 Cấp bảo_vệ bằng vỏ ngoài tối_thiểu là Ip20 theo Tcvn 4255 ( iec 60529 : 2011 ) ;
+
+3 . 3 . 1 . 7 Nhiệt_độ môi_trường : Từ - 5 C đến 70 C .
+
+3 . 3 . 2 Mạch giám_sát :
+
+3 . 3 . 2 . 1 Truyền_dẫn trên nền dịch_vụ hiện có của các nhà cung_cấp dịch_vụ di_động theo quy_định của Bộ Thông_tin và Truyền_thông ;
+
+3 . 3 . 2 . 2 Các giao_tiếp truyền nhận được bảo_vệ cách_li không gây ảnh_hưởng tới các thiết_bị khác ;
+
+3 . 3 . 2 . 3 Vật_liệu sử_dụng : các linh_kiện chính đạt chuẩn công_nghiệp đối_với các thiết_bị lắp_đặt trong tủ ngoài_trời ;
+
+3 . 3 . 2 . 4 Độ_ẩm môi_trường đến 95 % rh ( không ngưng_tụ nước ) ;
+
+3 . 3 . 2 . 5 Nhiệt_độ môi_trường : Từ - 5 C đến 70 C .
+
+3 . 3 . 3 Bảng mạch giao_tiếp vào :
+
+3 . 3 . 3 . 1 Số đầu_vào / ra được tích_hợp sẵn : tối_thiểu 8 đầu_vào / 8 đầu_ra ;
+
+3 . 3 . 3 . 2 Các giao_tiếp được bảo_vệ cách_li không gây ảnh_hưởng tới các thiết_bị khác ;
+
+3 . 3 . 3 . 3 Vật_liệu sử_dụng : các linh_kiện chính đạt chuẩn công_nghiệp đối_với các thiết_bị lắp_đặt trong tủ ngoài_trời ;
+
+3 . 3 . 3 . 4 Độ_ẩm môi_trường làm_việc tới 95 % Rh ( không ngưng_tụ nước ) ;
+
+3 . 3 . 3 . 5 Nhiệt_độ môi_trường : Từ - 5 C đến 70 C .
+
+3 . 3 . 4 Bảng mạch giao_tiếp ra :
+
+3 . 3 . 4 . 1 Số đầu_vào / ra được tích_hợp sẵn : tối_thiểu 5 đầu_vào / 10 đầu_ra ;
+
+3 . 3 . 4 . 2 Các giao_tiếp được bảo_vệ không gây ảnh_hưởng tới bộ điều_khiển tín_hiệu đường ngang ;
+
+3 . 3 . 4 . 3 Vật_liệu sử_dụng : các linh_kiện chính đạt chuẩn công_nghiệp đối_với các thiết_bị lắp_đặt trong tủ ngoài_trời ;
+
+3 . 3 . 4 . 4 Độ_ẩm môi_trường làm_việc tới 95 % Rh ( không ngưng_tụ nước ) ;
+
+3 . 3 . 4 . 5 Nhiệt_độ môi_trường : Từ - 5 C đến 70 C .
+
+3 . 3 . 5 Mạch âm_thanh :
+
+3 . 3 . 5 . 1 Số đầu_vào / ra được tích_hợp sẵn : tối_thiểu 1 đầu_vào / 2 đầu_ra giao_tiếp loa nén ;
+
+3 . 3 . 5 . 2 Công_suất âm_thanh điều_chỉnh được trong dải : 80 dB 110 dB ;
+
+3 . 3 . 5 . 3 Mạch âm_thanh được bảo_vệ không gây ảnh_hưởng tới bộ điều_khiển tín_hiệu đường ngang ;
+
+3 . 3 . 5 . 4 Vật_liệu sử_dụng : các linh_kiện chính đạt chuẩn công_nghiệp đối_với các thiết_bị lắp_đặt trong tủ ngoài_trời ;
+
+3 . 3 . 5 . 5 Đồng_hồ thời_gian thực , sai_số lớn nhất : 1 phút / 1 năm ;
+
+3 . 3 . 5 . 6 Có chế_độ hoạt_động tự_động ngày_đêm ;
+
+3 . 3 . 5 . 7 Tự_động kiểm_tra ngắn mạch , đoản_mạch loa ;
+
+3 . 3 . 5 . 8 Chuẩn_truyền_thông : Hỗ_trợ các chuẩn truyền_thông công_nghiệp phù_hợp để kết_nối các thiết_bị ;
+
+3 . 3 . 5 . 9 Độ_ẩm môi_trường làm_việc tới 95 % Rh ( không ngưng_tụ nước ) ;
+
+3 . 3 . 5 . 10 Nhiệt_độ môi_trường : Từ - 5 C đến 70 C .
+
+3 . 3 . 6 Bộ nguồn :
+
+3 . 3 . 6 . 1 Điện_áp vào dải_rộng : ( 170 250 ) Vac 50Hz ; có bảo_vệ chống sét lan_truyền ;
+
+3 . 3 . 6 . 2 Dòng nạp lớn nhất : Inạp 0 , 1 * Dung_lượng acquy ; có bù_nhiệt ; đáp_ứng cho tổ ắc_quy a xít chì có dung_lượng từ 50 Ah tới 100 Ah ;
+
+3 . 3 . 6 . 3 Công_suất tổng của hệ_thống nguồn : Đáp_ứng được công_suất hoạt_động lớn nhất của toàn hệ_thống ;
+
+3 . 3 . 6 . 4 Chế_độ bảo_vệ nguồn : Quá_tải , ngắn mạch , quá áp ;
+
+3 . 3 . 6 . 5 Chế_độ bảo_vệ ắc_quy : xạc xả kiểm_tra dung_lượng bình định_kỳ ;
+
+3 . 3 . 6 . 6 Chế_độ bảo_vệ hệ_thống : Không được phép cách_li nguồn cấp một chiều tới các thiết_bị thông_tin tín_hiệu trong bất_kì tình_huống nào ;
+
+3 . 3 . 6 . 7 Chuẩn_truyền_thông : Hỗ_trợ các chuẩn truyền_thông công_nghiệp phù_hợp để kết_nối các thiết_bị ;
+
+3 . 3 . 6 . 8 Độ_ẩm môi_trường làm_việc : Đến 95 % rh ( không kết_tụ hơi_nước ) ;
+
+3 . 3 . 6 . 9 Nhiệt_độ môi_trường làm_việc : Từ - 5 C đến 70 C .
+
+3 . 3 . 7 Ắc_quy dự_phòng :
+
+3 . 3 . 7 . 1 Lo ai ắc_quy khô , kín khí , không cần bảo_dưỡng ;
+
+3 . 3 . 7 . 2 Vỏ có khả_năng chống cháy ;
+
+3 . 3 . 7 . 3 Tuổi_thọ không dưới 2 năm theo điều_kiện khai_thác của nhà sản_xuất và đáp_ứng yêu_cầu khai_thác bình_thường của hệ_thống ;
+
+3 . 3 . 7 . 4 Phạm_vi nhiệt_độ hoạt_động rộng ;
+
+3 . 3 . 7 . 5 Dung_lượng đảm_bảo khi mất điện xoay chiều thiết_bị cảnh_báo làm_việc : ít_nhất 24 giờ .
+
+3 . 3 . 8 Yêu_cầu về tiêu_chuẩn_hoá và định_hình hoá tủ điều_khiển :
+
+3 . 3 . 8 . 1 Các thiết_bị thành_phần , tấm bảng mạch hoặc cụm phụ_tùng , chi_tiết . . . cấu_thành một tủ điều_khiển có kiểu_dáng công_nghiệp , kích_thước chế_tạo , vị_trí lắp_đặt các linh , phụ_kiện tương_đồng nhau với các tủ khác trên cùng một tuyến đường ;
+
+3 . 3 . 8 . 2 Đảm_bảo tính lắp lẫn , thay_thế trong quản_lý , bảo_trì và giải_quyết trở_ngại hệ_thống Tbpvđn_cbtđ ;
+
+3 . 3 . 8 . 3 Các Chỉ_thị cảnh_báo dễ_dàng cho người vận_hành .
+
+3 . 4 Cáp điều_khiển
+
+3 . 4 . 1 Cáp kết_nối giữa tủ điều_khiển với các cột hiệu và cần chắn :
+
+3 . 4 . 1 . 1 Điện_trở một chiều ở 20 C : 23 , 5 / km ;
+
+3 . 4 . 1 . 2 Điện_trở cách_điện giữa các ruột cáp và cách_điện giữa ruột cáp bất_kì với đất khi đo bằng Mê ga ôm 500 V ( hoặc Mê ga ôm có điện_trở_cao ) : 500 M / km ;
+
+3 . 4 . 1 . 3 Điều_kiện làm_việc :
+
+( 1 ) Nhiệt_độ môi_trường sử_dụng : Từ - 40 C đến 60 C ;
+
+( 2 ) Chôn_trực_tiếp trong đất ;
+
+( 3 ) Bán_kính uốn cong cho phép đối_với cáp có gia cường không nhỏ hơn 15 lần so với đường_kính ngoài của sợi cáp .
+
+3 . 4 . 1 . 4 Cáp phải có tính_năng chống ăn_mòn , chống chấn_động của đường_sắt và cường_độ cơ_khí ổn_định ; có khả_năng chống các loài gặm_nhấm .
+
+3 . 4 . 2 Cáp kết_nối giữa tủ điều_khiển với thiết_bị phát_hiện tàu :
+
+3 . 4 . 2 . 1 Điện_trở một chiều ở 20 C : 23 , 5 / km ;
+
+3 . 4 . 2 . 2 Tiêu_hao xuyên âm đầu gần , tiêu_hao xuyên âm đầu xa và tiêu_hao truyền_dẫn : phù_hợp với yêu_cầu của thiết_bị phát_hiện tàu do nhà sản_xuất quy_định ;
+
+3 . 4 . 2 . 3 Điện_trở cách_điện giữa các ruột cáp và cách_điện giữa ruột cáp bất_kì với đất khi đo bằng Mê ga ôm 500 V ( hoặc Mê ga ôm có điện_trở_cao ) : 1000 M / km ;
+
+3 . 4 . 2 . 4 Điện_trở cách_điện giữa các dây của cáp xoắn và cách_điện giữa ruột cáp bất_kì nào của loại cáp xoắn tổng_hợp với đất khi đo bằng Mê ga ôm điện_trở cao : 3000 M / km ;
+
+3 . 4 . 2 . 5 Phạm_vi sử_dụng : dùng để truyền_dẫn các mạch điện_tín_hiệu đường_sắt , tín_hiệu âm_tần , cao_tần hoặc hệ_thống tự_động với nguồn điện xoay chiều có điện_áp định mức dưới 500 V hoặc nguồn điện một chiều dưới 1 000v ;
+
+3 . 4 . 2 . 6 Điều_kiện làm_việc :
+
+( 1 ) Nhiệt_độ môi_trường sử_dụng : Từ - 40 C đến 60 C ;
+
+( 2 ) Chôn_trực_tiếp trong đất ;
+
+( 3 ) Bán_kính uốn cong cho phép đối_với cáp có gia cường , không nhỏ hơn 15 lần so với đường_kính ngoài của sợi cáp .
+
+3 . 4 . 2 . 7 Cáp phải có tính_năng chống ăn_mòn , chống chấn_động của đường_sắt và cường_độ cơ_khí ổn_định ; có khả_năng chống các loài gặm_nhấm .
+
+3 . 5 Thiết_bị phát_hiện tàu
+
+3 . 5 . 1 Thiết_bị có khả_năng phát_hiện chính_xác các trục toa_xe có vận_tốc từ 0 đến tối_thiểu 120km / h khi qua hoặc dừng trên thiết_bị phát_hiện tàu ;
+
+3 . 5 . 2 Có khả_năng phân_biệt chính_xác bánh tàu với các loại xung_nhiễu , điện từ_trường của môi_trường tại địa_điểm lắp_đặt ; phạm_vi làm_việc ( độ nhạy ) phải đáp_ứng độ hao_mòn trong suốt chu_kì sử_dụng của ray và sự rung lắc không đồng pha của bánh tàu so với ray cơ_bản ;
+
+3 . 5 . 3 Hoạt_động của thiết_bị phát_hiện tàu ổn_định trong điều_kiện môi_trường : nhiệt_độ từ - 40 C đến + 85 C , độ_ẩm đến 100 % rh ( ngưng_tụ nước ) hoặc ngâm trong nước thời_gian đến 60 phút với áp_lực cột nước 8 kPa đạt chuẩn Ip68 ;
+
+3 . 5 . 4 Thiết_bị phát_hiện tàu có thiết_kế vật_lí và bộ gá định_hình để có_thể dễ_dàng lắp_đặt và điều_chỉnh đối_với mọi loại ray , khổ đường mà không gây ảnh_hưởng đến sự vận_hành của đoàn tàu ; kiểm_tra bảo_trì thuận_tiện , thay_thế dễ_dàng ;
+
+3 . 5 . 5 Tần_số làm_việc để hạn_chế can nhiễu trong dải_âm_tần hoặc các thiết_bị điện , điện_tử trên đầu_máy , toa_xe ;
+
+3 . 5 . 6 Sai_số đếm trục < = 10 - 6 ;
+
+3 . 5 . 7 Số trục bánh_xe tối_đa thiết_bị có_thể đếm được : 1024 trục ;
+
+3 . 5 . 8 Có khả_năng chịu được hiệu_ứng sét hỗn_hợp và chống sét lan_truyền ;
+
+3 . 5 . 9 Thiết_bị đáp_ứng các tiêu_chuẩn , điều_kiện tương_thích điện từ theo tiêu_chuẩn quy_định của hệ_thống ;
+
+3 . 5 . 10 Thiết_bị phát_hiện tàu phải được kiểm_nghiệm có dấu niêm_phong của nhà sản_xuất đảm_bảo một sự toàn_vẹn ;
+
+3 . 5 . 11 Thiết_bị phát_hiện tàu được thiết_kế : phù_hợp và làm_việc độc_lập với bất_kì loại tà_vẹt hoặc loại đường_ray nào ; ít bảo_dưỡng , nếu cần bảo_dưỡng và đo kiểm đặc_tính điện khí thì thực_hiện dễ_dàng .
+
+3 . 6 Phần_mềm điều_khiển Tbpvđn_cbtđ
+
+3 . 6 . 1 Yêu_cầu chung
+
+3 . 6 . 1 . 1 Cho phép thực_hiện linh_hoạt các thuật_toán điều_khiển logic , thông_qua các ngôn_ngữ lập_trình được hỗ_trợ để có_thể quét và giám_sát theo vòng_lặp mong_muốn trên miền thời_gian thực , phù_hợp với các trạng_thái của tín_hiệu trên các cổng vào , ra ;
+
+3 . 6 . 1 . 2 Phần_mềm phải được thiết_kế tiêu_chuẩn_hoá và module hoá , dễ_dàng sử_dụng đáp_ứng với yêu_cầu của từng hệ_thống .
+
+3 . 6 . 2 Yêu_cầu về thiết_kế
+
+3 . 6 . 2 . 1 Các mức cảnh_báo :
+
+( 1 ) Mức 1 - Mức cảnh_báo ( phòng_vệ ) đầy_đủ :
+
+Hệ_thống Tbpvđn Cbtđ hoạt_động bình_thường , bao_gồm đèn tín_hiệu cảnh_báo , chuông điện hoặc loa phát_âm_thanh phía đường_bộ và Cctđ ;
+
+( 2 ) Mức 2 - Mức cảnh_báo ( phòng_vệ ) cơ_bản :
+
+Hệ_thống Tbpvđn Cbtđ chỉ có đèn báo_hiệu , chuông cảnh_báo phía đường_bộ hoạt_động ;
+
+( 3 ) Mức 3 - Mức cảnh_báo ( phòng_vệ ) tối_thiểu :
+
+Hệ_thống duy_nhất có cảnh_báo đèn_vàng sáng nháy , người và phương_tiện tham_gia giao_thông trên đường_bộ khi qua đường ngang tuân_thủ quy_định tại Qcvn 41 : 2016 / bgtvt Quy_chuẩn kĩ_thuật quốc_gia về báo_hiệu đường_bộ .
+
+3 . 6 . 2 . 2 Các trở_ngại đối_với từng mức cảnh_báo :
+
+3 . 6 . 2 . 2 . 1 Mức cảnh_báo đầy_đủ ( Mức 1 ) :
+
+( 1 ) Có trở_ngại nhỏ : Mất điện xoay chiều nhưng dung_lượng ác quy dự_phòng vẫn trong phạm_vi cho phép cung_cấp điện cho cần chắn hoạt_động ( đối_với đường ngang có lắp Cctđ ) ;
+
+( 2 ) Hỏng một trong số hai thiết_bị phát_hiện tàu trong cụm thiết_bị phát_hiện tàu đầu xa của khu đoạn đến gần đường ngang hoặc cụm thiết_bị phát_hiện tàu xác_định đoàn tàu 2 bên đường ngang ;
+
+( 3 ) Khi xảy ra trở_ngại như mục a hoặc b nêu trên thì tình_trạng thiết_bị cảnh_báo khi có tàu đến gần đường ngang : Cctđ ( nếu có ) ở vị_trí đóng , đèn_đỏ nháy luân_phiên , chuông điện hoặc loa phát_âm_thanh kêu .
+
+3 . 6 . 2 . 2 . 2 Mức cảnh_báo cơ_bản ( Mức 2 ) :
+
+( 1 ) Trong trường_hợp dung_lượng ác quy dự_phòng tới ngưỡng không đủ khả_năng cấp điện cho Cctđ làm_việc ;
+
+( 2 ) Trong trường_hợp Cctđ bị trở_ngại không hoạt_động được hoặc hoạt_động không đúng với yêu_cầu ;
+
+( 3 ) Khi xảy ra trở_ngại như mục a hoặc mục b nêu trên thì tình_trạng thiết_bị cảnh_báo khi có tàu : Cctđ ( nếu có ) ở vị_trí mở ; đèn_đỏ nháy , chuông điện hoặc loa phát_âm_thanh hoạt_động bình_thường ; đèn_vàng nháy sau khi tàu ra khỏi đường ngang .
+
+3 . 6 . 2 . 2 . 3 Mức cảnh_báo tối_thiểu ( Mức 3 ) :
+
+( 1 ) Khi tàu chạy bất_thường trong khu đoạn đến gần đường ngang hoặc khi nhân_viên kĩ_thuật thực_hiện các tác_nghiệp kiểm_tra , bảo_trì định_kỳ ; đèn_vàng tắt khi đoàn tàu ra khỏi khu đoạn đến gần phía bên kia của đường ngang theo hướng tàu chạy hoặc nhân_viên kĩ_thuật nhấn nút phục_hồi ;
+
+( 2 ) Khi một trong các phần_tử mạch kết_nối của một trong các cụm thiết_bị phát_hiện tàu đầu xa khu đoạn đến gần đường ngang đến đầu_vào bộ điều_khiển tín_hiệu đường ngang hư_hỏng ;
+
+( 3 ) Khi xảy ra trở_ngại như mục a hoặc b nêu trên thì tình_trạng thiết_bị cảnh_báo khi có tàu tới gần đường ngang : Cctđ ( nếu có ) ở vị_trí mở ; đèn_đỏ , chuông điện hoặc loa phát_âm_thanh tắt ; đèn_vàng sáng nhấp_nháy cho đến khi trở_ngại được khắc_phục .
+
+3 . 7 Đèn tín_hiệu , chuông điện , loa phát_âm_thanh
+
+3 . 7 . 1 Yêu_cầu chung
+
+3 . 7 . 1 . 1 Các thiết_bị báo_hiệu phía đường_bộ phải đảm_bảo thông_báo rõ_ràng và kịp_thời trong mọi điều_kiện thời_tiết về trạng_thái đóng đường ngang khi có đoàn tàu chiếm_dụng khu đoạn tới gần ;
+
+3 . 7 . 1 . 2 Khi hệ_thống có trở_ngại không_thể cung_cấp các dịch_vụ cảnh_báo phía đường_bộ như đèn_đỏ nháy luân_phiên , chuông điện , Cctđ trong mọi trường_hợp thì đèn cảnh_báo vàng của cột hiệu 2 phía đường_bộ vào đường ngang phải sáng nhấp_nháy , người và phương_tiện qua đường ngang tự quan_sát về phía đường_sắt để đảm_bảo_an_toàn khi qua đường ngang ; đèn_vàng chỉ tắt khi nhân_viên kĩ_thuật khắc_phục xong trở_ngại sự_cố ; Trường_hợp cột tín_hiệu hư_hỏng hoặc thiết_bị điều_khiển hư_hỏng không cấp tín_hiệu đèn_vàng cảnh_báo được thì phải treo biển thiết_bị hư_hỏng đang sửa_chữa và tổ_chức cảnh_giới ;
+
+3 . 7 . 1 . 3 Đèn tín_hiệu báo cấm qua đường ngang là hai đèn_đỏ đặt ngang nhau trong cụm cơ_cấu 3 biểu_thị đèn ( 2 đèn_đỏ trên , 1 đèn_vàng dưới ) , khi đoàn tàu chiếm_dụng khu đoạn đến gần đường ngang , hai đèn_đỏ luân_phiên_sáng với tần_số từ 30 đến 50 lần / phút ; khi đoàn tàu ra khỏi đường ngang , Cctđ mở , đèn_đỏ nháy tắt , chuông điện tắt hệ_thống Tbpvđn trở về trạng_thái_bình_thường ;
+
+3 . 7 . 1 . 4 Thời_điểm đèn tín_hiệu màu đỏ bật sáng phải đảm_bảo trước lúc tàu đến đường ngang ít_nhất là 60 giây ;
+
+3 . 7 . 1 . 5 Độ sáng và góc phát sáng : Ánh_sáng và góc phát sáng của đèn tín_hiệu phải bảo_đảm để người điều_khiển phương_tiện giao_thông đường_bộ nhìn thấy được tín_hiệu từ khoảng_cách 100 m trở lên , góc quan_sát của các biểu_thị tín_hiệu đường_bộ phải đảm_bảo quan_sát tín_hiệu rõ_ràng là không nhỏ hơn 60 ; Ánh_sáng đỏ của đèn tín_hiệu không được chiếu về phía đường_sắt ;
+
+3 . 7 . 1 . 6 Chuông điện hoặc loa phát_âm_thanh phải làm_việc đồng_bộ với đèn tín_hiệu khi có đoàn tàu chiếm_dụng khu đoạn tới gần đường ngang ; chuông điện hoặc loa phát_âm_thanh tắt ngay sau khi khi tàu ra khỏi đường ngang hoàn_toàn ;
+
+3 . 7 . 1 . 7 Sau từ 7 giây đến 8 giây khi đèn tín_hiệu đỏ nháy sáng luân_phiên , chuông điện hoặc loa phát_âm_thanh kêu thì các đèn nháy trên Cctđ bật sáng , Cctđ hạ xuống đóng đường ngang ; Cctđ phải được đóng hoàn_toàn ( vị_trí nằm ngang ) trước khi đoàn tàu đến đường ngang ít_nhất 40 giây . Đèn trên Cctđ nháy sáng liên_tục từ khi cần chắn đóng cho đến khi cần chắn nâng lên mở_đường ngang thì đèn trên cần chắn tắt ;
+
+3 . 7 . 1 . 8 Sơ_đồ và quy_cách lắp_đặt cột tín_hiệu báo_hiệu đường_bộ theo quy_định tại <TT rel="DC"> Thông_tư số 25/2018/TT-BGTVT ngày 14/05/2018 </TT> của Bộ Giao_thông vận_tải Quy_định về đường ngang và cấp giấy_phép công_trình thiết_yếu trong phạm_vi đất dành cho đường_sắt .
+
+3 . 7 . 2 Cơ_cấu đèn tín_hiệu
+
+3 . 7 . 2 . 1 Cơ_cấu tín_hiệu bao_gồm : Tán che đèn , tấm chiết_quang và hộp đèn . Cơ_cấu tín_hiệu có_thể được chế_tạo bằng kim_loại hoặc vật_liệu tổng_hợp nhưng phải đảm_bảo : Có khả_năng làm_việc bền_bỉ trong điều_kiện thời_tiết nóng ẩm biến_động lớn ; có khả_năng chống han rỉ , lão_hoá cao ; không nứt vỡ , biến_dạng trong suốt thời_gian sử_dụng ;
+
+3 . 7 . 2 . 2 Có kích_thước hình_học chính_xác ; không dò lọt sáng ra ngoài ; đảm_bảo độ bịt kín và ngăn_ngừa xâm_thực bụi , nước ở mức Ip54 ;
+
+3 . 7 . 2 . 3 Được khoá và được lắp chắc_chắn trên bộ gá vào đúng vị_trí quy_định trên thân cột hiệu .
+
+3 . 7 . 2 . 4 Vỉ đèn led :
+
+( 1 ) Sử_dụng Led phát_xạ cao ;
+
+( 2 ) Đáp_ứng tiêu_chuẩn Ip66 về chống nước , chống bụi thâm_nhập ;
+
+( 3 ) Cường_độ sáng tối_thiểu đo cách tâm bảng đèn led là 1 m : Im_in 283 Cd ;
+
+( 4 ) Nhiệt_độ môi_trường làm_việc : từ - 5 C đến 70 C ;
+
+( 5 ) Độ_ẩm môi_trường từ 0 % Rh đến 95 % rh ( không ngưng_tụ nước ) .
+
+3 . 7 . 2 . 5 Kính của cơ_cấu tín_hiệu phía đường_bộ của đường ngang :
+
+( 1 ) Kính phải có_mặt ngoài nhẵn bóng , không bị nứt vỡ ;
+
+( 2 ) Kính không màu , không có bọt khí bên trong để có_thể làm ảnh_hưởng đến độ khúc_xạ của chùm tia sáng hoặc thay_đổi bước_sóng của ánh_sáng biểu_thị .
+
+3 . 7 . 3 Chuông điện :
+
+( 1 ) Tần_số làm_việc của vồ chuông 30 Hz đến 50 Hz ;
+
+( 2 ) Cường_độ âm_thanh 90 dB - đo cách 1 m ;
+
+( 3 ) Nhiệt_độ làm_việc : - 5 C đến 70 C ;
+
+( 4 ) Độ_ẩm môi_trường từ 0 % Rh đến 95 % rh ( không ngưng_tụ nước ) .
+
+3 . 7 . 4 Loa :
+
+( 1 ) Cường_độ âm_thanh 90 dB - đo cách 1 m ;
+
+( 2 ) Tiêu_chuẩn Ip - 65 ;
+
+( 3 ) Nhiệt_độ làm_việc : - 5 C đến 70 C ;
+
+( 4 ) Độ_ẩm môi_trường từ 0 % Rh đến 95 % rh ( không ngưng_tụ nước ) .
+
+3 . 7 . 5 Dây_dẫn lên_đèn , chuông :
+
+( 1 ) Dùng cáp bọc 2 lớp cách_điện_trở lên ; ruột nhiều sợi ; tiết_diện mỗi dây ruột không dưới 1 , 5 mm2 ;
+
+( 2 ) Vỏ bọc cách_điện đồng_đều , không bị rạn_nứt , lão_hoá hoặc trầy_xước lớp cách_điện .
+
+3 . 7 . 6 Biển_báo_hiệu và biển phụ :
+
+( 1 ) Biển 242a , 242b chế_tạo theo quy_định tại Qcvn 41 : 2016 / bgtvt Quy_chuẩn kĩ_thuật quốc_gia về báo_hiệu đường_bộ ;
+
+( 2 ) Biển phụ Dừng lại quan_sát tàu_hoả khi qua đường_sắt chế_tạo bằng thép độ dày không nhỏ hơn 1 , 5 mm , quy_cách , kích_thước biển theo quy_định ;
+
+( 3 ) Các biển_báo sơn phản_quang , không bị bong tróc sơn , han rỉ , cong vênh .
+
+3 . 8 Thiết_bị cần chắn tự_động
+
+3 . 8 . 1 Yêu_cầu chung
+
+3 . 8 . 1 . 1 Trong phạm_vi của hệ_thống Tbpvđn Cbtđ có lắp_đặt Cctđ thì Cctđ phải đặt cách mép ray ngoài cùng tối_thiểu 6 m ; đặt sau cột tín_hiệu phía đường_bộ của đường ngang với khoảng_cách gần nhất ( nếu địa_hình hạn_chế có_thể lắp trên cột tín_hiệu phía đường_bộ của đường ngang nhưng không được vi_phạm khổ giới_hạn tiếp tiếp_giáp kiến_trúc đường_sắt ) ; cần chắn về 2 phía của đường_bộ phải đóng hoàn_toàn trước khi tàu đến đường ngang ít_nhất 40 giây ;
+
+3 . 8 . 1 . 2 Động_cơ cần chắn sử_dụng điện một chiều 24 V hoặc điện xoay chiều 1 pha 220 V . Cần chắn tự_động được cung_cấp nguồn và được giám_sát từ tủ đường ngang cảnh_báo tự_động ; có khả_năng điều_chỉnh tốc_độ ; có giảm_tốc cuối các quá_trình vận_hành phù_hợp với nguyên_lí hoạt_động ;
+
+3 . 8 . 1 . 3 Cần chắn tự_động phải đảm_bảo có cơ_cấu bảo_vệ an_toàn khi gặp vật cản hoặc ngoại_lực tác_động ở bất thời_điểm nào trong quá_trình vận_hành ;
+
+3 . 8 . 1 . 4 Có hệ_thống tiếp_điểm hành_trình tương_ứng với các vị_trí đóng , mở hoàn_toàn cần chắn ; cọc đấu dây có kết_cấu chắc_chắn , đấu phối dây phục_vụ sửa_chữa , thay_thế dễ_dàng không bị sai_sót ;
+
+3 . 8 . 1 . 5 Động_cơ cần chắn , các tấm bảng mạch điều_khiển , cụm tiếp_điểm , cọc đấu dây được lắp_đặt , bảo_vệ trong hộp bảo_vệ và gia_cố chắc_chắn ; hộp kim_loại bảo_vệ động_cơ , có độ phòng_ngừa xâm_thực bụi , nước ít_nhất đạt chuẩn Ip54 ; lắp_đặt , thay_thế , vận_chuyển dễ_dàng ;
+
+3 . 8 . 1 . 6 Cần chắn được chế_tạo bằng vật_liệu tổng_hợp hoặc kim_loại nhẹ có độ bền cao và chắc_chắn , chịu được tác_động va_đập và có hình_dạng hình_học phù_hợp để giảm sức cản gió và phù_hợp với điều_kiện khí_hậu ; cần chắn được sơn ( hoặc dán ) phản_quang với các dải_mầu đỏ và mầu trắng xen_kẽ nhau , nghiêng sang phải theo phương nằm ngang một góc từ 45 đến 50 ; chiều rộng của các dải_sọc ( trắng / đỏ ) theo quy_định tại Qcvn 41 : 2016 / bgtvt Quy_chuẩn kĩ_thuật quốc_gia về báo_hiệu đường_bộ ;
+
+3 . 8 . 1 . 7 Trên cần chắn được lắp các đèn nháy khoảng_cách phân_bổ đều nhau , đèn nháy ngoài cùng cách đầu cần 150 mm ; cần chắn có chiều dài 5 m bố_trí 2 đèn nháy , cần có chiều dài > 5 m bố_trí ít_nhất 3 đèn nháy ; cao_độ cần chắn tính từ mặt_đường_bộ trong khoảng 1 , 0 m đến 1 , 2 m ;
+
+3 . 8 . 1 . 8 Đối_với đường hỗn_hợp cần chắn chỉ đóng 1/2 hoặc 2/3 mặt_đường_bộ ; phần đường_bộ còn lại ( không có cần chắn ) phải rộng ít_nhất 3 m và ở bên trái của chiều xe chạy vào đường ngang ;
+
+3 . 8 . 1 . 9 Có_thể điều_khiển đóng , mở cần chắn bằng điện hoặc bằng tay ; có cơ_chế khoá bằng điện hoặc cơ_khí để khoá cần chắn ở các vị_trí thích_hợp để thực_hiện việc bảo_dưỡng hoặc thay_thế cần chắn khi bị hư_hỏng ;
+
+3 . 8 . 1 . 10 Thiết_bị đáp_ứng các tiêu_chuẩn , điều_kiện tương_thích điện từ theo tiêu_chuẩn quy_định của hệ_thống .
+
+3 . 8 . 2 Tiêu_chuẩn kĩ_thuật chi_tiết
+
+3 . 8 . 2 . 1 Nhiệt_độ môi_trường làm_việc : - 5 C đến 70 C ;
+
+3 . 8 . 2 . 2 Độ_ẩm môi_trường làm_việc : Từ 0 % rh đến 9 5 % rh ( không đọng nước ) ;
+
+3 . 8 . 2 . 3 Thời_gian mở chắn : Không quá 12 giây ;
+
+3 . 8 . 2 . 4 Thời_gian đóng chắn : Không quá 12 giây ;
+
+3 . 8 . 2 . 5 Độ toàn_vẹn an_toàn : Sil 3 hoặc Sil 4 .
+
+3 . 9 Camera giám_sát Tbpvđn_cbtđ
+
+3 . 9 . 1 Tại mỗi đường ngang Cbtđ lắp_đặt 02 Camera trên các cột báo_hiệu phía đường_bộ hai hướng đi vào đường ngang , đảm_bảo quan_sát rõ được toàn_bộ khu_vực đường ngang ;
+
+3 . 9 . 2 Các camera được kết_nối với thiết_bị giám_sát tập_trung qua mạng không dây hoặc có dây ; tốc_độ truyền_dẫn tối_thiểu : 384 kbps ;
+
+3 . 9 . 3 Yêu_cầu kĩ_thuật đối_với camera :
+
+( 1 ) Camera Ip lắp_đặt ngoài_trời , có khả_năng chịu được các tác_động môi_trường ( bụi , ẩm , nhiệt_độ ) ; quan_sát được cả ngày và đêm ;
+
+( 2 ) Cho phép lưu_trữ dữ_liệu ít_nhất 48 h ;
+
+( 3 ) Chuẩn_nén hình_ảnh : H264 / Mjpeg / H264 + ;
+
+( 4 ) Tốc_độ khung hình : tối_thiểu 24 fps ;
+
+( 5 ) Độ phân_giải : tối_thiểu Hd ;
+
+( 6 ) Tầm quang hồng_ngoại : 15 m ;
+
+( 7 ) Tiêu_chuẩn chống nước , bụi : tối_thiểu đạt mức Ip66 ;
+
+( 8 ) Nguồn điện : 12 Vdc / 24 Vdc 10 % .
+
+3 . 10 Hệ_thống_thiết_bị giám_sát tập_trung
+
+3 . 10 . 1 Yêu_cầu về phần_cứng
+
+3 . 10 . 1 . 1 Máy_chủ : có cấu_hình đáp_ứng_đối_với các phần_mềm cơ_sở phục_vụ cho chức_năng giám_sát hệ_thống ; có khả_năng đáp_ứng giám_sát tối_thiểu 300 hệ_thống Tbpvđn trên một máy_chủ giám_sát ; linh_hoạt trong khai_báo mở_rộng các loại_hình Tbpvđn ; Khả_năng lưu_trữ Csdl của toàn_bộ hệ_thống Tbpvđn Cbtđ trên máy_chủ trung_tâm giám_sát ít_nhất là 30 ngày ; dự_phòng nóng 1 + 1 ;
+
+3 . 10 . 1 . 2 Khả_năng lưu_trữ Csdl của toàn_bộ hệ_thống Tbpvđn Cbtđ trên máy_chủ trung_tâm giám_sát ít_nhất là 30 ngày ; định_kì tiến_hành tự_động sao lưu Csdl hệ_thống ;
+
+3 . 10 . 1 . 3 Tốc_độ của đường truyền_dẫn kết_nối giữa trung_tâm giám_sát với thiết_bị giám_sát tại đường ngang : 30 Mbps , có dự_phòng để đảm_bảo hoạt_động liên_tục .
+
+3 . 10 . 2 Yêu_cầu về hệ_thống phần_mềm :
+
+3 . 10 . 2 . 1 Phân hệ truyền_thông :
+
+( 1 ) Thực_hiện giao_tiếp truyền_thông với các thiết_bị giám_sát đặt tại tủ thông_tin Tbpvđn ;
+
+( 2 ) Xác_thực và xử_lí dữ_liệu thô ;
+
+( 3 ) Bảo_mật truyền_thông với máy_chủ Csdl .
+
+3 . 10 . 2 . 2 Phân hệ Csdl & máy_chủ dịch_vụ Web :
+
+( 1 ) Khai_báo thông_tin đường ngang , giá_trị đầu đo ; thiết_lập ngưỡng cảnh_báo ;
+
+( 2 ) Khai_báo thông_tin người dùng và phân_cấp chức_năng điều_hành ; giao đường ngang cho người trực ; cung_cấp công_cụ điều_hành xử_lí kiểm_tra trực_tiếp công_việc từ xa ;
+
+( 3 ) Lưu_trữ , quản_lí và khai_thác dữ_liệu thông_tin đường ngang ;
+
+( 4 ) Báo_cáo thống_kê .
+
+3 . 10 . 2 . 3 Phân hệ ứng_dụng :
+
+( 1 ) Cung_cấp công_cụ giám_sát và cảnh_báo theo quyền_hạn người sử_dụng ;
+
+( 2 ) Cung_cấp công_cụ truy_xuất thông_tin , tổng_hợp dữ_liệu trực_tuyến .
+
+3 . 10 . 2 . 4 Dễ_dàng lựa_chọn phương_thức truyền_thông sẵn có : mạng vô_tuyến ( gprs ) hay hữu_tuyến ( cáp_quang , đồng ) ; bảo_mật dữ_liệu trong quá_trình truyền_thông ;
+
+3 . 10 . 2 . 5 Tổ_chức Csdl phục_vụ công_tác tra_cứu thống_kê , đánh_giá chất_lượng theo thời_gian , lên kế_hoạch kiểm_tra duy_tu bảo_dưỡng ;
+
+3 . 10 . 2 . 6 Phân_quyền giám_sát , quản_lý , điều_khiển và cảnh_báo .
+
+3 . 10 . 3 Lưu_đồ xử_lí dữ_liệu
+
+3 . 10 . 3 . 1 Dữ_liệu từ thiết_bị giám_sát đến máy_chủ :
+
+( 1 ) Bản tin truyền_thông : Được gửi từ các thiết_bị giám_sát đến phân hệ truyền_thông tại đường ngang để truyền về trung_tâm ;
+
+( 2 ) Xác_thực : Tính hợp_lệ của bản tin truyền ;
+
+( 3 ) Tách dữ_liệu : Định_dạng theo cấu_trúc và lưu_trữ tạm_thời bản tin nhận ;
+
+( 4 ) Xử_lí dữ_liệu : Xử_lí thông_tin dựa trên các dữ_liệu đầu_vào đã được định_dạng và đưa ra kết_quả xử_lí bản tin ;
+
+( 5 ) Xử_lí_sự_cố : Tự_động đưa ra các cảnh_báo khi hệ_thống có trở_ngại , sự_cố ;
+
+( 6 ) Lưu_trữ kết_quả : Lưu_trữ kết_quả vào Csdl hệ_thống giám_sát .
+
+3 . 10 . 3 . 2 Dữ_liệu từ máy_chủ đến thiết_bị giám_sát :
+
+( 1 ) Lệnh điều_khiển : Được truyền từ người dùng đến phân hệ truyền_thông ;
+
+( 2 ) Xác_thực : xác_định_tính hợp_lệ của lệnh điều_khiển ;
+
+( 3 ) Chuẩn_hoá dữ_liệu : đưa tập lệnh về định_dạng có cấu_trúc ;
+
+( 4 ) Đóng_gói bản tin : Bảo_mật_mã_hoá bản tin truyền ;
+
+( 5 ) Truyền tin : truyền lệnh điều_khiển tời thiết_bị giám_sát ;
+
+( 6 ) Xác_nhận : Trạng_thái thực_thi lệnh tới thiết_bị giám_sát ;
+
+( 7 ) Kết_quả : Lưu_trữ quá_trình thực_hiện vào cơ_sở dữ_liệu .
+
+3 . 10 . 4 Yêu_cầu về chức_năng giám_sát cảnh_báo , quản_lí điều_hành
+
+3 . 10 . 4 . 1 Yêu_cầu giám_sát Tbpvđn Cbtđ :
+
+( 1 ) Đối_tượng và yêu_cầu giám_sát về điều_kiện môi_trường hoạt_động và nguồn điện : quy_định tại Bảng 1
+
+Bảng 1 : Đối_tượng và yêu_cầu giám_sát về điều_kiện môi_trường và nguồn điện
+
+( 2 ) Đối_tượng và yêu_cầu giám_sát về trạng_thái hoạt_động khi có tàu qua đường ngang : quy_định tại Bảng 2
+
+Bảng 2 : Đối_tượng và yêu_cầu giám_sát về trạng_thái hoạt_động khi có tàu qua đường ngang .
+
+( 3 ) Đối_tượng và yêu_cầu giám_sát về thông_số tín_hiệu trạng_thái tĩnh ( không có tàu qua đường ngang ) được thực_hiện đo kiểm tự_động truyền về máy_chủ theo chu_kì và có_thể thực_hiện kiểm_tra tức_thời theo lệnh được thực_hiện bởi nhân_viên điều_hành được phân_quyền : quy_định tại Bảng 3
+
+Bảng 3 : Đối_tượng và yêu_cầu giám_sát về thông_số tín_hiệu trạng_thái_tĩnh
+
+3 . 10 . 4 . 2 Chức_năng Giám_sát cảnh_báo , phân_quyền quản_lý , điều_khiển .
+
+3 . 10 . 4 . 2 . 1 Giám_sát cảnh_báo :
+
+( 1 ) Thu_thập và hiển_thị trạng_thái trực_tuyến các giá_trị đo kiểm ;
+
+( 2 ) Cho phép thực_hiện thiết_lập ngưỡng cảnh_báo tuỳ biến cho các đầu đo ;
+
+( 3 ) Lưu lịch_sử các sự_kiện ;
+
+( 4 ) Cho phép thực_hiện việc giao giám_sát cảnh_báo giữa các ban trực_hệ_thống .
+
+3 . 10 . 4 . 2 . 2 Phân_quyền quản_lý , điều_hành :
+
+( 1 ) Tổ_chức phân_cấp từ nhân_viên tới các cấp lãnh_đạo trong mô_hình quản_lý ; có phân_cấp theo theo khu_vực ; và khả_năng mở_rộng cấp giám_sát tập_trung toàn mạng đường_sắt quốc_gia ;
+
+( 2 ) Có chức_năng điều_khiển từ người dùng được phân_quyền , lệnh sẽ được truyền tới phân hệ truyền_thông rồi đưa tới các đối_tượng giám_sát ;
+
+( 3 ) Có khả_năng điều_khiển cưỡng_bức đảm_bảo_an_toàn trong trường_hợp hệ_thống Tbpvđn Cbtđ gặp trở_ngại nghiêm_trọng ;
+
+( 4 ) Có khả_năng thực_hiện đo kiểm dung_lượng ắc_quy báo_cáo số_liệu về trung_tâm - với bộ nguồn theo chuẩn truyền_thông công_nghiệp phù_hợp ;
+
+( 5 ) Có khả_năng kiểm_soát trạng_thái hoạt_động chuông điện , điều_chỉnh âm_lượng , chế_độ ngày_đêm , đồng_bộ thời_gian - với bộ chuông điện hoặc loa phát_âm_thanh theo chuẩn truyền_thông công_nghiệp phù_hợp ;
+
+3 . 10 . 4 . 2 . 3 Khuyến_khích Cung_cấp ứng_dụng mở_rộng trên điện_thoại thông_minh hoặc máy_tính bảng để hỗ_trợ việc cảnh_báo , điều_hành xử_lí trở_ngại hệ_thống Tbpvđn trực_tuyến ;
+
+3 . 10 . 4 . 2 . 4 Báo_cáo : Kết_xuất các dữ_liệu giám_sát , phục_vụ phân_tích , đánh_giá độ ổn_định , trở_ngại của hệ_thống Tbpvđn Cbtđ theo yêu_cầu ;
+
+3 . 10 . 4 . 3 Sai_số cho phép của các giá_trị đo kiểm 5 % ; cho phép hiệu chuẩn bằng công_cụ phần_mềm .
+
+3 . 11 Tiếp đất và bảo_vệ .
+
+3 . 11 . 1 Các thiết_bị của hệ_thống Tbpvđn phải được tiếp đất bảo_vệ ;
+
+3 . 11 . 2 Dây_đất dùng để bảo_vệ an_toàn cho thiết_bị điện_tử và điện_trở_tiếp đất phải phù_hợp với tiêu_chuẩn Tcvn 4756 : 1989 Quy_phạm nối đất và nối không các thiết_bị điện và Tcvn 8071 : 2009 Công_trình viễn_thông - Quy_tắc thực_hành chống sét và tiếp đất . Quan_trắc , kiểm_tra và bảo_trì .
+
+4 . Quan_trắc , kiểm_tra và bảo_trì
+
+4 . 1 Nguyên_tắc chung
+
+4 . 1 . 1 Việc quan_trắc , bảo_trì hệ_thống Tbpvđn Cbtđ phải được tiến_hành đúng định_kì và ghi_chép theo mẫu ;
+
+4 . 1 . 2 Thực_hiện các công_việc quan_trắc , kiểm_tra , quản_lý , bảo_trì phải tiến_hành theo quy_trình , với đầy_đủ nội_dung công_việc ; kết_quả quan_trắc , bảo_trì , sửa_chữa thay_thế phải được ghi_chép và lưu chữ như một phần của hồ_sơ quản_lý , bảo_trì theo quy_định ;
+
+4 . 1 . 3 Việc quan_trắc , kiểm_tra , bảo_trì theo định_kì tuần , tháng hoặc sau xây_dựng mới , cải_tạo , nâng_cấp , sửa_chữa_lớn do công_nhân kĩ_thuật chuyên_ngành thực_hiện ; kết_quả quan_trắc , đo kiểm , bảo_trì được ghi vào Sổ kiểm_tra , bảo_trì hệ_thống tự_động phòng_vệ đường ngang ;
+
+4 . 1 . 4 Việc quan_trắc , đo kiểm và hiệu_chỉnh các tiêu_chuẩn điện khí , mạch giám_sát điều_khiển đối_với hệ_thống Tbpvđn Cbtđ theo chế_độ định_kì năm hoặc đo kiểm hiệu_chỉnh sau xây_lắp , cải_tạo nâng_cấp , sửa_chữa_lớn , sau khôi_phục tai_nạn phải do cán_bộ kĩ_thuật chuyên_ngành thực_hiện .
+
+4 . 2 Nghiệm_thu , chạy thử sau xây_dựng hoặc sửa_chữa_lớn
+
+4 . 2 . 1 Khi xây_dựng mới hoặc cải_tạo , nâng_cấp , thiết_bị Tbpvđn Cbtđ phải được vận_hành thử tổng_thể và phải được kiểm_tra các tính_năng , thông_số kĩ_thuật trước khi đưa vào sử_dụng theo chế_độ tăng_cường ít_nhất trong vòng 240 giờ ;
+
+4 . 2 . 2 Các hệ_thống Tbpvđn Cbtđ có lắp_đặt bổ_sung Cctđ trước khi đưa vào sử_dụng phải được kiểm_tra chạy thử , kiểm_tra các tính_năng , thông_số kĩ_thuật theo chế_độ tăng_cường ít_nhất trong vòng 120 giờ . Trong thời_gian theo_dõi kiểm_tra chạy thử phải ghi_chép số_liệu hoạt_động của hệ_thống với tất_cả các chuyến tàu chạy qua đường ngang ;
+
+4 . 2 . 3 Thiết_bị Tbpvđn Cbtđ sau khi xảy ra tai_nạn giao_thông hoặc đình_chỉ sử_dụng lâu ngày_trước khi đưa trở_lại hoạt_động và bảo_trì theo chế_độ định_kì phải tiến_hành kiểm_tra , thử hoạt_động , giám_sát các thông_số kĩ_thuật , tính_năng chính theo chế_độ tăng_cường ít_nhất trong vòng 48 giờ .
+
+4 . 3 Quan_trắc , kiểm_tra và bảo_trì định_kì
+
+4 . 3 . 1 Kiểm_tra ngày : 1 lần / ngày
+
+( 1 ) Sự toàn_vẹn của hệ_thống_thiết_bị ;
+
+( 2 ) Hành_lang an_toàn giao_thông đường_sắt thuộc phạm_vi đường ngang ;
+
+( 3 ) Vị_trí các biển_báo , hướng và tầm nhìn của các đèn báo_hiệu phía đường_bộ của đường ngang và xử_lí nhanh các vi_phạm ( nếu có ) ;
+
+( 4 ) Thử các chức_năng cảnh_báo chính của hệ_thống ;
+
+( 5 ) Ghi_chép kết_quả vào_sổ kiểm_tra duy_tu .
+
+4 . 3 . 2 Kiểm_tra , bảo_trì tháng : 1 lần / tháng ( trừ các tháng 6 , 12 ) : quy_định tại Bảng 4
+
+Bảng 4 : Hạng_mục và nội_dung kiểm_tra , bảo_trì
+
+4 . 3 . 3 Kiểm_tra , quan_trắc , bảo_trì năm ( 2 lần / năm ) :
+
+4 . 3 . 3 . 1 Mỗi năm tiến_hành 2 lần : Lần thứ nhất ( tháng 6 ) ; lần thứ hai ( tháng 12 ) .
+
+4 . 3 . 3 . 2 Nội_dung , quy_trình thực_hiện tương_tự như kiểm_tra , bảo_dưỡng tháng ; ngoài_ra thực_hiện một_số công_việc sau :
+
+( 1 ) Điều_chỉnh sai_lệch , khắc_phục sự suy_giảm các chỉ tiêu chất_lượng điện khí của những cụm thiết_bị thành_phần_phụ_tùng chi_tiết , như : thiết_bị phát_hiện tàu ; Bảng mạch giao_tiếp vào ra ; Cctđ ; Bảng mạch giám_sát ; thiết_bị cung_cấp nguồn ; cáp tín_hiệu , điều_khiển ;
+
+( 2 ) Đo , kiểm_tra tại đường ngang ; tốc_độ truy_cập , tải xuống / tải lên ; các thông_số thuộc nhóm các đối_tượng giám_sát ( điện , môi_trường ) ; đối_với thiết_bị phát_hiện tàu : ít_nhất 6 tháng / 1 lần ;
+
+( 3 ) Phối_hợp với quản_trị mạng thiết_bị giám_sát tập_trung tiến_hành hiệu_chỉnh các thông_số điện khí mạch truyền_thông ; vị_trí vật_lí các thiết_bị phát_hiện tàu của phép đo calid , các ngưỡng giám_sát so_sánh với kết_quả_thực_tế để đảm_bảo sai_số trong phạm_vi cho phép ;
+
+( 4 ) Kiểm_tra điều_chỉnh phần_mềm của hệ_thống điều_khiển ( chính , phụ ) bằng thiết_bị chuyên_dùng cầm tay hoặc máy_tính ;
+
+( 5 ) Thay_thế những bộ_phận thiết_bị , phụ_tùng , chi_tiết cấu_thành hệ_thống mà không_thể sửa_chữa , khắc_phục suy_giảm chỉ_tiêu điện khí hoặc có nguy_cơ đe_doạ đến sự làm_việc ổn_định , an_toàn của hệ_thống ;
+
+( 6 ) Kiểm_tra tiếp đất và điện_trở_tiếp đất toàn hệ_thống theo quy_định về bảo_trì , nghiệm_thu thiết_bị tín_hiệu đường_sắt .
+
+4 . 3 Kết_xuất , báo_cáo và sao lưu
+
+4 . 4 . 1 Định_kì vào ngày 20 hàng tháng tiến_hành kết xuất dữ_liệu , in_ấn các báo_cáo hoạt_động của toàn_bộ hệ_thống Tbpvđn_cbtđ trong phạm_vi quản_lý ;
+
+4 . 4 . 2 Sao lưu dữ_liệu liên_quan đến hoạt_động của toàn_bộ hệ_thống Tbpvđn Cbtđ phục_vụ truy vấn , đánh_giá , xây_dựng các quy_định về quản_lý , bảo_trì theo Rams hoặc đầu_tư sửa_chữa_lớn , nâng_cấp hệ_thống hoặc đề_nghị cấp có thẩm_quyền Quyết_định việc chuyển_đổi phương_thức Tbpvđn phù_hợp với quy_định của pháp_luật ;
+
+4 . 4 . 3 Quản_lý , lưu_trữ dữ_liệu liên_quan đến hoạt_động của hệ_thống Tbpvđn Cbtđ như một tài_liệu kĩ_thuật về quản_lý , bảo_trì kết_cấu_hạ_tầng đường_sắt quốc_gia .
+
+5 . Quy_định về quản_lí
+
+5 . 1 Các thiết_bị cấu_thành hệ_thống Tbpvđn Cbtđ phải được công_bố phù_hợp Quy_chuẩn này theo phương_thức 1 Thử_nghiệm mẫu điển_hình quy_định tại <TT rel="DC"> Thông_tư số 28/2012/TT-BKHCN ngày 12/12/2012 </TT> của Bộ Khoa_học và Công_nghệ quy_định về công_bố hợp chuẩn , công_bố hợp quy và phương_thức đánh_giá sự phù_hợp với tiêu_chuẩn , quy_chuẩn kĩ_thuật và <TT rel="DC"> Thông_tư số 02/2017/TT-BKHCN ngày 31/3/2017 </TT> của Bộ Khoa_học và Công_nghệ sửa_đổi , bổ_sung một_số điều của <TT rel="DC"> Thông_tư số 28/2012/TT-BKHCN ngày 12/12/2012 </TT> của Bộ Khoa_học và Công_nghệ quy_định về công_bố hợp chuẩn , công_bố hợp quy và phương_thức đánh_giá sự phù_hợp với tiêu_chuẩn , quy_chuẩn kĩ_thuật ;
+
+5 . 2 Cục Đường_sắt Việt_nam là cơ_quan thực_hiện việc tiếp_nhận hồ_sơ công_bố hợp quy theo quy_định của pháp_luật .
+
+5 . 3 Đối_với đường ngang biển_báo và đường ngang Cbtđ hiện có mà chưa đảm_bảo yêu_cầu nêu trong quy_chuẩn này , khi cải_tạo , nâng_cấp chủ đầu_tư dự_án phải thực_hiện các yêu_cầu kĩ_thuật tại Quy_chuẩn này . Trong thời_gian chưa thực_hiện cải_tạo , nâng_cấp phải tăng_cường kiểm_tra và có biện_pháp_bảo_đảm an_toàn giao_thông cho người và phương_tiện giao_thông_qua đường ngang .
+
+6 . Tổ_chức thực_hiện
+
+6 . 1 Thủ_trưởng các tổ_chức liên_quan có trách_nhiệm phổ_biến Quy_chuẩn này đến các đơn_vị liên_quan và các nhân_viên dưới quyền để thực_hiện ;
+
+6 . 2 Trong quá_trình thực_hiện có khó_khăn , vướng_mắc các đơn_vị báo_cáo doanh_nghiệp kinh_doanh kết_cấu_hạ_tầng đường_sắt , chủ sở_hữu đường_sắt chuyên_dùng có nối ray với đường_sắt quốc_gia , tổng_hợp gửi Cục Đường_sắt Việt_nam , Bộ Giao_thông vận_tải để giải_quyết ;
+
+6 . 3 Cục_trưởng Cục Đường_sắt Việt_nam chủ_trì , phối_hợp với các cơ_quan có liên_quan kiểm_tra việc thực_hiện Quy_chuẩn này . / .
+
+Mục_lục
+
+Lời_nói_đầu
+
+1 . Quy_định chung
+
+1 . 1 Phạm_vi điều_chỉnh
+
+1 . 2 Đối_tượng áp_dụng
+
+1 . 3 Tài_liệu viện_dẫn
+
+1 . 4 Giải_thích từ_ngữ
+
+1 . 5 Những chữ_viết tắt
+
+2 . Yêu_cầu chung
+
+3 . Quy_định kĩ_thuật chi_tiết
+
+3 . 1 Khung vỏ tủ điều_khiển
+
+3 . 2 Nguyên_tắc đấu phối dây hệ_thống
+
+3 . 3 Các yêu_cầu_tiêu_chuẩn điện khí chính của tủ điều_khiển
+
+3 . 4 Cáp điều_khiển
+
+3 . 5 Thiết_bị phát_hiện tàu
+
+3 . 6 Phần_mềm điều_khiển Tbpvđn_cbtđ
+
+3 . 7 Đèn tín_hiệu , chuông điện , loa phát_âm_thanh
+
+3 . 8 Thiết_bị cần chắn tự_động
+
+3 . 9 Camera giám_sát Tbpvđn_cbtđ
+
+3 . 10 Hệ_thống_thiết_bị giám_sát tập_trung
+
+3 . 11 Tiếp đất và bảo_vệ
+
+4 . Quan_trắc , kiểm_tra và bảo_trì
+
+4 . 1 Nguyên_tắc chung
+
+4 . 2 Nghiệm_thu , chạy thử sau xây_dựng hoặc sửa_chữa_lớn
+
+4 . 3 Quan_trắc , kiểm_tra và bảo_trì định_kì
+
+4 . 4 Kết_xuất , báo_cáo và sao lưu
+
+5 . Quy_định về quản_lí
+
+6 . Tổ_chức thực_hiện

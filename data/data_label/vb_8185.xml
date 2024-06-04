@@ -1,0 +1,321 @@
+Thông_tư số 27/2017/tt-btttt ngày 20 tháng 10 năm 2017 của bộ thông_tin và truyền_thông
+
+Bộ_trưởng Bộ Thông_tin Và Truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật An_toàn thông_tin mạng ngày 19 tháng 11 năm 2015 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 </NĐ> của Chính_phủ về Ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 </NĐ> của Chính_phủ Quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <LT rel="None"> Luật Viễn_thông , <NĐ rel="None"> Nghị_định số 81/2016/NĐ-CP ngày 01 tháng 7 năm 2017 </NĐ> </LT> của Chính_phủ về sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <LT rel="None"> Luật Viễn_thông và <NĐ rel="None"> Nghị_định số 49/2017/NĐ-CP ngày 24/4/2017 </NĐ> </LT> của Chính_phủ sửa_đổi , bổ_sung Điều 15 của <NĐ rel="None"> Nghị_định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <LT rel="None"> Luật viễn_thông và Điều 30 của <NĐ rel="None"> Nghị_định số 174/2013/NĐ-CP ngày 13 tháng 11 năm 2013 </NĐ> </LT> của Chính_phủ quy_định xử_phạt vi_phạm hành_chính trong lĩnh_vực bưu_chính , viễn_thông , công_nghệ thông_tin và tần_số vô_tuyến_điện ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 </NĐ> của Chính_phủ về bảo_đảm an_toàn Hệ_thống thông_tin theo cấp_độ ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Cục_trưởng Cục Bưu_điện Trung_ương ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành <TT rel="None"> Thông_tư quy_định về quản_lý , vận_hành </TT> , kết_nối , sử_dụng và bảo_đảm an_toàn thông_tin trên mạng truyền số_liệu chuyên_dùng của các cơ_quan Đảng , Nhà_nước .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về quản_lý , vận_hành , kết_nối , sử_dụng và bảo_đảm an_toàn thông_tin trên mạng truyền số_liệu chuyên_dùng của các cơ_quan Đảng , Nhà_nước .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Các tổ_chức , cá_nhân tham_gia quản_lý , vận_hành , kết_nối và sử_dụng mạng truyền số_liệu chuyên_dùng của các cơ_quan Đảng , Nhà_nước .
+
+2 . Các đơn_vị chuyên_trách công_nghệ thông_tin của các cơ_quan Đảng , Nhà_nước tại Trung_ương , Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Mạng_truyền số_liệu chuyên_dùng của các cơ_quan Đảng , Nhà_nước là hệ_thống thông_tin quan_trọng quốc_gia , được sử_dụng riêng trong hoạt_động truyền số_liệu và ứng_dụng công_nghệ thông_tin của các cơ_quan Đảng , Nhà_nước ( sau đây gọi là mạng truyền số_liệu chuyên_dùng và viết tắt là mạng Tslcd ) do Cục Bưu_điện Trung_ương là chủ mạng , quản_lý , điều_hành hoạt_động của Mạng .
+
+2 . Mạng Tslcd cấp I
+
+Là phân hệ của mạng Tslcd kết_nối tới các thiết_bị đầu_cuối tại Văn_phòng Trung_ương Đảng , Văn_phòng Chính_phủ , Văn_phòng Chủ_tịch nước , Văn_phòng Quốc_hội , các Bộ , Ban , ngành và các cơ_quan tương_đương trực_thuộc Trung_ương , Tỉnh_uỷ / Thành_uỷ , Hội_đồng nhân_dân , Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương do Cục Bưu_điện Trung_ương cung_cấp , quản_lý , vận_hành và khai_thác .
+
+3 . Mạng Tslcd cấp Ii
+
+Là phân hệ của mạng Tslcd kết_nối tới các thiết_bị đầu_cuối tại các cơ_quan cấp huyện bao_gồm Quận / Huyện / Thị_uỷ , Hội_đồng nhân_dân , Ủy_ban nhân_dân Quận / Huyện ; các cơ_quan cấp xã bao_gồm Đảng_uỷ xã / phường , các cơ_quan tương_đương cấp xã / phường do doanh_nghiệp viễn_thông cung_cấp , quản_lý , vận_hành và khai_thác trên địa_bàn .
+
+4 . Đơn_vị sử_dụng mạng Tslcd là các cơ_quan Đảng , Nhà_nước tại Trung_ương và địa_phương có điểm kết_nối vào mạng Tslcd .
+
+5 . Dịch_vụ truy_nhập Internet quy_định tại Thông_tư này được hiểu là Internet chuyên_dùng qua cổng kết_nối Internet của mạng Tslcd để phục_vụ các ứng_dụng chỉ_đạo , quản_lý , điều_hành của các cơ_quan Đảng , Nhà_nước trên mạng TSLCD . Bổ_sung
+
+Chương_ii
+
+Quản_lý Và Vận_hành Mạng_tslcd
+
+Điều 4 . Nguyên_tắc quản_lý , vận_hành mạng Tslcd
+
+1 . Quản_lý , vận_hành mạng Tslcd phải bảo_đảm khai_thác hiệu_quả tài_nguyên mạng và nâng cao chất_lượng ứng_dụng công_nghệ thông_tin trong hoạt_động của các cơ_quan Đảng , Nhà_nước .
+
+2 . Mạng_tslcd được quản_lý , vận_hành tập_trung , thống_nhất ; được rà_soát kiểm_tra , đánh_giá định_kì hoặc đột_xuất để bảo_đảm an_toàn , bảo_mật và tính sẵn_sàng cao trong quá_trình vận_hành và sử_dụng .
+
+3 . Mạng_tslcd phải bảo_đảm thông_tin liên_lạc thông_suốt , liên_tục ( 24 giờ / ngày và 7 ngày / tuần ) .
+
+Điều 5 . Danh_mục dịch_vụ cung_cấp trên mạng Tslcd
+
+1 . Dịch_vụ cơ_bản
+
+a ) Dịch_vụ mạng riêng ảo ( điểm điểm , đa điểm ) ;
+
+b ) Dịch_vụ kênh thuê riêng ;
+
+c ) Dịch_vụ truy_nhập Internet chuyên_dùng ;
+
+d ) Dịch_vụ hội_nghị truyền_hình ;
+
+đ ) Dịch_vụ thoại ;
+
+e ) Các dịch_vụ cơ_bản khác theo quy_định của Bộ Thông_tin và Truyền
+
+thông .
+
+2 . Dịch_vụ giá_trị gia_tăng
+
+a ) Dịch_vụ thư_thoại ;
+
+b ) Dịch_vụ thư điện_tử ;
+
+c ) Dịch_vụ Iptv ;
+
+d ) Dịch_vụ thuê máy_chủ ảo ;
+
+đ ) Các dịch_vụ giá_trị gia_tăng khác theo quy_định của Bộ Thông_tin và Truyền_thông .
+
+3 . Dịch_vụ cộng thêm
+
+a ) Các dịch_vụ cộng thêm của thoại Ip , gồm : dịch_vụ hiển_thị số chủ gọi , dịch_vụ chờ cuộc_gọi , dịch_vụ chuyển cuộc_gọi , dịch_vụ chặn cuộc_gọi , dịch_vụ quay số tắt ;
+
+b ) Các dịch_vụ cộng thêm khác theo quy_định của Bộ Thông_tin và Truyền_thông .
+
+Chương_iii
+
+Quy_định Về Kết_nối Và Sử_dụng Mạng_tslcd
+
+Điều 6 . Yêu_cầu về kết_nối đối_với đơn_vị sử_dụng mạng Tslcd cấp I
+
+1 . Địa_điểm kết_nối : do Cục Bưu_điện Trung_ương và đơn_vị sử_dụng kết_nối thống_nhất trên cơ_sở lựa_chọn địa_điểm kết_nối khả_thi về mặt kĩ_thuật .
+
+2 . Phương_thức và giao_diện kết_nối : kết_nối bằng cáp_quang trực_tiếp vào mạng Tslcd cấp I trên cơ_sở tuân_thủ các quy_chuẩn kĩ_thuật có liên_quan và các tiêu_chuẩn do Bộ Thông_tin và Truyền_thông quy_định bắt_buộc áp_dụng .
+
+3 . Tài_nguyên địa_chỉ Ip và thông_số định_tuyến : bảo_đảm thống_nhất tài_nguyên địa_chỉ Ip và thông_số định_tuyến theo quy_định của pháp_luật và hướng_dẫn của Bộ Thông_tin và Truyền_thông ( Cục Bưu_điện Trung_ương ) cho mạng Tslcd .
+
+4 . Lắp_đặt thiết_bị đầu_cuối : việc lắp_đặt , đấu nối thiết_bị đầu_cuối thuê_bao , mạng nội_bộ vào mạng Tslcd cấp I phải theo quy_định về quản_lí tài_nguyên viễn_thông , tiêu_chuẩn , quy_chuẩn kĩ_thuật viễn_thông .
+
+Điều 7 . Yêu_cầu về kết_nối đối_với đơn_vị sử_dụng mạng Tslcd cấp Ii
+
+1 . Phải kết_nối qua hạ_tầng mạng của doanh_nghiệp viễn_thông , không kết_nối trực_tiếp vào thiết_bị mạng Tslcd cấp I .
+
+2 . Doanh_nghiệp viễn_thông phải bảo_đảm kết_nối giữa các điểm thuộc mạng Tslcd cấp Ii căn_cứ theo nhu_cầu sử_dụng của các cơ_quan Đảng , Nhà_nước của tỉnh , thành_phố trực_thuộc Trung_ương và bảo_đảm thực_hiện các yêu_cầu về kết_nối theo yêu_cầu của Cục Bưu_điện Trung_ương .
+
+3 . Để bảo_đảm kết_nối giữa mạng Tslcd cấp I và cấp Ii , doanh_nghiệp viễn_thông phải thiết_lập kết_nối trung kế sang mạng Tslcd cấp I .
+
+4 . Việc kết_nối giữa các điểm mạng Tslcd cấp Ii thuộc doanh_nghiệp viễn_thông khác nhau , giữa các điểm mạng Tslcd cấp Ii thuộc các tỉnh , thành_phố trực_thuộc Trung_ương khác nhau phải được Cục Bưu_điện Trung_ương phê_duyệt và phải định_tuyến thông_qua điểm tập_trung của mạng Tslcd cấp I .
+
+5 . Tài_nguyên địa_chỉ Ip và thông_số định_tuyến : bảo_đảm thống_nhất tài_nguyên địa_chỉ Ip và thông_số định_tuyến theo quy_định của pháp_luật và hướng_dẫn của Bộ Thông_tin và Truyền_thông ( Cục Bưu_điện Trung_ương ) cho mạng Tslcd .
+
+Điều 8 . Yêu_cầu về kết_nối trung kế giữa mạng Tslcd cấp I và mạng Tslcd cấp Ii
+
+1 . Địa_điểm kết_nối : do Cục Bưu_điện Trung_ương và doanh_nghiệp viễn_thông cung_cấp kết_nối_mạng Tslcd cấp Ii tham_gia kết_nối thống_nhất trên cơ_sở lựa_chọn địa_điểm kết_nối trên mạng khả_thi về mặt kĩ_thuật nhưng không được vi_phạm các quy_định về kết_nối tại các Điều 42 và 44 của Luật Viễn_thông .
+
+2 . Phương_thức và giao_diện kết_nối : kết_nối bằng cáp_quang trực_tiếp giữa mạng Tslcd cấp I và mạng Tslcd cấp Ii trên cơ_sở tuân_thủ các quy_chuẩn kĩ_thuật có liên_quan và các tiêu_chuẩn do Bộ Thông_tin và Truyền_thông quy_định bắt_buộc áp_dụng .
+
+3 . Tài_nguyên địa_chỉ Ip và thông_số định_tuyến : bảo_đảm thống_nhất tài_nguyên địa_chỉ Ip và thông_số định_tuyến theo quy_định của pháp_luật và hướng_dẫn của Bộ Thông_tin và Truyền_thông ( Cục Bưu_điện Trung_ương ) cho mạng Tslcd .
+
+Điều 9 . Yêu_cầu về hạ_tầng mạng của doanh_nghiệp viễn_thông cung_cấp kết_nối cho mạng Tslcd cấp Ii
+
+1 . Chỉ doanh_nghiệp viễn_thông có mạng_lưới tại các cơ_quan cấp tỉnh , cấp huyện , cấp xã của các tỉnh , thành_phố trực_thuộc Trung_ương ; có đủ năng_lực hạ_tầng mạng kết_nối đến các đơn_vị thuộc mạng Tslcd cấp Ii ; có đội_ngũ nhân_sự bảo_đảm giám_sát , vận_hành và hỗ_trợ xử_lí_sự_cố trực_tiếp tại các điểm kết_nối , có đường trung kế kết_nối sang mạng Tslcd cấp I mới được cung_cấp dịch_vụ .
+
+2 . Các kết_nối đến mạng Tslcd phải bảo_đảm an_toàn , bảo_mật đường truyền theo quy_định .
+
+3 . Dịch_vụ được triển_khai trên mạng Tslcd cấp Ii phải tuân_thủ các tiêu_chuẩn kĩ_thuật do Bộ Thông_tin và Truyền_thông quy_định .
+
+Điều 10 . Sử_dụng , chia_sẻ và lưu_trữ thông_tin trên mạng Tslcd
+
+1 . Việc sử_dụng , chia_sẻ và lưu_trữ thông_tin trên mạng Tslcd phải tuân_thủ các quy_định của pháp_luật về viễn_thông , công_nghệ thông_tin , an_toàn thông_tin và lưu_trữ .
+
+2 . Thông_tin được sử_dụng , chia_sẻ và lưu_trữ trên mạng Tslcd phải là những thông_tin phục_vụ cho hoạt_động quản_lí điều_hành và chuyên_môn nghiệp_vụ của đơn_vị sử_dụng mạng Tslcd .
+
+3 . Thông_tin quan_trọng truyền_tải trên mạng Tslcd phải tuân_thủ pháp_luật về bảo_vệ bí_mật nhà_nước , mã_hoá bằng mật_mã cơ_yếu .
+
+Chương_iv
+
+Bảo_đảm An_toàn Thông_tin Trên Mạng_tslcd
+
+Điều 11 . Quy_định chung về bảo_đảm an_toàn thông_tin cho hạ_tầng mạng Tslcd
+
+1 . Thiết_kế hạ_tầng mạng có phân_vùng thành từng vùng mạng chức_năng phù_hợp với hệ_thống thông_tin theo cấp_độ tương_ứng .
+
+2 . Phải có phương_án quản_lí truy_nhập hệ_thống từ các mạng bên ngoài , nhằm quản_lí và ngăn_chặn các truy_nhập trái_phép từ các mạng bên ngoài vào mạng trong .
+
+3 . Phải có biện_pháp quản_lí truy_nhập từ bên trong mạng ra các mạng bên ngoài và mạng Internet , nhằm bảo_đảm chỉ những kết_nối_mạng hợp_lệ theo chính_sách của cơ_quan , tổ_chức mới được cho phép kết_nối ra bên ngoài .
+
+4 . Phải có phương_án lưu_trữ và quản_lí nhật_kí hệ_thống phục_vụ_việc theo_dõi , giám_sát hoạt_động bình_thường , các hoạt_động liên_quan đến an_toàn thông_tin của hệ_thống .
+
+5 . Phải có phương_án phòng , chống xâm_nhập , phần_mềm độc_hại , nhằm giám_sát phát_hiện sớm , xử_lí và ngăn_chặn những cuộc tấn_công mạng , những sự_kiện bất_thường xảy ra trên hệ_thống qua môi_trường mạng .
+
+6 . Phải có phương_án bảo_vệ các thiết_bị mạng , thiết_bị an_toàn thông_tin trong hệ_thống , nhằm giám_sát và ngăn_cản truy_nhập , thay_đổi trái_phép cấu_hình và hoạt_động của thiết_bị .
+
+Điều 12 . Quy_định về bảo_đảm an_toàn thông_tin cho mạng Tslcd
+
+1 . Mạng Tslcd cấp I phải đáp_ứng tối_thiểu các tiêu_chí yêu_cầu về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ , được quy_định tại khoản 5 , Điều 9 <TT rel="DC"> Thông_tư 03/2017/TT-BTTTT ngày 24/4/2017 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông quy_định chi_tiết và hướng_dẫn một_số điều của <NĐ rel="DC"> Nghị_định số 85/2016/NĐ-CP ngày 01/7/2016 </NĐ> của Chính_phủ về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ .
+
+2 . Mạng Tslcd cấp Ii phải đáp_ứng tối_thiểu các tiêu_chí yêu_cầu về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ , được quy_định tại khoản 3 , Điều 9 <TT rel="DC"> Thông_tư 03/2017/TT-BTTTT ngày 24/4/2017 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông quy_định chi_tiết và hướng_dẫn một_số điều của <NĐ rel="DC"> Nghị_định số 85/2016/NĐ-CP ngày 01/7/2016 </NĐ> của Chính_phủ về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ .
+
+Điều 13 . Quy_định về bảo_đảm an_toàn thông_tin cho phân hệ quản_lí mạng Tslcd
+
+1 . Phân hệ quản_lí mạng phải được tách riêng với các phân hệ mạng khác và không được kết_nối Internet .
+
+2 . Có hệ_thống quản_lí xác_thực_tập_trung đối_với các tài_khoản truy_cập cấu_hình thiết_bị , phân_quyền phù_hợp cho người quản_trị .
+
+Chương V
+
+Trách_nhiệm Của Các Đơn_vị Liên_quan
+
+Điều 14 . Trách_nhiệm của Cục Bưu_điện Trung_ương
+
+1 . Chủ_trì xây_dựng kế_hoạch phát_triển mạng Tslcd .
+
+2 . Chủ_trì hướng_dẫn các đơn_vị thi_hành các nội_dung của Thông_tư này .
+
+3 . Phối_hợp Vụ Khoa_học và Công_nghệ xây_dựng , trình Bộ Thông_tin và Truyền_thông ban_hành các tiêu_chuẩn , quy_chuẩn kĩ_thuật về quản_lý , vận_hành , kết_nối , sử_dụng , bảo_đảm an_toàn thông_tin trên mạng Tslcd .
+
+4 . Chủ_trì ban_hành các quy_chế , chính_sách , chỉ tiêu chất_lượng , quy_trình , quy_phạm bảo_đảm kết_nối , bảo_đảm an_toàn thông_tin liên_quan đến mạng Tslcd .
+
+5 . Kiểm_tra , đánh_giá định_kì hoặc đột_xuất để bảo_đảm an_toàn mạng Tslcd , điều_phối xử_lí_sự_cố phát_sinh trên mạng_lưới .
+
+6 . Phối_hợp thực_hiện công_tác thanh_tra , kiểm_tra trên mạng Tslcd .
+
+7 . Trong trường_hợp khẩn_cấp được huy_động hạ_tầng , năng_lực của doanh_nghiệp viễn_thông để phục_vụ thông_tin khẩn_cấp theo yêu_cầu của các cơ_quan Đảng , Nhà_nước tại Trung_ương .
+
+8 . Định_kì 6 tháng , hàng năm chỉ_đạo doanh_nghiệp viễn_thông cung_cấp kết_nối và dịch_vụ cho mạng Tslcd cấp Ii tại các tỉnh , thành_phố trực_thuộc Trung_ương báo_cáo về tình_hình khai_thác , sử_dụng mạng Tslcd với Cục Bưu_điện Trung_ương và Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương .
+
+9 . Là đầu_mối của Bộ Thông_tin và Truyền_thông để tiếp_nhận thông_tin từ Sở Thông_tin và Truyền_thông tại các tỉnh , thành_phố trực_thuộc Trung_ương về mạng Tslcd .
+
+10 . Là đầu_mối cung_cấp các dịch_vụ của doanh_nghiệp viễn_thông triển_khai trên mạng Tslcd cấp I .
+
+11 . Triển_khai các giải_pháp , hệ_thống_thiết_bị để bảo_đảm các yêu_cầu về dung_lượng , tốc_độ , chất_lượng dịch_vụ , an_toàn thông_tin và phương_án dự_phòng của mạng Tslcd .
+
+12 . Định_kì rà_soát , đánh_giá , đề_xuất cấp_độ bảo_đảm an_toàn hệ_thống thông_tin , trình các cấp có thẩm_quyền phê_duyệt .
+
+Điều 15 . Trách_nhiệm của các cơ_quan , đơn_vị có liên_quan thuộc Bộ Thông_tin và Truyền_thông
+
+1 . Trách_nhiệm của Cục Viễn_thông : phối_hợp thẩm_định tài_nguyên địa_chỉ Ip , thông_số định_tuyến của mạng Tslcd , các giải_pháp , phương_án kĩ_thuật , các kế_hoạch phát_triển mạng Tslcd do doanh_nghiệp cung_cấp dịch_vụ đề_xuất .
+
+2 . Trách_nhiệm của Cục An_toàn thông_tin :
+
+a ) Hướng_dẫn công_tác xác_định cấp_độ an_toàn thông_tin cho mạng Tslcd ;
+
+b ) Phối_hợp với Cục Bưu_điện Trung_ương trong việc xây_dựng , điều_chỉnh , bổ_sung các văn_bản quy_định về bảo_đảm an_toàn thông_tin liên_quan đến mạng Tslcd ;
+
+c ) Phối_hợp với Cục Bưu_điện Trung_ương trong việc triển_khai các biện_pháp_bảo_đảm an_toàn thông_tin trên mạng Tslcd ;
+
+d ) Phối_hợp , hỗ_trợ ứng_cứu thông_tin trong trường_hợp có sự_cố liên_quan đến an_toàn thông_tin .
+
+3 . Trách_nhiệm của Trung_tâm Ứng_cứu khẩn_cấp máy_tính Việt_nam :
+
+a ) Phối_hợp với các đơn_vị chức_năng bảo_đảm an_toàn thông_tin truyền_tải trên Mạng_tslcd theo chức_năng nhiệm_vụ được quy_định ;
+
+b ) Phối_hợp , hỗ_trợ các đơn_vị sử_dụng mạng Tslcd trong việc điều_phối ứng_cứu sự_cố mất an_toàn thông_tin ;
+
+c ) Phối_hợp triển_khai các giải_pháp giám_sát , cảnh_báo , ngăn_chặn cho mạng nội_bộ các đơn_vị kết_nối vào mạng Tslcd chống nguy_cơ xâm_nhập trái_phép qua Internet .
+
+4 . Trách_nhiệm của Thanh_tra Bộ : chủ_trì công_tác kiểm_tra , thanh_tra việc thực_hiện các quy_định , quy_trình về quản_lý , vận_hành , kết_nối , khai_thác , sử_dụng và bảo_đảm an_toàn , an_ninh trên mạng Tslcd .
+
+5 . Trách_nhiệm của Vụ Khoa_học và Công_nghệ : chủ_trì , phối_hợp với Cục Bưu_điện Trung_ương trình Bộ Thông_tin và Truyền_thông ban_hành các tiêu_chuẩn , quy_chuẩn kĩ_thuật về quản_lý , vận_hành , kết_nối , sử_dụng , bảo_đảm an_toàn thông_tin trên mạng Tslcd .
+
+Điều 16 . Trách_nhiệm của doanh_nghiệp viễn_thông cung_cấp hạ_tầng kết_nối và dịch_vụ cho mạng Tslcd
+
+1 . Công_bố các điểm đăng_kí dịch_vụ , hỗ_trợ kĩ_thuật , khắc_phục sự_cố và giải_quyết khiếu_nại ( sau đây gọi tắt là điểm đăng_kí dịch_vụ ) của các đơn_vị sử_dụng mạng Tslcd cấp Ii .
+
+2 . Xây_dựng và công_bố quy_định chi_tiết các nội_dung hợp_đồng mẫu và uỷ_quyền điểm đăng_kí dịch_vụ gần nhất tiến_hành thương_thảo , kí_kết_hợp_đồng với đơn_vị sử_dụng mạng Tslcd cấp Ii .
+
+3 . Bảo_đảm chất_lượng dịch_vụ , độ sẵn_sàng đối_với các điểm kết_nối thuộc mạng Tslcd cấp Ii tại các tỉnh , thành_phố trực_thuộc Trung_ương .
+
+4 . Tuân_thủ các quy_định về kết_nối , chất_lượng mạng và bảo_đảm an_toàn thông_tin đối_với mạng Tslcd theo quy_định do Bộ Thông_tin và Truyền_thông ban_hành .
+
+5 . Huy_động hạ_tầng , năng_lực của doanh_nghiệp để Cục Bưu_điện Trung_ương phục_vụ thông_tin khẩn_cấp theo yêu_cầu của các cơ_quan Đảng , Nhà_nước tại Trung_ương .
+
+6 . Triển_khai các giải_pháp và hệ_thống_thiết_bị dự_phòng và con_người để bảo_đảm cơ_sở hạ_tầng mạng Tslcd hoạt_động liên_tục và an_toàn .
+
+7 . Phải báo_cáo và chịu sự giám_sát , thẩm_định của Cục Bưu_điện Trung_ương đối_với các dịch_vụ cung_cấp trên mạng Tslcd và các sự_cố đối_với mạng Tslcd cấp Ii .
+
+8 . Định_kì trước ngày 15 tháng 6 và 15 tháng 12 hàng năm , tổng_hợp , báo_cáo về tình_hình khai_thác , sử_dụng mạng Tslcd tại địa_phương với Cục Bưu_điện Trung_ương và Sở Thông_tin và Truyền_thông tại các tỉnh , thành_phố trực_thuộc Trung_ương .
+
+Điều 17 . Trách_nhiệm của các đơn_vị chuyên_trách công_nghệ thông_tin của các cơ_quan Đảng , Nhà_nước tại Trung_ương
+
+1 . Hàng năm báo_cáo về Bộ Thông_tin và Truyền_thông tình_hình sử_dụng mạng Tslcd trong hoạt_động ứng_dụng của các đơn_vị thuộc và trực_thuộc cơ_quan .
+
+2 . Xây_dựng kế_hoạch phát_triển mạng_lưới , phối_hợp với Cục Bưu_điện Trung_ương thẩm_định , ban_hành .
+
+Điều 18 . Trách_nhiệm của Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương
+
+1 . Xây_dựng kế_hoạch phát_triển mạng Tslcd cấp Ii tại địa_phương .
+
+2 . Chỉ_đạo , hướng_dẫn các tổ_chức , cá_nhân và doanh_nghiệp viễn_thông thực_hiện các quy_định của pháp_luật về bảo_đảm an_toàn mạng và thông_tin trên mạng Tslcd cấp Ii .
+
+3 . Chủ_trì kiểm_tra và xử_lí theo thẩm_quyền các vi_phạm_quy_định về sử_dụng , chia_sẻ , lưu_trữ thông_tin và an_toàn thông_tin trên mạng Tslcd cấp Ii .
+
+4 . Tham_mưu cho Ủy_ban nhân_dân cấp tỉnh ban_hành quy_chế quản_lý , vận_hành và sử_dụng mạng Tslcd cấp Ii tại địa_phương .
+
+5 . Tuyên_truyền , phổ_biến , hướng_dẫn việc thực_hiện các quy_định của Thông_tư này cho các cơ_quan Đảng , Nhà_nước tại địa_phương ; hướng_dẫn các đơn_vị này quản_lý , khai_thác hiệu_quả mạng Tslcd cấp Ii .
+
+6 . Trước ngày 15 tháng 12 hàng năm , tổng_hợp , báo_cáo về Bộ Thông_tin và Truyền_thông ( Cục Bưu_điện Trung_ương ) tình_hình khai_thác , sử_dụng mạng Tslcd trong hoạt_động ứng_dụng công_nghệ thông_tin tại địa_phương đơn_vị quản_lý .
+
+Điều 19 . Trách_nhiệm của đơn_vị và cá_nhân sử_dụng mang Tslcd
+
+1 . Quản_lý , khai_thác và bảo_vệ thiết_bị mạng của điểm kết_nối đặt tại cơ_quan mình theo quy_định về mạng Tslcd và hợp_đồng với doanh_nghiệp cung_cấp đường truyền và dịch_vụ .
+
+2 . Bảo_đảm nội_dung , thông_tin truyền đưa trên mạng Tslcd theo đúng quy_định pháp_luật .
+
+3 . Không thay_đổi kết_nối , thông_số thiết_lập mạng của các thiết_bị liên_quan đến mạng Tslcd không thuộc thẩm_quyền , gây xung_đột tài_nguyên , ảnh_hưởng đến việc vận_hành hệ_thống mạng Tslcd .
+
+4 . Khi có sự_cố xảy ra , cần thông_báo kịp_thời cho người có thẩm_quyền để giải_quyết .
+
+5 . Chịu trách_nhiệm các vấn_đề liên_quan như :
+
+a ) Quản_lí hệ_thống tường lửa của đơn_vị đối_với mạng Tslcd ;
+
+b ) Quản_lí bộ tập_trung người dùng mạng riêng ảo của đơn_vị được thiết_lập ( nếu có ) trên nền_tảng mạng Tslcd ;
+
+c ) Quản_lí các tên_miền của đơn_vị ;
+
+d ) Quản_lí các chính_sách kết_nối Internet của đơn_vị thông_qua mạng Tslcd ;
+
+đ ) Ghi lại các sự_cố , lỗi xảy ra về kết_nối_mạng Tslcd , về an_toàn , bảo_mật thông_tin ; trường_hợp có sự_cố nghiêm_trọng vượt quá khả_năng khắc_phục của đơn_vị phải thông_báo với Cục Bưu_điện Trung_ương ( đối_với mạng Tslcd cấp I ) hoặc điểm đăng_kí dịch_vụ gần nhất của doanh_nghiệp cung_cấp dịch_vụ ( đối_với mạng Tslcd cấp Ii ) để phối_hợp khắc_phục kịp_thời , nhanh_chóng .
+
+6 . Đăng_kí sử_dụng dịch_vụ chứng_thực chữ_kí số với Ban Cơ_yếu Chính_phủ để bảo_đảm an_toàn , bảo_mật thông_tin trên mạng Tslcd .
+
+7 . Trong trường_hợp có kế_hoạch nâng_cấp , bảo_trì hệ_thống mạng nội_bộ có ảnh_hưởng đến mạng Tslcd , cần thông_báo cho Cục Bưu_điện Trung_ương ( đối_với mạng Tslcd cấp I ) hoặc điểm đăng_kí dịch_vụ gần nhất của doanh_nghiệp cung_cấp dịch_vụ ( đối_với mạng Tslcd cấp Ii ) trước tối_thiểu 05 ngày làm_việc để bảo_đảm phù_hợp với quy_hoạch tổng_thể của mạng Tslcd .
+
+8 . Bảo_đảm tuân_thủ các quy_định về quản_lý , vận_hành và sử_dụng mạng Tslcd ; xây_dựng quy_chế nội_bộ về sử_dụng mạng Tslcd .
+
+9 . Bảo_đảm tuân_thủ các quy_định của pháp_luật về viễn_thông , về quản_lí và cấp phép cung_cấp thông_tin , thiết_lập trang thông_tin điện_tử trên Internet , về chế_độ bảo_mật , an_toàn thông_tin . Bổ_sung
+
+10 . Trước ngày 01 tháng 12 hàng năm , báo_cáo về Bộ Thông_tin và Truyền_thông ( đối_với các đơn_vị cấp Bộ , cơ_quan ngang Bộ ) và báo_cáo về Sở Thông_tin và Truyền_thông tại tỉnh , thành_phố trực_thuộc Trung_ương ( đối_với các cơ_quan cấp tỉnh , cấp huyện , cấp xã ) .
+
+Chương_vi
+
+Điều_khoản Thi_hành
+
+Điều 20 . Tổ_chức thực_hiện
+
+Cục_trưởng Cục Bưu_điện Trung_ương , Thủ_trưởng các cơ_quan , đơn_vị có liên_quan thuộc Bộ Thông_tin và Truyền_thông ; Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các đơn_vị sử_dụng mạng Tslcd , trong phạm_vi chức_năng , nhiệm_vụ của mình , có trách_nhiệm tổ_chức triển_khai và kiểm_tra việc chấp_hành tại đơn_vị theo đúng các quy_định của Thông_tư này .
+
+Điều 21 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 05 tháng 12 năm 2017 và thay_thế <TT rel="None"> Thông_tư số 23/2011/TT-BTTTT ngày 11 tháng 8 năm 2011 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_định về quản_lý , vận_hành , sử_dụng và bảo_đảm an_toàn thông_tin trên mạng Tslcd của các cơ_quan Đảng , Nhà_nước .
+
+2 . Trong quá_trình thực_hiện quản_lý , vận_hành , khai_thác và sử_dụng mạng Tslcd , nếu có vướng_mắc tổ_chức , cá_nhân có liên_quan cần kịp_thời phản_ánh về Bộ Thông_tin và Truyền_thông ( Cục Bưu_điện Trung_ương ) . / . Bổ_sung

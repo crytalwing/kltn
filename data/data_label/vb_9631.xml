@@ -1,0 +1,1629 @@
+Thông_tư số 42/2015/tt-bct ngày 01 tháng 12 năm 2015 của bộ công_thương
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 95/2012/NĐ-CP ngày 12 tháng 11 năm 2012 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_thương ;
+
+Căn_cứ <LT rel="CC"> Luật Điện_lực ngày 03 tháng 12 năm 2004 </LT> và Luật sửa_đổi , bổ_sung một_số Điều của <LT rel="None"> Luật Điện_lực ngày 20 tháng 11 năm 2012 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 137/2013/NĐ-CP ngày 21 tháng 10 năm 2013 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều của <LT rel="DHD"> Luật Điện_lực và </LT> Luật sửa_đổi , bổ_sung một_số điều của Luật Điện_lực ;
+
+Theo đề_nghị của Cục_trưởng Cục Điều_tiết điện_lực ,
+
+Bộ_trưởng Bộ Công_thương ban_hành <TT rel="None"> Thông_tư quy_định đo_đếm điện_năng trong </TT> hệ_thống điện .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về đo_đếm điện_năng trong phát_điện , truyền_tải_điện , phân_phối điện , bán_buôn điện và bán_lẻ điện , bao_gồm các nội_dung sau :
+
+1 . Yêu_cầu đối_với Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm và Hệ_thống quản_lí_số_liệu đo_đếm .
+
+2 . Trách_nhiệm của các đơn_vị trong đo_đếm điện_năng .
+
+3 . Trình_tự thoả_thuận thiết_kế kĩ_thuật , đầu_tư , lắp_đặt , nghiệm_thu Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm .
+
+4 . Quản_lý , vận_hành Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm và Hệ_thống quản_lí_số_liệu đo_đếm .
+
+5 . Thu_thập , xử_lí và lưu_trữ số_liệu đo_đếm phục_vụ giao_nhận điện_năng .
+
+6 . Quy_định chung về giao_nhận điện_năng .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với các đối_tượng sau :
+
+1 . Đơn_vị phát_điện .
+
+2 . Đơn_vị vận_hành hệ_thống điện và thị_trường điện ( Trung_tâm Điều_độ hệ_thống điện quốc_gia ) .
+
+3 . Đơn_vị bán_buôn điện .
+
+4 . Đơn_vị truyền_tải_điện .
+
+5 . Đơn_vị phân_phối điện .
+
+6 . Đơn_vị phân_phối và bán_lẻ điện .
+
+7 . Đơn_vị cung_cấp dịch_vụ liên_quan đến đo_đếm điện_năng , bao_gồm :
+
+a ) Đơn_vị thí_nghiệm , kiểm_định ;
+
+b ) Đơn_vị quản_lí_số_liệu đo_đếm .
+
+8 . Khách_hàng sử_dụng điện .
+
+9 . Tập_đoàn Điện_lực Việt_nam .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các thuật_ngữ dưới đây được hiểu như sau :
+
+1 . Cấp điện_áp là một trong những giá_trị của điện_áp danh định được sử_dụng trong hệ_thống điện , bao_gồm :
+
+a ) Hạ_áp là cấp điện_áp danh định đến 01 kV ;
+
+b ) Trung_áp là cấp điện_áp danh định trên 01 kV đến 35 kV ;
+
+c ) Cao_áp là cấp điện_áp danh định trên 35 kV đến 220 kV ;
+
+d ) Siêu cao_áp là cấp điện_áp danh định trên 220 kV .
+
+2 . Biến dòng_điện ( sau đây viết tắt là Ct ) là thiết_bị biến_đổi dòng_điện , mở_rộng phạm_vi đo dòng_điện cho Hệ_thống đo_đếm .
+
+3 . Biến điện_áp ( sau đây viết tắt là Vt ) là thiết_bị biến_đổi điện_áp , mở_rộng phạm_vi đo điện_áp cho Hệ_thống đo_đếm .
+
+4 . Bộ chuyển mạch điện_áp là khoá chuyển mạch , mạch logic hoặc rơ_le trung_gian có chức_năng lựa_chọn điện_áp .
+
+5 . Cơ_sở dữ_liệu đo_đếm là cơ_sở dữ_liệu lưu_trữ số_liệu đo_đếm và các thông_tin quản_lý , vận_hành Hệ_thống đo_đếm .
+
+6 . Công_tơ đo_đếm là thiết_bị đo_đếm điện_năng thực_hiện tích_phân_công_suất theo thời_gian , lưu và hiển_thị_giá_trị điện_năng đo_đếm được .
+
+7 . Điểm_đấu nối là điểm nối trang thiết_bị , lưới_điện và nhà_máy_điện vào lưới_điện .
+
+8 . Đơn_vị bán_buôn điện là đơn_vị điện_lực được cấp giấy_phép hoạt_động điện_lực trong lĩnh_vực mua_bán_buôn điện . Theo từng cấp_độ của thị_trường điện_lực cạnh_tranh , Đơn_vị bán_buôn điện là một trong các đơn_vị sau :
+
+a ) Công_ti Mua_bán điện là đơn_vị bán_buôn điện duy_nhất trong thị_trường phát_điện cạnh_tranh ;
+
+b ) Đơn_vị bán_buôn điện khác được thành_lập theo từng cấp_độ của thị_trường điện cạnh_tranh .
+
+9 . Đơn_vị đầu_tư hệ_thống đo_đếm là tổ_chức , cá_nhân đầu_tư , lắp_đặt Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm ( nếu có ) .
+
+10 . Đơn_vị giao_nhận điện liên_quan là đơn_vị tham_gia phối_hợp với các đơn_vị khác trong quá_trình thoả_thuận thiết_kế , đầu_tư , lắp_đặt và quản_lí vận_hành Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm , bao_gồm :
+
+a ) Đơn_vị phát_điện ;
+
+b ) Đơn_vị truyền_tải_điện ;
+
+c ) Đơn_vị bán_buôn điện ;
+
+d ) Đơn_vị phân_phối điện ;
+
+đ ) Đơn_vị phân_phối và bán_lẻ điện ;
+
+e ) Đơn_vị quản_lí_số_liệu đo_đếm ;
+
+g ) Khách_hàng sử_dụng điện .
+
+11 . Đơn_vị phát_điện là đơn_vị điện_lực sở_hữu một hoặc nhiều nhà_máy_điện_đấu nối vào hệ_thống điện quốc_gia , được cấp giấy_phép hoạt_động điện_lực trong lĩnh_vực phát_điện .
+
+12 . Đơn_vị phân_phối điện là đơn_vị điện_lực được cấp giấy_phép hoạt_động điện_lực trong lĩnh_vực phân_phối điện và bán điện , bao_gồm :
+
+a ) Tổng_công_ti Điện_lực ;
+
+b ) Công_ti Điện_lực tỉnh , thành_phố trực_thuộc Tổng_công_ti Điện_lực ( sau đây viết tắt là Công_ti Điện_lực tỉnh ) .
+
+13 . Đơn_vị phân_phối và bán_lẻ điện là đơn_vị điện_lực được cấp giấy_phép hoạt_động điện_lực trong lĩnh_vực phân_phối và bán_lẻ điện , mua_buôn điện từ Đơn_vị bán_buôn điện hoặc Đơn_vị phân_phối điện để bán_lẻ điện cho Khách_hàng sử_dụng điện .
+
+14 . Đơn_vị quản_lí lưới_điện là đơn_vị sở_hữu , vận_hành lưới truyền_tải_điện hoặc lưới phân_phối điện , bao_gồm :
+
+a ) Đơn_vị truyền_tải_điện ;
+
+b ) Đơn_vị phân_phối điện ;
+
+c ) Đơn_vị phân_phối và bán_lẻ điện .
+
+15 . Đơn_vị quản_lí_số_liệu đo_đếm là đơn_vị đầu_tư , lắp_đặt , quản_lý , vận_hành Hệ_thống thu_thập số_liệu đo_đếm và Hệ_thống quản_lí_số_liệu đo_đếm trong phạm_vi quản_lý .
+
+16 . Đơn_vị quản_lí vận_hành hệ_thống đo_đếm là đơn_vị trực_tiếp_quản_lý , vận_hành Hệ_thống đo_đếm trong phạm_vi quản_lý , bao_gồm :
+
+a ) Đơn_vị phát_điện ;
+
+b ) Đơn_vị truyền_tải_điện ;
+
+c ) Đơn_vị phân_phối điện ;
+
+d ) Đơn_vị phân_phối và bán_lẻ điện ;
+
+đ ) Khách_hàng sử_dụng điện .
+
+17 . Đơn_vị sở_hữu hệ_thống đo_đếm là đơn_vị sở_hữu Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm ( nếu có ) , bao_gồm :
+
+a ) Đơn_vị phát_điện ;
+
+b ) Đơn_vị truyền_tải_điện ;
+
+c ) Đơn_vị phân_phối điện ;
+
+d ) Đơn_vị phân_phối và bán_lẻ điện ;
+
+đ ) Khách_hàng sử_dụng điện .
+
+18 . Đơn_vị thí_nghiệm , kiểm_định là đơn_vị được cấp phép trong lĩnh_vực hoạt_động kiểm_định , hiệu chuẩn , thử_nghiệm đối_với thiết_bị đo_đếm theo quy_định của pháp_luật về đo_lường .
+
+19 . Đơn_vị truyền_tải_điện là đơn_vị điện_lực được cấp phép hoạt_động điện_lực trong lĩnh_vực truyền_tải_điện , có trách_nhiệm quản_lý , vận_hành lưới_điện truyền_tải quốc_gia .
+
+20 . Khách_hàng sử_dụng điện là tổ_chức , cá_nhân mua điện từ hệ_thống điện quốc_gia để sử_dụng , không bán lại cho tổ_chức , cá_nhân khác .
+
+21 . Khách_hàng sử_dụng lưới_điện truyền_tải là tổ_chức , cá_nhân có trang thiết_bị , lưới_điện_đấu nối vào lưới_điện truyền_tải để sử_dụng dịch_vụ truyền_tải_điện , bao_gồm :
+
+a ) Đơn_vị phát_điện có nhà_máy_điện_đấu nối vào lưới_điện truyền_tải ;
+
+b ) Đơn_vị phân_phối điện nhận điện trực_tiếp từ lưới_điện truyền_tải ;
+
+c ) Đơn_vị phân_phối và bán_lẻ điện nhận điện trực_tiếp từ lưới_điện truyền_tải ;
+
+d ) Khách_hàng sử_dụng điện nhận điện trực_tiếp từ lưới_điện truyền_tải .
+
+22 . Khách_hàng sử_dụng lưới_điện_phân_phối là tổ_chức , cá_nhân có trang thiết_bị , lưới_điện_đấu nối vào lưới_điện_phân_phối để sử_dụng dịch_vụ phân_phối điện , bao_gồm :
+
+a ) Đơn_vị phát_điện có nhà_máy_điện_đấu nối vào lưới_điện_phân_phối ;
+
+b ) Đơn_vị phân_phối và bán_lẻ điện ;
+
+c ) Khách_hàng sử_dụng điện .
+
+23 . Hàng kẹp là thiết_bị được sử_dụng để đấu nối mạch điện đo_đếm .
+
+24 . Hệ_thống đo_đếm là hệ_thống bao_gồm các thiết_bị đo_đếm và mạch đo được tích_hợp để đo_đếm và xác_định_lượng điện_năng truyền_tải qua một vị_trí đo_đếm .
+
+25 . Hệ_thống thu_thập số_liệu đo_đếm là tập_hợp các thiết_bị phần_cứng , đường truyền_thông_tin và các chương_trình phần_mềm thực_hiện chức_năng thu_thập số_liệu từ công_tơ đo_đếm về Đơn_vị quản_lí vận_hành hệ_thống đo_đếm hoặc Đơn_vị quản_lí_số_liệu đo_đếm .
+
+26 . Hệ_thống quản_lí_số_liệu đo_đếm là hệ_thống bao_gồm các thiết_bị phần_cứng , máy_tính và các chương_trình phần_mềm kết_nối và thu_thập số_liệu đo_đếm từ Hệ_thống thu_thập số_liệu đo_đếm để thực_hiện chức_năng xử_lý , tính_toán và lưu_trữ số_liệu đo_đếm tại Đơn_vị quản_lí_số_liệu đo_đếm .
+
+27 . Hộp_đấu dây là hộp bảo_vệ vị_trí đấu dây phân nhánh mạch đo , đấu dây giữa các thiết_bị đo_đếm , có nắp đậy để đảm_bảo việc niêm_phong kẹp chì .
+
+28 . Lưới_điện là hệ_thống đường_dây tải_điện , máy biến_áp và trang thiết_bị đồng_bộ để truyền_dẫn_điện , bao_gồm :
+
+a ) Lưới_điện truyền_tải ;
+
+b ) Lưới_điện_phân_phối .
+
+29 . Lưới_điện_phân_phối là phần lưới_điện bao_gồm các đường_dây và trạm biến_áp có cấp điện_áp từ 110 kV trở xuống .
+
+30 . Lưới_điện truyền_tải là phần lưới_điện bao_gồm các đường_dây và trạm biến_áp có cấp điện_áp trên 110 kV .
+
+31 . Mạch đo là hệ_thống mạch điện liên_kết các thiết_bị đo_đếm để thực_hiện chức_năng đo_đếm điện_năng .
+
+32 . Nhà_máy_điện lớn là nhà_máy_điện có tổng_công_suất lắp_đặt lớn hơn 30 Mw .
+
+33 . Nhà_máy_điện nhỏ là nhà_máy_điện có tổng_công_suất lắp_đặt từ 30 Mw trở xuống .
+
+34 . Số_liệu đo_đếm là giá_trị điện_năng đo được từ công_tơ đo_đếm , điện_năng tính_toán hoặc điện_năng trên cơ_sở ước_tính số_liệu đo_đếm để phục_vụ giao_nhận và thanh_toán .
+
+35 . Thiết_bị đo_đếm là các thiết_bị bao_gồm công_tơ đo_đếm , Ct , Vt và các thiết_bị phụ_trợ phục_vụ đo_đếm điện_năng .
+
+36 . Thông_tin đo_đếm là các thông_tin về các thiết_bị đo_đếm , Hệ_thống đo_đếm và vị_trí đo_đếm bao_gồm đặc_tính , các thông_số kĩ_thuật và các thông_tin liên_quan đến quản_lý , vận_hành .
+
+37 . Tiêu_chuẩn Iec là tiêu_chuẩn về kĩ_thuật điện do Ủy_ban Kỹ_thuật điện Quốc_tế ban_hành .
+
+38 . Vị_trí đo_đếm là vị_trí vật_lí trên mạch điện nhất thứ , tại đó điện_năng mua_bán được đo_đếm và xác_định .
+
+39 . Lan ( Local Area_network ) là một hệ_thống mạng dùng để kết_nối các máy_tính trong phạm_vi nhỏ , còn gọi là mạng cục_bộ .
+
+40 . Wan ( Wide Area_network ) là hệ_thống mạng được thiết_lập để liên_kết các mạng Lan của các khu_vực khác nhau , ở khoảng_cách xa về mặt địa_lý , còn gọi là mạng diện_rộng .
+
+41 . Rs232 / rs485 là tiêu_chuẩn về công_nghệ truyền_thông nối_tiếp giữa máy_tính và các thiết_bị ngoại_vi do Hiệp_hội công_nghiệp điện_tử ( Electronic Industries_association - Eia ) xác_định .
+
+42 . Ethernet là công_nghệ truyền_thông bằng khung dữ_liệu , được chuẩn_hoá thành tiêu_chuẩn Ie 802 . 3 dành cho mạng Lan .
+
+Chương_ii
+
+Trách_nhiệm Chung Của Các Đơn_vị Trong Đo_đếm Điện_năng
+
+Điều 4 . Trách_nhiệm của Đơn_vị phát_điện
+
+1 . Lập Hồ_sơ đề_nghị và thực_hiện thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phục_vụ giao_nhận điện_năng giữa nhà_máy_điện với lưới_điện .
+
+2 . Đầu_tư , lắp_đặt Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm trong phạm_vi quản_lí đảm_bảo đáp_ứng các quy_định tại Thông_tư này , phù_hợp với thiết_kế đã được thoả_thuận thống_nhất và quy_định của pháp_luật về đo_lường .
+
+3 . Quản_lý , vận_hành Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm và đường truyền_thông_tin đảm_bảo số_liệu đo_đếm truyền về Đơn_vị quản_lí_số_liệu đo_đếm chính_xác , an_toàn và tin_cậy phục_vụ giao_nhận điện_năng giữa nhà_máy_điện với lưới_điện .
+
+4 . Chủ_trì tổ_chức nghiệm_thu , kiểm_định , xử_lí_sự_cố , thay_thế , nâng_cấp cải_tạo , huỷ_bỏ Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm trong phạm_vi quản_lí theo quy_định tại Thông_tư này và quy_định của pháp_luật về đo_lường .
+
+5 . Phối_hợp với các Đơn_vị giao_nhận điện liên_quan thu_thập số_liệu công_tơ đo_đếm , lập biên_bản xác_nhận điện_năng giao_nhận của nhà_máy_điện phục_vụ thanh_toán theo quy_định tại Thông_tư này .
+
+6 . Phối_hợp với Đơn_vị quản_lí_số_liệu đo_đếm , Công_ti Mua_bán điện và Đơn_vị quản_lí lưới_điện trong việc quản_lý , bảo_mật , cung_cấp và xác_nhận số_liệu đo_đếm của nhà_máy_điện .
+
+7 . Phối_hợp với các đơn_vị liên_quan tính_toán sản_lượng điện_năng truy_thu , thoái hoàn tại các điểm giao_nhận điện trong các trường_hợp sự_cố hoặc bất_thường của Hệ_thống đo_đếm .
+
+Điều 5 . Trách_nhiệm của Công_ti Mua_bán điện
+
+1 . Chủ_trì thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phục_vụ giao_nhận điện_năng giữa Đơn_vị phát_điện sở_hữu nhà_máy_điện lớn , nhà_máy_điện sử_dụng nguồn năng_lượng tái_tạo với lưới_điện hoặc giữa lưới_điện truyền_tải với lưới_điện_phân_phối hoặc giữa Khách_hàng sử_dụng điện_đấu nối vào lưới_điện truyền_tải với lưới_điện truyền_tải hoặc mua_bán điện với nước_ngoài qua cấp điện_áp từ 110 kV trở lên .
+
+2 . Chủ_trì , phối_hợp với các bên liên_quan thoả_thuận thống_nhất phương_thức giao_nhận , xác_nhận chỉ_số công_tơ đo_đếm , các số_liệu đo_đếm điện_năng trong phạm_vi quản_lí phục_vụ giao_nhận và thanh_toán điện_năng .
+
+3 . Phối_hợp với các đơn_vị liên_quan trong việc thí_nghiệm , nghiệm_thu , kiểm_định , quản_lí vận_hành , bảo_mật , xử_lí_sự_cố , thay_thế , huỷ_bỏ Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm .
+
+4 . Phối_hợp cung_cấp các thông_tin về số_liệu đo_đếm điện_năng , quản_lí Hệ_thống đo_đếm và các thông_tin liên_quan cho Đơn_vị quản_lí_số_liệu đo_đếm để cập_nhật vào cơ_sở dữ_liệu đo_đếm .
+
+5 . Kiểm_tra , giám_sát quá_trình thực_hiện xác_nhận chỉ_số công_tơ đo_đếm và các số_liệu phục_vụ thanh_toán trong phạm_vi quản_lý ; được phép khai_thác số_liệu đo_đếm của Đơn_vị giao_nhận điện liên_quan phục_vụ quá_trình kiểm_tra , giám_sát .
+
+6 . Chủ_trì , phối_hợp với các đơn_vị liên_quan quyết_toán sản_lượng điện_năng giao_nhận trong phạm_vi quản_lý .
+
+7 . Chủ_trì thống_nhất phương_án và kết_quả tính_toán sản_lượng điện_năng truy_thu , thoái hoàn trong trường_hợp sự_cố hoặc bất_thường của Hệ_thống đo_đếm trong phạm_vi quản_lý .
+
+Điều 6 . Trách_nhiệm của Đơn_vị truyền_tải_điện
+
+1 . Phối_hợp với Công_ti Mua_bán điện và các Đơn_vị giao_nhận điện liên_quan trong việc thoả_thuận , thống_nhất về thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phục_vụ giao_nhận điện giữa nhà_máy_điện với lưới_điện truyền_tải hoặc giữa lưới_điện truyền_tải với lưới_điện_phân_phối hoặc giữa Khách_hàng sử_dụng điện_đấu nối vào lưới_điện truyền_tải với lưới_điện truyền_tải hoặc mua_bán điện với nước_ngoài qua cấp điện_áp từ 220 kV trở lên .
+
+2 . Đầu_tư , lắp_đặt Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phục_vụ giao_nhận điện giữa lưới_điện truyền_tải với Đơn_vị phân_phối điện hoặc giữa lưới_điện truyền_tải với Đơn_vị phân_phối và bán_lẻ điện hoặc giữa lưới_điện truyền_tải với Khách_hàng sử_dụng điện nhận điện trực_tiếp từ lưới_điện truyền_tải , trừ trường_hợp các bên có thoả_thuận khác bảo_đảm quyền_lợi giữa các bên nhưng không trái với quy_định của pháp_luật . Đảm_bảo Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm đáp_ứng các yêu_cầu quy_định tại Thông_tư này , phù_hợp với thiết_kế đã được thoả_thuận và quy_định của pháp_luật về đo_lường .
+
+3 . Quản_lý , vận_hành Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm trong phạm_vi quản_lí đảm_bảo số_liệu đo_đếm truyền về Đơn_vị quản_lí_số_liệu đo_đếm chính_xác , an_toàn và tin_cậy phục_vụ giao_nhận điện_năng .
+
+4 . Chủ_trì tổ_chức nghiệm_thu , kiểm_định , xử_lí_sự_cố , thay_thế , nâng_cấp cải_tạo , huỷ_bỏ Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm trong phạm_vi quản_lí theo quy_định tại Thông_tư này và quy_định của pháp_luật về đo_lường .
+
+5 . Cung_cấp dịch_vụ quản_lí vận_hành , bảo_mật , xác_nhận số_liệu đo_đếm và bảo_dưỡng thiết_bị thuộc Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm của Khách_hàng sử_dụng lưới_điện truyền_tải trong trường_hợp vị_trí đo_đếm trong trạm điện thuộc phạm_vi quản_lý .
+
+6 . Phối_hợp với các Đơn_vị giao_nhận điện liên_quan thoả_thuận phương_thức giao_nhận điện_năng , thu_thập số_liệu đo_đếm , lập biên_bản xác_nhận điện_năng giao_nhận phục_vụ thanh_toán điện_năng trong phạm_vi quản_lý .
+
+7 . Phối_hợp với các đơn_vị liên_quan tính_toán sản_lượng điện_năng truy_thu , thoái hoàn tại các điểm giao_nhận điện trong trường_hợp sự_cố hoặc bất_thường của Hệ_thống đo_đếm .
+
+Điều 7 . Trách_nhiệm của Đơn_vị phân_phối điện
+
+1 . Phối_hợp với Công_ti Mua_bán điện , Đơn_vị truyền_tải_điện hoặc Đơn_vị phát_điện trong việc thoả_thuận , thống_nhất về thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phục_vụ giao_nhận điện_năng giữa lưới_điện truyền_tải với lưới_điện_phân_phối hoặc giữa nhà_máy_điện lớn_đấu nối vào lưới_điện_phân_phối với lưới_điện_phân_phối hoặc mua_bán điện với nước_ngoài qua cấp điện_áp 110 kV .
+
+2 . Chủ_trì thoả_thuận , thống_nhất về thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phục_vụ giao_nhận điện_năng giữa Khách_hàng sử_dụng lưới_điện_phân_phối với lưới_điện_phân_phối , trừ trường_hợp quy_định tại Khoản 1 Điều 5 Thông_tư này . Đối_với giao_nhận điện_năng giữa hai Đơn_vị phân_phối điện , trách_nhiệm đầu_tư Hệ_thống đo_đếm tại điểm đấu nối được thực_hiện theo thoả_thuận giữa các Đơn_vị phân_phối điện .
+
+3 . Đầu_tư , lắp_đặt Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phục_vụ giao_nhận điện_năng giữa lưới_điện_phân_phối với Khách_hàng sử_dụng điện hoặc giữa lưới_điện_phân_phối với Đơn_vị phân_phối và bán_lẻ điện , trừ trường_hợp các bên có thoả_thuận khác bảo_đảm quyền_lợi giữa các bên nhưng không trái với quy_định của pháp_luật . Đảm_bảo Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm đáp_ứng quy_định tại Thông_tư này , phù_hợp với thiết_kế đã được thoả_thuận và quy_định của pháp_luật về đo_lường .
+
+4 . Quản_lý , vận_hành Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm trong phạm_vi quản_lí đảm_bảo số_liệu đo_đếm truyền về Đơn_vị quản_lí_số_liệu đo_đếm chính_xác , an_toàn và tin_cậy phục_vụ giao_nhận điện_năng .
+
+5 . Chủ_trì tổ_chức nghiệm_thu , kiểm_định , xử_lí_sự_cố , thay_thế , nâng_cấp , cải_tạo , huỷ_bỏ Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm trong phạm_vi quản_lí theo quy_định tại Thông_tư này và quy_định của pháp_luật về đo_lường .
+
+6 . Cung_cấp dịch_vụ quản_lí vận_hành , bảo_mật , cung_cấp , xác_nhận số_liệu đo_đếm và bảo_dưỡng thiết_bị thuộc Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm của Khách_hàng sử_dụng lưới_điện_phân_phối trong trường_hợp vị_trí đo_đếm trong trạm điện thuộc phạm_vi quản_lý .
+
+7 . Chủ_trì , phối_hợp với các Đơn_vị giao_nhận điện liên_quan thoả_thuận phương_thức giao_nhận điện_năng , thu_thập số_liệu đo_đếm , lập biên_bản xác_nhận điện_năng giao_nhận phục_vụ thanh_toán điện_năng trong phạm_vi quản_lý .
+
+8 . Chủ_trì thống_nhất phương_án và kết_quả tính_toán sản_lượng điện_năng truy_thu , thoái hoàn trong trường_hợp sự_cố hoặc bất_thường của Hệ_thống đo_đếm trong phạm_vi quản_lý .
+
+Điều 8 . Trách_nhiệm của Đơn_vị phân_phối và bán_lẻ điện
+
+1 . Phối_hợp với Đơn_vị phân_phối điện hoặc Công_ti Mua_bán điện và các Đơn_vị giao_nhận điện liên_quan trong việc thoả_thuận , thống_nhất về thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phục_vụ giao_nhận điện_năng giữa Đơn_vị phân_phối và bán_lẻ điện với lưới_điện .
+
+2 . Chủ_trì thoả_thuận , thống_nhất về thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phục_vụ giao_nhận điện_năng với Khách_hàng sử_dụng điện trong phạm_vi quản_lý .
+
+3 . Đầu_tư , lắp_đặt , quản_lí vận_hành Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phục_vụ giao_nhận điện_năng giữa lưới_điện_phân_phối trong phạm_vi quản_lí và Khách_hàng sử_dụng điện , trừ trường_hợp các bên có thoả_thuận khác bảo_đảm quyền_lợi giữa các bên nhưng không trái với quy_định của pháp_luật . Đảm_bảo Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm đáp_ứng quy_định tại Thông_tư này , phù_hợp với thiết_kế được duyệt và quy_định của pháp_luật về đo_lường .
+
+4 . Quản_lý , vận_hành Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm trong phạm_vi quản_lí đảm_bảo số_liệu đo_đếm chính_xác , an_toàn và tin_cậy phục_vụ giao_nhận điện_năng .
+
+5 . Chủ_trì tổ_chức nghiệm_thu , kiểm_định , xử_lí_sự_cố , thay_thế , nâng_cấp cải_tạo , huỷ_bỏ Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm trong phạm_vi quản_lí theo quy_định tại Thông_tư này và quy_định của pháp_luật về đo_lường .
+
+6 . Chủ_trì , phối_hợp với các Đơn_vị giao_nhận điện liên_quan thoả_thuận phương_thức giao_nhận điện_năng , thu_thập số_liệu đo_đếm , lập biên_bản xác_nhận điện_năng giao_nhận phục_vụ thanh_toán điện_năng trong phạm_vi quản_lý .
+
+7 . Chủ_trì thống_nhất phương_án và kết_quả tính_toán sản_lượng điện_năng truy_thu , thoái hoàn trong trường_hợp sự_cố hoặc bất_thường của Hệ_thống đo_đếm trong phạm_vi quản_lý .
+
+Điều 9 . Trách_nhiệm của Khách_hàng sử_dụng điện
+
+1 . Tạo điều_kiện thuận_lợi và phối_hợp với bên bán điện trong việc lắp_đặt , nghiệm_thu , kiểm_định , xử_lí_sự_cố , thay_thế , nâng_cấp , cải_tạo Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm ( nếu có ) phục_vụ bán điện cho Khách_hàng sử_dụng điện .
+
+2 . Trường_hợp đấu nối vào cấp điện_áp từ 110 kV trở lên , Khách_hàng sử_dụng điện có trách_nhiệm phối_hợp với bên bán điện trong việc thống_nhất về thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phục_vụ giao_nhận điện_năng giữa Khách_hàng sử_dụng điện với lưới_điện truyền_tải hoặc lưới_điện_phân_phối .
+
+3 . Trường_hợp Khách_hàng sử_dụng điện đầu_tư Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm theo thoả_thuận với bên bán điện , Khách_hàng sử_dụng điện có trách_nhiệm lập hồ_sơ thoả_thuận thiết_kế kĩ_thuật , chủ_trì tổ_chức nghiệm_thu , kiểm_định , quản_lí vận_hành , xử_lí_sự_cố , thay_thế , nâng_cấp , cải_tạo Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm ( nếu có ) trong phạm_vi quản_lí theo quy_định tại Thông_tư này và quy_định của pháp_luật về đo_lường .
+
+4 . Phối_hợp với bên bán điện hoặc Đơn_vị quản_lí lưới_điện ghi chỉ_số công_tơ đo_đếm , tổng_hợp sản_lượng điện_năng giao_nhận làm căn_cứ đối_chiếu và xác_nhận điện_năng thanh_toán .
+
+5 . Phối_hợp với bên bán điện tính_toán sản_lượng điện_năng truy_thu , thoái hoàn tại các điểm giao_nhận điện_năng trong trường_hợp sự_cố hoặc bất_thường của Hệ_thống đo_đếm .
+
+6 . Không tự_ý thay_đổi , can_thiệp trái_phép Hệ_thống đo_đếm ; phối_hợp với bên bán điện bảo_vệ Hệ_thống đo_đếm trong phạm_vi quản_lí của khách_hàng . Thông_báo kịp_thời cho bên bán điện hoặc Đơn_vị quản_lí lưới_điện tình_trạng sự_cố và hoạt_động bất_thường của Hệ_thống đo_đếm .
+
+Điều 10 . Trách_nhiệm của Đơn_vị vận_hành hệ_thống điện và thị_trường điện
+
+1 . Phối_hợp với Đơn_vị quản_lí_số_liệu đo_đếm để quản_lý , sử_dụng bộ cơ_sở dữ_liệu đo_đếm phục_vụ vận_hành hệ_thống điện và thị_trường điện .
+
+2 . Phối_hợp với Công_ti Mua_bán điện , Đơn_vị truyền_tải_điện và Đơn_vị phân_phối điện trong việc thoả_thuận , thống_nhất về thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phục_vụ giao_nhận và thanh_toán điện_năng trong thị_trường điện .
+
+3 . Quản_lý , sử_dụng và công_bố các số_liệu đo_đếm trên trang thông_tin điện_tử chính_thức của thị_trường điện phục_vụ thanh_toán và điều_hành thị_trường điện .
+
+Điều 11 . Trách_nhiệm của Đơn_vị quản_lí_số_liệu đo_đếm
+
+1 . Đầu_tư , quản_lí vận_hành các thiết_bị , chương_trình , phần_mềm thuộc Hệ_thống thu_thập số_liệu đo_đếm và Hệ_thống quản_lí_số_liệu đo_đếm trong phạm_vi quản_lý .
+
+2 . Phối_hợp với Đơn_vị đầu_tư hệ_thống đo_đếm , Đơn_vị giao_nhận điện liên_quan thoả_thuận thiết_kế kĩ_thuật và nghiệm_thu Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm . Thực_hiện cấp_phát mã điểm đo cho các điểm đo thuộc trách_nhiệm phải thu_thập của Đơn_vị quản_lí_số_liệu đo_đếm .
+
+3 . Thu_thập số_liệu đo_đếm trong phạm_vi quản_lí và cung_cấp số_liệu đo_đếm thu_thập được cho các Đơn_vị giao_nhận điện liên_quan theo nguyên_tắc đảm_bảo quyền sử_dụng số_liệu , an_toàn , bảo_mật và thuận_lợi trong việc khai_thác , sử_dụng số_liệu đo_đếm . Chịu trách_nhiệm về tính đầy_đủ và chính_xác của số_liệu đo_đếm đã thu_thập so với số_liệu ghi_nhận tại công_tơ đo_đếm .
+
+4 . Thực_hiện các quy_định của pháp_luật về kiểm_toán , kiểm_tra đối_với các quy_trình , phần_mềm , chương_trình thu_thập , xử_lí và lưu_trữ số_liệu đo_đếm trong phạm_vi quản_lí đảm_bảo sự chính_xác của số_liệu đo_đếm và đáp_ứng các quy_định tại Thông_tư này .
+
+5 . Thực_hiện các biện_pháp quản_lý , bảo_mật mật_khẩu công_tơ đo_đếm và chịu trách_nhiệm trước pháp_luật trong việc quản_lý , bảo_mật các mật_khẩu công_tơ đo_đếm tiếp_nhận từ Đơn_vị quản_lí vận_hành hệ_thống đo_đếm .
+
+6 . Tham_gia truy_xuất số_liệu phục_vụ công_tác tính_toán sản_lượng điện_năng truy_thu , thoái hoàn tại các điểm giao_nhận điện trong trường_hợp sự_cố hoặc bất_thường của Hệ_thống đo_đếm .
+
+7 . Lưu_trữ các số_liệu đo_đếm trong thời_gian ít_nhất 05 năm .
+
+Điều 12 . Trách_nhiệm của Đơn_vị thí_nghiệm , kiểm_định
+
+1 . Thí_nghiệm , kiểm_định , cài_đặt thông_số , niêm_phong kẹp chì các thiết_bị đo_đếm theo hợp_đồng kí_kết với Đơn_vị sở_hữu hệ_thống đo_đếm hoặc Đơn_vị quản_lí vận_hành hệ_thống đo_đếm , đảm_bảo đáp_ứng quy_định tại Thông_tư này và quy_định của pháp_luật về đo_lường .
+
+2 . Thực_hiện các biện_pháp quản_lý , bảo_mật các mật_khẩu công_tơ đo_đếm và chịu trách_nhiệm trước pháp_luật trong việc quản_lý , bảo_mật các mật_khẩu công_tơ đo_đếm do đơn_vị thực_hiện cài_đặt .
+
+Chương_iii
+
+Yêu_cầu Đối_với Hệ_thống Đo_đếm
+
+Mục 1 . Yêu_cầu Chung Đối_với Hệ_thống Đo_đếm
+
+Điều 13 . Nguyên_tắc xác_định vị_trí đo_đếm
+
+1 . Vị_trí đo_đếm chính được xác_định phải trùng hoặc liền kề với điểm đấu nối .
+
+2 . Đối_với cấp điện_áp từ trung áp trở lên , tại mỗi điểm đấu nối phải xác_định vị_trí đo_đếm chính và các vị_trí đo_đếm dự_phòng . Vị_trí và số_lượng đo_đếm dự_phòng được xác_định chính_xác theo cấp điện_áp và tính_chất đặc_thù của vị_trí đo_đếm .
+
+3 . Đối_với cấp điện_áp hạ_áp , tại mỗi điểm đấu nối phải xác_định một vị_trí đo_đếm chính .
+
+4 . Trường_hợp không đủ điều_kiện để bố_trí vị_trí đo_đếm theo quy_định tại Khoản 1 Điều này , các đơn_vị liên_quan phải thoả_thuận vị_trí đo_đếm thay_thế đồng_thời xác_định phương_thức quy_đổi điện_năng từ vị_trí đo_đếm thay_thế về điểm đấu nối . Trong trường_hợp này , phương_pháp_quy_đổi phải xét đến tổn_thất trên máy biến_áp và đường_dây liên_hệ giữa vị_trí đo_đếm thay_thế với điểm đấu nối trong quá_trình vận_hành để quy_đổi điện_năng từ vị_trí đo_đếm thay_thế về điểm đấu nối trong quá_trình giao_nhận và thanh_toán .
+
+Điều 14 . Vị_trí đo_đếm của nhà_máy_điện
+
+1 . Trường_hợp Đơn_vị phát_điện sở_hữu nhà_máy_điện tham_gia thị_trường điện cạnh_tranh hoặc nhà_máy_điện lớn
+
+a ) Tại mỗi điểm đấu nối phải xác_định 01 ( một ) vị_trí đo_đếm chính và 02 ( hai ) vị_trí đo_đếm dự_phòng ;
+
+b ) Điểm_đấu nối thuộc trạm biến_áp của Đơn_vị phát_điện
+
+- Vị_trí đo_đếm chính được xác_định tại máy cắt tổng_hoặc đầu cực phía cao_áp của máy biến_áp tăng áp_đấu nối trực_tiếp với lưới_điện , trừ trường_hợp có thoả_thuận khác ;
+
+- Vị_trí đo_đếm dự_phòng 01 được xác_định tại các xuất tuyến lộ đường_dây của trạm biến_áp tại nhà_máy_điện , trừ trường_hợp có thoả_thuận khác ;
+
+- Vị_trí đo_đếm dự_phòng 02 được xác_định tại đầu cực máy phát , trừ trường_hợp có thoả_thuận khác .
+
+c ) Điểm_đấu nối không thuộc trạm biến_áp của Đơn_vị phát_điện
+
+- Trường_hợp trạm biến_áp của Đơn_vị phát_điện chỉ có 01 đường_dây đấu nối vào hệ_thống điện qua điểm đấu nối và không có điện_năng đi vòng qua thanh cái trạm biến_áp của Đơn_vị phát_điện thì vị_trí đo_đếm chính trùng hoặc liền kề với điểm đấu nối ;
+
+- Trường_hợp trạm biến_áp của Đơn_vị phát_điện có từ 02 đường_dây trở lên đấu nối vào hệ_thống điện qua điểm đấu nối và có điện_năng vòng qua thanh cái trạm biến_áp của Đơn_vị phát_điện thì vị_trí đo_đếm chính được xác_định theo quy_định tại Điểm b Khoản này ;
+
+- Vị_trí đo_đếm dự_phòng 01 được xác_định theo thoả_thuận giữa các bên liên_quan ;
+
+- Vị_trí đo_đếm dự_phòng 02 được xác_định theo quy_định tại Điểm b Khoản này .
+
+d ) Trường_hợp vị_trí đo_đếm chính hoặc các vị_trí đo_đếm dự_phòng được xác_định tại trạm điện của Đơn_vị quản_lí lưới_điện thì phải có thoả_thuận giữa Đơn_vị phát_điện , Đơn_vị quản_lí lưới_điện , Công_ti Mua_bán điện và Đơn_vị giao_nhận điện liên_quan ( nếu có ) .
+
+2 . Trường_hợp Đơn_vị phát_điện sở_hữu nhà_máy_điện nhỏ không tham_gia thị_trường điện
+
+a ) Tại mỗi điểm đấu nối phải xác_định 01 ( một ) vị_trí đo_đếm chính và 01 ( một ) vị_trí đo_đếm dự_phòng ;
+
+b ) Vị_trí đo_đếm chính và vị_trí đo_đếm dự_phòng được xác_định theo quy_định tại Điểm b , Điểm c và Điểm d Khoản 1 Điều này .
+
+Điều 15 . Vị_trí đo_đếm của Khách_hàng sử_dụng điện hoặc Đơn_vị phân_phối và bán_lẻ điện_đấu nối vào cấp điện_áp từ trung áp trở_lên
+
+1 . Đối_với các điểm đấu nối cấp điện_áp từ 110 kV trở lên , tại mỗi điểm đấu nối phải xác_định 01 ( một ) vị_trí đo_đếm chính và 01 ( một ) vị_trí đo_đếm dự_phòng .
+
+2 . Đối_với các đấu nối cấp điện_áp trung áp , Khách_hàng sử_dụng điện hoặc Đơn_vị phân_phối và bán_lẻ điện có_thể thoả_thuận với Đơn_vị phân_phối điện vị_trí đo_đếm dự_phòng nếu thấy cần_thiết .
+
+3 . Đối_với các đấu nối phục_vụ giao_nhận giữa Đơn_vị phân_phối và bán_lẻ điện với Khách_hàng sử_dụng điện : Vị_trí đo_đếm chính và vị_trí đo_đếm dự_phòng ( nếu có ) được xác_định theo thoả_thuận giữa hai bên phù_hợp với quy_định tại Thông_tư này .
+
+4 . Điểm_đấu nối thuộc trạm biến_áp của Đơn_vị truyền_tải_điện hoặc Đơn_vị phân_phối điện
+
+a ) Vị_trí đo_đếm chính được xác_định tại điểm đấu nối , trừ trường_hợp có thoả_thuận khác ;
+
+b ) Vị_trí đo_đếm dự_phòng ( nếu có ) được xác_định theo thoả_thuận giữa các bên liên_quan .
+
+5 . Điểm_đấu nối thuộc trạm biến_áp của Khách_hàng sử_dụng điện hoặc Đơn_vị phân_phối và bán_lẻ điện
+
+a ) Vị_trí đo_đếm chính được xác_định tại máy cắt tổng_hoặc đầu cực phía cao_áp của máy biến_áp_đấu nối trực_tiếp với lưới_điện , trừ trường_hợp có thoả_thuận khác ;
+
+b ) Vị_trí đo_đếm dự_phòng
+
+- Đối_với cấp điện_áp từ 110 kV trở lên : Được xác_định tại các xuất tuyến lộ đường_dây của trạm biến_áp_đấu nối trực_tiếp với lưới_điện , trừ trường_hợp có thoả_thuận khác ;
+
+- Đối_với cấp điện_áp trung áp : Được xác_định theo thoả_thuận giữa các bên liên_quan .
+
+6 . Trường_hợp điểm đấu nối khác với quy_định tại Khoản 4 và Khoản 5 Điều này , vị_trí đo_đếm chính và vị_trí đo_đếm dự_phòng được xác_định theo thoả_thuận giữa các bên liên_quan .
+
+Điều 16 . Vị_trí đo_đếm giữa lưới_điện truyền_tải và lưới_điện_phân_phối
+
+1 . Tại mỗi điểm đấu nối phải xác_định 01 ( một ) vị_trí đo_đếm chính và 01 ( một ) vị_trí đo_đếm dự_phòng .
+
+2 . Điểm_đấu nối thuộc trạm điện của Đơn_vị truyền_tải_điện
+
+a ) Vị_trí đo_đếm chính được xác_định tại máy cắt tổng_hoặc đầu cực phía hạ_áp của máy biến_áp tại trạm điện của Đơn_vị truyền_tải_điện , trừ trường_hợp có thoả_thuận khác ;
+
+b ) Vị_trí đo_đếm dự_phòng được xác_định tại các xuất tuyến lộ đường_dây của trạm biến_áp của Đơn_vị truyền_tải_điện , trừ trường_hợp có thoả_thuận khác .
+
+3 . Điểm_đấu nối thuộc trạm biến_áp của Đơn_vị phân_phối điện
+
+a ) Vị_trí đo_đếm chính được xác_định tại máy cắt tổng_hoặc đầu cực phía cao_áp của máy biến_áp phân_phối đấu nối trực_tiếp với lưới_điện truyền_tải , trừ trường_hợp có thoả_thuận khác ;
+
+b ) Vị_trí đo_đếm dự_phòng được xác_định tại các xuất tuyến lộ đường_dây của trạm biến_áp của Đơn_vị phân_phối điện , trừ trường_hợp có thoả_thuận khác .
+
+Điều 17 . Vị_trí đo_đếm giữa hai Đơn_vị phân_phối điện
+
+Vị_trí đo_đếm chính và vị_trí đo_đếm dự_phòng được xác_định theo thoả_thuận giữa các Đơn_vị phân_phối điện và Đơn_vị giao_nhận điện liên_quan .
+
+Điều 18 . Vị_trí đo_đếm cấp điện_áp hạ_áp
+
+Vị_trí đo_đếm đối_với Khách_hàng sử_dụng lưới_điện_phân_phối đấu nối cấp điện_áp hạ_áp được xác_định tại điểm đấu nối của Khách_hàng sử_dụng lưới_điện_phân_phối , trừ trường_hợp có thoả_thuận khác .
+
+Điều 19 . Yêu_cầu đối_với Hệ_thống đo_đếm
+
+1 . Hệ_thống đo_đếm chính được lắp_đặt tại vị_trí đo_đếm chính , phải xác_định chính_xác , đầy_đủ các đại_lượng đo_đếm mua_bán điện và loại_trừ được các yếu_tố ảnh_hưởng đến kết_quả đo_đếm bởi kết_cấu mạch vòng của hệ_thống điện để làm căn_cứ chính phục_vụ tính_toán , thanh_toán điện_năng qua điểm đấu nối .
+
+2 . Hệ_thống đo_đếm dự_phòng được lắp_đặt tại vị_trí đo_đếm dự_phòng để thực_hiện các chức_năng sau :
+
+a ) Thay_thế cho Hệ_thống đo_đếm chính để làm cơ_sở tính_toán các đại_lượng mua_bán điện trong trường_hợp Hệ_thống đo_đếm chính hoạt_động không chính_xác hoặc bị sự_cố căn_cứ vào kết_quả kiểm_định của Đơn_vị thí_nghiệm , kiểm_định và biên_bản thống_nhất của các bên liên_quan ;
+
+b ) Kiểm_tra , giám_sát kết_quả đo_đếm của Hệ_thống đo_đếm chính trong điều_kiện Hệ_thống đo_đếm chính làm_việc bình_thường ;
+
+c ) Kết_hợp với Hệ_thống đo_đếm chính và các Hệ_thống đo_đếm dự_phòng khác để tính_toán sản_lượng điện_năng phục_vụ thanh_toán trong một_số trường_hợp đặc_biệt .
+
+3 . Thiết_bị đo_đếm phải đảm_bảo đáp_ứng các yêu_cầu kĩ_thuật về đo_lường và được phê_duyệt mẫu , kiểm_định , thử_nghiệm theo quy_định của pháp_luật về đo_lường .
+
+4 . Không sử_dụng Ct lắp_đặt hợp bộ tại chân sứ máy biến_áp , máy cắt cho Hệ_thống đo_đếm phục_vụ mua_bán điện .
+
+Điều 20 . Yêu_cầu đối_với mạch đo
+
+1 . Cuộn thứ cấp của Ct và cáp nhị thứ nối với công_tơ đo_đếm của Hệ_thống đo_đếm chính không được sử_dụng cho mục_đích khác và phải độc_lập với Hệ_thống đo_đếm dự_phòng . Đối_với Ct của hệ_thống đo_đếm dự_phòng , cuộn thứ cấp đo_lường có_thể dùng chung cho cả công_tơ đo_đếm và thiết_bị đo_lường ,
+
+điều_khiển khác , với điều_kiện việc sử_dụng chung mạch nhị thứ phải được thiết_kế đảm_bảo_an_toàn và hoạt_động chính_xác của hệ_thống đo_đếm dự_phòng . Không sử_dụng cuộn thứ cấp đo_lường cấp điện chung cho công_tơ đo_đếm và thiết_bị bảo_vệ .
+
+2 . Cáp nhị thứ nối từ cuộn thứ cấp Vt với công_tơ đo_đếm của Hệ_thống đo_đếm chính không được sử_dụng cho mục_đích khác và phải độc_lập với Hệ_thống đo_đếm dự_phòng .
+
+3 . Cáp nhị thứ của mạch đo phải được đi theo đường ngắn nhất , số_lượng điểm nối qua hàng kẹp ít_nhất và phải có đủ điều_kiện thực_hiện biện_pháp niêm_phong , kẹp chì tủ hàng kẹp hoặc điểm nối . Cáp nhị thứ của Hệ_thống đo_đếm chính phải đi riêng và nối trực_tiếp từ hộp đấu dây của Ct , tủ trung_gian của Vt đến tủ công_tơ đo_đếm mà không qua hàng kẹp tại tủ trung_gian . Loại cáp nhị thứ của mạch đo phải là dây_điện có ruột dẫn mềm , hai lớp cách_điện .
+
+4 . Trường_hợp công_tơ đo_đếm được cấp điện_áp từ một trong những Vt thanh cái thông_qua bộ chuyển mạch điện_áp , các đầu đấu dây bộ chuyển mạch điện_áp phải đảm_bảo điều_kiện niêm_phong kẹp chì và công_tơ đo_đếm phải được lập_trình để ghi lại thời_điểm và khoảng thời_gian chuyển mạch điện_áp .
+
+5 . Phụ_tải mạch thứ cấp đo_lường sau Ct , Vt phải trong giới_hạn dung_lượng định_mức của Ct , Vt theo quy_định của nhà chế_tạo .
+
+6 . Mạch nhị thứ đo_đếm phải được đấu nối đảm_bảo việc niêm_phong kẹp chì không ảnh_hưởng đến mạch nhị thứ điều_khiển và bảo_vệ .
+
+7 . Trường_hợp mạch dòng_điện của Hệ_thống đo_đếm dự_phòng sử_dụng chung với các thiết_bị đo_lường khác , công_tơ đo_đếm phải được đấu trước các thiết_bị đo_lường , đồng_thời phải đảm_bảo không làm ảnh_hưởng tới độ chính_xác của Hệ_thống đo_đếm dự_phòng và đủ điều_kiện thực_hiện niêm_phong kẹp chì mạch dòng_điện từ hộp đấu dây của Ct đến công_tơ đo_đếm .
+
+8 . Các hộp nối thí_nghiệm được lắp_đặt để phục_vụ cho việc kiểm_định thiết_bị đo_đếm phải đủ điều_kiện niêm_phong , kẹp chì . Trường_hợp cuộn thứ cấp cho Hệ_thống đo_đếm và cuộn thứ cấp bảo_vệ được đặt chung một hộp đấu dây thứ cấp và không_thể niêm_phong toàn_bộ hộp đấu dây thứ cấp thì phải có biện_pháp niêm_phong riêng cuộn thứ cấp cho Hệ_thống đo_đếm để đảm_bảo chống can_thiệp trái_phép .
+
+9 . Đối_với các vị_trí đo_đếm chính của nhà_máy_điện lớn và nhà_máy_điện tham_gia thị_trường điện , trường_hợp công_tơ đo_đếm không được cấp nguồn nuôi liên_tục từ hệ_thống điện_áp thứ cấp đo_lường thì phải trang_bị thêm nguồn nuôi dự_phòng cho công_tơ đo_đếm từ hệ_thống mạch cấp nguồn điệp áp dự_phòng đảm_bảo công_tơ đo_đếm vận_hành liên_tục . Việc cấp nguồn dự_phòng cho công_tơ đo_đếm phải đảm_bảo hoạt_động chính_xác của công_tơ đo_đếm và các yêu_cầu kĩ_thuật của mạch đo .
+
+Điều 21 . Yêu_cầu đối_với niêm_phong kẹp chì và bảo_mật
+
+1 . Toàn_bộ Hệ_thống đo_đếm bao_gồm hộp đấu dây Ct , Vt , công_tơ đo_đếm , mạch dòng_điện , mạch điện_áp , mạch logic chuyển_đổi và hộp nối thí_nghiệm ( nếu có ) phải được niêm_phong , kẹp chì để chống can_thiệp trái_phép theo đúng quy_định của pháp_luật .
+
+2 . Đơn_vị phân_phối điện , Đơn_vị phân_phối và bán_lẻ điện ban_hành quy_định sử_dụng kìm niêm , chì niêm hộp đấu dây ( ct , Vt , công_tơ đo_đếm ) , hộp bảo_vệ công_tơ đo_đếm và Quyết_định số_lượng kìm niêm , chì niêm hộp đấu dây ( ct , Vt , công_tơ đo_đếm ) , hộp bảo_vệ công_tơ đo_đếm phù_hợp với số_lượng thiết_bị đo_đếm trong phạm_vi quản_lí và thực_hiện đăng_kí số_lượng , mã_hiệu mặt chì niêm theo quy_định .
+
+3 . Đối_với các Hệ_thống đo_đếm có trang_bị Hệ_thống thu_thập số_liệu đo_đếm , số_liệu đo_đếm sau khi được đọc và thu_thập từ các vị_trí đo_đếm phải được bảo_mật , mã_hoá để tránh sự can_thiệp trái_phép .
+
+4 . Phần_mềm quản_lí hệ_thống đọc , truyền và tổng_hợp_số_liệu đo_đếm điện_năng phải được bảo_mật bằng nhiều cấp mật_khẩu để đảm_bảo tính bảo_mật , chính_xác và tin_cậy của số_liệu đo_đếm .
+
+Điều 22 . Quản_lí mật_khẩu công_tơ đo_đếm
+
+1 . Mật_khẩu công_tơ đo_đếm phải chia thành 03 ( ba ) mức truy_cập khác nhau nhằm phục_vụ yêu_cầu quản_lí vận_hành công_tơ đo_đếm và được quy_ước như sau :
+
+a ) Mật_khẩu Cài_đặt là mức mật_khẩu cho phép truy_nhập công_tơ đo_đếm để cài_đặt , thay_đổi các thông_số và chương_trình làm_việc của công_tơ đo_đếm . Mật_khẩu này được sử_dụng để cài_đặt một hoặc toàn_bộ các thông_số của công_tơ đo_đếm và chỉ người có trách_nhiệm hoặc có thẩm_quyền mới được sử_dụng ;
+
+b ) Mật_khẩu Đồng_bộ thời_gian là mức mật_khẩu cho phép truy_nhập công_tơ đo_đếm để đọc số_liệu và đồng_bộ thời_gian của công_tơ đo_đếm . Mật_khẩu này không cho phép cài_đặt , thay_đổi các thông_số và chương_trình làm_việc của công_tơ đo_đếm và chỉ người có trách_nhiệm hoặc có thẩm_quyền mới được sử_dụng ;
+
+c ) Mật_khẩu Chỉ đọc là mức mật_khẩu cho phép truy_nhập công_tơ đo_đếm để đọc số_liệu nhưng không cho phép thay_đổi các thông_số cài_đặt và chương_trình làm_việc của công_tơ đo_đếm . Mật_khẩu này được sử_dụng để thu_thập số_liệu công_tơ đo_đếm tại_chỗ hoặc từ xa .
+
+2 . Nội_dung các mức mật_khẩu của mỗi công_tơ đo_đếm phải được cài_đặt khác nhau . Các mật_khẩu công_tơ đo_đếm phải được lưu_trữ , bảo_mật trong từng phong_bì có niêm_phong dán kín tương_ứng với từng công_tơ đo_đếm .
+
+3 . Các phong_bì mật_khẩu công_tơ đo_đếm phải được bàn_giao cho người có trách_nhiệm quản_lí và lưu_trữ . Người quản_lí có trách_nhiệm tổng_hợp các phong_bì mật_khẩu công_tơ đo_đếm thành một bộ hồ_sơ mật_khẩu công_tơ đo_đếm với các nội_dung sau : Chủng_loại công_tơ đo_đếm , số công_tơ đo_đếm , Đơn_vị sở_hữu hệ_thống đo_đếm , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm .
+
+4 . Việc bàn_giao phong_bì mật_khẩu công_tơ đo_đếm trong quá_trình quản_lí lưu_trữ hoặc sử_dụng mật_khẩu công_tơ đo_đếm phải được ghi_nhận bằng biên_bản có chữ_kí xác_nhận của hai bên tiếp_nhận và bàn_giao .
+
+5 . Đối_với các công_tơ đo_đếm sử_dụng mật_khẩu cài_đặt là khoá cứng thì phải được niêm_phong đảm_bảo không_thể can_thiệp được vào công_tơ đo_đếm nếu không phá_bỏ niêm_phong .
+
+6 . Đơn_vị sở_hữu hệ_thống đo_đếm hoặc Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm trong việc quản_lý , bảo_mật các mật_khẩu Chỉ đọc của công_tơ đo_đếm .
+
+7 . Đơn_vị thí_nghiệm , kiểm_định có trách_nhiệm trong việc quản_lý , bảo_mật mật_khẩu Cài_đặt của công_tơ đo_đếm .
+
+8 . Đơn_vị quản_lí_số_liệu đo_đếm có trách_nhiệm trong việc quản_lý , bảo_mật mật_khẩu Đồng_bộ thời_gian của công_tơ đo_đếm .
+
+Điều 23 . Quản_lí hồ_sơ phục_vụ đo_đếm , giao_nhận điện_năng
+
+Trong quá_trình thiết_kế , đầu_tư , quản_lí vận_hành và giao_nhận , thanh_toán , các đơn_vị liên_quan có trách_nhiệm quản_lí và lưu_trữ các hồ_sơ sau :
+
+1 . Đo_đếm , giao_nhận điện_năng giữa nhà_máy_điện với lưới_điện hoặc giao_nhận điện_năng giữa lưới_điện truyền_tải với lưới_điện_phân_phối
+
+a ) Hồ_sơ thiết_kế kĩ_thuật Hệ_thống đo_đếm đã được thoả_thuận thống_nhất giữa các bên liên_quan theo quy_định ;
+
+b ) Bản_sao có chứng_thực Giấy chứng_nhận kiểm_định đối_với Ct , Vt , công_tơ đo_đếm của Đơn_vị thí_nghiệm , kiểm_định trong trường_hợp sử_dụng với dấu kiểm_định kiểu 1 ;
+
+c ) Biên_bản thí_nghiệm đối_với Ct , Vt và công_tơ đo_đếm của Đơn_vị thí_nghiệm , kiểm_định ;
+
+d ) Biên_bản kiểm_tra , thí_nghiệm tổng_mạch nhị thứ của Hệ_thống đo_đếm của Đơn_vị thí_nghiệm , kiểm_định ;
+
+đ ) Biên_bản cài_đặt thông_số của công_tơ đo_đếm ;
+
+e ) Biên_bản nghiệm_thu hoàn_thành lắp_đặt Hệ_thống đo_đếm , ngày kiểm_định và kí_hiệu chì kiểm_định ;
+
+g ) Biên_bản nghiệm_thu hoàn_thành lắp_đặt Hệ_thống thu_thập số_liệu đo_đếm ;
+
+h ) Biên_bản nghiệm_thu , kiểm_định , xử_lí_sự_cố và thay_thế thiết_bị của Hệ_thống đo_đếm trong quá_trình quản_lý , vận_hành ;
+
+i ) Bản_vẽ hoàn_công mạch nhị thứ đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm ;
+
+k ) Các biên_bản liên_quan đến việc ghi , chốt chỉ_số công_tơ đo_đếm phục_vụ thanh quyết_toán điện_năng giao_nhận .
+
+2 . Giao_nhận điện_năng giữa bên bán điện với Khách_hàng sử_dụng điện
+
+a ) Cấp điện_áp từ 110 kV trở lên : Các tài_liệu được quy_định tại Khoản 1 Điều này ;
+
+b ) Cấp điện_áp trung áp : Các tài_liệu được quy_định tại Điểm a , Điểm b ( nếu có ) , Điểm c , Điểm d , Điểm_e , Điểm g ( nếu có ) và Điểm_k ( nếu có ) Khoản 1 Điều này ;
+
+c ) Cấp điện_áp hạ_áp : Các tài_liệu được quy_định tại Điểm b ( nếu có ) , Điểm đ ( nếu có ) , Điểm e Khoản 1 Điều này .
+
+Mục 2 . Yêu_cầu Đối_với Hệ_thống Đo_đếm Cấp Điện_áp Từ Trung_áp Trở_lên
+
+Điều 24 . Cấu_hình của Hệ_thống đo_đếm
+
+1 . Cấu_hình của Hệ_thống đo_đếm bao_gồm :
+
+a ) Công_tơ đo_đếm ;
+
+b ) Ct ;
+
+c ) Vt ;
+
+d ) Mạch điện và cáp nhị thứ đo_đếm ;
+
+đ ) Thiết_bị phục_vụ thu_thập số_liệu đo_đếm ;
+
+e ) Thiết_bị bảo_vệ an_toàn , vị_trí niêm_phong , kẹp chì ;
+
+g ) Thiết_bị phụ_trợ , tủ công_tơ đo_đếm , hộp đấu nối thử_nghiệm , thiết_bị chuyển_đổi đấu nối , thiết_bị cô_lập mạch đo phục_vụ thử_nghiệm , thiết_bị chuyển mạch logic , mạch áp ( hoặc mạch dòng ) cấp cho công_tơ đo_đếm , thiết_bị kiểm_tra điện_áp và dòng_điện , thiết_bị chống sét cho kênh thông_tin viễn_thông của công_tơ đo_đếm .
+
+2 . Cấu_hình_cụ_thể của một Hệ_thống đo_đếm được xác_định chính_xác theo cấp điện_áp , quy_mô mua_bán điện và đặc_thù của vị_trí đo_đếm .
+
+Điều 25 . Yêu_cầu đối_với công_tơ đo_đếm
+
+1 . Yêu_cầu chung
+
+a ) Là loại 03 pha 04 dây hoặc 01 pha 02 dây ;
+
+b ) Kiểu điện_tử tích_hợp chức_năng và có_thể lập_trình được ;
+
+c ) Có một hoặc nhiều biểu giá ;
+
+d ) Đo_đếm điện_năng tác_dụng và phản_kháng theo hai chiều nhận và phát riêng_biệt theo 04 góc phần tư ;
+
+đ ) Có chức_năng đo công_suất cực_đại , ghi biểu_đồ phụ_tải tổng ;
+
+e ) Có tính_năng kết_nối với máy_tính , thu_thập , đọc số_liệu tại_chỗ và từ xa ;
+
+g ) Được cấp nguồn từ hệ_thống điện_áp thứ cấp đo_lường và phải đảm_bảo duy_trì hoạt_động khi mất điện_áp 01 pha hoặc 02 pha bất_kỳ ;
+
+h ) Phải có nguồn bên trong để nuôi đồng_hồ thời_gian thực . Trong trường_hợp cần_thiết , công_tơ đo_đếm có_thể_tích_hợp nguồn pin phục_vụ cho việc đọc dữ_liệu trên màn_hình hiển_thị ;
+
+i ) Có nhiều mức mật_khẩu ;
+
+k ) Có các vị_trí niêm_phong , kẹp chì đảm_bảo không_thể tiếp_cận với các đầu cực đấu dây và thay_đổi các thông_số cài_đặt trong công_tơ đo_đếm nếu không phá_bỏ chì niêm_phong ;
+
+l ) Có chức_năng lưu_trữ thông_tin đo_đếm , biểu_đồ phụ_tải ít_nhất 60 ngày với chu_kì ghi giá_trị đo_đếm 30 phút cho một kênh dữ_liệu và có_thể lập_trình đặt được chu_kì_tích_phân nhỏ hơn 30 phút ;
+
+m ) Có dòng_điện và điện_áp phù_hợp với dòng_điện và điện_áp thứ cấp của Ct và Vt ;
+
+n ) Công_tơ đo_đếm phải được kết_nối với Hệ_thống thu_thập số_liệu đo_đếm tại_chỗ hoặc từ xa phù_hợp với chuẩn kết_nối và phần_mềm thu_thập số_liệu đo_đếm .
+
+2 . Yêu_cầu về cấp chính_xác đối_với đo_đếm cấp điện_áp từ 220 kV trở lên hoặc đo_đếm phục_vụ giao_nhận điện_năng giữa nhà_máy_điện tham_gia thị_trường điện hoặc nhà_máy_điện lớn với lưới_điện
+
+a ) Công_tơ đo_đếm chính phải đạt cấp chính_xác 0 , 2 với điện_năng tác_dụng và 2 , 0 với điện_năng phản_kháng theo các tiêu_chuẩn do Bộ Khoa_học và Công_nghệ quy_định ;
+
+b ) Công_tơ đo_đếm dự_phòng phải đạt cấp chính_xác 0 , 5 với điện_năng tác_dụng và 2 , 0 với điện_năng phản_kháng theo các tiêu_chuẩn do Bộ Khoa_học và Công_nghệ quy_định .
+
+3 . Yêu_cầu về cấp chính_xác đối_với đo_đếm phục_vụ giao_nhận điện_năng trong các trường_hợp không thuộc trường_hợp quy_định tại Khoản 2 Điều này
+
+a ) Công_tơ đo_đếm chính phải đạt cấp chính_xác tối_thiểu 0 , 5 với điện_năng tác_dụng và 2 , 0 với điện_năng phản_kháng theo các tiêu_chuẩn do Bộ Khoa_học và Công_nghệ quy_định ;
+
+b ) Cấp chính_xác của công_tơ đo_đếm dự_phòng được xác_định theo thoả_thuận giữa các bên liên_quan nhưng không thấp hơn cấp chính_xác :
+
+- 0 , 5 với điện_năng tác_dụng và 2 , 0 với điện_năng phản_kháng đối_với đo_đếm cấp điện_áp 110 kV theo các tiêu_chuẩn do Bộ Khoa_học và Công_nghệ quy_định ;
+
+- 1 , 0 với điện_năng tác_dụng và 2 , 0 với điện_năng phản_kháng đối_với đo_đếm cấp điện_áp trung áp theo các tiêu_chuẩn do Bộ Khoa_học và Công_nghệ quy_định .
+
+4 . Trường_hợp Bộ Khoa_học và Công_nghệ chưa quy_định các tiêu_chuẩn về cấp chính_xác đối_với công_tơ đo_đếm thì sử_dụng Tiêu_chuẩn Iec hoặc các tiêu_chuẩn khác tương_đương .
+
+Điều 26 . Yêu_cầu đối_với Ct sử_dụng cho mục_đích đo_đếm điện_năng
+
+1 . Yêu_cầu chung
+
+a ) Có cuộn dây thứ cấp đo_lường dùng riêng cho các thiết_bị đo_lường và công_tơ đo_đếm điện_năng ;
+
+b ) Giá_trị dòng_điện thứ cấp danh định là 01 A hoặc 05 A ;
+
+c ) Có vị_trí niêm_phong kẹp chì tại nắp hộp đấu dây cuộn thứ cấp đo_lường cấp cho các thiết_bị đo_lường và công_tơ đo_đếm đảm_bảo không_thể tác_động vào mạch điện_đấu nối nếu không phá_bỏ niêm_phong .
+
+2 . Yêu_cầu về cấp chính_xác đối_với đo_đếm cấp điện_áp từ 220 kV trở lên hoặc đo_đếm phục_vụ giao_nhận điện_năng giữa nhà_máy_điện tham_gia thị_trường điện hoặc nhà_máy_điện lớn với lưới_điện
+
+a ) Cuộn thứ cấp đo_lường của Ct phục_vụ đo_đếm chính phải đạt cấp chính_xác 0 , 2 theo các tiêu_chuẩn do Bộ Khoa_học và Công_nghệ quy_định ;
+
+b ) Cuộn thứ cấp đo_lường của Ct phục_vụ đo_đếm dự_phòng phải đạt cấp chính_xác 0 , 5 theo các tiêu_chuẩn do Bộ Khoa_học và Công_nghệ ;
+
+c ) Dung_lượng của cuộn thứ cấp đo_lường của Ct phải nằm trong giới_hạn dung_lượng cho phép của phụ_tải mạch thứ cấp theo quy_định của nhà chế_tạo .
+
+3 . Yêu_cầu về cấp chính_xác đối_với đo_đếm phục_vụ giao_nhận điện_năng trong các trường_hợp không thuộc trường_hợp quy_định tại Khoản 2 Điều này
+
+a ) Cuộn thứ cấp đo_lường của Ct phục_vụ đo_đếm chính phải đạt cấp chính_xác tối_thiểu 0 , 5 theo các tiêu_chuẩn do Bộ Khoa_học và Công_nghệ quy_định ;
+
+b ) Cấp chính_xác của cuộn thứ cấp đo_lường của Ct phục_vụ đo_đếm dự_phòng được xác_định theo thoả_thuận giữa các bên liên_quan nhưng không thấp hơn cấp chính_xác 0 , 5 đối_với đo_đếm cấp điện_áp 110 kV và 1 , 0 đối_với đo_đếm cấp điện_áp trung áp theo các tiêu_chuẩn do Bộ Khoa_học và Công_nghệ quy_định .
+
+4 . Trường_hợp Bộ Khoa_học và Công_nghệ chưa quy_định các tiêu_chuẩn về cấp chính_xác đối_với Ct thì sử_dụng Tiêu_chuẩn Iec hoặc các tiêu_chuẩn khác tương_đương .
+
+Điều 27 . Yêu_cầu đối_với Vt sử_dụng cho mục_đích đo_đếm điện_năng
+
+1 . Yêu_cầu chung
+
+a ) Có cuộn dây thứ cấp đo_lường dùng riêng cho các thiết_bị đo_lường và công_tơ đo_đếm ;
+
+b ) Giá_trị điện_áp hệ_thống thứ cấp danh định ( điện_áp dây ) là 100 V hoặc 110 V ;
+
+c ) Có vị_trí niêm_phong tại nắp hộp đấu dây cuộn thứ cấp đo_lường cấp cho các thiết_bị đo_lường và công_tơ đo_đếm đảm_bảo không_thể tác_động vào mạch điện_đấu nối nếu không phá_bỏ niêm_phong .
+
+2 . Yêu_cầu về cấp chính_xác đối_với đo_đếm cấp điện_áp từ 220 kV trở lên hoặc đo_đếm phục_vụ giao_nhận điện_năng giữa nhà_máy_điện tham_gia thị_trường điện hoặc nhà_máy_điện lớn với lưới_điện
+
+a ) Vt phục_vụ đo_đếm chính phải đạt cấp chính_xác 0 , 2 theo các tiêu_chuẩn do Bộ Khoa_học và Công_nghệ quy_định ;
+
+b ) Vt phục_vụ đo_đếm dự_phòng phải đạt cấp chính_xác 0 , 5 theo các tiêu_chuẩn do Bộ Khoa_học và Công_nghệ quy_định ;
+
+c ) Dung_lượng của cuộn thứ cấp đo_lường của Vt phải trong giới_hạn dung_lượng cho phép của phụ_tải mạch thứ cấp theo quy_định của nhà chế_tạo .
+
+3 . Yêu_cầu về cấp chính_xác đối_với đo_đếm phục_vụ giao_nhận điện_năng trong các trường_hợp không thuộc trường_hợp quy_định tại Khoản 2 Điều này
+
+a ) Vt phục_vụ đo_đếm chính phải đạt cấp chính_xác 0 , 5 theo các tiêu_chuẩn do Bộ Khoa_học và Công_nghệ quy_định ;
+
+b ) Cấp chính_xác của Vt phục_vụ đo_đếm dự_phòng được xác_định theo thoả_thuận giữa các bên liên_quan nhưng không thấp hơn cấp chính_xác 0 , 5 đối_với đo_đếm cấp điện_áp 110 kV và 1 , 0 đối_với đo_đếm cấp điện_áp trung áp theo các tiêu_chuẩn do Bộ Khoa_học và Công_nghệ quy_định .
+
+4 . Trường_hợp Bộ Khoa_học và Công_nghệ chưa quy_định các tiêu_chuẩn về cấp chính_xác đối_với Vt thì sử_dụng Tiêu_chuẩn Iec hoặc các tiêu_chuẩn khác tương_đương .
+
+Mục 3 . Yêu_cầu Đối_với Hệ_thống Đo_đếm Cấp Điện_áp Hạ_áp
+
+Điều 28 . Yêu_cầu đối_với công_tơ đo_đếm
+
+1 . Là loại 03 pha 04 dây đối_với công_tơ đo_đếm 03 pha và loại 01 pha 02 dây đối_với công_tơ đo_đếm 01 pha .
+
+2 . Có các vị_trí niêm_phong , kẹp chì đảm_bảo không_thể tiếp_cận với các đầu cực đấu dây và thay_đổi các thông_số cài_đặt trong công_tơ đo_đếm nếu không phá_bỏ niêm_phong .
+
+3 . Đối_với công_tơ đo_đếm 03 pha , công_tơ đo_đếm điện_năng tác_dụng phải đạt cấp chính_xác 1 , 0 theo tiêu_chuẩn do Bộ Khoa_học và Công_nghệ quy_định . Đối_với công_tơ đo_đếm 01 pha , công_tơ đo_đếm điện_năng tác_dụng phải đạt cấp chính_xác 1 , 0 đối_với công_tơ đo_đếm điện_tử và cấp chính_xác 2 , 0 đối_với công_tơ đo_đếm cơ_khí theo tiêu_chuẩn do Bộ Khoa_học và Công_nghệ quy_định .
+
+Trường_hợp Bộ Khoa_học và Công_nghệ chưa quy_định các tiêu_chuẩn về cấp chính_xác đối_với công_tơ đo_đếm thì sử_dụng Tiêu_chuẩn Iec hoặc các tiêu_chuẩn khác tương_đương .
+
+4 . Đối_với công_tơ đo_đếm điện_tử : Có_thể được trang_bị đa chức_năng , có_thể lập_trình được và kết_nối với Hệ_thống thu_thập số_liệu đo_đếm từ xa phù_hợp với chuẩn kết_nối và phần_mềm thu_thập số_liệu đo_đếm .
+
+Điều 29 . Yêu_cầu đối_với Ct sử_dụng cho mục_đích đo_đếm điện_năng
+
+Trong trường_hợp sử_dụng Ct cho đo_đếm điện_năng hạ_áp , Ct phải đảm_bảo các yêu_cầu sau :
+
+1 . Có cuộn dây thứ cấp đo_lường dùng riêng cho công_tơ đo_đếm .
+
+2 . Giá_trị dòng_điện thứ cấp danh định là 01a hoặc 05a .
+
+3 . Có vị_trí niêm_phong kẹp chì tại nắp hộp đấu dây cuộn thứ cấp đo_lường cấp cho các thiết_bị đo_lường và công_tơ đo_đếm đảm_bảo không_thể tác_động vào mạch điện_đấu nối nếu không phá_bỏ niêm_phong .
+
+4 . Dung_lượng của cuộn thứ cấp đo_lường của Ct phải nằm trong giới_hạn dung_lượng cho phép của phụ_tải mạch thứ cấp theo quy_định của nhà chế_tạo .
+
+5 . Cấp chính_xác 0 , 5 theo tiêu_chuẩn do Bộ Khoa_học và Công_nghệ quy_định . Trường_hợp Bộ Khoa_học và Công_nghệ chưa quy_định các tiêu_chuẩn về cấp chính_xác đối_với Ct thì sử_dụng Tiêu_chuẩn Iec hoặc các tiêu_chuẩn khác tương_đương .
+
+Chương_iv
+
+Yêu_cầu Đối_với Hệ_thống Thu_thập_số_liệu Đo_đếm , Hệ_thống Quản_lý_số_liệu Đo_đếm
+
+Điều 30 . Quản_lí Hệ_thống thu_thập số_liệu đo_đếm , Hệ_thống quản_lí_số_liệu đo_đếm
+
+1 . Trách_nhiệm của Đơn_vị quản_lí_số_liệu đo_đếm
+
+a ) Đầu_tư , lắp_đặt , quản_lí và vận_hành Hệ_thống thu_thập số_liệu đo_đếm , Hệ_thống quản_lí_số_liệu đo_đếm trong phạm_vi quản_lí đảm_bảo các đơn_vị có_thể kết_nối đáp_ứng quy_định tại Thông_tư này ;
+
+b ) Cung_cấp cho các đơn_vị liên_quan định_dạng tệp_tin ( sau đây viết tắt là file ) dữ_liệu , chuẩn giao_diện kết_nối trên cơ_sở mô_hình thu_thập số_liệu và phương_thức truyền số_liệu đo_đếm áp_dụng ;
+
+c ) Thiết_lập , cài_đặt các thông_số và triển_khai các biện_pháp đảm_bảo_an_ninh , bảo_mật và mã_hoá an_toàn thông_tin cho Hệ_thống thu_thập số_liệu đo_đếm , Hệ_thống quản_lí_số_liệu đo_đếm tại vị_trí đo_đếm và tại Trung_tâm thu_thập , lưu_trữ và xử_lí_số_liệu của đơn_vị đang quản_lí để đảm_bảo tính chính_xác , tin_cậy của số_liệu đo_đếm .
+
+2 . Trách_nhiệm của Đơn_vị quản_lí vận_hành hệ_thống đo_đếm
+
+a ) Bảo_mật các thông_số cài_đặt cho chương_trình phần_mềm đọc số_liệu công_tơ đo_đếm trong phạm_vi quản_lí của mình ;
+
+b ) Không được can_thiệp vào chương_trình đọc và truyền số_liệu để sửa_đổi các thông_số cài_đặt ảnh_hưởng đến tính chính_xác của số_liệu đo_đếm . Không được sửa_đổi các số_liệu đọc từ công_tơ đo_đếm về máy_tính hoặc bộ tập_trung dữ_liệu đặt tại_chỗ ( nếu có ) .
+
+Điều 31 . Mô_hình tổng_thể Hệ_thống thu_thập số_liệu đo_đếm , Hệ_thống quản_lí_số_liệu đo_đếm
+
+1 . Trường_hợp áp_dụng công_nghệ thu_thập số_liệu đo_đếm từ xa , tuỳ theo điều_kiện cơ_sở hạ_tầng và phạm_vi quản_lí vận_hành , các đơn_vị có_thể lựa_chọn và áp_dụng các giải_pháp công_nghệ để thực_hiện thu_thập số_liệu đo_đếm từ xa thông_qua môi_trường truyền_dẫn hữu_tuyến hoặc vô_tuyến , tự_động hoặc bán tự_động phù_hợp với mô_hình tổng_thể Hệ_thống thu_thập số_liệu đo_đếm , Hệ_thống quản_lí_số_liệu đo_đếm mô_tả tại Phụ_lục 1 ban_hành kèm theo Thông_tư này .
+
+2 . Các mô_hình thu_thập số_liệu đo_đếm
+
+a ) Tuỳ theo điều_kiện thực_tế và cơ_sở hạ_tầng , mô_hình thu_thập số_liệu đo_đếm bao_gồm một trong các loại sau :
+
+- Mô_hình thu_thập số_liệu tại_chỗ từ công_tơ đo_đếm riêng_lẻ ;
+
+- Mô_hình thu_thập số_liệu thông_qua bộ tập_trung .
+
+b ) Các trường_hợp áp_dụng mô_hình thu_thập số_liệu tại_chỗ từ công_tơ đo_đếm riêng_lẻ
+
+- Áp_dụng đối_với các công_tơ đo_đếm lắp_đặt riêng_lẻ , không thuận_lợi cho việc kết_nối nhóm các công_tơ đo_đếm ;
+
+- Truyền_số_liệu từ công_tơ đo_đếm về máy_chủ thu_thập số_liệu thông_qua mạng WAN / LAN / di_động ;
+
+- Áp_dụng cho các công_tơ đo_đếm đặt phân_tán .
+
+c ) Các trường_hợp áp_dụng mô_hình thu_thập số_liệu thông_qua bộ tập_trung
+
+- Giao_diện kết_nối với công_tơ đo_đếm : Lan hoặc Rs232 / 485 ;
+
+- Áp_dụng cho các công_tơ đo_đếm đặt cùng một địa_điểm .
+
+3 . Các giải_pháp công_nghệ được phân_loại theo môi_trường và khoảng_cách truyền_dẫn thông_tin như sau :
+
+a ) Môi_trường truyền_dẫn thông_tin
+
+- Hữu_tuyến : Bao_gồm Plc , Rs485 / rs232 , Ethernet , cáp_quang , xDSL ;
+
+- Vô_tuyến : Bao_gồm RF / RF - Mesh , mạng thông_tin di_động .
+
+b ) Khoảng_cách truyền_dẫn thông_tin
+
+- Tại_chỗ : Là giải_pháp dùng thiết_bị ghi chỉ_số cầm tay để thu_thập dữ_liệu trực_tiếp tại vị_trí đo_đếm ;
+
+- Từ xa : Là giải_pháp sử_dụng hệ_thống thu_thập số_liệu đo_đếm từ xa để thu_thập số_liệu của công_tơ đo_đếm hoặc bộ tập_trung dữ_liệu ( dcu ) từ xa qua kênh truyền hữu_tuyến hoặc vô_tuyến .
+
+Điều 32 . Yêu_cầu đối_với Hệ_thống thu_thập số_liệu đo_đếm
+
+Hệ_thống thu_thập số_liệu đo_đếm của Đơn_vị quản_lí vận_hành hệ_thống đo_đếm ( nếu có ) hoặc Đơn_vị quản_lí_số_liệu đo_đếm phải được trang_bị các chức_năng và yêu_cầu tối_thiểu , bao_gồm :
+
+1 . Có khả_năng thu_thập số_liệu đo_đếm thông_qua kết_nối đọc số_liệu trực_tiếp đến công_tơ đo_đếm tại mỗi vị_trí đo_đếm trong trường_hợp có thoả_thuận giữa các bên liên_quan .
+
+2 . Đồng_bộ thời_gian với nguồn thời_gian chuẩn cho các công_tơ đo_đếm trong hệ_thống .
+
+3 . Hệ_thống thu_thập số_liệu đo_đếm phải có các chức_năng tối_thiểu sau đây :
+
+a ) Thực_hiện thu_thập và truyền số_liệu đo_đếm theo hình_thức tự_động theo lịch định trước hoặc đọc theo yêu_cầu ;
+
+b ) Quản_lí danh_sách điểm đo , lịch thu_thập số_liệu đối_với từng công_tơ đo_đếm hoặc từng nhóm công_tơ đo_đếm ; quản_lí và lưu_trữ số_liệu đo_đếm sau khi đọc từ công_tơ đo_đếm ;
+
+c ) Quản_lí việc truy_cập hệ_thống bao_gồm xác_thực tên người sử_dụng và quyền truy_cập hệ_thống .
+
+4 . Môi_trường truyền_thông_tin có_thể sử_dụng là các hệ_thống hữu_tuyến hoặc vô_tuyến , đảm_bảo tương_thích với Hệ_thống quản_lí_số_liệu đo_đếm . Môi_trường và phương_thức truyền tin phải có giải_pháp an_ninh , bảo_mật và mã_hoá an_toàn thông_tin .
+
+5 . Thiết_bị thông_tin ghép_nối với công_tơ đo_đếm phải đảm_bảo các yêu_cầu sau :
+
+a ) Yêu_cầu về an_ninh , bảo_mật và mã_hoá an_toàn thông_tin để chống can_thiệp trái_phép và giả_mạo thông_tin ;
+
+b ) Yêu_cầu về an_toàn điện và viễn_thông để tránh gây hư_hỏng cho Hệ_thống đo_đếm và Hệ_thống quản_lí_số_liệu đo_đếm .
+
+6 . Hệ_thống truyền dữ_liệu , định_dạng file dữ_liệu và các chuẩn giao_diện kết_nối của Hệ_thống thu_thập số_liệu đo_đếm phải phù_hợp với Hệ_thống quản_lí_số_liệu đo_đếm của Đơn_vị quản_lí_số_liệu đo_đếm .
+
+Điều 33 . Yêu_cầu đối_với Hệ_thống quản_lí_số_liệu đo_đếm
+
+Hệ_thống quản_lí_số_liệu đo_đếm phải được trang_bị các chức_năng và yêu_cầu tối_thiểu , bao_gồm :
+
+1 . Môi_trường truyền_thông_tin có_thể sử_dụng là môi_trường hữu_tuyến hoặc vô_tuyến và phải áp_dụng các giải_pháp an_ninh , bảo_mật , mã_hoá an_toàn thông_tin .
+
+2 . Thiết_bị thông_tin ghép_nối với Hệ_thống thu_thập số_liệu đo_đếm phải đảm_bảo các yêu_cầu sau đây :
+
+a ) Yêu_cầu về an_ninh , bảo_mật và mã_hoá an_toàn thông_tin để chống can_thiệp trái_phép và giả_mạo thông_tin ;
+
+b ) Yêu_cầu về an_toàn điện và viễn_thông để tránh gây hư_hỏng Hệ_thống thu_thập số_liệu đo_đếm .
+
+3 . Có khả_năng kết_nối và thu_thập số_liệu đo_đếm thông_qua máy_tính thuộc Hệ_thống thu_thập số_liệu đo_đếm . Khai_báo và quản_lí danh_sách điểm đo và các thông_tin liên_quan .
+
+4 . Quản_lý , lưu_trữ và lập báo_cáo đối_với dữ_liệu đo_đếm và các sự_kiện liên_quan .
+
+5 . Hệ_thống máy_tính đọc và lưu_trữ số_liệu được cung_cấp nguồn điện dự_phòng , cài_đặt các chương_trình phòng_chống virus , phân_quyền quản_trị và vận_hành hệ_thống . Hệ_thống cơ_sở dữ_liệu phải luôn được sao lưu đảm_bảo khôi_phục lại dữ_liệu trong thời_gian nhanh nhất và dữ_liệu phải được toàn_vẹn .
+
+6 . Hệ_thống máy_chủ có khả_năng lưu lại toàn_bộ quá_trình xử_lý , xác_thực , khai_thác số_liệu đo_đếm và trang_bị hệ_thống dự_phòng để đảm_bảo số_liệu đo_đếm không bị mất trong bất_kì trường_hợp nào .
+
+7 . Quản_lí truy_cập bao_gồm mã_số và quyền truy_cập hệ_thống của người sử_dụng . Phân_quyền quản_trị cho phần_mềm ở các mức toàn_quyền và mức vận_hành , trong đó có mức toàn_quyền ( cài_đặt , cấu_hình , phân_quyền cho người dùng vận_hành và hiệu_chỉnh số_liệu ) và mức vận_hành ( đọc , xem và xuất số_liệu ) .
+
+8 . Kết_nối và chia_sẻ dữ_liệu với các chương_trình phần_mềm ứng_dụng khác để khai_thác dữ_liệu .
+
+9 . Quản_lí thông_tin đo_đếm .
+
+10 . Xử_lí_số_liệu đo_đếm .
+
+11 . Kiểm_tra , xác_thực số_liệu đo_đếm .
+
+12 . Có khả_năng lưu_trữ dữ_liệu ít_nhất 05 năm .
+
+Điều 34 . Định_dạng file dữ_liệu đo_đếm
+
+1 . Các định_dạng file dữ_liệu đo_đếm được sử_dụng phổ_biến là * . txt hoặc * . csv .
+
+2 . Đơn_vị Quản_lí_số_liệu đo_đếm có trách_nhiệm công_bố định_dạng file dữ_liệu chuẩn , các chuẩn giao_diện kết_nối và các chủng_loại công_tơ đo_đếm mà Hệ_thống thu_thập số_liệu đo_đếm và Hệ_thống quản_lí_số_liệu đo_đếm do đơn_vị quản_lý , vận_hành có_thể kết_nối và đọc được số_liệu .
+
+Chương V
+
+Thiết_kế Kỹ_thuật , Đầu_tư , Lắp_đặt , Nghiệm_thu Hệ_thống Đo_đếm Và Hệ_thống Thu_thập_số_liệu Đo_đếm
+
+Mục 1 . Thỏa_thuận_thiết_kế Kỹ_thuật Hệ_thống Đo_đếm Và Hệ_thống Thu_thập_số_liệu Đo_đếm Cấp Điện_áp Từ 110 Kv Trở_lên , Giao_nhận Giữa Các Đơn_vị Phân_phối Điện Và Giao_nhận Giữa Nhà_máy_điện Với Lưới_điện
+
+Điều 35 . Nguyên_tắc thực_hiện thoả_thuận thiết_kế kĩ_thuật
+
+1 . Đối_với các công_trình điện mới
+
+a ) Thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phục_vụ giao_nhận , mua_bán điện được thực_hiện trong giai_đoạn thiết_kế kĩ_thuật của dự_án đầu_tư ngay sau khi đạt được thoả_thuận_đấu nối công_trình điện vào lưới_điện ;
+
+b ) Các nội_dung liên_quan đến thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phải thống_nhất trước khi phê_duyệt thiết_kế kĩ_thuật và tổng_dự_toán xây_dựng công_trình điện .
+
+2 . Đối_với các công_trình điện đã vận_hành
+
+a ) Thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm được thực_hiện khi xuất_hiện vị_trí đo_đếm mới hoặc khi nâng_cấp , cải_tạo Hệ_thống đo_đếm hiện có ;
+
+b ) Việc thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phải thực_hiện trước khi mua_sắm hoặc lắp_đặt thay_thế thiết_bị của Hệ_thống đo_đếm .
+
+3 . Nguyên_tắc thực_hiện thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm
+
+a ) Đơn_vị đầu_tư hệ_thống đo_đếm có trách_nhiệm lập Hồ_sơ đề_nghị thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm ;
+
+b ) Công_ti Mua_bán điện , Đơn_vị phân_phối điện , Đơn_vị phân_phối và bán_lẻ điện có trách_nhiệm chủ_trì thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phục_vụ giao_nhận điện_năng trong phạm_vi quản_lý ;
+
+c ) Các Đơn_vị giao_nhận điện liên_quan khác có trách_nhiệm phối_hợp và tham_gia góp_ý khi nhận được yêu_cầu về thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm .
+
+4 . Trường_hợp Đơn_vị phân_phối điện đầu_tư Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm để bán điện cho Khách_hàng sử_dụng lưới_điện_phân_phối ( trừ trường_hợp Khách_hàng sử_dụng lưới_điện_phân_phối là Đơn_vị phát_điện ) hoặc Đơn_vị phân_phối và bán_lẻ điện đầu_tư Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm để bán điện cho Khách_hàng sử_dụng điện thì Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện có trách_nhiệm thiết_kế và thống_nhất với khách_hàng các nội_dung liên_quan trong thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm trước khi thực_hiện đầu_tư , lắp_đặt theo quy_định tại Thông_tư này .
+
+Điều 36 . Hồ_sơ đề_nghị thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm
+
+1 . Văn_bản đề_nghị thoả_thuận thiết_kế kĩ_thuật .
+
+2 . Bản_sao văn_bản phê_duyệt hoặc thoả_thuận_đấu nối công_trình điện vào hệ_thống điện quốc_gia .
+
+3 . Hồ_sơ thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm bao_gồm :
+
+a ) Tài_liệu giới_thiệu chung về công_trình điện , bao_gồm các nội_dung : Vị_trí xây_dựng , quy_mô và thông_số kĩ_thuật chính của công_trình , thời_gian dự_kiến vận_hành ;
+
+b ) Tài_liệu liên_quan đến Hệ_thống đo_đếm bao_gồm :
+
+- Vị_trí đo_đếm chính , vị_trí đo_đếm dự_phòng ;
+
+- Vị_trí lắp_đặt và thông_số kĩ_thuật của thiết_bị đo_đếm ( chủng_loại , điện_áp , dòng_điện , tỉ_số biến dòng_điện và điện_áp , cấp chính_xác , dung_lượng và các thông_số khác ) ;
+
+- Giải_pháp đấu nối và niêm_phong kẹp chì mạch nhị thứ của Hệ_thống đo_đếm ;
+
+- Vị_trí lắp_đặt tủ công_tơ đo_đếm .
+
+c ) Tài_liệu liên_quan đến Hệ_thống thu_thập số_liệu đo_đếm , bao_gồm :
+
+- Giải_pháp kết_nối của Hệ_thống thu_thập số_liệu đo_đếm ;
+
+- Thông_số thiết_bị của Hệ_thống thu_thập số_liệu đo_đếm .
+
+d ) Danh_mục , khối_lượng thiết_bị chính của Hệ_thống đo_đếm cần đầu_tư .
+
+4 . Các bản_vẽ liên_quan , bao_gồm :
+
+a ) Sơ_đồ đấu nối công_trình điện vào hệ_thống điện quốc_gia thể_hiện đầy_đủ các thông_số kĩ_thuật ;
+
+b ) Sơ_đồ nguyên_lí đo_lường và bảo_vệ của công_trình điện ;
+
+c ) Sơ_đồ nguyên_lí Hệ_thống đo_đếm của công_trình điện ;
+
+d ) Sơ_đồ mặt_bằng bố_trí các thiết_bị thuộc Hệ_thống đo_đếm của công_trình điện ;
+
+đ ) Sơ_đồ đấu nối mạch nhị thứ đo_đếm , trong đó có_thể_hiện giải_pháp niêm_phong kẹp chì ;
+
+e ) Sơ_đồ đấu nối Hệ_thống thu_thập số_liệu đo_đếm ;
+
+g ) Sơ_đồ tủ công_tơ đo_đếm , tủ trung_gian dùng cho đo_đếm điện_năng ( nếu có ) .
+
+5 . Dự_thảo Thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm theo mẫu quy_định tại Phụ_lục 2 ban_hành kèm theo Thông_tư này .
+
+Điều 37 . Thực_hiện thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm
+
+1 . Trách_nhiệm lập và gửi Hồ_sơ đề_nghị thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm
+
+a ) Đơn_vị đầu_tư hệ_thống đo_đếm có trách_nhiệm lập và gửi Hồ_sơ đề_nghị thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm cho Công_ti Mua_bán điện trong các trường_hợp sau :
+
+- Đo_đếm ranh_giới giữa nhà_máy_điện lớn với lưới_điện truyền_tải hoặc lưới_điện_phân_phối ;
+
+- Đo_đếm ranh_giới giữa nhà_máy_điện sử_dụng nguồn năng_lượng tái_tạo với lưới_điện ;
+
+- Đo_đếm ranh_giới giữa lưới_điện truyền_tải với lưới_điện_phân_phối ;
+
+- Đo_đếm ranh_giới phục_vụ mua_bán điện với nước_ngoài qua cấp điện_áp từ 110 kV trở lên ;
+
+- Đo_đếm ranh_giới giữa lưới_điện truyền_tải với Khách_hàng sử_dụng điện_đấu nối vào lưới_điện truyền_tải .
+
+b ) Đơn_vị đầu_tư hệ_thống đo_đếm có trách_nhiệm lập và gửi Hồ_sơ đề_nghị thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm cho Đơn_vị phân_phối điện trong các trường_hợp sau :
+
+- Đo_đếm ranh_giới giữa nhà_máy_điện nhỏ với lưới_điện_phân_phối ;
+
+- Đo_đếm ranh_giới giữa lưới_điện_phân_phối với Đơn_vị phân_phối và bán_lẻ điện hoặc Khách_hàng sử_dụng điện_đấu nối vào lưới_điện_phân_phối trong trường_hợp Đơn_vị phân_phối và bán_lẻ điện hoặc Khách_hàng sử_dụng điện đầu_tư Hệ_thống đo_đếm .
+
+c ) Đối_với đo_đếm ranh_giới giữa hai Đơn_vị phân_phối điện
+
+- Đo_đếm ranh_giới giữa hai Tổng_công_ti Điện_lực : Đơn_vị đầu_tư hệ_thống đo_đếm có trách_nhiệm lập và gửi Hồ_sơ đề_nghị thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm cho Công_ti Mua_bán điện . Đơn_vị còn lại có trách_nhiệm phối_hợp với Công_ti Mua_bán điện trong quá_trình thoả_thuận ;
+
+- Đo_đếm ranh_giới giữa hai Công_ti Điện_lực tỉnh thuộc cùng một Tổng_công_ti Điện_lực : Đơn_vị đầu_tư hệ_thống đo_đếm có trách_nhiệm lập và gửi Hồ_sơ đề_nghị thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm cho Tổng_công_ti Điện_lực . Đơn_vị còn lại có trách_nhiệm phối_hợp trong quá_trình thoả_thuận .
+
+d ) Đối_với các trường_hợp khác với quy_định tại các Điểm a , b và c Khoản này , thực_hiện theo quy_định tại Khoản 3 Điều 35 Thông_tư này .
+
+2 . Trình_tự thực_hiện thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm
+
+a ) Sau khi lập Hồ_sơ theo quy_định tại Điều 36 Thông_tư này , Đơn_vị đầu_tư hệ_thống đo_đếm có trách_nhiệm gửi 03 ( ba ) bộ Hồ_sơ đề_nghị thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm cho Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện theo quy_định tại Khoản 1 Điều này để tiến_hành thoả_thuận ;
+
+b ) Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện có trách_nhiệm gửi lấy ý_kiến của các Đơn_vị giao_nhận điện liên_quan trực_tiếp về đề_xuất thoả_thuận thiết_kế ;
+
+c ) Sau khi nhận được ý_kiến góp_ý của các Đơn_vị giao_nhận điện liên_quan trực_tiếp , Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện có trách_nhiệm :
+
+- Tổng_hợp_ý_kiến của các Đơn_vị giao_nhận điện liên_quan và đánh_giá các nội_dung trong hồ_sơ : Vị_trí đo_đếm điện_năng , thiết_kế kĩ_thuật của Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm , phương_thức giao_nhận điện_năng , dự_thảo Thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm và các nội_dung liên_quan khác ;
+
+- Gửi ý_kiến bằng văn_bản cho Đơn_vị đầu_tư hệ_thống đo_đếm để hoàn_thiện dự_thảo Thoả_thuận thiết_kế .
+
+d ) Trên_cơ_sở ý_kiến của Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện , Đơn_vị đầu_tư hệ_thống đo_đếm có trách_nhiệm thoả_thuận thống_nhất và hoàn_thiện dự_thảo Thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm theo quy_định tại Thông_tư này ;
+
+đ ) Sau khi đã thống_nhất , Đơn_vị đầu_tư hệ_thống đo_đếm và Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện có trách_nhiệm kí_kết Thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm . Thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm được lập thành 02 bản , mỗi bên giữ 01 bản . Đơn_vị đầu_tư hệ_thống đo_đếm có trách_nhiệm gửi bản_sao Thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm ( đã ký ) đến các Đơn_vị giao_nhận điện liên_quan .
+
+3 . Thời_gian thoả_thuận và kí thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm đối_với các nội_dung quy_định tại Điều này được thực_hiện theo quy_định tại Điều 38 Thông_tư này .
+
+Điều 38 . Thời_gian thoả_thuận và kí thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm
+
+Thời_gian thoả_thuận thống_nhất và kí Thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm được quy_định tại Bảng sau :
+
+Mục 2 . Đầu_tư , Lắp_đặt Hệ_thống Đo_đếm Và Hệ_thống Thu_thập_số_liệu Đo_đếm Cấp Điện_áp Từ 110 Kv Trở_lên , Giao_nhận Giữa Các Đơn_vị Phân_phối Điện Và Giao_nhận Giữa Nhà_máy_điện Với Lưới_điện
+
+Điều 39 . Yêu_cầu trong quá_trình đầu_tư , lắp_đặt
+
+1 . Đảm_bảo Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm đáp_ứng quy_định tại Thông_tư này , phù_hợp với thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm đã thống_nhất .
+
+2 . Đảm_bảo thiết_bị đo_đếm phù_hợp quy_định của pháp_luật về đo_lường .
+
+Thiết_bị đo_đếm đưa vào sử_dụng phải thực_hiện quy_định phê_duyệt mẫu phương_tiện đo do cơ_quan nhà_nước có thẩm_quyền về đo_lường thực_hiện . Trường_hợp đặc_biệt , thiết_bị đo_đếm thuộc tủ hợp bộ hoặc công_trình hợp bộ được đầu_tư nhưng chưa được phê_duyệt mẫu và không_thể lắp_đặt bổ_sung thiết_bị đo_đếm bên ngoài , các đơn_vị liên_quan có trách_nhiệm hướng_dẫn Đơn_vị đầu_tư hệ_thống đo_đếm thực_hiện thủ_tục phê_duyệt mẫu theo quy_định của pháp_luật về đo_lường .
+
+Điều 40 . Trách_nhiệm của các đơn_vị trong đầu_tư , lắp_đặt Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm
+
+1 . Đơn_vị đầu_tư hệ_thống đo_đếm
+
+a ) Đầu_tư , lắp_đặt Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm phù_hợp với thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm đã được thoả_thuận thống_nhất theo quy_định tại Mục 1 Chương này ;
+
+b ) Ký hợp_đồng với Đơn_vị thí_nghiệm , kiểm_định để thực_hiện các công_việc sau :
+
+- Thí_nghiệm , kiểm_định ban_đầu các thiết_bị đo_đếm theo quy_định tại Thông_tư này và quy_định của pháp_luật về đo_lường ;
+
+- Thí_nghiệm mạch nhị thứ đo_đếm đảm_bảo đáp_ứng các yêu_cầu kĩ_thuật về đo_lường , phù_hợp với thiết_kế kĩ_thuật Hệ_thống đo_đếm ;
+
+- Niêm_phong kẹp chì Hệ_thống đo_đếm đảm_bảo không_thể can_thiệp vào mạch đo và thiết_bị đo_đếm nếu không phá_bỏ niêm_phong kẹp chì ;
+
+- Lập_trình cài_đặt các thông_số làm_việc , các mức mật_khẩu công_tơ đo_đếm .
+
+c ) Cung_cấp cho Đơn_vị quản_lí_số_liệu đo_đếm và Đơn_vị giao_nhận điện liên_quan các thông_tin về điểm đo ( vị_trí đo_đếm , phương_thức giao_nhận , thông_số kĩ_thuật ) ;
+
+d ) Phối_hợp với Đơn_vị quản_lí_số_liệu đo_đếm trong việc lắp_đặt , kiểm_tra Hệ_thống thu_thập số_liệu đo_đếm tại_chỗ và từ xa .
+
+2 . Đơn_vị quản_lí lưới_điện có trách_nhiệm phối_hợp với Đơn_vị đầu_tư hệ_thống đo_đếm và các đơn_vị liên_quan trong quá_trình lắp_đặt , thí_nghiệm , kiểm_định ban_đầu Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm trong trường_hợp Hệ_thống đo_đếm đặt tại trạm điện của Đơn_vị quản_lí lưới_điện .
+
+3 . Đơn_vị quản_lí_số_liệu đo_đếm
+
+a ) Cấp_phát mã vị_trí điểm đo và mã địa_chỉ của các công_tơ đo_đếm cho Hệ_thống đo_đếm mới lắp_đặt trong phạm_vi quản_lý ;
+
+b ) Bổ_sung cơ_sở dữ_liệu đo_đếm vào Hệ_thống quản_lí_số_liệu đo_đếm trong phạm_vi quản_lý ;
+
+c ) Phối_hợp với Đơn_vị đầu_tư hệ_thống đo_đếm trong việc lắp_đặt , kiểm_tra Hệ_thống thu_thập số_liệu đo_đếm tại các vị_trí đo_đếm và đường truyền dữ_liệu đo_đếm từ công_trình điện về Hệ_thống quản_lí_số_liệu đo_đếm trong phạm_vi quản_lý ;
+
+d ) Cài_đặt các phần_mềm mã_hoá số_liệu đo_đếm sau khi đọc và truyền về máy_tính đặt tại_chỗ , chống mọi sự can_thiệp trái_phép và giả_mạo thông_tin đối_với số_liệu đo_đếm trước khi được truyền về Hệ_thống quản_lí_số_liệu đo_đếm trong phạm_vi quản_lý .
+
+4 . Đơn_vị thí_nghiệm , kiểm_định
+
+Thực_hiện các nhiệm_vụ theo hợp_đồng kí_kết với Đơn_vị đầu_tư hệ_thống đo_đếm bao_gồm :
+
+a ) Thí_nghiệm , kiểm_định ban_đầu các thiết_bị đo_đếm theo quy_định tại Thông_tư này và quy_định của pháp_luật về đo_lường ;
+
+b ) Thí_nghiệm mạch nhị thứ đo_đếm đảm_bảo đúng kĩ_thuật , phù_hợp với thiết_kế kĩ_thuật Hệ_thống đo_đếm ;
+
+c ) Niêm_phong kẹp chì Hệ_thống đo_đếm đảm_bảo không_thể can_thiệp vào mạch đo và thiết_bị đo ;
+
+d ) Lập_trình cài_đặt các thông_số làm_việc , các mức mật_khẩu công_tơ đo_đếm trong phạm_vi thẩm_quyền cho phép ;
+
+đ ) Cung_cấp cho Đơn_vị đầu_tư hệ_thống đo_đếm các biên_bản thí_nghiệm , kiểm_định Hệ_thống đo_đếm , biên_bản cài_đặt công_tơ đo_đếm theo quy_định tại Thông_tư này và quy_định của pháp_luật về đo_lường .
+
+Mục 3 . Nghiệm_thu Hệ_thống Đo_đếm Và Hệ_thống Thu_thập_số_liệu Đo_đếm Cấp Điện_áp Từ 110 kV Trở_lên , Giao_nhận Giữa Các Đơn_vị Phân_phối Điện Và Giao_nhận Giữa Nhà_máy_điện Với Lưới_điện
+
+Điều 41 . Thành_phần tham_gia nghiệm_thu
+
+Tuỳ theo từng trường_hợp đo_đếm giao_nhận , thành_phần tham_gia nghiệm_thu bao_gồm các đơn_vị sau :
+
+1 . Đơn_vị đầu_tư hệ_thống đo_đếm .
+
+2 . Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện .
+
+3 . Đơn_vị quản_lí vận_hành hệ_thống đo_đếm .
+
+4 . Đơn_vị quản_lí_số_liệu đo_đếm .
+
+5 . Đơn_vị thí_nghiệm , kiểm_định .
+
+6 . Đơn_vị giao_nhận điện liên_quan .
+
+Điều 42 . Hồ_sơ phục_vụ nghiệm_thu
+
+1 . Hồ_sơ kĩ_thuật
+
+a ) Giấy chứng_nhận thí_nghiệm , kiểm_định đối_với Ct , Vt và công_tơ đo_đếm của Đơn_vị thí_nghiệm , kiểm_định ;
+
+b ) Quyết_định phê_duyệt mẫu đối_với công_tơ đo_đếm , Ct , Vt ( nếu có ) ;
+
+c ) Biên_bản thí_nghiệm đối_với Ct , Vt và công_tơ đo_đếm của Đơn_vị thí_nghiệm , kiểm_định ;
+
+d ) Biên_bản kiểm_tra , thí_nghiệm tổng_mạch nhị thứ của Hệ_thống đo_đếm của Đơn_vị thí_nghiệm , kiểm_định ;
+
+đ ) Biên_bản cài_đặt thông_số của công_tơ đo_đếm .
+
+2 . Biên_bản nghiệm_thu hoàn_thành lắp_đặt Hệ_thống đo_đếm .
+
+3 . Biên_bản nghiệm_thu hoàn_thành lắp_đặt Hệ_thống thu_thập số_liệu đo_đếm .
+
+Điều 43 . Trình_tự thực_hiện nghiệm_thu
+
+1 . Sau khi hoàn_thành việc lắp_đặt Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm , chậm nhất 14 ngày trước ngày dự_kiến thực_hiện nghiệm_thu , Đơn_vị đầu_tư hệ_thống đo_đếm có trách_nhiệm gửi văn_bản đề_nghị tiến_hành nghiệm_thu kèm 01 ( một ) bộ hồ_sơ phục_vụ nghiệm_thu theo quy_định tại Điều 42 Thông_tư này cho Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện và các Đơn_vị giao_nhận điện liên_quan .
+
+2 . Trong thời_hạn 03 ngày làm_việc kể từ ngày nhận được văn_bản đề_nghị tiến_hành nghiệm_thu và hồ_sơ phục_vụ nghiệm_thu , Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện có trách_nhiệm kiểm_tra tính đầy_đủ và hợp_lệ của hồ_sơ theo quy_định tại Điều 42 Thông_tư này và thực_hiện công_việc sau :
+
+a ) Trường_hợp hồ_sơ hợp_lệ theo quy_định và đảm_bảo điều_kiện để tiến_hành nghiệm_thu , Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện có trách_nhiệm gửi văn_bản cho các đơn_vị tham_gia nghiệm_thu để thống_nhất kế_hoạch nghiệm_thu ;
+
+b ) Trường_hợp hồ_sơ chưa đủ điều_kiện nghiệm_thu , Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện có trách_nhiệm gửi văn_bản yêu_cầu Đơn_vị đầu_tư hệ_thống đo_đếm bổ_sung và thông_báo cho các đơn_vị tham_gia nghiệm_thu .
+
+3 . Sau khi thống_nhất kế_hoạch nghiệm_thu , Đơn_vị đầu_tư hệ_thống đo_đếm chủ_trì tổ_chức triển_khai nghiệm_thu Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm với sự có_mặt đại_diện của các đơn_vị liên_quan quy_định tại Điều 41 Thông_tư này .
+
+4 . Đơn_vị đầu_tư hệ_thống đo_đếm có trách_nhiệm tập_hợp toàn_bộ hồ_sơ nghiệm_thu và gửi 01 ( một ) bộ hồ_sơ ( bản_sao ) cho mỗi đơn_vị tham_gia nghiệm_thu .
+
+5 . Các đơn_vị tham_gia nghiệm_thu có trách_nhiệm lưu_giữ hồ_sơ nghiệm_thu , cập_nhật thông_tin điểm đo vào danh_sách vị_trí đo_đếm giao_nhận và chương_trình quản_lí của đơn_vị .
+
+6 . Hệ_thống đo_đếm chỉ được đưa vào vận_hành khi các đơn_vị tham_gia nghiệm_thu thống_nhất kết_quả nghiệm_thu và cùng kí Biên_bản nghiệm_thu .
+
+Điều 44 . Các nội_dung chính trong quá_trình nghiệm_thu
+
+1 . Quá_trình nghiệm_thu được tiến_hành theo hai bước , cụ_thể như sau :
+
+a ) Kiểm_tra lắp_đặt thiết_bị trước khi đóng điện
+
+- Kiểm_tra hồ_sơ kĩ_thuật của Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm ;
+
+- Kiểm_tra thực_tế lắp_đặt Hệ_thống đo_đếm tại hiện_trường bao_gồm : Kiểm_tra vị_trí lắp_đặt thiết_bị nhất thứ , kiểm_tra lắp_đặt mạch nhị thứ , kiểm_tra thông_số của các thiết_bị đo_đếm , kiểm_tra cài_đặt của công_tơ đo_đếm ;
+
+- Đối_chiếu kết_quả kiểm_tra thực_tế lắp_đặt Hệ_thống đo_đếm tại hiện_trường với thiết_kế kĩ_thuật Hệ_thống đo_đếm đã thống_nhất , hồ_sơ kĩ_thuật của thiết_bị đo_đếm và biên_bản cài_đặt công_tơ đo_đếm ;
+
+- Kiểm_tra sự phù_hợp của các thông_số cài_đặt công_tơ đo_đếm với thông_số thiết_bị đo_đếm thực_tế lắp_đặt ;
+
+- Kiểm_tra thông_số , lắp_đặt thực_tế của Hệ_thống thu_thập số_liệu đo_đếm và đối_chiếu với thiết_kế kĩ_thuật Hệ_thống đo_đếm đã thống_nhất ;
+
+- Đơn_vị thí_nghiệm , kiểm_định cài_đặt các mức mật_khẩu của công_tơ đo_đếm , lưu_giữ mật_khẩu Cài_đặt của công_tơ đo_đếm , bàn_giao mật_khẩu Chỉ đọc cho Đơn_vị đầu_tư hệ_thống đo_đếm hoặc Đơn_vị sở_hữu hệ_thống đo_đếm và ban giao mật_khẩu Đồng_bộ thời_gian cho Đơn_vị quản_lí_số_liệu đo_đếm ;
+
+- Chốt chỉ_số công_tơ đo_đếm , ghi_nhận các thông_số lập_trình công_tơ đo_đếm , số lần cài_đặt và thời_điểm lập_trình cuối_cùng của công_tơ đo_đếm ;
+
+- Niêm_phong kẹp chì hộp đấu dây Ct , Vt , mạch nhị thứ đo_đếm , các đấu nối trung_gian , hộp thử_nghiệm đảm_bảo không_thể can_thiệp vào Hệ_thống đo_đếm nếu không phá_bỏ niêm_phong kẹp chì . Việc niêm_phong kẹp chì phải có sự chứng_kiến của các bên tham_gia nghiệm_thu .
+
+b ) Kiểm_tra hoạt_động của Hệ_thống đo_đếm ngay sau khi đóng điện mang tải
+
+- Kiểm_tra trị_số dòng_điện , điện_áp , góc pha giữa dòng_điện và điện_áp ;
+
+- Phân_tích , đánh_giá các trị_số dòng_điện , điện_áp , góc giữa dòng_điện và điện_áp , kết_hợp với việc đối_chiếu công_suất công_tơ đo_đếm được với công_suất của tải thực_tế ;
+
+- Kiểm_tra hoạt_động của Hệ_thống thu_thập số_liệu đo_đếm ;
+
+- Sau khi hoàn_tất các hạng_mục kiểm_tra , các bên khẳng_định Hệ_thống đo_đếm làm_việc bình_thường , thực_hiện niêm_phong kẹp chì các phần còn lại của Hệ_thống đo_đếm ;
+
+- Kết_thúc quá_trình nghiệm_thu , các bên tham_gia nghiệm_thu cùng kí Biên_bản nghiệm_thu theo mẫu quy_định tại Phụ_lục 3 ban_hành kèm theo Thông_tư này .
+
+2 . Trong quá_trình kiểm_tra hoạt_động của Hệ_thống đo_đếm khi mang tải , nếu phát_hiện sai_sót dẫn đến Hệ_thống đo_đếm hoạt_động không chính_xác , các đơn_vị cùng phối_hợp khắc_phục và xác_định sản_lượng điện_năng phải truy_thu hoặc thoái hoàn .
+
+3 . Trường_hợp Hệ_thống đo_đếm hoặc Hệ_thống thu_thập số_liệu đo_đếm chưa được nghiệm_thu hoàn_thành sau khi đóng điện công_trình , các bên có trách_nhiệm lập Biên_bản nghiệm_thu lần thứ nhất ghi_nhận các tồn_tại và yêu_cầu xử_lý , biện_pháp khắc_phục các tồn_tại và thời_gian khắc_phục để làm căn_cứ nghiệm_thu lần tiếp_theo . Điện_năng giao_nhận trong thời_gian Hệ_thống đo_đếm chưa hoàn_thành nghiệm_thu được tính_toán truy_thu hoặc thoái hoàn ( nếu có ) ngay khi Hệ_thống đo_đếm được nghiệm_thu hoàn_thành .
+
+Mục 4 . Thiết_kế , Lắp_đặt Và Nghiệm_thu Hệ_thống Đo_đếm Và Hệ_thống Thu_thập_số_liệu Đo_đếm Bán Điện Cho Khách_hàng Sử_dụng Điện_đấu_nối Vào Cấp Điện_áp Từ Trung_áp Trở_xuống
+
+Điều 45 . Yêu_cầu chung về thiết_kế , lắp_đặt và nghiệm_thu Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm
+
+1 . Yêu_cầu trang_bị Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm ( nếu có ) tuỳ_thuộc vào từng đối_tượng khách_hàng sử_dụng điện , nhu_cầu về quản_lí vận_hành và kinh_doanh bán điện .
+
+2 . Việc đầu_tư , lắp_đặt Hệ_thống đo_đếm phải đáp_ứng các yêu_cầu đối_với Hệ_thống đo_đếm cấp điện_áp từ trung áp trở xuống theo quy_định tại Chương Iii Thông_tư này và các quy_định của pháp_luật về đo_lường .
+
+3 . Trách_nhiệm của Đơn_vị phân_phối điện và Đơn_vị phân_phối và bán_lẻ điện
+
+a ) Đầu_tư , lắp_đặt Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm ( nếu có ) đáp_ứng kịp_thời nhu_cầu lắp_đặt , thay_thế thiết_bị đo_đếm và các thiết_bị , phụ_kiện khác để bán điện cho Khách_hàng sử_dụng điện ;
+
+b ) Tổ_chức kiểm_định ban_đầu , kiểm_định định_kỳ , kiểm_định sau sửa_chữa các thiết_bị đo_đếm theo quy_định tại Thông_tư này và quy_định của pháp_luật về đo_lường ;
+
+c ) Nghiệm_thu , quản_lí đảm_bảo đáp_ứng các yêu_cầu kĩ_thuật về đo_lường của thiết_bị đo_đếm trong quá_trình sử_dụng . Chỉ được phép đưa vào sử_dụng các thiết_bị đo_đếm đã được phê_duyệt mẫu , được kiểm_định và đạt các yêu_cầu kĩ_thuật về đo_lường .
+
+Điều 46 . Thiết_kế Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm
+
+1 . Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện có trách_nhiệm thiết_kế Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm ( nếu có ) phục_vụ bán điện cho Khách_hàng sử_dụng điện đồng_thời với trình_tự thoả_thuận_đấu nối và cung_cấp điện cho Khách_hàng sử_dụng điện_đấu nối vào cấp điện_áp từ trung áp trở xuống theo quy_định tại Quy_định hệ_thống điện_phân_phối do Bộ Công_thương ban_hành , cụ_thể như sau :
+
+a ) Trường_hợp cung_cấp điện cho Khách_hàng sử_dụng điện_đấu nối vào cấp điện_áp trung áp : Trong thời_hạn 05 ngày làm_việc kể từ ngày nhận đủ Hồ_sơ đề_nghị đấu nối hợp_lệ của khách_hàng theo quy_định tại Quy_định hệ_thống điện_phân_phối do Bộ Công_thương ban_hành , Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện phải hoàn_thiện thiết_kế Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm ;
+
+b ) Trường_hợp cung_cấp điện phục_vụ mục_đích sinh_hoạt_đấu nối cấp điện_áp hạ_áp : Trong thời_hạn 07 ngày làm_việc kể từ ngày nhận Hồ_sơ đề_nghị đấu nối hợp_lệ của khách_hàng theo quy_định tại Quy_định hệ_thống điện_phân_phối do Bộ Công_thương ban_hành , Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện phải hoàn_thiện thiết_kế Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm ( nếu có ) , kí hợp_đồng và cung_cấp điện cho khách_hàng ;
+
+c ) Trường_hợp cung_cấp điện ngoài mục_đích sinh_hoạt_đấu nối cấp điện_áp hạ_áp : Trong thời_hạn 08 ngày làm_việc kể từ ngày nhận Hồ_sơ đề_nghị đấu nối hợp_lệ của khách_hàng theo quy_định tại Quy_định hệ_thống điện_phân_phối do Bộ Công_thương ban_hành , Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện có trách_nhiệm kiểm_tra , khảo_sát , thiết_kế Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm ( nếu có ) , lập phương_án cấp điện cho khách_hàng , kí hợp_đồng và cung_cấp điện cho khách_hàng .
+
+2 . Trường_hợp Khách_hàng sử_dụng điện_đấu nối vào cấp điện_áp trung áp đầu_tư Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm ( nếu có ) , khách_hàng có trách_nhiệm lập thiết_kế kĩ_thuật và thoả_thuận thống_nhất với Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm . Thời_gian tối_đa thực_hiện thoả_thuận thống_nhất_thiết_kế kĩ_thuật Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm là 05 ngày làm_việc kể từ khi khách_hàng gửi đầy_đủ hồ_sơ về thiết_kế kĩ_thuật .
+
+Điều 47 . Treo , tháo Hệ_thống đo_đếm
+
+1 . Khi treo , tháo , lắp_đặt Hệ_thống đo_đếm phải có phiếu công_tác hoặc Lệnh công_tác . Trước khi treo , tháo , lắp_đặt Hệ_thống đo_đếm , Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện có trách_nhiệm kiểm_tra tính toàn_vẹn của các thiết_bị đo_đếm , chì niêm , niêm_phong ; kiểm_tra tình_trạng hoạt_động của Hệ_thống đo_đếm , ghi chỉ_số công_tơ đo_đếm tại thời_điểm treo , tháo thiết_bị đo_đếm ; kiểm_tra tỉ_số cài_đặt Ct và Vt , số lần lập_trình cuối và thời_điểm lập_trình cuối .
+
+2 . Kết_quả treo , tháo , lắp_đặt Hệ_thống đo_đếm phải được ghi đầy_đủ vào Biên_bản treo , tháo , lắp_đặt thiết_bị đo_đếm theo mẫu do Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện quy_định . Biên_bản treo , tháo , lắp_đặt thiết_bị đo_đếm phải có chữ_kí của đại_diện Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện và chữ_kí của đại_diện Khách_hàng sử_dụng điện , được lập thành 02 bản , mỗi bên giữ 01 bản .
+
+3 . Hệ_thống đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm ( nếu có ) chỉ được đưa vào sử_dụng phục_vụ giao_nhận , mua_bán điện_năng đảm_bảo không gây hư_hỏng thiết_bị điện của Khách_hàng sử_dụng điện và an_toàn tính_mạng của con_người khi Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện hoàn_thành_công_tác treo , tháo Hệ_thống đo_đếm và Biên_bản treo , tháo , lắp_đặt thiết_bị đo_đếm được đại_diện các bên kí thống_nhất .
+
+Chương_vi
+
+Quản_lý , Vận_hành , Xử_lý_sự_cố Hệ_thống Đo_đếm , Hệ_thống Thu_thập_số_liệu Đo_đếm Và Hệ_thống Quản_lý_số_liệu Đo_đếm
+
+Mục 1 . Quản_lý , Vận_hành Hệ_thống Đo_đếm , Hệ_thống Thu_thập_số_liệu Đo_đếm Và Hệ_thống Quản_lý_số_liệu Đo_đếm
+
+Điều 48 . Quản_lý , vận_hành Hệ_thống đo_đếm
+
+1 . Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm quản_lý , vận_hành , bảo_dưỡng sửa_chữa Hệ_thống đo_đếm trong phạm_vi quản_lí đảm_bảo tính chính_xác , ổn_định , tin_cậy và bảo_mật .
+
+2 . Trong quá_trình quản_lí vận_hành , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm thường_xuyên theo_dõi , kiểm_tra tình_trạng hoạt_động của các Hệ_thống đo_đếm , kịp_thời phát_hiện các vấn_đề bất_thường hoặc nguy_cơ xảy ra sự_cố . Trường_hợp phát_hiện bất_thường hoặc sự_cố , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm phải thông_báo ngay cho các đơn_vị liên_quan để phối_hợp xử_lý , quá_trình xử_lí phải thực_hiện theo các quy_định tại Mục 2 Chương này .
+
+3 . Việc thay_thế thiết_bị hoặc nâng_cấp , cải_tạo Hệ_thống đo_đếm chỉ thực_hiện khi các đơn_vị liên_quan thoả_thuận và thống_nhất . Đối_với Hệ_thống đo_đếm bán điện cho Khách_hàng sử_dụng điện_đấu nối vào cấp điện_áp từ trung áp trở xuống , trước khi thực_hiện thay_thế thiết_bị hoặc nâng_cấp , cải_tạo Hệ_thống đo_đếm , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm thông_báo cho Khách_hàng sử_dụng điện biết để phối_hợp thực_hiện .
+
+4 . Đơn_vị quản_lí vận_hành hệ_thống đo_đếm hoặc Đơn_vị sở_hữu hệ_thống đo_đếm có trách_nhiệm tổ_chức quản_lí niêm_phong , kẹp chì của Hệ_thống đo_đếm theo quy_định tại Thông_tư này và quy_định pháp_luật về đo_lường .
+
+5 . Niêm_phong , chì kiểm_định của thiết_bị đo_đếm chỉ được tháo_dỡ khi tiến_hành kiểm_định , thử_nghiệm và xử_lí_sự_cố do Đơn_vị thí_nghiệm , kiểm_định thực_hiện với sự có_mặt của đại_diện các đơn_vị liên_quan .
+
+6 . Đồng_hồ thời_gian của công_tơ đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm được lấy theo múi_giờ Việt_nam và được đồng_bộ với nguồn thời_gian chuẩn lấy từ hệ_thống định_vị toàn_cầu ( gps ) hoặc từ nguồn thời_gian chuẩn quốc_gia phù_hợp với điều_kiện thực_tế của Đơn_vị quản_lí_số_liệu đo_đếm .
+
+7 . Đối_với Hệ_thống đo_đếm phục_vụ bán điện cho Khách_hàng sử_dụng điện , nếu có bất_kì phát_hiện bất_thường hoặc sự_cố , Khách_hàng sử_dụng điện phải thông_báo cho bên bán điện để có biện_pháp xử_lí kịp_thời .
+
+Điều 49 . Thay_đổi thông_số của Hệ_thống đo_đếm
+
+1 . Trường_hợp đo_đếm điện_năng phục_vụ giao_nhận điện_năng giữa nhà_máy_điện với lưới_điện hoặc giữa lưới_điện truyền_tải với lưới_điện_phân_phối hoặc giữa các Đơn_vị phân_phối điện với nhau hoặc giữa Khách_hàng sử_dụng điện_đấu nối vào cấp điện_áp từ 110 kV trở lên với lưới_điện
+
+a ) Chậm nhất 05 ngày làm_việc trước ngày dự_kiến thực_hiện thay_đổi thông_số của Hệ_thống đo_đếm , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm thông_báo ( kèm theo các tài_liệu liên_quan về việc cần_thiết phải thay_đổi thông_số của Hệ_thống đo_đếm ) cho Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện và các Đơn_vị giao_nhận điện liên_quan ;
+
+b ) Trong thời_hạn 02 ngày làm_việc kể từ khi nhận được thông_báo của Đơn_vị quản_lí vận_hành hệ_thống đo_đếm , Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện và các Đơn_vị giao_nhận liên_quan có trách_nhiệm thống_nhất về việc thay_đổi hoặc cài lại thông_số của Hệ_thống đo_đếm , kế_hoạch thực_hiện hoặc đề_nghị Đơn_vị quản_lí vận_hành hệ_thống đo_đếm bổ_sung tài_liệu để có đầy_đủ cơ_sở thống_nhất thực_hiện thay_đổi thông_số của Hệ_thống đo_đếm ;
+
+c ) Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm chủ_trì triển_khai thực_hiện thay_đổi thông_số của Hệ_thống đo_đếm theo kế_hoạch đã được thống_nhất ; việc thay_đổi thông_số của Hệ_thống đo_đếm phải được thực_hiện theo các quy_định pháp_luật về đo_lường ;
+
+d ) Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện và các Đơn_vị giao_nhận điện liên_quan có trách_nhiệm tham_gia thực_hiện quá_trình thay_đổi thông_số của Hệ_thống đo_đếm theo kế_hoạch đã được thống_nhất ;
+
+đ ) Các đơn_vị phải cập_nhật thay_đổi thông_số của Hệ_thống đo_đếm vào cơ_sở dữ_liệu đo_đếm do mình quản_lý . Đơn_vị quản_lí_số_liệu đo_đếm có trách_nhiệm cập_nhật vào Hệ_thống thu_thập số_liệu đo_đếm và Hệ_thống quản_lí_số_liệu đo_đếm sau khi có thông_báo từ Đơn_vị quản_lí vận_hành hệ_thống đo_đếm .
+
+2 . Đối_với đo_đếm điện_năng phục_vụ giao_nhận điện_năng với Khách_hàng sử_dụng điện_đấu nối vào cấp điện_áp từ trung áp trở xuống , Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện có trách_nhiệm thay_đổi thông_số Hệ_thống đo_đếm nhưng phải thông_báo trước cho Khách_hàng sử_dụng điện biết lí_do để phối_hợp thực_hiện .
+
+Điều 50 . Thay_thế thiết_bị của Hệ_thống đo_đếm
+
+1 . Trường_hợp đo_đếm điện_năng phục_vụ giao_nhận điện_năng giữa nhà_máy_điện với lưới_điện hoặc giữa lưới_điện truyền_tải với lưới_điện_phân_phối hoặc giữa các Đơn_vị phân_phối điện với nhau hoặc giữa Khách_hàng sử_dụng điện_đấu nối vào cấp điện_áp từ 110 kV trở lên với lưới_điện , khi cần_thiết phải thay_thế thiết_bị hoặc nâng_cấp , cải_tạo Hệ_thống đo_đếm , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm chủ_trì thực_hiện các nội_dung cụ_thể như sau :
+
+a ) Trừ trường_hợp khẩn_cấp quy_định tại Khoản 3 Điều 53 Thông_tư này , khi thay_thế thiết_bị của Hệ_thống đo_đếm bị sự_cố hoặc hoạt_động bất_thường mà thông_số kĩ_thuật của thiết_bị thay_thế tương_đương với thông_số của thiết_bị cũ hoặc đảm_bảo theo đúng thoả_thuận với các đơn_vị liên_quan , trình_tự thay_thế thực_hiện như sau :
+
+- Chậm nhất 05 ngày làm_việc trước ngày dự_kiến thực_hiện , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm thông_báo ( kèm theo các tài_liệu liên_quan ) cho Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện và các Đơn_vị giao_nhận liên_quan kế_hoạch thay_thế , nghiệm_thu Hệ_thống đo_đếm ;
+
+- Trong thời_hạn 02 ngày làm_việc kể từ khi nhận được thông_báo của Đơn_vị quản_lí vận_hành hệ_thống đo_đếm , Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện và Đơn_vị giao_nhận điện liên_quan có trách_nhiệm thống_nhất kế_hoạch thay_thế và nghiệm_thu với Đơn_vị quản_lí vận_hành hệ_thống đo_đếm ;
+
+- Đơn_vị quản_lí vận_hành hệ_thống đo_đếm chủ_trì tổ_chức thay_thế và nghiệm_thu Hệ_thống đo_đếm theo kế_hoạch đã thống_nhất .
+
+b ) Đối_với trường_hợp thay_thế thiết_bị của Hệ_thống đo_đếm khi nâng_cấp , cải_tạo Hệ_thống đo_đếm
+
+- Thực_hiện thoả_thuận thiết_kế kĩ_thuật , đầu_tư , lắp_đặt , nghiệm_thu thiết_bị thay_thế theo quy_định tại Chương V Thông_tư này ;
+
+- Đơn_vị quản_lí_số_liệu đo_đếm và các Đơn_vị giao_nhận điện liên_quan có trách_nhiệm cập_nhật thay_đổi thông_số của Hệ_thống đo_đếm vào cơ_sở dữ_liệu đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm và Hệ_thống quản_lí_số_liệu đo_đếm .
+
+2 . Trường_hợp đo_đếm điện_năng phục_vụ giao_nhận điện_năng với Khách_hàng sử_dụng điện_đấu nối vào cấp điện_áp từ trung áp trở xuống , Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện có trách_nhiệm thay_thế thiết_bị của Hệ_thống đo_đếm theo quy_định tại Điều 47 Thông_tư này và phải thông_báo trước cho khách_hàng biết lí_do . Khi tiến_hành thay_thế thiết_bị của Hệ_thống đo_đếm phải có sự chứng_kiến và xác_nhận của đại_diện Khách_hàng sử_dụng điện .
+
+Điều 51 . Công_tác tại hiện_trường
+
+Khi thực_hiện thay_đổi thông_số hoặc thay_thế thiết_bị của Hệ_thống đo_đếm , các đơn_vị tham_gia có trách_nhiệm thực_hiện công_việc sau :
+
+1 . Kiểm_tra tình_trạng niêm_phong , hoạt_động của Hệ_thống đo_đếm .
+
+2 . Chốt chỉ_số công_tơ đo_đếm , tính_toán sản_lượng trong các chu_kì không thông_qua Hệ_thống đo_đếm .
+
+3 . Tính_toán truy_thu , thoái hoàn ( nếu có ) .
+
+4 . Lập biên_bản thay_đổi thông_số , thay_thế thiết_bị hoặc huỷ_bỏ vị_trí đo_đếm , trong đó phải có các thông_tin sau : Vị_trí đo_đếm điện_năng , thời_điểm thực_hiện , chỉ_số công_tơ đo_đếm trước và sau khi treo , tháo và các nội_dung công_việc đã thực_hiện . Biên_bản xác_nhận phải có chữ_kí của đại_diện của các đơn_vị tham_gia .
+
+Điều 52 . Vận_hành Hệ_thống thu_thập số_liệu đo_đếm và Hệ_thống quản_lí_số_liệu đo_đếm
+
+1 . Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm quản_lý , vận_hành Hệ_thống thu_thập số_liệu đo_đếm tại vị_trí đo_đếm bao_gồm các thiết_bị thông_tin , máy_tính ( nếu có ) , chương_trình đọc số_liệu công_tơ đo_đếm để đảm_bảo cập_nhật đầy_đủ , chính_xác số_liệu từ các công_tơ đo_đếm tại vị_trí đo_đếm trong phạm_vi quản_lí và truyền về Hệ_thống thu_thập số_liệu đo_đếm , Hệ_thống quản_lí_số_liệu đo_đếm của Đơn_vị quản_lí_số_liệu đo_đếm để cập_nhật vào cơ_sở dữ_liệu chung .
+
+2 . Đơn_vị quản_lí_số_liệu đo_đếm có trách_nhiệm quản_lý , vận_hành , bảo_mật Hệ_thống thu_thập số_liệu đo_đếm , Hệ_thống quản_lí_số_liệu đo_đếm và cơ_sở dữ_liệu đo_đếm điện_năng trong phạm_vi quản_lí đảm_bảo cập_nhật thông_tin , số_liệu đầy_đủ , chính_xác và tin_cậy .
+
+Mục 2 . Xử_lý_sự_cố Hệ_thống Đo_đếm , Hệ_thống Thu_thập_số_liệu Đo_đếm Và Hệ_thống Quản_lý_số_liệu Đo_đếm
+
+Điều 53 . Sự_cố Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm và Hệ_thống quản_lí_số_liệu đo_đếm
+
+1 . Đơn_vị quản_lí vận_hành hệ_thống đo_đếm , Đơn_vị quản_lí_số_liệu đo_đếm có trách_nhiệm chủ_trì và phối_hợp với các đơn_vị liên_quan trong việc khắc_phục các sự_cố của Hệ_thống đo_đếm , Hệ_thống thu_thập số_liệu đo_đếm và Hệ_thống quản_lí_số_liệu đo_đếm trong phạm_vi quản_lý , trừ trường_hợp khẩn_cấp quy_định tại Khoản 3 Điều này .
+
+2 . Quá_trình xử_lí_sự_cố Hệ_thống đo_đếm phải có sự tham_gia , chứng_kiến của đại_diện Công_ti mua_bán điện hoặc Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện và các Đơn_vị giao_nhận điện liên_quan ; phải được ghi lại bằng biên_bản làm_việc và có chữ_kí của đại_diện các đơn_vị liên_quan tham_gia , trừ trường_hợp khẩn_cấp được quy_định tại Khoản 3 Điều này .
+
+3 . Trường_hợp khẩn_cấp , khi sự_cố xảy ra đối_với Hệ_thống đo_đếm có_thể gây nguy_hiểm cho con_người hoặc thiết_bị , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm được quyền chủ_động xử_lí_sự_cố nhưng phải thông_báo ngay tới Công_ti mua_bán điện hoặc Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện và các Đơn_vị giao_nhận điện liên_quan và phải thực_hiện các công_việc sau :
+
+a ) Lập biên_bản ghi lại chi_tiết các thông_tin về sự_cố và biện_pháp khắc_phục bao_gồm các nội_dung : Thời_điểm xảy ra sự_cố , tình_trạng sự_cố , thời_gian khắc_phục , chỉ_số công_tơ đo_đếm tại các thời_điểm bị sự_cố và sau khi được phục_hồi . Biên_bản phải có chữ_kí xác_nhận của đại_diện có thẩm_quyền của Đơn_vị quản_lí vận_hành hệ_thống đo_đếm ;
+
+b ) Phối_hợp với Công_ti mua_bán điện hoặc Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện và các Đơn_vị giao_nhận điện liên_quan để thực_hiện các thủ_tục niêm_phong kẹp chì và tính_toán sản_lượng điện_năng truy_thu , thoái hoàn theo quy_định .
+
+4 . Sản_lượng điện_năng truy_thu , thoái hoàn trong thời_gian Hệ_thống đo_đếm bị sự_cố phải được Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện và các Đơn_vị giao_nhận điện liên_quan tính_toán thống_nhất .
+
+Điều 54 . Xử_lí_sự_cố Hệ_thống đo_đếm
+
+1 . Ngay khi nhận được thông_báo về sự_cố Hệ_thống đo_đếm , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm :
+
+a ) Thông_báo cho Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện và các Đơn_vị giao_nhận điện liên_quan , Đơn_vị sở_hữu hệ_thống đo_đếm , Đơn_vị quản_lí_số_liệu đo_đếm ;
+
+b ) Chủ_trì , phối_hợp với các Đơn_vị giao_nhận điện liên_quan xác_định nguyên_nhân_sự_cố và đưa ra biện_pháp khắc_phục sự_cố Hệ_thống đo_đếm .
+
+2 . Trường_hợp các thiết_bị đo_đếm bị sự_cố phải thay_thế và kiểm_định , Đơn_vị sở_hữu hệ_thống đo_đếm có trách_nhiệm kí hợp_đồng với Đơn_vị thí_nghiệm , kiểm_định thực_hiện các nội_dung liên_quan .
+
+3 . Tại hiện_trường , các đơn_vị tham_gia xử_lí_sự_cố thực_hiện các công_việc sau :
+
+a ) Đơn_vị quản_lí vận_hành hệ_thống đo_đếm , Đơn_vị sở_hữu hệ_thống đo_đếm có trách_nhiệm cung_cấp các tài_liệu , số_liệu liên_quan phục_vụ công_tác xác_định nguyên_nhân và khắc_phục sự_cố Hệ_thống đo_đếm bao_gồm : Nhật_kí vận_hành Hệ_thống đo_đếm , số_liệu được ghi_nhận trong công_tơ đo_đếm tại thời_điểm trước khi xảy ra sự_cố ;
+
+b ) Sau khi xác_định được nguyên_nhân và đưa ra biện_pháp khắc_phục sự_cố , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm phối_hợp với Đơn_vị sở_hữu hệ_thống đo_đếm khắc_phục sự_cố Hệ_thống đo_đếm , cụ_thể như sau :
+
+- Trường_hợp thiết_bị đo_đếm bị hư_hỏng , Đơn_vị sở_hữu hệ_thống đo_đếm chủ_trì , phối_hợp với Đơn_vị quản_lí vận_hành hệ_thống đo_đếm thay_thế hoặc sửa_chữa trong thời_hạn ngắn nhất để các thiết_bị đo_đếm đảm_bảo yêu_cầu quy_định tại Thông_tư này và hoạt_động trở_lại bình_thường . Việc thay_thế hoặc sửa_chữa phải thực_hiện theo quy_định tại Điều 50 Thông_tư này ;
+
+- Trường_hợp không_thể khắc_phục ngay sự_cố , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm chủ_trì , phối_hợp với các Đơn_vị giao_nhận điện liên_quan xác_định phương_án đo_đếm thay_thế tạm_thời ( nếu cần_thiết ) .
+
+c ) Kiểm_tra , nghiệm_thu Hệ_thống đo_đếm sau khi đã khắc_phục sự_cố ;
+
+d ) Trường_hợp sự_cố Hệ_thống đo_đếm dẫn đến việc không xác_định được chính_xác số_liệu đo_đếm và sản_lượng điện_năng giao_nhận , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm chủ_trì , phối_hợp các đơn_vị liên_quan ước_tính , thống_nhất số_liệu đo_đếm và sản_lượng điện_năng giao_nhận bằng biên_bản để làm căn_cứ thanh_toán tiền điện ;
+
+đ ) Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm lập biên_bản xử_lý , khắc_phục sự_cố Hệ_thống đo_đếm . Biên_bản phải được các đơn_vị tham_gia thống_nhất và được đại_diện các đơn_vị kí xác_nhận .
+
+4 . Đối_với sự_cố Hệ_thống đo_đếm cấp điện_áp hạ_áp , ngay sau khi phát_hiện hoặc được Khách_hàng sử_dụng điện thông_báo về sự_cố hoặc hiện_tượng bất_thường , Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện có trách_nhiệm chủ_trì , phối_hợp với Khách_hàng sử_dụng điện để khắc_phục sự_cố trong thời_gian sớm nhất .
+
+Điều 55 . Xử_lí_sự_cố Hệ_thống thu_thập số_liệu đo_đếm và Hệ_thống quản_lí_số_liệu đo_đếm
+
+1 . Trong quá_trình quản_lí vận_hành Hệ_thống thu_thập số_liệu đo_đếm và Hệ_thống quản_lí_số_liệu đo_đếm , đơn_vị phát_hiện thấy xảy ra lỗi hoặc sự_cố với hệ_thống đọc và truyền số_liệu dẫn đến việc truy_cập số_liệu từ xa không thực_hiện được có trách_nhiệm thông_báo ngay về Đơn_vị quản_lí vận_hành hệ_thống đo_đếm và Đơn_vị quản_lí_số_liệu đo_đếm để phối_hợp xử_lý , giải_quyết . Ngay khi nhận được thông_tin , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm và Đơn_vị quản_lí_số_liệu đo_đếm có trách_nhiệm liên_hệ với các đơn_vị liên_quan để phối_hợp tiến_hành kiểm_tra , xác_định lỗi hoặc sự_cố và thực_hiện biện_pháp khắc_phục kịp_thời .
+
+2 . Sau khi kiểm_tra , nếu phát_hiện lỗi xảy ra tại khâu nào , đơn_vị chịu trách_nhiệm khâu đó phải khẩn_trương xử_lý , khắc_phục để phục_hồi tình_trạng hoạt_động của Hệ_thống thu_thập số_liệu đo_đếm hoặc Hệ_thống quản_lí_số_liệu đo_đếm trong thời_gian ngắn nhất .
+
+3 . Sau khi Hệ_thống thu_thập số_liệu đo_đếm hoặc Hệ_thống quản_lí_số_liệu đo_đếm được khôi_phục sau sự_cố , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm và Đơn_vị quản_lí_số_liệu đo_đếm có trách_nhiệm thực_hiện các biện_pháp để thu_thập số_liệu đo_đếm về Đơn_vị quản_lí_số_liệu đo_đếm để bổ_sung các số_liệu còn thiếu trong quá_trình hệ_thống bị sự_cố .
+
+4 . Trường_hợp chưa thể xử_lí_sự_cố Hệ_thống thu_thập số_liệu đo_đếm , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm tiến_hành thu_thập số_liệu công_tơ đo_đếm trực_tiếp tại_chỗ và sử_dụng các biện_pháp thích_hợp ( thư điện_tử , fax ) để chuyển số_liệu kịp_thời về Đơn_vị quản_lí_số_liệu đo_đếm để cập_nhật vào cơ_sở dữ_liệu đo_đếm chung của toàn hệ_thống .
+
+5 . Trường_hợp Hệ_thống thu_thập số_liệu đo_đếm và Hệ_thống quản_lí_số_liệu đo_đếm bị lỗi hoặc sự_cố dẫn đến việc không đọc được số_liệu công_tơ đo_đếm hoặc đọc được số_liệu nhưng bị sai , Đơn_vị quản_lí_số_liệu đo_đếm phải phối_hợp với Đơn_vị quản_lí vận_hành hệ_thống đo_đếm và các đơn_vị liên_quan để thu_thập số_liệu đo_đếm chính_xác phục_vụ_việc truy_thu , thoái hoàn . Số_liệu đo_đếm chính_xác phải cập_nhật vào cơ_sở dữ_liệu đo_đếm của Đơn_vị quản_lí_số_liệu đo_đếm .
+
+Mục 3 . Kiểm_định_thiết_bị Đo_đếm
+
+Điều 56 . Quy_định chung về kiểm_định thiết_bị đo_đếm
+
+1 . Kiểm_định thiết_bị đo_đếm bao_gồm kiểm_định ban_đầu , kiểm_định định_kỳ , kiểm_định sau sửa_chữa và kiểm_định theo yêu_cầu .
+
+2 . Thiết_bị đo_đếm chỉ được đưa vào sử_dụng sau khi được kiểm_định theo quy_định của pháp_luật về đo_lường và đáp_ứng đầy_đủ các yêu_cầu quy_định tại Thông_tư này .
+
+3 . Kiểm_định ban_đầu là việc kiểm_định lần đầu_tiên đối_với thiết_bị đo_đếm trước khi đưa vào sử_dụng . Trong phạm_vi quản_lý , Đơn_vị đầu_tư hệ_thống đo_đếm phải chịu toàn_bộ chi_phí cho việc kiểm_định ban_đầu thiết_bị đo_đếm .
+
+4 . Kiểm_định định_kì được thực_hiện theo chu_kì do cơ_quan quản_lí nhà_nước về đo_lường quy_định hoặc theo quy_định tại hợp_đồng mua_bán điện nhưng không được trái với quy_định của pháp_luật về đo_lường . Đơn_vị sở_hữu hệ_thống đo_đếm phải chịu toàn_bộ chi_phí cho việc kiểm_định định_kì thiết_bị đo_đếm .
+
+5 . Kiểm_định sau sửa_chữa được thực_hiện theo quy_định của pháp_luật về đo_lường .
+
+6 . Kiểm_định theo yêu_cầu được thực_hiện trong các trường_hợp sau :
+
+a ) Kiểm_định theo yêu_cầu của Đơn_vị sở_hữu hệ_thống đo_đếm ;
+
+b ) Kiểm_định theo yêu_cầu của Đơn_vị giao_nhận điện liên_quan không sở_hữu hoặc đầu_tư Hệ_thống đo_đếm , trừ trường_hợp quy_định tại Điểm c Khoản này ;
+
+c ) Trường_hợp Khách_hàng sử_dụng điện có yêu_cầu thực_hiện kiểm_định thiết_bị đo_đếm đang được sử_dụng để bán điện cho khách_hàng , Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện và Khách_hàng sử_dụng điện có trách_nhiệm phối_hợp thực_hiện theo quy_định tại Khoản 3 , Khoản 4 Điều 25 <LT rel="DC"> <LT rel="DC"> Luật Điện_lực và </LT> Điều 19 <NĐ rel="DC"> Nghị_định số 137/2013/NĐ-CP ngày 21 tháng 10 năm 2013 </NĐ> </LT> của Chính_phủ quy_định chi_tiết thi_hành một_số điều của <LT rel="DC"> Luật Điện_lực và </LT> Luật sửa_đổi , bổ_sung một_số điều của Luật Điện_lực .
+
+7 . Đơn_vị đầu_tư hệ_thống đo_đếm hoặc Đơn_vị sở_hữu hệ_thống đo_đếm có trách_nhiệm tập_hợp toàn_bộ hồ_sơ kiểm_định ( Giấy chứng_nhận kiểm_định và Biên_bản làm_việc ) và gửi 01 ( một ) bộ hồ_sơ cho Đơn_vị quản_lí_số_liệu đo_đếm và mỗi đơn_vị tham_gia kiểm_định thiết_bị đo_đếm .
+
+8 . Đơn_vị quản_lí_số_liệu đo_đếm và các đơn_vị tham_gia kiểm_định thiết_bị đo_đếm có trách_nhiệm lưu_giữ hồ_sơ kiểm_định , cập_nhật thông_tin điểm đo vào danh_sách vị_trí đo_đếm giao_nhận và chương_trình quản_lí của đơn_vị .
+
+Điều 57 . Thành_phần tham_gia kiểm_định thiết_bị đo_đếm cấp điện_áp từ trung áp trở_lên
+
+Tuỳ theo từng trường_hợp đo_đếm giao_nhận và mục_đích kiểm_định thành_phần tham_gia kiểm_định thiết_bị đo_đếm có_thể bao_gồm :
+
+1 . Đơn_vị sở_hữu hệ_thống đo_đếm hoặc Đơn_vị đầu_tư hệ_thống đo_đếm .
+
+2 . Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện .
+
+3 . Đơn_vị quản_lí vận_hành hệ_thống đo_đếm .
+
+4 . Đơn_vị thí_nghiệm , kiểm_định .
+
+5 . Đơn_vị giao_nhận điện liên_quan .
+
+Điều 58 . Kiểm_định định_kì thiết_bị đo_đếm cấp điện_áp từ trung áp trở_lên
+
+1 . Trước ngày 05 tháng 12 hàng năm , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm phối_hợp với Đơn_vị sở_hữu hệ_thống đo_đếm gửi thông_báo cho các Đơn_vị giao_nhận điện liên_quan và Đơn_vị thí_nghiệm , kiểm_định kế_hoạch kiểm_định định_kì thiết_bị đo_đếm cho từng tháng của năm tiếp_theo .
+
+2 . Trước ngày 20 tháng 12 hàng năm , trên cơ_sở kế_hoạch kiểm_định định_kì do Đơn_vị quản_lí vận_hành hệ_thống đo_đếm gửi , các Đơn_vị giao_nhận điện liên_quan và Đơn_vị thí_nghiệm , kiểm_định có trách_nhiệm thống_nhất kế_hoạch kiểm_định định_kì của năm tiếp_theo .
+
+3 . Trường_hợp kế_hoạch kiểm_định định_kì năm có sự thay_đổi , trước ngày 20 tháng cuối_cùng của mỗi Quý trong năm , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm phối_hợp với Đơn_vị sở_hữu hệ_thống đo_đếm cập_nhật và thống_nhất kế_hoạch với các Đơn_vị giao_nhận điện liên_quan và Đơn_vị thí_nghiệm , kiểm_định kế_hoạch kiểm_định cho các tháng còn lại của năm .
+
+4 . Trên_cơ_sở kế_hoạch kiểm_định định_kì năm tiếp_theo và kế_hoạch cập_nhật hàng quý đã được các bên thống_nhất , ít_nhất 10 ngày trước ngày thực_hiện kiểm_định định_kỳ , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm thông_báo thời_gian thực_hiện kiểm_định định_kì cho các đơn_vị quy_định tại Điều 57 Thông_tư này .
+
+5 . Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm chủ_trì và phối_hợp với Đơn_vị sở_hữu hệ_thống đo_đếm tổ_chức việc kiểm_định định_kì thiết_bị đo_đếm ; Đơn_vị thí_nghiệm , kiểm_định thực_hiện kiểm_định theo đúng quy_định của pháp_luật về đo_lường và hợp_đồng đã kí với Đơn_vị quản_lí vận_hành hệ_thống đo_đếm hoặc Đơn_vị sở_hữu hệ_thống đo_đếm .
+
+6 . Trường_hợp kết_quả kiểm_định định_kì cho thấy thiết_bị đo_đếm không đạt các yêu_cầu quy_định tại Thông_tư này và yêu_cầu kĩ_thuật theo quy_định của pháp_luật về đo_lường , Đơn_vị sở_hữu hệ_thống đo_đếm phải thay_thế thiết_bị đo_đếm trong thời_gian ngắn nhất .
+
+Điều 59 . Kiểm_định theo yêu_cầu thiết_bị đo_đếm cấp điện_áp từ trung áp trở_lên
+
+1 . Trường_hợp kiểm_định theo yêu_cầu của Đơn_vị sở_hữu hệ_thống đo_đếm
+
+a ) Đơn_vị sở_hữu hệ_thống đo_đếm có trách_nhiệm thông_báo cho Đơn_vị giao_nhận điện liên_quan ít_nhất 10 ngày trước ngày dự_kiến thực_hiện kiểm_định theo yêu_cầu . Trong thời_hạn 03 ngày kể từ ngày nhận được thông_báo , các Đơn_vị giao_nhận điện liên_quan có trách_nhiệm gửi ý_kiến cho Đơn_vị sở_hữu hệ_thống đo_đếm về kế_hoạch kiểm_định ;
+
+b ) Kiểm_định theo yêu_cầu chỉ được tiến_hành sau khi các Đơn_vị giao_nhận điện liên_quan thống_nhất kế_hoạch ;
+
+c ) Đơn_vị sở_hữu hệ_thống đo_đếm phải chịu mọi chi_phí cho việc kiểm_định theo yêu_cầu .
+
+2 . Trường_hợp kiểm_định theo yêu_cầu của Đơn_vị giao_nhận điện liên_quan không sở_hữu hoặc đầu_tư Hệ_thống đo_đếm , trừ trường_hợp quy_định tại Điểm c Khoản 6 Điều 56 Thông_tư này
+
+a ) Đơn_vị giao_nhận điện liên_quan có yêu_cầu kiểm_định có trách_nhiệm thông_báo cho Đơn_vị sở_hữu hệ_thống đo_đếm và các Đơn_vị giao_nhận điện liên_quan khác ít_nhất 10 ngày trước ngày dự_kiến thực_hiện kiểm_định . Trong thời_hạn 03 ngày kể từ ngày nhận được thông_báo , Đơn_vị sở_hữu hệ_thống đo_đếm và các Đơn_vị giao_nhận điện liên_quan khác có trách_nhiệm gửi ý_kiến cho Đơn_vị giao_nhận điện liên_quan có yêu_cầu kiểm_định ;
+
+b ) Kiểm_định theo yêu_cầu chỉ được tiến_hành sau khi các Đơn_vị giao_nhận điện liên_quan thống_nhất kế_hoạch ;
+
+c ) Chi_phí cho việc kiểm_định thiết_bị đo_đếm
+
+- Trường_hợp sau khi kiểm_định theo yêu_cầu , thiết_bị đo_đếm đạt các yêu_cầu quy_định tại Thông_tư này và yêu_cầu kĩ_thuật theo quy_định của pháp_luật về đo_lường thì đơn_vị yêu_cầu kiểm_định chi_trả mọi chi_phí kiểm_định ;
+
+- Trường_hợp thiết_bị đo_đếm không đạt các yêu_cầu quy_định tại Thông_tư này và yêu_cầu kĩ_thuật theo quy_định của pháp_luật về đo_lường thì Đơn_vị sở_hữu hệ_thống đo_đếm chi_trả mọi chi_phí kiểm_định .
+
+3 . Đơn_vị sở_hữu hệ_thống đo_đếm có trách_nhiệm tổ_chức việc kiểm_định theo yêu_cầu thiết_bị đo_đếm . Đơn_vị thí_nghiệm , kiểm_định thực_hiện kiểm_định theo đúng quy_định của pháp_luật về đo_lường và hợp_đồng đã kí với Đơn_vị sở_hữu hệ_thống đo_đếm .
+
+4 . Trường_hợp kết_quả kiểm_định theo yêu_cầu cho thấy thiết_bị đo_đếm không đạt các yêu_cầu quy_định tại Thông_tư này và yêu_cầu kĩ_thuật theo quy_định của pháp_luật về đo_lường , Đơn_vị sở_hữu hệ_thống đo_đếm phải thay_thế thiết_bị đo_đếm trong thời_gian ngắn nhất .
+
+Điều 60 . Kiểm_định sau sửa_chữa thiết_bị đo_đếm cấp điện_áp từ trung áp trở_lên
+
+1 . Thiết_bị đo_đếm sau khi sửa_chữa xong phải được kiểm_định đảm_bảo đáp_ứng các yêu_cầu quy_định tại Thông_tư này và các yêu_cầu kĩ_thuật theo quy_định của pháp_luật về đo_lường .
+
+2 . Đơn_vị sở_hữu hệ_thống đo_đếm hoặc Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm tổ_chức thực_hiện kiểm_định thiết_bị đo_đếm sau sửa_chữa theo quy_định pháp_luật về đo_lường .
+
+3 . Trình_tự và nội_dung kiểm_định sau sửa_chữa được thực_hiện theo quy_định của pháp_luật về đo_lường .
+
+Điều 61 . Thực_hiện kiểm_định thiết_bị đo_đếm cấp điện_áp từ trung áp trở_lên
+
+1 . Trường_hợp đo_đếm điện_năng phục_vụ giao_nhận điện_năng giữa nhà_máy_điện với lưới_điện hoặc giữa lưới_điện truyền_tải với lưới_điện_phân_phối hoặc giữa các Đơn_vị phân_phối điện với nhau hoặc giữa Khách_hàng sử_dụng điện_đấu nối vào cấp điện_áp từ 110 kV trở lên với lưới_điện , trình_tự kiểm_định thiết_bị đo_đếm được thực_hiện như sau :
+
+a ) Các đơn_vị tham_gia kiểm_định kiểm_tra niêm_phong kẹp chì và tình_trạng hoạt_động của thiết_bị đo_đếm trước khi kiểm_định ;
+
+b ) Các đơn_vị tham_gia chốt chỉ_số công_tơ đo_đếm và phá_bỏ niêm_phong kẹp chì ;
+
+c ) Đơn_vị thí_nghiệm , kiểm_định truy_xuất dữ_liệu công_tơ đo_đếm , đấu nối sơ_đồ kiểm_định và tiến_hành kiểm_định thiết_bị đo_đếm theo quy_trình kiểm_định công_tơ đo_đếm do cơ_quan quản_lí nhà_nước về đo_lường quy_định ;
+
+d ) Đơn_vị thí_nghiệm , kiểm_định thiết_lập lại thiết_bị đo_đếm , kết_nối thông_tin giữa công_tơ đo_đếm với Hệ_thống thu_thập số_liệu đo_đếm , niêm_phong kẹp chì Hệ_thống đo_đếm ;
+
+đ ) Đơn_vị thí_nghiệm , kiểm_định và các đơn_vị tham_gia kiểm_định có trách_nhiệm tính_toán sản_lượng điện_năng tăng thêm và sản_lượng điện_năng không qua đo_đếm ( nếu có ) trong quá_trình kiểm_định ;
+
+e ) Lập biên_bản làm_việc có chữ_kí của đại_diện các đơn_vị tham_gia .
+
+2 . Trường_hợp đo_đếm điện_năng phục_vụ giao_nhận điện_năng với Khách_hàng sử_dụng điện_đấu nối vào cấp điện_áp trung áp , Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện tổ_chức thực_hiện kiểm_định thiết_bị đo_đếm theo trình_tự như sau :
+
+a ) Phối_hợp với Khách_hàng sử_dụng điện kiểm_tra niêm_phong kẹp chì và tình_trạng hoạt_động của Hệ_thống đo_đếm , chốt chỉ_số công_tơ đo_đếm và phá_bỏ niêm_phong kẹp chì trước khi thực_hiện kiểm_định hoặc thay_thế định_kỳ ;
+
+b ) Tổ_chức kiểm_định hoặc thay_thế định_kì theo quy_định của pháp_luật về đo_lường ;
+
+c ) Tái_lập lại Hệ_thống đo_đếm cho khách_hàng và thực_hiện niêm_phong kẹp chì Hệ_thống đo_đếm ;
+
+d ) Lập biên_bản làm_việc có chữ_kí của đại_diện các bên tham_gia .
+
+Điều 62 . Yêu_cầu về kiểm_định thiết_bị đo_đếm cấp điện_áp hạ_áp
+
+Ngoài các quy_định về kiểm_định thiết_bị đo_đếm quy_định tại Điều 56 Thông_tư này , việc kiểm_định thiết_bị đo_đếm cấp điện_áp hạ_áp phải đáp_ứng các yêu_cầu sau :
+
+1 . Hàng năm , Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện lập kế_hoạch kiểm_định định_kì các thiết_bị đo_đếm đang sử_dụng để bán điện cho Khách_hàng sử_dụng điện trong phạm_vi quản_lý .
+
+2 . Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện chịu toàn_bộ chi_phí kiểm_định ban_đầu , kiểm_định định_kỳ , kiểm_định sau sửa_chữa thiết_bị đo_đếm để đảm_bảo các thiết_bị đo_đếm hoạt_động bình_thường và đáp_ứng các yêu_cầu kĩ_thuật theo quy_định của pháp_luật về đo_lường và yêu_cầu quy_định tại Thông_tư này .
+
+Điều 63 . Kiểm_định định_kì thiết_bị đo_đếm cấp điện_áp hạ_áp
+
+1 . Kiểm_định định_kì thiết_bị đo_đếm có_thể được thực_hiện tại_chỗ hoặc kiểm_định trong phòng thí_nghiệm . Trường_hợp thực_hiện kiểm_định trong phòng thí_nghiệm , Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện phải lắp_đặt thiết_bị đo_đếm điện khác đạt tiêu_chuẩn theo quy_định của pháp_luật về đo_lường để thay_thế thiết_bị đo_đếm đã tháo ra .
+
+2 . Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện thay_thế hoặc kiểm_định định_kì các thiết_bị đo_đếm theo trình_tự như sau :
+
+a ) Phối_hợp với Khách_hàng sử_dụng điện kiểm_tra niêm_phong kẹp chì và tình_trạng hoạt_động của Hệ_thống đo_đếm , chốt chỉ_số công_tơ đo_đếm và phá_bỏ niêm_phong kẹp chì trước khi thực_hiện kiểm_định hoặc thay_thế định_kỳ ;
+
+b ) Tổ_chức kiểm_định hoặc thay_thế định_kì theo quy_định của pháp_luật về đo_lường ;
+
+c ) Tái_lập lại Hệ_thống đo_đếm cho khách_hàng và thực_hiện niêm_phong kẹp chì Hệ_thống đo_đếm ;
+
+d ) Lập biên_bản làm_việc có chữ_kí của đại_diện các bên tham_gia .
+
+Chương_vii
+
+Thu_thập , Xử_lý_số_liệu Đo_đếm Và Giao_nhận Điện_năng
+
+Điều 64 . Nguyên_tắc giao_nhận điện_năng và thu_thập số_liệu đo_đếm
+
+Các nguyên_tắc chính trong giao_nhận điện_năng phục_vụ thanh_toán bao_gồm :
+
+1 . Điện_năng giao_nhận phục_vụ thanh_toán phải được xác_định thông_qua Hệ_thống đo_đếm theo phương_thức giao_nhận điện_năng được bên bán và bên mua thống_nhất .
+
+2 . Điện_năng giao_nhận phục_vụ thanh_toán được thu_thập bằng một trong hai phương_pháp quy_định tại Điều 70 Thông_tư này .
+
+3 . Vị_trí đo_đếm điện_năng và Hệ_thống đo_đếm được xác_định theo quy_định tại Chương Iii Thông_tư này .
+
+Mục 1 . Phương_thức Giao_nhận Điện_năng
+
+Điều 65 . Nguyên_tắc , căn_cứ thiết_lập phương_thức giao_nhận điện_năng
+
+1 . Nguyên_tắc thiết_lập phương_thức giao_nhận điện_năng
+
+a ) Phương_thức giao_nhận điện_năng thể_hiện mối quan_hệ giữa các đơn_vị trong giao_nhận điện_năng , phương_thức giao_nhận điện_năng phải đảm_bảo xác_định đầy_đủ , chính_xác sản_lượng điện_năng giao_nhận giữa bên bán và bên mua ;
+
+b ) Phương_thức giao_nhận điện_năng tại mỗi vị_trí đo_đếm phải chỉ rõ đơn_vị giao_nhận điện và chiều giao_nhận điện_năng , công_thức xác_định và tổng_hợp điện_năng qua một hoặc nhiều điểm đo liên_quan làm căn_cứ xác_nhận điện_năng giao_nhận ;
+
+c ) Trong quá_trình thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm phải đề_cập và xét đến các nguyên_tắc , yêu_cầu và tính khả_thi của phương_thức giao_nhận điện_năng ;
+
+d ) Được phép phối_hợp nhiều Hệ_thống đo_đếm để xác_định chính_xác sản_lượng điện_năng giao_nhận cho từng trường_hợp cụ_thể .
+
+2 . Căn_cứ thiết_lập phương_thức giao_nhận điện_năng bao_gồm :
+
+a ) Sơ_đồ nhất thứ của trạm biến_áp hoặc nhà_máy_điện ;
+
+b ) Sơ_đồ kết dây lưới_điện khu_vực ;
+
+c ) Thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm , vị_trí đo_đếm điện_năng ( vị_trí đo_đếm chính , vị_trí đo_đếm dự_phòng hoặc các vị_trí đo_đếm có liên_quan ) ;
+
+d ) Thời_điểm chính_thức đưa vào vận_hành hoặc huỷ_bỏ Hệ_thống đo_đếm .
+
+Điều 66 . Thiết_lập phương_thức giao_nhận điện_năng
+
+1 . Phương_thức giao_nhận điện_năng được thiết_lập mới hoặc điều_chỉnh trong các trường_hợp :
+
+a ) Thiết_lập mới vị_trí đo_đếm ;
+
+b ) Huỷ_bỏ vị_trí đo_đếm ;
+
+c ) Thay_đổi đơn_vị giao_nhận điện_năng .
+
+2 . Thiết_lập mới phương_thức giao_nhận điện_năng
+
+a ) Trong phạm_vi quản_lý , Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện chủ_trì thiết_lập mới phương_thức giao_nhận điện_năng cho vị_trí đo_đếm đã được thống_nhất trong Thoả_thuận thiết_kế kĩ_thuật Hệ_thống đo_đếm và thông_báo cho Đơn_vị đầu_tư hệ_thống đo_đếm và các Đơn_vị giao_nhận điện liên_quan bằng văn_bản ;
+
+b ) Đơn_vị đầu_tư hệ_thống đo_đếm và các Đơn_vị giao_nhận điện liên_quan có trách_nhiệm thống_nhất phương_thức giao_nhận điện_năng mới bằng văn_bản gửi cho đơn_vị chủ_trì thiết_lập phương_thức giao_nhận điện_năng ( Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện ) .
+
+3 . Điều_chỉnh phương_thức giao_nhận điện_năng
+
+a ) Điều_chỉnh phương_thức giao_nhận điện_năng được thực_hiện trong các trường_hợp : Thay_đổi kết dây của lưới_điện hoặc thay_đổi phạm_vi quản_lí vận_hành và giao_nhận điện_năng giữa các đơn_vị ;
+
+b ) Đơn_vị sở_hữu hệ_thống đo_đếm hoặc Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm thông_báo bằng văn_bản lí_do và đề_xuất điều_chỉnh phương_thức giao_nhận điện_năng ( huỷ_bỏ vị_trí đo_đếm hoặc thay_đổi đơn_vị giao_nhận điện_năng ) , kèm theo các tài_liệu có liên_quan cho đơn_vị chủ_trì thiết_lập phương_thức giao_nhận điện_năng và các Đơn_vị giao_nhận điện liên_quan ;
+
+c ) Căn_cứ văn_bản thông_báo và tài_liệu gửi kèm theo , trong phạm_vi quản_lý , Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện chủ_trì xem_xét việc điều_chỉnh phương_thức giao_nhận điện_năng và gửi văn_bản thông_báo cho Đơn_vị sở_hữu hệ_thống đo_đếm hoặc Đơn_vị quản_lí vận_hành hệ_thống đo_đếm và các Đơn_vị giao_nhận điện liên_quan về việc điều_chỉnh phương_thức giao_nhận điện_năng kèm theo kế_hoạch tổ_chức thực_hiện đã thống_nhất .
+
+4 . Phương_thức giao_nhận điện_năng đã được Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện thông_báo là căn_cứ để các bên thực_hiện giao_nhận và tổng_hợp điện_năng . Trường_hợp có một Đơn_vị giao_nhận điện liên_quan chưa thống_nhất , thì trong thời_gian chờ giải_quyết tiếp_tục áp_dụng phương_thức giao_nhận điện_năng do Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện đã thông_báo .
+
+Mục 2 . Đưa Vào Hoặc_hủy_bỏ Vị_trí Đo_đếm Giao_nhận Điện_năng
+
+Điều 67 . Nguyên_tắc , căn_cứ cơ_sở đưa vị_trí đo_đếm vào giao_nhận điện_năng
+
+Hệ_thống đo_đếm tại vị_trí đo_đếm chỉ được đưa vào làm căn_cứ giao_nhận điện_năng khi đáp_ứng các yêu_cầu quy_định tại Thông_tư này , yêu_cầu kĩ_thuật theo quy_định của pháp_luật về đo_lường , được kiểm_định , nghiệm_thu theo quy_định và hoàn_thành thủ_tục đưa vị_trí đo_đếm vào giao_nhận điện_năng quy_định tại Điều 68 Thông_tư này .
+
+Điều 68 . Đưa vị_trí đo_đếm vào giao_nhận điện_năng
+
+1 . Trường_hợp giao_nhận điện_năng giữa nhà_máy_điện với lưới_điện hoặc giữa lưới_điện truyền_tải với lưới_điện_phân_phối hoặc giữa các Đơn_vị phân_phối điện với nhau hoặc giữa Khách_hàng sử_dụng điện_đấu nối vào cấp điện_áp từ 110 kV trở lên với lưới_điện , căn_cứ vào hồ_sơ nghiệm_thu Hệ_thống đo_đếm theo quy_định tại Điều 42 Thông_tư này , trong phạm_vi quản_lý , Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện thông_báo cho các Đơn_vị giao_nhận điện liên_quan về phương_thức giao_nhận điện_năng , thời_điểm và kì tổng_hợp điện_năng giao_nhận đầu_tiên của vị_trí đo_đếm , phụ_lục chốt chỉ_số công_tơ đo_đếm , phiếu tổng_hợp điện_năng giao_nhận .
+
+2 . Trường_hợp giao_nhận điện_năng với Khách_hàng sử_dụng điện_đấu nối vào cấp điện_áp từ trung áp trở xuống , vị_trí đo_đếm chỉ được đưa vào giao_nhận điện_năng khi đã thực_hiện xong các thủ_tục quy_định tại Điều 47 Thông_tư này .
+
+3 . Các Đơn_vị giao_nhận điện liên_quan và Đơn_vị quản_lí_số_liệu đo_đếm có trách_nhiệm cập_nhật vị_trí đo_đếm , thông_số kĩ_thuật của Hệ_thống đo_đếm và phương_thức giao_nhận điện_năng .
+
+Điều 69 . Huỷ_bỏ vị_trí đo_đếm
+
+1 . Trường_hợp giao_nhận điện_năng giữa nhà_máy_điện với lưới_điện hoặc giữa lưới_điện truyền_tải với lưới_điện_phân_phối hoặc giữa các Đơn_vị phân_phối điện với nhau hoặc giữa Khách_hàng sử_dụng điện_đấu nối vào cấp điện_áp từ 110 kV trở lên với lưới_điện
+
+a ) Khi có yêu_cầu huỷ_bỏ một hoặc nhiều vị_trí đo_đếm phục_vụ giao_nhận điện_năng , Đơn_vị sở_hữu hệ_thống đo_đếm hoặc Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm thông_báo bằng văn_bản kế_hoạch huỷ_bỏ vị_trí đo_đếm cho đơn_vị chủ_trì huỷ_bỏ vị_trí đo_đếm vào giao_nhận điện_năng ( Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện ) và các Đơn_vị giao_nhận điện liên_quan ít_nhất 10 ngày làm_việc trước ngày thực_hiện huỷ_bỏ vị_trí đo_đếm ;
+
+b ) Trong thời_hạn 05 ngày làm_việc , trong phạm_vi quản_lý , Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện có trách_nhiệm thông_báo cho các đơn_vị liên_quan thống_nhất về việc huỷ_bỏ vị_trí đo_đếm và kế_hoạch thực_hiện hoặc đề_nghị Đơn_vị sở_hữu hệ_thống đo_đếm hoặc Đơn_vị quản_lí vận_hành hệ_thống đo_đếm bổ_sung hồ_sơ tài_liệu để có đủ căn_cứ xác_định việc huỷ_bỏ vị_trí đo_đếm ;
+
+c ) Tuỳ theo từng trường_hợp cụ_thể và mục_đích giao_nhận điện_năng , các đơn_vị tham_gia huỷ_bỏ vị_trí đo_đếm có_thể bao_gồm :
+
+- Đơn_vị sở_hữu hệ_thống đo_đếm ;
+
+- Đơn_vị quản_lí vận_hành hệ_thống đo_đếm ;
+
+- Công_ti Mua_bán điện hoặc Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện ;
+
+- Đơn_vị thí_nghiệm , kiểm_định ;
+
+- Đơn_vị quản_lí_số_liệu đo_đếm ;
+
+- Khách_hàng sử_dụng điện .
+
+d ) Kết_thúc huỷ_bỏ vị_trí đo_đếm , Đơn_vị sở_hữu hệ_thống đo_đếm hoặc Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm gửi văn_bản huỷ_bỏ vị_trí đo_đếm tới các Đơn_vị giao_nhận điện liên_quan để cập_nhật vào cơ_sở dữ_liệu .
+
+2 . Trường_hợp giao_nhận điện_năng với Khách_hàng sử_dụng điện_đấu nối vào cấp điện_áp từ trung áp trở xuống , Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện có trách_nhiệm huỷ_bỏ vị_trí đo_đếm khi nhận được đề_nghị của Khách_hàng sử_dụng điện .
+
+3 . Căn_cứ các hồ_sơ huỷ_bỏ vị_trí đo_đếm , các Đơn_vị giao_nhận điện liên_quan và Đơn_vị quản_lí_số_liệu đo_đếm thực_hiện huỷ_bỏ vị_trí đo_đếm , phương_thức giao_nhận điện_năng trong hệ_thống quản_lí giao_nhận điện_năng và danh_sách vị_trí đo_đếm ranh_giới trong phạm_vi quản_lý .
+
+4 . Tổng_hợp điện_năng khi huỷ_bỏ vị_trí đo_đếm : Điện_năng giao_nhận được tính đến chỉ_số công_tơ đo_đếm đã được các bên liên_quan ghi_nhận trong biên_bản chốt chỉ_số .
+
+Mục 3 . Thu_thập , Xử_lý Và Lưu_trữ Số_liệu Đo_đếm
+
+Điều 70 . Phương_pháp thu_thập số_liệu đo_đếm
+
+Tuỳ theo điều_kiện cụ_thể , hệ_thống cơ_sở hạ_tầng , các Đơn_vị giao_nhận điện liên_quan có_thể áp_dụng một trong các phương_pháp thu_thập số_liệu đo_đếm sau :
+
+1 . Ghi tại_chỗ ( thu_thập tại vị_trí đo_đếm ) là phương_pháp thu_thập số_liệu đo_đếm bằng cách sử_dụng một trong các phương_tiện sau : Sổ ghi chỉ_số , thiết_bị ghi chỉ_số cầm tay .
+
+2 . Ghi từ xa ( thu_thập số_liệu đo_đếm từ xa ) là phương_pháp thực_hiện thu_thập số_liệu đo_đếm từ xa thông_qua môi_trường truyền_dẫn hữu_tuyến hoặc vô_tuyến .
+
+Điều 71 . Yêu_cầu đối_với phương_pháp ghi tại_chỗ
+
+1 . Ghi đủ chỉ_số của tất_cả công_tơ đo_đếm có trong danh_sách điểm đo giao_nhận giữa các đơn_vị .
+
+2 . Ghi đúng chu_kỳ , đúng ngày , đúng thời_điểm .
+
+3 . Ghi chính_xác , rõ_ràng tất_cả các chữ_số hiển_thị trên màn_hình hoặc trong bộ số đếm của công_tơ đo_đếm .
+
+4 . Chỉ_số công_tơ đo_đếm và các thông_số liên_quan được đọc và xác_nhận phải đáp_ứng yêu_cầu lập hồ_sơ thanh_toán .
+
+5 . Thực_hiện ghi chỉ_số công_tơ đo_đếm , tổng_hợp điện_năng giao_nhận tại vị_trí đo_đếm đối_với Hệ_thống đo_đếm thuộc tài_sản và phạm_vi quản_lý , vận_hành hoặc thuộc phạm_vi giao_nhận điện của đơn_vị .
+
+Điều 72 . Yêu_cầu đối_với phương_pháp ghi từ xa
+
+1 . Dữ_liệu thu_thập từ công_tơ đo_đếm bao_gồm các số_liệu và thông_tin của công_tơ đo_đếm lưu_trữ theo khoảng thời_gian xác_định đáp_ứng yêu_cầu lập hồ_sơ thanh_toán và công_tác quản_lý , vận_hành .
+
+2 . Ghi đủ chỉ_số của tất_cả công_tơ đo_đếm có trong danh_sách điểm đo giao_nhận giữa các đơn_vị .
+
+3 . Ghi đúng chu_kỳ , đúng ngày , đúng thời_điểm .
+
+4 . Ghi chính_xác tất_cả các chữ_số hiển_thị trên màn_hình hoặc trong bộ số đếm của công_tơ đo_đếm .
+
+5 . Thực_hiện ghi chỉ_số công_tơ đo_đếm , tổng_hợp điện_năng giao_nhận tại vị_trí đo_đếm đối_với Hệ_thống đo_đếm thuộc tài_sản và phạm_vi quản_lý , vận_hành hoặc thuộc phạm_vi giao_nhận điện của đơn_vị .
+
+Điều 73 . Đọc và truyền số_liệu đo_đếm
+
+1 . Việc đọc và truyền số_liệu đo_đếm phục_vụ giao_nhận điện_năng phải được tiến_hành bằng một hoặc các phương_thức sau :
+
+a ) Phương_thức 1 : Đơn_vị quản_lí vận_hành hệ_thống đo_đếm thu_thập số_liệu đo_đếm của các công_tơ đo_đếm thông_qua Hệ_thống thu_thập số_liệu đo_đếm trong phạm_vi quản_lý . Sau đó , các số_liệu đo_đếm này được truyền về Đơn_vị quản_lí_số_liệu đo_đếm ;
+
+b ) Phương_thức 2 : Đơn_vị quản_lí_số_liệu đo_đếm đồng_bộ thời_gian và thu_thập số_liệu đo_đếm trực_tiếp từ tất_cả các công_tơ đo_đếm trong phạm_vi quản_lí thông_qua Hệ_thống thu_thập số_liệu đo_đếm và Hệ_thống quản_lí_số_liệu đo_đếm do đơn_vị quản_lí vận_hành .
+
+2 . Hàng ngày , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm kiểm_tra , theo_dõi hệ_thống đọc số_liệu tại vị_trí đo_đếm để đảm_bảo số_liệu của công_tơ đo_đếm tại vị_trí đo_đếm được truyền đầy_đủ và chính_xác về Hệ_thống thu_thập số_liệu đo_đếm ( nếu có ) và về Đơn_vị quản_lí_số_liệu đo_đếm thông_qua Hệ_thống quản_lí_số_liệu đo_đếm . Trường_hợp sự_cố hoặc do các nguyên_nhân khác dẫn đến không đọc được hoặc số_liệu không đầy_đủ hoặc không chính_xác , Đơn_vị quản_lí vận_hành hệ_thống đo_đếm có trách_nhiệm thông_báo ngay cho Đơn_vị quản_lí_số_liệu đo_đếm các thông_tin và lí_do thông_qua thư điện_tử hoặc điện_thoại hoặc fax .
+
+3 . Trường_hợp thu_thập số_liệu đo_đếm từ xa không thực_hiện được thì phải chuyển sang thu_thập tại vị_trí đo_đếm , đồng_thời phải kiểm_tra tình_trạng hoạt_động của công_tơ đo_đếm và Hệ_thống thu_thập số_liệu đo_đếm .
+
+4 . Hàng ngày , Đơn_vị quản_lí_số_liệu đo_đếm có trách_nhiệm kiểm_tra tính đầy_đủ , chính_xác của số_liệu đo_đếm được thu_thập từ tất_cả công_tơ đo_đếm .
+
+Điều 74 . Xử_lí_số_liệu đo_đếm
+
+1 . Đơn_vị quản_lí_số_liệu đo_đếm có trách_nhiệm xử_lí_số_liệu đo_đếm thu_thập được đảm_bảo chính_xác và phù_hợp với thực_tế giao_nhận điện_năng tại các vị_trí đo_đếm ; phối_hợp với Đơn_vị quản_lí vận_hành hệ_thống đo_đếm và các Đơn_vị giao_nhận điện liên_quan trong quá_trình xử_lí_số_liệu đo_đếm .
+
+2 . Đơn_vị quản_lí vận_hành hệ_thống đo_đếm và các Đơn_vị giao_nhận điện liên_quan có trách_nhiệm cung_cấp cho Đơn_vị quản_lí_số_liệu đo_đếm chi_tiết các thông_tin về kết_quả xử_lí_sự_cố hoặc kiểm_định mà có ảnh_hưởng đến số_liệu đo_đếm để phục_vụ_việc xử_lí_số_liệu đo_đếm thu_thập được của Đơn_vị quản_lí_số_liệu đo_đếm .
+
+3 . Hàng tháng , Đơn_vị quản_lí_số_liệu đo_đếm thực_hiện đối_chiếu giữa tổng_sản_lượng điện_năng đo_đếm thu_thập theo chu_kì xác_định với sản_lượng điện_năng chốt hàng tháng .
+
+4 . Cục Điều_tiết điện_lực có trách_nhiệm tổ_chức xây_dựng và ban_hành các Quy_trình về thu_thập , xử_lí và quản_lí_số_liệu đo_đếm phù_hợp với từng mục_đích giao_nhận điện_năng phục_vụ thanh_toán .
+
+Điều 75 . Kiểm_toán Đơn_vị quản_lí_số_liệu đo_đếm
+
+1 . Đơn_vị quản_lí_số_liệu đo_đếm có trách_nhiệm tổ_chức kiểm_toán các quy_trình thực_hiện , phần_mềm và chương_trình phục_vụ thu_thập , xử_lí và lưu_trữ số_liệu đo_đếm trong các trường_hợp sau :
+
+a ) Kiểm_toán định_kỳ : Kiểm_toán được thực_hiện hàng năm ;
+
+b ) Kiểm_toán theo yêu_cầu : Kiểm_toán được thực_hiện khi có yêu_cầu của Đơn_vị giao_nhận điện liên_quan . Chi_phí kiểm_toán theo yêu_cầu do bên đề_nghị chi_trả .
+
+2 . Nội_dung , trình_tự thực_hiện kiểm_toán đối_với Đơn_vị quản_lí_số_liệu đo_đếm được thực_hiện theo các quy_định pháp_luật .
+
+Điều 76 . Lưu_trữ và quản_lí_số_liệu đo_đếm
+
+1 . Đơn_vị quản_lí_số_liệu đo_đếm chịu trách_nhiệm tổng_hợp các số_liệu đo_đếm phục_vụ giao_nhận giữa các đơn_vị sau khi đã hoàn_thành quá_trình xử_lí và xác_thực số_liệu .
+
+2 . Đơn_vị quản_lí_số_liệu đo_đếm có trách_nhiệm thực_hiện lưu_trữ tối_thiểu các dữ_liệu sau đây :
+
+a ) Số_liệu điện_năng thu_thập từ các công_tơ đo_đếm trước khi xử_lí_số_liệu ;
+
+b ) Số_liệu điện_năng của từng công_tơ đo_đếm sau khi đã xử_lí_số_liệu ;
+
+c ) Số_liệu điện_năng giao_nhận tổng_hợp theo ngày , tháng , năm của từng đơn_vị .
+
+3 . Thời_hạn lưu_trữ các số_liệu đo_đếm quy_định tại Khoản 2 Điều này ít_nhất là 05 năm .
+
+Chương_viii
+
+Tổ_chức Thực_hiện
+
+Điều 77 . Quy_định về chuyển_tiếp
+
+1 . Đối_với Hệ_thống đo_đếm có cấp điện_áp từ 110 kV trở lên hoặc đo_đếm giữa nhà_máy_điện với lưới_điện đã vận_hành hoặc có hợp_đồng mua_sắm , lắp_đặt thiết_bị được kí trước ngày Thông_tư này có hiệu_lực mà chưa đáp_ứng các yêu_cầu quy_định tại Thông_tư này , các đơn_vị có trách_nhiệm đầu_tư , nâng_cấp_thiết_bị đo_đếm đáp_ứng các yêu_cầu quy_định tại Thông_tư này khi thiết_bị đo_đếm hết thời_hạn sử_dụng hoặc phải thay_thế .
+
+2 . Đối_với Hệ_thống đo_đếm hiện_hữu cấp điện_áp trung áp hoặc công_tơ đo_đếm 03 pha cấp điện_áp hạ_áp mà chưa đáp_ứng các yêu_cầu quy_định tại Thông_tư này , trong thời_hạn 05 năm kể từ ngày Thông_tư này có hiệu_lực , các đơn_vị có trách_nhiệm đầu_tư , nâng_cấp_thiết_bị đo_đếm đáp_ứng các yêu_cầu quy_định tại Thông_tư này .
+
+3 . Trường_hợp không thực_hiện đúng quy_định tại Khoản 1 và Khoản 2 Điều này , đơn_vị phải báo_cáo Cục Điều_tiết điện_lực để xem_xét , giải_quyết theo thẩm_quyền hoặc báo_cáo Bộ Công_thương để giải_quyết .
+
+Điều 78 . Tổ_chức thực_hiện
+
+1 . Cục Điều_tiết điện_lực có trách_nhiệm phổ_biến , hướng_dẫn và kiểm_tra việc thực_hiện Thông_tư này . Trong quá_trình thực_hiện , tổ_chức nghiên_cứu , xây_dựng và ban_hành Quy_trình hướng_dẫn và yêu_cầu kĩ_thuật đối_với hệ_thống đo_đếm hai chiều ( Net_metering ) để phục_vụ mua_bán , giao_nhận điện_năng giữa Khách_hàng sử_dụng điện đầu_tư hệ_thống điện mặt_trời lắp mái với lưới_điện quốc_gia .
+
+2 . Tập_đoàn Điện_lực Việt_nam có trách_nhiệm chỉ_đạo các đơn_vị trực_thuộc thực_hiện Thông_tư này .
+
+3 . Đơn_vị đầu_tư hệ_thống đo_đếm , Đơn_vị sở_hữu hệ_thống đo_đếm và các Đơn_vị giao_nhận điện liên_quan có trách_nhiệm xây_dựng kế_hoạch đầu_tư , nâng_cấp và cải_tạo Hệ_thống đo_đếm , thiết_bị đo_đếm trong phạm_vi quản_lí đảm_bảo đáp_ứng các yêu_cầu quy_định tại Thông_tư này .
+
+4 . Trong quá_trình thực_hiện , nếu xảy ra tranh_chấp giữa các đơn_vị liên_quan đến việc thực_hiện Thông_tư này , các đơn_vị có quyền trình vụ_việc lên Cục Điều_tiết điện_lực để giải_quyết theo quy_định về trình_tự , thủ_tục giải_quyết tranh_chấp trong hoạt_động điện_lực do Bộ Công_thương ban_hành .
+
+Điều 79 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực kể từ ngày 18 tháng 01 năm 2016 .
+
+2 . Bãi_bỏ các nội_dung quy_định tại Chương Ix <TT rel="DC"> Thông_tư số 12/2010/TT </TT>- Bct ngày 15 tháng 4 năm 2010 của Bộ Công_thương quy_định hệ_thống điện truyền_tải và Chương Ii , Chương Iii và Chương Iv <TT rel="DC"> Thông_tư số 27/2009/TT </TT>- Bct ngày 25 tháng 9 năm 2009 của Bộ Công_thương quy_định đo_đếm điện_năng trong thị_trường phát_điện cạnh_tranh .
+
+3 . Đối_với các vấn_đề về đo_đếm điện_năng phát_sinh trong thị_trường điện theo từng cấp_độ , Cục Điều_tiết điện_lực có trách_nhiệm nghiên_cứu , đề_xuất Bộ Công_thương xem_xét sửa_đổi , bổ_sung Thông_tư hoặc có hướng_dẫn cụ_thể .
+
+4 . Trong quá_trình thực_hiện Thông_tư này , nếu có vấn_đề vướng_mắc , nội_dung mới phát_sinh , các đơn_vị có liên_quan có trách_nhiệm báo_cáo Cục Điều_tiết điện_lực để nghiên_cứu , đề_xuất , trình Bộ Công_thương sửa_đổi , bổ_sung Thông_tư cho phù_hợp . / .

@@ -1,0 +1,187 @@
+Thông_tư số 13/2023/tt-btnmt ngày 16 tháng 10 năm 2023 của bộ tài_nguyên và môi_trường
+
+Căn_cứ <LT rel="CC"> Luật Khí_tượng thuỷ_văn ngày 23 tháng 11 năm 2015 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 </NĐ> của Chính_phủ quy_định chi_tiết một_số điều của <LT rel="CC"> Luật Khí_tượng thuỷ_văn </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 48/2020/NĐ-CP ngày 15 tháng 4 năm 2020 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 </NĐ> của Chính_phủ quy_định chi_tiết một_số điều của <LT rel="CC"> Luật Khí_tượng thuỷ_văn </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 68/2022/NĐ-CP ngày 22 tháng 9 năm 2022 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Tổng_cục_trưởng Tổng_cục Khí_tượng Thuỷ_văn , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành <TT rel="None"> Thông_tư quy_định kĩ_thuật về quan_trắc và cung_cấp thông_tin , dữ_liệu </TT> quan_trắc khí_tượng thuỷ_văn đối_với trạm khí_tượng thuỷ_văn chuyên_dùng .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định kĩ_thuật về quan_trắc và cung_cấp thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn đối_với trạm khí_tượng thuỷ_văn chuyên_dùng .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với cơ_quan , tổ_chức , cá_nhân có liên_quan đến hoạt_động quan_trắc và cung_cấp thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn của trạm khí_tượng thuỷ_văn chuyên_dùng .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Trạm khí_tượng thuỷ_văn chuyên_dùng là nơi được lựa_chọn xây_dựng , lắp_đặt một hoặc nhiều công_trình quan_trắc các yếu_tố khí_tượng thu văn theo yêu_cầu , mục_đích riêng của Bộ , ngành , địa_phương , tổ_chức , cá_nhân xây_dựng , quản_lí và khai_thác .
+
+2 . Công_trình phải quan_trắc khí_tượng thuỷ_văn là công_trình được quy_định tại khoản 1 Điều 3 <NĐ rel="DC"> Nghị_định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 </NĐ> của Chính_phủ quy_định chi_tiết một_số điều của Khí_tượng thuỷ_văn ( <LT rel="None"> Luật Nghị_định số 38/2016/NĐ-CP </LT>) được sửa_đổi , bổ_sung tại khoản 1 Điều 1 <NĐ rel="DC"> Nghị_định số 48/2020/NĐ-CP ngày 15 tháng 4 năm 2020 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của <LT rel="None"> Luật Nghị_định số 38/2016/NĐ-CP </LT> ngày 15 tháng 5 năm 2016 của Chính_phủ quy_định chi_tiết một_số điều của Khí_tượng thuỷ_văn ( <LT rel="None"> Luật Nghị_định số 48/2020/NĐ-CP </LT>).
+
+3 . Phương_tiện đo khí_tượng thuỷ_văn là phương_tiện kĩ_thuật để thực_hiện phép đo các yếu_tố khí_tượng thuỷ_văn .
+
+4 . Ftp ( viết tắt của File Transfer_protocol ) là giao_thức truyền_tải tập_tin từ một máy_tính đến máy_tính khác thông_qua mạng Tcp / ip hoặc qua mạng Internet .
+
+5 . Thời_gian quan_trắc , cung_cấp thông_tin , dữ_liệu khí_tượng thuỷ_văn trong Thông_tư này theo giờ Hà_nội ( giờ Gmt + 7 ) .
+
+Chương_ii
+
+Quy_định Kỹ_thuật
+
+Mục 1 . Quan_trắc Khí_tượng Thủy_văn Chuyên_dùng
+
+Điều 4 . Nội_dung quan_trắc
+
+1 . Nội_dung quan_trắc khí_tượng thuỷ_văn tối_thiểu đối_với từng loại công_trình phải quan_trắc khí_tượng thuỷ_văn cụ_thể như sau :
+
+a ) Sân_bay dân_dụng quan_trắc theo quy_định của Bộ Giao_thông vận_tải ;
+
+b ) Đập , hồ chứa loại quan_trọng đặc_biệt , loại lớn , loại vừa quan_trắc theo quy_định của Chính_phủ về quản_lí an_toàn đập , hồ chứa ; đập , hồ chứa thuộc phạm_vi điều_chỉnh của quy_trình vận_hành liên hồ chứa quan_trắc theo quy_định của quy_trình vận_hành liên hồ chứa ;
+
+c ) Bến cảng quan_trắc hướng và tốc_độ gió , mực nước biển , sóng , tầm nhìn xa phía biển , tần_suất 04 lần / ngày vào 01 giờ , 07 giờ , 13 giờ và 19 giờ ;
+
+d ) Cầu có khẩu_độ thông thuyền từ 500 mét trở lên quan_trắc hướng và tốc_độ gió , tần_suất 04 lần / ngày vào 01 giờ , 07 giờ , 13 giờ và 19 giờ ;
+
+đ ) Tháp_thu phát_sóng phát_thanh , truyền_hình có kết_hợp khai_thác tham_quan , kinh_doanh phục_vụ khách trên tháp quan_trắc hướng và tốc_độ gió , tần_suất 03 lần / ngày vào 07 giờ , 13 giờ và 19 giờ ;
+
+e ) Cáp treo phục_vụ hoạt_động tham_quan , du_lịch quan_trắc hướng và tốc_độ gió , tần_suất từng giờ trong thời_gian vận_hành ;
+
+g ) Vườn quốc_gia quan_trắc lượng mưa , nhiệt_độ , độ_ẩm không_khí , hướng và tốc_độ gió , tần_suất 04 lần / ngày vào 01 giờ , 07 giờ , 13 giờ và 19 giờ ;
+
+h ) Tuyến đường_cao_tốc quan_trắc theo tiêu_chuẩn kĩ_thuật quốc_gia về hệ_thống giám_sát điều_hành giao_thông trên đường_cao_tốc ;
+
+i ) Cảng thuỷ nội_địa tổng_hợp loại I trở lên quan_trắc tầm nhìn_xa , mực nước , hướng và tốc_độ gió , tần_suất 04 lần / ngày vào 01 giờ , 07 giờ , 13 giờ và 19 giờ ;
+
+k ) Công_trình mang tính_chất đ c thù gồm các đảo thuộc quần_đảo Trường_sa , nhà giàn thuộc các cụm Dịch_vụ Kinh_tế - Kỹ_thuật ( dk1 ) và sân_bay quân_sự phục_vụ mục_đích quốc_phòng , an_ninh quan_trắc theo quy_định của Bộ Quốc_phòng .
+
+2 . Khi có bản tin dự_báo , cảnh_báo các hiện_tượng khí_tượng thuỷ_văn nguy_hiểm của Hệ_thống dự_báo , cảnh_báo khí_tượng thuỷ_văn quốc_gia và dự_báo khả_năng ảnh_hưởng trực_tiếp tới tỉnh , thành_phố nơi đặt công_trình , tuỳ theo mục_đích yêu_cầu sử_dụng công_trình , người có thẩm_quyền hoặc tổ_chức , cá_nhân xây_dựng , quản_lí công_trình Quyết_định :
+
+a ) Tăng tần_suất quan_trắc 01 giờ / lần đối_với các công_trình quy_định tại các điểm c , d , đ , g và y khoản 1 Điều này ;
+
+b ) Tăng tần_suất quan_trắc 30 phút / lần trong thời_gian vận_hành đối_với công_trình quy_định tại điểm e khoản 1 Điều này .
+
+3 . Chủ_công_trình phải quan_trắc khí_tượng thuỷ_văn thực_hiện nội_dung quan_trắc theo quy_định tại khoản 1 và khoản 2 Điều này . Đối_với tổ_chức , cá_nhân thành_lập trạm khí_tượng thuỷ_văn chuyên_dùng quan_trắc theo nhu_cầu riêng không thuộc công_trình phải quan_trắc khí_tượng thuỷ_văn_tự_quyết_định nội_dung quan_trắc cho phù_hợp .
+
+Điều 5 . Phương_pháp quan_trắc
+
+1 . Đối_với trạm khí_tượng thuỷ_văn chuyên_dùng thuộc các công_trình phải quan_trắc khí_tượng thuỷ_văn quy_định tại các điểm b , c , d , đ , e , g và y khoản 1 Điều 4 Thông_tư này , chủ_công_trình áp_dụng phương_pháp quan_trắc cho phù_hợp với thiết_bị , công_nghệ quan_trắc nhưng phải bảo_đảm độ chính_xác các yếu_tố quan_trắc theo quy_định kĩ_thuật , quy_chuẩn kĩ_thuật quốc_gia về quan_trắc khí_tượng thuỷ_văn .
+
+2 . Đối_với công_trình quy_định tại các điểm a , h và k khoản 1 Điều 4 Thông_tư này , chủ_công_trình áp_dụng theo quy_định của Bộ , ngành .
+
+3 . Đối_với trạm khí_tượng thuỷ_văn chuyên_dùng do tổ_chức , cá_nhân thành_lập để quan_trắc theo nhu_cầu riêng không thuộc công_trình phải quan_trắc khí_tượng thuỷ_văn_tự_quyết_định phương_pháp quan_trắc cho phù_hợp .
+
+Điều 6 . Công_trình và phương_tiện đo khí_tượng thuỷ_văn
+
+1 . Xây_dựng , thiết_kế , lắp_đặt công_trình khí_tượng thuỷ_văn :
+
+Chủ_công_trình khí_tượng thuỷ_văn chuyên_dùng căn_cứ mục_đích , yêu_cầu khai_thác sử_dụng thông_tin , dữ_liệu khí_tượng thuỷ_văn để lựa_chọn xây_dựng , thiết_kế , lắp_đặt công_trình khí_tượng thuỷ_văn cho phù_hợp và bảo_đảm hành_lang kĩ_thuật ; có_thể áp_dụng tiêu_chuẩn kĩ_thuật quốc_gia về công_trình quan_trắc khí_tượng thuỷ_văn .
+
+2 . Lựa_chọn và kiểm_định , hiệu chuẩn phương_tiện đo khí_tượng thuỷ_văn :
+
+a ) Chủ_công_trình quan_trắc khí_tượng thuỷ_văn căn_cứ mục_đích , yêu_cầu sử_dụng thông_tin , dữ_liệu khí_tượng thuỷ_văn có_thể áp_dụng tiêu_chuẩn kĩ_thuật quốc_gia về quan_trắc khí_tượng thuỷ_văn để lựa_chọn phương_tiện đo cho phù_hợp ;
+
+b ) Kiểm_định , hiệu chuẩn phương_tiện đo khí_tượng thuỷ_văn thực_hiện theo quy_định tại Điều 19 <LT rel="DC"> Luật Khí_tượng thuỷ_văn </LT> .
+
+Điều 7 . Mật_độ trạm quan_trắc
+
+1 . Đối_với các công_trình phải quan_trắc khí_tượng thuỷ_văn quy_định tại các điểm b , c , d , đ , e , g và y khoản 1 Điều 4 Thông_tư này :
+
+a ) Đập , hồ chứa : Mật_độ trạm đo mưa trên lưu_vực bảo_đảm nhỏ hơn hoặc bằng 100 km2 / trạm ; khoảng_cách giữa hai trạm liền kề không vượt quá 15 km ;
+
+b ) Vườn quốc_gia : Mật_độ trạm khí_tượng trên vườn quốc_gia_bảo_đảm nhỏ hơn hoặc bằng 700 km2 / trạm ; khoảng_cách giữa hai trạm liền kề không vượt quá 30 km ;
+
+c ) Công_trình cầu có khẩu_độ thông thuyền từ 500 mét trở lên ; tháp thu phát_sóng phát_thanh , truyền_hình có kết_hợp khai_thác tham_quan , kinh_doanh phục_vụ khách trên tháp ; cáp treo phục_vụ hoạt_động tham_quan , du_lịch ; bến cảng thuộc cảng biển loại I và loại Ii ; cảng thuỷ nội_địa tổng_hợp loại I trở lên không áp_dụng quy_định về mật_độ trạm quan_trắc mà do chủ đầu_tư hoặc tổ_chức , cá_nhân khai_thác tự_quyết_định số_lượng trạm nhưng phải bảo_đảm vị_trí quan_trắc theo quy_định tại Điều 4 <NĐ rel="DC"> Nghị_định số 38/2016/NĐ-CP </NĐ> được sửa_đổi , bổ_sung tại khoản 2 Điều 1 <NĐ rel="DC"> Nghị_định số 48/2020/NĐ-CP </NĐ> và khoản 3 Điều 8 Thông_tư này .
+
+2 . Đối_với các công_trình không thuộc công_trình phải quan_trắc khí_tượng thuỷ_văn , người có thẩm_quyền , tổ_chức , cá_nhân căn_cứ vào mục_đích , nhu_cầu khai_thác , sử_dụng công_trình_tự_quyết_định mật_độ trạm quan_trắc khí_tượng thuỷ_văn chuyên_dùng .
+
+Điều 8 . Lựa_chọn vùng đại_diện điều_kiện tự_nhiên quan_trắc khí_tượng thuỷ_văn
+
+1 . Không áp_dụng lựa_chọn vùng đại_diện điều_kiện tự_nhiên đối_với công_trình đã quy_định cụ_thể mật_độ trạm tại điểm a và điểm b khoản 1 Điều 7 Thông_tư này và công_trình đã quy_định cụ_thể vị_trí quan_trắc tại Điều 4 <NĐ rel="DC"> Nghị_định số 38/2016/NĐ-CP </NĐ> được sửa_đổi , bổ_sung tại khoản 2 Điều 1 <NĐ rel="DC"> Nghị_định số 48/2020/NĐ-CP </NĐ>.
+
+2 . Lựa_chọn vùng đại_diện quan_trắc đối_với cảng biển và cảng thuỷ nội_địa tổng_hợp loại I trở lên :
+
+a ) Vùng đại_diện quan_trắc mực nước là vùng nước thuộc phạm_vi cảng mà tại đó các giá_trị mực nước quan_trắc được có tính tương_đồng cao , có mức_độ tác_động như nhau đến hoạt_động , vận_hành của bến cảng ;
+
+b ) Vùng đại_diện quan_trắc hướng và tốc_độ gió là vùng không_gian thuộc phạm_vi cảng mà tại đó các giá_trị hướng thịnh_hành và tốc_độ gió quan_trắc được có tính tương_đồng cao , có mức_độ tác_động như nhau đến hoạt_động , vận_hành của bến cảng ;
+
+c ) Vùng đại_diện quan_trắc sóng biển là vùng_biển thuộc phạm_vi cảng biển mà tại đó các giá_trị độ cao sóng , hướng sóng và chu_kì sóng quan_trắc được có tính tương_đồng cao , có mức_độ tác_động như nhau đến hoạt_động , vận_hành của bến cảng ;
+
+d ) Vùng đại_diện quan_trắc tầm nhìn xa phía biển là vùng không_gian thuộc phạm_vi cảng mà tại đó các giá_trị về tầm nhìn_xa quan_trắc được có tính tương_đồng cao , có mức_độ tác_động như nhau đến hoạt_động , vận_hành của bến cảng ;
+
+đ ) Căn_cứ quy_định tại các điểm a , b , c và d khoản này và mục_đích , nhu_cầu sử_dụng thông_tin , dữ_liệu , chủ_công_trình xác_định vùng đại_diện quan_trắc khí_tượng thuỷ_văn . Mỗi khu_vực cảng có_thể có một hoặc nhiều vùng đại_diện đối_với một yếu_tố quan_trắc .
+
+3 . Trường_hợp một yếu_tố quan_trắc có nhiều vùng đại_diện thì chủ_công_trình phải tiến_hành phân_vùng đại_diện để xác_định ranh_giới các vùng không_gian cảng có các đặc_trưng khí_tượng thuỷ_văn và mức_độ tác_động của chúng khác nhau đến hoạt_động , vận_hành bến cảng . Căn_cứ vào điều_kiện địa_hình , địa_vật , kết_quả thống_kê , điều_tra và kết_quả quan_trắc , chủ_công_trình tiến_hành phân_vùng đại_diện , công_bố vùng đại_diện đối_với từng yếu_tố , tổ_chức quan_trắc các yếu_tố theo vùng đại_diện ; mỗi vùng đại_diện phải lắp_đặt tối_thiểu một trạm quan_trắc .
+
+4 . Trường_hợp cảng biển có nhiều bến cảng , việc lựa_chọn vùng đại_diện của cảng biển do Giám_đốc Cảng_vụ hàng_hải chủ_trì tổ_chức việc xác_định vùng đại_diện , quan_trắc , cung_cấp thông_tin , dữ_liệu và chia_sẻ khai_thác thông_tin , dữ_liệu cho các chủ_công_trình bến cảng thuộc cảng biển theo quy_định tại điểm c khoản 1 Điều 3 <NĐ rel="DC"> Nghị_định số 38/2016/NĐ-CP </NĐ> được sửa_đổi , bổ_sung tại khoản 1 Điều 1 <NĐ rel="DC"> Nghị_định số 48/2020/NĐ-CP </NĐ>.
+
+Mục 2 . Cung_cấp Thông_tin , Dữ_liệu Quan_trắc Khí_tượng Thủy_văn Chuyên_dùng
+
+Điều 9 . Nội_dung cung_cấp thông_tin , dữ_liệu
+
+1 . Chủ sở_hữu , tổ_chức quản_lí trực_tiếp , chủ đầu_tư hoặc tổ_chức , cá_nhân khai_thác công_trình khí_tượng thuỷ_văn chuyên_dùng cung_cấp thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn theo quy_định tại Điều 5 <NĐ rel="DC"> Nghị_định số 38/2016/NĐ-CP </NĐ> được sửa_đổi , bổ_sung tại khoản 3 Điều 1 <NĐ rel="DC"> Nghị_định số 48/2020/NĐ-CP </NĐ>, trong đó nội_dung thông_tin , dữ_liệu , gồm : tên trạm , mã trạm , địa_chỉ trạm , vị_trí ( toạ_độ ) trạm ; số_liệu quan_trắc hoặc tính_toán của các yếu_tố tại trạm khí_tượng thuỷ_văn chuyên_dùng . Cung_cấp 01 lần cho đơn_vị thu_nhận thông_tin , dữ_liệu về mã trạm , tên trạm , địa_chỉ trạm , vị_trí trạm và phải thông_báo kịp_thời khi có thay_đổi .
+
+2 . Yêu_cầu về cung_cấp thông_tin , dữ_liệu quan_trắc tại trạm khí_tượng thuỷ_văn chuyên_dùng :
+
+Nội_dung , cấu_trúc và kiểu thông_tin , dữ_liệu khí_tượng thuỷ_văn cung_cấp cho cơ_quan thu_nhận , thực_hiện theo quy_định tại các Phụ_lục 01 , 02 và 03 ban_hành kèm theo <TT rel="DC"> Thông_tư số 40/2017/TT-BTNMT ngày 23 tháng 10 năm 2017 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định kĩ_thuật chuẩn bộ dữ_liệu về quan_trắc , điều_tra , khảo_sát_khí_tượng , thuỷ_văn , hải_văn , môi_trường không_khí và nước .
+
+Điều 10 . Định_dạng tệp thông_tin , dữ_liệu
+
+1 . Định_dạng tệp thông_tin , dữ_liệu của trạm khí_tượng thuỷ_văn chuyên_dùng thuộc các công_trình phải quan_trắc khí_tượng thuỷ_văn thực_hiện theo quy_định tại Phụ_lục I ban_hành kèm theo Thông_tư này .
+
+2 . Định_dạng tệp thông_tin , dữ_liệu của trạm khí_tượng thuỷ_văn chuyên_dùng phục_vụ nhu_cầu riêng của tổ_chức , cá_nhân không thuộc các công_trình phải quan_trắc khí_tượng thuỷ_văn thực_hiện theo quy_định tại Phụ_lục Ii ban_hành kèm theo Thông_tư này .
+
+3 . Trường_hợp các trạm khí_tượng thuỷ_văn chuyên_dùng có sử_dụng định_dạng thông_tin , dữ_liệu riêng phải có văn_bản thông_báo mô_tả về cấu_trúc , định_dạng của thông_tin dữ_liệu tại trạm cho đơn_vị thu_nhận_biết và phối_hợp tiếp_nhận .
+
+Điều 11 . Phương_thức cung_cấp thông_tin , dữ_liệu
+
+1 . Việc cung_cấp thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn thực_hiện theo quy_định tại khoản 4 Điều 5 <NĐ rel="DC"> Nghị_định số 38/2016/NĐ-CP </NĐ> được sửa_đổi , bổ_sung tại khoản 3 Điều 1 <NĐ rel="DC"> Nghị_định số 48/2020/NĐ-CP </NĐ>, trong đó :
+
+a ) Đối_với phương_thức cung_cấp thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn qua mạng Internet , thực_hiện theo một trong các phương_thức sau : Sử_dụng giao_thức truyền_tải tập_tin Ftp để truyền_tải thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn hoặc qua hộp_thư điện_tử do Tổng_cục Khí_tượng Thuỷ_văn cung_cấp . Chủ sở_hữu , tổ_chức quản_lí trực_tiếp , chủ đầu_tư hoặc tổ_chức , cá_nhân khai_thác công_trình quy_định tại khoản 1 Điều 1 <NĐ rel="DC"> Nghị_định số 48/2020/NĐ-CP </NĐ>, cơ_quan , tổ_chức , cá_nhân là chủ trạm khí_tượng thuỷ_văn chuyên_dùng khác có trách_nhiệm phối_hợp , thống_nhất với cơ_quan thu_nhận thông_tin , dữ_liệu ( qua hộp_thư điện_tử ) để được cung_cấp địa_chỉ Ip , cấu_hình máy_chủ và hướng_dẫn kết_nối với hệ_thống truyền số_liệu ;
+
+b ) Đối_với phương_thức cung_cấp thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn_bằng văn_bản , vật_mang tin thực_hiện giao_nộp trực_tiếp tại cơ_quan thu_nhận thông_tin , dữ_liệu . Mẫu giấy giao_nộp thông_tin , dữ_liệu được thực_hiện theo quy_định tại Phụ_lục Iii ban_hành kèm theo Thông_tư này .
+
+2 . Trong quá_trình cung_cấp thông_tin , dữ_liệu , trường_hợp g p sự_cố , chủ_công_trình phải chủ_động khắc_phục và thông_báo cho cơ_quan thu_nhận thông_tin , dữ_liệu bằng văn_bản hoặc thư điện_tử ( email ) về nguyên_nhân và các biện_pháp khắc_phục sự_cố , nêu rõ kế_hoạch thực_hiện , thời_gian khắc_phục sự_cố gián_đoạn này .
+
+Điều 12 . Cơ_quan thu_nhận thông_tin , dữ_liệu
+
+1 . Tổng_cục Khí_tượng Thuỷ_văn , Bộ Tài_nguyên và Môi_trường thu_nhận thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn chuyên_dùng cung_cấp cho hệ_thống dự_báo , cảnh_báo khí_tượng thuỷ_văn quốc_gia và cơ_sở dữ_liệu khí_tượng thuỷ_văn quốc_gia .
+
+2 . Cơ_quan quản_lí tài_nguyên và môi_trường cấp tỉnh thu_nhận thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn chuyên_dùng trên địa_bàn .
+
+3 . Cơ_quan thu_nhận thông_tin , dữ_liệu có trách_nhiệm :
+
+a ) Cung_cấp và công_khai trên trang thông_tin điện_tử các thông_tin về địa_chỉ , phương_thức , tần_số , cổng thông_tin điện_tử hoặc phương_tiện liên_lạc khác ;
+
+b ) Tổ_chức thu_nhận thông_tin , dữ_liệu , kiểm_tra danh_mục , số_lượng , cấu_trúc , định_dạng , mức_độ an_toàn của thông_tin , dữ_liệu ;
+
+c ) Khi phát_hiện thông_tin , dữ_liệu không bảo_đảm an_toàn , chưa đúng thời_gian cung_cấp , cấu_trúc , định_dạng , không đúng danh_mục , khối_lượng theo quy_định , cơ_quan thu_nhận thông_tin , dữ_liệu thông_báo ngay cho tổ_chức , cá_nhân cung_cấp thông_tin để có biện_pháp khắc_phục ;
+
+d ) Định_kì trước ngày 31 tháng 5 hằng năm , công_khai trên trang thông_tin điện_tử của cơ_quan thu_nhận thông_tin , dữ_liệu về danh_sách các tổ_chức , cá_nhân đã cung_cấp và kết_quả thu_nhận thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn chuyên_dùng của năm trước .
+
+Chương_iii
+
+Tổ_chức Thực_hiện
+
+Điều 13 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 12 năm 2023 và thay_thế <TT rel="None"> Thông_tư số 30/2018/TT-BTNMT ngày 26 tháng 12 năm 2018 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định kĩ_thuật về quan_trắc và cung_cấp thông_tin , dữ_liệu khí_tượng thuỷ_văn đối_với trạm khí_tượng thuỷ_văn chuyên_dùng .
+
+Điều 14 . Trách_nhiệm thi_hành
+
+1 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và các cơ_quan , tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thực_hiện Thông_tư này .
+
+2 . Tổng_cục_trưởng Tổng_cục Khí_tượng Thuỷ_văn có trách_nhiệm tổ_chức thực_hiện Thông_tư này .

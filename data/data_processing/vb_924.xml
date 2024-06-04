@@ -1,0 +1,885 @@
+Nghị_định số 47/2020/nđ-cp ngày 09 tháng 04 năm 2020 của chính_phủ
+
+Căn_cứ Luật Tổ_chức Chính_phủ ngày 19 tháng 6 năm 2015 ;
+
+Căn_cứ Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Giao_dịch điện_tử ngày 29 tháng 11 năm 2005 ;
+
+Căn_cứ Luật Tiếp_cận thông_tin ngày 06 tháng 4 năm 2016 ;
+
+Theo đề_nghị của Bộ_trưởng Bộ Thông_tin và Truyền_thông ;
+
+Chính_phủ ban_hành Nghị_định về quản_lý , kết_nối và chia_sẻ dữ_liệu số của cơ_quan nhà_nước .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+1 . Nghị_định này quy_định về các hoạt_động quản_lý , kết_nối và chia_sẻ dữ_liệu số của cơ_quan nhà_nước bao_gồm : quản_lý , quản_trị dữ_liệu số ; kết_nối , chia_sẻ dữ_liệu số ; sử_dụng , khai_thác dữ_liệu số của cơ_quan nhà_nước ; cung_cấp dữ_liệu mở của cơ_quan nhà_nước cho tổ_chức , cá_nhân ; quyền và trách_nhiệm trong kết_nối , chia_sẻ dữ_liệu số của cơ_quan nhà_nước .
+
+2 . Nghị_định này không áp_dụng đối_với việc chia_sẻ dữ_liệu số chứa thông_tin thuộc phạm_vi bí_mật nhà_nước được quy_định tại Luật Bảo_vệ bí_mật nhà_nước . Việc chia_sẻ dữ_liệu số chứa thông_tin thuộc phạm_vi bí_mật nhà_nước được thực_hiện theo quy_định của pháp_luật hiện_hành .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Nghị_định này áp_dụng đối_với các cơ_quan nhà_nước bao_gồm các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các cấp ; các tổ_chức , cá_nhân khai_thác , sử_dụng dữ_liệu số của cơ_quan nhà_nước được cơ_quan nhà_nước chia_sẻ theo quy_định của pháp_luật .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Nghị_định này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Dữ_liệu số : là dữ_liệu dưới dạng kí_hiệu , chữ_viết , chữ_số , hình_ảnh , âm_thanh hoặc dạng tương_tự được biểu_diễn bằng tín_hiệu_số . Dữ_liệu số mang thông_tin số và được chia_sẻ dưới dạng thông_điệp dữ_liệu . Trong Nghị_định này , dữ_liệu được hiểu là dữ_liệu số .
+
+2 . Cấu_trúc dữ_liệu trao_đổi : là cấu_trúc của thông_điệp dữ_liệu được trao_đổi giữa các hệ_thống thông_tin , cơ_sở dữ_liệu .
+
+3 . Dịch_vụ chia_sẻ dữ_liệu : là các dịch_vụ cung_cấp , chia_sẻ dữ_liệu cho cơ_quan , tổ_chức , cá_nhân khai_thác hoặc thu_nhận dữ_liệu từ các cơ_quan , tổ_chức , cá_nhân qua các hệ_thống thông_tin . Trong hệ_thống thông_tin , dịch_vụ chia_sẻ dữ_liệu là giao_diện tương_tác của phần_mềm phục_vụ tiếp_nhận kết_nối và trao_đổi các thông_điệp dữ_liệu với các hệ_thống bên ngoài .
+
+4 . Dữ_liệu mở của cơ_quan nhà_nước : là dữ_liệu được cơ_quan nhà_nước có thẩm_quyền công_bố rộng_rãi cho cơ_quan , tổ_chức , cá_nhân tự_do sử_dụng , tái sử_dụng , chia_sẻ . Trong Nghị_định này , dữ_liệu mở được hiểu là dữ_liệu mở của cơ_quan nhà_nước .
+
+5 . Chia_sẻ dữ_liệu mặc_định : là hình_thức chia_sẻ các dữ_liệu thường_xuyên trong cơ_quan nhà_nước theo quy_trình đơn_giản , trong đó cơ_quan nhà_nước chuẩn_bị sẵn các dịch_vụ chia_sẻ dữ_liệu và cung_cấp dữ_liệu đã được chuẩn_hoá cấu_trúc dữ_liệu trao_đổi thông_qua dịch_vụ chia_sẻ dữ_liệu cho nhiều cơ_quan nhà_nước sử_dụng .
+
+6 . Chia_sẻ dữ_liệu theo yêu_cầu đặc_thù : là hình_thức chia_sẻ dữ_liệu cho cơ_quan nhà_nước khác sử_dụng theo yêu_cầu riêng đối_với dữ_liệu không được sử_dụng thông_dụng bởi nhiều cơ_quan nhà_nước khác nhau ; việc chia_sẻ dữ_liệu theo hình_thức này cần thực_hiện các hoạt_động phối_hợp của các bên về mặt kĩ_thuật để chuẩn_bị về mặt hạ_tầng , kĩ_thuật , công_nghệ để xử_lí hoặc tạo ra dữ_liệu phục_vụ chia_sẻ dữ_liệu .
+
+7 . Dữ_liệu danh_mục dùng chung : là dữ_liệu về các danh_mục , bảng mã phân_loại do cơ_quan nhà_nước có thẩm_quyền ban_hành , được sử_dụng chung trong các hệ_thống thông_tin , cơ_sở dữ_liệu bảo_đảm việc tích_hợp , trao_đổi , chia_sẻ dữ_liệu đồng_bộ , thống_nhất .
+
+8 . Định_dạng mở : là định_dạng của tập_tin hoặc thông_điệp dữ_liệu được quy_định theo công_bố kĩ_thuật của tổ_chức hoạt_động về tiêu_chuẩn và không bị hạn_chế khi sử_dụng công_bố kĩ_thuật này .
+
+9 . Dữ_liệu chủ ( master data ) : là dữ_liệu chứa thông_tin cơ_bản nhất để định_danh và mô_tả các đối_tượng thực_thể nghiệp_vụ cốt_lõi và độc_lập .
+
+10 . Cổng dữ_liệu quốc_gia : là điểm đầu_mối truy_cập thông_tin , dữ_liệu có địa_chỉ data . gov . vn trên mạng Internet phục_vụ_việc công_bố dữ_liệu mở , cung_cấp thông_tin về chia_sẻ dữ_liệu của cơ_quan nhà_nước ; cung_cấp các tài_liệu , dịch_vụ , công_cụ , ứng_dụng xử_lý , khai_thác dữ_liệu được công_bố bởi các cơ_quan nhà_nước .
+
+Điều 4 . Giá_trị pháp_lí của dữ_liệu được chia_sẻ
+
+Giá_trị pháp_lí của dữ_liệu được chia_sẻ trong thông_điệp dữ_liệu được xác_định theo giá_trị pháp_lí của thông_điệp dữ_liệu quy_định tại Mục 1 Chương Ii Luật Giao_dịch điện_tử và quy_định của pháp_luật có liên_quan .
+
+Điều 5 . Nguyên_tắc chung về quản_lý , kết_nối và chia_sẻ dữ_liệu
+
+1 . Dữ_liệu hình_thành trong hoạt_động của cơ_quan nhà_nước được chia_sẻ phục_vụ các hoạt_động của cơ_quan nhà_nước hướng tới phục_vụ người dân , doanh_nghiệp tuân_thủ quy_định của pháp_luật trong việc tạo_lập , quản_lí và sử_dụng dữ_liệu .
+
+2 . Cơ_quan nhà_nước phải có trách_nhiệm chia_sẻ dữ_liệu với cơ_quan , tổ_chức , cá_nhân khác theo quy_định của pháp_luật ; không cung_cấp thông_tin qua hình_thức văn_bản đối_với thông_tin đã được khai_thác qua hình_thức kết_nối , chia_sẻ dữ_liệu giữa các hệ_thống thông_tin ; không được thu_thập , tổ_chức thu_thập lại dữ_liệu hoặc yêu_cầu người dân , doanh_nghiệp cung_cấp thông_tin , dữ_liệu trong quá_trình giải_quyết các thủ_tục hành_chính nếu dữ_liệu này đã được cơ_quan nhà_nước khác cung_cấp , sẵn_sàng cung_cấp thông_qua kết_nối , chia_sẻ dữ_liệu , trừ trường_hợp dữ_liệu đó không bảo_đảm yêu_cầu về chất_lượng theo tiêu_chuẩn , quy_chuẩn chuyên_ngành hoặc pháp_luật có quy_định khác .
+
+3 . Việc chia_sẻ dữ_liệu giữa các cơ_quan nhà_nước không làm ảnh_hưởng tới quyền_lợi và trách_nhiệm của tổ_chức , cá_nhân có liên_quan , không được xâm_phạm quyền về đời_sống riêng_tư , bí_mật cá_nhân , bí_mật gia_đình trừ trường_hợp pháp_luật có quy_định khác .
+
+4 . Dữ_liệu chia_sẻ phải bảo_đảm tính cập_nhật , chính_xác theo quy_định của pháp_luật .
+
+5 . Dữ_liệu chia_sẻ giữa các cơ_quan nhà_nước là không thu phí , trừ trường_hợp khai_thác , sử_dụng dữ_liệu thuộc danh_mục được quy_định trong Luật Phí và lệ_phí .
+
+6 . Dữ_liệu của cơ_quan nhà_nước chia_sẻ cho tổ_chức , cá_nhân thực_hiện theo các nguyên_tắc sau :
+
+a ) Tổ_chức , cá_nhân được quyền khai_thác dữ_liệu của mình hoặc dữ_liệu của tổ_chức , cá_nhân khác khi được tổ_chức , cá_nhân đó chấp_nhận , trừ trường_hợp pháp_luật có quy_định khác ;
+
+b ) Các trường_hợp ngoài quy_định tại điểm a khoản này , dữ_liệu của cơ_quan nhà_nước được chia_sẻ cho tổ_chức , cá_nhân được thực_hiện theo quy_định của Luật Tiếp_cận thông_tin và các quy_định của pháp_luật hiện_hành .
+
+Điều 6 . Thực_hiện kết_nối , chia_sẻ dữ_liệu
+
+1 . Cơ_quan nhà_nước quản_lí dữ_liệu có trách_nhiệm thực_hiện các hoạt_động quản_lí dữ_liệu , quản_trị dữ_liệu và đảm_bảo khả_năng sẵn_sàng kết_nối , chia_sẻ dữ_liệu cho các cơ_quan , tổ_chức , cá_nhân theo quy_định tại Chương Ii của Nghị_định này .
+
+2 . Đối_với dữ_liệu mở , cơ_quan , tổ_chức , cá_nhân thực_hiện kết_nối , khai_thác dữ_liệu đã được cơ_quan nhà_nước công_bố theo quy_định chi_tiết tại Mục 3 Chương Ii của Nghị_định này .
+
+3 . Thực_hiện kết_nối , chia_sẻ dữ_liệu giữa các cơ_quan nhà_nước thực_hiện theo quy_định sau :
+
+a ) Đối_với dữ_liệu đã sẵn_sàng được chia_sẻ theo hình_thức mặc_định , thực_hiện theo các quy_định chi_tiết tại Mục 2 Chương Iii của Nghị_định này ;
+
+b ) Đối_với dữ_liệu chưa sẵn_sàng chia_sẻ theo hình_thức mặc_định , các cơ_quan cung_cấp và khai_thác dữ_liệu phối_hợp , thống_nhất thực_hiện chia_sẻ theo yêu_cầu đặc_thù quy_định chi_tiết tại Mục 3 Chương Iii của Nghị_định này ;
+
+c ) Trường_hợp không thực_hiện được kết_nối , chia_sẻ dữ_liệu theo các quy_định tại điểm a , b khoản này thì thực_hiện theo quy_định giải_quyết vướng_mắc về kết_nối , chia_sẻ dữ_liệu quy_định tại Mục 5 Chương Iii của Nghị_định này .
+
+4 . Đối_với việc kết_nối chia_sẻ dữ_liệu của cơ_quan nhà_nước cho tổ_chức cá_nhân : trong trường_hợp cơ_quan nhà_nước cung_cấp dữ_liệu chấp_thuận cho phép kết_nối , khai_thác theo quy_định của pháp_luật , tổ_chức , cá_nhân kết_nối , khai_thác dữ_liệu có trách_nhiệm thực_hiện các nghĩa_vụ tương_đương cơ_quan nhà_nước thực_hiện kết_nối , khai_thác dữ_liệu được quy_định tại Nghị_định này .
+
+Điều 7 . Yêu_cầu trong việc quản_lý , kết_nối , chia_sẻ dữ_liệu
+
+Cơ_quan nhà_nước thực_hiện kết_nối , chia_sẻ dữ_liệu phải thực_hiện , tuân_thủ các yêu_cầu sau :
+
+1 . Chỉ_định một cán_bộ làm đầu_mối phụ_trách kết_nối và chia_sẻ dữ_liệu ; công_khai số điện_thoại , địa_chỉ thư điện_tử , tên và vị_trí , chức_năng cán_bộ đầu_mối phụ_trách . Cán_bộ đầu_mối phụ_trách có trách_nhiệm tiếp_nhận , phối_hợp , xử_lí các vấn_đề về kết_nối , chia_sẻ dữ_liệu của cơ_quan , đơn_vị mình đối_với cơ_quan , đơn_vị bên ngoài .
+
+2 . Công_khai_thông_tin về đầu_mối phụ_trách kết_nối , chia_sẻ dữ_liệu ; các thông_tin về sự sẵn_sàng chia_sẻ dữ_liệu và các thông_tin cần công_bố khác theo quy_định tại Nghị_định này .
+
+3 . Tuân_thủ các quy_định về bảo_mật thông_tin ; các quy_định về quyền sở_hữu trí_tuệ liên_quan đến dữ_liệu ; quyền riêng_tư của tổ_chức , cá_nhân .
+
+4 . Bảo_đảm dữ_liệu chia_sẻ phải có khả_năng gửi , nhận , lưu_trữ , xử_lí được bằng thiết_bị số .
+
+5 . Tuân_thủ các quy_định , hướng_dẫn kĩ_thuật về trao_đổi dữ_liệu , về ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước và các nguyên_tắc được quy_định tại Điều 5 của Nghị_định này .
+
+6 . Phù_hợp với Khung kiến_trúc Chính_phủ điện_tử Việt_nam .
+
+Điều 8 . Các hành_vi không được làm
+
+1 . Cản_trở hoạt_động kết_nối , quyền khai_thác và sử_dụng dữ_liệu hợp_pháp của cơ_quan , tổ_chức , cá_nhân theo quy_định của pháp_luật .
+
+2 . Mua_bán , trao_đổi , chia_sẻ dữ_liệu trái quy_định của pháp_luật .
+
+3 . Vi_phạm các quy_định về quyền sở_hữu trí_tuệ , quyền bảo_vệ thông_tin cá_nhân khi kết_nối , chia_sẻ dữ_liệu .
+
+4 . Làm sai_lệch dữ_liệu trong quá_trình lưu_chuyển dữ_liệu từ cơ_quan cung_cấp dữ_liệu tới cơ_quan khai_thác dữ_liệu .
+
+5 . Phá_hoại cơ_sở hạ_tầng thông_tin , làm gián_đoạn việc kết_nối , chia_sẻ dữ_liệu .
+
+Chương_ii
+
+Quản_lý Dữ_liệu , Cơ_sở Dữ_liệu , Quản_trị Dữ_liệu Trong Cơ_quan Nhà_nước Và Bảo_đảm_khả_năng Sẵn_sàng Kết_nối , Chia_sẻ Dữ_liệu
+
+Mục 1 . Quản_lý Dữ_liệu , Cơ_sở Dữ_liệu Trong Cơ_quan Nhà_nước
+
+Điều 9 . Nguyên_tắc quản_lí dữ_liệu , cơ_sở dữ_liệu trong cơ_quan nhà_nước
+
+1 . Dữ_liệu trong cơ_quan nhà_nước được tổ_chức thống_nhất , được phân_cấp quản_lí theo trách_nhiệm quản_lí của cơ_quan nhà_nước . Dữ_liệu , cơ_sở dữ_liệu trong nội_bộ của cơ_quan , đơn_vị phải được tổ_chức , lưu_trữ tạo thuận_lợi cho việc chia_sẻ cho các cơ_quan , đơn_vị bên ngoài .
+
+2 . Việc tạo_lập , thông_tin dữ_liệu trong các cơ_sở dữ_liệu trong cơ_quan nhà_nước phải sử_dụng thống_nhất các bảng mã danh_mục dùng chung , thống_nhất với dữ_liệu chủ do cơ_quan nhà_nước có thẩm_quyền ban_hành .
+
+3 . Các cơ_quan nhà_nước không được yêu_cầu cá_nhân , tổ_chức cung_cấp lại dữ_liệu mà cơ_quan đó đang quản_lí hoặc dữ_liệu đó được cơ_quan nhà_nước khác sẵn_sàng chia_sẻ và đáp_ứng được yêu_cầu , trừ trường_hợp yêu_cầu cung_cấp dữ_liệu phục_vụ cập_nhật hoặc sử_dụng cho mục_đích_xác_minh , thẩm_tra dữ_liệu .
+
+Điều 10 . Tổ_chức , quản_lí dữ_liệu , cơ_sở dữ_liệu
+
+1 . Nội_dung tổ_chức , quản_lí dữ_liệu :
+
+a ) Thu_thập dữ_liệu , tạo_lập dữ_liệu để hình_thành các cơ_sở dữ_liệu ;
+
+b ) Quản_lý , duy_trì , cập_nhật dữ_liệu , quản_lí_sự thay_đổi dữ_liệu ;
+
+c ) Chia_sẻ dữ_liệu và quản_lí chia_sẻ dữ_liệu ;
+
+d ) Khai_thác , sử_dụng dữ_liệu do mình quản_lí và khai_thác , sử_dụng dữ_liệu được chia_sẻ từ cơ_quan nhà_nước khác .
+
+2 . Cơ_quan nhà_nước có trách_nhiệm triển_khai các hoạt_động tổ_chức , quản_lí dữ_liệu theo quy_định tại khoản 1 Điều này , tuân_thủ các quy_định của pháp_luật .
+
+Điều 11 . Cơ_sở dữ_liệu trong cơ_quan nhà_nước
+
+1 . Cơ_sở dữ_liệu trong cơ_quan nhà_nước bao_gồm :
+
+a ) Cơ_sở dữ_liệu quốc_gia ;
+
+b ) Cơ_sở dữ_liệu của bộ , ngành , địa_phương bao_gồm : cơ_sở dữ_liệu dùng chung của bộ ; cơ_sở dữ_liệu dùng chung của ngành ; cơ_sở dữ_liệu dùng chung của địa_phương ;
+
+c ) Cơ_sở dữ_liệu khác trong nội_bộ một hệ_thống thông_tin của cơ_quan nhà_nước không thuộc điểm a , điểm b khoản này ;
+
+2 . Bộ Thông_tin và Truyền_thông chủ_trì , phối_hợp với các cơ_quan có liên_quan xây_dựng và trình Chính_phủ_phê_duyệt danh_mục , cập_nhật danh_mục cơ_sở dữ_liệu quốc_gia .
+
+3 . Đơn_vị chuyên_trách công_nghệ thông_tin của các các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh , thành_phố trực_thuộc trung_ương chủ_trì , phối_hợp với các đơn_vị có liên_quan xây_dựng và trình Bộ_trưởng ,
+
+Thủ_trưởng cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc trung_ương ban_hành , cập_nhật danh_mục các cơ_sở dữ_liệu thuộc bộ , ngành , địa_phương quản_lý .
+
+4 . Danh_mục cơ_sở dữ_liệu của bộ , ngành , địa_phương phải thể_hiện được các nội_dung sau :
+
+a ) Tên các cơ_sở dữ_liệu ;
+
+b ) Mô_tả mục_đích , phạm_vi , nội_dung của từng cơ_sở dữ_liệu ;
+
+c ) Cơ_chế thu_thập , cập_nhật , nguồn dữ_liệu được thu_thập của từng cơ_sở dữ_liệu ;
+
+d ) Liệt_kê các hạng_mục dữ_liệu bao_gồm : dữ_liệu mở , dữ_liệu được chia_sẻ theo hình_thức chia_sẻ dữ_liệu mặc_định , dữ_liệu được chia_sẻ theo hình_thức chia_sẻ dữ_liệu theo yêu_cầu đặc_thù của từng cơ_sở dữ_liệu tương_ứng với từng đối_tượng khai_thác , sử_dụng .
+
+5 . Dữ_liệu về dân_cư , đất_đai , doanh_nghiệp là dữ_liệu cơ_bản làm nền_tảng phát_triển chính_phủ điện_tử .
+
+Điều 12 . Danh_mục cơ_sở dữ_liệu quốc_gia , duy_trì danh_mục cơ_sở dữ_liệu quốc_gia
+
+1 . Trường_hợp bổ_sung cơ_sở dữ_liệu vào danh_mục , chỉnh_sửa danh_mục hoặc rút cơ_sở dữ_liệu quốc_gia khỏi danh_mục cơ_sở dữ_liệu quốc_gia , cơ_quan chủ_quản cơ_sở dữ_liệu có văn_bản đề_nghị kèm thuyết_minh lí_do đề_nghị , gửi Bộ Thông_tin và Truyền_thông tổng_hợp , trình Chính_phủ xem_xét , Quyết_định điều_chỉnh danh_mục cơ_sở dữ_liệu quốc_gia .
+
+2 . Trong trường_hợp_đề_nghị bổ_sung cơ_sở dữ_liệu vào danh_mục cơ_sở dữ_liệu quốc_gia , thuyết_minh do cơ_quan đề_nghị gửi Bộ Thông_tin và Truyền_thông phải bao_gồm các nội_dung chính sau :
+
+a ) Tên cơ_sở dữ_liệu quốc_gia ;
+
+b ) Mục_tiêu xây_dựng cơ_sở dữ_liệu quốc_gia ;
+
+c ) Phạm_vi dữ_liệu trong cơ_sở dữ_liệu quốc_gia ; thông_tin về dữ_liệu chủ của cơ_sở dữ_liệu quốc_gia sẽ lưu_trữ và chia_sẻ ;
+
+d ) Đối_tượng và mục_đích sử_dụng , khai_thác cơ_sở dữ_liệu quốc_gia ;
+
+đ ) Nguồn thông_tin sẽ xây_dựng và cập_nhật vào cơ_sở dữ_liệu quốc_gia ;
+
+e ) Phương_thức chia_sẻ dữ_liệu từ cơ_sở dữ_liệu quốc_gia .
+
+3 . Cơ_sở dữ_liệu quốc_gia đưa vào danh_mục phải đáp_ứng các yêu_cầu sau :
+
+a ) Dữ_liệu đảm_bảo giá_trị pháp_lí tương_đương các văn_bản giấy chứa thông_tin được cơ_quan có thẩm_quyền cung_cấp ;
+
+b ) Chứa dữ_liệu chủ của Chính_phủ làm cơ_sở tham_chiếu , đồng_bộ dữ_liệu giữa các cơ_sở dữ_liệu của bộ , ngành , địa_phương ;
+
+c ) Dữ_liệu được chia_sẻ , sử_dụng cho nhiều bộ , ngành , địa_phương phục_vụ giải_quyết thủ_tục hành_chính , cải_cách hành_chính , đơn_giản_hoá thủ_tục hành_chính cho người dân , doanh_nghiệp ;
+
+4 . Danh_mục cơ_sở dữ_liệu quốc_gia được cập_nhật theo nhu_cầu ứng_dụng công_nghệ thông_tin của từng giai_đoạn phát_triển Chính_phủ điện_tử hoặc khi có đề_nghị của các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh , thành_phố trực_thuộc trung_ương .
+
+Điều 13 . Cổng dữ_liệu quốc_gia
+
+1 . Là đầu_mối cung_cấp dữ_liệu mở của các cơ_quan nhà_nước trên môi_trường mạng nhằm tăng_cường tính minh_bạch trong hoạt_động của Chính_phủ và thúc_đẩy sáng_tạo , phát_triển kinh_tế , xã_hội .
+
+2 . Là đầu_mối cung_cấp hỗ_trợ kĩ_thuật , giám_sát tình_hình kết_nối , chia_sẻ dữ_liệu giữa các hệ_thống thông_tin trong cơ_quan nhà_nước .
+
+3 . Cơ_quan nhà_nước có trách_nhiệm theo_dõi , đăng_kí và cung_cấp thông_tin về dữ_liệu , dữ_liệu mở ; quản_lí dữ_liệu mở ; khả_năng chia_sẻ dữ_liệu và nhu_cầu khai_thác dữ_liệu trên Cổng dữ_liệu quốc_gia .
+
+4 . Hệ_thống quản_lí dịch_vụ chia_sẻ dữ_liệu là một thành_phần của Cổng dữ_liệu quốc_gia .
+
+5 . Đáp_ứng các yêu_cầu khác liên_quan đến quản_trị dữ_liệu của cơ_quan nhà_nước .
+
+Mục 2 . Quản_trị Dữ_liệu , Quản_trị Chia_sẻ , Khai_thác Dữ_liệu
+
+Điều 14 . Hoạt_động quản_trị dữ_liệu , quản_trị chia_sẻ , khai_thác dữ_liệu
+
+1 . Hoạt_động quản_trị dữ_liệu , quản_trị chia_sẻ , khai_thác dữ_liệu bao_gồm :
+
+a ) Xây_dựng chiến_lược dữ_liệu , kế_hoạch phát_triển dữ_liệu , các cơ_sở dữ_liệu bảo_đảm khả_năng kết_nối , chia_sẻ , sử_dụng chung dữ_liệu trong cơ_quan nhà_nước ;
+
+b ) Xây_dựng các văn_bản quy_phạm_pháp_luật , các quy_chế khai_thác , sử_dụng dữ_liệu chia_sẻ của các cơ_sở dữ_liệu ; các quy_chuẩn , tiêu_chuẩn về cấu_trúc dữ_liệu trao_đổi ; các tài_liệu kĩ_thuật về trao_đổi dữ_liệu ;
+
+c ) Tổ_chức , cung_cấp , khai_thác , chia_sẻ , sử_dụng dữ_liệu phục_vụ hoạt_động của cơ_quan nhà_nước và chia_sẻ dữ_liệu cho các tổ_chức , cá_nhân theo quy_định của pháp_luật ;
+
+d ) Điều_phối , kiểm_tra , giám_sát và giải_quyết các vướng_mắc trong quá_trình thực_hiện kết_nối , chia_sẻ dữ_liệu ;
+
+đ ) Kiểm_tra , đánh_giá , duy_trì dữ_liệu ; quản_lí chất_lượng dữ_liệu ;
+
+e ) Tích_hợp dữ_liệu , phân_tích , tổng_hợp dữ_liệu phục_vụ hỗ_trợ quản_lí nhà_nước và xây_dựng chiến_lược phát_triển dài_hạn .
+
+2 . Bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc trung_ương có trách_nhiệm tổ_chức thực_hiện , thực_hiện các hoạt_động được quy_định tại khoản 1 Điều này trong phạm_vi dữ_liệu mình quản_lý , tuân_thủ các quy_định của pháp_luật .
+
+Điều 15 . Thanh_tra , kiểm_tra , giám_sát quá_trình kết_nối , chia_sẻ dữ_liệu
+
+1 . Bộ Thông_tin và Truyền_thông có trách_nhiệm thực_hiện thanh_tra , kiểm_tra hoạt_động kết_nối , chia_sẻ dữ_liệu theo thẩm_quyền ; hướng_dẫn thanh_tra , kiểm_tra hoạt_động kết_nối , chia_sẻ dữ_liệu trong cơ_quan nhà_nước .
+
+2 . Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ có trách_nhiệm chỉ_đạo , thanh_tra , kiểm_tra quá_trình kết_nối , chia_sẻ dữ_liệu tại bộ , ngành mình quản_lý ; Chủ_tịch Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc trung_ương chịu trách_nhiệm chỉ_đạo , thanh_tra , kiểm_tra hoạt_động quản_lý , kết_nối , chia_sẻ dữ_liệu ở địa_phương .
+
+Điều 16 . Kiểm_tra , đánh_giá , duy_trì dữ_liệu
+
+1 . Dữ_liệu phải được kiểm_tra , đánh_giá , duy_trì định_kì hàng năm .
+
+2 . Nội_dung kiểm_tra , đánh_giá dữ_liệu dữ_liệu bao_gồm :
+
+a ) Kiểm_kê các hạng_mục nội_dung dữ_liệu ;
+
+b ) Đánh_giá tuân_thủ các tiêu_chuẩn , quy_chuẩn , quy_định về dữ_liệu ;
+
+c ) Đánh_giá chất_lượng dữ_liệu bao_gồm : độ chính_xác dữ_liệu , độ toàn_vẹn của dữ_liệu , dữ_liệu bất_thường ;
+
+d ) Đánh_giá về duy_trì , vận_hành , cập_nhật dữ_liệu , nhật_kí cập_nhật , khai_thác của dữ_liệu ;
+
+đ ) Đánh_giá về chia_sẻ dữ_liệu , đối_tượng sử_dụng , mục_đích chia_sẻ phù_hợp với các quy_định , quy_chế khai_thác , sử_dụng dữ_liệu chia_sẻ ;
+
+e ) Các nội_dung khác theo sự hướng_dẫn của các cơ_quan quản_lí chuyên_ngành về công_nghệ thông_tin phù_hợp với từng thời_điểm , giai_đoạn cụ_thể .
+
+3 . Kết_quả đánh_giá phải lập thành_văn_bản , đồng_thời đề_xuất các hoạt_động cần_thiết để duy_trì dữ_liệu ( nếu có ) .
+
+4 . Chủ_quản cơ_sở dữ_liệu có trách_nhiệm tự tổ_chức kiểm_tra đánh_giá định_kì dữ_liệu và gửi báo_cáo về đơn_vị chuyên_trách về công_nghệ thông_tin của bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , tỉnh , thành_phố trực_thuộc trung_ương trước ngày 31 tháng 12 hàng năm .
+
+5 . Trong phạm_vi quản_lí của mình , đơn_vị chuyên_trách về công_nghệ thông_tin của các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh , thành_phố trực_thuộc trung_ương có trách_nhiệm :
+
+a ) Hướng_dẫn các chủ_quản cơ_sở dữ_liệu tự kiểm_tra , đánh_giá dữ_liệu ;
+
+b ) Lập chương_trình , kế_hoạch kiểm_tra , đánh_giá dữ_liệu_trình Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc trung_ương phê_duyệt và thực_hiện chương_trình , kế_hoạch kiểm_tra , đánh_giá dữ_liệu .
+
+6 . Chủ_quản cơ_sở dữ_liệu có trách_nhiệm thực_hiện các biện_pháp để duy_trì dữ_liệu theo kết_quả kiểm_tra , đánh_giá dữ_liệu .
+
+Mục 3 . Dữ_liệu Mở Của Cơ_quan Nhà_nước
+
+Điều 17 . Nguyên_tắc cung_cấp dữ_liệu mở của cơ_quan nhà_nước
+
+1 . Hoạt_động cung_cấp dữ_liệu mở của cơ_quan nhà_nước cho tổ_chức , cá_nhân thực_hiện theo các nguyên_tắc sau :
+
+a ) Dữ_liệu mở phải toàn_vẹn và phản_ánh đầy_đủ nội_dung thông_tin cơ_quan nhà_nước cung_cấp ;
+
+b ) Dữ_liệu mở được cung_cấp là dữ_liệu được cập_nhật mới nhất ;
+
+c ) Dữ_liệu mở phải có khả_năng truy_cập sử_dụng được trên môi_trường mạng ;
+
+d ) Dữ_liệu mở phải đảm_bảo khả_năng thiết_bị số có_thể gửi , nhận , lưu_trữ và xử_lí được ;
+
+đ ) Tổ_chức , cá_nhân được tự_do truy_cập sử_dụng dữ_liệu mở , không yêu_cầu khai_báo định_danh khi khai_thác , sử_dụng dữ_liệu mở ;
+
+e ) Dữ_liệu mở ở định_dạng mở ;
+
+g ) Sử_dụng dữ_liệu mở là miễn_phí ;
+
+h ) Ưu_tiên_cung_cấp dữ_liệu mở đối_với dữ_liệu mà người dân , doanh_nghiệp có nhu_cầu sử_dụng cao .
+
+2 . Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc trung_ương có trách_nhiệm ban_hành danh_mục dữ_liệu mở của cơ_quan nhà_nước , tổ_chức xây_dựng kế_hoạch và triển_khai công_bố dữ_liệu mở của cơ_quan nhà_nước trong phạm_vi quản_lí của mình .
+
+Điều 18 . Quy_định sử_dụng dữ_liệu mở của cơ_quan nhà_nước
+
+1 . Cơ_quan , tổ_chức , cá_nhân được phép tự_do sao_chép , chia_sẻ , trao_đổi , sử_dụng dữ_liệu mở hoặc kết_hợp dữ_liệu mở với dữ_liệu khác ; sử_dụng dữ_liệu mở vào sản_phẩm , dịch_vụ thương_mại hoặc phi thương_mại của mình .
+
+2 . Cơ_quan , tổ_chức , cá_nhân phải trích_dẫn , ghi_nhận thông_tin sử_dụng dữ_liệu mở trong các sản_phẩm , tài_liệu liên_quan có sử_dụng dữ_liệu mở .
+
+3 . Dữ_liệu mở của cơ_quan nhà_nước là dữ_liệu nguyên_trạng như được công_bố ; không bao_gồm các hình_thức trình_bày và các thông_tin phát_sinh từ dữ_liệu mở đã được cung_cấp .
+
+4 . Cơ_quan , tổ_chức , cá_nhân không được bán dữ_liệu mở đã được khai_thác nguyên_trạng từ cơ_quan nhà_nước cho tổ_chức , cá_nhân khác . Khi sử_dụng dữ_liệu mở trong sản_phẩm , dịch_vụ thương_mại của mình phải cung_cấp miễn_phí dữ_liệu mở kèm theo sản_phẩm , dịch_vụ thương_mại đó .
+
+5 . Cơ_quan nhà_nước không chịu trách_nhiệm cho bất_kì tổn_thất hoặc thiệt_hại phát_sinh của cơ_quan , tổ_chức , cá_nhân do việc sử_dụng dữ_liệu mở gây ra .
+
+Điều 19 . Kế_hoạch và triển_khai dữ_liệu mở của các cơ_quan nhà_nước
+
+Trong phạm_vi quản_lí của mình , bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc trung_ương có trách_nhiệm triển_khai các nội_dung sau :
+
+1 . Xây_dựng và triển_khai kế_hoạch về dữ_liệu mở , bao_gồm kế_hoạch công_bố dữ_liệu mở , mức_độ tối_thiểu cần đạt được trong từng giai_đoạn của kế_hoạch .
+
+2 . Xác_định cơ_chế thu_thập , phân_tích thông_tin phản_hồi của cá_nhân , tổ_chức về việc sử_dụng dữ_liệu mở ; chỉ_định đầu_mối liên_hệ tiếp_nhận thông_tin phản_hồi của tổ_chức , cá_nhân về các vấn_đề liên_quan đến chất_lượng , tính khả_dụng , định_dạng , sự tuân_thủ các quy_định pháp_luật liên_quan đến dữ_liệu mở .
+
+3 . Có các biện_pháp phòng_ngừa cần_thiết để duy_trì việc xây_dựng và công_bố dữ_liệu mở có liên_quan trực_tiếp đến hoạt_động bảo_vệ an_toàn cho con_người và tài_sản bị ảnh_hưởng bởi kế_hoạch triển_khai dữ_liệu mở trong phạm_vi cơ_quan mình .
+
+4 . Thực_hiện các giải_pháp khuyến_khích tổ_chức , cá_nhân sử_dụng dữ_liệu mở :
+
+a ) Tiếp_nhận ý_kiến phản_hồi của tổ_chức , cá_nhân để xác_định mức_độ ưu_tiên và thực_hiện công_bố dữ_liệu mở phù_hợp với nhu_cầu ;
+
+b ) Hỗ_trợ các tổ_chức , cá_nhân trong xã_hội , cộng_đồng thực_hiện các hoạt_động xây_dựng , đóng_góp để mở_rộng dữ_liệu mở .
+
+Điều 20 . Yêu_cầu trong việc công_bố dữ_liệu mở của cơ_quan nhà_nước
+
+1 . Không tiết_lộ thông_tin cá_nhân ; đánh_giá và hạn_chế nguy_cơ , rủi_ro tiết_lộ thông_tin cá_nhân khi kết_hợp với các thông_tin khác .
+
+2 . Bảo_đảm an_toàn , an_ninh khi sử_dụng dữ_liệu mở bao_gồm cả rủi_ro do dữ_liệu mở gây ra hoặc rủi_ro khi dữ_liệu mở kết_hợp với dữ_liệu khác gây ra .
+
+3 . Danh_mục dữ_liệu mở được rà_soát , sửa_đổi ( nếu có ) theo định_kỳ , tối_thiểu 6 tháng_một lần ; dữ_liệu mở đã công_bố theo danh_mục phải được cập_nhật hoặc bổ_sung ( nếu có ) trong thời_hạn không quá 03 tháng kể từ thời_điểm công_bố .
+
+4 . Tuân_thủ các quy_định của pháp_luật có liên_quan .
+
+Điều 21 . Phương_thức , cách_thức công_bố dữ_liệu mở của cơ_quan nhà_nước
+
+1 . Dữ_liệu mở của cơ_quan nhà_nước được cung_cấp qua các phương_thức sau :
+
+a ) Cung_cấp dữ_liệu được đóng_gói và cho phép tổ_chức , cá_nhân tải về sử_dụng ;
+
+b ) Cung_cấp dữ_liệu thông_qua các dịch_vụ chia_sẻ dữ_liệu .
+
+2 . Dữ_liệu mở phải được công_bố trên Cổng dữ_liệu quốc_gia .
+
+Mục 4 . Bảo_đảm_khả_năng Sẵn_sàng Kết_nối , Chia_sẻ Dữ_liệu
+
+Điều 22 . Quy_chế khai_thác , sử_dụng dữ_liệu chia_sẻ
+
+1 . Kết_nối , chia_sẻ , sử_dụng dữ_liệu của cơ_quan nhà_nước phải tuân_thủ quy_chế khai_thác , sử_dụng dữ_liệu do cơ_quan chủ_quản ban_hành . Quy_chế khai_thác , sử_dụng dữ_liệu được quy_định theo nhóm chủ_đề dữ_liệu hoặc theo cơ_sở dữ_liệu .
+
+2 . Quy_chế khai_thác , sử_dụng dữ_liệu phải được công_bố công_khai .
+
+Điều 23 . Phương_thức chia_sẻ dữ_liệu
+
+1 . Phương_thức chia_sẻ dữ_liệu bao_gồm :
+
+a ) Kết_nối , chia_sẻ dữ_liệu trực_tuyến trên môi_trường mạng giữa các hệ_thống thông_tin của cơ_quan cung_cấp dữ_liệu và cơ_quan khai_thác dữ_liệu ;
+
+b ) Kết_nối , chia_sẻ dữ_liệu trực_tuyến trên môi_trường mạng bằng việc đồng_bộ toàn_bộ hoặc một phần dữ_liệu giữa các cơ_sở dữ_liệu của cơ_quan cung_cấp dữ_liệu và cơ_quan khai_thác dữ_liệu ;
+
+c ) Chia_sẻ dữ_liệu được đóng_gói và lưu_giữ trên các phương_tiện lưu_trữ thông_tin .
+
+2 . Khuyến_khích áp_dụng phương_thức chia_sẻ dữ_liệu được quy_định tại điểm a khoản 1 Điều này .
+
+3 . Đối_với phương_thức chia_sẻ dữ_liệu được quy_định tại điểm a và b khoản 1 Điều này , việc chia_sẻ dữ_liệu được xác_định liên_tục theo thời_hạn hoặc không xác_định thời_hạn kể từ khi cơ_quan cung_cấp chấp_nhận chia_sẻ dữ_liệu theo quy_chế khai_thác , sử_dụng dữ_liệu .
+
+4 . Cơ_quan cung_cấp dữ_liệu phải công_bố hình_thức chia_sẻ và khả_năng đáp_ứng kết_nối đến cơ_sở dữ_liệu theo các quy_định tại Nghị_định này khi công_khai dịch_vụ chia_sẻ dữ_liệu .
+
+Điều 24 . Dịch_vụ chia_sẻ dữ_liệu
+
+1 . Việc kết_nối , cung_cấp , khai_thác dữ_liệu giữa các hệ_thống thông_tin phải thực_hiện qua các dịch_vụ chia_sẻ dữ_liệu .
+
+2 . Chủ_quản cơ_sở dữ_liệu có trách_nhiệm thiết_lập và công_bố các dịch_vụ chia_sẻ dữ_liệu , các tài_liệu kĩ_thuật cần_thiết phục_vụ mục_đích truy_cập dữ_liệu thuộc phạm_vi dữ_liệu do mình quản_lý .
+
+3 . Nội_dung thông_tin về dịch_vụ chia_sẻ dữ_liệu bao_gồm :
+
+a ) Danh_sách dịch_vụ chia_sẻ dữ_liệu và thông_số , tài_liệu kĩ_thuật cần_thiết kèm theo ;
+
+b ) Cấu_trúc dữ_liệu trao_đổi của dữ_liệu được chia_sẻ tuân_thủ theo các tiêu_chuẩn , quy_chuẩn kĩ_thuật hiện_hành ;
+
+c ) Các thông_tin cần_thiết khác về dịch_vụ chia_sẻ dữ_liệu mà cơ_quan cung_cấp dịch_vụ dữ_liệu cần cung_cấp cho cơ_quan khai_thác để tạo thuận_lợi cho việc tiếp_cận , kết_nối và sử_dụng dịch_vụ chia_sẻ dữ_liệu .
+
+Điều 25 . Công_khai_thông_tin về dịch_vụ chia_sẻ dữ_liệu
+
+1 . Cơ_quan cung_cấp các dịch_vụ chia_sẻ dữ_liệu chịu trách_nhiệm tự đăng_tải công_khai_thông_tin về dịch_vụ chia_sẻ dữ_liệu của mình trên Hệ_thống quản_lí dịch_vụ chia_sẻ dữ_liệu trong thời_hạn 01 ngày làm_việc kể từ khi dịch_vụ chia_sẻ dữ_liệu sẵn_sàng tiếp_nhận kết_nối chia_sẻ dữ_liệu .
+
+2 . Trong trường_hợp thay_đổi , cập_nhật các dịch_vụ chia_sẻ dữ_liệu , cơ_quan cung_cấp dịch_vụ chia_sẻ dữ_liệu phải tiến_hành cập_nhật thông_tin về dịch_vụ chia_sẻ dữ_liệu trên Hệ_thống quản_lí dịch_vụ chia_sẻ dữ_liệu ngay sau khi có sự thay_đổi , cập_nhật .
+
+3 . Thông_tin về dịch_vụ chia_sẻ dữ_liệu phải được đăng_tải phải đầy_đủ , cập_nhật kịp_thời và chính_xác .
+
+4 . Cơ_quan cung_cấp dịch_vụ dữ_liệu có trách_nhiệm quản_lí danh_mục các dịch_vụ chia_sẻ dữ_liệu , các thông_tin , tài_liệu liên_quan đến dịch_vụ chia_sẻ dữ_liệu của mình ; tiếp_nhận , xử_lí các yêu_cầu , đề_nghị , kiến_nghị của các cơ_quan khai_thác đối_với các dịch_vụ chia_sẻ dữ_liệu được công_khai trên Hệ_thống quản_lí dịch_vụ chia_sẻ dữ_liệu .
+
+5 . Đơn_vị chuyên_trách về công_nghệ thông_tin của các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ có trách_nhiệm hỗ_trợ các cơ_quan nhà_nước trong phạm_vi quản_lí của mình thực_hiện việc đăng_tải , cập_nhật , quản_lí các thông_tin về dịch_vụ chia_sẻ dữ_liệu trong trường_hợp cần_thiết .
+
+Điều 26 . Hệ_thống quản_lí dịch_vụ chia_sẻ dữ_liệu
+
+1 . Hệ_thống quản_lí dịch_vụ chia_sẻ dữ_liệu là hệ_thống thông_tin quản_lí tập_trung danh_mục các dịch_vụ chia_sẻ dữ_liệu của các cơ_quan nhà_nước do Bộ Thông_tin và Truyền_thông_thống_nhất xây_dựng và quản_lí để cung_cấp cho các cơ_quan nhà_nước khai_thác , sử_dụng .
+
+2 . Vai_trò , chức_năng của Hệ_thống quản_lí dịch_vụ chia_sẻ dữ_liệu :
+
+a ) Quản_lí tập_trung thông_tin về dịch_vụ chia_sẻ dữ_liệu trên toàn_quốc ;
+
+b ) Hỗ_trợ các cơ_quan cung_cấp dữ_liệu khai_báo , cập_nhật thông_tin về các dịch_vụ chia_sẻ dữ_liệu ;
+
+c ) Hỗ_trợ cơ_quan nhà_nước tìm_kiếm , tiếp_cận và khai_thác các nguồn dữ_liệu , dịch_vụ dữ_liệu được cơ_quan nhà_nước chia_sẻ ;
+
+d ) Hỗ_trợ tiếp_nhận yêu_cầu kết_nối , khai_thác dịch_vụ chia_sẻ dữ_liệu ;
+
+đ ) Cung_cấp các chức_năng hỗ_trợ khác tạo thuận_lợi cho kết_nối , chia_sẻ dữ_liệu giữa các cơ_quan nhà_nước .
+
+3 . Cơ_quan nhà_nước tra_cứu thông_tin về dịch_vụ chia_sẻ dữ_liệu trên Hệ_thống quản_lí dịch_vụ chia_sẻ dữ_liệu để thực_hiện kết_nối , chia_sẻ , khai_thác các nguồn dữ_liệu khả_dụng của cơ_quan nhà_nước .
+
+Điều 27 . Hạ_tầng kết_nối , chia_sẻ dữ_liệu
+
+1 . Cơ_quan cung_cấp và sử_dụng dữ_liệu có trách_nhiệm bảo_đảm điều_kiện hạ_tầng phục_vụ kết_nối , trao_đổi dữ_liệu bao_gồm :
+
+a ) Hệ_thống thông_tin và hạ_tầng kết_nối_mạng phù_hợp để cung_cấp dữ_liệu , khai_thác dữ_liệu ;
+
+b ) Công_cụ , biện_pháp để bảo_vệ dữ_liệu và xác_thực dữ_liệu trong quá_trình chia_sẻ , sử_dụng dữ_liệu ;
+
+c ) Các điều_kiện kĩ_thuật khác phục_vụ kết_nối , cung_cấp dữ_liệu và khai_thác và sử_dụng dữ_liệu .
+
+2 . Xây_dựng các hệ_thống thông_tin , cơ_sở dữ_liệu trong cơ_quan nhà_nước phải có hạng_mục phục_vụ kết_nối , chia_sẻ dữ_liệu bao_gồm :
+
+a ) Xây_dựng cấu_trúc dữ_liệu chia_sẻ , dữ_liệu được khai_thác từ việc chia_sẻ ;
+
+b ) Xây_dựng các thành_phần kết_nối chia_sẻ dữ_liệu , dịch_vụ chia_sẻ dữ_liệu ra bên ngoài ;
+
+c ) Quản_lý , vận_hành , duy_trì việc kết_nối , chia_sẻ dữ_liệu .
+
+3 . Bộ Thông_tin và Truyền_thông chủ_trì , phối_hợp với các cơ_quan có liên_quan xây_dựng nền_tảng tích_hợp , chia_sẻ dữ_liệu quốc_gia phục_vụ kết_nối , chia_sẻ dữ_liệu giữa các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh , thành_phố trực_thuộc trung_ương .
+
+4 . Đơn_vị chuyên_trách về công_nghệ thông_tin của các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh , thành_phố trực_thuộc trung_ương chủ_trì , xây_dựng và duy_trì hạ_tầng kết_nối , chia_sẻ dữ_liệu phục_vụ kết_nối , chia_sẻ dữ_liệu trong nội_bộ của bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh , thành_phố trực_thuộc trung_ương và kết_nối , chia_sẻ dữ_liệu với các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh , thành_phố trực_thuộc trung_ương khác .
+
+Điều 28 . Bảo_đảm an_toàn trong quá_trình kết_nối , chia_sẻ dữ_liệu
+
+Việc kết_nối , chia_sẻ dữ_liệu phải tuân_thủ các quy_định của pháp_luật về an_toàn thông_tin mạng , an_ninh mạng và các quy_định sau :
+
+1 . Chủ_quản hệ_thống thông_tin tham_gia vào quá_trình kết_nối , chia_sẻ dữ_liệu chịu trách_nhiệm đảm_bảo_an_toàn , an_ninh thông_tin khi dữ_liệu được quản_lý , lưu_trữ , xử_lý , truyền_tải trên hệ_thống của mình .
+
+2 . Cơ_quan khai_thác dữ_liệu có trách_nhiệm đảm_bảo_an_toàn , an_ninh thông_tin khi kết_nối , tiếp_nhận dữ_liệu chia_sẻ theo quy_định của cơ_quan cung_cấp dữ_liệu và các quy_định của pháp_luật .
+
+Điều 29 . Kinh_phí bảo_đảm kết_nối , chia_sẻ dữ_liệu
+
+1 . Đối_với kinh_phí thực_hiện đầu_tư xây_dựng hạ_tầng kết_nối , chia_sẻ dữ_liệu ; nền_tảng tích_hợp , chia_sẻ dữ_liệu cấp_bộ , cấp tỉnh và các cơ_sở dữ_liệu quốc_gia , nguồn kinh_phí do ngân_sách trung_ương , ngân_sách địa_phương bảo_đảm theo nguyên_tắc :
+
+a ) Ngân_sách trung_ương bảo_đảm kinh_phí đối_với bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ và hỗ_trợ các địa_phương khó_khăn chưa tự cân_đối ngân_sách ;
+
+b ) Ngân_sách địa_phương bảo_đảm kinh_phí đối_với địa_phương có điều_tiết về ngân_sách trung_ương hoặc có tăng thu lớn ; sử_dụng nguồn phí để lại ngoài cân_đối ngân_sách theo quy_định , nguồn huy_động hợp_pháp khác ( nếu có ) ;
+
+c ) Ưu_tiên , khuyến_khích đầu_tư theo phương_thức hợp_tác với khu_vực tư_nhân , nhất là các hình_thức thuê dịch_vụ công_nghệ thông_tin , tận_dụng nguồn_lực của các thành_phần kinh_tế đầu_tư phát_triển hệ_thống , ngân_sách trung_ương chi_trả tiền thuê dịch_vụ hàng năm .
+
+2 . Đối_với các nhiệm_vụ , dự_án riêng_lẻ của các bộ , ngành , địa_phương ( trừ nền_tảng tích_hợp , chia_sẻ dữ_liệu cấp_bộ , cấp tỉnh ) :
+
+a ) Các bộ , ngành , địa_phương cân_đối từ dự_toán để thực_hiện hoặc thuê dịch_vụ công_nghệ thông_tin đối_với các dự_án có nguồn thu , nguồn thực_hiện từ nguồn thu của dự_án ;
+
+b ) Đối_với các địa_phương miền núi đặc_biệt khó_khăn không cân_đối được nguồn theo nhu_cầu , ngân_sách trung_ương hỗ_trợ một phần kinh_phí theo phê_duyệt của cấp có thẩm_quyền .
+
+3 . Kinh_phí duy_trì , vận_hành , thực_hiện kết_nối , chia_sẻ dữ_liệu được dự_toán trong kinh_phí quản_lý , vận_hành và duy_trì các hệ_thống thông_tin , cơ_sở dữ_liệu và được cân_đối từ nguồn kinh_phí chi thường_xuyên ngân_sách nhà_nước_hàng năm theo phân_cấp ngân_sách ( kinh_phí thực_hiện nhiệm_vụ không thường_xuyên , không thực_hiện chế_độ tự_chủ ) của cơ_quan nhà_nước .
+
+Điều 30 . Nguồn nhân_lực bảo_đảm kết_nối , chia_sẻ dữ_liệu
+
+1 . Nhân_lực bảo_đảm kết_nối , chia_sẻ dữ_liệu được tận_dụng từ nguồn nhân_lực tại_chỗ đang thực_hiện quản_lý , vận_hành các hệ_thống thông_tin ; thuê dịch_vụ công_nghệ thông_tin và các nguồn khác theo quy_định của pháp_luật .
+
+2 . Cơ_quan nhà_nước cung_cấp và sử_dụng dữ_liệu có trách_nhiệm bảo_đảm các điều_kiện về nhân_lực phục_vụ quản_lý , kết_nối , chia_sẻ .
+
+Chương_iii
+
+Thực_hiện Kết_nối , Chia_sẻ , Sử_dụng Dữ_liệu
+
+Mục 1 . Tổ_chức Kết_nối , Chia_sẻ Dữ_liệu
+
+Điều 31 . Kết_nối , chia_sẻ dữ_liệu giữa các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh , thành_phố trực_thuộc trung_ương
+
+1 . Thủ_tướng Chính_phủ chịu trách_nhiệm chỉ_đạo thực_hiện quản_lý , kết_nối và chia_sẻ dữ_liệu giữa các bộ , ngành , địa_phương ; kịp_thời tháo_gỡ khó_khăn , vướng_mắc trong quá_trình thực_hiện Nghị_định này .
+
+2 . Bộ Thông_tin và Truyền_thông có trách_nhiệm :
+
+a ) Ban_hành các văn_bản quy_định , hướng_dẫn liên_quan đến việc quản_lý , kết_nối , chia_sẻ dữ_liệu ;
+
+b ) Đôn_đốc , đánh_giá , kiểm_tra việc thực_hiện kết_nối chia_sẻ dữ_liệu , sự tuân_thủ quy_định về kết_nối , chia_sẻ dữ_liệu , tham_mưu Thủ_tướng Chính_phủ để giải_quyết các vấn_đề khó_khăn , vướng_mắc về quản_lý , kết_nối , chia_sẻ dữ_liệu ;
+
+c ) Điều_phối việc kết_nối , chia_sẻ dữ_liệu giữa các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh , thành_phố trực_thuộc trung_ương trên nền_tảng tích_hợp , chia_sẻ dữ_liệu quốc_gia ;
+
+d ) Tổng_hợp và công_bố thông_tin thống_kê về tình_trạng chia_sẻ dữ_liệu của các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh , thành_phố trực_thuộc trung_ương .
+
+3 . Các bộ , ngành , địa_phương chủ_động chuẩn_bị điều_kiện cần_thiết , thực_hiện kết_nối , cung_cấp dữ_liệu , khai_thác dữ_liệu thực để đáp_ứng yêu_cầu và thực_hiện kết_nối .
+
+Điều 32 . Kết_nối , chia_sẻ dữ_liệu trong nội_bộ của bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh , thành_phố trực_thuộc trung_ương
+
+1 . Người đứng đầu của bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương có trách_nhiệm chỉ_đạo quản_lý , kết_nối , chia_sẻ dữ_liệu trong nội_bộ bộ , ngành , địa_phương mình quản_lý .
+
+2 . Đơn_vị chuyên_trách về công_nghệ thông_tin của các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh , thành_phố trực_thuộc trung_ương có trách_nhiệm :
+
+a ) Hướng_dẫn việc quản_lý , kết_nối , chia_sẻ dữ_liệu trong phạm_vi quản_lí của mình ;
+
+b ) Theo_dõi , đôn_đốc , đánh_giá , kiểm_tra việc kết_nối , chia_sẻ dữ_liệu giữa các cơ_quan , đơn_vị trong nội_bộ của bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh , thành_phố trực_thuộc trung_ương , tham_mưu người đứng đầu giải_quyết các vấn_đề khó_khăn , vướng_mắc về quản_lý , kết_nối , chia_sẻ dữ_liệu ;
+
+c ) Điều_phối kết_nối chia_sẻ dữ_liệu , hướng_dẫn , hỗ_trợ cơ_quan , đơn_vị kết_nối ra ngoài phạm_vi của bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh , thành_phố trực_thuộc trung_ương mình .
+
+3 . Cơ_quan , đơn_vị tại các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh , thành_phố trực_thuộc trung_ương có trách_nhiệm tổ_chức kết_nối , chuẩn_bị điều_kiện cần_thiết để đáp_ứng yêu_cầu và thực_hiện kết_nối , chia_sẻ dữ_liệu .
+
+Mục 2 . Chia_sẻ Dữ_liệu Mặc_định
+
+Điều 33 . Chuẩn_bị và thực_hiện cung_cấp dữ_liệu
+
+Cơ_quan cung_cấp dữ_liệu thực_hiện các nội_dung sau :
+
+1 . Xác_định và chuẩn_hoá dữ_liệu cung_cấp qua hình_thức chia_sẻ dữ_liệu mặc_định .
+
+2 . Xác_định_danh_mục dữ_liệu chia_sẻ theo hình_thức chia_sẻ dữ_liệu mặc_định .
+
+3 . Phát_triển dịch_vụ chia_sẻ dữ_liệu , các tài_liệu hướng_dẫn kết_nối khai_thác dữ_liệu .
+
+4 . Công_khai các dịch_vụ chia_sẻ dữ_liệu theo quy_định tại Điều 25 của Nghị_định này .
+
+5 . Tiếp_nhận các yêu_cầu kết_nối sử_dụng các dịch_vụ chia_sẻ dữ_liệu , khai_thác dữ_liệu từ các cơ_quan có nhu_cầu sử_dụng dịch_vụ chia_sẻ dữ_liệu .
+
+6 . Thực_hiện việc kết_nối , chia_sẻ dữ_liệu .
+
+Điều 34 . Dữ_liệu chia_sẻ theo hình_thức chia_sẻ mặc_định
+
+1 . Dữ_liệu được chia_sẻ theo hình_thức chia_sẻ mặc_định bao_gồm những loại dữ_liệu sau :
+
+a ) Dữ_liệu chủ trong cơ_sở dữ_liệu quốc_gia ;
+
+b ) Dữ_liệu chủ trong cơ_sở dữ_liệu của bộ , ngành , địa_phương ;
+
+c ) Dữ_liệu danh_mục dùng chung ;
+
+d ) Các loại dữ_liệu khác được nhiều cơ_quan nhà_nước khác sử_dụng theo cùng một phương_thức về định_dạng , cấu_trúc , tiêu_chuẩn , quy_chuẩn về dữ_liệu .
+
+2 . Bộ_trưởng , thủ_trưởng cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc trung_ương phải ban_hành , rà_soát định_kì tối_thiểu 6 tháng / lần để cập_nhật danh_mục dữ_liệu chia_sẻ theo hình_thức mặc_định và cân_nhắc chuyển dần việc chia_sẻ dữ_liệu theo yêu_cầu đặc_thù sang hình_thức mặc_định khi đủ điều_kiện .
+
+Điều 35 . Gửi yêu_cầu kết_nối , khai_thác dữ_liệu
+
+1 . Cơ_quan , đơn_vị gửi yêu_cầu kết_nối , khai_thác dữ_liệu theo hình_thức trực_tuyến thông_qua Hệ_thống quản_lí dịch_vụ chia_sẻ dữ_liệu . Trong trường_hợp Hệ_thống quản_lí dịch_vụ chia_sẻ dữ_liệu chưa sẵn_sàng thì gửi yêu_cầu theo hình_thức phù_hợp được cơ_quan cung_cấp dữ_liệu chấp_nhận .
+
+2 . Nội_dung yêu_cầu kết_nối , sử_dụng dữ_liệu :
+
+a ) Định_danh , tên của cơ_quan , đơn_vị yêu_cầu ;
+
+b ) Định_danh , tên ứng_dụng kết_nối , khai_thác dữ_liệu ( nếu cần ) ;
+
+c ) Mục_đích , giải_pháp sử_dụng dữ_liệu sau khi khai_thác ;
+
+d ) Nội_dung dữ_liệu đề_nghị được cung_cấp ; nêu rõ tên và số_lượng từng mục tin cần tiếp_nhận ;
+
+đ ) Mã định_danh , tên dịch_vụ chia_sẻ dữ_liệu ;
+
+e ) Tần_suất khai_thác dữ_liệu được chia_sẻ ;
+
+g ) Các thông_tin cần_thiết khác ( nếu có ) .
+
+3 . Trong thời_hạn tối_đa 05 ngày làm_việc kể từ khi nhận được yêu_cầu , cơ_quan cung_cấp dữ_liệu có trách_nhiệm tạo tài_khoản kết_nối và thông_báo cho cơ_quan , đơn_vị yêu_cầu . Trong trường_hợp từ_chối yêu_cầu phải nêu rõ lí_do từ_chối .
+
+Mục 3 . Chia_sẻ Dữ_liệu Theo Yêu_cầu Đặc_thù
+
+Điều 36 . Nguyên_tắc chia_sẻ dữ_liệu theo yêu_cầu đặc_thù
+
+1 . Chỉ_thực_hiện chia_sẻ dữ_liệu theo hình_thức này khi dữ_liệu không_thể khai_thác được qua hình_thức chia_sẻ dữ_liệu mặc_định .
+
+2 . Cơ_quan cung_cấp dữ_liệu và cơ_quan khai_thác dữ_liệu phải thực_hiện trao_đổi và thống_nhất các nội_dung thực_hiện kết_nối , chia_sẻ , khai_thác dữ_liệu .
+
+3 . Nội_dung thống_nhất chia_sẻ dữ_liệu phải được ghi_nhận bằng văn_bản , văn_bản điện_tử hoặc hệ_thống thông_tin hỗ_trợ ( nếu có ) .
+
+4 . Cơ_quan chưa tham_gia chia_sẻ , khai_thác dữ_liệu theo nội_dung thống_nhất chia_sẻ dữ_liệu có hiệu_lực có quyền đề_nghị tham_gia và trở_thành một trong các bên thực_hiện của nội_dung đó .
+
+5 . Nội_dung thống_nhất chia_sẻ dữ_liệu phải công_khai cho các bên tham_gia kết_nối , chia_sẻ dữ_liệu ; gửi cho cơ_quan có thẩm_quyền khi được yêu_cầu .
+
+Điều 37 . Trình_tự chuẩn_bị kết_nối , chia_sẻ dữ_liệu
+
+Cơ_quan cung_cấp dữ_liệu và cơ_quan khai_thác dữ_liệu có trách_nhiệm phối_hợp thực_hiện các nội_dung sau :
+
+1 . Rà_soát nhu_cầu , quy_định , điều_kiện cần_thiết và các hoạt_động cần thực_hiện để kết_nối và chia_sẻ dữ_liệu .
+
+2 . Phối_hợp xây_dựng dự_thảo nội_dung thống_nhất chia_sẻ dữ_liệu .
+
+3 . Xác_nhận ( ký ) nội_dung thống_nhất chia_sẻ dữ_liệu .
+
+4 . Triển_khai thực_hiện theo các nội_dung thống_nhất chia_sẻ dữ_liệu .
+
+Điều 38 . Nội_dung thống_nhất chia_sẻ dữ_liệu
+
+1 . Danh_sách các cơ_quan cung_cấp và cơ_quan khai_thác , sử_dụng dữ_liệu .
+
+2 . Nội_dung dữ_liệu sẽ được chia_sẻ giữa các cơ_quan .
+
+3 . Địa_điểm chia_sẻ và sử_dụng dữ_liệu .
+
+4 . Thời_hạn kết_nối , sử_dụng dữ_liệu .
+
+5 . Phương_thức , cách_thức chia_sẻ dữ_liệu .
+
+6 . Phương_thức , cách_thức xử_lí sau khi tiếp_nhận dữ_liệu .
+
+7 . Các điều_kiện , giới_hạn trong việc chia_sẻ và sử_dụng dữ_liệu chia_sẻ .
+
+8 . Sự cam_kết giữa các cơ_quan tuân_thủ các quy_định về bảo_vệ dữ_liệu , tuân_thủ nội_dung thống_nhất chia_sẻ dữ_liệu .
+
+9 . Các biện_pháp_bảo_mật và xác_thực áp_dụng cho việc truyền , lưu_trữ , truy_cập dữ_liệu .
+
+10 . Các yêu_cầu liên_quan đến việc lưu_trữ dữ_liệu sau khi chia_sẻ ; dữ_liệu phát_sinh từ việc xử_lí dữ_liệu sau chia_sẻ trong và sau thời_gian thực_hiện các nội_dung thống_nhất chia_sẻ dữ_liệu .
+
+11 . Phương_thức được sử_dụng để xoá , huỷ dữ_liệu sau khi chia_sẻ hoặc xoá , huỷ dữ_liệu vào thời_điểm kết_thúc hoạt_động chia_sẻ dữ_liệu .
+
+12 . Các vấn_đề khác có ảnh_hưởng đến việc chia_sẻ mà các cơ_quan tham_gia chia_sẻ dữ_liệu thống_nhất .
+
+Điều 39 . Thực_hiện kết_nối , chia_sẻ , sử_dụng dữ_liệu
+
+Việc triển_khai thực_hiện kết_nối , chia_sẻ dữ_liệu , sử_dụng dữ_liệu được thực_hiện theo các nội_dung thống_nhất chia_sẻ dữ_liệu đã được các cơ_quan thống_nhất . Trong quá_trình triển_khai thực_hiện có sự thay_đổi về nội_dung thống_nhất phải tiến_hành cập_nhật lại các nội_dung này để làm cơ_sở theo_dõi , giám_sát và xử_lí các vướng_mắc phát_sinh .
+
+Mục 4 . Quản_lý Kết_nối , Chia_sẻ Dữ_liệu
+
+Điều 40 . Tài_khoản và quản_lí tài_khoản kết_nối
+
+1 . Trừ trường_hợp chia_sẻ dữ_liệu không yêu_cầu xác_thực cơ_quan khai_thác dữ_liệu ( đã thể_hiện trong quy_chế khai_thác , sử_dụng dữ_liệu chia_sẻ đã ban_hành ) , việc kết_nối và chia_sẻ dữ_liệu cho cơ_quan khai_thác sử_dụng tài_khoản kết_nối với hình_thức định định_danh và xác_thực phù_hợp cho cơ_quan , tổ_chức có nhu_cầu kết_nối theo quy_định của pháp_luật .
+
+2 . Trong trường_hợp kết_nối , chia_sẻ dữ_liệu qua hệ_thống trung_gian , chủ_quản cơ_sở dữ_liệu có_thể lựa_chọn uỷ_thác cho đơn_vị quản_lí hệ_thống trung_gian quản_lí và cấp_phát_tài_khoản kết_nối và khai_thác dữ_liệu .
+
+3 . Việc cấp_phát và xác_thực_tài_khoản kết_nối và khai_thác dữ_liệu phải tuân_thủ quy_chế khai_thác , sử_dụng dữ_liệu liên_quan đến cơ_sở dữ_liệu được chia_sẻ .
+
+Điều 41 . Thời_hạn sử_dụng dữ_liệu sau khi khai_thác
+
+1 . Dữ_liệu khai_thác từ việc chia_sẻ của các cơ_sở dữ_liệu có thời_hạn sử_dụng nhất_định . Thời_hạn sử_dụng phải được thể_hiện rõ trong quy_chế khai_thác , sử_dụng dữ_liệu chia_sẻ của cơ_sở dữ_liệu đó .
+
+2 . Thời_hạn sử_dụng dữ_liệu được quy_định như sau :
+
+a ) Dữ_liệu khai_thác qua phương_thức được quy_định tại điểm a khoản 1 Điều 23 của Nghị_định này có giá_trị sử_dụng ngay sau khi khai_thác nếu không có quy_định khác ;
+
+b ) Dữ_liệu được khai_thác theo phương_thức được quy_định tại điểm b khoản 1 Điều 23 của Nghị_định này được phép sử_dụng trong thời_hạn nhất_định . Thời_hạn sử_dụng dữ_liệu tính từ thời_điểm lần đồng_bộ cuối_cùng từ cơ_sở dữ_liệu nguồn sang cơ_sở dữ_liệu đích . Hết thời_hạn sử_dụng , dữ_liệu trong cơ_sở dữ_liệu đích không có giá_trị sử_dụng hoặc cơ_sở dữ_liệu đích phải thực_hiện việc đồng_bộ lại dữ_liệu với cơ_sở dữ_liệu nguồn ;
+
+c ) Dữ_liệu được khai_thác theo phương_thức được quy_định tại điểm c khoản 1 Điều 23 của Nghị_định này được phép sử_dụng nhiều lần trong phạm_vi thời_gian hạn_định . Hết thời_gian hạn_định , dữ_liệu không có giá_trị sử_dụng .
+
+Điều 42 . Lưu_trữ dữ_liệu khi kết_nối , khai_thác
+
+Cơ_quan khai_thác dữ_liệu được lưu_trữ , sử_dụng dữ_liệu thuộc một trong các trường_hợp sau :
+
+1 . Để sử_dụng dữ_liệu trong thời_hạn được quy_định tại Điều 41 của Nghị_định này .
+
+2 . Để bảo_đảm hiệu_năng của hệ_thống khai_thác và sử_dụng dữ_liệu .
+
+3 . Trong trường_hợp có quy_định cho phép lưu_trữ .
+
+Điều 43 . Tạm ngừng kết_nối , cung_cấp dữ_liệu trên môi_trường mạng do cơ_quan cung_cấp
+
+1 . Cơ_quan cung_cấp dữ_liệu tạm ngừng cung_cấp dịch_vụ chia_sẻ dữ_liệu cho tất_cả các cơ_quan khai_thác trong trường_hợp sau :
+
+a ) Nâng_cấp , mở_rộng , bảo_trì hệ_thống thông_tin , cơ_sở hạ_tầng thông_tin ;
+
+b ) Trường_hợp bất_khả_kháng làm gián_đoạn cung_cấp dịch_vụ , kết_nối hoặc có ảnh_hưởng đến hoạt_động của hệ_thống thông_tin , sự an_toàn dữ_liệu .
+
+2 . Cơ_quan cung_cấp dữ_liệu tạm ngừng cung_cấp dữ_liệu cho một hoặc một_số cơ_quan khai_thác trong những trường_hợp sau :
+
+a ) Cơ_quan khai_thác vi_phạm_quy_chế khai_thác , sử_dụng dữ_liệu ;
+
+b ) Kết_nối dữ_liệu được xác_định có khả_năng làm mất an_toàn , an_ninh .
+
+3 . Trong trường_hợp tạm ngừng kết_nối , cung_cấp dịch_vụ theo điểm a khoản 1 Điều này , cơ_quan cung_cấp phải thông_báo_công_khai trên cổng thông_tin điện_tử ít_nhất 07 ngày làm_việc trước khi chủ_động tạm ngừng cung_cấp dịch_vụ chia_sẻ dữ_liệu , đồng_thời thông_báo khoảng thời_gian dự_kiến phục_hồi các hoạt_động cung_cấp dịch_vụ chia_sẻ dữ_liệu để sửa_chữa , khắc_phục các sự_cố hoặc nâng_cấp , mở_rộng cơ_sở hạ_tầng thông_tin . Thời_gian thực_hiện nâng_cấp , mở_rộng , bảo_trì hệ_thống phải thực_hiện trong thời_gian ngắn nhất và hạn_chế thấp nhất rủi_ro cho cơ_quan khai_thác , sử_dụng dữ_liệu do việc gián_đoạn , tạm ngừng cung_cấp dịch_vụ chia_sẻ dữ_liệu gây ra .
+
+4 . Trong trường_hợp bất_khả_kháng phải tạm ngừng cung_cấp dịch_vụ chia_sẻ dữ_liệu theo điểm b khoản 1 Điều này , cơ_quan cung_cấp dịch_vụ chia_sẻ dữ_liệu phải thông_báo_công_khai bằng hình_thức phù_hợp và tiến_hành nhanh_chóng các biện_pháp khắc_phục sự_cố .
+
+5 . Trường_hợp được quy_định tại khoản 2 Điều này , cơ_quan cung_cấp dữ_liệu thông_báo cho cơ_quan khai_thác dữ_liệu trong thời_gian chậm nhất 01 ngày kể từ thời_điểm xác_định vi_phạm những nội_dung sau :
+
+a ) Nội_dung vi_phạm_quy_chế , phương_án xử_lí vi_phạm ;
+
+b ) Những yêu_cầu cần_thiết cần thực_hiện để duy_trì hoặc khôi_phục kết_nối .
+
+Điều 44 . Chấm_dứt kết_nối , chia_sẻ dữ_liệu qua môi_trường mạng
+
+1 . Cơ_quan cung_cấp có quyền chấm_dứt việc kết_nối , chia_sẻ dữ_liệu qua môi_trường mạng cho cơ_quan khai_thác dữ_liệu trong các trường_hợp sau :
+
+a ) Mục_đích sử_dụng dữ_liệu của cơ_quan khai_thác dữ_liệu không còn phù_hợp với mục_đích tại thời_điểm đăng_kí ban_đầu ;
+
+b ) Việc kết_nối không_thể khôi_phục do sự_cố hoặc do điều_kiện khách_quan mà cơ_quan cung_cấp dữ_liệu không_thể tiếp_tục duy_trì các dịch_vụ chia_sẻ dữ_liệu ;
+
+c ) Theo yêu_cầu của cơ_quan có thẩm_quyền phù_hợp với các quy_định của pháp_luật ;
+
+d ) Cơ_quan khai_thác dữ_liệu không có nhu_cầu tiếp_tục kết_nối và khai_thác dữ_liệu hoặc nội_dung thống_nhất chia_sẻ dữ_liệu hết hiệu_lực .
+
+2 . Cơ_quan khai_thác dữ_liệu có trách_nhiệm thực_hiện đầy_đủ các nghĩa_vụ ( nếu có ) trong quá_trình chấm_dứt kết_nối , chia_sẻ dữ_liệu .
+
+3 . Cơ_quan cung_cấp dữ_liệu có trách_nhiệm thông_báo kết_quả chấm_dứt kết_nối , chia_sẻ dữ_liệu cho cơ_quan khai_thác dữ_liệu và các cơ_quan có liên_quan .
+
+Điều 45 . Lưu_trữ nhật_kí chia_sẻ dữ_liệu
+
+1 . Cơ_quan cung_cấp dữ_liệu phải lưu lại lịch_sử thông_tin_yêu_cầu dữ_liệu của cơ_quan khai_thác dữ_liệu , nội_dung đã chia_sẻ dữ_liệu cho cơ_quan khai_thác làm căn_cứ đối_chiếu , giải_quyết các vấn_đề về việc sử_dụng dữ_liệu sau khi khai_thác .
+
+2 . Nội_dung thông_tin lịch_sử lưu_trữ bao_gồm :
+
+a ) Thời_điểm , hình_thức yêu_cầu dữ_liệu , cung_cấp dữ_liệu ;
+
+b ) Định_danh cơ_quan yêu_cầu khai_thác dữ_liệu ;
+
+c ) Nội_dung yêu_cầu ;
+
+d ) Trạng_thái đáp_ứng yêu_cầu ; nội_dung dữ_liệu đã chia_sẻ ( nếu cần_thiết ) ;
+
+đ ) Các thông_tin cần_thiết khác làm cơ_sở đối_chiếu giải_quyết các vướng_mắc khi sử_dụng dữ_liệu .
+
+3 . Thời_gian lưu_trữ nhật_kí thực_hiện theo quy_định tại quy_chế khai_thác , sử_dụng dữ_liệu .
+
+Điều 46 . Mô_hình kết_nối , chia_sẻ dữ_liệu
+
+Kết_nối , chia_sẻ dữ_liệu giữa các hệ_thống thông_tin , cơ_sở dữ_liệu thực_hiện theo một trong các mô_hình với thứ tự ưu_tiên sau :
+
+1 . Kết_nối qua các hệ_thống trung_gian : nền_tảng tích_hợp , chia_sẻ dữ_liệu quốc_gia ; hạ_tầng kết_nối , chia_sẻ dữ_liệu cấp_bộ , cấp tỉnh theo Khung kiến_trúc chính_phủ điện_tử Việt_nam , kiến_trúc chính_phủ điện_tử , chính_quyền điện_tử đã được các cấp có thẩm_quyền phê_duyệt .
+
+2 . Kết_nối trực_tiếp giữa các hệ_thống thông_tin , cơ_sở dữ_liệu khi các hệ_thống trung_gian chưa sẵn_sàng hoặc cơ_quan chủ_quản các hệ_thống trung_gian xác_định hệ_thống trung_gian không đáp_ứng được yêu_cầu về kết_nối , chia_sẻ dữ_liệu .
+
+Mục 5 . Giải_quyết Vướng_mắc Kết_nối , Chia_sẻ Dữ_liệu
+
+Điều 47 . Vướng_mắc khi kết_nối , chia_sẻ và khai_thác dữ_liệu
+
+Vướng_mắc về quản_lý , kết_nối , chia_sẻ dữ_liệu bao_gồm :
+
+1 . Vướng_mắc về quyền và nghĩa_vụ chia_sẻ , khai_thác dữ_liệu theo quy_định pháp_luật .
+
+2 . Vướng_mắc về hạ_tầng kĩ_thuật triển_khai kết_nối , chia_sẻ .
+
+3 . Vướng_mắc về việc áp_dụng , tuân_thủ_tiêu_chuẩn , quy_chuẩn , quy_định về dữ_liệu .
+
+4 . Vướng_mắc về chất_lượng dữ_liệu chia_sẻ , sử_dụng dữ_liệu sau khi chia_sẻ .
+
+5 . Vướng_mắc về phương_án kết_nối , chia_sẻ dữ_liệu .
+
+6 . Các vấn_đề khác ảnh_hưởng đến quản_lý , kết_nối và chia_sẻ dữ_liệu .
+
+Điều 48 . Thẩm_quyền tiếp_nhận , giải_quyết vướng_mắc
+
+1 . Cơ_quan cung_cấp dữ_liệu có trách_nhiệm tiếp_nhận , giải_quyết các vướng_mắc phát_sinh khi kết_nối , sử_dụng dữ_liệu do mình cung_cấp .
+
+2 . Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương có trách_nhiệm xử_lí các vướng_mắc liên_quan đến chia_sẻ dữ_liệu trong nội_bộ của bộ , ngành , địa_phương .
+
+3 . Bộ Thông_tin và Truyền_thông tiếp_nhận , giải_quyết các vướng_mắc liên_quan đến kĩ_thuật , công_nghệ , việc áp_dụng các quy_định , tiêu_chuẩn , quy_chuẩn kĩ_thuật .
+
+4 . Thủ_tướng Chính_phủ chỉ_đạo giải_quyết những vướng_mắc về kết_nối , chia_sẻ dữ_liệu giữa các bộ , ngành , địa_phương .
+
+Điều 49 . Trình_tự xử_lí vướng_mắc
+
+Trừ trường_hợp việc xử_lí vướng_mắc đã được quy_định đặc_thù trong các văn_bản của cấp có thẩm_quyền , trình_tự xử_lí vướng_mắc thực_hiện như sau :
+
+1 . Cơ_quan khai_thác dữ_liệu có vướng_mắc trong kết_nối , chia_sẻ dữ_liệu gửi yêu_cầu cho cơ_quan cung_cấp dữ_liệu để hướng_dẫn , giải_quyết các vướng_mắc . Trong thời_hạn 07 ngày làm_việc kể từ khi tiếp_nhận yêu_cầu giải_quyết , cơ_quan cung_cấp dữ_liệu phải giải_đáp , hướng_dẫn xử_lí các vướng_mắc cho cơ_quan khai_thác dữ_liệu .
+
+2 . Trường_hợp vướng_mắc không giải_quyết được theo khoản 1 Điều này , cơ_quan gặp vướng_mắc gửi thông_tin cho đơn_vị chuyên_trách công_nghệ thông_tin của bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , các tỉnh_thành_phố trực_thuộc trung_ương xem_xét , hướng_dẫn_giải_quyết .
+
+Trong thời_hạn 07 ngày làm_việc kể từ thời_điểm tiếp_nhận yêu_cầu giải_quyết , đơn_vị chuyên_trách về công_nghệ thông_tin phải hướng_dẫn các cơ_quan liên_quan thực_hiện phương_án giải_quyết vướng_mắc nếu thuộc thẩm_quyền giải_quyết của mình hoặc phối_hợp với các cơ_quan liên_quan tham_mưu đề_xuất phương_án , báo_cáo Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , cơ_quan trực_thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương Quyết_định .
+
+3 . Trường_hợp vướng_mắc về kết_nối , chia_sẻ dữ_liệu giữa các bộ , ngành , địa_phương hoặc vướng_mắc không giải_quyết được theo khoản 2 Điều này , căn_cứ vào vướng_mắc , Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , cơ_quan trực_thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương có văn_bản đề_nghị Bộ Thông_tin và Truyền_thông xử_lí hoặc báo_cáo Thủ_tướng Chính_phủ giải_quyết .
+
+Điều 50 . Phương_án giải_quyết và triển_khai tuân_thủ phương_án xử_lí vướng_mắc
+
+1 . Nguyên_tắc giải_quyết vướng_mắc :
+
+a ) Bảo_đảm tuân_thủ các quy_định của pháp_luật có liên_quan ;
+
+b ) Tôn_trọng nội_dung thống_nhất chia_sẻ dữ_liệu của các cơ_quan tham_gia đã kí ( nếu có ) ;
+
+c ) Bảo_đảm hài_hoà lợi_ích của các cơ_quan nhà_nước , vì mục_đích chung , tôn_trọng phương_án tự giải_quyết của các cơ_quan có liên_quan .
+
+2 . Cơ_quan liên_quan có trách_nhiệm tuân_thủ phương_án giải_quyết vướng_mắc được cơ_quan có thẩm_quyền ban_hành .
+
+3 . Cơ_quan có thẩm_quyền giải_quyết vướng_mắc có trách_nhiệm kiểm_tra đảm_bảo sự tuân_thủ phương_án xử_lí vướng_mắc .
+
+Chương_iv
+
+Quyền , Trách_nhiệm Trong Kết_nối , Chia_sẻ Dữ_liệu
+
+Điều 51 . Quyền và trách_nhiệm của cơ_quan cung_cấp dữ_liệu
+
+1 . Cơ_quan cung_cấp dữ_liệu có quyền sau :
+
+a ) Từ_chối đề_nghị chia_sẻ dữ_liệu nếu đề_nghị cung_cấp dữ_liệu không phù_hợp với quy_định tại Nghị_định này và các quy_định của pháp_luật liên_quan . Trong trường_hợp này , cơ_quan cung_cấp dữ_liệu phải nêu rõ lí_do từ_chối và thông_báo cho cơ_quan có thẩm_quyền tiếp_nhận , giải_quyết vướng_mắc quy_định tại Điều 48 của Nghị_định này ;
+
+b ) Yêu_cầu cơ_quan , đơn_vị sử_dụng dữ_liệu thông_báo tình_hình sử_dụng dữ_liệu đã chia_sẻ trong trường_hợp có dấu_hiệu việc sử_dụng dữ_liệu không phù_hợp với quy_chế khai_thác , sử_dụng dữ_liệu , quy_định của pháp_luật ;
+
+c ) Tạm dừng hoặc chấm_dứt kết_nối , chia_sẻ dữ_liệu theo quy_định tại Điều 43 và 44 của Nghị_định này .
+
+2 . Cơ_quan cung_cấp dữ_liệu có trách_nhiệm sau :
+
+a ) Hoàn_thiện cơ_sở hạ_tầng thông_tin để sẵn_sàng kết_nối , chia_sẻ dữ_liệu ;
+
+b ) Xây_dựng và hoàn_thiện các tài_liệu hướng_dẫn chia_sẻ dữ_liệu ;
+
+c ) Quản_lý , công_bố dữ_liệu theo quy_định của pháp_luật ; bảo_đảm việc quản_lí dữ_liệu của cơ_quan phù_hợp với thực_tiễn quản_lí dữ_liệu ;
+
+d ) Bảo_đảm chất_lượng dữ_liệu được cung_cấp ; cập_nhật dữ_liệu kịp_thời ; đính_chính , hiệu_chỉnh khi có sai_lệch dữ_liệu ;
+
+đ ) Rà_soát , đánh_giá cơ_sở hạ_tầng thông_tin , hạn_chế các rào_cản về điều_kiện cơ_sở hạ_tầng thông_tin phục_vụ cung_cấp , chia_sẻ dữ_liệu ; đánh_giá các vướng_mắc và đề_xuất giải_pháp tháo_gỡ trong việc chia_sẻ dữ_liệu ; báo_cáo cấp có thẩm_quyền và cơ_quan quản_lí nhà_nước về chia_sẻ dữ_liệu ;
+
+e ) Báo_cáo cơ_quan có thẩm_quyền tình_hình cung_cấp và trao_đổi dữ_liệu khi có yêu_cầu ;
+
+g ) Phối_hợp với cơ_quan khai_thác dữ_liệu và cơ_quan có thẩm_quyền giải_quyết vướng_mắc để giải_quyết các vướng_mắc , tranh_chấp trong quá_trình chia_sẻ , sử_dụng dữ_liệu ;
+
+h ) Chia_sẻ dữ_liệu đang quản_lí về cá_nhân , tổ_chức cho cơ_quan nhà_nước khác có nhu_cầu khi cá_nhân , tổ_chức đó đề_nghị .
+
+Điều 52 . Quyền và trách_nhiệm của tổ_chức , cá_nhân khai_thác , sử_dụng dữ_liệu
+
+1 . Tổ_chức , cá_nhân khai_thác , sử_dụng dữ_liệu có quyền sau :
+
+a ) Khai_thác , sử_dụng dữ_liệu theo mục_đích phù_hợp ;
+
+b ) Đề_nghị cơ_quan có thẩm_quyền giải_quyết các vướng_mắc làm ảnh_hưởng đến quyền khai_thác , sử_dụng dữ_liệu chia_sẻ của mình .
+
+2 . Tổ_chức , cá_nhân khai_thác , sử_dụng dữ_liệu có trách_nhiệm sau :
+
+a ) Tuân_thủ các quy_định của Nghị_định này và các quy_định của cấp có thẩm_quyền về kết_nối , chia_sẻ dữ_liệu ;
+
+b ) Khai_thác và sử_dụng dữ_liệu đúng phạm_vi cho phép theo quy_chế khai_thác , sử_dụng dữ_liệu , nội_dung thống_nhất chia_sẻ dữ_liệu và các văn_bản có liên_quan ;
+
+c ) Thông_báo kịp_thời cho cơ_quan cung_cấp dữ_liệu về những sai_sót của dữ_liệu đã chia_sẻ ;
+
+d ) Phối_hợp với cơ_quan có thẩm_quyền , cơ_quan cung_cấp dữ_liệu để giải_quyết các vướng_mắc trong quá_trình chia_sẻ , sử_dụng dữ_liệu .
+
+Điều 53 . Trách_nhiệm của các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ
+
+1 . Bộ Thông_tin và Truyền_thông
+
+a ) Xây_dựng và trình cấp có thẩm_quyền ban_hành chiến_lược dữ_liệu quốc_gia ; hướng_dẫn thực_hiện các hoạt_động quản_trị dữ_liệu , quản_trị chia_sẻ , khai_thác dữ_liệu trong cơ_quan nhà_nước ; giám_sát việc thực_hiện các hoạt_động quản_trị dữ_liệu , quản_trị chia_sẻ , khai_thác dữ_liệu của cơ_sở dữ_liệu quốc_gia được quy_định tại Điều 14 của Nghị_định này ;
+
+b ) Xây_dựng và vận_hành Cổng dữ_liệu quốc_gia ;
+
+c ) Thu_thập và công_bố danh_sách các cơ_quan cung_cấp dữ_liệu , danh_mục dữ_liệu được cung_cấp làm cơ_sở để các cơ_quan nhà_nước khai_thác , sử_dụng . Thu_thập , quản_lí dữ_liệu danh_mục dùng chung trong phạm_vi cả nước cung_cấp cho các cơ_quan có nhu_cầu ;
+
+d ) Thu_thập , đánh_giá các kết_nối theo hình_thức chia_sẻ dữ_liệu theo yêu_cầu đặc_thù để yêu_cầu các cơ_quan cung_cấp dữ_liệu chuyển thành chia_sẻ dữ_liệu theo hình_thức mặc_định ;
+
+đ ) Triển_khai các giải_pháp , sáng_kiến , tiện_ích hỗ_trợ chia_sẻ dữ_liệu , hỗ_trợ các đối_tượng tham_gia thủ_tục hành_chính công trực_tuyến trên cơ_sở kết_nối , chia_sẻ dữ_liệu .
+
+2 . Bộ Kế_hoạch và Đầu_tư
+
+Bố_trí kinh_phí đầu_tư phát_triển cho việc xây_dựng , nâng_cấp hệ_thống thông_tin đáp_ứng yêu_cầu quản_lý , kết_nối , chia_sẻ dữ_liệu theo các quy_định tại Nghị_định này và quy_định của pháp_luật có liên_quan .
+
+3 . Bộ Tài_chính
+
+a ) Hướng_dẫn các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các cấp và các tổ_chức , cá_nhân có liên_quan cân_đối , bố_trí kinh_phí để thực_hiện đầu_tư cơ_sở hạ_tầng , hệ_thống thông_tin phục_vụ kết_nối chia_sẻ dữ_liệu ;
+
+b ) Bố_trí kinh_phí thường_xuyên thực_hiện nhiệm_vụ quản_lý , kết_nối , chia_sẻ dữ_liệu theo quy_định của Luật Ngân_sách nhà_nước và các văn_bản hướng_dẫn .
+
+4 . Bộ Công_an
+
+Hướng_dẫn , thực_hiện các biện_pháp_bảo_đảm an_ninh mạng trong quá_trình kết_nối , chia_sẻ dữ_liệu số .
+
+5 . Các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ
+
+a ) Thực_hiện và chỉ_đạo các đơn_vị chuyên_trách về công_nghệ thông_tin thực_hiện các nhiệm_vụ được giao tại Nghị_định này . Tổ_chức triển_khai , thực_hiện các nhiệm_vụ với vai_trò là cơ_quan cung_cấp dữ_liệu đối_với dữ_liệu do mình quản_lí theo quy_định tại Nghị_định này ;
+
+b ) Xây_dựng các quy_chuẩn hoặc quy_định kĩ_thuật về cấu_trúc dữ_liệu trao_đổi , các quy_chế , quy_trình chia_sẻ dữ_liệu trong phạm_vi dữ_liệu chuyên_ngành thuộc thẩm_quyền quản_lý ; ban_hành quy_chế khai_thác , sử_dụng dữ_liệu của cơ_sở dữ_liệu quốc_gia được giao làm_chủ_quản , cơ_sở dữ_liệu của các bộ , ngành thuộc phạm_vi quản_lí của mình ;
+
+c ) Bố_trí kinh_phí cho các hoạt_động kết_nối , chia_sẻ dữ_liệu ;
+
+d ) Căn_cứ tình_hình thực_tế , điều_chỉnh , đề_xuất điều_chỉnh các văn_bản quy_phạm_pháp_luật để đơn_giản_hoá các thủ_tục hành_chính , nghiệp_vụ hành_chính chuyên_ngành trên cơ_sở khai_thác dữ_liệu được chia_sẻ .
+
+Điều 54 . Trách_nhiệm của Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc trung_ương
+
+1 . Thực_hiện và chỉ_đạo các đơn_vị chuyên_trách về công_nghệ thông_tin thực_hiện các nhiệm_vụ được giao tại Nghị_định này . Tổ_chức triển_khai , thực_hiện các nhiệm_vụ với vai_trò của cơ_quan cung_cấp dữ_liệu đối_với dữ_liệu do mình quản_lí theo quy_định tại Nghị_định này .
+
+2 . Ban_hành quy_chế khai_thác , sử_dụng dữ_liệu của cơ_sở dữ_liệu của địa_phương thuộc phạm_vi quản_lí của mình .
+
+3 . Trình Hội_đồng nhân_dân cấp tỉnh bố_trí kinh_phí để thực_hiện nhiệm_vụ quản_lý , kết_nối , chia_sẻ dữ_liệu theo quy_định của Luật Ngân_sách nhà_nước và các văn_bản hướng_dẫn liên_quan .
+
+4 . Chỉ_đạo các cơ_quan , đơn_vị trực_thuộc xây_dựng phương_án kết_nối và sử_dụng dữ_liệu ; tổ_chức hệ_thống thông_tin tương_thích để sẵn_sàng kết_nối , chia_sẻ dữ_liệu với cơ_sở dữ_liệu quốc_gia ; cơ_sở dữ_liệu của bộ , ngành và các hệ_thống thông_tin phục_vụ hoạt_động của cơ_quan nhà_nước .
+
+Chương V
+
+Điều_khoản Thi_hành
+
+Điều 55 . Điều_khoản chuyển_tiếp
+
+1 . Chủ_quản cơ_sở dữ_liệu quốc_gia đã được các cấp có thẩm_quyền phê_duyệt có trách_nhiệm rà_soát và thực_hiện gửi các thông_tin theo quy_định tại khoản 2 Điều 12 của Nghị_định này trong thời_hạn 03 tháng kể từ ngày Nghị_định này có hiệu_lực về Bộ Thông_tin và Truyền_thông để Bộ Thông_tin và Truyền_thông xây_dựng danh_mục các cơ_sở dữ_liệu quốc_gia trình Chính_phủ_phê_duyệt .
+
+2 . Đối_với cơ_sở dữ_liệu của bộ , ngành , địa_phương được quy_định tại Điều 11 của Nghị_định này , Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc trung_ương có trách_nhiệm tổ_chức rà_soát và ban_hành danh_mục cơ_sở dữ_liệu của bộ , ngành , địa_phương mình trong thời_hạn 06 tháng kể từ ngày Nghị_định này có hiệu_lực và cập_nhật khi có sự thay_đổi .
+
+3 . Đối_với các kết_nối , chia_sẻ dữ_liệu đang hoạt_động trước thời_điểm Nghị_định này có hiệu_lực thì tiếp_tục duy_trì việc chia_sẻ dữ_liệu . Cơ_quan chủ_quản các hệ_thống thông_tin , cơ_sở dữ_liệu có trách_nhiệm rà_soát và thực_hiện nội_dung bảo_đảm tuân_thủ Nghị_định này khi thực_hiện các hạng_mục nâng_cấp , mở_rộng ( nếu có ) .
+
+4 . Bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc trung_ương trong phạm_vi của mình có trách_nhiệm rà_soát các văn_bản , quy_định làm hạn_chế việc kết_nối , chia_sẻ dữ_liệu để sửa_đổi , đề_xuất cấp có thẩm_quyền sửa_đổi , thay_thế hoặc bãi_bỏ phù_hợp với các quy_định tại Nghị_định này .
+
+Điều 56 . Hiệu_lực thi_hành
+
+Nghị_định này có hiệu_lực thi_hành từ ngày 25 tháng 5 năm 2020 . Trong trường_hợp các văn_bản quy_phạm_pháp_luật và các quy_định được viện_dẫn trong Nghị_định này được sửa_đổi , bổ_sung hoặc thay_thế_thì áp_dụng theo văn_bản quy_phạm_pháp_luật mới .
+
+Điều 57 . Trách_nhiệm thi_hành
+
+1 . Bộ Thông_tin và Truyền_thông chịu trách_nhiệm hướng_dẫn , kiểm_tra , đôn_đốc việc thi_hành Nghị_định này .
+
+2 . Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc trung_ương và các cơ_quan , tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Nghị_định này .
+
+3 . Cơ_quan các cấp của Đảng , Quốc_hội , Văn_phòng Chủ_tịch nước , Hội_đồng nhân_dân , Viện kiểm_sát_nhân_dân , Toà_án nhân_dân và các tổ_chức chính_trị - xã_hội khác căn_cứ Nghị_định này để có quy_định phù_hợp thực_hiện trong cơ_quan , tổ_chức của mình . / .

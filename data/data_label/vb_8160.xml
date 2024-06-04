@@ -1,0 +1,1425 @@
+Thông_tư số 29/2017/tt-btttt ngày 07 tháng 11 năm 2017 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Tần_số vô_tuyến_điện ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị trạm mặt_đất di_động hoạt_động trong băng tần Ku .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị trạm mặt_đất di_động hoạt_động trong băng tần Ku ( qcvn 116 : 2017 / bt ) .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2018 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 116 : 2017 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Thiết_bị Trạm Mặt_đất_di_động Hoạt_động Trong Băng Tần_ku
+
+National technical regulation on Mobile satellite Earth_station ( mes ) operating in the Ku_band
+
+Lời_nói_đầu
+
+Qcvn 116 : 2017 / bt được xây_dựng trên cơ_sở tiêu_chuẩn Etsi En 301 427 V2 . 1 . 1 ( 2016 - 06 ) của Viện Tiêu_chuẩn viễn_thông châu Âu .
+
+Qcvn 116 : 2017 / bt do Viện Khoa_học Kỹ_thuật Bưu_điện biên_soạn , Vụ Khoa_học và Công_nghệ thẩm_định và trình_duyệt , Bộ Thông_tin và Truyền_thông ban_hành kèm theo <TT rel="DC"> Thông_tư số 29/2017/TT-BTTTT ngày 07 tháng 11 năm 2017 </TT> .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Thiết_bị Trạm Mặt_đất_di_động Hoạt_động Trong Băng Tần_ku
+
+National technical regulation on Mobile satellite Earth_station ( mes ) operating in the Ku_band
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn này quy_định các yêu_cầu về phổ tần vô_tuyến_điện đối_với thiết_bị trạm mặt_đất di_động ( đài trái_đất lưu_động ) ( mes ) , ngoại_trừ các đài trái_đất lưu_động hàng_không , hoạt_động trong băng tần Ku .
+
+- Quy_chuẩn này áp_dụng cho Mes hoạt_động trong các dải_tần_số của các nghiệp_vụ cố_định qua vệ_tinh ( fss ) :
+
+10 , 70 GHz đến 11 , 70 GHz ( chiều từ vũ_trụ đến trái_đất ) ;
+
+12 , 50 GHz đến 12 , 75 GHz ( chiều từ vũ_trụ đến trái_đất ) ;
+
+14 , 00 GHz đến 14 , 25 GHz ( chiều từ trái_đất đến vũ_trụ ) .
+
+- Mes có_thể là :
+
++ Đài trái_đất lưu_động mặt_đất ( lmes ) , và / hoặc
+
++ Đài trái_đất lưu_động hàng_hải ( mes ) không cung_cấp các chức_năng an_toàn và cứu nạn theo yêu_cầu của Tổ_chức Hàng_hải Quốc_tế ( imo ) .
+
+- Lmes có_thể được gắn trên xe hoặc thiết_bị cầm tay .
+
+- Mmes là thiết_bị cài_đặt trên tàu .
+
+- Mes có_thể bao_gồm một_số mô đun có bàn_phím cho người dùng .
+
+- Mes sử_dụng phân_cực tuyến_tính .
+
+- Mes hoạt_động thông_qua vệ_tinh địa_tĩnh dãn cách 3 hoạt_động ở băng tần như nhau và các khu_vực như nhau .
+
+- Ăng ten của Mes có_thể là đẳng_hướng hoặc định_hướng .
+
+- Mes đang hoạt_động như một phần của một mạng_lưới vệ_tinh được sử_dụng cho việc phân_phối và / hoặc trao_đổi thông_tin giữa người sử_dụng .
+
+- Mes được điều_khiển và giám_sát bởi tính_năng điều_khiển mạng ( ncf ) .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn kĩ_thuật này áp_dụng đối_với các cơ_quan , tổ_chức , cá_nhân Việt_nam và nước_ngoài có hoạt_động_sản_xuất , kinh_doanh và khai_thác các thiết_bị thuộc phạm_vi điều_chỉnh của Quy_chuẩn này trên lãnh_thổ Việt_nam .
+
+1 . 3 . Tài_liệu viện_dẫn
+
+Cispr 16-1: " Specification for radio disturbance and immunity measuring apparatus and methods ; Part 1 : Radio disturbance and immunity measuring apparatus " .
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 4 . 1 . Trạng_thái không có sóng mang ( carrier - off state )
+
+Mes ở trạng_thái này khi Mes được Ncf cho phép phát nhưng không phát tín_hiệu hoặc không được Ncf cho phép phát .
+
+1 . 4 . 2 . Trạng_thái có sóng mang ( carrier - on state )
+
+Mes trong trạng_thái này khi Mes được Ncf cho phép phát và phát đi một tín_hiệu .
+
+1 . 4 . 3 . Kênh điều_khiển ( Control_channel ( cc ) )
+
+Một hoặc nhiều kênh mà qua đó Mes nhận được tín_hiệu điều_khiển từ Ncf .
+
+1 . 4 . 4 . Thiết_bị gắn bên ngoài ( Externally Mounted_equipment ( eme ) )
+
+Eme bao_gồm những mô đun của thiết_bị cài_đặt ( ie ) dự_định gắn bên ngoài xe như nhà sản_xuất công_bố .
+
+1 . 4 . 5 . Thiết_bị cài_đặt ( Instalable_equipment ( ie ) )
+
+Thiết_bị được dùng để trang_bị cho xe .
+
+Chú_thích : Ie có_thể bao_gồm một hoặc nhiều mô đun kết_nối với nhau .
+
+1 . 4 . 6 . Thiết_bị gắn bên trong ( Internally Mounted_equipment ( ime ) )
+
+Những mô đun của Ie không được nhà sản_xuất khai_báo như Eme được định_nghĩa_là Ime
+
+1 . 4 . 7 . Đài trái_đất lưu_động ( Mobile Earth station ( mes ) )
+
+Một đài trái_đất thuộc nghiệp_vụ Lưu_động qua vệ_tinh được sử_dụng trong khi chuyển_động hay dừng lại ở những điểm không xác_định trước .
+
+1 . 4 . 8 . Băng_thông danh định ( nominated bandwidth )
+
+Băng_thông phát của tần_số vô_tuyến Mes được xác_định bởi nhà sản_xuất . Băng_thông danh định đủ lớn để chứa toàn_bộ các thành_phần phổ tần phát có mức lớn hơn các giới_hạn phát_xạ không mong_muốn quy_định và tính đến độ ổn_định của tần_số sóng mang phát .
+
+1 . 4 . 9 . Thiết_bị xách tay ( Portable_equipment ( pe ) )
+
+Một thiết_bị hoàn_chỉnh , để bàn hoặc xách tay . Một Pe nói_chung gồm một khối đơn hoặc một_vài khối kết_nối với nhau .
+
+1 . 4 . 10 . Phát_xạ không mong_muốn ( unwanted emissions )
+
+Phát_xạ nằm ngoài băng_thông danh định .
+
+1 . 4 . 11 . Mặt_phẳng E ( E - plane )
+
+Đối_với một ăng ten phân_cực thẳng , đây là mặt_phẳng có chứa các vectơ điện_trường và hướng của bức_xạ tối_đa . Điện_trường hoặc mặt_phẳng E xác_định sự phân_cực hoặc hướng của sóng vô_tuyến . Đối_với một ăng ten phân_cực dọc , mặt_phẳng E thường trùng với các mặt_phẳng thẳng_đứng . Đối_với một ăng ten phân_cực ngang , mặt_phẳng E thường trùng với mặt_phẳng nằm ngang .
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Điều_kiện môi_trường
+
+Các yêu_cầu kĩ_thuật của quy_chuẩn này áp_dụng trong điều_kiện môi_trường hoạt_động của thiết_bị do nhà sản_xuất công_bố / khai_báo . Thiết_bị này phải tuân_thủ mọi yêu_cầu kĩ_thuật của quy_chuẩn này khi hoạt_động trong giới_hạn biên của điều_kiện hoạt_động môi_trường được khai_báo .
+
+Điều_kiện môi_trường hoạt_động của thiết_bị phải bao_gồm các phạm_vi độ_ẩm , nhiệt_độ và nguồn cung_cấp .
+
+2 . 2 . Các yêu_cầu kĩ_thuật
+
+2 . 2 . 1 . Phát_xạ không mong_muốn ngoài băng
+
+2 . 2 . 1 . 1 . Mục_đích
+
+Bảo_vệ các dịch_vụ mặt_đất và vệ_tinh khỏi phát_xạ do Mes ngoài băng tần từ 14 , 00 GHz đến 14 , 25 GHz .
+
+2 . 2 . 1 . 2 . Yêu_cầu
+
+Phát_xạ không mong_muốn trong băng_thông đo và trong tất_cả các hướng từ Mes ngoài băng tần từ 14 , 00 GHz đến 14 , 25 GHz phải dưới mức giới_hạn sau đây :
+
+1 . Phát_xạ không mong_muốn trong dải_tần từ 30 MHz đến 1 000 MHz không được vượt quá các giới_hạn trong Bảng 1a đối_với Lmes và Bảng 1b đối_với Mmes .
+
+Bảng 1a - Giới_hạn phát_xạ không mong_muốn đối_với Lmes tại các tần_số từ 30 MHz đến 1000 MHz tại khoảng_cách đo 10 m với băng_thông 120 kHz
+
+Bảng 1b - Giới_hạn phát_xạ không mong_muốn đối_với Mmes tại các tần_số từ 30 MHz đến 1 000 MHz tại khoảng_cách đo 10 m với băng_thông 120 kHz
+
+Các tần_số chuyển_tiếp được áp_dụng mức giới_hạn thấp hơn .
+
+2 . Công_suất bức_xạ đẳng_hướng tương_đương ( eirp ) của phát_xạ không mong_muốn đối_với các tần_số trên 1 000 MHz trong băng_thông đo và trong tất_cả các hướng không được vượt quá các giới_hạn quy_định trong Bảng 2 .
+
+Bảng 2 - Giới_hạn phát_xạ không mong_muốn tại các tần_số trên 1 000 MHz và ngoài băng tần từ 14 , 00 GHz đến 14 , 25 GHz
+
+Các tần_số chuyển_tiếp được áp_dụng mức giới_hạn thấp hơn .
+
+2 . 2 . 1 . 3 . Đo_kiểm
+
+Theo điều 3 . 1 .
+
+2 . 2 . 2 . Phát_xạ không mong_muốn trong băng
+
+2 . 2 . 2 . 1 . Mục_đích
+
+Bảo_vệ các dịch_vụ chủ_yếu hoạt_động trong băng tần từ 14 , 00 GHz đến 14 , 25 GHz .
+
+2 . 2 . 2 . 2 . Yêu_cầu
+
+Yêu_cầu 1 : Trạng_thái có sóng mang
+
+Mật_độ phổ Eirp của phát_xạ không mong_muốn sẽ nhỏ hơn hoặc bằng 4 - 10 log N dBW / 100 kHz trong băng tần từ 14 , 00 GHz đến 14 , 25 GHz và ngoài băng_thông danh định .
+
+Với N là số_lượng Mes lớn nhất phát đồng_thời trong cùng một tần_số . Số Mes phát đồng_thời không được vượt quá 0 , 01 % thời_gian . Giá_trị N và các điều_kiện hoạt_động của hệ_thống do nhà sản_xuất khai_báo .
+
+Yêu_cầu 2 : Trạng_thái không có sóng mang
+
+Mật_độ phổ Eirp phát_xạ bất_kì trong băng tần từ 14 , 00 GHz đến 14 , 25 GHz nhỏ hơn hoặc bằng - 21 dBW / 100 kHz .
+
+2 . 2 . 2 . 3 . Đo_kiểm
+
+Theo điều 3 . 2 .
+
+2 . 2 . 3 . Mật_độ phát_xạ Eirp lệch trục trong băng_thông danh định
+
+2 . 2 . 3 . 1 . Mục_đích
+
+Bảo_vệ các hệ_thống vệ_tinh khác sử_dụng băng tần tương_tự .
+
+2 . 2 . 3 . 2 . Yêu_cầu
+
+Cho ăng ten định_hướng có Eirp lớn nhất trong khoảng 40 kHz bất_kì từ bất_kì Mes phân_cực theo hướng độ từ trục búp chính của ăng ten không được vượt quá các giới_hạn trong quỹ_đạo vệ_tinh địa_tĩnh giãn cách 3 :
+
+Trong đó là góc giữa trục búp chính và hướng xem_xét ( đơn_vị tính là độ ) . Giá_trị của hoặc là :
+
+a ) Giá_trị hiệu_dụng của ăng ten , hoặc
+
+b ) Hai lần giá_trị hiệu_dụng của ăng ten , tuỳ_thuộc giá_trị nào lớn hơn .
+
+K là tỉ_số mật_độ công_suất giữa hệ_thống đủ tải và Mes đo trong băng_thông 40 kHz .
+
+Giá_trị của K với tất_cả các đặc_tính kĩ_thuật và các điều_kiện hoạt_động mà nhà sản_xuất khai_báo sẽ được ghi trong báo_cáo kết_quả đo kiểm .
+
+Các giới_hạn này áp_dụng trên phạm_vi vĩ_độ và quỹ_đạo địa_tĩnh mà nhà sản_xuất khai_báo .
+
+Đối_với các ăng ten không định_hướng , Eirp tối_đa trên 40 kHz theo bất_kì hướng nào không được vượt quá :
+
+- 6 - 10 log ( k ) dBW / 40 kHz ;
+
+Trong đó : K được định_nghĩa như trên .
+
+2 . 2 . 3 . 3 . Đo_kiểm
+
+Theo điều 3 . 3 .
+
+2 . 2 . 4 . Chức_năng điều_khiển và giám_sát ( cmf )
+
+Các chức_năng điều_khiển và giám_sát tối_thiểu sau phải được sử_dụng cho Mes để giảm_thiểu khả_năng Mes có_thể_hình_thành phát không mong_muốn và gây nhiễu có hại cho các hệ_thống khác .
+
+Mes bị giới_hạn và phải áp_dụng trạng_thái không sóng mang khi truyền trạng_thái lỗi bất_kỳ .
+
+2 . 2 . 4 . 1 . Giám_sát bộ xử_lí
+
+1 . Mục_đích
+
+Để đảm_bảo rằng Mes có_thể cấm phát trong trường_hợp phân hệ xử_lí hỏng .
+
+2 . Yêu_cầu
+
+Mes phải kết_hợp chức_năng giám_sát bộ xử_lí với mỗi bộ xử_lí của nó liên_quan tới điều_hành về lưu_lượng và các chức_năng điều_khiển giám_sát .
+
+Chức_năng giám_sát bộ xử_lí phải phát_hiện lỗi phần_cứng và phần_mềm của bộ xử_lý .
+
+Trong khoảng 1 giây sau khi xảy ra lỗi , Mes chuyển sang trạng_thái không có sóng mang cho đến khi chức_năng giám_sát bộ xử_lí xác_định toàn_bộ lỗi đã được sửa .
+
+3 . Đo_kiểm Theo điều 3 . 4 .
+
+2 . 2 . 4 . 2 . Giám_sát phân hệ_phát
+
+1 . Mục_đích
+
+Để đảm_bảo hoạt_động chính_xác của phân hệ tần_số phát và hạn_chế việc phát nếu phân hệ hỏng .
+
+2 . Yêu_cầu
+
+Mes sẽ giám_sát hoạt_động của các phân hệ tần_số phát của nó .
+
+Không quá 5 giây sau khi xảy ra lỗi tại phân hệ tần_số phát , Mes chuyển sang trạng_thái không có sóng mang cho đến khi chức_năng giám_sát phân hệ phát xác_định rằng tất_cả các lỗi xảy ra được giải_quyết .
+
+3 . Đo_kiểm
+
+Theo điều 3 . 4 .
+
+2 . 2 . 4 . 3 . Đóng nguồn
+
+1 . Mục_đích
+
+Để đảm_bảo cho Mes đạt được trạng thải không phát có điều_khiển sau khi đóng nguồn của thiết_bị , hoặc người điều_hành bộ_phận thực_hiện đóng nguồn khi có chức_năng này .
+
+2 . Yêu_cầu
+
+Khi thực_hiện chức_năng đóng nguồn , Mes được duy_trì ở trạng_thái không có sóng mang .
+
+3 . Đo_kiểm Theo điều 3 . 4 .
+
+2 . 2 . 4 . 4 . Thu kênh điều_khiển ( cc )
+
+1 . Mục_đích
+
+Để đảm_bảo Mes không_thể phát_trừ khi Mes thu chính_xác thông_báo kênh điều_khiển từ Ncf .
+
+2 . Yêu_cầu
+
+a ) Nếu không có tiếp_nhận chính_xác các thông_báo Cc từ Ncf , Mes sẽ được duy_trì ở trạng_thái không có sóng mang .
+
+b ) Mes phải chuyển sang trạng_thái không có sóng mang ngay lập_tức sau khoảng thời_gian không quá 30 giây mà không thu chính_xác thông_báo Cc từ Ncf .
+
+3 . Đo_kiểm
+
+Theo điều 3 . 4 .
+
+2 . 2 . 4 . 5 . Các Lệnh điều_khiển mạng
+
+1 . Mục_đích
+
+Các yêu_cầu này đảm_bảo rằng Mes có khả_năng :
+
+a ) Duy_trì nhận_dạng duy_nhất trong mạng và truyền nó khi tiếp_nhận một yêu_cầu phù_hợp ;
+
+b ) Thu các Lệnh từ Ncf thông_qua Cc và thực_hiện các Lệnh này .
+
+2 . Yêu_cầu
+
+Mes phải lưu_giữ mã nhận_dạng duy_nhất của nó trong mạng .
+
+Mes phải có khả_năng thu thông_qua Cc của nó có mục_đích thông_báo ( gửi đến Mes ) từ Ncf và có chứa :
+
+- Lệnh cho phép phát ;
+
+- Lệnh cấm phát ;
+
+- Yêu_cầu nhận_dạng .
+
+Khi nhận được Lệnh cho phép phát , Mes được cho phép phát .
+
+Sau khi bật nguồn , Mes sẽ được duy_trì trong trạng_thái không sóng mang cho đến khi nó nhận được Lệnh cho phép phát . Đối_với các hệ_thống không có Lệnh cho phép phát dự_kiến , sau khi bật nguồn Mes chỉ có_thể truyền các cụm khởi tạo ( xem 22 . 5 . 6 ) .
+
+Khi nhận được Lệnh cấm phát , trong vòng 1 giây Mes chuyển sang trạng_thái không có sóng mang cho tới khi Lệnh cấm phát được thay_thế bằng Lệnh cho phép phát tiếp_theo .
+
+Mes phải có khả_năng phát mã nhận_dạng của nó khi tiếp_nhận yêu_cầu nhận_dạng .
+
+3 . Đo_kiểm Theo điều 3 . 4 .
+
+2 . 2 . 4 . 6 . Phát cụm khởi tạo
+
+1 . Mục_đích
+
+Để hạn_chế nhiễu đến các dịch_vụ khác .
+
+2 . Yêu_cầu
+
+Đối_với các hệ_thống không có Lệnh cho phép phát dự_kiến , sau khi đóng nguồn Mes có_thể phát cụm khởi tạo :
+
+a ) Phát cụm khởi tạo không được vượt quá 1 % thời_gian ;
+
+b ) Mỗi cụm không phát quá một giây .
+
+3 . Đo_kiểm Theo điều 3 . 4 .
+
+2 . 2 . 5 . Giản đồ độ tăng ích lệch trục của ăng ten thu
+
+2 . 2 . 5 . 1 . Mục_đích
+
+Để bảo_vệ các tín_hiệu mong_muốn không bị can_thiệp từ các nghiệp_vụ mặt_đất và từ các nghiệp_vụ vệ_tinh khác .
+
+2 . 2 . 5 . 2 . Yêu_cầu
+
+Độ tăng ích ăng ten cực_đại của mỗi thành_phần đồng cực ở bất_kì phân_cực theo hướng độ từ trục búp chính của ăng ten không được vượt quá các giới_hạn sau :
+
+G = 32-25 log dBi với ( min < 480
+
+G = - 10 dBi với 480 85
+
+G = 0 dBi với 85 180
+
+Trong đó :
+
+min = 1 hoặc 100 / d độ , tuỳ_thuộc giá_trị nào lớn hơn , với D / 50 .
+
+min = 20 hoặc 114 ( d / ) - 1 , 09 độ tuỳ_thuộc giá_trị nào lớn hơn , với D / A < 50 .
+
+D là đường_kính danh định của ăngten .
+
+Độ tăng ích ăng ten cực_đại của mỗi thành_phần phân_cực ở bất_kì phân_cực theo hướng độ từ trục búp chính của ăng ten không được vượt quá các giới_hạn sau :
+
+Gx ( ) = 23-20 log dBi với r 70
+
+Trong đó :
+
+r = 1 hoặc 100 / d , tuỳ_thuộc giá_trị nào lớn hơn .
+
+2 . 2 . 5 . 3 . Đo_kiểm
+
+Theo điều 3 . 5 .
+
+2 . 2 . 6 . Hiệu_suất chặn
+
+2 . 2 . 6 . 1 . Mục_đích
+
+Để ngăn_chặn các tín_hiệu công_suất cao bên ngoài các băng tần thu được từ chặn việc tiếp_nhận các tín_hiệu trong dải_tần thu .
+
+2 . 2 . 6 2 . Yêu_cầu
+
+Chặn máy thu được mô_tả ở đây thông_qua việc nén độ tăng ích cho tín_hiệu bên trong dải_tần thu do tín_hiệu khác bên ngoài nhận được dải_tần ở công_suất cao . Các mức tín_hiệu khác được so_sánh với mức một tín_hiệu bên trong dải_tần_số thu mà sẽ gây ra nén độ tăng ích tương_tự .
+
+Chặn máy thu từ_chối một tần_số cụ_thể xác_định như là mức tín_hiệu thứ hai ở tần_số này gây ra nén độ tăng ích nhất_định đến tín_hiệu đầu_tiên trong dải_tần_số thu được trừ đi mức tín_hiệu thứ hai tại một tần_số trong dải_tần_số thu được tương_tự quá_trình nén độ tăng ích .
+
+Tín_hiệu đầu_tiên phải ở tần_số trung_tâm của dải_tần_số thu và trong phạm_vi hoạt_động . Tín_hiệu thứ hai phải nén độ tăng ích so với tín_hiệu đầu_tiên là 1 dB .
+
+Sự từ_chối thực_hiện theo Bảng 3 .
+
+Bảng 3 - Từ_chối chặn bộ thu
+
+2 . 2 . 6 . 3 . Đo_kiểm
+
+Theo điều 3 . 6 .
+
+2 . 2 . 7 . Chọn_lọc tín_hiệu liền kề
+
+2 . 2 . 7 . 1 . Yêu_cầu
+
+Cho phép thu tín_hiệu mong_muốn khi có tín_hiệu khác trên các tần_số lân_cận trong đó được truyền với mật_độ Eirp cao từ vị_trí quỹ_đạo vệ_tinh mục_tiêu .
+
+Chú_thích . Các mức năng_lượng của tín_hiệu được truyền từ các vị_trí quỹ_đạo được kiểm_soát bởi các nhá điều_hành vệ_tinh . Tín_hiệu truyền từ một vị_trí quỹ_đạo kế_cận mà không gần bảng_giản đồ độ tăng ích ăng - ten sẽ bị triệt
+
+2 . 2 . 7 . 2 . Yêu_cầu
+
+Chọn tín_hiệu liền kề là thước_đo khả_năng của máy thu để thu một tín_hiệu ở tần_số kênh được phân_công trong khi có sự hiện_diện của một tín_hiệu liền kề tại một tần_số lệch khỏi tần_số trung_tâm của kênh đã chuyển_nhượng . Các tín_hiệu lân_cận sẽ chiếm băng_thông tương_tự như tín_hiệu mong_muốn . Tần_số bù và mức công_suất tương_ứng tín_hiệu liền kề so với tín_hiệu mong_muốn phải lấy giá_trị được đưa ra trong Bảng 4 . Bw là tín_hiệu mong_muốn của băng_thông bị chiếm_đóng .
+
+Bảng 4 - Tần_số tín_hiệu liền kề và mức công_suất
+
+Sự giảm_sút trong tín_hiệu yêu_cầu tỉ_lệ với nhiễu của tín_hiệu lân_cận phải không quá 0 , 5 dB .
+
+2 . 2 . 7 . 3 . Đo_kiểm
+
+Theo điều 3 . 7 .
+
+3 . Phương_pháp_đo
+
+Các giá_trị về độ không đảm_bảo của phép đo gắn với mỗi tham_số của phép đo được áp_dụng cho mọi trường_hợp kiểm_tra trong quy_chuẩn này . Độ không đảm_bảo của phép đo không được vượt quá các giá_trị đưa ra trong Bảng 5 .
+
+Bảng 5 - Độ không đảm_bảo đo
+
+Để thực_hiện các phép đo chỉ_tiêu hoạt_động , cần sử_dụng thiết_bị đo chuyên_dụng ( ste ) do nhà sản_xuất cung_cấp . Do các thiết_bị đo chuyên_dụng này xác_định cụ_thể cho từng hệ_thống nên không_thể cung_cấp các yêu_cầu đo chi_tiết trong quy_chuẩn . Tuy_nhiên , những nguyên_tắc cơ_bản sau cần đảm_bảo :
+
+- Nếu Mes yêu_cầu thu một sóng mang được điều_chế từ vệ_tinh để phát , khi đó phải bố_trí đo riêng để mô_phỏng tín_hiệu của vệ_tinh , cho phép Mes_phát để đo được các tham_số phát .
+
+- Bất_kì đặc_điểm nào của cách bố_trí đo chuyên_dụng này có_thể ảnh_hưởng trực_tiếp hoặc gián_tiếp đến các tham_số_đo nhà sản_xuất phải chỉ rõ .
+
+Mọi phép đo với trường_hợp có sóng mang phải được thực_hiện khi máy phát có công_suất phát và tốc_độ cụm phát lớn nhất có_thể .
+
+Mọi đặc_tính kĩ_thuật và những điều_kiện hoạt_động do nhà sản_xuất khai_báo phải được đưa vào trong báo_cáo kết_quả thử_nghiệm .
+
+3 . 1 . Phát_xạ không mong_muốn ngoài băng
+
+3 . 1 . 1 . Yêu_cầu chung
+
+Để đo kiểm , thiết_bị được kiểm_tra ( eut ) bao_gồm :
+
+a ) Đối_với Ie :
+
+- Eme ;
+
+- Ime ;
+
+- Cáp kết_nối giữa các hệ_thống Ime và Eme ;
+
+- Các loại cáp nguồn cần_thiết và các loại cáp khác đảm_bảo cho thiết_bị đầu_cuối hoạt_động tốt .
+
+b ) Đối_với Pe :
+
+- Một mô đun Pe , mô đun này bao_gồm các chi_tiết để nó có cấu_hình hoạt_động bình_thường ;
+
+- Nhiều mô đun Pe , tất_cả các mô đun với tất_cả các cáp kết_nối cần_thiết được cung_cấp bởi nhà sản_xuất bao_gồm cả các chi_tiết để hệ_thống hoạt_động bình_thường .
+
+Đối_với phép đo tại các tần_số đến 1 000 MHz thì khoảng_cách giữa Eut và ăng ten đo là 10 m . Đối_với phép đo tại các tần_số trên 1 000 MHz , khoảng_cách giữa Eut hoặc ăng ten thay_thế và ăng ten đo phải đảm_bảo để các bức_xạ trường gần của mỗi ăng ten không được trùng nhau . Các bức_xạ trường gần lớn hơn của Eut và ăng ten thay_thế được sử_dụng để xác_định khoảng_cách tối_thiểu giữa Eut và ăng ten đo trong trường_hợp đầu_tiên .
+
+3 . 1 . 2 . Vị_trí do
+
+Phép đo phải được tiến_hành tại vị_trí đo ngoài_trời hoặc phòng bán dội hoặc phòng không dội . Các mức tạp_âm nền phải thấp hơn giới_hạn phát_xạ không mong_muốn ít_nhất là 6 dB .
+
+Vị_trí đo ngoài_trời phải bằng_phẳng , không có dây treo và những cấu_trúc phản_xạ gần đó , đủ rộng để cho phép đặt ăng ten tại khoảng_cách đo xác_định và có sự tách_biệt thoả_đáng giữa ăng ten , thiết_bị đo và các cấu_trúc phản_xạ .
+
+Một tấm nền bằng kim_loại được đặt trên mặt_đất . Tấm nền phải dài hơn vành_đai của Eut ít_nhất 1 m tại một đầu và còn đầu kia dài hơn ăng ten đo ít_nhất 1 m .
+
+3 . 1 . 3 . Phương_pháp đo
+
+Đối_với Ie , Eut phải được đặt giữa Ime và Eme và cách 0 , 5 m , cắm cáp kết_nối với chiều dài tối_đa theo quy_định của nhà sản_xuất . Chiều cao của cáp nằm trong khoảng từ 0 , 5 m đến 1 m . Cáp được giữ ở vị_trí đó bằng thiết_bị phi_kim_loại . Trong cấu_hình hoạt_động danh định , Eme được đặt trên một bảng phi_kim_loại ở độ cao từ 0 , 5 m đến 1 m . Ime được đặt trên bảng phi_kim_loại ở độ cao 0 , 8 m đối_với phép đo tại các tần_số đến 1 000 MHz và từ 0 , 5 m đến 1 m đối_với phép đo tại các tần_số trên 1 000 MHz . Bất_kì phụ_kiện nào liên_quan đến thiết_bị , ví_dụ như máy_tính xách tay hoặc thiết_bị đầu_cuối dữ_liệu , nếu cần_thiết cho hoạt_động của Mes phải được đặt bên cạnh và ở cùng độ cao với Ime .
+
+Đối_với Pe , thiết_bị được cấu_hình để hoạt_động bình_thường theo khuyến_cáo của nhà sản_xuất và đặt trên một bảng phi_kim_loại ở độ cao từ 0 , 5 m đến 1 m .
+
+Eut phải được kết_nối với các trở_kháng phù_hợp tại các cổng mặt_đất nếu như_không có thiết_bị thích_hợp được kết_nối tới các cổng đó theo yêu_cầu của nhà sản_xuất trong tài_liệu hướng_dẫn sử_dụng .
+
+Đối_với các tần_số tới 80 MHz , ăng ten đo phải là một lưỡng_cực cân_bằng có độ dài bằng độ dài cộng_hưởng tại 80 MHz và phải thích_ứng với phi_đơ bằng một thiết_bị chuyển_đổi phù_hợp . Những đo_đạc với ăng ten băng rộng có_thể thực_hiện được nếu vị_trí đo được chuẩn_hoá phù_hợp với những yêu_cầu của Cispr 16-1.
+
+Đối_với các tần_số trong khoảng từ 80 MHz đến 1 000 MHz , ăng ten đo phải là ăng ten lưỡng_cực cân_bằng cộng_hưởng theo độ dài . Những đo_đạc với ăng ten băng rộng có_thể thực_hiện được nếu vị_trí đo được chuẩn_hoá phù_hợp với những yêu_cầu của Cispr 16-1.
+
+Đối_với những tần_số cao hơn 1 000 MHz , ăng ten đo là ăng ten loa với các đặc_tính tăng ích / tần_số đã biết . Khi được dùng để thu , ăng ten và hệ_thống khuếch_đại được kết_hợp phải có đáp_ứng biên_độ / tần_số trong khoảng 2 dB của các đường_cong chuẩn trong khoảng tần_số_đo được quan_tâm đối_với ăng ten .
+
+3 . 1 . 3 . 1 . Thiết_bị kiểm_tra thu
+
+1 . Máy thu đo cho các phép đo tại các tần_số đến 1 000 MHz
+
+Máy thu đo cần có các đặc_trưng sau :
+
+- Đáp_ứng với một tín_hiệu sóng hình sin có biên_độ không đổi phải duy_trì trong khoảng 1 dB trong suốt dải_tần đo ;
+
+- Sử_dụng tách sóng cận đỉnh trong khoảng - 6 dB với băng_thông 120 kHz ;
+
+- Máy thu đo phải được hoạt_động ở mức thấp hơn 1 dB đối_với điểm nén trong suốt quá_trình đo .
+
+2 . Máy phân_tích phổ cho các phép đo tại các tần_số trên 1 000 MHz
+
+Băng_thông phân_giải của máy phân_tích phổ phải được thiết_lập bằng với băng_thông đo xác_định . Nếu băng_thông phân_giải khác băng_thông đo quy_định thì phải thực_hiện việc hiệu_chỉnh băng_thông đối_với bức_xạ tạp băng rộng giống tạp_âm tín_hiệu băng rộng . Hệ_thống đo có khả_năng phát_hiện tín_hiệu ít_nhất là 6 dB so với giới_hạn phát_xạ không mong_muốn áp_dụng .
+
+3 . 1 . 4 . Thủ_tục đo
+
+3 . 1 . 4 . 1 . Sơ_đồ đo
+
+Hình 1 - Sơ_đồ đo phát_xạ không mong_muốn , trục đầu_tiên
+
+Hình 2 - Sơ_đồ đo phát_xạ không mong_muốn , trục thứ hai
+
+Hình 3 - Sơ_đồ đo phát_xạ không mong_muốn , trục thứ ba
+
+3 . 1 . 4 . 2 . Các phép đo tại các tần_số đến 1 000 MHz
+
+a ) Sơ_đồ đo như Hình 1 với thiết_bị kiểm_tra thu là máy thu đo . Eut điều_chỉnh ăng ten để trục điều_chỉnh ăng ten trên mặt_phẳng quay . Trục điều_chỉnh của ăng ten cần đo phải trùng với mặt_phẳng của vòng quay điều_chỉnh của Eut .
+
+b ) Eut phải được đặt trong trạng_thái có sóng mang với sóng mang ở tần_số trung_tâm thấp nhất có_thể .
+
+c ) Eut phải được xoay 360 , phát_xạ không mong_muốn được đo bằng tần_số và biên_độ trên dải_tần từ 30 MHz đến 1 000 MHz . Ghi lại tần_số và biên_độ của mỗi tín_hiệu .
+
+d ) Các phép đo phải được lặp_lại với ăng ten đo trong phân_cực đối_nghịch và mức_độ tín_hiệu tương_tự được ghi lại .
+
+e ) Các bước đo như c ) và d ) ở trên sẽ được lặp_lại khi sóng mang Eut ở tần_số trung_tâm cao nhất có_thể .
+
+f ) Các bước đo như c ) và d ) ở trên sẽ được lặp_lại khi không có sóng mang .
+
+g ) Các bước đo từ b ) đến f ) ở trên sẽ được lặp_lại với Eut quay để trục_quay trực_giao với trường_hợp đầu_tiên , như trong Hình 2 . Trục điều_chỉnh ăng ten của Eut sẽ được duy_trì trong mặt_phẳng quay .
+
+h ) Các bước đo từ b ) đến f ) ở trên sẽ được lặp_lại với Eut quay để trục_quay trực_giao với hai trường_hợp đầu_tiên , như trong Hình 3 . Trục điều_chỉnh ăng ten của Eut vuông_góc với mặt_phẳng quay .
+
+3 . 1 . 4 . 3 . Các phép đo tại các tần_số trên 1 000 MHz
+
+Đối_với Mes mà các phép đo tại mặt bích ăng ten không_thể thực_hiện hoặc nhà sản_xuất không đồng_ý , Eut phải được kiểm_tra với các ăng ten . Việc đo kiểm phải được thực_hiện thành hai giai_đoạn :
+
+- Thủ_tục a : Xác_định các tần_số quan_trọng của bức_xạ phát_xạ không mong_muốn .
+
+- Thủ_tục b : Đo các mức công_suất bức_xạ của phát_xạ không mong_muốn đã được xác_định .
+
+Đối_với Mes mà các phép đo có_thể thực_hiện_tại mặt bích ăng ten và nhà sản_xuất đồng_ý , Eut phải được kiểm_tra mà không cần ăng ten . Việc đo kiểm phải được thực_hiện thành ba giai_đoạn :
+
+- Thủ_tục a ) : xác_định các tần_số quan_trọng của bức_xạ phát_xạ không mong_muốn ;
+
+- Thủ_tục b ) : Đo các mức công_suất bức_xạ của phát_xạ không mong_muốn đã được xác_định ;
+
+- Thủ_tục c ) : Đo phát_xạ không mong_muốn truyền_dẫn .
+
+1 . Xác_định các tần_số quan_trọng của bức_xạ phát_xạ không mong_muốn
+
+a ) Bố_trí đo như Hình 1 với thiết_bị kiểm_tra thu là máy phân_tích phổ . Eut điều_chỉnh ăng ten để trục điều_chỉnh ăng ten trên mặt_phẳng quay . Trục điều_chỉnh của ăng ten cần đo phải trùng với mặt_phẳng của vòng quay điều_chỉnh của Eut .
+
+b ) Eut phải được đặt trong trạng_thái có sóng mang với sóng mang ở tần_số trung_tâm thấp nhất có_thể .
+
+c ) Eut phải được xoay 360 , phát_xạ không mong_muốn được đo bằng tần_số và biên_độ trên dải_tần từ 1 000 MHz đến 40 GHz . Ghi lại tần_số và biên_độ của mỗi tín_hiệu .
+
+d ) Các phép đo phải được lặp_lại với ăng ten đo trong phân_cực đối_nghịch và mức_độ tín_hiệu tương_tự được ghi lại .
+
+e ) Các bước đo như c ) và d ) ở trên sẽ được lặp_lại khi sóng mang Eut ở tần_số trung_tâm cao nhất có_thể .
+
+f ) Các bước đo như c ) và d ) ở trên sẽ được lặp_lại khi không có sóng mang .
+
+g ) Các bước đo từ b ) đến f ) ở trên sẽ được lặp_lại với Eut quay để trục_quay trực_giao với trường_hợp đầu_tiên , như trong Hình 2 . Trục điều_chỉnh ăng ten của Eut sẽ được duy_trì trong mặt_phẳng quay .
+
+h ) Các bước đo từ b ) đến f ) ở trên sẽ được lặp_lại với Eut quay để trục_quay trực_giao với hai trường_hợp đầu_tiên , như trong Hình 3 . Trục điều_chỉnh ăng ten của Eut vuông_góc với mặt_phẳng quay .
+
+2 . Đo mức công_suất bức_xạ của bức_xạ giả xác_định
+
+Hình 4 - Sơ_đồ đo phát_xạ không mong_muốn của Eut khi có ăng ten
+
+a ) Sơ_đồ đo như Hình 4 hoặc Hình 5 .
+
+b ) Eut phải trong trạng_thái có sóng mang với tần_số trung_tâm của sóng mang được điều_chế phù_hợp với phát_xạ không mong_muốn xác_định trước đó .
+
+c ) Ăng ten đo phải được điều_chỉnh về độ cao và Eut quay để có được đáp_ứng lớn nhất trên máy phân_tích phổ tại mỗi phát_xạ không mong_muốn đã được nhận_dạng , mức đáp_ứng này phải được ghi lại .
+
+d ) Sơ_đồ đo như Hình 1 phải lặp_lại với ăng ten đo đặt theo hướng phân_cực trực_giao và mức đáp_ứng được ghi lại tương_tự .
+
+e ) Eut được thay bằng ăng ten thay_thế , ăng ten này được nối với máy phát tín_hiệu . Các trục búp chính của ăng ten đo và ăng ten thay_thế phải thẳng hàng .
+
+f ) Phân_cực của ăng ten đo và ăng ten thay_thế phải được căn_chỉnh giống nhau để tạo ra đáp_ứng lớn nhất giữa Eut và ăng ten đo theo các bước c ) và d ) .
+
+g ) Tín_hiệu đầu_ra của bộ tạo tín_hiệu phải được điều_chỉnh sao cho mức thu bằng với mức bức_xạ tạp lớn nhất được ghi_nhận trước đó .
+
+h ) Ghi lại mức ra của bộ tạo tín_hiệu . Eirp của phát_xạ không mong_muốn bằng tổng của tín_hiệu đầu ra_bộ tạo tín_hiệu cộng với tăng ích đẳng_hướng của ăng ten thay_thế trừ đi suy hao cáp nối , tính theo dB .
+
+Hình 5 - Sơ_đồ đo phát_xạ không mong_muốn của Eut khi không có ăng ten
+
+3 . Đo phát_xạ không mong_muốn truyền_dẫn tại mặt bích của ăng ten
+
+Thủ_tục đo :
+
+Hình 6 - Sơ_đồ đo phát_xạ không mong_muốn truyền_dẫn
+
+a ) Sơ_đồ đo như trên Hình 6 . Cần sử_dụng một bộ lọc chặn cơ_sở với tần_số được đặt bằng tần_số sóng mang phát để bảo_vệ máy phân_tích phổ mà vẫn đảm_bảo độ chính_xác của phép đo , đặc_biệt ở gần tần_số sóng mang .
+
+b ) Khoảng tần_số từ 1 000 MHz đến 40 GHz phải được xem_xét để kiểm_tra bức_xạ không mong_muốn khi ở trạng_thái có sóng mang tại mức công_suất lớn nhất và điều_chế chuẩn . Mật_độ công_suất phát_xạ không mong_muốn xác_định phải được đo .
+
+c ) Để có được Eirp tối_đa , tăng ích phát lớn nhất của ăng ten đo tại tần_số phát_xạ không mong_muốn đã nhận_dạng phải được cộng thêm vào mật_độ công_suất đo được và các hệ_số hiệu_chỉnh và ghép được tính vào kết_quả . Nếu được sự đồng_ý của nhà sản_xuất , nó sẽ được chấp_nhận với tăng ích ăng ten lớn nhất đo được theo 3 . 4 . 3 . 2 được dùng thay cho tăng ích lớn nhất của ăng ten tại tần_số phát_xạ không mong_muốn đã nhận_dạng .
+
+d ) Các phép đo phải được lặp lại ở trạng_thái không có sóng mang .
+
+3 . 2 . Phát_xạ không mong_muốn trong bảng
+
+3 . 2 . 1 . Phương_pháp đo
+
+Để đo kiểm , Eut bao_gồm :
+
+a ) Đối_với Ie :
+
+- Eme ;
+
+- Ime ;
+
+- Cáp kết_nối giữa các hệ_thống Ime và Eme ;
+
+- Các loại cáp nguồn cần_thiết và các loại cáp khác đảm_bảo cho thiết_bị đầu_cuối hoạt_động tốt .
+
+b ) Đối_với Pe :
+
+- Một mô đun Pe , mô đun này bao_gồm các thiết_bị phụ_trợ để nó có cấu_hình hoạt_động bình_thường ;
+
+- Nhiều mô đun Pe , tất_cả các mô đun với tất_cả các cáp kết_nối cần_thiết được cung_cấp bởi nhà sản_xuất bao_gồm cả các thiết_bị phụ_trợ để hệ_thống hoạt_động bình_thường .
+
+Khoảng_cách giữa Eut hoặc ăng ten thay_thế và ăng ten đo phải đảm_bảo để các bức_xạ trường gần của mỗi ăng ten không được trùng nhau . Các bức_xạ trường gần lớn hơn của Eut và ăng ten thay_thế được sử_dụng để xác_định khoảng_cách tối_thiểu giữa Eut và ăng ten đo trong trường_hợp đầu_tiên .
+
+3 . 2 . 1 . 1 . Yêu_cầu chung
+
+Đối_với Mes khi việc đo kiểm có_thể thực_hiện_tại mặt bích ăng ten và được sự đồng_ý của nhà sản_xuất , các phép đo được thực_hiện_tại mặt bích ăng ten .
+
+Đối_với Mes khi việc đo kiểm không_thể thực_hiện_tại mặt bích ăng ten hoặc không được sự đồng_ý của nhà sản_xuất , các phép đo được thực_hiện với ăng ten đo kiểm .
+
+3 . 2 . 1 . 2 . Phương_pháp đo tại mặt bích ăng ten
+
+a ) Sơ_đồ đo như Hình 7 .
+
+b ) Kiểm_tra tại dải_tần_số từ 14 , 00 GHz đến 14 , 25 GHz . Đối_với trạng_thái có sóng mang , phép đo không được thực_hiện trong băng_thông danh định . Phép đo phải được thực_hiện trong khi truyền sóng mang được điều_chế tại công_suất tối_đa . Tần_số sóng mang càng gần với giới_hạn dưới của dải_tần_số hoạt_động của Eut càng tốt .
+
+c ) Băng_thông phân_giải của máy phân_tích phổ phải được đặt bằng băng_thông đo quy_định hoặc gần nhất có_thể . Nếu băng_thông phân_giải khác băng_thông đo quy_định thì phải thực_hiện việc hiệu_chỉnh băng_thông đối_với bức_xạ tạp băng rộng giống tạp_âm .
+
+d ) Để có được mức công_suất phát_xạ không mong_muốn trên trục đo được truyền đi , tăng ích phát của ăng ten đẳng_hướng tăng phải được cộng thêm vào mỗi kết_quả đo trên và các hệ_số hiệu_chỉnh được tính vào kết_quả .
+
+Hình 7 - Sơ_đồ đo phát_xạ không mong_muốn trên trục tại mặt bích của ăng ten
+
+e ) Độ tăng ích ăng ten được đo tại điều 3 . 4 . 3 . 2 .
+
+f ) Các bước đo từ b ) tới e ) phải được lặp lại ở trạng_thái không có sóng mang .
+
+g ) Các bước đo từ b ) đến f ) phải được lặp_lại với tần_số phát gần giới_hạn trên của băng tần hoạt_động của Eut .
+
+3 . 2 . 1 . 3 . Phương_pháp đo bằng ăng ten đo
+
+a ) Sơ_đồ đo như Hình 8 .
+
+b ) Kiểm_tra tại dải_tần_số từ 14 , 00 GHz đến 14 , 25 GHz . Đối_với trạng_thái có sóng mang , phép đo không được thực_hiện trong băng_thông danh định . Phép đo phải được thực_hiện trong khi truyền sóng mang được điều_chế tại công_suất tối_đa . Tần_số sóng mang càng gần với giới_hạn dưới của dải_tần_số hoạt_động của Eut càng tốt .
+
+c ) Băng_thông phân_giải của máy phân_tích phổ phải được đặt bằng băng_thông đo quy_định hoặc gần nhất có_thể . Nếu băng_thông phân_giải khác băng_thông đo quy_định thì phải thực_hiện việc hiệu_chỉnh băng_thông đối_với bức_xạ tạp băng rộng giống tạp_âm .
+
+d ) Eut phải được lắp_đặt với các hệ_thống khác , chúng được đặt trong vị_trí vận_hành thông_thường . Cáp kết_nối được giữ bằng thiết_bị phi_kim_loại ở độ cao từ 0 , 5 m đến 1 , 0 m .
+
+e ) Ăng ten đo được điều_chỉnh chiều cao và Eut quay để đáp_ứng tối_đa trên máy phân_tích phổ liên_quan tại mỗi phát_xạ không mong_muốn được nhận_dạng , ghi lại mức đáp_ứng này .
+
+f ) Ăng ten đo được điều_chỉnh chiều cao và độ phân_cực và Eut quay để đáp_ứng tối_đa trên máy phân_tích phổ liên_quan tại mỗi phát_xạ không mong_muốn trước đó được nhận_dạng , ghi lại mức_độ đáp_ứng này .
+
+g ) Eut được thay bởi ăng ten thay_thế . Ăng ten này được nối với bộ tạo tín_hiệu . Các trục búp chính của ăng ten đo và ăng ten thay_thế phải thẳng hàng .
+
+h ) Phân_cực của ăng ten đo và ăng ten thay_thế phải được căn_chỉnh giống nhau để tạo ra đáp_ứng lớn nhất giữa Eut và ăng ten đo , trong bước e ) và f ) .
+
+i ) Tín_hiệu đầu_ra của bộ tạo tín_hiệu phải điều_chỉnh sao cho mức thu bằng mức thu của bức_xạ tạp lớn nhất được ghi trước đó .
+
+j ) Ghi lại mức ra của bộ tạo tín_hiệu . Eirp của bức_xạ tạp trên trục bằng tổng của tín_hiệu đầu ra_bộ tạo tín_hiệu và tăng ích đẳng_hướng của ăng ten thay_thế trừ đi suy hao của cáp nối , tính bằng dB .
+
+k ) Các bước đo từ d ) tới j ) phải được lặp lại ở trạng_thái không có sóng mang .
+
+Hình 8 - Sơ_đồ do phát_xạ không mong_muốn trên trục bằng ăng ten đo
+
+3 . 3 . Mật_độ phát_xạ Eirp lệch trục trong băng_thông danh định
+
+3 . 3 . 1 . Yêu_cầu chung
+
+Sự phù_hợp được xác_định từ :
+
+a ) Đo độ chính_xác rms ăng ten định_hướng tĩnh ;
+
+b ) Đo Eirp lệch trục .
+
+Việc đo kiểm Eirp lệch trục có_thể thực_hiện trong trường_hợp Eut có hoặc không có ăng ten :
+
+- Đối_với Mes khi việc đo kiểm có_thể thực_hiện_tại mặt bích ăng ten và được sự đồng_ý của nhà sản_xuất . Việc đo kiểm phải được thực_hiện trong ba giai_đoạn :
+
+a ) Đo mật_độ công_suất đầu_ra máy phát ( dBW / 40 kHz ) ;
+
+b ) Đo độ tăng ích phát của ăng ten ( dBi ) ;
+
+c ) Đo_giản đồ bức_xạ phát của ăng ten ( dBi ) .
+
+- Đối_với Mes khi việc đo kiểm không_thể thực_hiện_tại mặt bích ăng ten hoặc không được sự đồng_ý của nhà sản_xuất , Eut được trang_bị ăng ten . Việc đo kiểm phải được thực_hiện trong ba giai_đoạn :
+
+a ) Đo tỉ_số mật_độ Eirp tối_đa trên 40 kHz so với Eirp ( dBc / 40 kHz ) ;
+
+b ) Đo Eirp trên trục tối_đa ( dBW ) ;
+
+c ) Đo_giản đồ bức_xạ phát của ăng ten ( dBi ) .
+
+3 . 3 . 2 . Độ chính_xác rms ăng ten định_hướng tĩnh
+
+Phương_pháp đo
+
+Hình 9 - Sơ_đồ đo độ chính_xác rms ăng ten định_hướng tĩnh
+
+a ) Thiết_bị được bố_trí như trong Hình 9 , hai ăng ten nằm trong trường xa của nhau với Eut xoay cách xa Ste . Đóng mạch Ste và ngắt mạch Eut .
+
+b ) Mức tín_hiệu bức_xạ từ Ste sẽ được điều_chỉnh để Eut nhận được mật_độ công_suất tương_ứng với tỉ_số tín_hiệu trên tạp_âm được nhà sản_xuất công_bố . Mật_độ công_suất này được dự_kiến 95 % của Mes trong hệ_thống và thường sẽ cao hơn 2 dB trên biên vùng phủ_sóng Mes được thiết_kế để hoạt_động .
+
+c ) Đóng mạch Eut và cho phép để có được vị_trí định_hướng tĩnh .
+
+d ) Độ chính_xác_định_hướng tĩnh được đo và ghi lại . Các phương_pháp đo được sử_dụng sẽ được thoả_thuận giữa nhà sản_xuất và phòng thử_nghiệm .
+
+e ) Độ chính_xác_định_hướng tĩnh được theo_dõi để xác_định nếu thay_đổi định_hướng , sẽ đo nếu có giá_trị rms của góc định_hướng này .
+
+f ) Độ chính_xác_định_hướng tĩnh được đo năm lần .
+
+g ) Ngắt mạch Eut trong khi Eut được quay đi ít_nhất là 90 và trong một thời_gian tối_thiểu 1 giây .
+
+h ) Lặp_lại các bước đo từ c ) đến f ) .
+
+i ) Giá_trị của độ chính_xác rms định_hướng tĩnh là giá_trị lớn nhất trong 10 kết_quả đo đã ghi lại .
+
+3 . 3 . 3 . Đo Eirp lệch trục không có ăng ten
+
+3 . 3 . 3 . 1 . Mật_độ công_suất của đầu_ra phát
+
+Để đo kiểm , Eut bao_gồm tất_cả các thiết_bị ghi trên mặt bích ăng ten :
+
+a ) Đối_với Ie :
+
+- Eme ;
+
+- Ime ;
+
+- Cáp kết_nối giữa các hệ_thống Ime và Eme ;
+
+- Các loại cáp nguồn cần_thiết và các loại cáp khác đảm_bảo cho thiết_bị đầu_cuối hoạt_động tốt .
+
+b ) Đối_với Pe :
+
+- Một mô đun Pe , mô đun này bao_gồm các thiết_bị phụ_trợ để nó có cấu_hình hoạt_động bình_thường ;
+
+- Nhiều mô đun Pe , tất_cả các mô đun với tất_cả các cáp kết_nối cần_thiết được cung_cấp bởi nhà sản_xuất bao_gồm cả các thiết_bị phụ_trợ để hệ_thống hoạt_động bình_thường .
+
+Trường_hợp Eut được thiết_kế có_thể kết_nối trực_tiếp vào mặt bích ăng ten hoặc kết_nối đến điểm trên thiết_bị đặc_biệt do nhà sản_xuất cung_cấp thay_thế Mes kiểm_tra .
+
+Phương_pháp đo :
+
+Hình 10 - Sơ_đồ đo mật_độ công_suất của đầu_ra phát
+
+a ) Eut được kết_nối với tải kiểm_tra như trong Hình 10 .
+
+b ) Đối_với sóng mang được điều_chế bằng một chuỗi bit giả ngẫu_nhiên , mật_độ công_suất tối_đa cung_cấp cho mặt bích ăng ten phải được tính bằng dBW / 40 kHz . Phải xét tới hệ_số ghép của bộ ghép đo tại tần_số_đo và suy hao của bộ thích_ứng ống dẫn sóng . Băng_thông phân_giải của máy phân_tích phổ được đặt càng gần với băng_thông đo quy_định càng tốt . Nếu băng_thông phân_giải khác với băng_thông đo quy_định thì phải thực_hiện việc hiệu_chỉnh băng_thông .
+
+3 . 3 . 3 . 2 . Tăng ích phát của ăng ten
+
+1 . Yêu_cầu chung
+
+Trong quy_chuẩn này , tăng ích phát của ăng ten được xác_định bằng tỉ_số tính bằng dB của công_suất cấp cho một ăng ten chuẩn , ví_dụ : một bộ bức_xạ đẳng_hướng trong không_gian biệt_lập , trên công_suất cấp cho ăng ten đang được xem_xét , sao cho chúng tạo được cùng một mức cường_độ trường tại cùng một khoảng_cách ở cùng một hướng . Nếu không có chú_thích , tăng ích được xét đối_với hướng có bức_xạ lớn nhất .
+
+Trong phép đo này , Eut được coi là một phần của Mes bao_gồm ăng ten và mặt bích ăng ten . Eut gồm một bộ_phận chứa thiết_bị điện cùng với bộ tiếp sóng của ăng ten ( xem 3 . 4 . 3 . 1 ) .
+
+2 . Vị_trí đo
+
+Phép đo được tiến_hành tại vị_trí đo trường xa ngoài_trời hoặc ở khoảng_cách đo thu nhỏ . Tuy_nhiên , nếu công_nghệ máy_quét trường gần chuyển_đổi những đo_đạc trường gần thành những kết_quả của trường xa được chứng_minh là đủ chính_xác cho cả hai vị_trí kiểm_tra thì có_thể thực_hiện đo ăng ten trong trường gần .
+
+3 . Phương_pháp đo
+
+Hình 11 - Sơ_đồ đo tăng ích phát của ăng ten
+
+a ) Sơ_đồ đo như trên Hình 11 , Eut được nối tới máy thu đo . Một tín_hiệu có tỉ_lệ với vị_trí của góc_quay từ cơ_cấu chuyển_động / servo phải đưa vào trục X và mức tín_hiệu từ máy thu đo phải đưa vào trục Y của máy vẽ .
+
+b ) Máy_phát đo bức_xạ tín_hiệu đo trên mặt_phẳng E đầu_tiên qua ăng ten phân_cực ngang . Trục búp chính ăng ten của Eut phải được đồng chỉnh với trục búp chính ăng ten của máy phát đo . Ăng ten hoặc kính phân_cực ăng ten của Eut phải được quay và điều_chỉnh trục búp chính sao cho mặt_phẳng E_trùng với mặt_phẳng E của ăng ten máy phát đo .
+
+c ) Khi thay_đổi của mặt_phẳng E của tín_hiệu kiểm_tra , ăng ten Eut phải được quay xung_quanh trục búp chính của nó sao cho mặt_phẳng E của nó trùng với mặt_phẳng E của máy phát đo .
+
+d ) Tần_số của tín_hiệu đo được đặt là 5 MHz với dải_tần_số thấp nhất mà nhà sản_xuất công_bố .
+
+e ) Eut phải được đồng chỉnh để có tín_hiệu thu lớn nhất và máy vẽ X - y phải được điều_chỉnh để có giá_trị đọc lớn nhất trên biểu_đồ .
+
+f ) Eut phải được dịch_chuyển theo góc phương vị một góc bằng 10 .
+
+g ) Phép đo_giản đồ có được khi dịch_chuyển Eut theo hướng ngược_lại ( so với điểm ban_đầu ) một góc phương vị bằng 10 , máy vẽ ghi lại các kết_quả .
+
+h ) Eut được thay bằng một ăng ten thay_thế với mức tín_hiệu thu được lớn nhất .
+
+i ) Mức thu này được ghi lại trên máy vẽ X - y .
+
+j ) Ăng ten thay_thế phải được quay theo góc phương vị như các bước f ) và g ) .
+
+k ) Tăng ích của Eut được tính như sau :
+
+Geut = L1 - L2 + C
+
+Với Geut : Tăng ích của Eut ( dBi ) ;
+
+L1 : Mức có được với Eut ( dB ) ;
+
+L2 : Mức có được với ăng ten thay_thế ( dB ) ;
+
+C : Tăng ích chuẩn của ăng ten thay_thế tại tần_số_đo ( dBi ) .
+
+l ) Các bước đo từ e ) đến k ) được lặp_lại với tần_số thay_đổi giữa các băng tần_số thấp nhất mà nhà sản_xuất công_bố .
+
+m ) Các bước đo từ e ) đến k ) được lặp_lại với tần_số thay_đổi đến 5 MHz với dải_tần_số thấp nhất mà nhà sản_xuất công_bố .
+
+n ) Các bước đo từ d ) đến m ) có_thể được thực_hiện đồng_thời .
+
+o ) Các bước đo từ c ) đến n ) phải được lặp_lại với mặt_phẳng E thẳng_đứng .
+
+p ) Các bước đo từ c ) đến n ) phải được lặp_lại với mặt_phẳng E + 45 so với mặt_phẳng nằm ngang .
+
+q ) Các bước đo từ c ) đến n ) phải được lặp_lại với mặt_phẳng E - 45 so với mặt_phẳng nằm ngang .
+
+r ) Các bước đo từ b ) đến q ) sẽ được lặp_lại cho tất_cả các dải_tần_số mà nhà sản_xuất công_bố .
+
+3 . 3 . 3 . 3 . Giản đồ bức_xạ phát của ăng ten
+
+1 . Yêu_cầu chung
+
+Trong quy_chuẩn này , giản đồ bức_xạ phát của ăng ten là giản đồ về quan_hệ của cường_độ trường theo góc định_hướng bởi ăng ten tại một khoảng_cách ăng ten không đổi .
+
+Trong phép đo này , Eut được coi là một phần của Mes bao_gồm ăng ten và mặt bích . Ăng ten gồm : bộ / các bộ phản_xạ , bộ tiếp sóng , các thanh chống và một bộ_phận chứa thiết_bị điện cùng với bộ tiếp sóng được đặt tại điểm hội_tụ của ăng ten ( xem 3 . 4 . 3 . 1 ) .
+
+2 . Vị_trí đo
+
+Phép đo được tiến_hành tại vị_trí đo trường xa ngoài_trời hoặc ở khoảng_cách đo thu nhỏ . Tuy_nhiên , nếu công_nghệ máy_quét trường gần chuyển_đổi những đo_đạc trường gần thành những kết_quả của trường xa được chứng_minh là đủ chính_xác cho cả hai vị_trí kiểm_tra thì có_thể thực_hiện đo ăng ten trong trường gần .
+
+3 . Phương_pháp đo
+
+a ) Sơ_đồ đo như Hình 12 , Eut được nối với máy thu đo . Một tín_hiệu có tỉ_lệ với vị_trí của góc_quay từ cơ_cấu_hình chuyển_động / servo phải đưa vào trục X và mức tín_hiệu từ máy thu đo phải đưa vào trục Y của máy vẽ .
+
+Hình 12 - Sơ_đồ đo_giản đồ bức_xạ phát của ăng ten
+
+b ) Máy_phát đo bức_xạ tín_hiệu đo trên mặt_phẳng E đầu_tiên của ăng ten phân_cực ngang . Trục búp chính ăng ten của Eut phải được đồng chỉnh với trục búp chính ăng ten của máy phát đo . Ăng ten hoặc kính phân_cực ăng ten của Eut phải được quay và điều_chỉnh sao cho mặt_phẳng E_trùng với mặt_phẳng E của ăng ten máy phát đo .
+
+c ) Khi thay_đổi của mặt_phẳng E của tín_hiệu kiểm_tra , ăng ten Eut phải được quay xung_quanh trục búp chính của nó sao cho mặt_phẳng E của nó trùng với mặt_phẳng E của máy phát đo .
+
+d ) Tần_số của tín_hiệu đo được đặt là 5 MHz với dải_tần_số thấp nhất mà nhà sản_xuất công_bố .
+
+e ) Eut phải được đồng chỉnh để có tín_hiệu thu lớn nhất và máy vẽ X - y phải được điều_chỉnh để có giá_trị đọc lớn nhất trên biểu_đồ .
+
+f ) Eut phải được dịch_chuyển theo góc phương vị 180 .
+
+g ) Phép đo_giản đồ phát có được khi dịch_chuyển Eut theo góc phương vị 360 , máy vẽ ghi lại các kết_quả .
+
+h ) Các bước đo từ c ) đến g ) được lặp_lại với tần_số thay_đổi giữa các băng tần_số thấp nhất mà nhà sản_xuất công_bố .
+
+i ) Các bước đo từ c ) đến g ) được lặp_lại với tần_số thay_đổi đến 5 MHz với dải_tần_số thấp nhất mà nhà sản_xuất công_bố .
+
+j ) Các bước đo từ c ) đến i ) có_thể được thực_hiện đồng_thời .
+
+k ) Các bước đo từ c ) đến j ) phải được lặp_lại với mặt_phẳng E thẳng_đứng .
+
+l ) Các bước đo từ c ) đến j ) phải được lặp_lại với mặt_phẳng E tại + so với mặt_phẳng đứng . được định_nghĩa_là góc trong trường_hợp xấu nhất giữa mặt_phẳng ngang và vĩ_độ quỹ_đạo địa_tĩnh như tuyên_bố của nhà sản_xuất .
+
+m ) Các bước đo từ c ) đến j ) phải được lặp_lại với mặt_phẳng E tại - so với mặt_phẳng ngang , được định_nghĩa tại bước đo I ) .
+
+n ) Các bước đo từ c ) đến m ) sẽ được lặp_lại cho tất_cả các dải_tần_số mà nhà sản_xuất công_bố .
+
+3 . 3 . 3 . 4 . Tính_toán kết_quả
+
+Những kết_quả phải được tính_toán qua việc đưa ra một mặt_nạ với các giới_hạn quy_định theo mức tham_chiếu bằng tổng của mật_độ công_suất đầu_ra phát và tăng ích của ăng ten . Mức tham_chiếu này phải được đặt tại điểm lớn nhất của các giản đồ có được từ việc đo_giản đồ bức_xạ phát , để khẳng_định rằng mật_độ Eirp lệch trục nằm trong mặt_nạ , phù_hợp với yêu_cầu kĩ_thuật .
+
+3 . 3 . 4 . Đo Eirp ngoài trục khi có ăng ten
+
+3 . 3 . 4 . 1 . Yêu_cầu chung
+
+Áp_dụng các yêu_cầu trong điều từ 3 . 2 . 1 đến 3 . 2 . 3 . 1 . 2 cho các phép đo trên 1 000 MHz .
+
+3 . 3 . 4 . 2 . Tỉ_số mật_độ Eirp tối_đa trên 40 kHz so với Eirp
+
+Để thực_hiện bài đo , Eut phải là Mes có ăng ten .
+
+Phương_pháp đo :
+
+a ) Sơ_đồ đo như Hình 13 , hai ăng ten nằm đối_mặt nhau .
+
+b ) Sóng mang được điều_chế bằng một chuỗi bít giả ngẫu_nhiên . Việc truyền_tải sẽ được phát liên_tục đến nơi có_thể .
+
+c ) Băng_thông phân_giải của máy phân_tích phổ được đặt lớn hơn nhưng càng gần băng_thông chiếm_dụng của tín_hiệu truyền càng tốt . Tổng_công_suất P1 thu được đo bằng dBW .
+
+d ) Băng_thông phân_giải của máy phân_tích phổ phải được đặt bằng băng_thông đo quy_định là 40 kHz hoặc gần nhất có_thể . Nếu băng_thông phân_giải khác băng_thông đo quy_định thì phải thực_hiện việc hiệu_chỉnh băng_thông . Giá_trị tối_đa P2 là công_suất nhận được tại băng_thông 40 kHz trong băng_thông bị chiếm_dụng , đơn_vị đo dBW .
+
+e ) Tỷ_lệ mật_độ Eirp tối_đa trên 40 kHz so với Eirp ( dBc / 40 kHz ) bằng ( p1 - P2 ) .
+
+Hình 13 - Sơ_đồ đo mật_độ công_suất bức_xạ
+
+3 . 3 . 4 . 3 . Eirp trên trục tối_đa
+
+1 . Yêu_cầu chung
+
+Đề thực_hiện bài đo , Eut phải là Mes có ăng ten .
+
+Khoảng_cách giữa Eut hoặc ăng ten thay_thế và ăng ten đo phải đảm_bảo để các bức_xạ trường gần của mỗi ăng ten không được trùng nhau . Các bức_xạ trường gần lớn hơn của Eut và ăng ten thay_thế được sử_dụng để xác_định khoảng_cách tối_thiểu giữa Eut và ăng ten đo trong trường_hợp đầu_tiên .
+
+2 . Vị_trí đo
+
+Phép đo được tiến_hành tại vị_trí đo trường xa ngoài_trời hoặc ở khoảng_cách đo thu nhỏ . Tuy_nhiên , nếu công_nghệ máy_quét trường gần chuyển_đổi những đo_đạc trường gần thành những kết_quả của trường xa được chứng_minh là đủ chính_xác cho cả hai vị_trí kiểm_tra thì có_thể thực_hiện đo ăng ten trong trường gần .
+
+3 . Phương_pháp đo
+
+a ) Sơ_đồ đo như Hình 14 , hai ăng ten nằm đối_mặt nhau . Một tín_hiệu có tỉ_lệ với vị_trí của góc_quay từ cơ_cấu chuyển_động / servo phải đưa vào trục X và mức tín_hiệu từ máy thu đo tỉ_lệ_thuận với công_suất nhận được ( dBW ) phải đưa vào trục Y của máy vẽ .
+
+b ) Eut_truyền sóng mang , ở công_suất tối_đa , và điều_chế bằng một chuỗi bít giả ngẫu_nhiên . Việc truyền_tải thực_hiện liên_tục khi có_thể .
+
+c ) Băng_thông phân_giải của máy phân_tích phổ được đặt lớn hơn nhưng càng gần băng_thông chiếm_dụng của tín_hiệu truyền càng tốt .
+
+d ) Bức_xạ tín_hiệu đo trên mặt_phẳng E đầu_tiên của Eut qua ăng ten phân_cực ngang của nó . Trục búp chính ăng ten máy thu phải được đồng chỉnh với trục búp chính ăng ten của Eut . Ăng ten máy thu đo hoặc kính phân_cực của nó phải được quay và điều_chỉnh trục búp chỉnh sao cho mặt_phẳng E_trùng với mặt_phẳng E của Eut .
+
+Hình 14 - Sơ_đồ đo thu Eirp trên trục tối_đa
+
+e ) Khi thay_đổi của mặt_phẳng E của tín_hiệu kiểm_tra , ăng ten máy thu đo phải được quay xung_quanh trục búp chính của nó sao cho mặt_phẳng E của nó trùng với mặt_phẳng E của Eut .
+
+f ) Tần_số của tín_hiệu đo được đặt là 5 MHz với dải_tần_số thấp nhất mà nhà sản_xuất công_bố .
+
+g ) Eut phải được đồng chỉnh để có tín_hiệu thu lớn nhất và máy vẽ X - y phải được điều_chỉnh để có giá_trị đọc lớn nhất trên biểu_đồ .
+
+h ) Eut phải được dịch_chuyển theo góc phương vị một góc bằng 10 .
+
+i ) Phép đo_giản đồ có được khi dịch_chuyển Eut theo hướng ngược_lại ( so với điểm ban_đầu ) một góc phương vị bằng 10 , máy vẽ ghi lại các kết_quả .
+
+j ) Eut phải được thay_thế bằng máy phát tín_hiệu kết_nối với một ăng ten chỉnh ( ăng ten thay_thế ) , truyền sóng mang tại tần_số băng tần_số sóng mang Eut . Mức tín_hiệu thu được là lớn nhất .
+
+k ) Mức thu này được ghi lại trên máy vẽ X - y .
+
+l ) Máy_phát tín_hiệu với ăng ten thay_thế phải được quay trong góc phương vị như các bước h ) và i ) .
+
+m ) Eirp của tín_hiệu bức_xạ từ Eut được tính như sau :
+
+Eirpeut = L1 - L2 + G + P
+
+Trong đó :
+
+- Eirpeut là Eirp của tín_hiệu bức_xạ từ Eut ( dBW ) , theo hướng xem_xét ;
+
+- L1 là mức thu được với Eut ( dBW ) , trong cùng một hướng xem_xét ;
+
+- L2 là mức thu được với máy phát tín_hiệu của ăng ten thay_thế ( dBW ) ;
+
+- G là tăng ích được hiệu_chỉnh của ăng ten thay_thế tại tần_số_đo ( dBi ) ;
+
+- P là công_suất tạo ra bởi máy phát tín_hiệu ở mặt bích của ăng ten thay_thế ( dBW ) .
+
+n ) Các bước đo từ g ) đến m ) được lặp_lại với tần_số thay_đổi giữa các băng tần_số thấp nhất mà nhà sản_xuất công_bố .
+
+o ) Các bước đo từ g ) đến m ) được lặp_lại với tần_số thay_đổi đến 5 MHz với dải_tần_số thấp nhất mà nhà sản_xuất công_bố .
+
+p ) Các bước đo từ g ) đến o ) có_thể được thực_hiện đồng_thời .
+
+q ) Các bước đo từ g ) đến p ) phải được lặp_lại với mặt_phẳng E thẳng_đứng .
+
+r ) Các bước đo từ g ) đến p ) phải được lặp_lại với mặt_phẳng E + 45 so với mặt_phẳng nằm ngang .
+
+s ) Các bước đo từ g ) đến p ) phải được lặp_lại với mặt_phẳng E - 45 so với mặt_phẳng nằm ngang .
+
+t ) Các bước đo từ g ) đến s ) sẽ được lặp_lại cho tất_cả các dải_tần_số mà nhà sản_xuất công_bố .
+
+u ) Eirp trên trục tối_đa của tín_hiệu bức_xạ bởi Eut là giá_trị tối_đa các giá_trị tính theo bước m ) .
+
+3 . 3 . 4 . 4 . Giản đồ bức_xạ phát của ăng ten
+
+1 . Yêu_cầu chung
+
+Trong quy_chuẩn này , giản đồ bức_xạ phát của ăng ten là giản đồ về quan_hệ của cường_độ trường theo góc định_hướng bởi ăng ten tại một khoảng_cách cố_định từ ăng ten .
+
+Để thực_hiện bài đo , Eut phải là Mes có ăng ten .
+
+Khoảng_cách giữa Eut hoặc ăng ten thay_thế và ăng ten đo phải đảm_bảo để các bức_xạ trường gần của mỗi ăng ten không được trùng nhau . Các bức_xạ trường gần lớn hơn của Eut và ăng ten thay_thế được sử_dụng để xác_định khoảng_cách tối_thiểu giữa Eut và đo ăng ten trong trường_hợp đầu_tiên .
+
+2 . Vị_trí đo
+
+Phép đo được tiến_hành tại vị_trí đo trường xa ngoài_trời hoặc ở khoảng_cách đo thu nhỏ . Tuy_nhiên , nếu công_nghệ máy_quét trường gần chuyển_đổi những đo_đạc trường gần thành những kết_quả của trường xa được chứng_minh lả đủ chính_xác cho cả hai vị_trí kiểm_tra thì có_thể thực_hiện đo ăng ten trong trường gần .
+
+3 . Phương_pháp đo
+
+a ) Sơ_đồ đo như Hình 15 , hai ăng ten nằm đối_mặt nhau . Một tín_hiệu có tỉ_lệ với vị_trí của góc_quay từ cơ_cấu chuyển_động / servo phải đưa vào trục X và mức tín_hiệu từ máy thu đo tỉ_lệ_thuận với công_suất nhận được ( dBW ) phải đưa vào trục Y của máy vẽ .
+
+b ) Eut_truyền sóng mang được điều_chế bằng một chuỗi bít giả ngẫu_nhiên . Việc truyền_tải thực_hiện liên_tục khi có_thể .
+
+c ) Băng_thông phân_giải của máy phân_tích phổ được đặt lớn hơn nhưng càng gần băng_thông chiếm_dụng của tín_hiệu truyền càng tốt .
+
+d ) Bức_xạ tín_hiệu đo trên mặt_phẳng E đầu_tiên của Eut qua ăng ten phân_cực ngang của nó . Trục búp chính ăng ten của Eut phải được đồng chỉnh với trục búp chính ăng ten của Eut . Ăng ten máy thu đo hoặc kính phân_cực của nó phải được quay và điều_chỉnh trục búp chính sao cho mặt_phẳng E_trùng với mặt_phẳng E của Eut .
+
+Hình 15 - Sơ_đồ đo_giản đồ bức_xạ phát của ăng ten
+
+e ) Khi thay_đổi của mặt_phẳng E của tín_hiệu kiểm_tra , ăng ten Eut phải được quay xung_quanh trục búp chính của nó sao cho mặt_phẳng E của nó trùng với mặt_phẳng E của máy phát đo .
+
+f ) Tần_số của tín_hiệu đo được đặt là 5 MHz với dải_tần_số thấp nhất mà nhà sản_xuất công_bố .
+
+g ) Eut phải được đồng chỉnh để có tín_hiệu thu lớn nhất và máy vẽ X - y phải được điều_chỉnh để có giá_trị đọc lớn nhất trên biểu_đồ .
+
+h ) Eut phải được dịch_chuyển theo góc phương vị một góc bằng 180 .
+
+i ) Phép đo_giản đồ có được khi dịch_chuyển Eut theo hướng ngược_lại ( so với điểm ban_đầu ) một góc phương vị bằng 360 , máy vẽ ghi lại các kết_quả .
+
+j ) Các bước đo từ g ) đến i ) được lặp_lại với tần_số thay_đổi giữa các băng tần_số thấp nhất mà nhà sản_xuất công_bố .
+
+k ) Các bước đo từ g ) đến i ) được lặp_lại với tần_số thay_đổi đến 5 MHz với dải_tần_số thấp nhất mà nhà sản_xuất công_bố .
+
+l ) Các bước đo từ g ) đến k ) có_thể được thực_hiện đồng_thời .
+
+m ) Các bước đo từ e ) đến I ) phải được lặp_lại với mặt_phẳng E thẳng_đứng
+
+n ) Các bước đo từ e ) đến I ) phải được lặp_lại với mặt_phẳng E tại + so với mặt_phẳng ngang . được định_nghĩa_là góc trong trường_hợp xấu nhất giữa mặt_phẳng ngang và vĩ_độ quỹ_đạo địa_tĩnh như tuyên_bố của nhà sản_xuất .
+
+o ) Các bước đo từ e ) đến I ) phải được lặp_lại với mặt_phẳng E tại - so với mặt_phẳng ngang , được định_nghĩa như n ) .
+
+p ) Các bước đo từ e ) đến o ) sẽ được lặp_lại cho tất_cả các dải_tần_số mà nhà sản_xuất công_bố .
+
+3 . 3 . 4 . 5 . Tính_toán kết_quả
+
+Những kết_quả phải được tính_toán qua việc đưa ra một mặt_nạ với các giới_hạn quy_định theo mức tham_chiếu bằng tổng của Eirp trên trục tối_đa của máy , tỉ_số giữa mật_độ Eirp / 40 kHz và Eirp và hai lần độ chính_xác rms định_hướng tĩnh . Mức tham_chiếu này phải được đặt tại điểm lớn nhất của các giản đồ có được từ việc đo_giản đồ bức_xạ phát , để khẳng_định rằng mật_độ Eirp lệch trục nằm trong mặt_nạ , phù_hợp với yêu_cầu kĩ_thuật .
+
+3 . 4 . Điều_khiển và giám_sát
+
+Nếu Eut là Mes đã được nhà sản_xuất hiệu_chỉnh để thực_hiện các phép đo này với đầy_đủ tại liệu chứng_minh các hiệu_chỉnh mô_phỏng chính_xác các điều_kiện đo yêu_cầu .
+
+Để thực_hiện các phép đo này , Eut là Mes có hoặc không có ăng ten .
+
+Đo mật_độ phổ của Eirp phải được giới_hạn trong phạm_vi băng_thông danh định hoặc độ rộng băng 10 MHz có tâm ở tần_số sóng mang , tuỳ theo giá_trị nào lớn hơn .
+
+3 . 4 . 1 . Sơ_đồ đo
+
+Sơ_đồ đo như Hình 16 hoặc Hình 17 . Eut phải được phép phát và phải ở trạng_thái cho phép phát khi bắt_đầu mỗi bài đo . Trừ các trạng_thái khác , máy hiện sóng hai tia có nhớ phải giám_sát và đo sự khác nhau về thời_gian giữa các Lệnh hoặc hư_hỏng và sự xuất_hiện của các sự_kiện mong_muốn ( ví_dụ : triệt_phát ) . Máy đo công_suất và máy phân_tích phổ phải hiển_thị mức ra của Eut .
+
+Hình 16 - Sơ_đồ đo chung cho các phép đo về giám_sát và điều_khiển đối_với những phép đo truyền_dẫn
+
+Hình 17 - Sơ_đồ đo chung cho các phép đo về giám_sát và điều_khiển đối_với những phép đo bức_xạ
+
+3 . 4 . 2 . Giám_sát bộ xử_lí
+
+Phương_pháp đo :
+
+a ) Mỗi bộ xử_lí trong Etu lần_lượt được gây hỏng .
+
+b ) Trong khoảng 1 giây do hỏng , phải dừng phát Eut ( xem trên máy phân_tích phổ ) .
+
+c ) Phải quan_sát máy đo công_suất và máy phân_tích phổ để biết chắc rằng việc phát đã bị triệt .
+
+d ) Phải khôi_phục bộ xử_lí bị hỏng về điều_kiện làm_việc bình_thường và phải tự_động phục_hồi Eut về điều_kiện làm_việc bình_thường trước khi gây hỏng bộ xử_lí tiếp_theo .
+
+3 . 4 . 3 . Giám_sát phân hệ_phát
+
+Phương_pháp đo :
+
+a ) Các tần_số của phân hệ phải được gây hỏng về :
+
+1 ) Ổn_định tần_số ;
+
+2 ) Đầu_ra .
+
+b ) Trong khoảng 6 giây xảy ra hư_hỏng , phải dừng phát Eut ( quan_sát trên máy phân_tích phổ ) .
+
+c ) Phải quan_sát máy đo công_suất và máy phân_tích phổ để biết chắc rằng việc phát đã bị triệt .
+
+d ) Phải khôi_phục các thành_phần bị hỏng về điều_kiện làm_việc bình_thường và phải phục_hồi Eut về điều_kiện làm_việc bình_thường trước khi gây hỏng tiếp .
+
+3 . 4 . 4 . Đóng nguồn
+
+Phương_pháp đo :
+
+a ) Tắt_eut và Ste không được phát kênh điều_khiển ;
+
+b ) Bật_eut ;
+
+c ) Eut không được phát trong và sau khi bật nguồn và phải chuyển sang trạng_thái không sóng mang ;
+
+Các sự_kiện từ a ) đến c ) phải được hiển_thị và được xác_nhận bởi máy hiện sóng và phép đo tín_hiệu phát . Nếu có chức_năng đóng nguồn thủ_công thì phải thực_hiện các phép đo sau :
+
+d ) Bật_eut và Ste được phát Cc ;
+
+e ) Một cuộc_gọi sẽ được khởi tạo từ Eut và Eut phải chuyển sang trạng_thái có sóng mang ;
+
+f ) Khởi tạo chức_năng đóng nguồn ;
+
+g ) Eut phải chuyển sang trạng_thái không có sóng mang .
+
+Các sự_kiện từ e ) đến g ) phải được hiển_thị và được xác_nhận bởi máy hiện sóng và phép đo tín_hiệu phát .
+
+3 . 4 . 5 . Thu kênh điều_khiển ( cc )
+
+Phương_pháp đo :
+
+Các phép đo sau đây được thực_hiện :
+
+- Eut chưa thu được Cc ;
+
+- Eut mất Cc trong khoảng thời_gian của cuộc_gọi ;
+
+- Eut mất Cc trong khoảng thời_gian không phát ;
+
+- Eut mất Cc và một cuộc_gọi được khởi tạo trong khoảng thời_gian chờ T1 .
+
+Thời_gian chờ T1 sử_dụng trong các phép đo này là 30 giây .
+
+a ) Eut chưa thu được Cc :
+
+a1 ) Tắt_eut và Ste không được phát Cc ;
+
+a2 ) Bật_eut ;
+
+a3 ) Khởi tạo một cuộc_gọi từ Eut ;
+
+a4 ) Eut phải duy_trì ở trạng_thái không có sóng mang .
+
+Các sự_kiện từ a1 ) đến a4 ) phải được hiển_thị và được xác_nhận bởi máy hiện sóng và phép đo tín_hiệu phát .
+
+b ) Eut mất Cc trong khoảng thời_gian của cuộc_gọi :
+
+b1 ) Phải bật Eut và Ste phải phát Cc ;
+
+b2 ) Khởi tạo một cuộc_gọi từ Eut ;
+
+b3 ) Ste phải dừng phát Cc ;
+
+b4 ) Trong thời_gian chờ T1 từ b3 ) , Eut phải chuyển sang trạng_thái không có sóng mang .
+
+Các sự_kiện từ b2 ) đến b4 ) phải được hiển_thị và được xác_nhận bởi máy hiện sóng và phép đo tín_hiệu phát .
+
+c ) Eut mất Cc trong khoảng thời_gian không phát :
+
+c1 ) Bật_eut và Ste phát Cc ;
+
+c2 ) Ste ngừng phát Cc ;
+
+c3 ) Sau khoảng thời_gian T1 , khởi tạo cuộc_gọi từ Eut ;
+
+c4 ) Eut phải duy_trì ở trạng_thái không có sóng mang .
+
+Các sự_kiện từ c2 ) để c4 ) phải được hiển_thị và được xác_nhận bởi máy hiện sóng và phép đo tín_hiệu phát .
+
+d ) Trường_hợp Cc đang bị mất bởi Eut và một cuộc_gọi được tiến_hành trong khoảng thời_gian T1 :
+
+d1 ) Phải bật Eut và Ste phải phát Cc ;
+
+d2 ) Ste phải dừng phát Cc ;
+
+d3 ) Trong khoảng thời_gian T1 từ bước d2 ) , Eut khởi tạo 1 yêu_cầu phát ;
+
+d4 ) Eut có_thể phát nhưng trong khoảng thời_gian T1 Eut phải chuyển sang trạng_thái không có sóng mang .
+
+Các sự_kiện từ d2 ) đến d4 ) phải được hiển_thị và được xác_nhận bởi máy hiện sóng và phép đo tín_hiệu phát .
+
+3 . 4 . 6 . Lệnh điều_khiển mạng
+
+Phương_pháp đo :
+
+Các phép đo sau phải được thực_hiện theo thứ_tự :
+
+- Lệnh cho phép phát ;
+
+- Lệnh cấm phát ;
+
+- Yêu_cầu nhận_dạng / xác_định .
+
+a ) Lệnh cho phép phát :
+
+a1 ) Phải bật Eut và Ste sẽ phát Cc ;
+
+a2 ) Eut phải chuyển sang trạng_thái không có sóng mang ;
+
+a3 ) Eut khởi tạo một cuộc_gọi , Eut phải duy_trì trạng_thái không có sóng mang ;
+
+a4 ) Ste phải phát 1 Lệnh cho phép đến Eut ;
+
+a5 ) Eut khởi tạo một cuộc_gọi .
+
+a6 ) Eut phải chuyển sang trạng_thái có sóng mang và phải phát .
+
+Các sự_kiện từ a2 ) đến a6 ) phải được hiển_thị và được xác_nhận bởi máy hiện sóng và phép đo tín_hiệu phát .
+
+b ) Lệnh cấm phát :
+
+b1 ) Tiếp_tục từ bước a6 ) ;
+
+b2 ) Ste phải phát 1 Lệnh cấm phát đến Eut ;
+
+b3 ) Eut phải chuyển sang trạng_thái không có sóng mang trong vòng 1 giây ;
+
+b4 ) Eut khởi tạo một cuộc_gọi ;
+
+b5 ) Eut phải duy_trì ở trạng_thái không có sóng mang ;
+
+b6 ) Ste phải phát một Lệnh cho phép ;
+
+b7 ) Eut khởi tạo một cuộc_gọi ;
+
+b8 ) Eut phải chuyển sang trạng_thái có sóng mang và phải phát ;
+
+b9 ) Eut chấm_dứt cuộc_gọi .
+
+Các sự_kiện từ b2 ) đến b9 ) phải được hiển_thị và được xác_nhận bởi máy hiện sóng và phép đo tín_hiệu phát .
+
+c ) Yêu_cầu nhận_dạng :
+
+c1 ) Tiếp_tục từ bước b9 ) ;
+
+c2 ) Ste sẽ phát yêu_cầu nhận_dạng ;
+
+c3 ) Eut phải chuyển sang trạng_thái có sóng mang và sẽ phát mã nhận_dạng của nó .
+
+Eut gửi mã nhận_dạng hiển_thị ở Ste .
+
+3 . 4 . 7 . Phát cụm khởi tạo
+
+Phương_pháp đo :
+
+a ) Tắt_eut và Ste phát Cc ;
+
+b ) Phải bật Eut ;
+
+c ) Eut không được phát , ngoại_trừ cụm khởi tạo , nếu có ;
+
+d ) Mỗi cụm khởi tạo sẽ không kéo_dài hơn 1 giây , và phát cụm khởi tạo không được vượt quá 1 % thời_gian .
+
+Các sự_kiện từ b ) đến d ) phải được hiển_thị và được xác_nhận bởi máy hiện sóng và phép đo tín_hiệu phát .
+
+3 . 5 . Giản đồ độ tăng ích lệch trục của ăng ten thu
+
+3 . 5 . 1 . Vị_trí đo
+
+Phép đo được tiến_hành tại vị_trí đo trường xa ngoài_trời hoặc ở khoảng_cách đo thu nhỏ . Tuy_nhiên , nếu công_nghệ máy_quét trường gần chuyển_đổi những đo_đạc trường gần thành những kết_quả của trường xa được chứng_minh là đủ chính_xác cho cả hai vị_trí kiểm_tra thì có_thể thực_hiện đo ăng ten trong trường gần . Hệ_thống tự_động hoàn_toàn có_thể được sử_dụng đối_với những thử_nghiệm cung_cấp các kết_quả có_thể được chứng_minh là chính_xác , nếu_như chúng đã được thực_hiện theo phương_pháp quy_định .
+
+3 . 5 . 2 . Phương_pháp đo
+
+Hình 18 - Sơ_đồ đo - phép đo_giản đồ thu của ăng ten
+
+a ) Sơ_đồ đo như trên Hình 18 , Eut được nối tới máy thu đo .
+
+b ) Một tín_hiệu có tỉ_lệ với vị_trí của góc_quay từ cơ_cấu chuyển_động / servo phải đưa vào trục X và mức tín_hiệu từ máy thu đo phải đưa vào trục Y của máy vẽ .
+
+c ) Tần_số_đo phải là tần_số trung_tâm của mỗi dải_tần_số được áp_dụng . Mặt_phẳng E phải đặt thẳng_đứng .
+
+d ) Eut phải được đồng chỉnh để có mức tín_hiệu thu lớn nhất và máy vẽ X - y phải được điều_chỉnh để có giá_trị đọc lớn nhất trên biểu_đồ .
+
+e ) Eut phải được dịch_chuyển theo góc phương vị 180 .
+
+f ) Phép đo_giản đồ phát có được khi dịch_chuyển Eut theo góc phương vị 360 , máy vẽ ghi lại các kết_quả .
+
+g ) Các bước đo từ b ) đến e ) được lặp_lại với tần_số thay_đổi đến giới_hạn dưới của dải_tần_số áp_dụng mà nhà sản_xuất công_bố .
+
+h ) Các bước đo từ b ) đến e ) được lặp_lại với tần_số thay_đổi đến giới_hạn trên của dải_tần_số áp_dụng mà nhà sản_xuất công_bố .
+
+i ) Các bước đo từ b ) đến h ) được lặp_lại với tần_số thay_đổi với những quy_định khác nếu có trong thiết_kế của thiết_bị nhưng không nhất_thiết phải thực_hiện cùng một lúc trong tất_cả các dải_tần .
+
+j ) Các bước đo từ b ) đến h ) phải được lặp_lại với tín_hiệu đo kiểm được truyền đi trong mặt_phẳng H thay_vì mặt_phẳng E .
+
+k ) Các bước đo từ b ) đến h ) phải được lặp_lại với tín_hiệu đo kiểm được truyền đi trong mặt_phẳng 45 so với mặt_phẳng H .
+
+l ) Các bước đo từ b ) đến h ) phải được lặp_lại với tín_hiệu đo kiểm được truyền đi trong mặt_phẳng 90 so với mặt_phẳng trong k ) .
+
+m ) Các bước đo từ b ) đến I ) sẽ được lặp_đi lặp_lại giữa các góc r và 7 với Eut quay 90 hoặc ăng ten đo hoặc các hệ_thống phân_cực phụ của Eut quay 90 để cung_cấp cho các phép đo phân_cực chéo .
+
+6 . 5 . 1 . 3 Tính_toán
+
+Việc tính_toán kết_quả được thực_hiện bằng cách tạo ra một " mặt_nạ " với các giới_hạn quy_định theo mức tham_chiếu được tính bằng độ tăng ích của ăng ten . Mức tham_chiếu này phải được đặt tại điểm lớn nhất của các giản đồ có được từ việc đo_giản đồ .
+
+3 . 6 . Hiệu_suất chặn
+
+Phương_pháp đo
+
+a ) Các tín_hiệu đầu_ra của hai máy phát tín_hiệu sẽ được kết_hợp với trọng_lượng bằng nhau . Các tín_hiệu kết_hợp phải được kết_hợp với các đầu_vào Lnb một_cách hợp_lí và phù_hợp .
+
+b ) Một phân_tích phổ phải được kết_nối với đầu_ra Lnb cho phép cung_cấp công_suất Lnb .
+
+c ) fc là tần_số trung_tâm của dải_tần thu .
+
+d ) Tín_hiệu đầu_tiên của tần_số máy phát sẽ được đặt là fc .
+
+e ) Tín_hiệu đầu_tiên của mức máy phát phải thiết_lập đến một mức trong phạm_vi mức đầu_vào hoạt_động của Lnb .
+
+f ) Máy phân_tích phổ được thiết_lập để đo mức tín_hiệu đầu_tiên chuyển_đổi ở đầu_ra Lnb .
+
+g ) Tín_hiệu thứ hai của tần_số máy phát phải được thiết_lập là fc - 20 MHz .
+
+h ) Tín_hiệu thứ hai của mức máy phát phải được điều_chỉnh sao cho mức đo được là 1 dB thấp hơn khi không có tín_hiệu thứ hai .
+
+i ) Tín_hiệu thứ hai của mức máy phát phải được ghi lại như mức tham_chiếu .
+
+j ) Tín_hiệu thứ hai của tần_số máy phát phải được thiết_lập với tần_số quan_tâm .
+
+k ) Tín_hiệu thứ hai của mức máy phát phải được điều_chỉnh sao cho mức đo được là 1 dB thấp hơn khi không có tín_hiệu thứ hai .
+
+l ) Từ_chối tần_số quan_tâm bằng với tín_hiệu thứ hai của mức máy phát trừ đi mức tham_chiếu xác_định ở bước i ) .
+
+m ) Các bước từ j ) đến I ) phải được lặp_lại với các tần_số trong phạm_vi của Bảng 3 .
+
+Chú_thích : Sự từ_chối trường_hợp tồi_tệ nhất trong một dải_tần_số cụ_thể có_thể được xác_định sau bước i ) bằng cách quét tín_hiệu thứ hai của tần_số máy phát trong dải_tần_số và quan_sát độ tăng ích , sau đó thực_hiện các bước từ j ) đến I ) với tần_số có độ tăng ích cao nhất .
+
+3 . 7 . Chọn_lọc tín_hiệu liền kề
+
+Phương_pháp đo
+
+a ) Sử_dụng hai máy phát tín_hiệu đo . Mỗi máy phát tín_hiệu phải tạo ra một tín_hiệu điều_chế trong phạm_vi tần_số đầu_vào Ime và tạp_âm nhiệt .
+
+b ) Các máy phát tín_hiệu được nối với đầu_vào Ime qua một bộ chia ( kết_hợp ) .
+
+c ) Các máy phát tín_hiệu đo phải được thiết_lập với tần_số và mức theo Bảng 4 .
+
+d ) Ime phải thiết_lập để nhận được tín_hiệu của máy phát tín_hiệu đo đầu_tiên .
+
+e ) Các máy phát tín_hiệu đo thứ hai được thiết_lập với tín_hiệu tắt .
+
+f ) Mức tạp_âm ( hoặc tỉ_lệ tín_hiệu trên tạp_âm ) của máy phát tín_hiệu đo đầu_tiên phải thay_đổi để xác_định mức_độ nhạy chuẩn ngưỡng .
+
+g ) Máy_phát tín_hiệu thứ hai được thiết_lập với tín_hiệu bật .
+
+h ) Mức tạp_âm ( hoặc tỉ_lệ tín_hiệu trên tạp_âm ) của máy phát tín_hiệu đo đầu_tiên phải thay_đổi để xác_định mức_độ nhạy chuẩn ngưỡng .
+
+i ) Sự suy_giảm mức tạp_âm ( hoặc tỉ_lệ tín_hiệu trên tạp_âm ) xác_định trong bước h ) trừ đi mức tạp_âm ( hoặc tỉ_lệ tín_hiệu trên tạp_âm ) xác_định trong bước f ) .
+
+j ) Kết_quả là tìm được sự suy_giảm cao nhất .
+
+4 . Quy_định Về Quản_lý
+
+4 . 1 . Các thiết_bị trạm mặt_đất di_động thuộc phạm_vi điều_chỉnh quy_định tại điều 1 . 1 phải tuân_thủ các yêu_cầu kĩ_thuật trong quy_chuẩn này .
+
+4 . 2 . Các tổ_chức , cá_nhân được phép sử_dụng kết_quả đo của các phòng thử_nghiệm được công_nhận theo Iso / iec 17025 đối_với yêu_cầu tại điều 2 . 2 . 3 để thực_hiện về chứng_nhận hợp quy và công_bố hợp quy . Việc đo kiểm đối_với yêu_cầu kĩ_thuật khác của quy_chuẩn ( trừ điều 2 . 2 . 3 ) để thực_hiện về chứng_nhận hợp quy và công_bố hợp quy phải thực_hiện theo các quy_định hiện_hành .
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+Các tổ_chức , cá_nhân liên_quan có trách_nhiệm thực_hiện các quy_định về chứng_nhận hợp quy và công_bố hợp quy các thiết_bị trạm mặt_đất di_động hoạt_động trong băng tần Ku và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành .
+
+6 . Tổ_chức Thực_hiện
+
+6 . 1 . Cục Viễn_thông và các Sở Thông_tin và Truyền_thông có trách_nhiệm hướng_dẫn , tổ_chức triển_khai quản_lí thiết_bị phù_hợp với quy_chuẩn này .
+
+6 . 2 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới .
+
+6 . 3 . Trong quá_trình triển_khai thực_hiện quy_chuẩn này , nếu có vấn_đề phát_sinh , vướng_mắc , các tổ_chức và cá_nhân có liên_quan phản_ánh bằng văn_bản về Bộ Thông_tin và Truyền_thông ( Vụ Khoa_học và Công_nghệ ) để được hướng_dẫn , giải_quyết . / .
+
+Thư_mục_tài_liệu Tham_khảo
+
+[ 1 ] Etsi En 301 427 V2 . 1 . 1 ( 2016 - 06 ) : Satellite Earth Stations and Systems ( ses ) : Harmonized En for Low data rate Mobile satellite Earth_stations ( mes ) except aeronautical mobile satellite earth stations , operating in the 11/12/14 GHz frequency bands covering essential requirements under article 3 . 2 of the R & te directive .
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Điều_kiện môi_trường
+
+2 . 2 . Các yêu_cầu kĩ_thuật
+
+2 . 2 . 1 . Phát_xạ không mong_muốn ngoài băng
+
+2 . 2 . 2 . Phát_xạ không mong_muốn trong băng
+
+2 . 2 . 3 . Mật_độ phát_xạ Eirp lệch trục trong băng_thông danh định
+
+2 . 2 . 4 . Chức_năng điều_khiển và giám_sát ( cmf )
+
+2 . 2 . 5 . Giản đồ độ tăng ích lệch trục của ăng ten thu
+
+2 . 2 . 6 . Hiệu_suất chặn
+
+2 . 2 . 7 . Chọn_lọc tín_hiệu liền kề
+
+3 . Phương_pháp_đo
+
+3 . 1 . Phát_xạ không mong_muốn ngoài băng
+
+3 . 1 . 1 . Yêu_cầu chung
+
+3 . 1 . 2 . Vị_trí đo
+
+3 . 1 . 3 . Phương_pháp đo
+
+3 . 1 . 4 . Thủ_tục đo
+
+3 . 2 . Phát_xạ không mong_muốn trong băng
+
+3 . 2 . 1 . Phương_pháp đo
+
+3 . 3 . Mật_độ phát_xạ Eirp lệch trục trong băng_thông danh định
+
+3 . 3 . 1 . Yêu_cầu chung
+
+3 . 3 . 2 . Độ chính_xác rms ăng ten định_hướng tĩnh
+
+3 . 3 . 3 . Đo Eirp lệch trục không có ăng ten
+
+3 . 3 . 4 . Đo Eirp ngoài trục khi có ăng ten
+
+3 . 4 . Điều_khiển và giám_sát
+
+3 . 4 . 1 . Sơ_đồ đo
+
+3 . 4 . 2 . Giám_sát bộ xử_lí
+
+3 . 4 . 3 . Giám_sát phân hệ_phát
+
+3 . 4 . 4 . Đóng nguồn
+
+3 . 4 . 5 . Thu kênh điều_khiển ( cc )
+
+3 . 4 . 6 . Lệnh điều_khiển mạng
+
+3 . 4 . 7 . Phát cụm khởi tạo
+
+3 . 5 . Giản đồ độ tăng ích lệch trục của ăng ten thu
+
+3 . 5 . 1 . Vị_trí đo
+
+3 . 5 . 2 . Phương_pháp đo
+
+3 . 6 . Hiệu_suất chặn
+
+3 . 7 . Chọn_lọc tín_hiệu liền kề
+
+4 . Quy_định Về Quản_lý
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+6 . Tổ_chức Thực_hiện
+
+Thư_mục_tài_liệu Tham_khảo

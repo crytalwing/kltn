@@ -1,0 +1,661 @@
+Thông_tư số 14/2018/tt-btnmt ngày 18 tháng 10 năm 2018 của bộ tài_nguyên và môi_trường
+
+Căn_cứ <LT rel="CC"> Luật khí_tượng thuỷ_văn ngày 23 tháng 11 năm 2015 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 </NĐ> của Chính_phủ về thu_thập , quản_lý , khai_thác và sử_dụng thông_tin , dữ_liệu tài_nguyên và môi_trường ;
+
+Theo đề_nghị của Tổng_cục_trưởng Tổng_cục Khí_tượng Thuỷ_văn , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư quy_định kĩ_thuật về quy_trình công_tác thông_tin , dữ_liệu khí_tượng thuỷ_văn .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định kĩ_thuật về quy_trình công_tác thông_tin , dữ_liệu khí_tượng thuỷ_văn bao_gồm các nội_dung sau :
+
+1 . Giám_sát và duy_trì hoạt_động hệ_thống phụ_trợ phòng máy_chủ dùng cho chuyên_ngành khí_tượng thuỷ_văn .
+
+2 . Vận_hành và duy_trì hoạt_động trạm thu vệ_tinh khí_tượng .
+
+3 . Vận_hành và duy_trì hoạt_động hệ_thống Vsat trong lĩnh_vực khí_tượng thuỷ_văn .
+
+4 . Vận_hành và duy_trì hoạt_động trạm vô_tuyến_điện truyền , nhận thông_tin , dữ_liệu khí_tượng thuỷ_văn .
+
+5 . Vận_hành và duy_trì hoạt_động hệ_thống truyền_hình trực_tuyến phục_vụ tác_nghiệp khí_tượng thuỷ_văn .
+
+6 . Giám_sát và đánh_giá chất_lượng truyền nhận , phát báo thông_tin , dữ_liệu khí_tượng thuỷ_văn thời_gian thực .
+
+7 . Thu_nhận , xử_lý , lưu_trữ và chia_sẻ thông_tin , dữ_liệu số khí_tượng thuỷ_văn .
+
+8 . Bảo_quản , bổ_sung , khai_thác thông_tin , dữ_liệu khí_tượng thuỷ_văn trong hoạt_động thư_viện .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với cơ_quan nhà_nước , đơn_vị sự_nghiệp công_lập , tổ_chức và cá_nhân có liên_quan đến công_tác thông_tin , dữ_liệu khí_tượng thuỷ_văn .
+
+Điều 3 . Giải_thích từ_ngữ và chữ_viết tắt
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Hệ_thống phụ_trợ phòng máy_chủ là tập_hợp các hệ_thống_thiết_bị nhằm đảm_bảo môi_trường hoạt_động cho các thiết_bị công_nghệ thông_tin gồm : camera , giám_sát môi_trường , nguồn điện_lưới , bộ lưu_điện ( ups ) , phòng cháy và chữa_cháy , điều_hoà và chống sét .
+
+2 . Ups ( Uninterruptible Power_supply ) là hệ_thống lưu_trữ điện .
+
+3 . Hệ_thống giám_sát môi_trường là hệ_thống giám_sát các thông_số nhiệt_độ , độ_ẩm , rò_rỉ nước trong phòng máy_chủ và gửi thông_tin cảnh_báo .
+
+4 . Hệ_thống Outdoor là các thiết_bị thuộc hệ_thống trạm thu vệ_tinh và vô_tuyến_điện ngoài_trời .
+
+5 . Hệ_thống Indoor là các thiết_bị thuộc hệ_thống trạm thu vệ_tinh và vô_tuyến_điện trong nhà .
+
+6 . Hệ_thống Vsat ( Very Small Aperture_terminal ) là hệ_thống các trạm thông_tin vệ_tinh mặt_đất cỡ nhỏ , gồm trạm Hub và các trạm Remote .
+
+7 . Trạm Hub là trạm trung_tâm có chức_năng quản_lý , điều_khiển các trạm Remote trong hệ_thống Vsat .
+
+8 . Trạm Remote là trạm thành_phần và chịu sự quản_lý , điều_khiển của trạm Hub .
+
+9 . Lna ( Low Noise_amplifier ) là bộ khuếch_đại tạp_âm thấp .
+
+10 . Lnb ( Low noise block downconverte ) : Bộ chuyển_đổi tần_số sóng vệ_tinh từ cao xuống thấp .
+
+11 . Omt ( Othormode_tranducer ) là bộ chuyển_đổi chế_độ phân_cực .
+
+12 . Bug ( Block Up_converter ) là bộ chuyển_đổi đường lên .
+
+13 . Feed horn là loa chiếu_xạ của ăng ten .
+
+14 . Nms ( vsat Network Management_system ) là hệ_thống quản_trị mạng của hệ_thống Vsat .
+
+15 . Trạm thu vệ_tinh khí_tượng là trạm thu dữ_liệu ảnh vệ_tinh khí_tượng và các loại số_liệu khí_tượng thuỷ_văn trực_tiếp từ vệ_tinh thời_tiết hoặc thông_qua vệ_tinh viễn_thông .
+
+16 . Firmware là một chương_trình máy_tính đặc_biệt để điều_khiển cấp thấp nhiều thiết_bị điện_tử .
+
+17 . Bộ điều hướng là bộ phối_hợp trở_kháng giữa ăng ten thu hoặc phát và máy thu hoặc phát vô_tuyến_điện .
+
+18 . Hệ_thống truyền_hình trực_tuyến là hệ_thống phần_cứng , phần_mềm thực_hiện truyền_tải hình_ảnh , âm_thanh giữa hai hoặc nhiều điểm từ xa kết_nối qua đường truyền mạng để đưa tín_hiệu âm_thanh và hình_ảnh của các phòng họp đến với nhau như đang ngồi họp cùng một phòng họp .
+
+19 . Mcu ( Multipoint Control_unit ) là thiết_bị quản_lí đa điểm .
+
+20 . Dma ( Distributed Media_application ) là thiết_bị phân_phối các ứng_dụng truyền_thông đa_phương_tiện .
+
+Chương_ii
+
+Quy_định Chi_tiết
+
+Điều 4 . Giám_sát hoạt_động hệ_thống phụ_trợ phòng máy_chủ dùng cho chuyên_ngành khí_tượng thuỷ_văn
+
+1 . Giám_sát hệ_thống camera :
+
+a ) Kiểm_tra phần_cứng camera , đầu_ghi_hình và cáp truyền tín_hiệu ;
+
+b ) Kiểm_tra tính_năng kĩ_thuật phần_mềm quản_lý , điều_khiển camera và phân_vùng lưu_trữ dữ_liệu hình_ảnh ;
+
+c ) Theo_dõi liên_tục hoạt_động của hệ_thống .
+
+2 . Hệ_thống giám_sát môi_trường :
+
+a ) Kiểm_tra sơ_bộ các thiết_bị thành_phần của hệ_thống ;
+
+b ) Kiểm_tra trạng_thái tín_hiệu của các cảm_biến đưa về hệ_thống giám_sát tập_trung ;
+
+c ) Kiểm_tra , phân_tích tập_tin nhật_kí của hệ_thống ;
+
+d ) Theo_dõi liên_tục hoạt_động của hệ_thống .
+
+3 . Giám_sát hệ_thống nguồn điện_lưới :
+
+a ) Kiểm_tra các thông_số nguồn điện ;
+
+b ) Theo_dõi hoạt_động của các tủ cấp điện_lưới .
+
+4 . Giám_sát hệ_thống Ups :
+
+a ) Kiểm_tra sơ_bộ các bất_thường có khả_năng gây hư_hỏng Ups ;
+
+b ) Kiểm_tra các thông_số kĩ_thuật của Ups ;
+
+c ) Theo_dõi các thông_số kĩ_thuật của Ups thông_qua phần_mềm quản_lí giám_sát .
+
+5 . Giám_sát hệ_thống phòng cháy , chữa_cháy :
+
+a ) Kiểm_tra sơ_bộ tình_trạng bên ngoài của hệ_thống , dấu_hiệu hư_hỏng , kết_nối giữa các thành_phần thiết_bị , nguồn cấp ;
+
+b ) Kiểm_tra bình ắc_quy ;
+
+c ) Kiểm_tra áp_suất bình khí ;
+
+d ) Kiểm_tra chức_năng chuyển nguồn tự_động của hệ_thống ;
+
+đ ) Phân_tích các cảnh_báo lỗi hệ_thống trên màn_hình hiển_thị của tủ điều_khiển ;
+
+e ) Theo_dõi liên_tục hoạt_động của hệ_thống .
+
+6 . Giám_sát hệ_thống điều_hoà :
+
+a ) Kiểm_tra hoạt_động của quạt dàn lạnh ;
+
+b ) Kiểm_tra hoạt_động của quạt đảo ;
+
+c ) Kiểm_tra nhiệt_độ , độ_ẩm qua bảng điều_khiển ;
+
+d ) Thực_hiện luân_phiên_chuyển_đổi hoạt_động giữa các điều_hoà .
+
+7 . Chế_độ thực_hiện :
+
+a ) Chế_độ giám_sát thực_hiện liên_tục 24/24 giờ , chia làm 03 ca ;
+
+b ) Chế_độ kiểm_tra sơ_bộ thực_hiện 2 lần / ca ;
+
+c ) Sau mỗi ca làm_việc ghi nhật_kí giám_sát hoạt_động hệ_thống phụ_trợ phòng máy_chủ dùng cho chuyên_ngành khí_tượng thuỷ_văn .
+
+Điều 5 . Duy_trì hoạt_động hệ_thống phụ_trợ phòng máy_chủ dùng cho chuyên_ngành khí_tượng thuỷ_văn
+
+1 . Duy_trì hoạt_động hệ_thống camera :
+
+a ) Xây_dựng kế_hoạch , chuẩn_bị tài_liệu , thiết_bị , vật_tư , dụng_cụ cần_thiết và thông_báo đến các bộ_phận liên_quan ;
+
+b ) Kiểm_tra chi_tiết kĩ_thuật các thiết_bị thành_phần của hệ_thống ;
+
+c ) Bảo_trì , bảo_dưỡng hệ_thống ;
+
+d ) Thay_thế linh_kiện , thiết_bị ;
+
+d ) Xử_lí_sự_cố phát_sinh .
+
+2 . Duy_trì hoạt_động hệ_thống giám_sát môi_trường :
+
+a ) Xây_dựng kế_hoạch , chuẩn_bị tài_liệu , thiết_bị , vật_tư , dụng_cụ cần_thiết và thông_báo đến các bộ_phận liên_quan ;
+
+b ) Kiểm_tra chi_tiết kĩ_thuật của từng thiết_bị thành_phần ;
+
+c ) Kiểm_tra tính_năng của từng cảm_biến và các chức_năng của hệ_thống xử_lí trung_tâm ;
+
+d ) Xử_lí_sự_cố phát_sinh ;
+
+đ ) Bảo_trì , bảo_dưỡng hệ_thống ;
+
+e ) Thay_thế linh_kiện , thiết_bị .
+
+3 . Duy_trì hoạt_động hệ_thống nguồn diện lưới :
+
+a ) Xây_dựng kế_hoạch , chuẩn_bị tài_liệu , thiết_bị , vật_tư , dụng_cụ cần_thiết và thông_báo đến các bộ_phận liên_quan ;
+
+b ) Kiểm_tra chi_tiết kĩ_thuật các thành_phần nguồn điện ;
+
+c ) Xử_lí các sự_cố phát_sinh ;
+
+d ) Bảo_trì , bảo_dưỡng hệ_thống ;
+
+đ ) Thay_thế linh_kiện , thiết_bị .
+
+4 . Duy_trì hoạt_động hệ_thống Ups :
+
+a ) Xây_dựng kế_hoạch , chuẩn_bị tài_liệu , thiết_bị , vật_tư , dụng_cụ cần_thiết và thông_báo đến các bộ_phận liên_quan ;
+
+b ) Kiểm_tra chi_tiết kĩ_thuật từng thiết_bị thành_phần ;
+
+c ) Kiểm_tra các chức_năng của hệ_thống ;
+
+d ) Xử_lí_sự_cố phát_sinh ;
+
+đ ) Bảo_trì , bảo_dưỡng hệ_thống ;
+
+e ) Thay_thế linh_kiện , thiết_bị .
+
+5 . Duy_trì hoạt_động hệ_thống phòng cháy , chữa_cháy :
+
+a ) Xây_dựng kế_hoạch , chuẩn_bị tài_liệu , thiết_bị , vật_tư , dụng_cụ cần_thiết và thông_báo đến các bộ_phận liên_quan ;
+
+b ) Kiểm_tra hoạt_động của hệ_thống cảnh_báo bằng âm_thanh ;
+
+c ) Cô_lập tính_năng tự_động kích_hoạt chữa_cháy tại tủ điều_khiển trung_tâm của hệ_thống ;
+
+d ) Kiểm_tra cảm_biến khói ;
+
+đ ) Kiểm_tra cảm_biến nhiệt ;
+
+e ) Kiểm_tra chức_năng kích_hoạt phun khí của hệ_thống ;
+
+g ) Kiểm_tra chức_năng sẵn_sàng chữa_cháy tự_động của hệ_thống ;
+
+h ) Vệ_sinh sơ_bộ các cảm_biến ;
+
+i ) Kết_nối lại hệ_thống với tủ điều_khiển trung_tâm ;
+
+k ) Xử_lí_sự_cố phát_sinh ;
+
+l ) Bảo_trì , bảo_dưỡng hệ_thống ;
+
+m ) Thay_thế linh_kiện , thiết_bị .
+
+6 . Duy_trì hoạt_động hệ_thống điều_hoà :
+
+a ) Xây_dựng kế_hoạch , chuẩn_bị tài_liệu , thiết_bị , vật_tư , dụng_cụ cần_thiết và thông_báo đến các bộ_phận liên_quan ;
+
+b ) Kiểm_tra hiệu_suất của dàn nóng ;
+
+c ) Kiểm_tra chi_tiết kĩ_thuật dàn lạnh ;
+
+d ) Kiểm_tra hệ_thống ống dẫn khí lạnh và thoát nước_thải của điều_hoà ; đ ) Kiểm_tra cường_độ dòng diện ;
+
+e ) Xử_lí_sự_cố phát_sinh ;
+
+g ) Bảo_trì , bảo_dưỡng hệ_thống ;
+
+h ) Thay_thế linh_kiện , thiết_bị .
+
+7 . Duy_trì hoạt_động hệ_thống chống sét :
+
+a ) Xây_dựng kế_hoạch , chuẩn_bị tài_liệu , thiết_bị , vật_tư , dụng_cụ cần_thiết ;
+
+b ) Kiểm_tra chi_tiết kĩ_thuật hệ_thống cắt lọc sét lan_truyền đường nguồn ;
+
+c ) Kiểm_tra chi_tiết kĩ_thuật hệ_thống tiếp địa ;
+
+d ) Xử_lí_sự_cố phát_sinh ;
+
+đ ) Bảo_trì , bảo_dưỡng hệ_thống ;
+
+e ) Thay_thế linh_kiện , thiết_bị .
+
+8 . Chế_độ thực_hiện :
+
+a ) Kiểm_tra chi_tiết kĩ_thuật của hệ_thống thực_hiện 01 lần / tháng ;
+
+b ) Bảo_trì , bảo_dưỡng thực_hiện 01 lần / 6 tháng ;
+
+c ) Thay_thế linh_kiện , thiết_bị thực_hiện theo quy_định hiện_hành , theo tài_liệu kĩ_thuật của nhà sản_xuất , hết thời_hạn sử_dụng hoặc bị hư_hỏng ;
+
+d ) Hàng tháng lập báo_cáo công_tác duy_trì hoạt_động hệ_thống phụ_trợ phòng máy_chủ dùng cho chuyên_ngành khí_tượng thuỷ_văn .
+
+Điều 6 . Vận_hành và duy_trì hoạt_động trạm thu vệ_tinh khí_tượng
+
+1 . Kiểm_tra hệ_thống Outdoor :
+
+a ) Đo kiểm_tra chất_lượng tín_hiệu và cường_độ tín_hiệu ;
+
+b ) Kiểm_tra , căn_chỉnh góc ngẩng , góc phương vị của ăng ten ;
+
+c ) Kiểm_tra , căn_chỉnh vị_trí góc xoay , độ lệch tâm , khoảng_cách của Lnb và Feed horn so với bề_mặt phản_xạ tín_hiệu ;
+
+d ) Kiểm_tra kết_nối giữa các thiết_bị , chất_lượng của cáp tín_hiệu ;
+
+đ ) Kiểm_tra hệ_thống chống sét trực_tiếp , hệ_thống / thiết_bị chống sét lan_truyền đường nguồn , thiết_bị chống sét lan_truyền đường tín_hiệu , hệ_thống tiếp địa cho ăng ten , cáp đồng trục và thiết_bị cắt lọc sét lan_truyền đường nguồn ;
+
+e ) Kiểm_tra hệ_thống cột , dây_cáp néo ăng ten .
+
+2 . Vận_hành hệ_thống Indoor :
+
+a ) Kiểm_tra , giám_sát hoạt_động của đầu thu tín_hiệu vệ_tinh và các thiết_bị liên_quan của hệ_thống ;
+
+b ) Vận_hành phần_cứng của hệ_thống ;
+
+c ) Vận_hành phần_mềm của hệ_thống .
+
+3 . Quản_lí cấu_hình và Firmware :
+
+a ) Sao lưu cấu_hình và Firmware hiện_tại của hệ_thống ;
+
+b ) Thay_đổi , cập_nhật , thông_tin cấu_hình ;
+
+c ) Cập_nhật Firmware ;
+
+d ) Kiểm_tra hoạt_động hệ_thống sau thay_đổi ;
+
+đ ) Sao lưu cấu_hình mới .
+
+4 . Bảo_trì , bảo_dưỡng hệ_thống :
+
+a ) Xây_dựng kế_hoạch và thông_báo cho các bộ_phận liên_quan về thời_gian bảo_trì , bảo_dưỡng định_kì hoặc thay_thế thiết_bị ;
+
+b ) Bảo_trì , bảo_dưỡng hệ_thống ;
+
+c ) Thay_thế thiết_bị ;
+
+d ) Kiểm_tra vận_hành hệ_thống sau bảo_trì , bảo_dưỡng , thay_thế thiết_bị .
+
+5 . Xử_lí_sự_cố :
+
+a ) Tiếp_nhận và ghi_nhận sự_cố , đối_chiếu danh_mục sự_cố ;
+
+b ) Xác_minh sự_cố của hệ_thống ;
+
+c ) Phân_tích nguyên_nhân của sự_cố ;
+
+d ) Đề_xuất giải_pháp khắc_phục sự_cố ;
+
+d ) Thực_hiện khắc_phục sự_cố ;
+
+e ) Thay_thế linh_kiện , thiết_bị .
+
+6 . Chế_độ thực_hiện :
+
+a ) Kiểm_tra hệ_thống Outdoor thực_hiện 01 lần / tháng ;
+
+b ) Vận_hành hệ_thống Indoor thực_hiện 24/24 giờ ;
+
+c ) Thay_đổi cấu_hình cho phù_hợp với yêu_cầu của hệ_thống ;
+
+d ) Cập_nhật Firmware theo yêu_cầu của nhà sản_xuất ;
+
+đ ) Bảo_trì , bảo_dưỡng hệ_thống thực_hiện 01 lần / 06 tháng ;
+
+e ) Thay_thế linh_kiện , thiết_bị thực_hiện theo quy_định hiện_hành , theo tài_liệu kĩ_thuật của nhà sản_xuất , hết thời_hạn sử_dụng hoặc bị hư_hỏng ;
+
+g ) Hàng tháng lập báo_cáo công_tác vận_hành và duy_trì hoạt_động trạm thu vệ_tinh khí_tượng .
+
+Điều 7 . Vận_hành và duy_trì hoạt_động trạm Hub của hệ_thống Vsat khí_tượng thuỷ_văn
+
+1 . Kiểm_tra hệ_thống Outdoor của trạm Hub :
+
+a ) Đo kiểm_tra chất_lượng tín_hiệu và cường_độ tín_hiệu ;
+
+b ) Kiểm_tra , căn_chỉnh góc ngẩng , góc phương vị của ăng ten ;
+
+c ) Kiểm_tra , căn_chỉnh vị_trí góc xoay , độ lệch tâm , khoảng_cách của Lnb so với bề_mặt phản_xạ tín_hiệu ;
+
+d ) Kiểm_tra công_suất nguồn tín_hiệu đầu_vào thiết_bị thu phát tín_hiệu vệ_tinh , các đầu giắc cắm , nguồn cung_cấp điện , nhiệt_độ thiết_bị , quạt tản_nhiệt ;
+
+đ ) Kiểm_tra kết_nối cáp tín_hiệu với các thiết_bị Lnb , Lna , Buc , Omt ;
+
+e ) Kiểm_tra độ suy hao của cáp tín_hiệu ;
+
+g ) Kiểm_tra ống dẫn sóng ;
+
+h ) Kiểm_tra hệ_thống chống sét trực_tiếp , hệ_thống / thiết_bị chống sét lan_truyền đường nguồn , thiết_bị chống sét lan_truyền đường tín_hiệu , hệ_thống tiếp địa cho ăng ten , cáp đồng trục , thiết_bị cắt sét lan_truyền đường nguồn ;
+
+i ) Kiểm_tra hệ_thống cột , dây_cáp néo ăng ten .
+
+2 . Vận_hành hệ_thống Indoor của trạm Hub :
+
+a ) Kiểm_tra hệ_thống nguồn điện , thiết_bị cắt lọc sét lan_truyền ;
+
+b ) Kiểm_tra kết_nối giữa các thành_phần của hệ_thống ;
+
+c ) Kiểm_tra trạng_thái đèn của mô đem thu phát ;
+
+d ) Thiết_lập các thông_số điều_chế , tốc_độ mã_hoá , mức_độ công_suất đầu_ra , thiết_lập mô_hình hoạt_động ;
+
+d ) Kiểm_tra cơ_chế bảo_mật ;
+
+e ) Giám_sát tỉ_lệ rót gói , thông_số đường truyền ;
+
+g ) Vận_hành máy_chủ , máy trạm của trạm Hub ;
+
+h ) Vận_hành hệ_thống Nms .
+
+3 . Quản_lí cấu_hình và Firmware thực_hiện theo quy_định tại khoản 3 Điều 6 Thông_tư này .
+
+4 . Bảo_trì , bảo_dưỡng hệ_thống thực_hiện theo quy_định tại khoản 4 Điều 6 Thông_tư này .
+
+5 . Xử_lí_sự_cố thực_hiện theo quy_định tại khoản 5 Điều 6 Thông_tư này .
+
+6 . Chế_độ thực_hiện :
+
+a ) Chế_độ vận_hành và duy_trì hoạt_động trạm Hub của hệ_thống Vsat khí_tượng thuỷ_văn được thực_hiện theo quy_định tại các điểm a đến điểm e khoản 6 Điều 6 Thông_tư này ;
+
+b ) Hàng tháng lập báo_cáo công_tác vận_hành và duy_trì hoạt_động trạm Hub của hệ_thống Vsat khí_tượng thuỷ_văn .
+
+Điều 8 . Vận_hành và duy_trì hoạt_động trạm Remote của hệ_thống Vsat khí_tượng thuỷ_văn
+
+1 . Kiểm_tra hệ_thống Outdoor của trạm Remote :
+
+a ) Đo kiểm_tra chất_lượng tín_hiệu và cường_độ tín_hiệu ; kiểm_tra , căn_chỉnh góc ngẩng , góc phương vị của ăng ten ;
+
+b ) Kiểm_tra , căn_chỉnh vị_trí góc xoay , độ lệch tâm , khoảng_cách của Lnb so với bề_mặt phản_xạ tín_hiệu ;
+
+c ) Kiểm_tra thiết_bị đổi tần lên và khuếch_đại công_suất ;
+
+d ) Kiểm_tra hệ_thống cột , dây_cáp néo ăng ten ;
+
+đ ) Kiểm_tra chất_lượng cáp tín_hiệu kết_nối giữa các thiết_bị Lnb , Buc ;
+
+e ) Kiểm_tra hệ_thống chống sét trực_tiếp , hệ_thống hoặc thiết_bị chống sét lan_truyền đường nguồn , thiết_bị chống sét lan_truyền đường tín_hiệu , hệ_thống tiếp địa cho ăng ten , cáp đồng trục , thiết_bị cắt sét lan_truyền đường nguồn .
+
+2 . Vận_hành hệ_thống Indoor của trạm Remote :
+
+a ) Kiểm_tra hệ_thống nguồn điện , thiết_bị cắt lọc sét lan_truyền ;
+
+b ) Kiểm_tra kết_nối giữa các thành_phần của hệ_thống ;
+
+c ) Giám_sát trạng_thái đèn của mô đem thu phát , trạng_thái kết_nối và truyền số_liệu giữa trạm Remote và trạm Hub , thông_số đường truyền ;
+
+d ) Vận_hành máy_chủ , máy trạm của trạm Remote .
+
+3 . Quản_lí cấu_hình và Firmware thực_hiện theo quy_định tại khoản 3 Điều 6 Thông_tư này .
+
+4 . Bảo_trì , bảo_dưỡng hệ_thống thực_hiện theo quy_định tại khoản 4 Điều 6 Thông_tư này .
+
+5 . Xử_lí_sự_cố thực_hiện theo quy_định tại khoản 5 Điều 6 Thông_tư này .
+
+6 . Chế_độ thực_hiện :
+
+a ) Chế_độ vận_hành và duy_trì hoạt_động trạm Remote của hệ_thống Vsat khí_tượng thuỷ_văn được thực_hiện theo quy_định tại các điểm a đến điểm e khoản 6 Điều 6 Thông_tư này ;
+
+b ) Hàng tháng lập báo_cáo công_tác vận_hành và duy_trì hoạt_động trạm Remote của hệ_thống Vsat khí_tượng thuỷ_văn .
+
+Điều 9 . Vận_hành và duy_trì hoạt_động trạm vô_tuyến_điện truyền nhận thông_tin , dữ_liệu khí_tượng thuỷ_văn
+
+1 . Kiểm_tra hệ_thống Outdoor :
+
+a ) Kiểm_tra ăng ten và các thông_số kĩ_thuật ;
+
+b ) Kiểm_tra độ suy hao của dây_dẫn tín_hiệu từ ăng ten tới thiết_bị thu phát ;
+
+c ) Kiểm_tra hệ_thống cột , dây_cáp néo ăng ten ;
+
+d ) Kiểm_tra hệ_thống chống sét trực_tiếp , hệ_thống / thiết_bị chống sét lan_truyền đường nguồn , hệ_thống chống sét lan_truyền đường tín_hiệu , hệ_thống tiếp địa ;
+
+2 . Vận_hành hệ_thống Indoor :
+
+a ) Chuẩn_bị công_cụ , dụng_cụ , tài_liệu ;
+
+b ) Kiểm_tra nguồn điện một chiều cung_cấp cho thiết_bị ;
+
+c ) Kiểm_tra bộ điều hướng ;
+
+d ) Kiểm_tra thiết_bị phần_cứng , thiết_bị thu phát ;
+
+đ ) Cài_đặt các thông_số kĩ_thuật ;
+
+e ) Liên_lạc thử với các điểm cần liên_lạc ;
+
+g ) Thu , phát dữ_liệu .
+
+3 . Quản_lí thông_tin cấu_hình và Firmware thực_hiện theo quy_định tại khoản 3 Điều 6 Thông_tư này .
+
+4 . Bảo_trì , bảo_dưỡng hệ_thống và thay_thế linh_kiện , thiết_bị thực_hiện theo quy_định tại khoản 4 Điều 6 Thông_tư này .
+
+5 . Quy_trình xử_lí_sự_cố thực_hiện theo quy_định tại khoản 5 Điều 6 Thông_tư này .
+
+6 . Chế_độ thực_hiện :
+
+a ) Chế_độ vận_hành và duy_trì hoạt_động trạm vô_tuyến_điện truyền nhận thông_tin , dữ_liệu khí_tượng thuỷ_văn được thực_hiện theo quy_định tại các điểm a đến điểm e khoản 6 Điều 6 Thông_tư này ;
+
+b ) Hàng tháng lập báo_cáo công_tác vận_hành và duy_trì hoạt_động trạm vô_tuyến_điện truyền nhận thông_tin , dữ_liệu khí_tượng thuỷ_văn .
+
+Điều 10 . Vận_hành và duy_trì hoạt_động hệ_thống truyền_hình trực_tuyến phục_vụ tác_nghiệp khí_tượng thuỷ_văn
+
+1 . Vận_hành hệ_thống trung_tâm :
+
+a ) Kiểm_tra thiết_bị Mcu , Dma , Media suite , G8 , Delta pa th , kết_nối giữa các thiết_bị và giám_sát hoạt_động của các thiết_bị trong toàn_bộ thời_gian phiên họp bảo_đảm liên_tục , hiệu_quả ;
+
+b ) Kiểm_tra băng_thông tổng , băng_thông kết_nối đến các điểm cầu , chất_lượng kênh truyền , trạng_thái kết_nối đến các điểm cầu ;
+
+c ) Vận_hành các thiết_bị của hệ_thống .
+
+2 . Vận_hành phần_mềm quản_lí phiên họp :
+
+a ) Khởi_động phần_mềm và thiết_lập cấu_hình của hệ_thống ;
+
+b ) Thiết_lập lịch cuộc họp trực_tuyến và các thông_tin liên_quan ;
+
+c ) Kiểm_soát , điều_khiển thiết_bị đầu_cuối tại các điểm cầu ;
+
+d ) Thiết_lập chế_độ trình_bày hình_ảnh của các điểm cầu ;
+
+đ ) Giám_sát chất_lượng hình_ảnh , âm_thanh và điều_chỉnh chế_độ hiển_thị hình_ảnh tối_ưu phù_hợp với băng_thông thực_tế .
+
+3 . Vận_hành hệ_thống tại các điểm cầu :
+
+a ) Khởi_động hệ_thống các thiết_bị tại điểm cầu ;
+
+b ) Kiểm_tra tình_trạng thiết_bị và các kết_nối giữa thành_phần thiết_bị trong hệ_thống ;
+
+c ) Kiểm_tra kênh truyền từ điểm cầu đến hệ_thống trung_tâm ;
+
+d ) Kết_nối từ điểm cầu đến phòng họp trực_tuyến ;
+
+đ ) Phối_hợp với cán_bộ kĩ_thuật tại điểm cầu trung_tâm kiểm_tra chất_lượng hình_ảnh , âm_thanh ;
+
+e ) Điều_khiển các thiết_bị theo yêu_cầu ;
+
+g ) Tắt_thiết_bị .
+
+4 . Hỗ_trợ kĩ_thuật và xử_lí_sự_cố
+
+a ) Tiếp_nhận / ghi_nhận sự_cố ;
+
+b ) Xác_minh sự_cố ;
+
+c ) Phân_tích nguyên_nhân của sự_cố ;
+
+d ) Đề_xuất giải_pháp khắc_phục sự_cố ;
+
+d ) Phối_hợp khắc_phục sự_cố ;
+
+e ) Cập_nhật danh_mục sự_cố .
+
+5 . Bảo_dưỡng hệ_thống và thay_thế linh_kiện , thiết_bị thực_hiện theo quy_định tại khoản 5 Điều 6 Thông_tư này .
+
+6 . Chế_độ thực_hiện :
+
+a ) Vận_hành hệ_thống trung_tâm , phần_mềm quản_lí cuộc họp và thiết_bị tại các điểm cầu thực_hiện 01 lần / cuộc họp ;
+
+b ) Bảo_trì , bảo_dưỡng hệ_thống được thực_hiện 01 lần / 06 tháng ;
+
+c ) Thay_thế linh_kiện , thiết_bị thực_hiện theo quy_định hiện_hành , theo tài_liệu kĩ_thuật của nhà sản_xuất , hết thời_hạn sử_dụng hoặc bị hư_hỏng .
+
+d ) Sau mỗi phiên họp ghi nhật_kí vận_hành hệ_thống ;
+
+đ ) Hàng tháng lập báo_cáo tổng_hợp công_tác vận_hành và duy_trì hoạt_động hệ_thống truyền_hình trực_tuyến phục_vụ tác_nghiệp khí_tượng thuỷ_văn .
+
+Điều 11 . Giám_sát và đánh_giá chất_lượng truyền nhận , phát báo thông_tin , dữ_liệu khí_tượng thuỷ_văn thời_gian thực
+
+1 . Kiểm_tra tình_trạng hoạt_động của các thiết_bị , phần_mềm theo_dõi truyền nhận thông_tin , dữ_liệu .
+
+2 . Giám_sát quá_trình truyền nhận và phát báo thông_tin , dữ_liệu :
+
+a ) Giám_sát khối_lượng thông_tin , dữ_liệu ;
+
+b ) Giám_sát thời_gian truyền nhận và phát báo ;
+
+c ) Kiểm_tra cấu_trúc , định_dạng thông_tin , dữ_liệu .
+
+3 . Xử_lí_sự_cố :
+
+a ) Trường_hợp không nhận được thông_tin , dữ_liệu hoặc không đủ khối_lượng , sai cấu_trúc , định_dạng , không đúng thời_gian truyền nhận theo quy_định , bộ_phận giám_sát thông_tin , báo_cáo đến các đơn_vị truyền_thông_tin , dữ_liệu để xử_lý ;
+
+b ) Trường_hợp lỗi đường truyền và phần_mềm thì yêu_cầu bộ_phận kĩ_thuật xử_lý ;
+
+c ) Ghi nhật_ký .
+
+4 . Đánh_giá chất_lượng truyền nhận và phát báo thông_tin , dữ_liệu :
+
+a ) Đánh_giá tính đầy_đủ khối_lượng thông_tin , dữ_liệu ;
+
+b ) Đánh_giá cấu_trúc , định_dạng của thông_tin , dữ_liệu đúng hoặc sai ;
+
+c ) Đánh_giá tính kịp_thời việc truyền nhận và phát báo thông_tin , dữ_liệu ;
+
+d ) Lập báo_cáo đánh_giá chất_lượng truyền nhận và phát báo .
+
+Điều 12 . Thu_nhận , xử_lý , lưu_trữ và chia_sẻ thông_tin , dữ_liệu số khí_tượng thuỷ_văn
+
+1 . Thu_nhận thông_tin , dữ_liệu khí_tượng thuỷ_văn :
+
+a ) Chuẩn_bị thiết_bị thu_nhận , kiểm_tra hoạt_động của hệ_thống truyền nhận số_liệu và xác_định thời_gian thu_nhận thông_tin , dữ_liệu ;
+
+b ) Thực_hiện thu_nhận thông_tin , dữ_liệu ;
+
+c ) Kiểm_tra khối_lượng , cấu_trúc , định_dạng của thông_tin , dữ_liệu và thời_gian thu_nhận ;
+
+d ) Đơn_vị thu_nhận thông_tin , dữ_liệu phản_hồi kết_quả thu_nhận đến đơn_vị giao_nộp .
+
+2 . Xử_lí thông_tin , dữ_liệu khí_tượng thuỷ_văn :
+
+a ) Chuẩn_bị và kiểm_tra hoạt_động của hệ_thống xử_lí thông_tin , dữ_liệu ;
+
+b ) Kiểm_tra tính đầy_đủ của thông_tin , dữ_liệu ;
+
+c ) Tính_toán các thông_số đặc_trưng và kiểm_tra các đường quá_trình .
+
+3 . Lưu_trữ thông_tin , dữ_liệu khí_tượng thuỷ_văn :
+
+a ) Cập_nhật thông_tin , dữ_liệu vào cơ_sở dữ_liệu ;
+
+b ) Cập_nhật danh_mục dữ_liệu và metadata ;
+
+c ) Sao lưu định_kì 1 lần / tháng .
+
+4 . Giao_nộp thông_tin , dữ_liệu khí_tượng thuỷ_văn về đơn_vị thu_nhận theo quy_định của pháp_luật .
+
+5 . Chia_sẻ thông_tin , dữ_liệu khí_tượng thuỷ_văn :
+
+a ) Chia_sẻ thông_tin , dữ_liệu cho hệ_thống dự_báo , cảnh_báo khí_tượng thuỷ_văn quốc_gia ;
+
+b ) Chia_sẻ thông_tin , dữ_liệu theo yêu_cầu của tổ_chức , cá_nhân thực_hiện theo quy_định tại Điều 26 <NĐ rel="DC"> Nghị_định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 </NĐ> của Chính_phủ quy_định chi_tiết một_số điều của <LT rel="DC"> Luật khí_tượng thuỷ_văn và Điều 21 Nghị_định , số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 </LT> của Chính_phủ về thu_thập , quản_lý , khai_thác và sử_dụng thông_tin dữ_liệu tài_nguyên và môi_trường .
+
+Điều 13 . Bảo_quản , bổ_sung , khai_thác thông_tin dữ_liệu khí_tượng văn trong hoạt_động thư_viện
+
+1 . Bảo_quản kho thư_viện khí_tượng thuỷ_văn :
+
+a ) Kiểm_tra an_toàn kho thư_viện ;
+
+b ) Vệ_sinh tài_liệu và kho thư_viện ;
+
+c ) Sắp_xếp tài_liệu ;
+
+d ) Lập sổ theo_dõi tài_liệu ;
+
+d ) Thống_kê danh_mục tài_liệu ;
+
+e ) Tu_bổ , khắc_phục các tài_liệu bị hư_hỏng nhỏ .
+
+2 . Bổ_sung tài_liệu kho thư_viện khí_tượng thuỷ_văn :
+
+a ) Đăng_kí bổ_sung tài_liệu ;
+
+b ) Bổ_sung tài_liệu ;
+
+c ) Nhập kho thư_viện ;
+
+d ) Sắp_xếp và giới_thiệu tài_liệu mới .
+
+3 . Khai_thác kho thư_viện khí_tượng thuỷ_văn :
+
+a ) Tiếp_nhận yêu_cầu khai_thác ;
+
+b ) Cập_nhật thông_tin khai_thác ;
+
+c ) Phục_vụ khai_thác .
+
+Chương_iii
+
+Điều_khoản Thi_hành Và Tổ_chức Thực_hiện
+
+Điều 14 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 03 tháng 12 năm 2018 .
+
+Điều 15 . Trách_nhiệm thực_hiện
+
+1 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và các cơ_quan , tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thực_hiện Thông_tư này .
+
+2 . Tổng_cục_trưởng Tổng_cục Khí_tượng Thuỷ_văn có trách_nhiệm giúp Bộ_trưởng Bộ Tài_nguyên và Môi_trường hướng_dẫn , đôn_đốc , kiểm_tra việc thực_hiện Thông_tư này .
+
+3 . Trong quá_trình thực_hiện Thông_tư này , nếu có khó_khăn , vướng_mắc , các cơ_quan , tổ_chức , cá_nhân phản_ánh về Bộ Tài_nguyên và Môi_trường ( qua Tổng_cục Khí_tượng Thuỷ_văn ) để xem_xét , sửa_đổi , bổ_sung cho phù_hợp . / .

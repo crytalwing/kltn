@@ -1,0 +1,363 @@
+Nghị_định số 87/2020/nđ-cp ngày 28 tháng 07 năm 2020 của chính_phủ
+
+Căn_cứ Luật Tổ_chức Chính_phủ ngày 19 tháng 6 năm 2015 ;
+
+Căn_cứ Luật Hộ_tịch ngày 20 tháng 11 năm 2014 ;
+
+Căn_cứ Luật Giao_dịch điện_tử ngày 29 tháng 11 năm 2005 ;
+
+Căn_cứ Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật An_toàn thông_tin mạng ngày 19 tháng 11 năm 2015 ;
+
+Theo đề_nghị của Bộ_trưởng Bộ Tư_pháp ;
+
+Chính_phủ ban_hành Nghị_định quy_định về Cơ_sở dữ_liệu hộ_tịch điện_tử , đăng_kí hộ_tịch trực_tuyến .
+
+Chương I
+
+Những Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh , đối_tượng áp_dụng
+
+1 . Nghị_định này quy_định về việc xây_dựng , quản_lý , cập_nhật , khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử ; kết_nối , chia_sẻ dữ_liệu giữa Cơ_sở dữ_liệu hộ_tịch điện_tử với Cơ_sở dữ_liệu quốc_gia về dân_cư , Cổng dịch_vụ công_quốc_gia , Cổng dịch_vụ công , Hệ_thống thông_tin một cửa điện_tử cấp tỉnh , Cơ_sở dữ_liệu khác của bộ , ngành , địa_phương ; cấp bản_sao trích lục hộ_tịch , xác_nhận thông_tin hộ_tịch ; đăng_kí hộ_tịch trực_tuyến .
+
+2 . Đối_tượng áp_dụng của Nghị_định là các bộ , cơ_quan ngang bộ , cơ_quan nhà_nước ở trung_ương ; Ủy_ban nhân_dân các cấp , cơ_quan đăng_ký , quản_lí hộ_tịch trong nước và các Cơ_quan đại_diện Việt_nam ở nước_ngoài ; các tổ_chức , cá_nhân có liên_quan trong việc xây_dựng , quản_lý , cập_nhật , khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử .
+
+Điều 2 . Giải_thích từ_ngữ
+
+1 . Cơ_sở dữ_liệu hộ_tịch điện_tử là Cơ_sở dữ_liệu được lập trên cơ_sở tin_học_hoá công_tác đăng_kí hộ_tịch , nhằm lưu_giữ thông_tin hộ_tịch của cá_nhân được đăng_kí theo quy_định pháp_luật , bằng thiết_bị số , trong môi_trường mạng , thông_qua Phần_mềm đăng_ký , quản_lí hộ_tịch điện từ dùng chung .
+
+2 . Phần_mềm đăng_ký , quản_lí hộ_tịch điện_tử dùng chung là nền_tảng của Cơ_sở dữ_liệu hộ_tịch điện từ , bao_gồm phần_mềm đăng_ký , quản_lí hộ_tịch và các phần_mềm ứng_dụng , dịch_vụ do Bộ Tư_pháp xây_dựng , thiết_kế , cung_cấp cho các cơ_quan đăng_ký , quản_lí hộ_tịch để đăng_kí hộ_tịch , xây_dựng , cập_nhật , số_hoá , chuẩn_hoá và quản_lí các dữ_liệu hộ_tịch , khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử .
+
+Phần_mềm đăng_ký , quản_lí hộ_tịch điện_tử dùng chung được kết_nối với Hệ_thống thông_tin một cửa điện từ cấp tỉnh ; thông_qua Hệ_thống thông_tin một cửa điện từ cấp tỉnh kết_nối với Cổng dịch_vụ công_quốc_gia , Cổng dịch_vụ công cấp tỉnh để hỗ_trợ tiếp_nhận , giải_quyết , theo_dõi tình_hình tiếp_nhận , giải_quyết và kết_quả giải_quyết các thủ_tục hành_chính trong lĩnh_vực hộ_tịch được thực_hiện thông_qua phương_thức đăng_kí trực_tuyến .
+
+3 . Cơ_quan quản_lí Cơ_sở dữ_liệu hộ_tịch điện_tử bao_gồm cơ_quan đăng_kí hộ_tịch , Bộ Tư_pháp , Sở Tư_pháp các tỉnh , thành_phố trực_thuộc trung_ương ( sau đây gọi là Sở Tư_pháp ) , Phòng Tư_pháp các huyện , quận , thị_xã , thành_phố thuộc tỉnh , thành_phố thuộc thành_phố trực_thuộc trung_ương ( sau đây gọi là Phòng Tư_pháp ) .
+
+4 . Họ tên bao_gồm họ , tên và chữ đệm ( nếu có ) .
+
+Điều 3 . Thông_tin trong Cơ_sở dữ_liệu hộ_tịch điện_tử
+
+1 . Thông_tin trong Cơ_sở dữ_liệu hộ_tịch điện_tử bao_gồm :
+
+a ) Các thông_tin hộ_tịch của cá_nhân được xác_lập khi đăng_kí khai_sinh : họ tên ; ngày , tháng , năm sinh ; giới_tính ; nơi sinh ; dân_tộc , quốc_tịch , quê_quán , số định_danh cá_nhân của người được đăng_kí khai_sinh ; họ tên , ngày , tháng , năm sinh , dân_tộc , quốc_tịch , quê_quán , nơi cư_trú , số định_danh cá_nhân , giấy_tờ tuỳ_thân của cha , mẹ của người được đăng_kí khai_sinh ; họ tên , số định_danh cá_nhân , giấy_tờ tuỳ_thân của người đi đăng_kí khai_sinh , mối quan_hệ với người được khai_sinh ; số đăng_ký , quyển số , ngày , tháng , năm đăng_ký , tên cơ_quan đăng_kí khai_sinh ; họ tên , chức_vụ của người kí Giấy khai_sinh ;
+
+b ) Các thông_tin hộ_tịch của cá_nhân là công_dân Việt_nam được xác_lập khi ghi vào Sổ hộ_tịch việc khai_sinh đã được giải_quyết tại cơ_quan có thẩm_quyền nước_ngoài ( sau đây gọi là ghi_chú khai_sinh ) : họ tên ; ngày , tháng , năm sinh ; giới_tính ; nơi sinh ; dân_tộc , quốc_tịch , quê_quán , số định_danh cá_nhân , giấy_tờ tuỳ_thân của người được ghi_chú khai_sinh ; họ tên , ngày , tháng , năm sinh , dân_tộc , quốc_tịch , quê_quán , số định_danh cá_nhân , giấy_tờ tuỳ_thân của cha , mẹ của người được ghi_chú khai_sinh ; tên loại giấy_tờ , số , ngày , tháng , năm cấp , tên cơ_quan , tên quốc_gia cấp giấy_tờ hộ_tịch là cơ_sở ghi_chú khai_sinh ; thông_tin về người đi đăng_kí khai_sinh ; họ tên , số định_danh cá_nhân , giấy_tờ tuỳ_thân của người yêu_cầu ghi_chú khai_sinh ; số đăng_ký , quyển số , ngày , tháng , năm đăng_ký , tên cơ_quan thực_hiện ghi_chú khai_sinh ; họ tên , chức_vụ của người kí Trích lục ghi vào Sổ hộ_tịch việc khai_sinh ;
+
+c ) Các thông_tin hộ_tịch khác của cá_nhân được đăng_kí theo quy_định pháp_luật tiếp_tục được cập_nhật vào thông_tin hộ_tịch của cá_nhân đã được xác_lập theo quy_định tại điểm a , điểm b khoản này , gồm : thông_tin về việc đăng_kí_kết_hôn ; cấp Giấy xác_nhận tình_trạng hôn_nhân ; giám_hộ ; nhận cha , mẹ , con ; nuôi con_nuôi ; thay_đổi , cải_chính hộ_tịch , bổ_sung thông_tin hộ_tịch , xác_định lại dân_tộc ; khai_tử ; ghi vào Sổ hộ_tịch việc thay_đổi hộ_tịch theo bản_án , Quyết_định của cơ_quan Nhà_nước có thẩm_quyền ; ghi vào Sổ hộ_tịch việc hộ_tịch của công_dân Việt_nam đã được giải_quyết tại cơ_quan có thẩm_quyền của nước_ngoài ;
+
+d ) Bản quét hoặc bản chụp trang Sổ hộ_tịch tương_ứng_đối_với thông_tin hộ_tịch được số_hoá , chuẩn_hoá theo quy_định tại điểm b khoản 2 Điều này .
+
+2 . Thông_tin trong Cơ_sở dữ_liệu hộ_tịch điện_tử được xác_lập từ các nguồn sau :
+
+a ) Thông_tin hộ_tịch của cá_nhân được đăng_kí thông_qua Phần_mềm đăng_ký , quản_lí hộ_tịch điện_tử dùng chung ;
+
+b ) Thông_tin hộ_tịch được số_hoá , chuẩn_hoá từ Sổ hộ_tịch ;
+
+c ) Thông_tin được kết_nối , chia_sẻ từ Cơ_sở dữ_liệu quốc_gia về dân_cư ;
+
+d ) Thông_tin hộ_tịch được chia_sẻ , chuyển_đổi , chuẩn_hoá từ các phần_mềm , cơ_sở dữ_liệu hộ_tịch điện từ được thiết_lập trước đây .
+
+Điều 4 . Nguyên_tắc xây_dựng , cập_nhật , quản_lý , khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử ; đăng_kí hộ_tịch trực_tuyến
+
+1 . Cơ_sở dữ_liệu hộ_tịch điện từ được xây_dựng , quản_lí tập_trung , thống_nhất từ trung_ương đến địa_phương .
+
+2 . Cơ_sở dữ_liệu hộ_tịch điện_tử được cập_nhật kịp_thời , đầy_đủ , chính_xác ; duy_trì hoạt_động liên_tục , ổn_định , thông_suốt đáp_ứng yêu_cầu khai_thác và sử_dụng của các cơ_quan , tổ_chức , cá_nhân theo quy_định pháp_luật .
+
+3 . Cơ_sở dữ_liệu hộ_tịch điện_tử được lưu_trữ , bảo_mật , bảo_đảm an_toàn thông_tin .
+
+4 . Việc xây_dựng , cập_nhật , quản_lý , khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử ; đăng_kí hộ_tịch trực_tuyến phải tuân_thủ Luật Hộ_tịch , các văn_bản quy_định chi_tiết thi_hành ; các quy_định pháp_luật về kiến_trúc Chính_phủ điện từ Việt_nam ; quy_định về quản_lý , kết_nối và chia_sẻ dữ_liệu số của cơ_quan nhà_nước ; các quy_định về bảo_đảm_bảo_vệ đời_sống riêng_tư , bí_mật cá_nhân , bí_mật gia_đình và các quy_định pháp_luật khác có liên_quan .
+
+Điều 5 . Những hành_vi không được làm
+
+1 . Cung_cấp thông_tin không đúng sự_thật khi đăng_kí hộ_tịch trực_tuyến .
+
+2 . Truy_cập trái_phép vào Cơ_sở dữ_liệu hộ_tịch điện_tử ; làm sai_lệch thông_tin , thay_đổi , xoá , huỷ dữ_liệu trái pháp_luật trong Cơ_sở dữ_liệu hộ_tịch điện_tử ; khai_thác , sử_dụng hoặc tiết_lộ thông_tin từ Cơ_sở dữ_liệu hộ_tịch điện_tử không đúng quy_định , xâm_phạm quyền về đời_sống riêng_tư , bí_mật cá_nhân , bí_mật gia_đình .
+
+3 . Phá_hoại cơ_sở hạ_tầng thông_tin hoặc cản_trở quá_trình vận_hành , duy_trì ổn_định , liên_tục của Cơ_sở dữ_liệu hộ_tịch điện_tử .
+
+Chương_ii
+
+Xây_dựng , Cập_nhật , Khai_thác , Sử_dụng Cơ_sở Dữ_liệu Hộ_tịch Điện_tử
+
+Điều 6 . Xây_dựng Cơ_sở dữ_liệu hộ_tịch điện_tử
+
+1 . Xây_dựng Cơ_sở dữ_liệu hộ_tịch điện_tử bao_gồm các hoạt_động :
+
+a ) Bảo_đảm cơ_sở hạ_tầng kĩ_thuật , thông_tin ;
+
+b ) Thiết_kế , tổ_chức Cơ_sở dữ_liệu ;
+
+c ) Triển_khai , nâng_cấp , phát_triển , mở_rộng Phần_mềm đăng_ký , quản_lí hộ_tịch điện_tử dùng chung ;
+
+d ) Thu_thập , chuẩn_hoá , nhập dữ_liệu ;
+
+đ ) Lưu_trữ , bảo_mật , bảo_đảm an_toàn , an_ninh thông_tin cho Cơ_sở dữ_liệu ; có giải_pháp_bảo_đảm tính toàn_vẹn , chống chối_bỏ của dữ_liệu ;
+
+e ) Đào_tạo , tập_huấn , bồi_dưỡng , tổ_chức bộ_máy nhân_sự , vận_hành , quản_lý , cập_nhật , khai_thác , sử_dụng Cơ_sở dữ_liệu ;
+
+g ) Vận_hành , hiệu_chỉnh Cơ_sở dữ_liệu ;
+
+h ) Các hoạt_động khác theo quy_định pháp_luật .
+
+2 . Thiết_kế cấu_trúc hệ_thống của Cơ_sở dữ_liệu hộ_tịch điện từ phải đáp_ứng chuẩn về cơ_sở dữ_liệu và các tiêu_chuẩn , quy_chuẩn kĩ_thuật , công_nghệ thông_tin và định mức kinh_tế - kĩ_thuật ; có tính tương_thích , khả_năng tích_hợp , chia_sẻ thông_tin và khả_năng mở_rộng các trường dữ_liệu trong thiết_kế hệ_thống và phần_mềm ứng_dụng ; bảo_đảm việc mở_rộng , nâng_cấp , phát_triển .
+
+Điều 7 . Cập_nhật dữ_liệu trong Cơ_sở dữ_liệu hộ_tịch điện_tử
+
+1 . Thông_tin được cập_nhật vào Cơ_sở dữ_liệu hộ_tịch điện_tử bao_gồm thông_tin hộ_tịch của cá_nhân và thông_tin hộ_tịch của cha , mẹ , vợ hoặc chồng của cá_nhân khi có sự_biến_động do kết_hôn , thay_đổi , cải_chính hộ_tịch , bổ_sung thông_tin hộ_tịch , xác_định lại dân_tộc ; nhận cha , mẹ , con ; giám_hộ ; nuôi con_nuôi ; khai_tử ; ghi vào Sổ hộ_tịch việc thay_đổi hộ_tịch theo bản_án , Quyết_định của cơ_quan nhà_nước có thẩm_quyền ; ghi vào Sổ hộ_tịch việc hộ_tịch của công_dân Việt_nam đã được giải_quyết tại cơ_quan có thẩm_quyền của nước_ngoài .
+
+2 . Trách_nhiệm cập_nhật dữ_liệu
+
+a ) Cơ_quan đăng_kí hộ_tịch sử_dụng Phần_mềm đăng_ký , quản_lí hộ_tịch điện_tử dùng chung cập_nhật dữ_liệu theo quy_định tại khoản 1 Điều này .
+
+b ) Cơ_quan đăng_ký , quản_lí hộ_tịch nhận được giấy_tờ hộ_tịch hoặc nhận được thông_tin thông_qua hệ_thống điện_tử về việc biến_động thông_tin hộ_tịch theo quy_định tại khoản 1 Điều này cập_nhật vào Cơ_sở dữ_liệu hộ_tịch trong trường_hợp thông_tin hộ_tịch có biến_động chưa được cập_nhật thông_qua Phần_mềm đăng_ký , quản_lí hộ_tịch điện_tử dùng chung , ghi_chú thông_tin hộ_tịch có biến_động vào Sổ hộ_tịch tương_ứng ngay trong ngày làm_việc . Trường_hợp nhận được giấy_tờ hộ_tịch hoặc thông_tin sau 15h00 thì thực_hiện trong ngày làm_việc tiếp_theo .
+
+3 . Thủ_trưởng cơ_quan đăng_kí hộ_tịch có trách_nhiệm thường_xuyên kiểm_tra , giám_sát việc cập_nhật dữ_liệu của cơ_quan mình ; cơ_quan quản_lí hộ_tịch cấp trên có trách_nhiệm thường_xuyên kiểm_tra , giám_sát việc cập_nhật dữ_liệu của cơ_quan đăng_kí hộ_tịch cấp dưới .
+
+Điều 8 . Khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử
+
+1 . Cơ_quan đăng_kí hộ_tịch khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện từ để đăng_kí hộ_tịch theo thẩm_quyền ; cấp bản_sao trích lục hộ_tịch ; cấp Giấy xác_nhận tình_trạng hôn_nhân ; thống_kê số_liệu đăng_kí hộ_tịch và thực_hiện các hoạt_động quản_lí nhà_nước khác trong lĩnh_vực hộ_tịch theo quy_định pháp_luật .
+
+2 . Bộ Tư_pháp khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử để cấp bản_sao trích lục hộ_tịch , xác_nhận thông_tin hộ_tịch đối_với tất_cả các trường_hợp có thông_tin hộ_tịch trong Cơ_sở dữ_liệu hộ_tịch điện_tử ; triển_khai việc kết_nối , chia_sẻ dữ_liệu giữa Cơ_sở dữ_liệu hộ_tịch điện_tử với các cơ_sở dữ_liệu khác của bộ , ngành , địa_phương ; thực_hiện các hoạt_động quản_lí nhà_nước khác trong lĩnh_vực hộ_tịch theo quy_định pháp_luật .
+
+3 . Bộ Ngoại_giao khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử để cấp bản_sao trích lục hộ_tịch , xác_nhận thông_tin hộ_tịch đối_với các trường_hợp đã đăng_kí hộ_tịch tại Cơ_quan đại_diện ; thực_hiện các hoạt_động quản_lí nhà_nước khác trong lĩnh_vực hộ_tịch theo quy_định pháp_luật .
+
+4 . Sở Tư_pháp , Phòng Tư_pháp khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử để cấp bản_sao trích lục hộ_tịch , xác_nhận thông_tin hộ_tịch đối_với các trường_hợp đã đăng_kí hộ_tịch tại các cơ_quan đăng_kí hộ_tịch trên địa_bàn hoặc người có yêu_cầu đang cư_trú trên địa_bàn ; thực_hiện các hoạt_động quản_lí nhà_nước khác trong lĩnh_vực hộ_tịch trên địa_bàn theo quy_định pháp_luật .
+
+5 . Cơ_quan , tổ_chức có yêu_cầu cung_cấp thông_tin hộ_tịch từ Cơ_sở dữ_liệu hộ_tịch điện_tử để phục_vụ quản_lí nhà_nước thì gửi yêu_cầu tới cơ_quan có thẩm_quyền theo quy_định tại các khoản 2 , 3 và 4 Điều này .
+
+6 . Cá_nhân có yêu_cầu khai_thác thông_tin hộ_tịch của mình trong Cơ_sở dữ_liệu hộ_tịch điện_tử thì gửi yêu_cầu cấp bản_sao trích lục hộ_tịch , xác_nhận thông_tin hộ_tịch tới cơ_quan đăng_ký , quản_lí hộ_tịch có thẩm_quyền .
+
+Điều 9 . Trách_nhiệm của cơ_quan , tổ_chức , cá_nhân có yêu_cầu khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử
+
+1 . Tuân_thủ quy_định pháp_luật hộ_tịch và các quy_định pháp_luật hiện_hành về sử_dụng thông_tin trên mạng ; khai_thác và sử_dụng dữ_liệu trong môi_trường mạng ; bảo_vệ đời_sống riêng_tư , bí_mật cá_nhân , bí_mật gia_đình .
+
+2 . Tổ_chức , cá_nhân có yêu_cầu cấp bản_sao trích lục hộ_tịch , xác_nhận thông_tin hộ_tịch , khai_thác , sử_dụng thông_tin trong Cơ_sở dữ_liệu hộ_tịch phải trả phí theo quy_định pháp_luật .
+
+Điều 10 . Kết_nối , chia_sẻ thông_tin giữa Cơ_sở dữ_liệu hộ_tịch điện_tử với Cơ_sở dữ_liệu quốc_gia về dân_cư , Cơ_sở dữ_liệu khác của bộ , ngành , địa_phương
+
+1 . Việc kết_nối , chia_sẻ thông_tin giữa Cơ_sở dữ_liệu hộ_tịch điện_tử và Cơ_sở dữ_liệu quốc_gia về dân_cư thực_hiện thông_qua các dịch_vụ chia_sẻ dữ_liệu .
+
+2 . Cơ_sở dữ_liệu hộ_tịch điện_tử_cung_cấp các thông_tin hộ_tịch sau của cá_nhân cho Cơ_sở dữ_liệu quốc_gia về dân_cư :
+
+a ) Thông_tin khi đăng_kí khai_sinh , bao_gồm : họ tên , ngày , tháng , năm sinh , giới_tính , quê_quán , dân_tộc , quốc_tịch của người được đăng_kí khai_sinh ; họ tên , năm sinh hoặc ngày , tháng , năm sinh , dân_tộc , quốc_tịch , số định_danh cá_nhân hoặc số Chứng_minh nhân_dân , nơi cư_trú của cha , mẹ của người được đăng_kí khai_sinh ; nơi đăng_kí khai_sinh ;
+
+b ) Thông_tin về tình_trạng hôn_nhân , bao_gồm : thông_tin đăng_kí_kết_hôn ; thông_tin ghi vào_sổ việc thay_đổi tình_trạng hôn_nhân theo Bản_án , Quyết_định của cơ_quan nhà_nước có thẩm_quyền ; thông_tin ghi vào Sổ hộ_tịch việc kết_hôn , li_hôn , huỷ việc kết_hôn của công_dân Việt_nam đã được giải_quyết tại cơ_quan có thẩm_quyền của nước_ngoài ;
+
+c ) Thông_tin về việc thay_đổi , cải_chính hộ_tịch , bổ_sung thông_tin hộ_tịch , xác_định lại dân_tộc ; ghi vào Sổ hộ_tịch việc thay_đổi hộ_tịch theo bản_án , Quyết_định của cơ_quan nhà_nước có thẩm_quyền ; ghi vào Sổ hộ_tịch việc hộ_tịch của công_dân Việt_nam đã được giải_quyết tại cơ_quan có thẩm_quyền của nước_ngoài ;
+
+d ) Thông_tin về đăng_kí giám_hộ , chấm_dứt giám_hộ ;
+
+đ ) Thông_tin về việc tuyên_bố mất_tích , huỷ tuyên_bố mất_tích , tuyên_bố chết hoặc huỷ tuyên_bố chết ;
+
+e ) Thông_tin đăng_kí khai_tử .
+
+3 . Cơ_sở dữ_liệu quốc_gia về dân_cư cung_cấp các thông_tin sau cho Cơ_sở dữ_liệu hộ_tịch điện_tử :
+
+a ) Số định_danh cá_nhân ngay tại thời_điểm việc đăng_kí khai_sinh được thực_hiện trên Phần_mềm đăng_ký , quản_lí hộ_tịch điện_tử dùng chung ;
+
+b ) Thông_tin về : họ tên , số định_danh cá_nhân , số Chứng_minh nhân_dân , nơi đăng_kí khai_sinh , ngày , tháng , năm sinh , giới_tính , dân_tộc , quốc_tịch , quê_quán , tình_trạng hôn_nhân , nơi thường_trú , nơi ở hiện_tại , ngày , tháng , năm chết hoặc mất_tích ; họ tên , số định_danh cá_nhân , số Chứng_minh nhân_dân , dân_tộc , quốc_tịch của cha , mẹ , vợ hoặc chồng , người đại_diện hợp_pháp của cá_nhân sinh trước ngày 01 tháng 01 năm 2016 , đã được thu_thập vào Cơ_sở dữ_liệu quốc_gia về dân_cư để Cơ_sở dữ_liệu hộ_tịch điện_tử đối_chiếu , cập_nhật thông_tin hộ_tịch .
+
+4 . Việc kết_nối , chia_sẻ dữ_liệu giữa Cơ_sở dữ_liệu hộ_tịch điện_tử với các cơ_sở dữ_liệu khác của bộ , ngành , địa_phương được thực_hiện mặc_định theo quy_định pháp_luật về quản_lý , kết_nối và chia_sẻ dữ_liệu số của cơ_quan nhà_nước , trên cơ_sở thống_nhất giữa Bộ Tư_pháp với cơ_quan chủ_quản về phạm_vi , hình_thức , cấu_trúc dữ_liệu kết_nối , trách_nhiệm của các bên trong việc bảo_đảm an_toàn , an_ninh thông_tin và bảo_vệ đời_sống riêng_tư , bí_mật cá_nhân , bí_mật gia_đình .
+
+Điều 11 . Quy_trình kết_nối , chia_sẻ thông_tin giữa Cơ_sở dữ_liệu hộ_tịch điện_tử và Cơ_sở dữ_liệu quốc_gia về dân_cư
+
+1 . Khi thực_hiện thủ_tục đăng_kí khai_sinh cho công_dân Việt_nam , thông_tin theo quy_định tại điểm a khoản 2 Điều 10 của Nghị_định này được Cơ_sở dữ_liệu hộ_tịch điện_tử chuyển sang Cơ_sở dữ_liệu quốc_gia về dân_cư . Cơ_sở dữ_liệu quốc_gia về dân_cư sẽ cấp số định_danh cá_nhân , trả kết_quả cho Cơ_sở dữ_liệu hộ_tịch điện_tử và lưu_thông_tin công_dân vào Cơ_sở dữ_liệu quốc_gia về dân_cư . Thông_tin chỉ được lưu vào Cơ_sở dữ_liệu quốc_gia về dân_cư khi không bị trùng_lặp .
+
+2 . Sau khi thực_hiện xong các việc đăng_kí hộ_tịch làm thay_đổi thông_tin khai_sinh của cá_nhân , Cơ_sở dữ_liệu hộ_tịch điện_tử sẽ chuyển các thông_tin theo quy_định tại các điểm b , c , d , đ và e khoản 2 Điều 10 của Nghị_định này cho Cơ_sở dữ_liệu quốc_gia về dân_cư để cập_nhật .
+
+3 . Cơ_sở dữ_liệu quốc_gia về dân_cư cung_cấp thông_tin theo quy_định tại khoản 3 Điều 10 của Nghị_định này cho Cơ_sở dữ_liệu hộ_tịch điện_tử khi có yêu_cầu của cơ_quan đăng_ký , quản_lí hộ_tịch từ Phần_mềm đăng_ký , quản_lí hộ_tịch điện_tử dùng chung , thông_qua các dịch_vụ chia_sẻ dữ_liệu .
+
+4 . Bộ Tư_pháp , Bộ Công_an có trách_nhiệm hướng_dẫn cơ_quan quản_lí Cơ_sở dữ_liệu quốc_gia về dân_cư và cơ_quan quản_lí Cơ_sở dữ_liệu hộ_tịch điện_tử kiểm_tra , xác_minh , bảo_đảm thống_nhất các thông_tin giữa hai Cơ_sở dữ_liệu , bảo_đảm hồ_sơ , giấy_tờ của cá_nhân liên_quan đến thông_tin khai_sinh phải phù_hợp với nội_dung đăng_kí khai_sinh của cá_nhân theo quy_định tại khoản 3 Điều 14 Luật hộ_tịch .
+
+Chương_iii
+
+Đăng_ký Hộ_tịch Trực_tuyến , Quản_lý Sổ Hộ_tịch , Cấp Bản_sao Trích_lục Hộ_tịch , Văn_bản Xác_nhận Thông_tin Hộ_tịch
+
+Điều 12 . Tiếp_nhận , giải_quyết yêu_cầu đăng_kí hộ_tịch trực_tuyến
+
+1 . Người có yêu_cầu đăng_kí hộ_tịch trực_tuyến truy_cập Cổng dịch_vụ công_quốc_gia , Cổng dịch_vụ công cấp tỉnh để đăng_kí tài_khoản , xác_thực người dùng theo hướng_dẫn . Sau khi đăng_nhập tài_khoản thành_công , người có yêu_cầu đăng_kí hộ_tịch trực_tuyến cung_cấp thông_tin theo biểu_mẫu điện_tử tương_tác , đính kèm bản chụp hoặc bản_sao điện từ các giấy_tờ , tài_liệu theo quy_định ; nộp phí , lệ_phí thông_qua chức_năng thanh_toán trực_tuyến hoặc bằng cách_thức khác theo quy_định pháp_luật .
+
+2 . Sau khi hoàn_tất việc nộp hồ_sơ , người có yêu_cầu đăng_kí hộ_tịch trực_tuyến được cấp 01 mã_số hồ_sơ thủ_tục hành_chính để theo_dõi , tra_cứu tiến_độ giải_quyết hồ_sơ hoặc truy_cập để hoàn_thiện hồ_sơ khi có yêu_cầu của cơ_quan đăng_kí hộ_tịch .
+
+Người có yêu_cầu đăng_kí hộ_tịch có trách_nhiệm lưu_giữ , bảo_đảm bí_mật_mã_số hồ_sơ thủ_tục hành_chính .
+
+3 . Ngay trong ngày làm_việc , khi nhận được hồ_sơ yêu_cầu đăng_kí hộ_tịch trực_tuyến , cơ_quan đăng_kí hộ_tịch có thẩm_quyền chịu trách_nhiệm kiểm_tra tính đầy_đủ , phù_hợp quy_định pháp_luật của hồ_sơ :
+
+a ) Trường_hợp hồ_sơ chưa đầy_đủ , chưa phù_hợp thì yêu_cầu người có yêu_cầu đăng_kí hộ_tịch bổ_sung , hoàn_thiện các giấy_tờ cần_thiết ;
+
+b ) Trường_hợp hồ_sơ đầy_đủ , phù_hợp quy_định pháp_luật thì tiếp_nhận và gửi ngay Phiếu hẹn trả kết_quả theo mẫu qua thư điện_tử hoặc gửi tin nhắn hẹn trả kết_quả qua điện_thoại_di_động cho người có yêu_cầu đăng_kí hộ_tịch ;
+
+c ) Hồ_sơ đăng_kí hộ_tịch chỉ được tiếp_nhận chính_thức để xử_lí trên phần_mềm đăng_kí hộ_tịch trực_tuyến sau khi đã được hoàn_thiện , bổ_sung , bảo_đảm đầy_đủ , phù_hợp quy_định pháp_luật và nộp phí , lệ_phí theo quy_định .
+
+Thời_hạn giải_quyết thủ_tục hành_chính được tính từ thời_điểm gửi Phiếu hẹn trả kết_quả hoặc gửi tin nhắn hẹn trả kết_quả cho người có yêu_cầu đăng_kí hộ_tịch .
+
+d ) Trường_hợp cần phải kiểm_tra , xác_minh làm rõ hoặc do nguyên_nhân khác mà không_thể trả kết_quả đăng_kí hộ_tịch đúng thời_gian đã hẹn thì cơ_quan đăng_kí hộ_tịch gửi Phiếu xin_lỗi và hẹn lại ngày trả kết_quả qua thư điện_tử hoặc gửi tin nhắn qua điện_thoại_di_động cho người có yêu_cầu đăng_kí hộ_tịch , trong đó nêu rõ lí_do chậm trả kết_quả và thời_gian hẹn trả kết_quả .
+
+4 . Người có yêu_cầu đăng_kí hộ_tịch được nhận kết_quả đăng_kí hộ_tịch theo một trong các phương_thức sau đây :
+
+a ) Nhận bản điện_tử giấy_tờ hộ_tịch gửi qua thư điện_tử , Kho quản_lí dữ_liệu điện_tử của tổ_chức , cá_nhân đó ;
+
+b ) Nhận bản điện_tử giấy_tờ hộ_tịch gửi vào thiết_bị số , thông_qua phương_pháp truyền số_liệu phù_hợp , đảm_bảo_an_toàn , bảo_mật thông_tin ;
+
+c ) Nhận kết_quả là giấy_tờ hộ_tịch thông_qua hệ_thống bưu_chính ;
+
+d ) Nhận kết_quả là giấy_tờ hộ_tịch tại cơ_quan đăng_kí hộ_tịch .
+
+Trường_hợp nhận kết_quả qua hệ_thống bưu_chính thì phải ghi rõ địa_chỉ nhận kết_quả , lựa_chọn hình_thức dịch_vụ bưu_chính chuyển_phát có bảo_đảm và phải trả phí dịch_vụ cho đơn_vị cung_cấp dịch_vụ bưu_chính khi nhận kết_quả .
+
+5 . Đối_với các việc hộ_tịch pháp_luật quy_định người có yêu_cầu đăng_kí hộ_tịch phải có_mặt tại cơ_quan đăng_kí hộ_tịch để kí vào Sổ hộ_tịch và nhận kết_quả bao_gồm : khai_sinh ; kết_hôn ; giám_hộ ; nhận cha , mẹ , con ; thay_đổi , cải_chính hộ_tịch , xác_định lại dân_tộc , bổ_sung thông_tin hộ_tịch ; khai_tử , thì người có yêu_cầu đăng_kí hộ_tịch chỉ được nhận kết_quả theo phương_thức quy_định tại điểm d khoản 4 Điều này . Khi đến nhận kết_quả tại cơ_quan đăng_kí hộ_tịch , người có yêu_cầu đăng_kí hộ_tịch phải nộp , xuất_trình các giấy_tờ , tài_liệu là thành_phần hồ_sơ đăng_kí hộ_tịch theo quy_định pháp_luật hộ_tịch .
+
+Đối_với các việc hộ_tịch mà người có yêu_cầu đăng_kí hộ_tịch không phải có_mặt tại cơ_quan đăng_kí hộ_tịch để kí vào Sổ hộ_tịch và nhận kết_quả , nhưng vẫn phải nộp , xuất_trình các giấy_tờ , tài_liệu là thành_phần hồ_sơ đăng_kí hộ_tịch theo quy_định pháp_luật hộ_tịch , bao_gồm : xác_nhận thông_tin hộ_tịch ; ghi vào Sổ hộ_tịch việc khai_sinh , kết_hôn , li_hôn , huỷ việc kết_hôn , giám_hộ , nhận cha , mẹ , con , xác_định cha , mẹ , con , nuôi con_nuôi , thay_đổi hộ_tịch , khai_tử của công_dân Việt_nam đã được giải_quyết tại cơ_quan có thẩm_quyền của nước_ngoài thì người có yêu_cầu đăng_kí hộ_tịch được lựa_chọn nhận kết_quả theo một trong các phương_thức quy_định tại khoản 4 Điều này nhưng phải thực_hiện việc nộp , xuất_trình các giấy_tờ , tài_liệu theo quy_định trước khi nhận kết_quả .
+
+Trường_hợp phải nộp bản_sao hoặc xuất_trình giấy_tờ không phải là giấy_tờ tuỳ_thân mà người yêu_cầu đăng_kí hộ_tịch đã có bản_sao điện_tử giấy_tờ hoặc đã có thông_tin trong Cơ_sở dữ_liệu hộ_tịch điện_tử thì không phải nộp , xuất_trình .
+
+6 . Biểu_mẫu điện_tử giấy_tờ hộ_tịch do Bộ Tư_pháp ban_hành , cung_cấp thông_tin hộ_tịch hoặc nguồn tra_cứu thông_tin hộ_tịch của cá_nhân , có giá_trị như giấy_tờ hộ_tịch . Cơ_quan , tổ_chức có trách_nhiệm chấp_nhận , sử_dụng , không được yêu_cầu cá_nhân phải nộp hoặc xuất_trình giấy_tờ hộ_tịch để đối_chiếu .
+
+Điều 13 . Cấp bản_sao trích lục hộ_tịch từ Cơ_sở dữ_liệu hộ_tịch điện_tử , xác_nhận thông_tin hộ_tịch
+
+1 . Cơ_quan có thẩm_quyền theo quy_định tại khoản 1 , khoản 2 , khoản 3 , khoản 4 Điều 8 của Nghị_định này cấp bản_sao trích lục hộ_tịch theo yêu_cầu của cá_nhân , không phụ_thuộc vào nơi đã đăng_kí việc hộ_tịch và nơi cư_trú của người có yêu_cầu .
+
+2 . Cơ_quan có thẩm_quyền theo quy_định tại khoản 2 , khoản 3 , khoản 4 Điều 8 của Nghị_định này cấp xác_nhận thông_tin hộ_tịch đối_với trường_hợp cá_nhân có yêu_cầu khai_thác thông_tin từ nhiều việc đăng_kí hộ_tịch hoặc xác_nhận các thông_tin hộ_tịch khác nhau của mình ; cơ_quan , tổ_chức có yêu_cầu khai_thác nhiều thông_tin hộ_tịch của một cá_nhân hoặc khai_thác thông_tin hộ_tịch của nhiều người .
+
+3 . Người có yêu_cầu cấp xác_nhận thông_tin hộ_tịch phải cung_cấp thông_tin theo biểu_mẫu điện từ tương_tác , đính kèm bản chụp hoặc bản_sao điện_tử các giấy_tờ , tài_liệu có liên_quan đến nội_dung đề_nghị xác_nhận thông_tin hộ_tịch trong trường_hợp nộp hồ_sơ trực_tuyến .
+
+Trường_hợp nộp hồ_sơ trực_tiếp tại cơ_quan đăng_kí hộ_tịch hoặc gửi hồ_sơ qua hệ_thống bưu_chính thì phải nộp Tờ khai đề_nghị xác_nhận thông_tin hộ_tịch theo mẫu , xuất_trình bản_chính hoặc nộp bản_sao có chứng_thực các giấy_tờ , tài_liệu có liên_quan đến nội_dung đề_nghị xác_nhận thông_tin hộ_tịch .
+
+Trong thời_hạn 3 ngày làm_việc kể từ ngày tiếp_nhận hồ_sơ , cơ_quan đăng_ký , quản_lí hộ_tịch có thẩm_quyền thẩm_tra hồ_sơ , đối_chiếu thông_tin trong Cơ_sở dữ_liệu hộ_tịch điện_tử , nếu thấy thông_tin đề_nghị xác_nhận là đúng thì có văn_bản xác_nhận thông_tin hộ_tịch trả cho người có yêu_cầu . Trường_hợp phải kiểm_tra , xác_minh thì thời_hạn có_thể kéo_dài nhưng không quá 10 ngày làm_việc .
+
+Điều 14 . Thống_kê số_liệu đăng_kí hộ_tịch
+
+1 . Cơ_quan đăng_ký , quản_lí hộ_tịch thực_hiện thống_kê số_liệu đăng_kí hộ_tịch từ Cơ_sở dữ_liệu hộ_tịch điện_tử , thông_qua Phần_mềm đăng_ký , quản_lí hộ_tịch điện_tử dùng chung để phục_vụ công_tác quản_lý .
+
+2 . Trường_hợp cơ_quan , tổ_chức có yêu_cầu cung_cấp số_liệu thống_kê về đăng_kí hộ_tịch phục_vụ hoạt_động quản_lí nhà_nước thì gửi văn_bản đến cơ_quan đăng_ký , quản_lí hộ_tịch có thẩm_quyền quy_định tại khoản 2 , khoản 3 , khoản 4 Điều 8 của Nghị_định này .
+
+Điều 15 . Quản_lí Sổ hộ_tịch
+
+1 . Sổ hộ_tịch được sử_dụng cho các năm đăng_kí tiếp_theo cho đến khi hết sổ . Khi hết sổ mà chưa hết năm , công_chức làm công_tác hộ_tịch thực_hiện việc khoá_sổ theo quy_định của khoản 3 Điều 11 Nghị_định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính_phủ quy_định chi_tiết thi_hành một_số điều và biện_pháp thi_hành Luật hộ_tịch .
+
+2 . Trường_hợp thực_hiện việc đăng_kí hộ_tịch làm thay_đổi thông_tin hộ_tịch của cá_nhân không phải tại cơ_quan đăng_kí hộ_tịch trước đây thì sau khi thực_hiện việc cập_nhật trong Cơ_sở dữ_liệu hộ_tịch điện_tử theo quy_định của Nghị_định này , cơ_quan đăng_kí hộ_tịch có trách_nhiệm gửi thông_báo tới cơ_quan đã đăng_kí việc hộ_tịch trước đây để ghi_chú nội_dung thay_đổi vào Sổ hộ_tịch tương_ứng .
+
+Chương_iv
+
+Quản_lý Nhà_nước Đối_với Cơ_sở Dữ_liệu Hộ_tịch Điện_tử
+
+Điều 16 . Trách_nhiệm của cơ_quan quản_lí Cơ_sở dữ_liệu hộ_tịch điện_tử
+
+1 . Các cơ_quan quản_lí Cơ_sở dữ_liệu hộ_tịch điện_tử trong phạm_vi quản_lí của mình có trách_nhiệm :
+
+a ) Bảo_đảm cơ_sở hạ_tầng thông_tin , các thiết_bị có liên_quan để tổ_chức vận_hành liên_tục , ổn_định , thông_suốt Cơ_sở dữ_liệu hộ_tịch điện_tử ;
+
+b ) Thực_hiện các biện_pháp_bảo_đảm an_toàn vật_lý , môi_trường , trật_tự an_toàn xã_hội tại khu_vực có trụ_sở cơ_quan , khu_vực lưu_giữ trang thiết_bị , dữ_liệu phục_vụ cho việc vận_hành Cơ_sở dữ_liệu hộ_tịch điện_tử ;
+
+c ) Thực_hiện định_kì rà_soát , đề_xuất phương_án nâng_cấp , phát_triển hệ_thống cơ_sở hạ_tầng công_nghệ thông_tin phục_vụ_việc khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử phù_hợp với nhu_cầu thực_tế tại từng cơ_quan .
+
+2 . Bộ Tư_pháp ngoài trách_nhiệm theo quy_định tại khoản 1 Điều này , còn có trách_nhiệm :
+
+a ) Thực_hiện các biện_pháp_bảo_đảm an_ninh mạng , an_toàn hệ_thống thông_tin đối_với Cơ_sở dữ_liệu hộ_tịch điện_tử ;
+
+b ) Thực_hiện các biện_pháp sao lưu , bảo_trì , bảo_dưỡng , sửa_chữa , có thiết_bị dự_phòng bảo_đảm hệ_thống máy_tính , mạng , trang thiết_bị và phần_mềm ứng_dụng phục_vụ cho Cơ_sở dữ_liệu hộ_tịch điện_tử hoạt_động liên_tục , bảo_đảm khả_năng khôi_phục hệ_thống , không bị gián_đoạn do các sự_cố kĩ_thuật ;
+
+c ) Ban_hành và tổ_chức triển_khai thực_hiện Quy_chế khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử , bảo_đảm việc kết_nối , chia_sẻ dữ_liệu của Cơ_sở dữ_liệu hộ_tịch điện_tử hiệu_quả , đúng quy_định pháp_luật .
+
+Điều 17 . Quản_lí tài_khoản người dùng
+
+1 . Bộ Tư_pháp quản_lí tài_khoản người dùng trên toàn hệ_thống ; cấp , thu_hồi , thay_đổi tài_khoản , phân_quyền truy_cập Hệ_thống đăng_ký , quản_lí hộ_tịch điện_tử dùng chung cho người dùng tại Bộ Tư_pháp , Bộ Ngoại_giao và Sở Tư_pháp .
+
+2 . Bộ Ngoại_giao quản_lí tài_khoản , cấp , thu_hồi , thay_đổi tài_khoản người dùng là viên_chức ngoại_giao , viên_chức lãnh_sự được giao thực_hiện công_tác hộ_tịch tại Cơ_quan đại_diện theo phân_quyền của Bộ Tư_pháp .
+
+3 . Sở Tư_pháp quản_lí tài_khoản , cấp , thu_hồi , thay_đổi tài_khoản người dùng là công_chức làm công_tác hộ_tịch tại các Phòng Tư_pháp , công_chức tư_pháp hộ_tịch tại Ủy_ban nhân_dân xã , phường , thị_trấn có đủ tiêu_chuẩn quy_định tại Điều 72 của Luật Hộ_tịch , theo đề_nghị của Phòng Tư_pháp .
+
+4 . Thủ_trưởng các cơ_quan , đơn_vị được cấp tài_khoản chịu trách_nhiệm quản_lí các tài_khoản được cấp tại cơ_quan , đơn_vị mình .
+
+5 . Người dùng được cấp tài_khoản có trách_nhiệm bảo_mật thông_tin tài_khoản theo quy_định pháp_luật về an_toàn thông_tin ; trường_hợp nghi_ngờ hoặc phát_hiện bị lộ thông_tin tài_khoản phải liên_hệ ngay với cơ_quan có thẩm_quyền quản_lí tài_khoản để xử_lý .
+
+Điều 18 . Sao lưu , phục_hồi , bảo_đảm an_toàn Cơ_sở dữ_liệu hộ_tịch điện_tử
+
+1 . Cơ_sở dữ_liệu hộ_tịch điện_tử được sao lưu dự_phòng thường_xuyên , liên_tục , bảo_đảm tính cập_nhật và toàn_vẹn dữ_liệu .
+
+2 . Trong trường_hợp cần_thiết , Bộ Tư_pháp sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử đã được sao lưu dự_phòng để phục_hồi dữ_liệu cho Cơ_sở dữ_liệu hộ_tịch điện_tử , thông_tin cho các cơ_quan đăng_kí hộ_tịch có liên_quan để kiểm_tra , rà_soát , bổ_sung , điều_chỉnh , bảo_đảm thống_nhất dữ_liệu .
+
+3 . Bộ Tư_pháp có trách_nhiệm xác_định cấp_độ an_toàn hệ_thống thông_tin đối_với Cơ_sở dữ_liệu hộ_tịch điện_tử , thực_hiện các biện_pháp_bảo_đảm an_toàn hệ_thống thông_tin phù_hợp với cấp_độ theo quy_định pháp_luật về an_toàn thông_tin mạng .
+
+Điều 19 . Trách_nhiệm quản_lí nhà_nước của Bộ Tư_pháp
+
+Bộ Tư_pháp trực_tiếp_quản_lí nhà_nước đối_với Cơ_sở dữ_liệu hộ_tịch điện_tử , có nhiệm_vụ , quyền_hạn sau đây :
+
+1 . Trình Chính_phủ ban_hành hoặc ban_hành theo thẩm_quyền các văn_bản quy_phạm_pháp_luật về Cơ_sở dữ_liệu hộ_tịch điện_tử ; các văn_bản hướng_dẫn việc xây_dựng , khai_thác , sử_dụng , kết_nối , chia_sẻ Cơ_sở dữ_liệu hộ_tịch điện_tử .
+
+2 . Xây_dựng , quản_lí và duy_trì Cơ_sở dữ_liệu hộ_tịch điện_tử ; bảo_đảm điều_kiện cơ_sở hạ_tầng kĩ_thuật phục_vụ Cơ_sở dữ_liệu hộ_tịch điện từ vận_hành liên_tục , ổn_định , đáp_ứng yêu_cầu quy_định tại Điều 4 của Nghị_định này .
+
+3 . Xây_dựng và trình Chính_phủ xem_xét , phê_duyệt hoặc xem_xét , phê_duyệt theo thẩm_quyền việc nâng_cấp , phát_triển Cơ_sở dữ_liệu hộ_tịch điện_tử .
+
+4 . Hướng_dẫn , đào_tạo , bồi_dưỡng nghiệp_vụ quản_trị , khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử .
+
+5 . Theo_dõi , kiểm_tra , đôn_đốc , giám_sát việc cập_nhật dữ_liệu trên Cơ_sở dữ_liệu hộ_tịch điện từ .
+
+6 . Thực_hiện việc kết_nối , chia_sẻ dữ_liệu số giữa Cơ_sở dữ_liệu hộ_tịch điện_tử với các Cơ_sở dữ_liệu quốc_gia , Cơ_sở dữ_liệu của bộ , ngành , địa_phương khác theo quy_định pháp_luật .
+
+7 . Cấp bản_sao trích lục hộ_tịch , xác_nhận thông_tin hộ_tịch theo thẩm_quyền ; có văn_bản chỉ_đạo , điều_hành , hướng_dẫn_giải_quyết kịp_thời các vướng_mắc liên_quan đến việc khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện từ để đăng_kí hộ_tịch trên phạm_vi toàn_quốc .
+
+8 . Khắc_phục hoặc chỉ_đạo khắc_phục khi phát_hiện có sai_sót trên Cơ_sở dữ_liệu hộ_tịch điện_tử .
+
+Điều 20 . Trách_nhiệm của Bộ Ngoại_giao
+
+1 . Phối_hợp với Bộ Tư_pháp trong quản_lí nhà_nước về hộ_tịch và thực_hiện quy_định của Nghị_định này tại Cơ_quan đại_diện .
+
+2 . Bảo_đảm kinh_phí , nguồn_lực và các điều_kiện an_toàn cho hoạt_động đăng_kí hộ_tịch trực_tuyến tại Cơ_quan đại_diện .
+
+3 . Thống_kê số_liệu đăng_kí hộ_tịch tại Bộ Ngoại_giao và các Cơ_quan đại_diện gửi Bộ Tư_pháp tổng_hợp , báo_cáo Chính_phủ theo quy_định .
+
+Điều 21 . Trách_nhiệm của Bộ Tài_chính
+
+1 . Hướng_dẫn việc thu , nộp , quản_lí và sử_dụng phí quy_định tại khoản 2 Điều 9 của Nghị_định này .
+
+2 . Phối_hợp với Bộ Tư_pháp trong việc lập dự_toán , cấp kinh_phí thường_xuyên , định_kì hoặc đột_xuất , bảo_đảm kinh_phí cho việc xây_dựng , cập_nhật , quản_lý , khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử từ ngân_sách nhà_nước theo quy_định của Luật Ngân_sách nhà_nước và các quy_định pháp_luật có liên_quan .
+
+Điều 22 . Trách_nhiệm của các bộ , cơ_quan ngang bộ , cơ_quan nhà_nước khác ở trung_ương
+
+1 . Bộ Công_an phối_hợp với Bộ Tư_pháp trong việc bảo_đảm an_ninh mạng , kết_nối , chia_sẻ dữ_liệu giữa Cơ_sở dữ_liệu hộ_tịch điện_tử và Cơ_sở dữ_liệu quốc_gia về dân_cư .
+
+2 . Bộ Thông_tin và Truyền_thông phối_hợp với Bộ Tư_pháp trong việc bảo_đảm an_toàn , kết_nối , chia_sẻ Cơ_sở dữ_liệu hộ_tịch điện_tử .
+
+3 . Bộ Kế_hoạch và Đầu_tư phối_hợp với Bộ Tư_pháp trong việc bố_trí nguồn vốn phù_hợp cho việc xây_dựng Cơ_sở dữ_liệu hộ_tịch điện_tử ; khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử , chia_sẻ các dữ_liệu liên_quan phục_vụ_việc thống_kê , công_bố các chỉ_tiêu thống_kê quốc_gia , ngành về sinh , tử , kết_hôn .
+
+4 . Các bộ , cơ_quan ngang bộ , cơ_quan nhà_nước khác ở trung_ương phối_hợp với Bộ Tư_pháp trong việc kết_nối , khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử theo quy_định ; cung_cấp thông_tin , đối_chiếu , kiểm_tra , điều_chỉnh các thông_tin hộ_tịch của cá_nhân trong Cơ_sở dữ_liệu do bộ , ngành quản_lí trong trường_hợp không thống_nhất với Cơ_sở dữ_liệu hộ_tịch điện_tử ; bảo_đảm an_toàn và bảo_vệ đời_sống riêng_tư , bí_mật cá_nhân , bí_mật gia_đình theo quy_định pháp_luật khi khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử .
+
+Điều 23 . Trách_nhiệm của Ủy_ban nhân_dân các cấp
+
+1 . Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương có trách_nhiệm chỉ_đạo bố_trí kinh_phí cho các cơ_quan đăng_ký , quản_lí hộ_tịch thực_hiện xây_dựng Cơ_sở dữ_liệu hộ_tịch điện_tử theo quy_định của Nghị_định này , bố_trí kinh_phí cập_nhật , quản_lý , khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử hàng năm .
+
+2 . Ủy_ban nhân_dân các huyện , quận , thị_xã , thành_phố thuộc tỉnh , thành_phố thuộc thành_phố ; Ủy_ban nhân_dân xã , phường , thị_trấn chỉ_đạo , bảo_đảm trang thiết_bị , cơ_sở hạ_tầng , kinh_phí xây_dựng , cập_nhật , khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử trong phạm_vi địa_phương quản_lý .
+
+Chương V
+
+Điều_khoản Thi_hành
+
+Điều 24 . Quy_định chuyển_tiếp
+
+1 . Các cơ_quan đăng_ký , quản_lí hộ_tịch ở địa_phương sử_dụng thống_nhất Phần_mềm đăng_ký , quản_lí hộ_tịch điện_tử dùng chung kể từ ngày Nghị_định này có hiệu_lực thi_hành .
+
+2 . Ủy_ban nhân_dân các cấp có trách_nhiệm triển_khai việc số_hoá , quản_lý , khai_thác dữ_liệu hộ_tịch từ sổ giấy ; chuyển_đổi và chuẩn_hoá dữ_liệu từ các phần_mềm đăng_kí hộ_tịch điện_tử của địa_phương đã triển_khai thực_hiện trước ngày Nghị_định này có hiệu_lực thi_hành và cập_nhật Cơ_sở dữ_liệu hộ_tịch điện_tử theo hướng_dẫn của Bộ Tư_pháp , bảo_đảm hoàn_thành trước ngày 01 tháng 01 năm 2025 .
+
+3 . Việc khai_thác , sử_dụng Cơ_sở dữ_liệu hộ_tịch điện_tử để đăng_kí hộ_tịch trực_tuyến do Ủy_ban nhân_dân cấp tỉnh Quyết_định về phạm_vi , mức_độ và thời_điểm triển_khai tuỳ theo điều_kiện cơ_sở hạ_tầng thông_tin của địa_phương .
+
+4 . Bộ Tư_pháp chủ_trì , phối_hợp với Bộ Ngoại_giao nâng_cấp , hiệu_chỉnh Phần_mềm đăng_ký , quản_lí hộ_tịch dùng chung để thực_hiện đồng_bộ tại các Cơ_quan đại_diện và Bộ Ngoại_giao .
+
+5 . Bộ Ngoại_giao thống_nhất với Bộ Tư_pháp về phạm_vi , mức_độ và thời_điểm thực_hiện Phần_mềm đăng_ký , quản_lí hộ_tịch dùng chung tuỳ theo điều_kiện thực_tế tại từng Cơ_quan đại_diện , bảo_đảm hoàn_thành trước ngày 01 tháng 01 năm 2022 ; triển_khai việc số_hoá , quản_lý , khai_thác dữ_liệu hộ_tịch từ sổ giấy , cập_nhật Cơ_sở dữ_liệu hộ_tịch điện_tử theo hướng_dẫn của Bộ Tư_pháp , bảo_đảm hoàn_thành trước ngày 01 tháng 01 năm 2025 .
+
+6 . Các Sổ hộ_tịch đã mở trước ngày Nghị_định này có hiệu_lực thì vẫn được khoá_sổ khi hết sổ , chứng_thực bản_sao và chuyển lưu theo quy_định tại khoản 1 , khoán 2 Điều 12 Nghị_định số 123/2015/NĐ-CP.
+
+7 . Sau khi Cơ_sở dữ_liệu hộ_tịch điện_tử , Cơ_sở dữ_liệu quốc_gia về dân_cư được đưa vào vận_hành , sử_dụng thống_nhất trên toàn_quốc , cơ_quan thực_hiện thủ_tục hành_chính có trách_nhiệm kết_nối với các Cơ_sở dữ_liệu này để xác_định tình_trạng hôn_nhân của người có yêu_cầu giải_quyết thủ_tục hành_chính , không được yêu_cầu nộp Giấy xác_nhận tình_trạng hôn_nhân .
+
+Bộ Tư_pháp phối_hợp với Bộ Công_an hướng_dẫn thực_hiện thống_nhất quy_định tại khoản này .
+
+Điều 25 . Điều_khoản thi_hành
+
+1 . Nghị_định này có hiệu_lực thi_hành từ ngày 15 tháng 9 năm 2020 .
+
+2 . Bãi_bỏ quy_định tại khoản 1 , khoản 2 Điều 12 Nghị_định số 123/2015/NĐ-CP ngày 15 tháng 11 năm 2015 của Chính_phủ .
+
+3 . Bộ_trưởng Bộ Tư_pháp trong phạm_vi chức_năng , nhiệm_vụ , quyền_hạn được giao có trách_nhiệm tổ_chức thực_hiện , hướng_dẫn , kiểm_tra việc thi_hành Nghị_định này .
+
+4 . Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , Thủ_trưởng các cơ_quan khác ở trung_ương , Chủ_tịch Ủy_ban nhân_dân cấp tỉnh , các cơ_quan , tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Nghị_định này . / .

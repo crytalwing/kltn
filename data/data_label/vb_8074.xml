@@ -1,0 +1,789 @@
+Thông_tư số 133/2017/tt-btc ngày 15 tháng 12 năm 2017 của bộ tài_chính
+
+Căn_cứ <LT rel="CC"> Luật Giao_dịch điện_tử ngày 29 tháng 11 năm 2005 </LT> ,
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành <LT rel="CC"> Luật Giao_dịch điện_tử về chữ_kí số </LT> và dịch_vụ chứng_thực chữ_kí số ; <NĐ rel="None"> Nghị_định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 26/2007/NĐ-CP </NĐ> ; <NĐ rel="None"> Nghị_định số 170/2013/NĐ-CP ngày 13 tháng 11 năm 2013 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 26/2007/NĐ-CP </NĐ> và <NĐ rel="None"> Nghị_định số 106/2011/NĐ-CP </NĐ> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 27/2007/NĐ-CP ngày 23 tháng 02 năm 2007 </NĐ> của Chính_phủ về giao_dịch điện_tử trong hoạt_động tài_chính ; <NĐ rel="None"> Nghị_định số 156/2016/NĐ-CP ngày 21 tháng 11 năm 2016 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 27/2007/NĐ-CP </NĐ> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 </NĐ> của Chính_phủ quy_định về việc cung_cấp thông_tin và dịch_vụ công trực_tuyến trên trang thông_tin điện_tử hoặc cổng thông_tin điện_tử của cơ_quan nhà_nước ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 87/2017/NĐ-CP ngày 26 tháng 07 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+
+Theo đề_nghị của Tổng_giám_đốc Kho_bạc Nhà_nước ;
+
+Bộ_trưởng Bộ Tài_chính ban_hành <TT rel="None"> Thông_tư quy_định về </TT> giao_dịch điện_tử trong hoạt_động nghiệp_vụ Kho_bạc Nhà_nước .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về giao_dịch điện_tử ( gdđt ) trong hoạt_động nghiệp_vụ Kho_bạc Nhà_nước ( kbn ) , bao_gồm :
+
+1 . Gdđt giữa Kbn với các đơn_vị giao_dịch về quản_lí thu , chi quỹ ngân_sách nhà_nước ( nsn ) và các quỹ tài_chính nhà_nước tại Kbn .
+
+2 . Gdđt giữa Kbn với Ngân_hàng Nhà_nước Việt_nam và các ngân_hàng thương_mại nơi Kbn mở tài_khoản về thanh_toán điện_tử tập_trung và trao_đổi thông_tin , dữ_liệu thu Nsn .
+
+3 . Gdđt giữa Kbn với các đơn_vị cung_cấp thông_tin để lập Báo_cáo tài_chính nhà_nước .
+
+4 . Gdđt giữa Kbn với các cơ_quan trong ngành tài_chính về quản_lí thu , chi quỹ Nsn và các quỹ tài_chính nhà_nước tại Kbn .
+
+5 . Các Gdđt trong nội_bộ hệ_thống Kbn .
+
+6 . Gdđt giữa Kbn với các tổ_chức có liên_quan về việc thực_hiện các giao_dịch quản_lí ngân quỹ nhà_nước và các Gdđt khác trong hoạt_động nghiệp_vụ Kbn ( nếu có ) .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Các đơn_vị thuộc hệ_thống Kbn .
+
+2 . Các đơn_vị giao_dịch có Gdđt với Kbn .
+
+3 . Các cơ_quan trong ngành tài_chính có Gdđt với Kbn .
+
+4 . Các ngân_hàng thương_mại nơi Kbn mở tài_khoản .
+
+5 . Các đơn_vị cung_cấp thông_tin để lập Báo_cáo tài_chính nhà_nước .
+
+6 . Các tổ_chức có Gdđt với Kbn trong hoạt_động quản_lí ngân quỹ nhà_nước và các Gdđt khác trong hoạt_động nghiệp_vụ Kbn ( nếu có ) .
+
+Điều 3 . Giải_thích từ_ngữ
+
+1 . Gdđt trong hoạt_động nghiệp_vụ Kbn là các giao_dịch được thực_hiện bằng phương_thức điện_tử trong hoạt_động nghiệp_vụ Kbn , bao_gồm các giao_dịch quy_định tại Điều 1 Thông_tư này .
+
+2 . Chứng_từ điện_tử trong hoạt_động nghiệp_vụ Kbn là thông_tin được tạo ra , gửi đi , nhận và lưu_trữ bằng phương_tiện điện_tử trong hoạt_động nghiệp_vụ Kbn . Chứng_từ điện_tử trong hoạt_động nghiệp_vụ Kbn là một hình_thức của thông_điệp dữ_liệu có nội_dung trao_đổi , giao_dịch về tài_chính , tiền_tệ liên_quan đến hoạt_động nghiệp_vụ Kbn được quy_định tại Điều 7 Thông_tư này .
+
+3 . Văn_bản điện_tử trong hoạt_động nghiệp_vụ Kbn là các văn_bản được thể_hiện dưới dạng thông_điệp dữ_liệu ( không bao_gồm các chứng_từ điện_tử quy_định tại Khoản 2 Điều này ) được quy_định tại Điều 8 Thông_tư này .
+
+4 . Tài_khoản đăng_nhập Trang thông_tin dịch_vụ công của Kbn là tài_khoản do Kbn cấp cho các đơn_vị giao_dịch ( bao_gồm tên đăng_nhập và mật_khẩu ) để thực_hiện các Gdđt thông_qua Trang thông_tin dịch_vụ công của Kbn ,
+
+5 . Cổng thông_tin điện_tử Kbn là Cổng thông_tin thành_phần thuộc Cổng thông_tin điện_tử Bộ Tài_chính , là nơi truy_cập thông_tin tập_trung của toàn hệ_thống Kbn và thực_hiện công_bố các thông_tin chính_thức của Kbn trên mạng internet , đáp_ứng nhiệm_vụ thông_tin tuyên_truyền của Kbn và cung_cấp các dịch_vụ công trực_tuyến thuộc lĩnh_vực Kbn .
+
+6 . Trang thông_tin dịch_vụ công của Kbn là Trang thông_tin dịch_vụ công trên Cổng thông_tin điện_tử Kbn , nơi các đơn_vị giao_dịch truy_cập và thực_hiện các Gdđt theo quy_định tại Mục 2 Chương Ii Thông_tư này .
+
+7 . Đơn_vị sử_dụng Nsn là đơn_vị dự_toán ngân_sách được giao trực_tiếp_quản_lý , sử_dụng Nsn .
+
+8 . Đơn_vị giao_dịch bao_gồm : các đơn_vị sử_dụng Nsn ; các cơ_quan , đơn_vị , tổ_chức kinh_tế có mở tài_khoản giao_dịch tại Kbn .
+
+9 . Các đơn_vị cung_cấp thông_tin để lập Báo_cáo tài_chính nhà_nước ( sau đây gọi tắt là đơn_vị cung_cấp thông_tin ) là những đơn_vị được quy_định tại Điểm c , d , đ , e và g Khoản 1 Điều 2 <NĐ rel="DC"> Nghị_định số 25/2017/NĐ-CP ngày 14 tháng 3 năm 2017 </NĐ> của Chính_phủ về Báo_cáo tài_chính nhà_nước ( sau đây gọi tắt là <NĐ rel="DC"> Nghị_định số 25/2017/NĐ-CP </NĐ>).
+
+10 . Các tổ_chức khác là những đơn_vị có Gdđt với Kbn trong hoạt_động quản_lí ngân quỹ nhà_nước và các Gdđt khác trong hoạt_động nghiệp_vụ Kbn ( nếu có ) .
+
+11 . Chứng_từ chuyển tiền là chứng_từ do đơn_vị giao_dịch lập để đề_nghị Kbn trích tài_khoản của mình chi_trả cho người thụ_hưởng theo quy_định tại <TT rel="DC"> Thông_tư số 77/2017/TT-BTC ngày 28 tháng 7 năm 2017 </TT> của Bộ Tài_chính hướng_dẫn Chế_độ kế_toán Nsn và hoạt_động nghiệp_vụ Kbn ( sau đây gọi tắt là <TT rel="DC"> Thông_tư số 77/2017/TT-BTC </TT>).
+
+12 . Hồ_sơ pháp_lí của dự_án đầu_tư và vốn sự_nghiệp có tính_chất đầu_tư là các văn_bản ( bản_chính hoặc bản_sao có đóng_dấu sao y bản_chính ) do đơn_vị giao_dịch chỉ gửi một lần đến Kbn ( trừ trường_hợp ) phải bổ_sung , điều_chỉnh ) theo quy_định của <TT rel="DC"> Thông_tư số 08/2016/TT-BTC ngày 18 tháng 01 năm 2016 </TT> của Bộ Tài_chính quy_định về quản_lý , thanh_toán vốn đầu_tư sử_dụng nguồn vốn Nsn ( sau đây gọi tắt là <TT rel="DC"> Thông_tư số 08/2016/TT-BTC </TT>); <TT rel="None"> Thông_tư số 108/2016/TT-BTC ngày 30 tháng 6 năm 2016 </TT> của Bộ Tài_chính sửa_đổi , bổ_sung một_số điều của <TT rel="DC"> Thông_tư số 08/2016/TT-BTC </TT> ; <TT rel="None"> Thông_tư số 39/2016/TT-BTC ngày 01 tháng 3 năm 2016 </TT> của Bộ Tài_chính sửa_đổi , bổ_sung một_số điều của <TT rel="None"> Thông_tư số 161/2012/TT-BTC ngày 02 tháng 10 năm 2012 </TT> quy_định_chế_độ kiểm_soát , thanh_toán các khoản chi ngân_sách qua Kbn và quy_định của pháp_luật hiện_hành đối_với các trường_hợp đặc_thù khác .
+
+Điều 4 . Nguyên_tắc Gdđt trong hoạt_động nghiệp_vụ Kbn
+
+1 . Các đơn_vị giao_dịch , đơn_vị cung_cấp thông_tin và tổ_chức khác khi thực_hiện các Gdđt với Kbn phải tuân_thủ nguyên_tắc rõ_ràng , công_bằng , trung_thực , an_toàn , hiệu_quả , đảm_bảo quyền và lợi_ích hợp_pháp của cơ_quan , tổ_chức , lợi_ích Nhà_nước , lợi_ích công_cộng , phù_hợp ) với <LT rel="CC"> Luật Giao_dịch điện_tử </LT> , đảm_bảo các yêu_cầu về quy_trình nghiệp_vụ , tiêu_chuẩn kĩ_thuật trong Gdđt do Bộ Tài_chính và Kbn quy_định ( theo phân_cấp ) .
+
+2 . Khi thực_hiện các Gdđt với Kbn , các đơn_vị giao_dịch , đơn_vị cung_cấp thông_tin và tổ_chức khác được lựa_chọn công_nghệ thông_tin và phương_tiện điện_tử phù_hợp để thực_hiện . Trường_hợp Kbn đồng_thời chấp_nhận giao_dịch theo phương_thức nộp hồ_sơ , chứng_từ , văn_bản bằng giấy tại Kbn và giao_dịch bằng phương_thức điện_tử , các đơn_vị giao_dịch , đơn_vị cung_cấp thông_tin và tổ_chức khác được quyền lựa_chọn phương_thức giao_dịch với Kbn .
+
+3 . Các đơn_vị giao_dịch , đơn_vị cung_cấp thông_tin và tổ_chức khác đã hoàn_thành việc thực_hiện Gdđt trong hoạt_động nghiệp_vụ Kbn theo quy_định tại Thông_tư này , thì không phải thực_hiện các phương_thức giao_dịch khác và được công_nhận đã hoàn_thành thủ_tục theo quy_định .
+
+4 . Gdđt giữa Kbn với các cơ_quan trong ngành tài_chính ( cơ_quan_tài_chính , Thuế , Hải_quan ) được thực_hiện theo các quy_định hiện_hành của Bộ Tài_chính ; giữa Kbn với Ngân_hàng Nhà_nước Việt_nam được thực_hiện theo quy_định của Ngân_hàng Nhà_nước Việt_nam , phù_hợp với quy_định của <LT rel="DC"> Luật Ngân_hàng Nhà_nước Việt_nam </LT> , <LT rel="DC"> Luật Các tổ_chức tín_dụng </LT> , <LT rel="DC"> Luật Giao_dịch điện_tử </LT> và các văn_bản hướng_dẫn ; giữa Kbn với các ngân_hàng thương_mại được thực_hiện theo thoả_thuận giữa Kbn và ngân_hàng thương_mại về thanh_toán song_phương điện_tử tập_trung và tổ_chức phối_hợp thu Nsn , phù_hợp với <LT rel="DC"> Luật Giao_dịch điện_tử </LT> và các văn_bản hướng_dẫn Luật .
+
+5 . Toàn_bộ các danh_mục mã liên_quan Gdđt trong hoạt_động nghiệp_vụ Kbn được sử_dụng thống_nhất từ hệ_thống danh_mục điện_tử dùng chung trong lĩnh_vực tài_chính quy_định tại <TT rel="DC"> Thông_tư số 18/2017/TT-BTC ngày 28 tháng 2 năm 2017 </TT> của Bộ Tài_chính quy_định về việc xây_dựng và khai_thác , sử_dụng hệ_thống danh_mục điện_tử dùng chung trong lĩnh_vực tài_chính .
+
+6 . Kbn chủ_động thực_hiện từng phần hoặc toàn_bộ giao_dịch bằng phương_tiện điện_tử trong nội_bộ Kbn , giữa Kbn với các đơn_vị giao_dịch , đơn_vị cung_cấp thông_tin và tổ_chức khác ; được phép ứng_dụng công_nghệ sinh trắc học và các phương_thức xác_thực khác đối_với các Gdđt trong hoạt_động nghiệp_vụ Kbn , phù_hợp với quy_định của pháp_luật .
+
+Điều 5 . Điều_kiện thực_hiện Gdđt trong hoạt_động nghiệp_vụ Kbn
+
+1 . Điều_kiện Gdđt giữa các đơn_vị giao_dịch với Kbn , bao_gồm :
+
+a ) Các đơn_vị giao_dịch phải có chứng_thư số đang còn hiệu_lực do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng cấp hoặc được cấp bởi tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị .
+
+b ) Các đơn_vị giao_dịch phải có máy_tính và kết_nối_mạng internet ; có 01 địa_chỉ thư điện_tử đã thông_báo với Kbn để sử_dụng cho tất_cả các giao_dịch trên Trang thông_tin dịch_vụ công của Kbn .
+
+c ) Các đơn_vị giao_dịch phải có thông_báo tham_gia và được Kbn chấp_thuận , cấp tài_khoản đăng_nhập Trang thông_tin dịch_vụ công của Kbn để sử_dụng các dịch_vụ công trực_tuyến của Kbn .
+
+2 . Điều_kiện Gdđt giữa Kbn với Ngân_hàng Nhà_nước Việt_nam và các ngân_hàng thương_mại về thanh_toán điện_tử liên ngân_hàng được thực_hiện theo các quy_định hiện_hành của Ngân_hàng Nhà_nước Việt_nam .
+
+3 . Điều_kiện Gdđt giữa Kbn với ngân_hàng thương_mại nơi mở tài_khoản về thanh_toán song_phương điện_tử tập_trung và tổ_chức phối_hợp thu Nsn được thực_hiện theo thoả_thuận giữa Kbn ( Trung_ương ) với từng hệ_thống ngân_hàng thương_mại , phù_hợp với quy_định của pháp_luật .
+
+4 . Điều_kiện Gdđt giữa Kbn với các đơn_vị cung_cấp thông_tin được thực_hiện theo quy_định của Bộ Tài_chính về hướng_dẫn thực_hiện <NĐ rel="DC"> Nghị_định số 25/2017/NĐ-CP </NĐ> .
+
+5 . Điều_kiện Gdđt giữa Kbn với các tổ_chức khác được thực_hiện theo thoả_thuận giữa Kbn ( Trung_ương ) với từng tổ_chức đó , phù_hợp với quy_định của pháp_luật .
+
+Chương_ii
+
+Quy_định Cụ_thể
+
+Mục 1 . Chữ_ký_số , Chứng_từ Điện_tử , Văn_bản Điện_tử Và Bảo_mật Thông_tin Trong Giao_dịch_điện_tử
+
+Điều 6 . Chữ_kí số
+
+1 . Chữ_kí số sử_dụng trong các Gdđt với Kbn ( trừ chữ_kí số trong trong thanh_toán điện_tử liên ngân_hàng quy_định tại Khoản 3 Điều này ) là chữ_kí số tương_ứng với chứng_thư số được tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng cấp hoặc được cấp bởi tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị .
+
+2 . Việc sử_dụng chữ_kí số giữa các đơn_vị giao_dịch với Kbn được thực_hiện theo quy_định sau :
+
+a ) Trước khi sử_dụng chữ_kí số để thực_hiện các Gdđt với Kbn , các đơn_vị giao_dịch phải thông_báo chữ_kí số của các cá_nhân liên_quan thuộc đơn_vị giao_dịch tham_gia Gdđt với Kbn . Chữ_kí số của các cá_nhân tham_gia Gdđt với Kbn phải gắn với từng chức_danh tham_gia và theo từng loại giao_dịch cụ_thể .
+
+Chữ_kí số được thông_báo để kí chức_danh chủ tài_khoản hoặc người được uỷ_quyền ( chữ_kí thứ nhất ) : kế_toán_trưởng hoặc phụ_trách kế_toán hoặc người được uỷ_quyền ( chữ_kí thứ hai ) trên các chứng từ chuyển tiền qua Trang thông_tin dịch_vụ công của Kbn phải là chữ_kí số tương_ứng của người đã được Kbn chấp_thuận kí chữ_kí thứ nhất và kí chữ_kí thứ hai trong hồ_sơ mở và sử_dụng tài_khoản của đơn_vị giao_dịch theo quy_định tại <TT rel="DC"> Thông_tư số 61/2014/TT-BTC ngày 12 tháng 5 năm 2014 </TT> của Bộ Tài_chính hướng_dẫn đăng_kí và sử_dụng tài_khoản tại Kbn trong điều_kiện áp_dụng hệ_thống thông_tin quản_lí ngân_sách và kho_bạc ( sau đây gọi tắt là <TT rel="DC"> Thông_tư số 61/2014/TT-BTC </TT>).
+
+Số_lượng chữ_kí số thông_báo cho chữ_kí thứ nhất và chữ_kí thứ hai không được vượt quá số_lượng người kí chữ_kí tương_ứng quy_định tại <TT rel="DC"> Thông_tư số 61/2014/TT-BTC </TT> .
+
+b ) Trường_hợp thay_đổi các thông_tin đã thông_báo , gia_hạn , tạm dừng hoặc thay_đổi chứng_thư số ; thay_đổi cặp khoá , các đơn_vị tham_gia Gdđt phải có thông_báo sửa_đổi , bổ_sung thông_tin chữ_kí số với Kbn .
+
+3 . Việc sử_dụng chữ_kí số trong thanh_toán điện_tử liên ngân_hàng giữa Kbn ( Trung_ương ) và Kbn cấp tỉnh với Ngân_hàng Nhà_nước Việt_nam và các ngân_hàng thương_mại được thực_hiện theo các quy_định hiện_hành của Ngân_hàng Nhà_nước Việt_nam .
+
+4 . Việc sử_dụng chữ_kí số trong thanh_toán song_phương điện_tử tập_trung và trao_đổi dữ_liệu về thu Nsn giữa các đơn_vị Kbn với ngân_hàng thương_mại nơi mở tài_khoản được thực_hiện theo thoả_thuận giữa Kbn ( Trung_ương ) với từng hệ_thống ngân_hàng thương_mại . Trong quá_trình thực_hiện nếu có phát_sinh thay_đổi các thông_tin liên_quan đến công_thức chữ_kí số , chứng_thư số_nhân_danh hệ_thống mình , thì bên có thay_đổi phải thông_báo cho bên kia chậm nhất trước một ( 01 ) tháng kể từ thời_điểm áp_dụng thay_đổi .
+
+5 . Việc sử_dụng chữ_kí số trong giao_dịch cung_cấp thông_tin để lập Báo_cáo tài_chính nhà_nước giữa Kbn với các đơn_vị cung_cấp thông_tin được thực_hiện theo quy_định của Bộ Tài_chính .
+
+6 . Việc sử_dụng chữ_kí số trong Gdđt giữa Kbn với các tổ_chức khác được thực_hiện theo thoả_thuận giữa Kbn ( Trung_ương ) với từng tổ_chức đó .
+
+7 . Việc sử_dụng chữ_kí số giữa Kbn với các cơ_quan trong ngành tài_chính về trao_đổi thông_tin , dữ_liệu liên_quan đến tình_hình thu , chi Nsn được thực_hiện theo các quy_định hiện_hành của Bộ Tài_chính .
+
+8 . Việc sử_dụng chữ_kí số trong giao_dịch thanh_toán điện_tử liên kho_bạc và các Gdđt khác ( nếu có ) trong nội_bộ hệ_thống Kbn do Tổng_giám_đốc Kbn quy_định . Trường_hợp Kbn đã triển_khai công_nghệ sinh trắc học , thì Kbn được phép sử_dụng công_nghệ sinh trắc học thay_thế chữ_kí số trong các Gdđt trong nội_bộ Kbn .
+
+Điều 7 . Chứng_từ điện_tử
+
+1 . Chứng_từ điện_tử trong hoạt_động nghiệp_vụ Kbn :
+
+a ) Chứng_từ điện_tử trong dịch_vụ công trực_tuyến Kbn , bao_gồm : chứng từ chuyển tiền của đơn_vị giao_dịch gửi Kbn ; các chứng_từ báo Nợ , báo Có tài_khoản do Kbn gửi đơn_vị giao_dịch qua Trang thông_tin dịch_vụ công của Kbn và các chứng_từ khác theo quy_định tại <TT rel="DC"> Thông_tư số 77/2017/TT-BTC </TT> và <TT rel="DC"> Thông_tư số 08/2016/TT-BTC </TT> .
+
+b ) Chứng_từ điện_tử trong Gdđt giữa Kbn với ngân_hàng , bao_gồm : chứng_từ thanh_toán điện_tử liên ngân_hàng giữa Kbn với Ngân_hàng Nhà_nước Việt_nam và các ngân_hàng thương_mại ; chứng_từ thanh_toán song_phương điện_tử tập_trung giữa Kbn với ngân_hàng thương_mại nơi mở tài_khoản ; các chứng_từ liên_quan đến việc trao_đổi thông_tin dữ_liệu thu Nsn giữa Kbn với ngân_hàng thương_mại nơi mở tài_khoản .
+
+c ) Các chứng_từ điện_tử giữa Kbn với các tổ_chức khác .
+
+d ) Các chứng_từ điện_tử trong Gdđt giữa Kbn với các cơ_quan trong ngành tài_chính và trong nội_bộ hệ_thống Kbn .
+
+2 . Chứng_từ điện_tử quy_định tại Khoản 1 Điều này ( trừ chứng_từ thanh_toán điện_tử liên ngân_hàng giữa Kbn với Ngân_hàng Nhà_nước Việt_nam và các ngân_hàng thương_mại ; chứng_từ thanh_toán song_phương điện_tử tập_trung giữa Kbn với ngân_hàng thương_mại nơi mở tài_khoản ) phải đảm_bảo các yêu_cầu theo quy_định tại Điều 17 Luật Kế_toán và được lập theo đúng định_dạng , mẫu , cấu_trúc dữ_liệu theo các văn_bản quy_định cụ_thể của Bộ Tài_chính và Kbn ; trong đó , bao_gồm một_số nội_dung chủ_yếu sau :
+
+a ) Tên và số_hiệu của chứng_từ .
+
+b ) Ngày , tháng , năm lập chứng_từ , nhận chứng_từ .
+
+c ) Tên , địa_chỉ của tổ_chức hoặc cá_nhân lập chứng_từ .
+
+d ) Tên , địa_chỉ của tổ_chức hoặc cá_nhân nhận chứng_từ .
+
+đ ) Nội_dung của nghiệp_vụ phát_sinh .
+
+e ) Số tiền_của nghiệp_vụ phát_sinh ; tổng_số tiền của chứng_từ ghi bằng số và bằng chữ .
+
+g ) Chữ_ký , họ và tên của người lập , người kiểm_soát , kí duyệt chứng_từ và những người có liên_quan đến chứng_từ theo quy_định của pháp_luật .
+
+h ) Các nội_dung khác theo từng loại chứng_từ .
+
+Đối_với các chứng_từ thanh_toán điện_tử liên ngân_hàng giữa Kbn với Ngân_hàng Nhà_nước Việt_nam và các ngân_hàng thương_mại được thực_hiện theo quy_định của Ngân_hàng Nhà_nước Việt_nam .
+
+Đối_với các chứng_từ thanh_toán song_phương điện_tử tập_trung giữa Kbn với ngân_hàng thương_mại nơi mở tài_khoản được thực_hiện theo các văn_bản hướng_dẫn của Ngân_hàng Nhà_nước Việt_nam về chứng từ kế_toán ngân_hàng và đáp_ứng quy_định tại Khoản 2 Điều này .
+
+3 . Ngoài các thông_tin quy_định tại Khoản 2 Điều này , cơ_quan , tổ_chức phát_hành chứng_từ điện_tử có_thể thêm lô gô , hình_ảnh trang_trí hoặc các thông_tin khác phù_hợp với quy_định pháp_luật hiện_hành , đảm_bảo không che_khuất , làm mờ các nội_dung bắt_buộc thể_hiện trên chứng_từ . Cỡ_chữ của các thông_tin tạo thêm không được lớn hơn cỡ chữ của các nội_dung quy_định tại Khoản 2 Điều này .
+
+4 . Chứng_từ điện_tử quy_định tại Khoản 1 Điều này phải được kí chữ_kí số theo quy_định tại Điều 6 Thông_tư này .
+
+5 . Chứng_từ điện_tử theo quy_định tại Điều này có giá_trị như chứng từ giấy . Việc chuyển_đổi chứng_từ điện_tử sang chứng từ giấy hoặc ngược_lại được thực_hiện theo quy_định tại Điều 7 <NĐ rel="DC"> Nghị_định số 27/2007/NĐ-CP ngày 23 tháng 02 năm 2007 </NĐ> của Chính_phủ về giao_dịch điện_tử trong hoạt_động tài_chính .
+
+6 . Việc lưu_trữ chứng_từ điện_tử được thực_hiện theo thời_hạn do pháp_luật quy_định như đối_với chứng từ giấy . Trong đó :
+
+a ) Trường_hợp chứng_từ điện_tử hết thời_hạn lưu_trữ theo quy_định , nhưng có liên_quan đến tính toàn_vẹn về thông_tin của hệ_thống thông_tin và các chứng_từ điện_tử đang lưu_hành , thì chứng_từ điện_tử tiếp_tục được lưu_trữ , cho đến khi việc huỷ chứng_từ điện_tử hoàn_toàn không ảnh_hưởng đến các Gdđt khác mới được tiêu_huỷ .
+
+b ) Trường_hợp chứng_từ điện_tử không được in ra giấy , mà chỉ lưu_trữ trên các phương_tiện điện_tử , thì phải đảm_bảo_an_toàn , bảo_mật thông_tin dữ_liệu và phải bảo_đảm tra_cứu được trong thời_hạn lưu_trữ .
+
+Điều 8 . Văn_bản điện_tử
+
+1 . Văn_bản điện_tử trong hoạt_động nghiệp_vụ Kbn , bao_gồm :
+
+a ) Các hồ_sơ kiểm_soát chi , kiểm_soát cam_kết chi Nsn do đơn_vị giao_dịch lập trực_tiếp trên Trang thông_tin dịch_vụ công của Kbn ( theo các mẫu hồ_sơ tương_ứng của chế_độ kiểm_soát chi Nsn hiện_hành ) hoặc được lập trên các chương_trình ứng_dụng tại đơn_vị giao_dịch hoặc được chuyển_đổi từ hồ_sơ bằng giấy sang dạng điện_tử gửi kèm chứng từ chuyển tiền ( nếu có ) qua Trang thông_tin dịch_vụ công của Kbn ; các hồ_sơ đơn_vị giao_dịch gửi Kbn về việc đăng_kí sử_dụng bổ_sung tài_khoản hoặc thay_đổi mẫu dấu , mẫu chữ_kí qua Trang thông_tin dịch_vụ công của Kbn ; đăng_kí rút_tiền_mặt của đơn_vị giao_dịch qua Trang thông_tin dịch_vụ công của Kbn .
+
+b ) Các thông_báo của Kbn gửi đơn_vị giao_dịch ( thông_báo về kết_quả kiểm_soát chi ; thông_báo kết_quả xử_lí việc mở và sử_dụng tài_khoản ; thông_báo về kết_quả đăng_kí rút_tiền_mặt ) qua Trang thông_tin dịch_vụ công của Kbn .
+
+c ) Các văn_bản điện_tử giữa các đơn_vị cung_cấp thông_tin với Kbn theo quy_định tại Điều 16 , 17 và 18 <NĐ rel="DC"> Nghị_định số 25/2017/NĐ-CP </NĐ>.
+
+d ) Các văn_bản điện_tử giữa Kbn với các tổ_chức khác .
+
+đ ) Các văn_bản điện_tử trong Gdđt giữa Kbn với các cơ_quan trong ngành tài_chính và trong nội_bộ hệ_thống Kbn .
+
+2 . Các văn_bản điện_tử quy_định tại Khoản 1 Điều này có giá_trị pháp_lí tương_đương văn_bản giấy nêu phù_hợp với quy_định tại Điều 35 <NĐ rel="DC"> Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 </NĐ> của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ( sau đây gọi tắt là <NĐ rel="DC"> Nghị_định số 64/2007/NĐ-CP </NĐ>). Đối_với các văn_bản điện_tử không đáp_ứng điều_kiện nêu trên , thì thông_tin trên văn_bản chỉ có giá_trị tham_khảo .
+
+Đối_với các văn_bản điện_tử quy_định tại Điểm a , b và c Khoản 1 Điều này phải được kí chữ_kí số theo quy_định tại Điều 6 Thông_tư này .
+
+3 . Trường_hợp đơn_vị giao_dịch có đề_nghị chuyển_đổi văn_bản điện_tử sang văn_bản giấy để dùng làm căn_cứ pháp_lí cho các hoạt_động giao_dịch , thì Kbn cấp văn_bản chuyển_đổi có chữ_kí và đóng_dấu xác_nhận của Kbn cho đơn_vị giao_dịch .
+
+4 . Việc quản_lí văn_bản điện_tử được thực_hiện theo quy_định tại Mục 2 Chương Iii <NĐ rel="DC"> Nghị_định số 64/2007/NĐ-CP </NĐ>.
+
+5 . Việc lưu_trữ văn_bản điện_tử được thực_hiện theo thời_hạn do pháp_luật quy_định như đối_với văn_bản giấy . Việc thực_hiện lưu_trữ văn_bản điện_tử trong một_số trường_hợp đặc_thù được thực_hiện tương_tự như quy_định tại Khoản 6 Điều 7 Thông_tư này .
+
+Điều 9 . Số định_danh giao_dịch
+
+1 . Số định_danh giao_dịch là dãy số duy_nhất do hệ_thống công_nghệ thông_tin tự sinh gắn cố_định với từng Gdđt tương_ứng của từng hệ_thống , số định_danh giao_dịch được sử_dụng để phân_biệt , tìm_kiếm giữa các Gdđt .
+
+2 . Kbn chủ_động ứng_dụng số định_danh giao_dịch đối_với các Gdđt trong hoạt_động nghiệp_vụ Kbn .
+
+Điều 10 . Bảo_mật thông_tin trong các Gdđt
+
+1 . Việc gửi , truyền , nhận , trao_đổi , lưu_trữ thông_tin về Gdđt trong hoạt_động nghiệp_vụ Kbn phải được bảo_mật theo quy_định của pháp_luật .
+
+2 . Các đơn_vị giao_dịch , đơn_vị cung_cấp thông_tin và tổ_chức khác có tham_gia Gdđt với Kbn có trách_nhiệm đảm_bảo tính an_toàn , bảo_mật , chính_xác , toàn_vẹn của dữ_liệu điện_tử trong phạm_vi nhiệm_vụ của mình và phối_hợp với Kbn thực_hiện các biện_pháp kĩ_thuật cần_thiết để đảm_bảo tính bảo_mật , an_toàn trong Gdđt với Kbn .
+
+3 . Trong quá_trình tham_gia dịch_vụ công trực_tuyến , các đơn_vị giao_dịch , đơn_vị cung_cấp thông_tin và tổ_chức khác phải bảo_mật thông_tin về tài_khoản đăng_nhập Trang thông_tin dịch_vụ công của Kbn , cụ_thể :
+
+a ) Đổi mật_khẩu ban_đầu trong vòng 01 ngày làm_việc , kể từ khi nhận được thông_báo tài_khoản và mật_khẩu đăng_nhập Trang thông_tin dịch_vụ công của Kbn ; thực_hiện đổi mật_khẩu định_kì ( tối_đa không quá 03 tháng ) để đảm_bảo tính an_toàn , bảo_mật thông_tin dữ_liệu trên hệ_thống .
+
+b ) Không tiết_lộ mật_khẩu đăng_nhập Trang thông_tin dịch_vụ công của Kbn cho người không có trách_nhiệm cập_nhật trên Trang thông_tin dịch_vụ công của Kbn .
+
+c ) Đổi mật_khẩu hoặc khoá tài_khoản đăng_nhập và báo ngay cho bộ_phận hỗ_trợ để xử_lí khi phát_hiện nguy_cơ không đảm_bảo_an_toàn về tài_khoản đăng_nhập Trang thông_tin dịch_vụ công của Kbn .
+
+Mục 2 . Giao_dịch_điện_tử Qua Trang Thông_tin Dịch_vụ Công Của Kbn
+
+Điều 11 . Thông_báo tham_gia hệ_thống dịch_vụ công trực_tuyến của Kbn
+
+1 . Khi có nhu_cầu Gdđt trên Trang thông_tin dịch_vụ công của Kbn , các đơn_vị giao_dịch_nhập và gửi các thông_tin thông_báo tham_gia sử_dụng hệ_thống dịch_vụ công trực_tuyến đến Kbn qua Trang thông_tin dịch_vụ công của Kbn ( theo mẫu Tk01 và Tk01 - pl ban_hành kèm theo Thông_tư này ) . Thông_báo tham_gia sử_dụng hệ_thống dịch_vụ công trực_tuyến của đơn_vị phải được chủ tài_khoản ( hoặc người được uỷ_quyền ) kí số trước khi gửi Kbn .
+
+2 . Trong thời_hạn 01 ngày làm_việc kể từ ngày nhận được thông_báo của đơn_vị giao_dịch , Kbn kiểm_tra và xử_lý :
+
+a ) Trường_hợp kiểm_tra phù_hợp , Kbn gửi thông_báo cho đơn_vị giao_dịch bằng thư điện_tử ( vào địa_chỉ thư điện_tử do đơn_vị cung_cấp tại thông_báo tham_gia sử_dụng dịch_vụ công trực_tuyến ) về việc chấp_nhận tham_gia dịch_vụ công trực_tuyến của đơn_vị ; trong đó , thông_báo tài_khoản đăng_nhập Trang thông_tin dịch_vụ công của Kbn cho đơn_vị giao_dịch .
+
+b ) Trường_hợp kiểm_tra không phù_hợp , Kbn gửi thông_báo bằng thư điện_tử ( vào địa_chỉ thư điện_tử do đơn_vị cung_cấp ) ; trong đó , nêu rõ lí_do từ_chối cho đơn_vị giao_dịch được biết .
+
+3 . Trong quá_trình tham_gia hệ_thống dịch_vụ công trực_tuyến của Kbn , trường_hợp đơn_vị giao_dịch :
+
+a ) Thay_đổi thông_tin sử_dụng hệ_thống dịch_vụ công trực_tuyến của Kbn ( thay_đổi thông_tin thành_viên đang tham_gia ; bổ_sung thêm thành_viên mới tham_gia : thông_báo ngừng thành_viên đang tham_gia dịch_vụ công trực_tuyến của Kbn ) , thì đơn_vị giao_dịch nhập các thông_tin liên_quan trên Trang thông_tin dịch_vụ công của Kbn ( theo mẫu Tk02 và các mẫu Tk02 - pl1 , Tk02 - pl2 , Tk02 - pt3 ban_hành kèm theo Thông_tư này , tương_ứng với từng trường_hợp cụ_thể và kí số của chủ tài_khoản ( hoặc người uỷ_quyền ) gửi đến Kbn nơi mở tài_khoản giao_dịch .
+
+Căn_cứ đề_nghị của đơn_vị , Kbn kiểm_tra và thông_báo cho đơn_vị giao_dịch theo quy_trình tương_tự quy_trình nêu tại Khoản 2 Điều này .
+
+b ) Có nhu_cầu ngừng tham_gia hệ_thống dịch_vụ công trực_tuyến của Kbn , thì đơn_vị giao_dịch nhập các thông_tin liên_quan trên Trang thông_tin dịch_vụ công của Kbn ( theo mẫu Tk03 ban_hành kèm theo không tư này ) và kí số của chủ tài_khoản ( hoặc người uỷ_quyền ) gửi đến Kbn nơi mở tài_khoản giao_dịch .
+
+Trong thời_hạn 01 ngày làm_việc kể từ ngày nhận được thông_báo của đơn_vị giao_dịch , Kbn gửi thông_báo xác_nhận ngừng sử_dụng hệ_thống dịch_vụ công trực_tuyến qua địa_chỉ thư điện_tử của đơn_vị và thông_báo trên Trang thông_tin dịch_vụ công của Kbn .
+
+c ) Có nhu_cầu cấp lại mật_khẩu đăng_nhập Trang thông_tin dịch_vụ công của Kbn , thì thực_hiện gửi yêu_cầu và thiết_lập mật_khẩu đăng_nhập mới qua Trang thông_tin dịch_vụ công của Kbn .
+
+d ) Sử_dụng tài_khoản đăng_nhập Trang thông_tin dịch_vụ công của Kbn không đúng mục_đích , nội_dung tham_gia Gdđt với Kbn , thì Kbn được quyền khoá tài_khoản đăng_nhập của đơn_vị giao_dịch .
+
+Điều 12 . Thời_gian gửi , xử_lí chứng_từ điện_tử và văn_bản điện_tử
+
+1 . Thời_gian gửi chứng_từ điện_tử hoặc văn_bản điện_tử của các đơn_vị giao_dịch đến Trang thông_tin dịch_vụ công của Kbn được thực_hiện liên_tục 24 giờ trong ngày và 7 ngày trong tuần , không loại_trừ ngày nghỉ , ngày lễ , ngày tết .
+
+2 . Các đơn_vị Kbn thực_hiện tiếp_nhận chứng_từ điện_tử hoặc văn_bản điện_tử của đơn_vị giao_dịch trên Trang thông_tin dịch_vụ công của Kbn trong giờ hành_chính của ngày làm_việc . Cụ_thể :
+
+a ) Trường_hợp chứng_từ điện_tử hoặc văn_bản điện_tử của đơn_vị giao_dịch được gửi ngoài giờ hành_chính hoặc vào ngày nghỉ , ngày lễ , ngày Tết , Kbn sẽ tiếp_nhận vào ngày làm_việc tiếp_theo .
+
+b ) Trường_hợp chứng_từ điện_tử hoặc văn_bản điện_tử của đơn_vị giao_dịch được tiếp_nhận qua Trang thông_tin dịch_vụ công của Kbn chưa đầy_đủ và hợp_lệ , Kbn có hướng_dẫn cụ_thể qua Trang thông_tin dịch_vụ công của Kbn cho đơn_vị giao_dịch để bổ_sung hoặc hoàn_thiện .
+
+3 . Thời_gian Kbn xử_lí hồ_sơ kiểm_soát chi Nsn được tính từ thời_điểm Kbn tiếp_nhận đầy_đủ hồ_sơ và chứng từ hợp_pháp hợp_lệ , đảm_bảo theo đúng quy_định của Bộ Tài_chính đối_với từng khoản chi .
+
+Điều 13 . Gửi và trả kết_quả đối_với hồ_sơ kiểm_soát chi
+
+1 . Phương_thức gửi hồ_sơ
+
+a ) Đối_với chứng từ chuyển tiền và bảng kê chứng_từ thanh_toán / tạm_ứng , đơn_vị lập theo các mẫu tương_ứng với từng loại đề_nghị tạm_ứng / thanh_toán ( chi thường_xuyên ; chi đầu_tư ; chi từ tài_khoản của đơn_vị giao_dịch ) và gửi cho Kbn trên Trang thông_tin dịch_vụ công của Kbn .
+
+b ) Đối_với hồ_sơ pháp_lí của dự_án đầu_tư và vốn sự_nghiệp có tính_chất đầu_tư ( không loại_trừ trường_hợp có bổ_sung , điều_chỉnh ) , thì đơn_vị giao_dịch phải gửi Kbn bằng văn_bản giấy .
+
+c ) Đối_với hồ_sơ khác , đơn_vị giao_dịch gửi qua Trang thông_tin dịch_vụ công trực_tuyến của Kbn theo hướng_dẫn trên Trang thông_tin dịch_vụ công của Kbn bằng các hình_thức : lập trực_tiếp trên Trang thông_tin dịch_vụ công của Kbn ; hoặc lập trên các chương_trình ứng_dụng tại đơn_vị giao_dịch ; hoặc được chuyển_đổi từ hồ_sơ bằng giấy thành tệp_tin điện_tử ( file ) theo định_dạng . pdf .
+
+2 . Ký số hồ_sơ
+
+a ) Các đề_nghị cam_kết chi hoặc đề_nghị điều_chỉnh cam_kết chi , điều_chỉnh hợp_đồng hoặc huỷ hợp_đồng , huỷ cam_kết chi ; chứng từ chuyển tiền và bảng kê chứng_từ thanh_toán / tạm_ứng do đơn_vị giao_dịch_nhập trên Trang thông_tin dịch_vụ công của Kbn phải có đầy_đủ chữ_kí số của người phụ_trách kế_toán ( hoặc người được uỷ_quyền ) và chủ tài_khoản ( hoặc người uỷ_quyền ) của đơn_vị giao_dịch .
+
+b ) Các hồ_sơ quy_định tại Điểm c Khoản 1 Điều này ( trừ đề_nghị cam_kết chi hoặc đề_nghị điều_chỉnh cam_kết chi , điều_chỉnh hợp_đồng hoặc huỷ hợp_đồng , huỷ cam_kết chi ) phải được chủ tài_khoản ( hoặc người được uỷ_quyền ) kí chữ_kí số .
+
+3 . Quy_trình gửi hồ_sơ kiểm_soát chi :
+
+a ) Đơn_vị giao_dịch sử_dụng tài_khoản đăng_nhập để truy_cập vào Trang thông_tin dịch_vụ công của Kbn , lập đề_nghị cam_kết chi Nsn hoặc đề_nghị tạm_ứng , thanh_toán hoặc đề_nghị hạch_toán ghi thu , ghi chi nguồn vốn hỗ_trợ phát_triển chính_thức , vốn vay ưu_đãi của các nhà tài_trợ nước_ngoài gửi Kbn nơi giao_dịch cùng các hồ_sơ có liên_quan phải gửi kèm theo chế_độ quy_định . Việc gửi và kí số trên Trang thông_tin dịch_vụ công của Kbn được thực_hiện theo quy_định tại Khoản 1 và Khoản 2 Điều này .
+
+b ) Sau khi đơn_vị giao_dịch hoàn_thành thủ_tục gửi hồ_sơ trên Trang thông_tin dịch_vụ công của Kbn , Trang thông_tin dịch_vụ công của Kbn tự_động kiểm_tra , nếu phù_hợp theo quy_định thì gửi thông_báo phản_hồi về việc ghi_nhận hồ_sơ của đơn_vị giao_dịch đã được gửi tới Trang thông_tin dịch_vụ công của Kbn .
+
+Trường_hợp kiểm_tra không phù_hợp , Trang thông_tin dịch_vụ công của Kbn có thông_báo phản_hồi nêu rõ lí_do từ_chối tiếp_nhận hồ_sơ để đơn_vị giao_dịch biết và hoàn_thiện lại hồ_sơ theo quy_định .
+
+4 . Kiểm_tra và trả kết_quả hồ_sơ của đơn_vị giao_dịch :
+
+Căn_cứ hồ_sơ của đơn_vị giao_dịch gửi và được tiếp_nhận trên Trang thông_tin dịch_vụ công của Kbn , Kbn kiểm_tra sơ_bộ , nếu hồ_sơ chưa đảm_bảo đúng và đầy_đủ theo chế_độ quy_định , thì Kbn gửi trả lại hồ_sơ cho đơn_vị giao_dịch và thông_báo rõ lí_do từ_chối đối_với từng loại hồ_sơ ( trong đó , nêu rõ tên các loại hồ_sơ và nội_dung cần bổ_sung , hoàn_thiện ) qua Trang thông_tin dịch_vụ công của Kbn và thư điện_tử của đơn_vị .
+
+Trường_hợp sau khi kiểm_tra sơ_bộ , nếu hồ_sơ đảm_bảo đúng và đầy_đủ theo chế_độ quy_định , Kbn tiếp_nhận hồ_sơ , làm thủ_tục kiểm_soát cam_kết chi , hoặc chi_thu , ghi chi , hoặc kiểm_soát chi theo chế_độ quy_định . Cụ_thể :
+
+a ) Đối_với hồ_sơ đề_nghị cam_kết chi hoặc đề_nghị điều_chỉnh cam_kết chi , điều_chỉnh hợp_đồng / huỷ hợp_đồng , huỷ cam_kết chi : Kbn kiểm_tra , nếu phù_hợp thì thực_hiện ghi_nhận hoặc điều_chỉnh hoặc huỷ hợp_đồng , cam_kết chi và thông_báo cho đơn_vị được biết thông_qua Trang thông_tin dịch_vụ công của Kbn . Trường_hợp không phù_hợp thì từ_chối ghi_nhận hoặc điều_chỉnh hoặc huỷ hợp_đồng , cam_kết chi của đơn_vị và thông_báo rõ lí_do cho đơn_vị được biết thông_qua Trang thông_tin dịch_vụ công của Kbn .
+
+b ) Đối_với hồ_sơ đề_nghị tạm_ứng , thanh_toán :
+
+- Đối_với hồ_sơ đề_nghị tạm_ứng , thanh_toán ( trừ đề_nghị tạm_ứng , thanh_toán đối_với các chương_trình , dự_án sử_dụng nguồn vốn hỗ_trợ phát_triển chính_thức , vốn vay ưu_đãi của các nhà tài_trợ nước_ngoài theo hình_thức ghi thu , ghi chi ) : Kbn kiểm_tra các điều_kiện chi theo chế_độ quy_định , nếu phù_hợp thì làm thủ_tục thanh_toán và gửi chứng_từ báo Nợ ( có chữ_kí số theo quy_định ) cho đơn_vị giao_dịch qua Trang thông_tin dịch_vụ công của Kbn để đơn_vị in chứng_từ phục_hồi làm căn_cứ hạch_toán kế_toán . Trường_hợp giá_trị chấp_nhận tạm_ứng , thanh_toán của Kbn chênh_lệch với số vốn đề_nghị tạm_ứng , thanh_toán của đơn_vị , thì Kbn lập thông_báo kết_quả kiểm_soát thanh_toán theo quy_định ( có gắn chữ_kí số ) và gửi đơn_vị qua Trang thông_tin dịch_vụ công của Kbn ; sau đó , đơn_vị lập lại chứng từ chuyển tiền với số tiền đúng bằng số tiền được Kbn chấp_nhận thanh_toán , kí số và gửi Kbn để thực_hiện thanh_toán .
+
+- Đối_với hồ_sơ đề_nghị tạm_ứng , thanh_toán cho các chương_trình , dự_án sử_dụng nguồn vốn hỗ_trợ phát_triển chính_thức , vốn vay ưu_đãi của các nhà tài_trợ nước_ngoài , sau khi thực_hiện kiểm_soát chi theo chế_độ quy_định , nếu phù_hợp thì Kbn làm thủ_tục xác_nhận cho đơn_vị và gửi Giấy đề_nghị thanh_toán có xác_nhận của Kbn ( có chữ_kí số theo quy_định ) cho đơn_vị giao_dịch qua Trang thông_tin dịch_vụ công của Kbn để đơn_vị in chứng_từ phục_hồi làm căn_cứ rút vốn .
+
+Trường_hợp kiểm_soát chi trước và giá_trị chấp_nhận tạm_ứng / thanh_toán của Kbn chênh_lệch với số vốn đề_nghị tạm_ứng / thanh_toán của đơn_vị , thì Kbn lập thông_báo kết_quả kiểm_soát thanh_toán theo quy_định ( có chữ_kí số theo quy_định ) và gửi đơn_vị qua Trang thông_tin dịch_vụ công của Kbn .
+
+Trường_hợp kiểm_soát chi sau và giá_trị chấp_nhận tạm_ứng , thanh_toán của Kbn chênh_lệch với số vốn đề_nghị tạm_ứng , thanh_toán của đơn_vị , thì Kbn lập thông_báo kết_quả kiểm_soát thanh_toán theo quy_định ( có chữ_kí số theo quy_định ) và gửi đơn_vị qua Trang thông_tin dịch_vụ công của Kbn ; Kbn thực_hiện trừ số chênh_lệch vào lần thanh_toán tiếp_theo .
+
+- Trường_hợp Kbn đã phối_hợp với nhà cung_cấp dịch_vụ di_động và đơn_vị giao_dịch có đăng_kí với nhà cung_cấp dịch_vụ di_động về việc thông_báo sự_biến_động số_dư tài_khoản qua tin nhắn điện_thoại_di_động , thì Kbn chuyển thông_tin về chứng_từ báo Nợ cho nhà cung_cấp dịch_vụ di_động để chuyển tin nhắn thông_báo biến_động số_dư tài_khoản đến đơn_vị giao_dịch .
+
+- Trường_hợp kiểm_tra không hợp_lệ , Kbn gửi trả hồ_sơ và nêu rõ lí_do từ_chối tiếp_nhận cho đơn_vị giao_dịch qua Trang thông_tin dịch_vụ công của Kbn
+
+- Trường_hợp đơn_vị không đồng_ý hoặc có điều_chỉnh với thông_báo kết_quả kiểm_soát của Kbn , thì đơn_vị gửi thông_báo cho Kbn qua Trang thông_tin dịch_vụ công của Kbn hoặc liên_hệ trực_tiếp với Kbn nơi giao_dịch để phối_hợp cùng xử_lý .
+
+c ) Đối_với đề_nghị hạch_toán ghi thu , ghi chi nguồn vốn hỗ_trợ phát_triển chính_thức , vốn vay ưu_đãi của các nhà tài_trợ nước_ngoài : Kbn kiểm_tra , nếu phù_hợp thì thực_hiện kí số xác_nhận Giấy đề_nghị hạch_toán ghi thu , ghi chi theo đề_nghị của đơn_vị giao_dịch qua Trang thông_tin dịch_vụ công của Kbn và làm thủ_tục hạch_toán ghi thu , ghi chi theo chế_độ quy_định . Trường_hợp không phù_hợp , thì Kbn từ_chối hạch_toán ghi thu , ghi chi của đơn_vị và thông_báo rõ lí_do cho đơn_vị được biết thông_qua Trang thông_tin dịch_vụ công của Kbn .
+
+d ) Việc in các chứng_từ phục_hồi được thực_hiện theo quy_định tại Khoản 5 Điều 7 Thông_tư này . Mẫu chứng_từ phục_hồi được thực_hiện theo các mẫu tương_ứng ban_hành kèm theo <TT rel="DC"> Thông_tư số 77/2017/TT-BTC </TT>. Trên các chứng_từ phục_hồi của đơn_vị phải có đầy_đủ chữ_kí và họ tên của người đã thực_hiện chuyển_đổi từ chứng_từ điện_tử thành chứng từ giấy .
+
+Điều 14 . Gửi và trả kết_quả đối_với hồ_sơ đăng_kí sử_dụng bổ_sung tài_khoản hoặc thay_đổi mẫu dấu , mẫu chữ_kí
+
+1 . Gửi hồ_sơ đăng_kí sử_dụng bổ_sung tài_khoản hoặc thay_đổi mẫu dấu , mẫu chữ_ký :
+
+a ) Đơn_vị giao_dịch sử_dụng tài_khoản đăng_nhập để truy_cập vào Trang thông_tin dịch_vụ công của Kbn và thực_hiện quét ( scan ) hồ_sơ đăng_kí sử_dụng bổ_sung tài_khoản hoặc thay_đổi mẫu dấu , mẫu chữ_kí theo quy_định tại <TT rel="DC"> Thông_tư số 61/2014/TT-BTC </TT> ( đã được kí và đóng_dấu ) để chuyển_đổi các hồ_sơ giấy thành tệp_tin điện_tử ( file ) theo định_dạng . pdf ; sau đó , gửi Kbn nơi đơn_vị giao_dịch qua Trang thông_tin dịch_vụ công của Kbn . Hồ_sơ đăng_kí sử_dụng bổ_sung tài_khoản hoặc thay_đổi mẫu dấu , mẫu chữ_kí_gửi qua Trang thông_tin dịch_vụ công của Kbn phải được kế_toán_trưởng hoặc phụ_trách kế_toán của đơn_vị hoặc người được uỷ_quyền theo quy_định của pháp_luật phê_duyệt trên Trang thông_tin dịch_vụ công của Kbn , chủ tài_khoản hoặc người được uỷ_quyền làm chủ tài_khoản theo quy_định của pháp_luật ( người giữ chức_danh chủ tài_khoản trong hồ_sơ đăng_kí sử_dụng tài_khoản tại Kbn ) kí chữ_kí số trước khi gửi Kbn .
+
+Trường_hợp đơn_vị giao_dịch gửi bổ_sung hồ_sơ pháp_lí ( Quyết_định bổ_nhiệm lại người đăng_kí_chủ tài_khoản , kế_toán_trưởng hoặc phụ_trách kế_toán ) qua Trang thông_tin dịch_vụ công của Kbn , thì đơn_vị giao_dịch ghi rõ nội_dung giao_dịch trên Trang thông_tin dịch_vụ công của Kbn là gửi bổ_sung văn_bản bổ_nhiệm lại chức_vụ ; đồng_thời , thực_hiện quét ( scan ) các văn_bản liên_quan đến việc bổ_nhiệm lại và kí chữ_kí số của chủ tài_khoản gửi Kbn .
+
+h ) Sau khi đơn_vị giao_dịch hoàn_thành thủ_tục gửi hồ_sơ tại Trang thông_tin dịch_vụ công của Kbn theo quy_định tại Điểm a Khoản này , Trang thông_tin dịch_vụ công của Kbn tự_động kiểm_tra và xử_lí theo quy_trình tương_tự nêu tại Điểm b Khoản 3 Điều 13 Thông_tư này .
+
+2 . Kiểm_tra và trả kết_quả hồ_sơ của đơn_vị giao_dịch :
+
+Căn_cứ hồ_sơ của đơn_vị giao_dịch gửi tới và đã được tiếp_nhận trên Trang thông_tin dịch_vụ công của Kbn , Kbn kiểm_tra và xử_lí theo quy_định tại <TT rel="DC"> Thông_tư số 61/2014/TT-BTC </TT>. Cụ_thể :
+
+a ) Trường_hợp kiểm_tra nếu phù_hợp , thì Kbn lập Thông_báo tài_khoản của đơn_vị mở tại Kbn ( theo mẫu 07/MTK-DVC ban_hành kèm theo Thông_tư này ) gửi đơn_vị giao_dịch qua Trang thông_tin dịch_vụ công của Kbn . Căn_cứ thông_báo của Kbn , đơn_vị giao_dịch thực_hiện in phục_hồi 01 bản Thông_báo tài_khoản của đơn_vị mở tại Kbn theo quy_định tại Khoản 3 Điều 8 Thông_tư này để lưu hồ_sơ mở tài_khoản của đơn_vị giao_dịch .
+
+Đối_với trường_hợp đơn_vị gửi bổ_sung hồ_sơ pháp_lý , thì Kbn kiểm_tra và xử_lí theo quy_định tại <TT rel="DC"> Thông_tư số 61/2014/TT-BTC </TT> ; Kbn không lập thông_báo gửi đơn_vị giao_dịch .
+
+b ) Trường_hợp kiểm_tra nếu không phù_hợp , thì Kbn từ_chối và thông_báo rõ lí_do từ_chối cho đơn_vị giao_dịch được biết qua Trang thông_tin dịch_vụ công của Kbn .
+
+Điều 15 . Đăng_kí rút_tiền_mặt
+
+1 . Các đơn_vị sử_dụng Nsn có nhu_cầu rút_tiền_mặt trong một ngày ( một hoặc nhiều lần thanh_toán ) vượt mức quy_định tại <TT rel="DC"> Thông_tư số 13/2017/TT-BTC ngày 15 tháng 02 năm 2017 </TT> của Bộ Tài_chính quy_định quản_lí thu , chi_bằng tiền_mặt qua hệ_thống Kbn ( sau đây gọi tắt là <TT rel="DC"> Thông_tư số 13/2017/TT-BTC </TT>), thì trước ít_nhất 01 ngày làm_việc , các đơn_vị sử_dụng Nsn sử_dụng tài_khoản đăng_nhập để truy_cập vào Trang thông_tin dịch_vụ công của Kbn , nhập đầy_đủ các thông_tin trên Thông_báo nhu_cầu rút_tiền_mặt ( theo mẫu 01 ban_hành kèm <TT rel="DC"> Thông_tư số 13/2017/TT-BTC </TT>) gửi Kbn nơi đơn_vị giao_dịch . Trang thông_tin dịch_vụ công của Kbn tự_động kiểm_tra , cụ_thể :
+
+a ) Trường_hợp phù_hợp thì gửi thông_báo phản_hồi về việc ghi_nhận Thông_báo nhu_cầu rút_tiền_mặt của đơn_vị sử_dụng Nsn đã được gửi tới Trang thông_tin dịch_vụ công của Kbn .
+
+b ) Trường_hợp kiểm_tra không phù_hợp , thì thông_báo phản_hồi nêu rõ lí_do từ_chối tiếp_nhận Thông_báo nhu_cầu rút_tiền_mặt của đơn_vị sử_dụng Nsn để đơn_vị được biết và hoàn_thiện lại hồ_sơ theo quy_định .
+
+2 . Căn_cứ Thông_báo nhu_cầu rút_tiền_mặt của đơn_vị sử_dụng Nsn đã được gửi tới và tiếp_nhận trên Trang thông_tin dịch_vụ công của Kbn , Kbn kiểm_tra và xử_lí theo quy_định tại <TT rel="DC"> Thông_tư số 13/2017/TT-BTC </TT> .
+
+Điều 16 . Tra_cứu thông_tin và đối_chiếu số_dư tài_khoản
+
+1 . Tra_cứu thông_tin
+
+Đơn_vị giao_dịch sử_dụng tài_khoản đăng_nhập truy_cập vào Trang thông_tin dịch_vụ công của Kbn ( mục tra_cứu thông_tin ) để theo_dõi thông_tin về tình_hình xử_lí chứng_từ điện_tử , văn_bản điện_tử hoặc tình_hình tài_khoản của đơn_vị giao_dịch tại Kbn .
+
+2 . Đối_chiếu , xác_nhận số_dư tài_khoản
+
+a ) Đơn_vị giao_dịch sử_dụng tài_khoản đăng_nhập vào Trang thông_tin dịch_vụ công của Kbn để gửi đề_nghị đối_chiếu , xác_nhận số_dư tài_khoản của đơn_vị giao_dịch mở tại Kbn định_kì theo quy_định ( tuỳ theo từng loại tài_khoản ) . Căn_cứ đề_nghị của đơn_vị giao_dịch , Kbn kiểm_tra và gửi kết_quả đối_chiếu , xác_nhận ( có chữ_kí số ) cho đơn_vị qua Trang thông_tin dịch_vụ công của Kbn .
+
+b ) Mẫu đối_chiếu , xác_nhận số_dư tài_khoản được thực_hiện theo quy_định hiện_hành .
+
+Điều 17 . Xử_lí_sự_cố
+
+1 . Trường_hợp gặp sự_cố trong quá_trình thực_hiện Gdđt trên Trang thông_tin dịch_vụ công của Kbn , mà do lỗi hệ_thống hạ_tầng kĩ_thuật của đơn_vị giao_dịch , thì đơn_vị giao_dịch phải tự_khắc_phục sự_cố .
+
+2 . Trường_hợp gặp sự_cố do lỗi tại Trang thông_tin dịch_vụ công của Kbn , Kbn có trách_nhiệm thông_báo cho đơn_vị giao_dịch được biết về sự_cố của hệ_thống hạ_tầng kĩ_thuật , thời_gian hệ_thống tiếp_tục vận_hành .
+
+3 . Trong thời_gian chưa khắc_phục được sự_cố quy_định tại Khoản 1 và Khoản 2 Điều này , các đơn_vị giao_dịch thực_hiện giao_dịch tại các đơn_vị Kbn theo phương_thức nộp hồ_sơ , chứng_từ , văn_bản bằng giấy tại Kbn .
+
+Điều 18 . Các khoản chi_phí
+
+1 . Các khoản kinh_phí phát_sinh của đơn_vị sử_dụng Nsn để thực_hiện Gdđt với Kbn bao_gồm :
+
+a ) Các khoản kinh_phí mua_sắm trang thiết_bị văn_phòng ( nếu có ) để tham_gia Gdđt với Kbn .
+
+b ) Các khoản kinh_phí mua chứng_thư số công_cộng của các tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số ; cước thuê_bao internet của đơn_vị sử_dụng Nsn để tham_gia Gdđt với Kbn ; phí sử_dụng tin nhắn thông_báo sự_biến_động số_dư tài_khoản mà đơn_vị sử_dụng Nsn trả cho nhà cung_cấp dịch_vụ viễn_thông .
+
+c ) Chi_phí khác ( nếu có ) .
+
+2 . Các khoản kinh_phí quy_định tại Khoản 1 Điều này là một khoản chi của Nsn và được hạch_toán , quyết_toán theo chế_độ quy_định .
+
+Mục 3 . Giao_dịch_điện_tử Giữa Kbn Với Ngân_hàng
+
+Điều 19 . Gdđt giữa Kbn với các ngân_hàng
+
+1 . Nội_dung Gdđt bao_gồm :
+
+a ) Thanh_toán điện_tử liên ngân_hàng giữa Kbn với Ngân_hàng Nhà_nước Việt_nam và các ngân_hàng thương_mại .
+
+b ) Thanh_toán song_phương điện_tử tập_trung giữa Kbn với các ngân_hàng thương_mại nơi Kbn mở tài_khoản .
+
+c ) Trao_đổi thông_tin , dữ_liệu về thu Nsn .
+
+2 . Quy_trình Gdđt :
+
+a ) Quy_trình thanh_toán điện_tử liên ngân_hàng giữa Kbn với Ngân_hàng Nhà_nước Việt_nam và các ngân_hàng thương_mại được thực_hiện theo quy_định của Ngân_hàng Nhà_nước Việt_nam .
+
+b ) Quy_trình thanh_toán song_phương điện_tử tập_trung giữa Kbn với các ngân_hàng thương_mại nơi Kbn mở tài_khoản được thực_hiện theo thoả_thuận về quy_trình thanh_toán song_phương điện_tử tập_trung giữa Kbn ( Trung_ương ) và từng hệ_thống ngân_hàng thương_mại quy_định tại <TT rel="DC"> Thông_tư số 315/2016/TT-BTC ngày 30 tháng 11 năm 2016 </TT> của Bộ Tài_chính về quản_lí và sử_dụng tài_khoản của Kbn mở tại Ngân_hàng Nhà_nước Việt_nam và các ngân_hàng thương_mại .
+
+c ) Quy_trình trao_đổi thông_tin , dữ_liệu về thu Nsn giữa Kbn và ngân_hàng thương_mại nơi mở tài_khoản được thực_hiện theo thoả_thuận phối_hợp thu Nsn giữa Kbn ( Trung_ương ) và từng hệ_thống ngân_hàng thương_mại , phù_hợp với quy_định tại <TT rel="DC"> Thông_tư số 328/2016/TT-BTC ngày 26 tháng 12 năm 2016 </TT> của Bộ Tài_chính hướng_dẫn thu và quản_lí các khoản thu Nsn qua Kbn ; <TT rel="None"> Thông_tư số 84/2016/TT-BTC ngày 17 tháng 6 năm 2016 </TT> của Bộ Tài_chính hướng_dẫn thủ_tục thu nộp Nsn đối_với các khoản thuế và thu nội_địa ; <TT rel="None"> Thông_tư số 184/2015/TT-BTC ngày 17 tháng 11 năm 2015 </TT> của Bộ Tài_chính quy_định thủ_tục về kê_khai , bảo_lãnh tiền thuế , thu nộp tiền thuế , tiền chậm nộp , tiền phạt , tiền phí , lệ_phí , các khoản thu khác , đối_với hàng_hoá xuất_khẩu , nhập_khẩu , quá_cảnh và phương_tiện xuất_cảnh , nhập_cảnh , quá_cảnh .
+
+Mục 4 . Giao_dịch_điện_tử Khác Trong Hoạt_động Nghiệp_vụ Kbn
+
+Điều 20 . Gdđt giữa Kbn với các đơn_vị cung_cấp thông_tin và các tổ_chức khác
+
+1 . Nội_dung Gdđt bao_gồm các giao_dịch trao_đổi thông_tin , dữ_liệu về hồ_sơ , chứng_từ điện_tử liên_quan đến các giao_dịch cung_cấp thông_tin để lập Báo_cáo tài_chính nhà_nước ; các giao_dịch sử_dụng ngân quỹ nhà_nước tạm_thời nhàn_rỗi hoặc vay bù_đắp thiếu_hụt tạm_thời ngân quỹ nhà_nước ; các Gdđt khác trong hoạt_động nghiệp_vụ Kbn ( nếu có ) .
+
+2 . Giao Kbn căn_cứ nhu_cầu và khả_năng hạ_tầng công_nghệ phối_hợp với các đơn_vị có liên_quan xác_định nội_dung , lộ_trình và quy_trình thực_hiện Gdđt giữa Kbn với các đơn_vị cung_cấp thông_tin và Gdđt giữa Kbn với các tổ_chức khác .
+
+Điều 21 . Gdđt giữa Kbn với các cơ_quan trong ngành tài_chính
+
+1 . Việc thực_hiện Gdđt giữa Kbn với các cơ_quan_tài_chính , cơ_quan Thuế và cơ_quan Hải_quan được thực_hiện theo các quy_định hiện_hành của Bộ Tài_chính về quy_trình trao_đổi thông_tin giữa các cơ_quan trong ngành tài_chính ( <QĐ rel="DC"> Quyết_định số 1027/QĐ-BTC ngày 19 tháng 5 năm 2009 </QĐ> của Bộ Tài_chính về việc ban_hành quy_trình quản_lí thu Nsn theo dự_án hiện_đại_hoá thu , nộp Nsn ; <QĐ rel="None"> Quyết_định số 654/QĐ-BTC ngày 02 tháng 4 năm 2013 </QĐ> của Bộ Tài_chính về việc bổ_sung quy_trình quản_lí thu Nsn thuộc dự_án hiện_đại_hoá thu , nộp Nsn ban_hành kèm theo <QĐ rel="DC"> Quyết_định số 1027/QĐ-BTC ngày 19 tháng 5 năm 2009 </QĐ> của Bộ_trưởng Bộ Tài_chính ; <TT rel="None"> Thông_tư số 84/2016/TT-BTC ngày 17 tháng 6 năm 2016 </TT> của Bộ Tài_chính hướng_dẫn thủ_tục thu nộp Nsn đối_với các khoản thuế và thu nội_địa ; <TT rel="None"> Thông_tư số 184/2015/TT-BTC ngày 17 tháng 11 năm 2015 </TT> của Bộ Tài_chính quy_định thủ_tục về kê_khai , bảo_lãnh tiền thuế , thu nộp tiền thuế , tiền chậm nộp , tiền phạt , tiền phí , lệ_phí , các khoản thu khác , đối_với hàng_hoá xuất_khẩu , nhập_khẩu , quá_cảnh và phương_tiện xuất_cảnh , nhập_cảnh , quá_cảnh ; <TT rel="None"> Thông_tư số 328/2016/TT-BTC ngày 26 tháng 12 năm 2016 </TT> của Bộ Tài_chính hướng_dẫn thu và quản_lí các khoản thu Nsn qua Kbn ) .
+
+2 . Đối_với các loại báo_cáo theo quy_định phải gửi các cơ_quan liên_quan , trường_hợp đã được Kbn gửi bằng văn_bản điện_tử có gắn chữ_kí số , thì Kbn không phải gửi báo_cáo giấy cho các cơ_quan đó , trừ trường_hợp pháp_luật có quy_định khác .
+
+Điều 22 . Gdđt trong nội_bộ hệ_thống Kbn
+
+1 . Nội_dung Gdđt , bao_gồm :
+
+a ) Giao_dịch về thanh_toán điện_tử liên kho_bạc giữa các đơn_vị trong hệ_thống Kbn .
+
+b ) Giao_dịch về trao_đổi thông_tin báo_cáo giữa các đơn_vị trong hệ_thống Kbn ( báo_cáo tổng_hợp thông_tin tài_chính huyện , báo_cáo tài_chính nhà_nước và các báo_cáo khác - nếu có ) ; trao_đổi thông_tin về các văn_bản quy_phạm_pháp_luật và các văn_bản điều_hành trong nội_bộ hệ_thống Kbn dưới hình_thức văn_bản điện_tử .
+
+2 . Căn_cứ khả_năng hạ_tầng công_nghệ thông_tin , Kbn xây_dựng nội_dung , lộ_trình và quy_định cụ_thể quy_trình thực_hiện các Gdđt trong nội_bộ hệ_thống Kbn , đảm_bảo phù_hợp với quy_định tại Thông_tư này và các văn_bản quy_phạm_pháp_luật khác có liên_quan .
+
+Chương_iii
+
+Tổ_chức Thực_hiện
+
+Điều 23 . Trách_nhiệm của các đơn_vị
+
+1 . Trách_nhiệm của Kbn
+
+a ) Xây_dựng , quản_lý , vận_hành Cổng thông_tin điện_tử của Kbn và Trang thông_tin dịch_vụ công của Kbn ; triển_khai các biện_pháp kĩ_thuật và dự_phòng cần_thiết để đảm_bảo_an_toàn , an_ninh , bảo_mật Gdđt trong hoạt_động nghiệp_vụ Kbn theo đúng các quy_định pháp_luật của Nhà_nước .
+
+b ) Tiếp_nhận hồ_sơ , chứng_từ của đơn_vị giao_dịch và thực_hiện trả kết_quả điện_tử trên Trang thông_tin dịch_vụ công của Kbn ; hướng_dẫn , hỗ_trợ đơn_vị giao_dịch trong việc sử_dụng các dịch_vụ công trực_tuyến của Kbn .
+
+c ) Ngừng cung_cấp dịch_vụ công trực_tuyến đối_với đơn_vị giao_dịch vi_phạm_quy_định về bảo_mật thông_tin quy_định tại Điều 10 Thông_tư này .
+
+d ) Phối_hợp với các ngân_hàng thương_mại , các cơ_quan trong ngành tài_chính và các tổ_chức khác xây_dựng và triển_khai các Gdđt quy_định tại Điều 19 , Điều 20 và Điều 21 Thông_tư này .
+
+e ) Xây_dựng và triển_khai quy_trình hướng_dẫn nội_bộ về Gdđt trong hoạt_động nghiệp_vụ Kbn .
+
+g ) Tổ_chức khảo_sát , đánh_giá tình_hình ứng_dụng công_nghệ thông_tin tại các đơn_vị giao_dịch ở từng địa_bàn , báo_cáo Bộ Tài_chính xem_xét , quyết_định phạm_vi địa_bàn và các đơn_vị giao_dịch bắt_buộc tham_gia Gdđt với Kbn trên Trang thông_tin dịch_vụ công của Kbn phù_hợp với tình_hình thực_tế .
+
+2 . Trách_nhiệm của các đơn_vị giao_dịch , các đơn_vị cung_cấp thông_tin và các tổ_chức khác
+
+a ) Quản_lí tài_khoản đăng_nhập vào Trang thông_tin dịch_vụ công của Kbn ; triển_khai các giải_pháp để bảo_mật thông_tin trong Gdđt với Kbn theo quy_định tại Điều 10 Thông_tư này .
+
+b ) Quản_lí chữ_kí số và đảm_bảo tính an_toàn , bảo_mật , chính_xác của chữ_kí số trên hồ_sơ kiểm_soát chi và hồ_sơ đăng_kí mở tài_khoản gửi qua Trang thông_tin dịch_vụ công của Kbn theo đúng quy_định tại Điều 6 Thông_tư này .
+
+c ) Đảm_bảo tính hợp_pháp , đầy_đủ , chính_xác và trung_thực đối_với hồ_sơ , chứng_từ điện_tử gửi Kbn theo đúng quy_định của <LT rel="DC"> Luật Giao_dịch điện_tử </LT> và các văn_bản quy_phạm_pháp_luật hiện_hành .
+
+d ) Theo_dõi , cập_nhật , phản_hồi các thông_tin liên_quan đến các Gdđt với Kbn .
+
+Điều 24 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực kể từ ngày 01 tháng 02 năm 2018 .
+
+2 . Bãi_bỏ <TT rel="None"> Thông_tư số 209/2010/TT-BTC ngày 20 tháng 12 năm 2010 </TT> của Bộ Tài_chính quy_định Gdđt trong hoạt_động nghiệp_vụ Kbn .
+
+3 . Chấm_dứt việc thực_hiện thí_điểm thủ_tục Gdđt đối_với dịch_vụ công trên Cổng thông_tin Kbn theo <QĐ rel="DC"> Quyết_định số 2704/QĐ-BTC ngày 17 tháng 12 năm 2015 </QĐ> của Bộ_trưởng Bộ Tài_chính về việc thí_điểm thủ_tục giao_dịch điện_tử đối_với dịch_vụ công trên Cổng thông_tin Kbn .
+
+4 . Từ ngày Thông_tư này có hiệu_lực , các Gdđt chưa hoàn_thành được tiếp_tục thực_hiện theo văn_bản của Bộ Tài_chính về việc thí_điểm thủ_tục Gdđt đối_với dịch_vụ công trên Cổng thông_tin Kbn . Các Gdđt mới thực_hiện từ ngày 01 tháng 02 năm 2018 được áp_dụng theo quy_định tại Thông_tư này .
+
+5 . Trường_hợp các văn_bản có liên_quan đề_cập tại Thông_tư này được sửa_đổi , bổ_sung hoặc thay_thế , thì thực_hiện theo văn_bản mới được sửa_đổi , bổ_sung hoặc thay_thế đó . / .
+
+Mẫu_tk01
+
+Ban_hành kèm theo <TT rel="DC"> Thông_tư số 133/2017/TT-BTC ngày 15/12/2017 </TT> của Bộ Tài_chính
+
+Cộng_hòa Xã_hội Chủ_nghĩa Việt_nam Độc_lập - Tự_do - Hạnh_phúc - - - - - - - - - - - - - - - - - - -
+
+Thông_báo Tham_gia Hệ_thống Dịch_vụ Công Trực_tuyến Của Kbn
+
+Kính gửi : < Kho_bạc Nhà_nước nơi đơn_vị mở tài_khoản giao_dịch >
+
+Xét các điều_kiện thực_hiện giao_dịch điện_tử với Kbn theo quy_định tại <TT rel="DC"> Thông_tư số 133/2017/TT-BTC ngày 15/12/2017 </TT> của Bộ Tài_chính quy_định giao_dịch điện_tử trong hoạt_động nghiệp_vụ của Kbn , chúng_tôi xin thông_báo tham_gia sử_dụng hệ_thống dịch_vụ công trực_tuyến của Kbn với các nội_dung sau đây :
+
+Tên Đvqhns : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Mã_đvqhns : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Địa_chỉ : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Số điện_thoại : Email : Số fax : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Số_lượng thành_viên tham_gia sử_dụng hệ_thống dịch_vụ công trực_tuyến của Kbn : . . . . . . . . . . . . . . . . .
+
+( Thông_tin của từng thành_viên tham_gia sử_dụng hệ_thống dịch_vụ công trực_tuyến của Kbn đính kèm )
+
+Chúng_tôi cam_kết và chịu trách_nhiệm trước pháp_luật về các nội_dung sau đây :
+
+- Thông_tin đưa ra tại thông_báo này là đúng , phù_hợp với các thông_tin đã kê_khai trong hồ_sơ đăng_kí mở và sử_dụng tài_khoản Kbn còn hiệu_lực .
+
+- Nhận thông_tin phản_hồi và các thông_báo của Kbn bằng phương_thức điện_tử ; đảm_bảo_an_toàn thông_tin và tính pháp_lí của các nội_dung giao_dịch điện_tử thuộc phạm_vi đơn_vị chúng_tôi quản_lí và thực_hiện .
+
+- Tuân_thủ và thực_hiện đầy_đủ các quy_định của pháp_luật về giao_dịch điện_tử và quy_định của pháp_luật về dịch_vụ công đã đăng_kí sử_dụng . / .
+
+Mẫu_tk01 - pl
+
+Ban_hành kèm theo <TT rel="DC"> Thông_tư số 133/2017/TT-BTC ngày 15/12/2017 </TT> của Bộ Tài_chính
+
+Cộng_hòa Xã_hội Chủ_nghĩa Việt_nam Độc_lập - Tự_do - Hạnh_phúc - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Thông_báo Thông_tin Thành_viên Tham_gia Sử_dụng Hệ_thống Dịch_vụ Công Trực_tuyến Của Kbn
+
+1 . Họ và tên : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2 . Số CMND / hộ_chiếu / thẻ căn_cước : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ngày cấp : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Nơi cấp : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3 . Địa_chỉ thư điện_tử ( email ) : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4 . Điện_thoại : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5 . Số Serial chứng_thư số : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ngày cấp : Ngày hết hạn : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6 . Nội_dung_dịch_vụ công trực_tuyến sử_dụng ( tích dấu X tương_ứng vào nội_dung tham_gia sử_dụng ) :
+
+Đăng_kí sử_dụng bổ_sung tài_khoản tại Kbn và thay_đổi mẫu dấu , mẫu chữ_kí
+
+Kê_khai và giao_nhận hồ_sơ kiểm_soát chi
+
+Đăng_kí rút_tiền_mặt với Kho_bạc Nhà_nước
+
+Tra_cứu thông_tin và đối_chiếu số_dư tài_khoản
+
+Khác
+
+7 . Vai_trò tham_gia trên hệ_thống ( tích dấu X tương_ứng vào một trong hai vai_trò tham_gia sử_dụng ) :
+
+Nhân_viên nhập dữ_liệu
+
+Người phê_duyệt
+
+8 . Chức_danh tham_gia của thành_viên đối_với từng tài_khoản giao_dịch của đơn_vị đã được mở tại Kbn :
+
+Ghi_chú :
+
+- Vai_trò chủ tài_khoản , người được uỷ_quyền chủ tài_khoản , kế_toán_trưởng , người được uỷ_quyền kế_toán_trưởng phải thống_nhất với thông_tin đơn_vị đã đăng_kí với Kbn theo <TT rel="DC"> Thông_tư số 61/2014/TT-BTC ngày 12/05/2014 </TT> ( Các thành_viên được thông_báo tại các cột ( 4 ) , ( 5 ) , ( 6 ) , ( 7 ) phải là cán_bộ của đơn_vị đã được đăng_kí các chức_danh tương_ứng trong hồ_sơ mở tài_khoản tại Kbn ) .
+
+- Không được khai đồng_thời các chức_danh Nhân_viên và Người phê_duyệt ; Chủ tài_khoản ( Người được uỷ_quyền chủ tài_khoản ) và Kế_toán_trưởng / Ủy_quyền Kế_toán_trưởng đối_với cùng 1 tài_khoản giao_dịch của đơn_vị tại Kbn .
+
+- Mẫu này được sử_dụng cho thành_viên lần đầu tham_gia sử_dụng hệ_thống dịch_vụ công trực_tuyến của Kbn .
+
+- Tích dấu X vào các cột ( 4 ) đến ( 8 ) tương_ứng với vai_trò của thành_viên tham_gia sử_dụng hệ_thống dịch_vụ công trực_tuyến của Kbn .
+
+Mẫu_tk02
+
+Ban_hành kèm theo <TT rel="DC"> Thông_tư số 133/2017/TT-BTC ngày 15/12/2017 </TT> của Bộ Tài_chính
+
+Cộng_hòa Xã_hội Chủ_nghĩa Việt_nam Độc_lập - Tự_do - Hạnh_phúc - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Thông_báo Thay_đổi , Bổ_sung Thông_tin Sử_dụng Hệ_thống Dịch_vụ Công Trực_tuyến Của Kbn
+
+Kính gửi : < Kho_bạc Nhà_nước nơi đơn_vị đăng_kí mở tài_khoản giao_dịch >
+
+Xét các điều_kiện của đơn_vị để sử_dụng hệ_thống dịch_vụ công trực_tuyến của Kbn , chúng_tôi thông_báo một_số thông_tin thay_đổi , bổ_sung như sau :
+
+1 . Thông_tin chung của đơn_vị :
+
+Tên Đvqhns : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Mã_đvqhns : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Địa_chỉ : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Số điện_thoại : . Email : . Số fax : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+( Trường_hợp có thay_đổi thông_tin chung của đơn_vị như : địa_chỉ , số điện_thoại , email , số fax , đơn_vị ghi rõ thông_tin đã đăng_kí trong Thông_báo tham_gia sử_dụng dịch_vụ công trực_tuyến của Kbn và thông_tin hiện_hành tại thời_điểm đăng_kí thay_đổi , bổ_sung ) .
+
+Lý_do thay_đổi thông_tin sử_dụng hệ_thống dịch_vụ công trực_tuyến :
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2 . Nội_dung thông_báo thay_đổi :
+
+Chúng_tôi cam_kết nhận thông_tin phản_hồi và các thông_báo của Kbn bằng phương_thức điện_tử . Chúng_tôi chịu trách_nhiệm về việc đảm_bảo_an_toàn thông_tin và tính pháp_lí của các nội_dung giao_dịch điện_tử thuộc phạm_vi đơn_vị chúng_tôi quản_lí và thực_hiện . / .
+
+Mẫu_tk02 - pl1
+
+Ban_hành kèm theo <TT rel="DC"> Thông_tư số 133/2017/TT-BTC ngày 15/12/2017 </TT> của Bộ Tài_chính
+
+Thông_báo Thay_đổi Thông_tin Đối_với Thành_viên Tham_gia Sử_dụng Hệ_thống Dịch_vụ Công Trực_tuyến Của Kbn
+
+1 . Thông_tin của thành_viên có thay_đổi :
+
+Họ và tên : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Tài_khoản đăng_nhập đang sử_dụng : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2 . Nội_dung thông_tin thay_đổi như sau ( kê_khai những nội_dung có thay_đổi so với thông_tin đã thông_báo trước đây với Kbn ) :
+
+2 . 1 . Thay_đổi CMND / hộ_chiếu / thẻ căn_cước
+
+Số CMND / hộ_chiếu / thẻ căn_cước : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ngày cấp : Nơi cấp : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2 . 2 . Thay_đổi địa_chỉ thư điện_tử ( email ) : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2 . 3 . Thay_đổi số điện_thoại : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2 . 4 . Thay_đổi chứng_thư số
+
+Số serial chứng_thư số : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ngày cấp : . . Ngày hết hạn : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2 . 5 . Thay_đổi nội_dung_dịch_vụ công trực_tuyến tham_gia sử_dụng ( tích dấu X tương_ứng vào nội_dung tham_gia sử_dụng )
+
+Đăng_kí sử_dụng bổ_sung tài_khoản tại Kbn và thay_đổi mẫu dấu , mẫu chữ_kí
+
+Kê_khai và giao_nhận hồ_sơ kiểm_soát chi
+
+Đăng_kí rút_tiền_mặt với Kbn
+
+Tra_cứu thông_tin và đối_chiếu số_dư tài_khoản
+
+Khác
+
+2 . 6 . Thay_đổi vai_trò tham_gia trên hệ_thống ( tích dấu X vào một trong hai vai_trò ) :
+
+Nhân_viên nhập dữ_liệu Người phê_duyệt
+
+2 . 7 . Thay_đổi chức_danh tham_gia của thành_viên đối_với từng tài_khoản giao_dịch của đơn_vị đã được mở tại Kbn :
+
+Ghi_chú :
+
+- Vai_trò chủ tài_khoản , người được uỷ_quyền chủ tài_khoản , kế_toán_trưởng , người được uỷ_quyền kế_toán_trưởng phải thống_nhất với thông_tin đơn_vị đã đăng_kí với Kbn theo <TT rel="DC"> Thông_tư số 61/2014/TT-BTC ngày 12/05/2014 </TT> ( Các thành_viên tại các cột ( 4 ) , ( 5 ) , ( 6 ) , ( 7 ) phải là cán_bộ của đơn_vị đã được đăng_kí các chức_danh tương_ứng trong hồ_sơ mở tài_khoản tại Kbn ) .
+
+- Không được khai đồng_thời các chức_danh Nhân_viên và Người phê_duyệt ; Chủ tài_khoản ( Người được uỷ_quyền chủ tài_khoản ) và Kế_toán_trưởng / uỷ_quyền Kế_toán_trưởng đối_với cùng 1 tài_khoản giao_dịch của đơn_vị tại Kbn .
+
+- Tích dấu X vào các cột ( 4 ) đến ( 8 ) tương_ứng với vai_trò của thành_viên tham_gia hệ_thống dịch_vụ công trực_tuyến Kbn .
+
+Mẫu_tk02 - pl2
+
+Ban_hành kèm theo <TT rel="DC"> Thông_tư số 133/2017/TT-BTC ngày 15/12/2017 </TT> của Bộ Tài_chính
+
+Thông_báo Bổ_sung Thành_viên Tham_gia Sử_dụng Hệ_thống Dịch_vụ Công Trực_tuyến Của Kbn
+
+1 . Họ và tên : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2 . Số CMND / hộ_chiếu / thẻ căn_cước : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ngày cấp : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Nơi cấp : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3 . Địa_chỉ thư điện_tử ( email ) : . Điện_thoại : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4 . Số Serial chứng_thư số : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ngày cấp : Ngày hết hạn : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5 . Nội_dung_dịch_vụ công trực_tuyến tham_gia sử_dụng ( tích dấu X tương_ứng vào nội_dung tham_gia sử_dụng )
+
+Đăng_kí sử_dụng bổ_sung tài_khoản tại Kbn và thay_đổi mẫu dấu , mẫu chữ_kí
+
+Kê_khai và giao_nhận hồ_sơ kiểm_soát chi
+
+Đăng_kí rút_tiền_mặt với Kbn
+
+Tra_cứu thông_tin và đối_chiếu số_dư tài_khoản
+
+Khác
+
+6 . Vai_trò tham_gia trên hệ_thống ( tích dấu X vào một trong hai vai_trò ) :
+
+Nhân_viên nhập dữ_liệu Người phê_duyệt
+
+7 . Chức_danh tham_gia đối_với từng tài_khoản giao_dịch của đơn_vị đã được mở tại Kbn :
+
+Ghi_chú :
+
+- Vai_trò chủ tài_khoản , người được uỷ_quyền chủ tài_khoản , kế_toán_trưởng , người được uỷ_quyền kế_toán_trưởng phải thống_nhất với thông_tin đơn_vị đã thông_báo với Kbn theo <TT rel="DC"> Thông_tư số 61/2014/TT-BTC ngày 12/05/2014 </TT> ( Các thành_viên được thông_báo tại các cột ( 4 ) , ( 5 ) , ( 6 ) , ( 7 ) phải là cán_bộ của đơn_vị đã được đăng_kí các chức_danh tương_ứng trong hồ_sơ mở tài_khoản tại Kbn ) .
+
+- Không được khai đồng_thời các chức_danh Nhân_viên và Người phê_duyệt ; Chủ tài_khoản ( Người được uỷ_quyền chủ tài_khoản ) và Kế_toán_trưởng / uỷ_quyền Kế_toán_trưởng đối_với cùng 1 tài_khoản giao_dịch của đơn_vị tại Kbn .
+
+- Mẫu này được sử_dụng cho thành_viên lần đầu tham_gia sử_dụng hệ_thống dịch_vụ công trực_tuyến của Kbn .
+
+- Tích dấu X vào các cột ( 4 ) đến ( 8 ) tương_ứng với vai_trò của thành_viên tham_gia sử_dụng hệ_thống dịch_vụ công trực_tuyến của Kbn .
+
+Mẫu_tk02 - pl3
+
+Ban_hành kèm theo <TT rel="DC"> Thông_tư số 133/2017/TT-BTC ngày 15/12/2017 </TT> của Bộ Tài_chính
+
+Thông_báo Ngừng Thành_viên Tham_gia Sử_dụng Hệ_thống Dịch_vụ Công Trực_tuyến Của Kbn
+
+1 . Họ và tên : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2 . Tài_khoản đăng_nhập : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3 . Số CMND / hộ_chiếu / thẻ căn_cước : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Ngày cấp : Nơi cấp : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+4 . Địa_chỉ thư điện_tử ( email ) : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+5 . Điện_thoại : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+6 . Lý_do ngừng tham_gia sử_dụng hệ_thống dịch_vụ công trực_tuyến của Kbn :
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Mẫu_tk03
+
+Ban_hành kèm theo <TT rel="DC"> Thông_tư số 133/2017/TT-BTC ngày 15/12/2017 </TT> của Bộ Tài_chính
+
+Cộng_hòa Xã_hội Chủ_nghĩa Việt_nam Độc_lập - Tự_do - Hạnh_phúc - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Thông_báo Ngừng Sử_dụng Hệ_thống Dịch_vụ Công Trực_tuyến Của Kbn
+
+Kính gửi : Kho_bạc Nhà_nước .
+
+1 . Thông_tin đơn_vị
+
+Tên Đvqhns : . Mã_đvqhns : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Địa_chỉ : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Số điện_thoại : Số fax : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Lý_do ngừng sử_dụng dịch_vụ công trực_tuyến :
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2 . Nội_dung ngừng sử_dụng ( đánh_dấu X vào nội_dung ngừng sử_dụng )
+
+Đăng_kí sử_dụng bổ_sung tài_khoản tại Kbn và thay_đổi mẫu dấu , mẫu chữ_kí
+
+Kê_khai và giao_nhận hồ_sơ kiểm_soát chi
+
+Đăng_kí rút_tiền_mặt với Kbn
+
+Tra_cứu thông_tin và đối_chiếu số_dư tài_khoản
+
+Khác
+
+Mẫu 07/MTK-DVC
+
+Ban_hành kèm theo <TT rel="DC"> Thông_tư số 133/2017/TT-BTC ngày 15/12/2017 </TT> của Bộ Tài_chính
+
+Thông_báo Tài_khoản Của Đơn_vị Giao_dịch_mở Tại Kho_bạc Nhà_nước
+
+Mã_số hồ_sơ : ( 1 ) .
+
+Căn_cứ ( 2 ) . . ngày / . . / của đơn_vị :
+
+( ghi tên Đvqhns ) Mã_đvqhns . . .
+
+Sau khi đã kiểm_soát đầy_đủ hồ_sơ theo quy_định , Kho_bạc Nhà_nước đồng_ý theo yêu_cầu : Đăng_kí sử_dụng bổ_sung tài_khoản của đơn_vị và thông_báo số tài_khoản của đơn_vị mở tại Kho_bạc Nhà_nước / Thay_đổi mẫu dấu , mẫu chữ_kí của đơn_vị áp_dụng đối_với tài_khoản
+
+Chi_tiết như sau :
+
+Ngày bắt_đầu hoạt_động : Có_giá_trị đến ngày :
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Phần dành cho Đvqhns :
+
+Lưu_ý :
+
+( 1 ) : Ghi Mã_số hồ_sơ theo Giấy kí sử_dụng bổ_sung tài_khoản , Giấy đề_nghị thay_đổi mẫu dấu , mẫu chữ_kí của đơn_vị
+
+( 2 ) : Ghi theo Giấy đăng_ký / đề_nghị của đơn_vị :
+
+- Giấy đăng_kí sử_dụng bổ_sung tài_khoản
+
+- Hoặc Giấy đề_nghị thay_đổi mẫu dấu , mẫu chữ_ký .
+
+( 3 ) : Ghi rõ mã nguồn Nsn , nguồn kinh_phí tự_chủ / không tự_chủ / . . . .
+
+( 4 ) : Ghi rõ từng Mã_ctmtda và Ht chi_tiết ( nếu có ) .
+
+( 5 ) : Ghi mã tài_khoản dự_toán . Mã cấp NS . Mã_đvqhns
+
+( 6 ) : Ghi mã tài_khoản tiền gửi , có tính_chất tiền gửi . Mã cấp Ns ( nếu có ) . Mã ĐVQHNS . Mã_ctmtda và Ht chi_tiết ( nếu có ) .

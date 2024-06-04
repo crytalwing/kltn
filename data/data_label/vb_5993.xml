@@ -1,0 +1,167 @@
+Thông_tư số 11/2021/tt-btttt ngày 28 tháng 10 năm 2021 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Tần_số vô_tuyến_điện ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị truy_nhập vô_tuyến băng tần 5 GHz .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị truy_nhập vô_tuyến băng tần 5 GHz ( qc Vn 65 : 2021 / bt ) .
+
+Điều 2 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 5 năm 2022 .
+
+2 . Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị truy_nhập vô_tuyến băng tần 5 GHz , Ký_hiệu Qcvn 65 : 2013 / bt quy_định tại Khoản 1 Điều 1 <TT rel="HHL"> Thông_tư số 01/2013/TT-BTTTT ngày 10 tháng 01 năm 2013 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_chuẩn kĩ_thuật quốc_gia về viễn_thông hết hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2023 .
+
+Điều 3 . Lộ_trình áp_dụng
+
+1 . Kể từ ngày 01 tháng 7 năm 2023 , thiết_bị đầu_cuối thiết_bị truy_nhập vô_tuyến băng tần 5 GHz nhập_khẩu và sản_xuất trong nước phải đáp_ứng các yêu_cầu quy_định tại Qcvn 65 : 2021 / bt trước khi lưu_thông trên thị_trường .
+
+2 . Khuyến_khích các doanh_nghiệp , tổ_chức , cá_nhân sản_xuất , nhập_khẩu thiết_bị truy_nhập vô_tuyến băng tần 5 GHz áp_dụng các quy_định của Qcvn 65 : 2021 / bt kể từ ngày Thông_tư này có hiệu_lực thi_hành .
+
+Điều 4 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 65 : 2021 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Thiết_bị Truy_nhập Vô_tuyến_băng Tần 5 Ghz
+
+National technical regulation on radio access equipment operating in the 5 GHz band
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Điều_kiện môi_trường
+
+1 . 4 . Tài_liệu viện_dẫn
+
+1 . 5 . Giải_thích từ_ngữ
+
+1 . 6 . Ký_hiệu
+
+1 . 7 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Tần_số trung_tâm danh định
+
+2 . 1 . 1 . Định_nghĩa
+
+2 . 1 . 2 . Giới_hạn
+
+2 . 1 . 3 . Đo_kiểm
+
+2 . 2 . Băng_thông kênh danh định và băng_thông kênh chiếm_dụng
+
+2 . 2 . 1 . Định_nghĩa
+
+2 . 2 . 2 . Giới_hạn
+
+2 . 2 . 3 . Đo_kiểm
+
+2 . 3 . Công_suất phát Rf , điều_khiển công_suất phát ( tpc ) và mật_độ công_suất
+
+2 . 3 . 1 . Định_nghĩa
+
+2 . 3 . 2 . Giới_hạn
+
+2 . 3 . 3 . Đo_kiểm
+
+2 . 4 . Phát_xạ không mong_muốn của máy_phát
+
+2 . 4 . 1 . Phát_xạ không mong_muốn ngoài băng tần Rlan 5 GHz
+
+2 . 4 . 1 . 1 . Định_nghĩa
+
+2 . 4 . 1 . 2 . Giới_hạn
+
+2 . 4 . 1 . 3 . Đo_kiểm
+
+2 . 4 . 2 . Phát_xạ không mong_muốn của máy phát trong băng tần Rlan 5 GHz
+
+2 . 4 . 2 . 1 . Định_nghĩa
+
+2 . 4 . 2 . 2 . Giới_hạn
+
+2 . 4 . 2 . 3 . Đo_kiểm
+
+2 . 5 . Phát_xạ giả máy thu
+
+2 . 5 . 1 . Định_nghĩa
+
+2 . 5 . 2 . Giới_hạn
+
+2 . 5 . 3 . Đo_kiểm
+
+2 . 6 . Lựa_chọn tần_số động Dfs
+
+2 . 6 . 1 . Các yêu_cầu với thiết_bị Fbe
+
+2 . 6 . 2 . Các yêu_cầu với thiết_bị Lbe
+
+2 . 6 . 3 . Cơ_chế phát báo_hiệu điều_khiển ngắn trên Fbe và Lbe
+
+2 . 7 . Đặc_tính chặn máy thu
+
+2 . 7 . 1 . Định_nghĩa
+
+2 . 7 . 2 . Yêu_cầu
+
+2 . 7 . 3 . Đo_kiểm
+
+3 . Phương_pháp_đo
+
+3 . 1 . Các điều_kiện đo_kiểm
+
+3 . 1 . 1 . Các điều_kiện đo bình_thường và tới hạn
+
+3 . 1 . 2 . Yêu_cầu đối_độ không đảm_bảo đo
+
+3 . 1 . 3 . Các chuỗi đo_kiểm
+
+3 . 1 . 4 . Kênh đo_kiểm
+
+3 . 1 . 5 . Ăngten
+
+3 . 1 . 6 . Phép đo dẫn , phép đo bức_xạ
+
+3 . 2 . Các phép đo_kiểm
+
+3 . 2 . 1 . Khai_báo thiết_bị
+
+3 . 2 . 2 . Tần_số
+
+3 . 2 . 3 . Băng_thông kênh chiếm_dụng
+
+3 . 2 . 4 . Công_suất Rf ra , Tpc và mật_độ công_suất
+
+3 . 2 . 5 . Phát_xạ không mong_muốn ngoài băng 5 GHz
+
+3 . 2 . 6 . Phát_xạ không mong_muốn trong băng tần Rlan 5 GHz
+
+3 . 2 . 7 . Phát_xạ giả máy thu
+
+3 . 2 . 8 . Cơ_chế truy_nhập thích_nghi
+
+3 . 2 . 9 . Đặc_tính chặn máy thu
+
+4 . Quy_định Về Quản_lý
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+6 . Tổ_chức Thực_hiện

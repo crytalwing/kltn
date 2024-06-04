@@ -1,0 +1,755 @@
+Luật số 20/2023/qh15 ngày 22 tháng 06 năm 2023 của quốc_hội
+
+Căn_cứ Hiến_pháp nước Cộng_hoà xã_hội chủ_nghĩa Việt_nam ;
+
+Quốc_hội ban_hành Luật Giao_dịch điện_tử .
+
+Chương I
+
+Những Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+1 . Luật này quy_định việc thực_hiện giao_dịch bằng phương_tiện điện_tử .
+
+2 . Luật này không quy_định về nội_dung , điều_kiện , hình_thức của giao_dịch .
+
+3 . Trường_hợp luật khác quy_định hoặc không quy_định giao_dịch được thực_hiện bằng phương_tiện điện_tử thì được áp_dụng theo quy_định của Luật này . Trường_hợp luật khác quy_định không được thực_hiện giao_dịch bằng phương_tiện điện_tử thì thực_hiện theo quy_định của luật đó .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Luật này áp_dụng đối_với cơ_quan , tổ_chức , cá_nhân trực_tiếp tham_gia giao_dịch điện_tử hoặc có liên_quan đến giao_dịch điện_tử .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Luật này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Giao_dịch điện_tử là giao_dịch được thực_hiện bằng phương_tiện điện_tử .
+
+2 . Phương_tiện điện_tử là phần_cứng , phần_mềm , hệ_thống thông_tin hoặc phương_tiện khác hoạt_động dựa trên công_nghệ thông_tin , công_nghệ điện , điện_tử , kĩ_thuật_số , từ_tính , truyền_dẫn không dây , quang_học , điện từ hoặc công_nghệ khác tương_tự .
+
+3 . Môi_trường điện_tử là môi_trường mạng viễn_thông , mạng Internet , mạng máy_tính , hệ_thống thông_tin .
+
+4 . Thông_điệp dữ_liệu là thông_tin được tạo ra , được gửi , được nhận , được lưu_trữ bằng phương_tiện điện_tử .
+
+5 . Chứng_thư điện_tử là giấy_phép , giấy chứng_nhận , chứng_chỉ , văn_bản xác_nhận , văn_bản chấp_thuận khác do cơ_quan , tổ_chức có thẩm_quyền phát_hành dưới dạng dữ_liệu điện_tử .
+
+6 . Dữ_liệu là kí_hiệu , chữ_viết , chữ_số , hình_ảnh , âm_thanh hoặc dạng tương_tự khác .
+
+7 . Dữ_liệu điện_tử là dữ_liệu được tạo ra , xử_lý , lưu_trữ bằng phương_tiện điện_tử .
+
+8 . Dữ_liệu số là dữ_liệu điện_tử được tạo_lập bằng phương_pháp dùng tín_hiệu_số .
+
+9 . Dữ_liệu chủ là dữ_liệu chứa thông_tin cơ_bản nhất để mô_tả một đối_tượng cụ_thể , làm cơ_sở để tham_chiếu , đồng_bộ giữa các cơ_sở dữ_liệu hoặc các tập dữ_liệu khác nhau .
+
+10 . Cơ_sở dữ_liệu là tập_hợp các dữ_liệu điện_tử được sắp_xếp , tổ_chức để truy_cập , khai_thác , chia_sẻ , quản_lí và cập_nhật thông_qua phương_tiện điện_tử .
+
+11 . Chữ_kí điện_tử là chữ_kí được tạo_lập dưới dạng dữ_liệu điện_tử gắn liền hoặc kết_hợp một_cách lô gíc với thông_điệp dữ_liệu để xác_nhận chủ_thể kí và khẳng_định sự chấp_thuận của chủ_thể đó đối_với thông_điệp dữ_liệu .
+
+12 . Chữ_kí số là chữ_kí điện_tử sử_dụng thuật_toán khoá không đối_xứng , gồm khoá bí_mật và khoá công_khai , trong đó khoá bí_mật được dùng để kí số và khoá công_khai được dùng để kiểm_tra chữ_kí số . Chữ_kí số bảo_đảm tính xác_thực , tính toàn_vẹn và tính chống chối_bỏ nhưng không bảo_đảm tính bí_mật của thông_điệp dữ_liệu .
+
+13 . Chứng_thư chữ_kí điện_tử là thông_điệp dữ_liệu nhằm xác_nhận cơ_quan , tổ_chức , cá_nhân được chứng_thực là người kí chữ_kí điện_tử . Chứng_thư chữ_kí điện_tử đối_với chữ_kí số được gọi là chứng_thư chữ_kí số .
+
+14 . Dịch_vụ chứng_thực chữ_kí số là dịch_vụ do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số cung_cấp để xác_thực chủ_thể kí số trên thông_điệp dữ_liệu , bảo_đảm tính chống chối_bỏ của chủ_thể kí với thông_điệp dữ_liệu và bảo_đảm tính toàn_vẹn của thông_điệp dữ_liệu được ký .
+
+15 . Dấu thời_gian là dữ_liệu điện_tử gắn với thông_điệp dữ_liệu cho phép xác_định thời_gian của thông_điệp dữ_liệu đó tồn_tại ở một thời_điểm cụ_thể .
+
+16 . Hợp_đồng điện_tử là hợp_đồng được thiết_lập dưới dạng thông_điệp dữ_liệu .
+
+17 . Người trung_gian là cơ_quan , tổ_chức , cá_nhân đại_diện cho cơ_quan , tổ_chức , cá_nhân khác thực_hiện việc gửi , nhận hoặc lưu_trữ thông_điệp dữ_liệu hoặc cung_cấp dịch_vụ khác liên_quan đến thông_điệp dữ_liệu đó .
+
+Điều 4 . Chính_sách phát_triển giao_dịch điện_tử
+
+1 . Bảo_vệ lợi_ích của Nhà_nước , lợi_ích công_cộng , quyền và lợi_ích hợp_pháp của cơ_quan , tổ_chức , cá_nhân .
+
+2 . Bảo_đảm tự_nguyện lựa_chọn thực_hiện giao_dịch điện_tử ; tự thoả_thuận về việc lựa_chọn loại công_nghệ , phương_tiện điện_tử , chữ_kí điện_tử , hình_thức xác_nhận khác bằng phương_tiện điện_tử để thực_hiện giao_dịch điện_tử , trừ trường_hợp luật có quy_định khác .
+
+3 . Phát_triển giao_dịch điện_tử toàn_diện , toàn trình để thực_hiện trọn_vẹn từ đầu đến cuối quy_trình bằng phương_tiện điện_tử , thúc_đẩy chuyển_đổi số ; tối_ưu hoá quy_trình , rút ngắn thời_gian xử_lý , thuận_tiện hơn so với các phương_thức giao_dịch khác .
+
+4 . Áp_dụng đồng_bộ cơ_chế , biện_pháp khuyến_khích , ưu_đãi , tạo điều_kiện phát_triển giao_dịch điện_tử ; ưu_tiên đầu_tư phát_triển hạ_tầng công_nghệ , phát_triển và ứng_dụng công_nghệ mới , đào_tạo nguồn nhân_lực trong giao_dịch điện_tử , đặc_biệt tại khu_vực miền núi , biên_giới , hải_đảo , vùng đồng_bào dân_tộc_thiểu_số , vùng có điều_kiện kinh_tế - xã_hội khó_khăn và vùng có điều_kiện kinh_tế - xã_hội đặc_biệt khó_khăn .
+
+Điều 5 . Bảo_đảm an_toàn thông_tin mạng và an_ninh mạng trong giao_dịch điện_tử
+
+1 . Cơ_quan , tổ_chức , cá_nhân phải tuân_thủ quy_định của pháp_luật về giao_dịch điện_tử , pháp_luật về an_toàn thông_tin mạng , pháp_luật về an_ninh mạng và quy_định khác của pháp_luật có liên_quan khi thực_hiện giao_dịch điện_tử .
+
+2 . Thông_tin trong thông_điệp dữ_liệu thuộc phạm_vi bí_mật nhà_nước phải tuân_thủ quy_định của pháp_luật về bảo_vệ bí_mật nhà_nước và pháp_luật về cơ_yếu .
+
+Điều 6 . Các hành_vi bị nghiêm_cấm trong giao_dịch điện_tử
+
+1 . Lợi_dụng giao_dịch điện_tử xâm_phạm đến lợi_ích quốc_gia , dân_tộc , an_ninh quốc_gia , trật_tự , an_toàn xã_hội , lợi_ích công_cộng , quyền và lợi_ích hợp_pháp của cơ_quan , tổ_chức , cá_nhân .
+
+2 . Cản_trở hoặc ngăn_chặn trái pháp_luật quá_trình tạo ra , gửi , nhận , lưu_trữ thông_điệp dữ_liệu hoặc có hành_vi khác nhằm phá_hoại hệ_thống thông_tin phục_vụ giao_dịch điện_tử .
+
+3 . Thu_thập , cung_cấp , sử_dụng , tiết_lộ , hiển_thị , phát_tán , kinh_doanh trái pháp_luật thông_điệp dữ_liệu .
+
+4 . Giả_mạo , làm sai_lệch hoặc xoá , huỷ , sao_chép , di_chuyển trái pháp_luật một phần hoặc toàn_bộ thông_điệp dữ_liệu .
+
+5 . Tạo ra thông_điệp dữ_liệu nhằm thực_hiện_hành_vi trái pháp_luật .
+
+6 . Gian_lận , giả_mạo , chiếm_đoạt hoặc sử_dụng trái pháp_luật tài_khoản giao_dịch điện_tử , chứng_thư điện_tử , chứng_thư chữ_kí điện_tử , chữ_kí điện_tử .
+
+7 . Cản_trở_việc lựa_chọn thực_hiện giao_dịch điện_tử .
+
+8 . Hành_vi khác bị nghiêm_cấm theo quy_định của luật .
+
+Chương_ii
+
+Thông_điệp Dữ_liệu
+
+Mục 1 . Giá_trị Pháp_lý Của Thông_điệp Dữ_liệu
+
+Điều 7 . Hình_thức thể_hiện của thông_điệp dữ_liệu
+
+1 . Thông_điệp dữ_liệu được thể_hiện dưới hình_thức văn_bản điện_tử , tài_liệu điện_tử , chứng_thư điện_tử , chứng_từ điện_tử , hợp_đồng điện_tử , thư điện_tử , điện_tín , điện_báo , fax và hình_thức trao_đổi dữ_liệu điện_tử khác theo quy_định của pháp_luật .
+
+2 . Thông_điệp dữ_liệu được tạo ra , phát_sinh trong quá_trình giao_dịch hoặc được chuyển_đổi từ văn_bản giấy .
+
+Điều 8 . Giá_trị pháp_lí của thông_điệp dữ_liệu
+
+Thông_tin trong thông_điệp dữ_liệu không bị phủ_nhận giá_trị pháp_lí chỉ vì thông_tin đó được thể_hiện dưới dạng thông_điệp dữ_liệu .
+
+Điều 9 . Thông_điệp dữ_liệu có giá_trị như văn_bản
+
+1 . Trường_hợp pháp_luật yêu_cầu thông_tin phải được thể_hiện bằng văn_bản thì thông_điệp dữ_liệu được xem là đáp_ứng yêu_cầu nếu thông_tin trong thông_điệp dữ_liệu đó có_thể truy_cập và sử_dụng được để tham_chiếu .
+
+2 . Trường_hợp pháp_luật yêu_cầu văn_bản phải được công_chứng , chứng_thực thì thông_điệp dữ_liệu được xem là đáp_ứng yêu_cầu nếu được công_chứng theo quy_định của pháp_luật về công_chứng ; chứng_thực theo quy_định của Luật này và pháp_luật về chứng_thực .
+
+Điều 10 . Thông_điệp dữ_liệu có giá_trị như bản_gốc
+
+Thông_điệp dữ_liệu được sử_dụng và có giá_trị như bản_gốc khi đáp_ứng đủ các yêu_cầu sau đây :
+
+1 . Thông_tin trong thông_điệp dữ_liệu được bảo_đảm toàn_vẹn kể từ khi được khởi tạo lần đầu_tiên dưới dạng một thông_điệp dữ_liệu hoàn_chỉnh .
+
+Thông_tin trong thông_điệp dữ_liệu được xem là toàn_vẹn khi thông_tin đó chưa bị thay_đổi , trừ những thay_đổi về hình_thức phát_sinh trong quá_trình gửi , lưu_trữ hoặc hiển_thị thông_điệp dữ_liệu ;
+
+2 . Thông_tin trong thông_điệp dữ_liệu có_thể truy_cập và sử_dụng được dưới dạng hoàn_chỉnh .
+
+Điều 11 . Thông_điệp dữ_liệu có giá_trị dùng làm_chứng_cứ
+
+1 . Thông_điệp dữ_liệu được dùng làm_chứng_cứ theo quy_định của Luật này và pháp_luật về tố_tụng .
+
+2 . Giá_trị dùng làm_chứng_cứ của thông_điệp dữ_liệu được xác_định căn_cứ vào độ tin_cậy của cách_thức khởi tạo , gửi , nhận hoặc lưu_trữ thông_điệp dữ_liệu ; cách_thức bảo_đảm và duy_trì tính toàn_vẹn của thông_điệp dữ_liệu ; cách_thức xác_định người khởi tạo , gửi , nhận thông_điệp dữ_liệu và các yếu_tố phù_hợp khác .
+
+Điều 12 . Chuyển_đổi hình_thức giữa văn_bản giấy và thông_điệp dữ_liệu
+
+1 . Thông_điệp dữ_liệu được chuyển_đổi từ văn_bản giấy phải đáp_ứng đủ các yêu_cầu sau đây :
+
+a ) Thông_tin trong thông_điệp dữ_liệu được bảo_đảm toàn_vẹn như văn_bản giấy ;
+
+b ) Thông_tin trong thông_điệp dữ_liệu có_thể truy_cập và sử_dụng được để tham_chiếu ;
+
+c ) Có kí_hiệu riêng xác_nhận đã được chuyển_đổi từ văn_bản giấy sang thông_điệp dữ_liệu và thông_tin của cơ_quan , tổ_chức , cá_nhân thực_hiện chuyển_đổi ;
+
+d ) Trường_hợp văn_bản giấy là giấy_phép , giấy chứng_nhận , chứng_chỉ , văn_bản xác_nhận , văn_bản chấp_thuận khác do cơ_quan , tổ_chức có thẩm_quyền phát_hành thì việc chuyển_đổi phải đáp_ứng yêu_cầu quy_định tại các điểm a , b và c khoản này và phải có chữ_kí số của cơ_quan , tổ_chức thực_hiện chuyển_đổi , trừ trường_hợp pháp_luật có quy_định khác . Hệ_thống thông_tin phục_vụ chuyển_đổi phải có tính_năng chuyển_đổi từ văn_bản giấy sang thông_điệp dữ_liệu .
+
+2 . Văn_bản giấy được chuyển_đổi từ_thông_điệp dữ_liệu phải đáp_ứng đủ các yêu_cầu sau đây :
+
+a ) Thông_tin trong văn_bản giấy được bảo_đảm toàn_vẹn như thông_điệp dữ_liệu ;
+
+b ) Có thông_tin để xác_định được hệ_thống thông_tin và chủ_quản hệ_thống thông_tin tạo_lập , gửi , nhận , lưu_trữ thông_điệp dữ_liệu gốc để tra_cứu ;
+
+c ) Có kí_hiệu riêng xác_nhận đã được chuyển_đổi từ_thông_điệp dữ_liệu sang văn_bản giấy và thông_tin của cơ_quan , tổ_chức , cá_nhân thực_hiện chuyển_đổi ;
+
+d ) Trường_hợp thông_điệp dữ_liệu là chứng_thư điện_tử thì việc chuyển_đổi phải đáp_ứng yêu_cầu quy_định tại các điểm a , b và c khoản này và phải có chữ_ký , con_dấu ( nếu có ) của cơ_quan , tổ_chức thực_hiện chuyển_đổi theo quy_định của pháp_luật . Hệ_thống thông_tin phục_vụ chuyển_đổi phải có tính_năng chuyển_đổi từ_thông_điệp dữ_liệu sang văn_bản giấy .
+
+3 . Giá_trị pháp_lí của văn_bản được chuyển_đổi theo quy_định của pháp_luật có liên_quan .
+
+4 . Chính_phủ quy_định chi_tiết Điều này .
+
+Điều 13 . Hình_thức lưu_trữ thông_điệp dữ_liệu
+
+1 . Trường_hợp pháp_luật yêu_cầu văn_bản , chứng_từ , hồ_sơ , tài_liệu hoặc thông_tin phải được lưu_trữ thì văn_bản , chứng_từ , hồ_sơ , tài_liệu hoặc thông_tin đó có_thể được lưu_trữ dưới dạng thông_điệp dữ_liệu khi đáp_ứng đủ các yêu_cầu sau đây :
+
+a ) Thông_tin trong thông_điệp dữ_liệu đó có_thể truy_cập và sử_dụng được để tham_chiếu ;
+
+b ) Thông_tin trong thông_điệp dữ_liệu đó được lưu trong chính khuôn_dạng được khởi tạo , gửi , nhận hoặc trong khuôn_dạng cho phép thể_hiện chính_xác thông_tin đó ;
+
+c ) Thông_điệp dữ_liệu đó được lưu_trữ theo một cách_thức nhất_định cho phép xác_định nguồn_gốc khởi tạo , người gửi , người nhận , thời_gian gửi , nhận thông_điệp dữ_liệu .
+
+2 . Trừ trường_hợp pháp_luật có quy_định khác , cơ_quan , tổ_chức , cá_nhân được lựa_chọn lưu_trữ văn_bản , chứng_từ , hồ_sơ , tài_liệu hoặc thông_tin dưới dạng văn_bản giấy hoặc lưu_trữ dưới dạng thông_điệp dữ_liệu khi thông_điệp dữ_liệu đáp_ứng các yêu_cầu quy_định tại khoản 1 Điều này .
+
+3 . Nội_dung , thời_hạn lưu_trữ đối_với thông_điệp dữ_liệu được thực_hiện theo quy_định của pháp_luật về lưu_trữ và quy_định khác của pháp_luật có liên_quan . Việc lưu_trữ thông_điệp dữ_liệu có giá_trị như lưu_trữ văn_bản giấy .
+
+Mục 2 . Gửi , Nhận Thông_điệp Dữ_liệu
+
+Điều 14 . Người khởi tạo thông_điệp dữ_liệu
+
+1 . Người khởi tạo thông_điệp dữ_liệu là cơ_quan , tổ_chức , cá_nhân_tạo hoặc gửi một thông_điệp dữ_liệu trước khi thông_điệp dữ_liệu đó được lưu_trữ nhưng không bao_gồm người trung_gian chuyển thông_điệp dữ_liệu .
+
+2 . Trường_hợp các bên tham_gia giao_dịch không có thoả_thuận khác thì việc xác_định người khởi tạo một thông_điệp dữ_liệu được quy_định như sau :
+
+a ) Thông_điệp dữ_liệu được xem là của người khởi tạo nếu được gửi bởi người khởi tạo thông_điệp dữ_liệu , người đại_diện của người khởi tạo hoặc bởi một hệ_thống thông_tin được thiết_lập để hoạt_động tự_động do người khởi tạo chỉ_định ;
+
+b ) Người nhận có_thể coi thông_điệp dữ_liệu là của người khởi tạo nếu đã áp_dụng các phương_pháp xác_minh được người khởi tạo chấp_thuận và cho kết_quả thông_điệp dữ_liệu đó là của người khởi tạo ;
+
+c ) Kể từ thời_điểm người nhận_biết có lỗi kĩ_thuật hoặc nhận được thông_báo từ người khởi tạo rằng thông_điệp dữ_liệu được gửi do lỗi kĩ_thuật và đã sử_dụng các phương_pháp xác_minh lỗi được người khởi tạo chấp_thuận thì không áp_dụng quy_định tại điểm a và điểm b khoản này .
+
+3 . Trường_hợp một bên mắc lỗi nhập thông_tin thông_qua hệ_thống thông_tin tự_động mà hệ_thống thông_tin tự_động đó không cung_cấp cho bên đó cơ_hội sửa lỗi thì bên mắc lỗi nhập thông_tin có quyền rút lại thông_tin đã nhập nếu đáp_ứng đủ các yêu_cầu sau đây :
+
+a ) Người khởi tạo mắc lỗi nhập thông_tin đã có thông_báo về lỗi nhập thông_tin của mình cho các bên liên_quan ngay khi nhận ra lỗi ;
+
+b ) Người khởi tạo mắc lỗi nhập thông_tin chưa sử_dụng hoặc nhận được bất_kì lợi_ích nào ( nếu có ) từ các bên .
+
+4 . Quyền rút thông_tin có lỗi quy_định tại khoản 3 Điều này không ảnh_hưởng đến trách_nhiệm giải_quyết hậu_quả phát_sinh do lỗi trong giao_dịch điện_tử theo quy_định khác của pháp_luật có liên_quan .
+
+5 . Người khởi tạo phải chịu trách_nhiệm trước pháp_luật về nội_dung thông_điệp dữ_liệu do mình khởi tạo .
+
+Điều 15 . Thời_điểm , địa_điểm gửi thông_điệp dữ_liệu
+
+Trường_hợp các bên tham_gia giao_dịch không có thoả_thuận khác thì thời_điểm , địa_điểm gửi thông_điệp dữ_liệu được quy_định như sau :
+
+1 . Thời_điểm gửi một thông_điệp dữ_liệu là thời_điểm thông_điệp dữ_liệu đó rời khỏi hệ_thống thông_tin dưới sự kiểm_soát của người khởi tạo hoặc người đại_diện của người khởi tạo . Trường_hợp hệ_thống thông_tin nằm ngoài sự kiểm_soát của người khởi tạo hoặc người đại_diện của người khởi tạo , thời_điểm gửi một thông_điệp dữ_liệu là thời_điểm thông_điệp dữ_liệu này nhập vào hệ_thống thông_tin ;
+
+2 . Ở bất_kì địa_điểm nào thông_điệp dữ_liệu được gửi thì địa_điểm gửi thông_điệp dữ_liệu vẫn được coi là trụ_sở của người khởi tạo nếu người khởi tạo là cơ_quan , tổ_chức hoặc nơi cư_trú của người khởi tạo nếu người khởi tạo là cá_nhân . Trường_hợp người khởi tạo có nhiều trụ_sở thì địa_điểm gửi thông_điệp dữ_liệu là trụ_sở chính hoặc trụ_sở có mối liên_hệ mật_thiết nhất với giao_dịch .
+
+Điều 16 . Nhận thông_điệp dữ_liệu
+
+1 . Người nhận thông_điệp dữ_liệu là cơ_quan , tổ_chức , cá_nhân hoặc người đại_diện của cơ_quan , tổ_chức , cá_nhân đó được chỉ_định nhận thông_điệp dữ_liệu từ người khởi tạo thông_điệp dữ_liệu nhưng không bao_gồm người trung_gian chuyển thông_điệp dữ_liệu .
+
+2 . Trường_hợp các bên tham_gia giao_dịch không có thoả_thuận khác thì việc nhận thông_điệp dữ_liệu được quy_định như sau :
+
+a ) Người nhận được xem là đã nhận được thông_điệp dữ_liệu nếu thông_điệp dữ_liệu được nhập vào hệ_thống thông_tin do người đó chỉ_định và có_thể truy_cập được ;
+
+b ) Người nhận có quyền coi mỗi thông_điệp dữ_liệu nhận được là một thông_điệp dữ_liệu độc_lập , trừ trường_hợp thông_điệp dữ_liệu đó là bản_sao của một thông_điệp dữ_liệu khác mà người nhận_biết hoặc buộc phải biết thông_điệp dữ_liệu đó là bản_sao ;
+
+c ) Trường_hợp trước hoặc trong khi gửi thông_điệp dữ_liệu , người khởi tạo có yêu_cầu hoặc thoả_thuận với người nhận về việc người nhận phải gửi cho mình thông_báo xác_nhận khi nhận được thông_điệp dữ_liệu thì người nhận phải thực_hiện đúng yêu_cầu hoặc thoả_thuận này ;
+
+d ) Trường_hợp trước hoặc trong khi gửi thông_điệp dữ_liệu , người khởi tạo đã tuyên_bố thông_điệp dữ_liệu đó chỉ có giá_trị khi có thông_báo xác_nhận , thông_điệp dữ_liệu đó được xem là chưa gửi cho đến khi người khởi tạo nhận được thông_báo của người nhận xác_nhận đã nhận được thông_điệp dữ_liệu đó ;
+
+đ ) Trường_hợp người khởi tạo đã gửi thông_điệp dữ_liệu mà không tuyên_bố về việc người nhận phải gửi thông_báo xác_nhận và cũng chưa nhận được thông_báo xác_nhận , trừ trường_hợp quy_định tại điểm a khoản này , thì người khởi tạo có_thể thông_báo cho người nhận là chưa nhận được thông_báo xác_nhận và ấn_định khoảng thời_gian hợp_lí để người nhận gửi thông_báo xác_nhận ; nếu người khởi tạo vẫn không nhận được thông_báo xác_nhận trong khoảng thời_gian đã ấn_định thì người khởi tạo có quyền xem là chưa gửi thông_điệp dữ_liệu đó .
+
+Điều 17 . Thời_điểm , địa_điểm nhận thông_điệp dữ_liệu
+
+Trường_hợp các bên tham_gia giao_dịch không có thoả_thuận khác thì thời_điểm , địa_điểm nhận thông_điệp dữ_liệu được quy_định như sau :
+
+1 . Trường_hợp người nhận đã chỉ_định một hệ_thống thông_tin để nhận thông_điệp dữ_liệu thì thời_điểm nhận là thời_điểm thông_điệp dữ_liệu nhập vào hệ_thống thông_tin được chỉ_định và có_thể truy_cập được ; nếu người nhận không chỉ_định một hệ_thống thông_tin để nhận thông_điệp dữ_liệu thì thời_điểm nhận thông_điệp dữ_liệu là thời_điểm thông_điệp dữ_liệu đó nhập vào bất_kì hệ_thống thông_tin nào của người nhận và có_thể truy_cập được ;
+
+2 . Ở bất_kì địa_điểm nào thông_điệp dữ_liệu được nhận thì địa_điểm nhận thông_điệp dữ_liệu vẫn được coi là trụ_sở của người nhận nếu người nhận là cơ_quan , tổ_chức hoặc nơi cư_trú của người nhận nếu người nhận là cá_nhân . Trường_hợp người nhận có nhiều trụ_sở thì địa_điểm nhận thông_điệp dữ_liệu là trụ_sở chính hoặc trụ_sở có mối liên_hệ mật_thiết nhất với giao_dịch .
+
+Điều 18 . Gửi , nhận tự_động thông_điệp dữ_liệu
+
+Trường_hợp người khởi tạo hoặc người nhận chỉ_định một hoặc nhiều hệ_thống thông_tin tự_động gửi hoặc nhận thông_điệp dữ_liệu thì việc gửi , nhận thông_điệp dữ_liệu thực_hiện theo quy_định tại các điều 14 , 15 , 16 và 17 của Luật này .
+
+Mục 3 . Chứng_thư Điện_tử
+
+Điều 19 . Giá_trị pháp_lí của chứng_thư điện_tử
+
+1 . Thông_tin trong chứng_thư điện_tử có giá_trị pháp_lí khi đáp_ứng đủ các yêu_cầu sau đây :
+
+a ) Chứng_thư điện_tử được kí bằng chữ_kí số của cơ_quan , tổ_chức phát_hành theo quy_định của Luật này ;
+
+b ) Thông_tin trong chứng_thư điện_tử có_thể truy_cập và sử_dụng được dưới dạng hoàn_chỉnh ;
+
+c ) Trường_hợp pháp_luật yêu_cầu chỉ ra thời_gian liên_quan đến chứng_thư điện_tử thì chứng_thư điện_tử phải có dấu thời_gian .
+
+2 . Chứng_thư điện_tử do cơ_quan , tổ_chức có thẩm_quyền của nước_ngoài cấp để được công_nhận và sử_dụng tại Việt_nam phải được hợp_pháp_hoá lãnh_sự , trừ trường_hợp được miễn theo quy_định của pháp_luật Việt_nam .
+
+Điều 20 . Chuyển_giao chứng_thư điện_tử
+
+1 . Trường_hợp pháp_luật cho phép chuyển_giao quyền sở_hữu đối_với chứng_thư điện_tử , việc chuyển_giao phải đáp_ứng đủ các yêu_cầu sau đây :
+
+a ) Chứng_thư điện_tử khẳng_định được chủ_thể sở_hữu và chỉ chủ_thể này đang kiểm_soát chứng_thư điện_tử đó ;
+
+b ) Yêu_cầu quy_định tại Điều 10 của Luật này ;
+
+c ) Hệ_thống thông_tin phục_vụ_việc chuyển_giao chứng_thư điện_tử phải đáp_ứng yêu_cầu bảo_đảm an_toàn thông_tin mạng tối_thiểu cấp_độ 3 theo quy_định của pháp_luật về an_toàn thông_tin mạng ;
+
+d ) Yêu_cầu khác theo quy_định của pháp_luật có liên_quan .
+
+2 . Trường_hợp pháp_luật yêu_cầu hoặc cho phép chuyển_đổi hình_thức từ văn_bản giấy sang chứng_thư điện_tử đối_với các loại giấy_tờ mà pháp_luật cho phép chuyển_giao quyền sở_hữu và chỉ được tồn_tại dưới một hình_thức duy_nhất thì văn_bản giấy không còn giá_trị pháp_lí ngay khi việc chuyển_đổi được hoàn_thành và đáp_ứng yêu_cầu quy_định tại điểm d khoản 1 Điều 12 của Luật này .
+
+3 . Trường_hợp pháp_luật yêu_cầu hoặc cho phép chuyển_đổi hình_thức từ chứng_thư điện_tử sang văn_bản giấy đối_với các loại chứng_thư điện_tử mà pháp_luật cho phép chuyển_giao quyền sở_hữu và chỉ được tồn_tại dưới một hình_thức duy_nhất thì chứng_thư điện_tử không còn giá_trị pháp_lí ngay khi việc chuyển_đổi được hoàn_thành và đáp_ứng yêu_cầu quy_định tại điểm d khoản 2 Điều 12 của Luật này .
+
+Điều 21 . Yêu_cầu đối_với lưu_trữ , xử_lí chứng_thư điện_tử
+
+1 . Việc lưu_trữ chứng_thư điện_tử phải tuân_thủ quy_định về lưu_trữ thông_điệp dữ_liệu tại Điều 13 của Luật này .
+
+2 . Hệ_thống thông_tin phục_vụ lưu_trữ , xử_lí chứng_thư điện_tử phải đáp_ứng yêu_cầu bảo_đảm an_toàn thông_tin mạng tối_thiểu cấp_độ 3 theo quy_định của pháp_luật về an_toàn thông_tin mạng .
+
+Chương_iii
+
+Chữ_ký Điện_tử Và Dịch_vụ Tin_cậy
+
+Mục 1 . Chữ_ký Điện_tử
+
+Điều 22 . Chữ_kí điện_tử
+
+1 . Chữ_kí điện_tử được phân_loại theo phạm_vi sử_dụng bao_gồm :
+
+a ) Chữ_kí điện_tử chuyên_dùng là chữ_kí điện_tử do cơ_quan , tổ_chức tạo_lập , sử_dụng riêng cho hoạt_động của cơ_quan , tổ_chức đó phù_hợp với chức_năng , nhiệm_vụ ;
+
+b ) Chữ_kí số công_cộng là chữ_kí số được sử_dụng trong hoạt_động công_cộng và được bảo_đảm bởi chứng_thư chữ_kí số công_cộng ;
+
+c ) Chữ_kí số chuyên_dùng công_vụ là chữ_kí số được sử_dụng trong hoạt_động công_vụ và được bảo_đảm bởi chứng_thư chữ_kí số chuyên_dùng công_vụ .
+
+2 . Chữ_kí điện_tử chuyên_dùng phải đáp_ứng đủ các yêu_cầu sau đây :
+
+a ) Xác_nhận chủ_thể kí và khẳng_định sự chấp_thuận của chủ_thể kí đối_với thông_điệp dữ_liệu ;
+
+b ) Dữ_liệu tạo chữ_kí điện_tử chuyên_dùng chỉ gắn duy_nhất với nội_dung của thông_điệp dữ_liệu được chấp_thuận ;
+
+c ) Dữ_liệu tạo chữ_kí điện_tử chuyên_dùng chỉ thuộc sự kiểm_soát của chủ_thể kí tại thời_điểm ký ;
+
+d ) Hiệu_lực của chữ_kí điện_tử chuyên_dùng có_thể được kiểm_tra theo điều_kiện do các bên tham_gia thoả_thuận .
+
+3 . Chữ_kí số là chữ_kí điện_tử đáp_ứng đủ các yêu_cầu sau đây :
+
+a ) Xác_nhận chủ_thể kí và khẳng_định sự chấp_thuận của chủ_thể kí đối_với thông_điệp dữ_liệu ;
+
+b ) Dữ_liệu tạo chữ_kí số chỉ gắn duy_nhất với nội_dung của thông_điệp dữ_liệu được chấp_thuận ;
+
+c ) Dữ_liệu tạo chữ_kí số chỉ thuộc sự kiểm_soát của chủ_thể kí tại thời_điểm ký ;
+
+d ) Mọi thay_đổi đối_với thông_điệp dữ_liệu sau thời_điểm kí đều có_thể bị phát_hiện ;
+
+đ ) Phải được bảo_đảm bởi chứng_thư chữ_kí số . Trường_hợp chữ_kí số chuyên_dùng công_vụ phải được bảo_đảm bởi chứng_thư chữ_kí số của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng công_vụ . Trường_hợp chữ_kí số công_cộng phải được bảo_đảm bởi chứng_thư chữ_kí số của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng ;
+
+e ) Phương_tiện tạo chữ_kí số phải bảo_đảm dữ_liệu tạo chữ_kí số không bị tiết_lộ , thu_thập , sử_dụng cho mục_đích giả_mạo chữ_ký ; bảo_đảm dữ_liệu được dùng để tạo chữ_kí số chỉ có_thể sử_dụng một lần duy_nhất ; không làm thay_đổi dữ_liệu cần ký .
+
+4 . Việc sử_dụng các hình_thức xác_nhận khác bằng phương_tiện điện_tử để thể_hiện sự chấp_thuận của chủ_thể kí đối_với thông_điệp dữ_liệu mà không phải là chữ_kí điện_tử thực_hiện theo quy_định khác của pháp_luật có liên_quan .
+
+Điều 23 . Giá_trị pháp_lí của chữ_kí điện_tử
+
+1 . Chữ_kí điện_tử không bị phủ_nhận giá_trị pháp_lí chỉ vì được thể_hiện dưới dạng chữ_kí điện_tử .
+
+2 . Chữ_kí điện_tử chuyên_dùng bảo_đảm an_toàn hoặc chữ_kí số có giá_trị pháp_lí tương_đương chữ_kí của cá_nhân đó trong văn_bản giấy .
+
+3 . Trường_hợp pháp_luật quy_định văn_bản phải được cơ_quan , tổ_chức xác_nhận thì yêu_cầu đó được xem là đáp_ứng_đối_với một thông_điệp dữ_liệu nếu thông_điệp dữ_liệu đó được kí bằng chữ_kí điện_tử chuyên_dùng bảo_đảm an_toàn hoặc chữ_kí số của cơ_quan , tổ_chức đó .
+
+Điều 24 . Dịch_vụ chứng_thực chữ_kí số chuyên_dùng công_vụ
+
+1 . Dịch_vụ chứng_thực chữ_kí số chuyên_dùng công_vụ là dịch_vụ chứng_thực chữ_kí số trong hoạt_động công_vụ .
+
+2 . Chứng_thư chữ_kí số chuyên_dùng công_vụ được quản_lý , cung_cấp bởi tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng công_vụ theo quy_định của pháp_luật về giao_dịch điện_tử và pháp_luật về cơ_yếu .
+
+3 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng công_vụ thực_hiện các hoạt_động sau đây :
+
+a ) Phát_hành chứng_thư chữ_kí số chuyên_dùng công_vụ để xác_nhận và duy_trì trạng_thái hiệu_lực chứng_thư chữ_kí số chuyên_dùng công_vụ của chủ_thể kí thông_điệp dữ_liệu ;
+
+b ) Thu_hồi chứng_thư chữ_kí số chuyên_dùng công_vụ ;
+
+c ) Kiểm_tra hiệu_lực chữ_kí số chuyên_dùng công_vụ và duy_trì trạng_thái hiệu_lực của chứng_thư chữ_kí số chuyên_dùng công_vụ ; không sử_dụng rào_cản kĩ_thuật , công_nghệ để hạn_chế việc kiểm_tra hiệu_lực chữ_kí số chuyên_dùng công_vụ ;
+
+d ) Cung_cấp thông_tin cần_thiết để chứng_thực chữ_kí số chuyên_dùng công_vụ ;
+
+đ ) Liên_thông với tổ_chức cung_cấp dịch_vụ chứng_thực điện_tử quốc_gia để bảo_đảm cho việc kiểm_tra hiệu_lực chữ_kí số chuyên_dùng công_vụ ;
+
+e ) Cấp dấu thời_gian trong hoạt_động công_vụ .
+
+4 . Chứng_thư chữ_kí số chuyên_dùng công_vụ , chữ_kí số chuyên_dùng công_vụ phải đáp_ứng quy_chuẩn kĩ_thuật , yêu_cầu kĩ_thuật đối_với chữ_kí số và dịch_vụ chứng_thực chữ_kí số theo quy_định của pháp_luật .
+
+5 . Chính_phủ quy_định chi_tiết Điều này .
+
+Điều 25 . Sử_dụng chữ_kí điện_tử chuyên_dùng , chữ_kí điện_tử chuyên_dùng bảo_đảm an_toàn
+
+1 . Cơ_quan , tổ_chức tạo_lập chữ_kí điện_tử chuyên_dùng không được kinh_doanh dịch_vụ về chữ_kí điện_tử chuyên_dùng .
+
+2 . Chữ_kí điện_tử chuyên_dùng bảo_đảm an_toàn là chữ_kí điện_tử chuyên_dùng được Bộ Thông_tin và Truyền_thông cấp chứng_nhận chữ_kí điện_tử chuyên_dùng bảo_đảm an_toàn .
+
+3 . Trường_hợp cơ_quan , tổ_chức sử_dụng chữ_kí điện_tử chuyên_dùng để giao_dịch với tổ_chức , cá_nhân khác hoặc có nhu_cầu công_nhận chữ_kí điện_tử chuyên_dùng bảo_đảm an_toàn thì đăng_kí với Bộ Thông_tin và Truyền_thông để được cấp chứng_nhận chữ_kí điện_tử chuyên_dùng bảo_đảm an_toàn .
+
+4 . Chính_phủ quy_định chi_tiết Điều này .
+
+Điều 26 . Công_nhận tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí điện_tử nước_ngoài ; công_nhận chữ_kí điện_tử , chứng_thư chữ_kí điện_tử nước_ngoài
+
+1 . Điều_kiện công_nhận tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí điện_tử nước_ngoài tại Việt_nam bao_gồm :
+
+a ) Thành_lập và hoạt_động hợp_pháp tại quốc_gia đăng_kí hoạt_động ; có báo_cáo kiểm_toán kĩ_thuật của hệ_thống cung_cấp dịch_vụ chứng_thực chữ_kí điện_tử từ tổ_chức kiểm_toán hoạt_động hợp_pháp tại quốc_gia đăng_kí hoạt_động ;
+
+b ) Chữ_kí điện_tử nước_ngoài , chứng_thư chữ_kí điện_tử nước_ngoài do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí điện_tử nước_ngoài cung_cấp phải phù_hợp với tiêu_chuẩn , quy_chuẩn kĩ_thuật về chữ_kí điện_tử , chứng_thư chữ_kí điện_tử theo quy_định của pháp_luật Việt_nam hoặc tiêu_chuẩn quốc_tế đã được thừa_nhận hoặc điều_ước quốc_tế mà nước Cộng_hoà xã_hội chủ_nghĩa Việt_nam là thành_viên ;
+
+c ) Chứng_thư chữ_kí điện_tử nước_ngoài do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí điện_tử nước_ngoài cung_cấp hình_thành dựa trên thông_tin định_danh đầy_đủ đã được xác_thực của tổ_chức , cá_nhân nước_ngoài ;
+
+d ) Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí điện_tử nước_ngoài phải cập_nhật trạng_thái của chứng_thư chữ_kí điện_tử nước_ngoài vào hệ_thống chứng_thực dịch_vụ tin_cậy của cơ_quan có thẩm_quyền của Việt_nam ;
+
+đ ) Có văn_phòng đại_diện tại Việt_nam .
+
+2 . Điều_kiện công_nhận chữ_kí điện_tử nước_ngoài , chứng_thư chữ_kí điện_tử nước_ngoài tại Việt_nam bao_gồm :
+
+a ) Chữ_kí điện_tử nước_ngoài , chứng_thư chữ_kí điện_tử nước_ngoài phải phù_hợp với tiêu_chuẩn , quy_chuẩn kĩ_thuật về chữ_kí điện_tử , chứng_thư chữ_kí điện_tử theo quy_định của pháp_luật Việt_nam hoặc tiêu_chuẩn quốc_tế đã được thừa_nhận hoặc điều_ước quốc_tế mà nước Cộng_hoà xã_hội chủ_nghĩa Việt_nam là thành_viên ;
+
+b ) Chứng_thư chữ_kí điện_tử nước_ngoài hình_thành dựa trên thông_tin định_danh đầy_đủ đã được xác_thực của tổ_chức , cá_nhân nước_ngoài .
+
+3 . Đối_tượng sử_dụng chữ_kí điện_tử nước_ngoài , chứng_thư chữ_kí điện_tử nước_ngoài được công_nhận theo quy_định tại khoản 2 Điều này là tổ_chức , cá_nhân nước_ngoài ; tổ_chức , cá_nhân Việt_nam có nhu_cầu giao_dịch điện_tử với tổ_chức , cá_nhân nước_ngoài mà chữ_kí điện_tử , chứng_thư chữ_kí điện_tử của tổ_chức cung_cấp dịch_vụ trong nước chưa được công_nhận tại nước đó .
+
+4 . Bộ_trưởng Bộ Thông_tin và Truyền_thông quy_định chi_tiết việc công_nhận tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí điện_tử nước_ngoài tại Việt_nam ; công_nhận chữ_kí điện_tử nước_ngoài , chứng_thư chữ_kí điện_tử nước_ngoài tại Việt_nam .
+
+Điều 27 . Chữ_kí điện_tử nước_ngoài , chứng_thư chữ_kí điện_tử nước_ngoài được chấp_nhận trong giao_dịch quốc_tế
+
+1 . Chữ_kí điện_tử nước_ngoài , chứng_thư chữ_kí điện_tử nước_ngoài được chấp_nhận trong giao_dịch quốc_tế là chữ_kí điện_tử nước_ngoài , chứng_thư chữ_kí điện_tử nước_ngoài của tổ_chức , cá_nhân nước_ngoài không hiện_diện tại Việt_nam , có hiệu_lực trên thông_điệp dữ_liệu gửi đến tổ_chức , cá_nhân Việt_nam .
+
+2 . Tổ_chức , cá_nhân lựa_chọn và chịu trách_nhiệm về việc chấp_nhận chữ_kí điện_tử nước_ngoài , chứng_thư chữ_kí điện_tử nước_ngoài trên thông_điệp dữ_liệu trong giao_dịch quốc_tế .
+
+Mục 2 . Dịch_vụ Tin_cậy
+
+Điều 28 . Dịch_vụ tin_cậy
+
+1 . Dịch_vụ tin_cậy bao_gồm :
+
+a ) Dịch_vụ cấp dấu thời_gian ;
+
+b ) Dịch_vụ chứng_thực thông_điệp dữ_liệu ;
+
+c ) Dịch_vụ chứng_thực chữ_kí số công_cộng .
+
+2 . Dịch_vụ tin_cậy là ngành , nghề đầu_tư kinh_doanh có điều_kiện .
+
+3 . Tổ_chức cung_cấp dịch_vụ tin_cậy phải có giấy_phép kinh_doanh dịch_vụ do Bộ Thông_tin và Truyền_thông cấp , trừ dịch_vụ chứng_thực hợp_đồng điện_tử trong thương_mại . Tổ_chức được quyền đăng_kí một hoặc các dịch_vụ quy_định tại khoản 1 Điều này . Thời_hạn của giấy_phép kinh_doanh dịch_vụ tin_cậy là 10 năm .
+
+Tổ_chức cung_cấp dịch_vụ chứng_thực hợp_đồng điện_tử trong thương_mại phải đáp_ứng điều_kiện hoạt_động cung_cấp dịch_vụ chứng_thực hợp_đồng điện_tử theo quy_định của pháp_luật về thương_mại điện_tử và điều_kiện kinh_doanh dịch_vụ tin_cậy theo quy_định tại Điều 29 của Luật này .
+
+4 . Chính_phủ quy_định chi_tiết hoạt_động của tổ_chức cung_cấp dịch_vụ tin_cậy ; quy_trình , thủ_tục , hồ_sơ_cấp , gia_hạn , thay_đổi , cấp lại , tạm đình_chỉ , thu_hồi giấy_phép kinh_doanh dịch_vụ tin_cậy và các nội_dung khác quy_định tại Điều này .
+
+Điều 29 . Điều_kiện kinh_doanh dịch_vụ tin_cậy
+
+1 . Điều_kiện kinh_doanh dịch_vụ tin_cậy bao_gồm :
+
+a ) Là doanh_nghiệp được thành_lập và hoạt_động hợp_pháp trên lãnh_thổ Việt_nam ;
+
+b ) Đáp_ứng điều_kiện tài_chính , nhân_lực quản_lí và kĩ_thuật phù_hợp với từng loại dịch_vụ tin_cậy quy_định tại khoản 1 Điều 28 của Luật này ;
+
+c ) Hệ_thống thông_tin cung_cấp dịch_vụ tin_cậy đáp_ứng yêu_cầu bảo_đảm an_toàn thông_tin mạng tối_thiểu cấp_độ 3 theo quy_định của pháp_luật về an_toàn thông_tin mạng ;
+
+d ) Có phương_án kĩ_thuật phục_vụ hoạt_động cung_cấp dịch_vụ phù_hợp với từng loại dịch_vụ tin_cậy quy_định tại khoản 1 Điều 28 của Luật này ;
+
+đ ) Có phương_án sẵn_sàng kết_nối kĩ_thuật phục_vụ giám_sát , kiểm_tra , báo_cáo số_liệu bằng phương_tiện điện_tử đáp_ứng yêu_cầu quản_lí nhà_nước về dịch_vụ tin_cậy .
+
+2 . Chính_phủ quy_định chi_tiết khoản 1 Điều này .
+
+Điều 30 . Trách_nhiệm của tổ_chức cung_cấp dịch_vụ tin_cậy
+
+1 . Công_bố công_khai quy_trình đăng_kí sử_dụng dịch_vụ , biểu_mẫu và chi_phí liên_quan .
+
+2 . Bảo_đảm kênh tiếp_nhận thông_tin và cung_cấp dịch_vụ liên_tục 24 giờ trong ngày và 07 ngày trong tuần .
+
+3 . Thực_hiện chế_độ lưu_trữ hồ_sơ , tài_liệu và kết_nối , cung_cấp thông_tin , số_liệu báo_cáo bằng phương_tiện điện_tử theo quy_định của pháp_luật .
+
+4 . Bảo_đảm trang thiết_bị trong hệ_thống thông_tin được cấp mã quản_lý , sẵn_sàng kết_nối kĩ_thuật phục_vụ công_tác quản_lí nhà_nước về dịch_vụ tin_cậy .
+
+5 . Thực_hiện biện_pháp nghiệp_vụ , tạm dừng , chấm_dứt cung_cấp dịch_vụ hoặc biện_pháp nghiệp_vụ khác theo yêu_cầu của cơ_quan có thẩm_quyền theo quy_định của pháp_luật .
+
+6 . Thực_hiện trách_nhiệm của chủ_quản hệ_thống thông_tin phục_vụ cung_cấp dịch_vụ tin_cậy đáp_ứng yêu_cầu bảo_đảm an_toàn thông_tin mạng tối_thiểu cấp_độ 3 theo quy_định của pháp_luật về an_toàn thông_tin mạng .
+
+7 . Định_kì hằng năm , báo_cáo về hoạt_động cung_cấp dịch_vụ tin_cậy theo quy_định của cơ_quan có thẩm_quyền .
+
+8 . Nộp phí dịch_vụ duy_trì hệ_thống kiểm_tra trạng_thái chứng_thư chữ_kí số theo quy_định của pháp_luật về phí và lệ_phí .
+
+Điều 31 . Dịch_vụ cấp dấu thời_gian
+
+1 . Dịch_vụ cấp dấu thời_gian là dịch_vụ để gắn thông_tin về thời_gian vào thông_điệp dữ_liệu .
+
+2 . Dấu thời_gian được tạo ra dưới dạng chữ_kí số .
+
+3 . Thời_gian được gắn vào thông_điệp dữ_liệu là thời_gian mà tổ_chức cung_cấp dịch_vụ cấp dấu thời_gian nhận được thông_điệp dữ_liệu đó và được chứng_thực bởi tổ_chức cung_cấp dịch_vụ cấp dấu thời_gian .
+
+4 . Nguồn thời_gian của tổ_chức cung_cấp dịch_vụ cấp dấu thời_gian phải theo quy_định của pháp_luật về nguồn thời_gian chuẩn quốc_gia .
+
+Điều 32 . Dịch_vụ chứng_thực thông_điệp dữ_liệu
+
+Dịch_vụ chứng_thực thông_điệp dữ_liệu bao_gồm :
+
+1 . Dịch_vụ lưu_trữ và xác_nhận tính toàn_vẹn của thông_điệp dữ_liệu ;
+
+2 . Dịch_vụ gửi , nhận thông_điệp dữ_liệu bảo_đảm .
+
+Điều 33 . Dịch_vụ chứng_thực chữ_kí số công_cộng
+
+1 . Dịch_vụ chứng_thực chữ_kí số công_cộng là dịch_vụ chứng_thực chữ_kí số trong hoạt_động công_cộng .
+
+2 . Chứng_thư chữ_kí số công_cộng được cung_cấp bởi tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng theo quy_định của Luật này .
+
+3 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng thực_hiện các hoạt_động sau đây :
+
+a ) Phát_hành chứng_thư chữ_kí số công_cộng để xác_nhận và duy_trì trạng_thái hiệu_lực chứng_thư chữ_kí số công_cộng của chủ_thể kí thông_điệp dữ_liệu ;
+
+b ) Thu_hồi chứng_thư chữ_kí số công_cộng ;
+
+c ) Kiểm_tra hiệu_lực chữ_kí số công_cộng và duy_trì trạng_thái hiệu_lực của chứng_thư chữ_kí số công_cộng ; không sử_dụng rào_cản kĩ_thuật , công_nghệ để hạn_chế việc kiểm_tra hiệu_lực chữ kĩ số công_cộng ;
+
+d ) Cung_cấp thông_tin cần_thiết để chứng_thực chữ_kí số công_cộng ;
+
+đ ) Liên_thông với tổ_chức cung_cấp dịch_vụ chứng_thực điện_tử quốc_gia để bảo_đảm cho việc kiểm_tra hiệu_lực chữ_kí số công_cộng .
+
+4 . Chứng_thư chữ_kí số công_cộng , chữ_kí số công_cộng phải đáp_ứng quy_chuẩn kĩ_thuật , yêu_cầu kĩ_thuật đối_với chữ_kí số và dịch_vụ chứng_thực chữ_kí số theo quy_định của pháp_luật .
+
+5 . Chính_phủ quy_định chi_tiết Điều này .
+
+Chương_iv
+
+Giao_kết Và Thực_hiện Hợp_đồng Điện_tử
+
+Điều 34 . Hợp_đồng điện_tử
+
+1 . Hợp_đồng điện_tử được giao_kết hoặc thực_hiện từ sự tương_tác giữa một hệ_thống thông_tin tự_động với người hoặc giữa các hệ_thống thông_tin tự_động với nhau không bị phủ_nhận giá_trị pháp_lí chỉ vì không có sự kiểm_tra hay can_thiệp của con_người vào từng hành_động cụ_thể do các hệ_thống thông_tin tự_động thực_hiện hay vào hợp_đồng .
+
+2 . Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ ban_hành theo thẩm_quyền hoặc trình cấp có thẩm_quyền ban_hành quy_định về giao_kết và thực_hiện hợp_đồng điện_tử trong lĩnh_vực thuộc phạm_vi nhiệm_vụ , quyền_hạn được phân_công , phù_hợp với điều_kiện thực_tiễn .
+
+Điều 35 . Giao_kết_hợp_đồng điện_tử
+
+1 . Giao_kết_hợp_đồng điện_tử là việc sử_dụng thông_điệp dữ_liệu để tiến_hành một phần hoặc toàn_bộ giao_dịch trong quá_trình giao_kết_hợp_đồng điện_tử .
+
+2 . Đề_nghị giao_kết và chấp_nhận giao_kết_hợp_đồng điện_tử được thực_hiện thông_qua thông_điệp dữ_liệu , trừ trường_hợp các bên có thoả_thuận khác .
+
+Điều 36 . Nguyên_tắc giao_kết và thực_hiện hợp_đồng điện_tử
+
+1 . Các bên có quyền thoả_thuận sử_dụng thông_điệp dữ_liệu , phương_tiện điện_tử một phần hoặc toàn_bộ trong giao_kết và thực_hiện hợp_đồng điện_tử .
+
+2 . Khi giao_kết và thực_hiện hợp_đồng điện_tử , các bên có quyền thoả_thuận về yêu_cầu kĩ_thuật , điều_kiện bảo_đảm tính toàn_vẹn , bảo_mật có liên_quan đến hợp_đồng điện_tử đó .
+
+3 . Việc giao_kết và thực_hiện hợp_đồng điện_tử phải tuân_thủ quy_định của Luật này , quy_định của pháp_luật về hợp_đồng và quy_định khác của pháp_luật có liên_quan .
+
+Điều 37 . Việc nhận , gửi , thời_điểm , địa_điểm nhận , gửi thông_điệp dữ_liệu trong giao_kết và thực_hiện hợp_đồng điện_tử
+
+Việc nhận , gửi , thời_điểm , địa_điểm nhận , gửi thông_điệp dữ_liệu trong giao_kết và thực_hiện hợp_đồng điện_tử được thực_hiện theo quy_định tại các điều 15 , 16 , 17 và 18 của Luật này .
+
+Điều 38 . Giá_trị pháp_lí của thông_báo trong giao_kết và thực_hiện hợp_đồng điện_tử
+
+Trong giao_kết và thực_hiện hợp_đồng điện_tử , thông_báo dưới dạng thông_điệp dữ_liệu có giá_trị pháp_lí như thông_báo bằng văn_bản giấy .
+
+Chương V
+
+Giao_dịch_điện_tử Của Cơ_quan Nhà_nước
+
+Điều 39 . Các loại_hình giao_dịch điện_tử của cơ_quan nhà_nước
+
+1 . Giao_dịch điện_tử trong nội_bộ cơ_quan nhà_nước .
+
+2 . Giao_dịch điện_tử giữa các cơ_quan nhà_nước với nhau .
+
+3 . Giao_dịch điện_tử giữa cơ_quan nhà_nước với cơ_quan , tổ_chức , cá_nhân .
+
+Điều 40 . Quản_lí dữ_liệu , cơ_sở dữ_liệu dùng chung
+
+1 . Dữ_liệu trong cơ_quan nhà_nước được tổ_chức thống_nhất , được phân_cấp quản_lí theo trách_nhiệm quản_lí của cơ_quan nhà_nước nhằm thúc_đẩy giao_dịch điện_tử ; được chia_sẻ phục_vụ hoạt_động của cơ_quan nhà_nước , người dân , doanh_nghiệp theo quy_định của pháp_luật .
+
+2 . Cơ_sở dữ_liệu dùng chung trong cơ_quan nhà_nước bao_gồm cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu của Bộ , ngành , địa_phương .
+
+3 . Việc quản_lí cơ_sở dữ_liệu quốc_gia được quy_định như sau :
+
+a ) Cơ_sở dữ_liệu quốc_gia chứa dữ_liệu chủ làm cơ_sở tham_chiếu , đồng_bộ dữ_liệu giữa các cơ_sở dữ_liệu của Bộ , ngành , địa_phương ;
+
+b ) Dữ_liệu chủ trong cơ_sở dữ_liệu quốc_gia có giá_trị sử_dụng chính_thức , tương_đương văn_bản giấy được cơ_quan có thẩm_quyền cung_cấp , trừ trường_hợp pháp_luật có quy_định khác ;
+
+c ) Dữ_liệu trong cơ_sở dữ_liệu quốc_gia được chia_sẻ với Bộ , ngành , địa_phương phục_vụ giải_quyết thủ_tục hành_chính , cải_cách hành_chính , đơn_giản_hoá thủ_tục hành_chính cho người dân , doanh_nghiệp và các mục_tiêu phát_triển kinh_tế - xã_hội ;
+
+d ) Thủ_tướng Chính_phủ_phê_duyệt danh_mục cơ_sở dữ_liệu quốc_gia . Danh_mục cơ_sở dữ_liệu quốc_gia phải thể_hiện được các nội_dung cơ_bản sau đây : tên cơ_sở dữ_liệu quốc_gia ; mục_tiêu xây_dựng cơ_sở dữ_liệu quốc_gia ; phạm_vi dữ_liệu trong cơ_sở dữ_liệu quốc_gia ; thông_tin về dữ_liệu chủ của cơ_sở dữ_liệu quốc_gia được lưu_trữ và chia_sẻ ; đối_tượng và mục_đích sử_dụng , khai_thác cơ_sở dữ_liệu quốc_gia ; nguồn thông_tin được xây_dựng và cập_nhật vào cơ_sở dữ_liệu quốc_gia ; phương_thức chia_sẻ dữ_liệu từ cơ_sở dữ_liệu quốc_gia ;
+
+đ ) Chính_phủ quy_định việc xây_dựng , cập_nhật , duy_trì và khai_thác , sử_dụng cơ_sở dữ_liệu quốc_gia ; quy_định việc chia_sẻ cơ_sở dữ_liệu quốc_gia với cơ_sở dữ_liệu của cơ_quan khác của Nhà_nước .
+
+4 . Việc quản_lí cơ_sở dữ_liệu của Bộ , ngành , địa_phương được quy_định như sau :
+
+a ) Cơ_sở dữ_liệu của Bộ , ngành , địa_phương là tập_hợp thông_tin_dùng chung của Bộ , ngành , địa_phương ;
+
+b ) Dữ_liệu chủ trong cơ_sở dữ_liệu của Bộ , ngành , địa_phương có giá_trị sử_dụng chính_thức , tương_đương văn_bản giấy do Bộ , ngành , địa_phương cung_cấp , trừ trường_hợp pháp_luật có quy_định khác ;
+
+c ) Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh quy_định_danh_mục cơ_sở dữ_liệu ; việc xây_dựng , cập_nhật , duy_trì và khai_thác , sử_dụng cơ_sở dữ_liệu của Bộ , ngành , địa_phương mình . Danh_mục cơ_sở dữ_liệu của Bộ , ngành , địa_phương phải thể_hiện được các nội_dung cơ_bản sau đây : tên cơ_sở dữ_liệu ; mô_tả mục_đích , phạm_vi , nội_dung của từng cơ_sở dữ_liệu ; cơ_chế thu_thập , cập_nhật , nguồn dữ_liệu được thu_thập của từng cơ_sở dữ_liệu ; liệt_kê các hạng_mục dữ_liệu bao_gồm dữ_liệu mở và dữ_liệu được chia_sẻ .
+
+5 . Nhà_nước bảo_đảm một phần hoặc toàn_bộ kinh_phí xây_dựng và duy_trì cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu của Bộ , ngành , địa_phương , cơ_quan khác của Nhà_nước .
+
+Điều 41 . Tạo_lập , thu_thập dữ_liệu
+
+1 . Việc tạo_lập , thu_thập dữ_liệu , phát_triển dữ_liệu số được ưu_tiên ở mức_độ cao nhất để phát_triển Chính_phủ số , chuyển_đổi số trong hoạt_động của cơ_quan nhà_nước .
+
+2 . Việc tạo_lập dữ_liệu trong cơ_sở dữ_liệu của cơ_quan nhà_nước phải sử_dụng thống_nhất bảng mã danh_mục dùng chung do cơ_quan nhà_nước có thẩm_quyền ban_hành , thống_nhất với dữ_liệu chủ trong cơ_sở dữ_liệu quốc_gia .
+
+3 . Cơ_quan nhà_nước không được thu_thập , tổ_chức thu_thập lại dữ_liệu hoặc yêu_cầu tổ_chức , cá_nhân cung_cấp lại dữ_liệu mà cơ_quan đó đang quản_lí hoặc dữ_liệu đó được cơ_quan nhà_nước khác sẵn_sàng kết_nối , chia_sẻ , trừ trường_hợp yêu_cầu cung_cấp dữ_liệu phục_vụ cập_nhật hoặc sử_dụng cho mục_đích_xác_minh , thẩm_tra dữ_liệu hoặc dữ_liệu đó không bảo_đảm yêu_cầu về chất_lượng theo tiêu_chuẩn , quy_chuẩn kĩ_thuật hoặc pháp_luật có quy_định khác .
+
+4 . Bộ Thông_tin và Truyền_thông tổng_hợp và công_bố danh_sách các cơ_quan cung_cấp dữ_liệu , danh_mục dữ_liệu được cung_cấp , bảng mã danh_mục dùng chung để cơ_quan , tổ_chức , cá_nhân tra_cứu , khai_thác .
+
+Điều 42 . Kết_nối , chia_sẻ dữ_liệu
+
+1 . Cơ_quan nhà_nước có trách_nhiệm bảo_đảm khả_năng sẵn_sàng kết_nối , chia_sẻ dữ_liệu cho cơ_quan , tổ_chức , cá_nhân , phục_vụ giao_dịch điện_tử bao_gồm :
+
+a ) Nhân_lực thực_hiện kết_nối , chia_sẻ dữ_liệu bao_gồm nguồn nhân_lực tại_chỗ đang thực_hiện quản_lý , vận_hành các hệ_thống thông_tin hoặc nhân_lực khác có liên_quan trong cơ_quan nhà_nước ; trường_hợp nhân_lực tại_chỗ không đáp_ứng được thì được thuê chuyên_gia ;
+
+b ) Dự_án đầu_tư ứng_dụng công_nghệ thông_tin sử_dụng ngân_sách nhà_nước để xây_dựng các hệ_thống thông_tin , cơ_sở dữ_liệu trong cơ_quan nhà_nước phải có hạng_mục phục_vụ kết_nối , chia_sẻ dữ_liệu . Trường_hợp không có hạng_mục này , phải có thuyết_minh chứng_minh về việc không có hoạt_động kết_nối , chia_sẻ dữ_liệu trong quá_trình vận_hành , khai_thác ;
+
+c ) Ban_hành và công_bố công_khai quy_chế khai_thác , sử_dụng dữ_liệu đối_với cơ_sở dữ_liệu thuộc thẩm_quyền quản_lý ;
+
+d ) Áp_dụng biện_pháp_bảo_đảm an_toàn thông_tin mạng , an_ninh mạng , bảo_mật dữ_liệu trong quá_trình kết_nối , chia_sẻ dữ_liệu theo quy_định của pháp_luật .
+
+2 . Trừ trường_hợp pháp_luật có quy_định khác , cơ_quan nhà_nước có trách_nhiệm kết_nối , chia_sẻ dữ_liệu với cơ_quan , tổ_chức khác ; không cung_cấp thông_tin qua hình_thức văn_bản giấy đối_với thông_tin đã được khai_thác qua hình_thức kết_nối , chia_sẻ giữa các hệ_thống thông_tin ; không thu phí việc chia_sẻ dữ_liệu giữa các cơ_quan nhà_nước .
+
+3 . Cơ_quan nhà_nước phải áp_dụng phương_thức kết_nối , chia_sẻ dữ_liệu trực_tuyến trên môi_trường mạng giữa các hệ_thống thông_tin của cơ_quan cung_cấp dữ_liệu và cơ_quan , tổ_chức khai_thác dữ_liệu , trừ trường_hợp thông_tin liên_quan đến bí_mật nhà_nước hoặc yêu_cầu bảo_đảm quốc_phòng , an_ninh . Trường_hợp không áp_dụng phương_thức kết_nối , chia_sẻ dữ_liệu trực_tuyến , phải nêu rõ lí_do bằng văn_bản .
+
+4 . Cơ_quan nhà_nước áp_dụng mô_hình kết_nối , chia_sẻ dữ_liệu theo thứ tự ưu_tiên sau đây :
+
+a ) Kết_nối , chia_sẻ qua các hệ_thống trung_gian bao_gồm : Nền_tảng tích_hợp , chia_sẻ dữ_liệu quốc_gia ; hạ_tầng kết_nối , chia_sẻ dữ_liệu cấp Bộ , cấp tỉnh theo Khung kiến_trúc tổng_thể quốc_gia số ;
+
+b ) Kết_nối trực_tiếp giữa các hệ_thống thông_tin , cơ_sở dữ_liệu khi các hệ_thống trung_gian chưa sẵn_sàng hoặc cơ_quan chủ_quản hệ_thống trung_gian xác_định hệ_thống trung_gian không đáp_ứng được yêu_cầu về kết_nối , chia_sẻ dữ_liệu .
+
+5 . Khung kiến_trúc tổng_thể quốc_gia số quy_định tại điểm a khoản 4 Điều này bao_gồm Khung kiến_trúc Chính_phủ điện_tử , Chính_phủ số ; khung kiến_trúc số của các cơ_quan , tổ_chức .
+
+6 . Chính_phủ quy_định chi_tiết về kết_nối , chia_sẻ dữ_liệu ; Khung kiến_trúc tổng_thể quốc_gia số .
+
+Điều 43 . Dữ_liệu mở của cơ_quan nhà_nước
+
+1 . Dữ_liệu mở của cơ_quan nhà_nước là dữ_liệu được cơ_quan nhà_nước có thẩm_quyền công_bố rộng_rãi cho cơ_quan , tổ_chức , cá_nhân tự_do sử_dụng , tái sử_dụng , chia_sẻ . Cơ_quan nhà_nước công_bố dữ_liệu mở để cơ_quan , tổ_chức , cá_nhân tự_do sử_dụng , tái sử_dụng , chia_sẻ nhằm thúc_đẩy giao_dịch điện_tử , chuyển_đổi số , phát_triển kinh_tế số và xã_hội số .
+
+2 . Dữ_liệu mở phải toàn_vẹn và phản_ánh đầy_đủ thông_tin do cơ_quan nhà_nước cung_cấp , được cập_nhật mới nhất , có khả_năng truy_cập và sử_dụng trên mạng Internet , bảo_đảm khả_năng thiết_bị số có_thể gửi , nhận , lưu_trữ và xử_lí được , tuân_thủ định_dạng mở và miễn_phí .
+
+3 . Cơ_quan , tổ_chức , cá_nhân được tự_do truy_cập sử_dụng dữ_liệu mở , không yêu_cầu khai_báo định_danh khi khai_thác , sử_dụng dữ_liệu mở .
+
+4 . Cơ_quan , tổ_chức , cá_nhân được phép tự_do sao_chép , chia_sẻ , trao_đổi , sử_dụng dữ_liệu mở hoặc kết_hợp dữ_liệu mở với dữ_liệu khác ; sử_dụng dữ_liệu mở vào sản_phẩm , dịch_vụ thương_mại hoặc phi thương_mại của mình , trừ trường_hợp pháp_luật có quy_định khác .
+
+5 . Cơ_quan , tổ_chức , cá_nhân phải trích_dẫn , ghi_nhận thông_tin sử_dụng dữ_liệu mở trong sản_phẩm , dịch_vụ , tài_liệu liên_quan có sử_dụng dữ_liệu mở .
+
+6 . Cơ_quan nhà_nước không chịu trách_nhiệm về bất_kì thiệt_hại nào của cơ_quan , tổ_chức , cá_nhân phát_sinh do việc sử_dụng dữ_liệu mở gây ra .
+
+7 . Chính_phủ quy_định chi_tiết về dữ_liệu mở và điều_kiện bảo_đảm thực_hiện quy_định tại Điều này .
+
+Điều 44 . Hoạt_động của cơ_quan nhà_nước trên môi_trường điện_tử
+
+1 . Cơ_quan nhà_nước phải bảo_đảm kết_quả giải_quyết thủ_tục hành_chính hoặc kết_quả hoạt_động công_vụ khác không thuộc phạm_vi bí_mật nhà_nước đều có văn_bản điện_tử có giá_trị pháp_lí như văn_bản giấy , có_thể truy_cập và sử_dụng được dưới dạng hoàn_chỉnh . Cơ_quan nhà_nước phải tiếp_nhận , giải_quyết yêu_cầu của tổ_chức , cá_nhân trên môi_trường điện_tử , trừ trường_hợp pháp_luật có quy_định khác .
+
+2 . Các lĩnh_vực hoạt_động của cơ_quan nhà_nước ưu_tiên thực_hiện toàn trình trên môi_trường điện_tử bao_gồm : cung_cấp dịch_vụ công ; công_tác quản_trị nội_bộ ; chỉ_đạo , điều_hành ; giám_sát , kiểm_tra , thanh_tra .
+
+3 . Cơ_quan nhà_nước phải sẵn_sàng phương_án trong tình_huống khẩn_cấp , trong tình_huống xảy ra sự_cố gián_đoạn hoạt_động trên môi_trường mạng trực_tuyến và phương_án ứng_cứu , khắc_phục sự_cố , duy_trì hoạt_động giao_dịch bình_thường .
+
+4 . Cơ_quan nhà_nước được thuê chuyên_gia từ ngân_sách nhà_nước hằng năm theo quy_định của pháp_luật để tư_vấn xây_dựng cơ_sở dữ_liệu ; thực_hiện các hoạt_động chuyên_môn kĩ_thuật về quản_lý , vận_hành , bảo_đảm an_toàn thông_tin mạng cho hệ_thống thông_tin phục_vụ giao_dịch điện_tử của cơ_quan nhà_nước .
+
+5 . Chính_phủ quy_định chi_tiết Điều này .
+
+Chương_vi
+
+Hệ_thống Thông_tin Phục_vụ Giao_dịch_điện_tử
+
+Điều 45 . Hệ_thống thông_tin phục_vụ giao_dịch điện_tử
+
+1 . Hệ_thống thông_tin phục_vụ giao_dịch điện_tử là tập_hợp_phần_cứng , phần_mềm và cơ_sở dữ_liệu được thiết_lập với chức_năng , tính_năng chính để phục_vụ giao_dịch điện_tử , bảo_đảm xác_thực , tin_cậy trong giao_dịch điện_tử .
+
+Hệ_thống thông_tin phục_vụ giao_dịch điện_tử được phân_loại theo chủ_quản hệ_thống thông_tin ; chức_năng , tính_năng của hệ_thống thông_tin phục_vụ giao_dịch điện_tử ; quy_mô , số_lượng người sử_dụng tại Việt_nam hoặc số_lượng truy_cập hằng tháng từ người sử_dụng tại Việt_nam .
+
+2 . Nền_tảng số phục_vụ giao_dịch điện_tử là hệ_thống thông_tin quy_định tại khoản 1 Điều này tạo môi_trường điện_tử cho phép các bên thực_hiện giao_dịch hoặc cung_cấp , sử_dụng sản_phẩm , dịch_vụ hoặc sử_dụng để phát_triển sản_phẩm , dịch_vụ .
+
+3 . Nền_tảng số trung_gian phục_vụ giao_dịch điện_tử là nền_tảng số quy_định tại khoản 2 Điều này mà chủ_quản nền_tảng số độc_lập với các bên thực_hiện giao_dịch .
+
+4 . Chính_phủ quy_định chi_tiết Điều này .
+
+Điều 46 . Tài_khoản giao_dịch điện_tử
+
+1 . Tài_khoản giao_dịch điện_tử do chủ_quản hệ_thống thông_tin phục_vụ giao_dịch điện_tử cấp và được quản_lý , sử_dụng theo quy_định của Luật này .
+
+2 . Tài_khoản giao_dịch điện_tử được sử_dụng để thực_hiện giao_dịch điện_tử , nhằm lưu_trữ lịch_sử giao_dịch và bảo_đảm chính_xác trình_tự giao_dịch của chủ tài_khoản , có giá_trị chứng_minh lịch_sử giao_dịch của các bên tham_gia theo quy_định tại khoản 4 Điều này .
+
+3 . Cơ_quan , tổ_chức , cá_nhân có quyền lựa_chọn sử_dụng tài_khoản giao_dịch điện_tử phù_hợp với nhu_cầu , trừ trường_hợp pháp_luật có quy_định khác .
+
+4 . Lịch_sử giao_dịch của tài_khoản giao_dịch điện_tử có giá_trị pháp_lí để chứng_minh giao_dịch khi đáp_ứng đủ các yêu_cầu sau đây :
+
+a ) Hệ_thống thông_tin phục_vụ giao_dịch điện_tử phải bảo_đảm an_toàn theo quy_định của pháp_luật về an_toàn thông_tin mạng ;
+
+b ) Gắn duy_nhất với một cơ_quan , tổ_chức hoặc cá_nhân là chủ tài_khoản giao_dịch điện_tử ;
+
+c ) Bảo_đảm chính_xác thời_gian giao_dịch từ nguồn thời_gian theo quy_định của pháp_luật về nguồn thời_gian chuẩn quốc_gia .
+
+Điều 47 . Trách_nhiệm của chủ_quản hệ_thống thông_tin phục_vụ giao_dịch điện_tử
+
+1 . Chủ_quản hệ_thống thông_tin phục_vụ giao_dịch điện_tử có trách_nhiệm sau đây :
+
+a ) Tuân_thủ quy_định của Luật này và pháp_luật về an_toàn thông_tin mạng , an_ninh mạng , bảo_vệ thông_tin cá_nhân , bảo_vệ dữ_liệu cá_nhân và quy_định khác của pháp_luật có liên_quan ;
+
+b ) Cung_cấp thông_tin bằng phương_tiện điện_tử theo quy_định của pháp_luật nhằm phục_vụ công_tác đo_lường , thống_kê , giám_sát , thanh_tra , kiểm_tra , báo_cáo theo yêu_cầu của cơ_quan quản_lí nhà_nước về giao_dịch điện_tử ; chia_sẻ dữ_liệu phục_vụ quản_lí nhà_nước về giao_dịch điện_tử ;
+
+c ) Giám_sát an_toàn hệ_thống thông_tin phục_vụ giao_dịch điện_tử của mình theo quy_định của pháp_luật về an_toàn thông_tin mạng .
+
+2 . Chủ_quản nền_tảng số trung_gian quy_mô lớn phục_vụ giao_dịch điện_tử có trách_nhiệm sau đây :
+
+a ) Tuân_thủ quy_định tại khoản 1 Điều này ;
+
+b ) Công_bố công_khai , phổ_biến cơ_chế phản_ánh vướng_mắc và xử_lí vướng_mắc phát_sinh trong giao_dịch điện_tử ;
+
+c ) Công_bố công_khai , phổ_biến cơ_chế phản_ánh và xử_lí nội_dung vi_phạm_pháp_luật Việt_nam trên nền_tảng số trung_gian từ nguồn phản_ánh được đánh_giá là tin_cậy ;
+
+d ) Định_kì hằng năm , báo_cáo theo hướng_dẫn của Bộ Thông_tin và Truyền_thông về vụ_việc đã xảy ra hoặc vụ_việc có dấu_hiệu , nguy_cơ lợi_dụng hệ_thống thông_tin để thực_hiện_hành_vi vi_phạm_pháp_luật Việt_nam .
+
+3 . Chủ_quản nền_tảng số trung_gian quy_mô rất lớn phục_vụ giao_dịch điện_tử có trách_nhiệm sau đây :
+
+a ) Tuân_thủ quy_định tại khoản 2 Điều này ;
+
+b ) Công_bố công_khai nguyên_tắc chung , thông_số hoặc tiêu_chí được sử_dụng để đưa ra khuyến_nghị hiển_thị nội_dung , hiển_thị quảng_cáo cho người sử_dụng và cho phép người sử_dụng lựa_chọn phương_án không sử_dụng khuyến_nghị hiển_thị nội_dung , hiển_thị quảng_cáo dựa trên phân_tích dữ_liệu về người sử_dụng ;
+
+c ) Cho phép người sử_dụng tháo_gỡ cài_đặt bất_kì ứng_dụng nào được cài_đặt sẵn mà không ảnh_hưởng đến các tính_năng kĩ_thuật cơ_bản để hệ_thống vận_hành bình_thường ;
+
+d ) Công_bố công_khai và phổ_biến bộ quy_tắc ứng_xử áp_dụng đối_với các bên liên_quan tham_gia sử_dụng hệ_thống .
+
+4 . Chính_phủ quy_định chi_tiết trách_nhiệm của chủ_quản nền_tảng số trung_gian tại khoản 2 và khoản 3 Điều này phù_hợp với quy_mô , số_lượng người sử_dụng tại Việt_nam hoặc số_lượng truy_cập từ người sử_dụng tại Việt_nam .
+
+Điều 48 . Báo_cáo , tổng_hợp , chia_sẻ dữ_liệu phục_vụ quản_lí nhà_nước về giao_dịch điện_tử
+
+1 . Cơ_quan nhà_nước quản_lí công_tác báo_cáo , tổng_hợp , chia_sẻ dữ_liệu phục_vụ quản_lí nhà_nước về giao_dịch điện_tử theo quy_định của pháp_luật , phù_hợp với chức_năng , nhiệm_vụ , quyền_hạn được phân_công .
+
+2 . Bộ Thông_tin và Truyền_thông thiết_lập , vận_hành hệ_thống tiếp_nhận , tổng_hợp dữ_liệu phục_vụ quản_lí nhà_nước về giao_dịch điện_tử của cơ_quan nhà_nước quy_định tại khoản 1 Điều này theo quy_định của Chính_phủ ; chủ_trì xây_dựng , ban_hành hoặc đề_nghị cơ_quan nhà_nước có thẩm_quyền ban_hành quy_định về kĩ_thuật đối_với mô_hình tham_chiếu kết_nối phục_vụ chia_sẻ dữ_liệu bằng phương_tiện điện_tử , định_danh thiết_bị , tiêu_chí tín_nhiệm mạng của hệ_thống thông_tin phục_vụ giao_dịch điện_tử .
+
+Chương_vii
+
+Quản_lý Nhà_nước Về Giao_dịch_điện_tử
+
+Điều 49 . Nội_dung quản_lí nhà_nước về giao_dịch điện_tử
+
+1 . Xây_dựng , ban_hành , tổ_chức thực_hiện chiến_lược , kế_hoạch và chính_sách phát_triển giao_dịch điện_tử ; văn_bản quy_phạm_pháp_luật về giao_dịch điện_tử ; tiêu_chuẩn , quy_chuẩn kĩ_thuật , yêu_cầu kĩ_thuật , định mức kinh_tế - kĩ_thuật , chất_lượng sản_phẩm , dịch_vụ trong giao_dịch điện_tử .
+
+2 . Quản_lí công_tác báo_cáo , đo_lường , thống_kê hoạt_động giao_dịch điện_tử ; quản_lí việc giám_sát an_toàn hệ_thống thông_tin phục_vụ giao_dịch điện_tử của chủ_quản hệ_thống thông_tin .
+
+3 . Quản_lí dịch_vụ tin_cậy .
+
+4 . Quản_lý , tổ_chức việc xây_dựng , khai_thác và phát_triển hạ_tầng chứng_thực điện_tử quốc_gia ; việc phát_hành , thu_hồi chứng_thư chữ_kí số .
+
+5 . Quy_định việc liên_thông giữa các hệ_thống cung_cấp dịch_vụ chữ_kí số công_cộng và chữ_kí số chuyên_dùng công_vụ .
+
+6 . Tuyên_truyền , phổ_biến chính_sách , pháp_luật trong giao_dịch điện_tử .
+
+7 . Quản_lí công_tác đào_tạo , bồi_dưỡng , phát_triển nguồn nhân_lực , chuyên_gia trong giao_dịch điện_tử .
+
+8 . Thanh_tra , kiểm_tra , giải_quyết khiếu_nại , tố_cáo và xử_lí vi_phạm_pháp_luật về giao_dịch điện_tử .
+
+9 . Hợp_tác quốc_tế về giao_dịch điện_tử .
+
+Điều 50 . Trách_nhiệm quản_lí nhà_nước về giao_dịch điện_tử
+
+1 . Chính_phủ thống_nhất quản_lí nhà_nước về giao_dịch điện_tử .
+
+2 . Bộ Thông_tin và Truyền_thông là cơ_quan đầu_mối chịu trách_nhiệm trước Chính_phủ trong việc chủ_trì , phối_hợp với các Bộ , cơ_quan ngang Bộ thực_hiện quản_lí nhà_nước về giao_dịch điện_tử .
+
+3 . Bộ , cơ_quan ngang Bộ , Ủy_ban nhân_dân cấp tỉnh phối_hợp với Bộ Thông_tin và Truyền_thông thực_hiện quản_lí nhà_nước về giao_dịch điện_tử trong lĩnh_vực , địa_bàn thuộc phạm_vi nhiệm_vụ , quyền_hạn được phân_công .
+
+4 . Bộ_trưởng Bộ Quốc_phòng thực_hiện quản_lí nhà_nước về giao_dịch điện_tử trong lĩnh_vực cơ_yếu , chữ_kí số chuyên_dùng công_vụ trên cơ_sở tiêu_chuẩn , quy_chuẩn kĩ_thuật quốc_gia về chữ_kí số theo quy_định của pháp_luật .
+
+Chương_viii
+
+Điều_khoản Thi_hành
+
+Điều 51 . Sửa_đổi , bổ_sung , thay_thế , bãi_bỏ một_số điều của các luật có liên_quan
+
+1 . Sửa_đổi , bổ_sung mục 119 thuộc Phụ_lục Iv - Danh_mục ngành , nghề đầu_tư kinh_doanh có điều_kiện ban_hành kèm theo Luật Đầu_tư số 61/2020/QH14 đã được sửa_đổi , bổ_sung một_số điều theo Luật_số 72/2020/QH14, Luật_số 03/2022/QH15, Luật_số 05/2022/QH15, Luật_số 08/2022/QH15 và Luật_số 09/2022/QH15 như sau :
+
+2 . Sửa_đổi , bổ_sung mục 7 thuộc Phần_vi - Phí thuộc lĩnh_vực thông_tin và truyền_thông trong Danh_mục Phí , lệ_phí ban_hành kèm theo Luật Phí và lệ_phí số 97/2015/QH13 đã được sửa_đổi , bổ_sung một_số điều theo Luật_số 09/2017/QH14, Luật_số 23/2018/QH14, Luật_số 72/2020/QH14 và Luật_số 16/2023/QH15 như sau :
+
+3 . Thay_thế cụm từ hệ_thống chứng_thực chữ_kí số chuyên_dùng bằng cụm từ hệ_thống chứng_thực chữ_kí số chuyên_dùng công_vụ tại khoản 3 Điều 19 của Luật Tổ_chức Chính_phủ số 76/2015/QH13 đã được sửa_đổi , bổ_sung một_số điều theo Luật_số 47/2019/QH14.
+
+4 . Bãi_bỏ Điều 58 và Điều 59 của Luật Công_nghệ thông_tin số 67/2006/QH11 đã được sửa_đổi , bổ_sung một_số điều theo Luật_số 21/2017/QH14.
+
+Điều 52 . Hiệu_lực thi_hành
+
+1 . Luật này có hiệu_lực thi_hành từ ngày 01 tháng 7 năm 2024 .
+
+2 . Luật Giao_dịch điện_tử_số 51/2005/QH11 hết hiệu_lực kể từ ngày Luật này có hiệu_lực thi_hành , trừ trường_hợp quy_định tại Điều 53 của Luật này .
+
+Điều 53 . Quy_định chuyển_tiếp
+
+1 . Giao_dịch điện_tử được xác_lập trước ngày Luật này có hiệu_lực thi_hành và đến ngày Luật này có hiệu_lực thi_hành chưa thực_hiện xong thì được tiếp_tục thực_hiện theo quy_định của Luật Giao_dịch điện_tử_số 51/2005/QH11 và các văn_bản quy_phạm_pháp_luật quy_định chi_tiết Luật Giao_dịch điện_tử_số 51/2005/QH11, trừ trường_hợp các bên thoả_thuận áp_dụng quy_định của Luật này .
+
+2 . Chứng_thư số được cấp trước ngày Luật này có hiệu_lực thi_hành và đến ngày Luật này có hiệu_lực thi_hành vẫn còn hiệu_lực thì được tiếp_tục thực_hiện theo quy_định của Luật Giao_dịch điện_tử_số 51/2005/QH11 và các văn_bản quy_phạm_pháp_luật quy_định chi_tiết Luật Giao_dịch điện_tử_số 51/2005/QH11 đến hết thời_hạn của chứng_thư số và có giá_trị tương_đương chứng_thư chữ_kí số theo quy_định của Luật này .
+
+3 . Giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng , Giấy_phép sử_dụng chứng_thư số nước_ngoài tại Việt_nam , Giấy chứng_nhận đăng_kí hoạt_động của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng , Giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số chuyên_dùng đã được cấp trước ngày Luật này có hiệu_lực thi_hành và đến ngày Luật này có hiệu_lực thi_hành vẫn còn hiệu_lực thì được tiếp_tục sử_dụng đến hết thời_hạn của giấy_phép , giấy chứng_nhận .
+
+Việc cấp chứng_thư số theo giấy_phép , giấy chứng_nhận quy_định tại khoản này được thực_hiện theo quy_định của Luật Giao_dịch điện_tử_số 51/2005/QH11 và các văn_bản quy_phạm_pháp_luật quy_định chi_tiết Luật Giao_dịch điện_tử_số 51/2005/QH11.
+
+4 . Đối_với hồ_sơ đề_nghị cấp Giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng , Giấy_phép sử_dụng chứng_thư số nước_ngoài tại Việt_nam , Giấy chứng_nhận đăng_kí hoạt_động của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng , Giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số chuyên_dùng đã nộp cho cơ_quan nhà_nước có thẩm_quyền nhưng đến ngày Luật này có hiệu_lực thi_hành chưa được cấp giấy_phép , giấy chứng_nhận thì được tiếp_tục áp_dụng quy_định của Luật Giao_dịch điện_tử_số 51/2005/QH11 và các văn_bản quy_phạm_pháp_luật quy_định chi_tiết Luật Giao_dịch điện_tử_số 51/2005/QH11.
+
+5 . Xác_nhận đăng_kí hoạt_động cung_cấp dịch_vụ chứng_thực hợp_đồng điện_tử trong thương_mại đã được cấp trước ngày Luật này có hiệu_lực thi_hành thì được tiếp_tục sử_dụng đến hết ngày 30 tháng 6 năm 2027 .
+
+6 . Đối_với hồ_sơ đăng_kí hoạt_động cung_cấp dịch_vụ chứng_thực hợp_đồng điện_tử trong thương_mại đã nộp cho cơ_quan nhà_nước có thẩm_quyền nhưng đến ngày Luật này có hiệu_lực thi_hành chưa được xác_nhận đăng_kí thì được tiếp_tục áp_dụng quy_định của pháp_luật về thương_mại điện_tử .
+
+7 . Chính_phủ quy_định chi_tiết Điều này .
+
+Luật này được Quốc_hội nước Cộng_hoà xã_hội chủ_nghĩa Việt_nam khoá Xv , kì họp thứ 5 thông_qua ngày 22 tháng 6 năm 2023 .

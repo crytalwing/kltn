@@ -1,0 +1,147 @@
+Thông_tư số 158/2016/tt-btc ngày 25 tháng 10 năm 2016 của bộ tài_chính
+
+Căn_cứ Luật Quản_lý , sử_dụng tài_sản nhà_nước ngày 03 tháng 6 năm 2008 ;
+
+Căn_cứ Nghị_định số 10/2013/NĐ-CP ngày 11 tháng 01 năm 2013 của Chính_phủ quy_định việc quản_lý , sử_dụng và khai_thác tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ ;
+
+Căn_cứ Nghị_định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+
+Theo đề_nghị của Cục_trưởng Cục Quản_lí công sản ;
+
+Bộ_trưởng Bộ Tài_chính ban_hành Thông_tư quy_định việc quản_lý , sử_dụng và khai_thác Phần_mềm Tổng_hợp_số_liệu kiểm_kê tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định việc quản_lý , sử_dụng và khai_thác Phần_mềm Tổng_hợp_số_liệu kiểm_kê tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ ( sau đây gọi tắt là Phần_mềm ) để cập_nhật , tổng_hợp thông_tin tài_sản hình_thành cơ_sở dữ_liệu quốc_gia về tài_sản hạ_tầng giao_thông đường_bộ .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Bộ Tài_chính và Bộ Giao_thông vận_tải .
+
+2 . Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương .
+
+3 . Sở Tài_chính ; Sở Giao_thông vận_tải các tỉnh , thành_phố trực_thuộc Trung_ương .
+
+4 . Cơ_quan , đơn_vị trực_tiếp_quản_lí tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ ; gồm : Cục Quản_lí đường_bộ ; Ủy_ban nhân_dân quận , huyện , thị_xã , thành_phố ( sau đây gọi chung là Ủy_ban nhân_dân cấp huyện ) ; Ủy_ban nhân_dân xã , phường , thị_trấn ( sau đây gọi chung là Ủy_ban nhân_dân cấp xã )
+
+5 . Các cơ_quan , tổ_chức , cá_nhân có liên_quan đến việc quản_lý , sử_dụng và khai_thác tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ .
+
+Chương_ii
+
+Quy_định Cụ_thể
+
+Điều 3 . Điều_kiện vận_hành Phần_mềm
+
+1 . Điều_kiện về máy_tính và khả_năng kết_nối Internet : Máy_tính phải được cài_đặt hệ điều_hành Windows ; được cài_đặt chương_trình phần_mềm diệt virus , được cập_nhật thường_xuyên các bản nhận_dạng mẫu virus mới , các bản vá lỗi an_ninh cho hệ điều_hành , sử_dụng font chữ Unicode Tcvn 6909 : 2001 gõ dấu tiếng Việt và phải được kết_nối Internet .
+
+2 . Điều_kiện của người quản_trị Phần_mềm là người được Bộ Tài_chính cấp tài_khoản và phân_quyền truy_cập theo đề_nghị bằng văn_bản của Bộ Giao_thông vận_tải ; Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương .
+
+3 . Điều_kiện của người sử_dụng Phần_mềm là người được Bộ Tài_chính cấp tài_khoản truy_cập vào Phần_mềm theo đề_nghị bằng văn_bản của Bộ Giao_thông vận_tải , Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương .
+
+4 . Trường_hợp có sự thay_đổi về người quản_trị , người sử_dụng Phần_mềm thì Bộ Giao_thông vận_tải ; Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương có trách_nhiệm thông_báo kịp_thời bằng văn_bản cho Bộ Tài_chính biết , có biện_pháp xử_lí phù_hợp .
+
+Điều 4 . Định_danh mã đơn_vị trong Phần_mềm
+
+1 . Mã đơn_vị trong Phần_mềm là mã quan_hệ với ngân_sách nhà_nước do Bộ Tài_chính , Sở Tài_chính cấp theo quy_định tại Thông_tư số 185/2015/TT-BTC ngày 17 tháng 11 năm 2015 của Bộ Tài_chính hướng_dẫn đăng_ký , cấp và sử_dụng mã_số đơn_vị có quan_hệ với ngân_sách nhà_nước và được chuẩn_hoá , chuyển_đổi tương_ứng đảm_bảo mỗi đơn_vị sử_dụng một mã_số đơn_vị có quan_hệ với ngân_sách để sử_dụng làm mã đơn_vị của Phần_mềm này .
+
+2 . Trường_hợp đơn_vị là cơ_quan , tổ_chức , cá_nhân được giao quản_lý , sử_dụng và khai_thác tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ nhưng không có mã_số đơn_vị có quan_hệ với ngân_sách nhà_nước thì sử_dụng mã_số thuế để định_danh và gán mã đơn_vị cho phù_hợp .
+
+3 . Việc định_danh và gán mã đơn_vị do cán_bộ quản_trị Phần_mềm của Bộ Giao_thông vận_tải , Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương thực_hiện theo hướng_dẫn tại Tài_liệu hướng_dẫn sử_dụng Phần_mềm Tổng_hợp_số_liệu kiểm_kê tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ do Bộ Tài_chính ban_hành .
+
+Điều 5 . Nhập , duyệt và chuẩn_hoá số_liệu vào Phần_mềm
+
+1 . Thông_tin số_liệu về tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ nhập vào Phần_mềm phải là thông_tin đã được Tổng_cục Đường_bộ Việt_nam ( đối_với tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ thuộc trung_ương quản_lý ) , Sở Giao_thông vận_tải ( đối_với tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ thuộc địa_phương quản_lý ) kiểm_duyệt và xác_nhận theo quy_định tại điểm b khoản 3 Điều 8 Thông_tư số 178/2013/TT-BTC ngày 02 tháng 12 năm 2013 của Bộ Tài_chính quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Nghị_định số 10/2013/NĐ-CP ngày 11 tháng 01 năm 2013 của Chính_phủ quy_định việc quản_lý , sử_dụng và khai_thác tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ ( sau đây gọi tắt là Thông_tư số 178/2013/TT-BTC).
+
+2 . Thông_tin nhập vào Phần_mềm :
+
+a ) Thông_tin báo_cáo kê_khai lần đầu Mẫu_số 01-BC/TSHTĐB ban_hành kèm theo Thông_tư số 178/2013/TT-BTC và theo các mẫu Phiếu kiểm_kê , phân_loại tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ tại Phụ_lục 01 của Thông_tư này .
+
+b ) Thông_tin báo_cáo kê_khai bổ_sung được áp_dụng đối_với những tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ do đầu_tư xây_dựng mới ; tiếp_nhận về sử_dụng ; thanh_lý , điều_chuyển , chuyển_nhượng hoặc thay_đổi tên gọi , chia tách , sáp_nhập , giải_thể cơ_quan , đơn_vị trực_tiếp_quản_lí tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ . Báo_cáo kê_khai bổ_sung gồm :
+
+- Tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ được đầu_tư xây_dựng mới hoặc tiếp_nhận về cơ_quan , đơn_vị theo Mẫu_số 01-BC/TSHTĐB ban_hành kèm theo Thông_tư số 178/2013/TT-BTC hoặc theo mẫu đính kèm tại Phụ_lục 01 của Thông_tư này .
+
+- Thay_đổi thông_tin về cơ_quan , đơn_vị quản_lí theo Mẫu_số 02-BC/TSHTĐB ban_hành kèm theo Thông_tư số 178/2013/TT-BTC.
+
+- Thay_đổi thông_tin về tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ theo Mẫu_số 03-BC/TSHTĐB ban_hành kèm theo Thông_tư số 178/2013/TT-BTC.
+
+- Xoá thông_tin trong Cơ_sở dữ_liệu theo Mẫu_số 04-BC/TSHTĐB ban_hành kèm theo Thông_tư số 178/2013/TT-BTC.
+
+3 . Trình_tự nhập , duyệt và chuẩn_hoá số_liệu tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ vào Cơ_sở dữ_liệu quy_định như sau :
+
+a ) Đối_với tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ thuộc trung_ương quản_lí
+
+Căn_cứ báo_cáo do cơ_quan , đơn_vị trực_tiếp_quản_lí tài_sản gửi tới , Tổng_cục đường_bộ Việt_nam kiểm_tra tính đầy_đủ , chính_xác của báo_cáo , thực_hiện xác_nhận vào báo_cáo và gửi 01 bộ hồ_sơ theo Mẫu quy_định tại điểm a khoản 2 Điều này về cơ_quan_tài_chính của Bộ Giao_thông vận_tải . Chậm nhất sau 30 ngày làm_việc kể từ ngày nhận được báo_cáo của Tổng_cục đường_bộ Việt_nam , cơ_quan_tài_chính của Bộ Giao_thông vận_tải phải thực_hiện nhập thông_tin số_liệu tài_sản vào Phần_mềm .
+
+b ) Đối_với tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ thuộc địa_phương quản_lí
+
+Căn_cứ báo_cáo do cơ_quan , đơn_vị trực_tiếp_quản_lí tài_sản gửi tới , Sở Giao_thông vận_tải kiểm_tra tính đầy_đủ , chính_xác của báo_cáo , thực_hiện xác_nhận vào báo_cáo và gửi 01 bộ hồ_sơ theo Mẫu quy_định tại điểm a khoản 2 Điều này kèm theo bản_sao các giấy_tờ có liên_quan về Sở Tài_chính . Sở Giao_thông vận_tải chịu trách_nhiệm thực_hiện nhập thông_tin số_liệu tài_sản vào Phần_mềm chậm nhất sau 30 ngày làm_việc kể từ ngày nhận được báo_cáo của đơn_vị được giao quản_lí tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ . Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương căn_cứ kết_quả xác_nhận báo_cáo của Sở Giao_thông vận_tải và số_liệu đã được nhập vào Phần_mềm thực_hiện đối_chiếu , chịu trách_nhiệm về tính chính_xác của thông_tin để duyệt đưa vào Cơ_sở dữ_liệu . Trường_hợp có sai_lệch số_liệu giữa xác_nhận báo_cáo của Sở Giao_thông vận_tải và số_liệu đã nhập vào Phần_mềm , Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương từ_chối duyệt và thông_báo cho Sở Giao_thông vận_tải để điều_chỉnh lại thông_tin trong Phần_mềm .
+
+Trường_hợp phân_cấp nhập dữ_liệu cho đơn_vị trực_tiếp_quản_lí tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ ; đơn_vị trực_tiếp_quản_lí công_trình thực_hiện nhập thông_tin số_liệu tài_sản vào Phần_mềm đồng_thời gửi 02 bộ hồ_sơ theo Mẫu quy_định tại điểm a khoản 2 Điều này kèm theo bản_sao các giấy_tờ có liên_quan về Sở Giao_thông vận_tải . Căn_cứ báo_cáo do cơ_quan , đơn_vị trực_tiếp_quản_lí tài_sản gửi tới , Sở Giao_thông vận_tải kiểm_tra tính đầy_đủ , chính_xác của báo_cáo , thực_hiện xác_nhận và gửi về Sở Tài_chính chậm nhất 30 ngày làm_việc kể từ ngày nhận được báo_cáo của đơn_vị được giao quản_lí tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ đồng_thời lưu 01 bộ hồ_sơ tại Sở Giao_thông vận_tải . Sở Tài_chính căn_cứ báo_cáo kê_khai ở dạng giấy của đơn_vị ( đã được Sở Giao_thông vận_tải xác_nhận ) thực_hiện đối_chiếu , chịu trách_nhiệm về tính chính_xác của thông_tin để duyệt đưa vào Cơ_sở dữ_liệu . Trường_hợp có sai_lệch số_liệu giữa xác_nhận báo_cáo của Sở Giao_thông vận_tải và số_liệu đã nhập vào Phần_mềm , Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương từ_chối duyệt và thông_báo lại cho đơn_vị trực_tiếp_quản_lí công_trình để điều_chỉnh lại cho phù_hợp .
+
+Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm kiểm_tra tình_hình cập_nhật số_liệu về tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ của đơn_vị thuộc phạm_vi địa_phương quản_lý , thực_hiện chuẩn_hoá số_liệu đã nhập vào Cơ_sở dữ_liệu một_cách đầy_đủ và chính_xác .
+
+4 . Căn_cứ tình_hình thực_tế , cơ_quan_tài_chính của Bộ Giao_thông vận_tải , Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương báo_cáo Bộ Giao_thông vận_tải , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương xem_xét , Quyết_định phân_cấp việc nhập dữ_liệu cho đơn_vị trực_tiếp được giao quản_lí tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ nhập dữ_liệu vào Phần_mềm , cơ_quan_tài_chính của Bộ Giao_thông vận_tải , Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương thực_hiện duyệt số_liệu . Việc phân_cấp cho các đơn_vị này phải được Bộ Tài_chính_thống_nhất bằng văn_bản .
+
+Điều 6 . Trách_nhiệm quản_lý , vận_hành và khai_thác thông_tin trong Cơ_sở dữ_liệu quốc_gia về tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ
+
+1 . Trách_nhiệm của Bộ Tài_chính
+
+a ) Chủ_trì phối_hợp với Bộ Giao_thông vận_tải hoàn_thiện nội_dung , quy_trình nghiệp_vụ quản_lí tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ theo quy_định của pháp_luật về quản_lý , sử_dụng tài_sản nhà_nước ;
+
+b ) Đảm_bảo yêu_cầu về cấu_hình máy_chủ , tốc_độ đường truyền Internet , các điều_kiện cơ_sở , vật_chất khác để tổ_chức thực_hiện quản_lý , vận_hành an_toàn và bảo_mật Cơ_sở dữ_liệu quốc_gia về tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ ;
+
+c ) Cấp tài_khoản cho người quản_trị và người sử_dụng Phần_mềm theo đề_nghị của Bộ Giao_thông vận_tải , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương ; thực_hiện phân_quyền truy_cập cho các đối_tượng đã được cấp tài_khoản ;
+
+d ) Hướng_dẫn , kiểm_tra , đôn_đốc và nhận_xét đánh_giá kết_quả_thực_hiện việc cập_nhật thông_tin vào Cơ_sở dữ_liệu quốc_gia về tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ của trung_ương và địa_phương theo quy_định của pháp_luật về quản_lý , sử_dụng tài_sản nhà_nước ;
+
+đ ) Quản_trị , vận_hành và khai_thác thông_tin từ Cơ_sở dữ_liệu quốc_gia về tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ phục_vụ công_tác quản_lí nhà_nước về tài_sản nhà_nước .
+
+2 . Trách_nhiệm của Bộ Giao_thông vận_tải
+
+a ) Chỉ_đạo , hướng_dẫn , kiểm_tra tình_hình chấp_hành pháp_luật về quản_lí tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ tại Trung_ương , địa_phương và việc cập_nhật thông_tin số_liệu vào Cơ_sở dữ_liệu quốc_gia về tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ theo quy_định tại Thông_tư này ;
+
+b ) Phối_hợp với Bộ Tài_chính hoàn_thiện nội_dung , quy_trình nghiệp_vụ quản_lí tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ theo quy_định của pháp_luật về quản_lý , sử_dụng tài_sản nhà_nước ;
+
+c ) Phối_hợp với Bộ Tài_chính trong việc quản_trị , vận_hành và khai_thác thông_tin từ Cơ_sở dữ_liệu quốc_gia về tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ .
+
+3 . Trách_nhiệm của Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương
+
+a ) Chỉ_đạo Sở Tài_chính , Sở Giao_thông vận_tải và các cơ_quan , đơn_vị có liên_quan thực_hiện nghiêm_túc quy_định về quản_lý , vận_hành và khai_thác Cơ_sở dữ_liệu quốc_gia về tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ theo quy_định tại Thông_tư này và quy_định của pháp_luật khác có liên_quan ;
+
+b ) Chỉ_đạo Sở Tài_chính , Sở Giao_thông vận_tải và các cơ_quan , đơn_vị có liên_quan thực_hiện báo_cáo tình_hình quản_lý , sử_dụng tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền .
+
+Điều 7 . Sử_dụng và khai_thác thông_tin
+
+1 . Cơ_sở dữ_liệu quốc_gia về tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ là một bộ_phận của Cơ_sở dữ_liệu quốc_gia về tài_sản nhà_nước . Thông_tin trong Cơ_sở dữ_liệu quốc_gia về tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ có giá_trị pháp_lí như hồ_sơ dạng giấy .
+
+2 . Thông_tin trong Cơ_sở dữ_liệu quốc_gia về tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ được sử_dụng làm cơ_sở cho việc lập dự_toán , xét_duyệt quyết_toán , kiểm_tra , kiểm_toán , thanh_tra việc đầu_tư xây_dựng , nâng_cấp , cải_tạo , sửa_chữa , điều_chuyển , cho thuê quyền khai_thác , chuyển_nhượng , thanh_lí tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ và thực_hiện báo_cáo tình_hình quản_lý , sử_dụng tài_sản nhà_nước theo quy_định của pháp_luật .
+
+3 . Các cơ_quan , tổ_chức , đơn_vị được Bộ Tài_chính cấp tài_khoản có quyền khai_thác thông_tin về tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ đối_với các đơn_vị thuộc phạm_vi quản_lí trong Cơ_sở dữ_liệu quốc_gia về tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ .
+
+Điều 8 . Kinh_phí đảm_bảo việc quản_lý , khai_thác Phần_mềm
+
+1 . Kinh_phí cho việc xây_dựng , quản_lý , nâng_cấp , duy_trì Phần_mềm được cân_đối , bố_trí trong dự_toán ngân_sách nhà_nước_hàng năm của Bộ Tài_chính và các nguồn khác ( nếu có ) .
+
+2 . Kinh_phí cho việc nhập , duyệt , chuẩn_hoá dữ_liệu trong Phần_mềm được cân_đối , bố_trí trong dự_toán ngân_sách nhà_nước_hàng năm của Bộ Giao_thông vận_tải , các tỉnh , thành_phố trực_thuộc Trung_ương . Mức chi cho việc nhập , duyệt , chuẩn_hoá dữ_liệu tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ thực_hiện theo quy_định tại Điều 4 Thông_tư số 194/2012/TT-BTC ngày 15 tháng 11 năm 2012 của Bộ Tài_chính hướng_dẫn mức chi tạo_lập thông_tin điện_tử nhằm duy_trì hoạt_động thường_xuyên của cơ_quan , đơn_vị sử_dụng ngân_sách nhà_nước .
+
+Chương_iii
+
+Tổ_chức Thực_hiện
+
+Điều 9 . Điều_khoản thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành từ ngày 01 tháng 01 năm 2017 .
+
+2 . Bãi_bỏ điểm c khoản 3 Điều 8 Thông_tư số 178/2013/TT-BTC ngày 02 tháng 12 năm 2013 của Bộ Tài_chính quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Nghị_định số 10/2013/NĐ-CP ngày 11 tháng 01 năm 2013 của Chính_phủ quy_định việc quản_lý , sử_dụng và khai_thác tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ .
+
+3 . Trong trường_hợp các văn_bản được dẫn chiếu tại Thông_tư này được sửa_đổi , bổ_sung , thay_thế_thì thực_hiện theo quy_định tại văn_bản sửa_đổi , bổ_sung , thay_thế đó .
+
+Điều 10 . Tổ_chức thực_hiện
+
+1 . Bộ Giao_thông vận_tải ; Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chỉ_đạo các cơ_quan , tổ_chức , đơn_vị có liên_quan thực_hiện Thông_tư này .
+
+2 . Trong quá_trình thực_hiện nếu phát_sinh vướng_mắc , đề_nghị các cơ_quan , tổ_chức , đơn_vị phản_ánh kịp_thời về Bộ Tài_chính để phối_hợp xử_lý . / .

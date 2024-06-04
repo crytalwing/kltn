@@ -1,0 +1,4079 @@
+Thông_tư số 19/2015/tt-nhnn ngày 22 tháng 10 năm 2015 của ngân_hàng nhà_nước
+
+Căn_cứ <LT rel="CC"> Luật Ngân_hàng Nhà_nước Việt_nam_số 46/2010/QH12 ngày 16/6/2010 </LT>;
+
+Căn_cứ <LT rel="CC"> Luật Kế_toán số 03/2003/QH11 ngày 17/6/2003 </LT>;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định 156/2013/NĐ-CP ngày 11/11/2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Ngân_hàng Nhà_nước Việt_nam ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định số 08/2013/QĐ-TTg ngày 24/01/2013 </QĐ> của Thủ_tướng Chính_phủ về Chế_độ kế_toán áp_dụng đối_với Ngân_hàng Nhà_nước Việt_nam ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Tài_chính - Kế_toán ;
+
+Thống_đốc Ngân_hàng Nhà_nước Việt_nam ban_hành Thông_tư quy_định Hệ_thống tài_khoản kế_toán Ngân_hàng Nhà_nước Việt_nam .
+
+Chương 1
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định hệ_thống tài_khoản kế_toán , việc mở , sửa_đổi tài_khoản kế_toán sử_dụng trong hệ_thống quản_lí và hạch_toán kế_toán các nghiệp_vụ kinh_tế tài_chính ( phần_mềm Erp ) tại Ngân_hàng Nhà_nước Việt_nam ( sau đây gọi tắt là Ngân_hàng Nhà_nước và viết tắt tà Nhn ) .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với : Sở Giao_dịch , Vụ Tài_chính - Kế_toán , Cục Công_nghệ tin_học , Cục Phát_hành và kho_quỹ , Cục Quản_trị , Cơ_quan Thanh_tra , giám_sát ngân_hàng , Văn_phòng đại_diện tại thành_phố Hồ_chí_minh , Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố trực_thuộc Trung_ương và các đơn_vị khác thuộc Ngân_hàng Nhà_nước có tổ_chức bộ_máy kế_toán .
+
+Điều 3 . Nguyên_tắc áp_dụng
+
+1 . Sở Giao_dịch , Vụ Tài_chính - Kế_toán , Cục Công_nghệ tin_học , Cục Phát_hành và kho_quỹ , Cục Quản_trị , Cơ_quan Thanh_tra , giám_sát ngân_hàng , Văn_phòng đại_diện tại thành_phố Hồ_chí_minh , Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố trực_thuộc Trung_ương và các đơn_vị khác thuộc Ngân_hàng Nhà_nước có tổ_chức bộ_máy kế_toán , trừ các đơn_vị áp_dụng chế_độ kế_toán đơn_vị sự_nghiệp ( sau đây gọi là đơn_vị Nhn ) áp_dụng đầy_đủ các quy_định tại Thông_tư này .
+
+2 . Các đơn_vị áp_dụng chế_độ kế_toán đơn_vị sự_nghiệp thuộc Nhn sử_dụng hệ_thống tài_khoản kế_toán theo quy_định tại Thông_tư này để chuyển_đổi báo_cáo tài_chính , phục_vụ_việc tổng_hợp báo_cáo tài_chính của Nhn .
+
+Điều 4 . Giải_thích từ_ngữ
+
+1 . Phần_mềm Erp ( Enterprise Resource_planning ) : Là hệ_thống quản_lí và hạch_toán kế_toán các nghiệp_vụ kinh_tế , tài_chính của Nhn , bao_gồm các phân hệ nghiệp_vụ :
+
+a ) Phân hệ Quản_lí Sổ cái ( General_ledger ) , viết tắt là Gl ;
+
+b ) Phân hệ Quản_lí Tài_sản ( Fixed_assets ) , viết tắt là Fa ;
+
+c ) Phân hệ Quản_lí Phải thu , phải trả ( Account_payable , Account_receivable ) , viết tắt là Ap , Ar ;
+
+d ) Phân hệ Công_cụ kế_toán ( Financial Accounting_hub ) , viết tắt là Fah ;
+
+đ ) Phân hệ quản_lí Ngân_sách ( Budgeting ) , viết tắt là Bg .
+
+2 . Phần_mềm T24 ( Temenos T24 ) : Là hệ_thống ngân_hàng lõi ( Core banking ) của Nhn để quản_lí và theo_dõi các nghiệp_vụ kinh_tế , tài_chính cơ_bản của Nhn bao_gồm các phân hệ nghiệp_vụ sau :
+
+a ) Phân hệ Cho vay và Huy_động vốn ( Lending and Deposit ) , viết tắt là Ld ;
+
+b ) Phân hệ Mua_bán ngoại_tệ liên ngân_hàng và quốc_tế ( Interbank and International Foreign_exchange ) , viết tắt là Fx ;
+
+c ) Phân hệ Quản_lí các nghiệp_vụ phái_sinh ( Derivatives ) , viết tắt là Dx ;
+
+d ) Phân hệ Chuyển tiền ( Fund_transfer ) , viết tắt là Ft ;
+
+đ ) Phân hệ Mua_bán chứng_khoán ( Securities ) , viết tắt là Sc ;
+
+e ) Phân hệ Quản_lí khách_hàng ( Customer ) , viết tắt là Cus ;
+
+g ) Phân hệ Thị_trường tiền_tệ ( Money_market ) , viết tắt là Mm ;
+
+h ) Phân hệ Quản_lí tài_khoản khách_hàng ( Account ) , viết tắt là Ac ;
+
+i ) Phân hệ Quản_lí hạn_mức ( Limit ) , viết tắt là Li ;
+
+k ) Phân hệ Quản_lí nợ quá hạn ( Loans Past_dues ) , viết tắt là Pd ;
+
+l ) Phân hệ Quản_lí quỹ giao_dịch ( Teller ) , viết tắt là Tt ;
+
+m ) Phân hệ Quản_lí dự_trữ bắt_buộc ( Cash Reserve_ratio ) , viết tắt là Cr .
+
+3 . Phần_mềm Cmo ( Currency Management_optimization ) : Là hệ_thống quản_lí và phát_hành kho_quỹ tập_trung của Nhn .
+
+4 . Phần_mềm Csd ( Central Securities_depository ) : Là hệ_thống của Nhn để quản_lí các nghiệp_vụ phát_sinh liên_quan đến lưu kí giấy_tờ có_giá .
+
+5 . Phần_mềm Aom ( Auction / Open Market_operation ) : Là hệ_thống quản_lí các nghiệp_vụ đấu_thầu vàng , nghiệp_vụ thị_trường mở , nghiệp_vụ phát_hành tín_phiếu Nhn , trái_phiếu chính_phủ , trái_phiếu đặc_biệt .
+
+6 . Tài_khoản kế_toán : dùng để phân_loại và hệ_thống_hoá các nghiệp_vụ kinh_tế tài_chính phát_sinh của Nhn theo đối_tượng và nội_dung kinh_tế cụ_thể .
+
+7 . Hệ_thống tài_khoản kế_toán : Là một tập_hợp các tài_khoản kế_toán dược sử_dụng để phân_loại phản_ánh tình_hình hiện có và sự_biến_động của toàn_bộ tài_sản , nguồn hình_thành_tài_sản của Nhn trong kì kế_toán .
+
+8 . Tài_khoản tổng_hợp : Là tài_khoản kế_toán phản_ánh tình_hình tài_sản , nguồn hình_thành_tài_sản , tình_hình và kết_quả hoạt_động_kinh_tế , tài_chính của Nhn , tài_khoản này được mở và sử_dụng tại phân hệ Gl của phần_mềm Erp để thu_thập , xử_lý , ghi_chép và cung_cấp thông_tin tổng_quát về hoạt_động_kinh_tế , tài_chính của Nhn .
+
+9 . Tài_khoản chi_tiết : Là tài_khoản kế_toán dùng để theo_dõi , phản_ánh thông_tin chi_tiết theo yêu_cầu quản_lý , tài_khoản này được mở và sử_dụng tại phân hệ Gl của phần_mềm Erp .
+
+10 . Tài_khoản hoạt_động : Là tài_khoản kế_toán dùng để theo_dõi , phản_ánh và cung_cấp thông_tin chi_tiết theo từng đối_tượng kế_toán cụ_thể như : loại tiền_tệ , đối_tượng , loại nghiệp_vụ , . . . và theo yêu_cầu quản_lý , tài_khoản này được mở và sử_dụng tại các phần_mềm ứng_dụng ( t24 , Cmo , Csd , Aom . . . ) và các phân hệ nghiệp_vụ khác thuộc phần_mềm Erp .
+
+11 . Tài_khoản hệ_thống : Là các tài_khoản phát_sinh do yêu_cầu của hệ_thống để liên_kết các bút_toán của một nghiệp_vụ phát_sinh nhưng được thực_hiện trên nhiều phân hệ / phần_mềm khác nhau . Các tài_khoản này không nhằm mục_đích phản_ánh nghiệp_vụ kinh_tế và được quy_định tại Phụ_lục số 01 của Thông_tư này .
+
+12 . Mở tài_khoản kế_toán : Là việc tạo_lập tài_khoản mới để ghi_nhận , phản_ánh nghiệp_vụ kinh_tế phát_sinh .
+
+13 . Sửa_đổi tài_khoản kế_toán : Là việc chỉnh_sửa tên gọi , số_hiệu , nội_dung hạch_toán kế_toán của tài_khoản kế_toán .
+
+14 . Đóng tài_khoản kế_toán : Là việc tất toán số_dư và ngừng việc sử_dụng tài_khoản kế_toán để ghi_nhận , phản_ánh các nghiệp_vụ kinh_tế phát_sinh .
+
+15 . Tổ_chức tín_dụng ( sau đây gọi tắt là Tctd ) : bao_gồm tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài được quy_định theo <LT rel="DC"> Luật các tổ_chức tín_dụng </LT> .
+
+Điều 5 . Cấu_trúc tài_khoản kế_toán
+
+Tài_khoản kế_toán được bố_trí theo hệ_thống số thập_phân nhiều cấp , có cấu_trúc như sau :
+
+A . b . c . d . e . f
+
+1 . Nhóm A : là mã đơn_vị gồm 5 chữ_số A1 A2 A3_A4 A5 , thể_hiện các đơn_vị Nhn có báo_cáo kế_toán riêng . Mã đơn_vị dùng để phân_biệt bút_toán thuộc đơn_vị nào , hỗ_trợ chức_năng cộng ngang từ cấp chi_nhánh để tổng_hợp_số_liệu báo_cáo kế_toán của toàn Nhn . Trong đó :
+
+a ) A1 A2 A3 là số thứ tự đơn_vị ( từ 001 đến 999 ) ;
+
+b ) A4 A5 là số thứ_tự của Ban quản_lí công_trình trực_thuộc đơn_vị Nhn ( từ 01 đến 99 ) .
+
+2 . Nhóm B : là mã phòng_ban / bộ_phận gồm có 2 chữ_số B1 B2 ( từ 01 đến 99 ) dùng để nhóm các nghiệp_vụ kinh_tế tài_chính phát_sinh theo từng phòng_ban / bộ_phận của từng đơn_vị .
+
+3 . Nhóm C : là mã tài_khoản tổng_hợp gồm có 8 chữ_số C1 C2 C3 C4 C5 C6 C7 C8 dùng để làm cơ_sở hạch_toán tổng_hợp và lập bảng cân_đối tài_khoản kế_toán thống_nhất trong tất_cả các đơn_vị Nhn . Tài_khoản tổng_hợp của Nhn được bố_trí như sau :
+
+a ) Loại tài_khoản : gồm 1 chữ_số C1 ( từ 0 đến 9 ) ;
+
+b ) Tài_khoản tổng_hợp cấp I : gồm 3 chữ_số C1 C2 C3 trong đó C1 là loại tài_khoản , C2 C3 là số thứ_tự của tài_khoản cấp I trong loại ( từ 01 đến 99 ) ;
+
+c ) Tài_khoản tổng_hợp cấp Ii : gồm 6 chữ_số C1 C2 C3 C4 C5 C6 trong đó C1 C2 C3 là tài_khoản cấp I , C4 C5 C6 là số thứ_tự của tài_khoản cấp Ii trong tài_khoản cấp I ( từ 001 đến 999 ) ;
+
+d ) Tài_khoản tổng_hợp cấp Iii : gồm 8 chữ_số C1 C2 C3 C4 C5 C6 C7 C8 trong đó C1 C2 C3 C4 C5 C6 là tài_khoản cấp Ii , C7 C8 là số thứ_tự của tài_khoản cấp Iii trong tài_khoản cấp Ii ( từ 01 đến 99 ) .
+
+4 . Nhóm D : là mã tài_khoản chi_tiết dùng để theo_dõi , phản_ánh thông_tin chi_tiết của tài_khoản tổng_hợp . Mã tài_khoản này gồm có 3 chữ_số D1 D2 D3 ( từ 001 đến 999 ) phản_ánh số thứ tự tài_khoản chi_tiết trong tài_khoản tổng_hợp .
+
+Việc mở và sử_dụng tài_khoản chi_tiết thực_hiện theo yêu_cầu quản_lí của Nhn .
+
+5 . Nhóm E : là mã liên_chi_nhánh gồm 5 chữ_số E1 E2 E3 E4 E5 ( sử_dụng bộ giá_trị như nhóm A ) dùng để theo_dõi các luồng thanh_toán giữa các đơn_vị Nhn .
+
+6 . Nhóm F : là mã tài_khoản hoạt_động , dùng để theo_dõi , phản_ánh thông_tin chi_tiết theo từng đối_tượng kế_toán cụ_thể như : loại tiền_tệ , đối_tượng , khách_hàng , loại nghiệp_vụ , . . . Độ_dài và kết_cấu của tài_khoản hoạt_động được xác_định tuỳ theo các phân hệ nghiệp_vụ , phần_mềm ứng_dụng .
+
+Điều 6 . Quản_lí tài_khoản kế_toán
+
+1 . Nguyên_tắc mở , sửa_đổi tài_khoản kế_toán
+
+a ) Các tài_khoản kế_toán sau khi mở , sửa_đổi phải đảm_bảo tuân_thủ các quy_định tại Điều 5 Thông_tư này ;
+
+b ) Việc mở , sửa_đổi , đóng tài_khoản tổng_hợp được thực_hiện vào cuối ngày , sau khi đã cập_nhật và lưu_trữ ngày , in sổ kế_toán chi_tiết , Bảng cân_đối kế_toán ngày , tháng theo số_hiệu và tên tài_khoản cũ ;
+
+c ) Việc chuyển_đổi số_dư từ tài_khoản cũ sang tài_khoản mới phải đảm_bảo các yêu_cầu sau :
+
+( i ) Phản_ánh đúng nội_dung và tính_chất tài_khoản ;
+
+( ii ) Số_dư đầu kì kế_toán , số phát_sinh từ đầu kì kế_toán đến ngày chuyển_đổi , số_dư cuối ngày chuyển_đổi của các tài_khoản cũ không thay_đổi khi chuyển sang tài_khoản mới ;
+
+( iii ) Sau ngày chuyển_đổi , tài_khoản được ghi , in trên chứng_từ , sổ kế_toán , báo_cáo kế_toán được thể_hiện theo số_hiệu tài_khoản mới ;
+
+( iv ) Tại ngày chuyển_đổi , phải lập , in và lưu_trữ hai bảng cân_đối tài_khoản kế_toán : Bảng cân_đối tài_khoản kế_toán theo số_hiệu tài_khoản cũ và Bảng cân_đối tài_khoản kế_toán theo số_hiệu tài_khoản mới ;
+
+d ) Trách_nhiệm quản_lí hệ_thống tài_khoản kế_toán :
+
+( i ) Việc quản_lí mã tài_khoản nhóm A , nhóm B , nhóm E , nhóm F do Cục Công_nghệ tin_học thực_hiện ;
+
+( ii ) Việc quản_lí mã tài_khoản nhóm C , nhóm D do Vụ Tài_chính - Kế_toán thực_hiện .
+
+2 . Mở , sửa_đổi tài_khoản tổng_hợp
+
+Khi phát_sinh nghiệp_vụ kinh_tế mới hoặc yêu_cầu mới về quản_lý , theo_dõi đối_tượng kế_toán mà các phân hệ nghiệp_vụ và các chương_trình ứng_dụng không có khả_năng quản_lý , theo_dõi được , việc mở , sửa_đổi tài_khoản tổng_hợp được thực_hiện theo quy_trình sau :
+
+a ) Mở tài_khoản tổng_hợp
+
+Sau khi có xác_lập yêu_cầu mở tài_khoản tổng_hợp tại <TT rel="DC"> Thông_tư sửa_đổi , bổ_sung </TT> hệ_thống tài_khoản Nhn , Vụ Tài_chính - Kế_toán phối_hợp với Cục Công_nghệ tin_học thực_hiện tạo mới tài_khoản ( nhập giá_trị tài_khoản mới vào hệ_thống gồm mã tài_khoản , tên tài_khoản , tính_chất tài_khoản ) và thực_hiện cập_nhật tài_khoản mới vào quy_tắc hạch_toán trên phân hệ Fah , cập_nhật tài_khoản mới vào bảng khai chỉ_tiêu báo_cáo tài_chính .
+
+b ) Sửa_đổi tài_khoản tổng_hợp
+
+( i ) Trường_hợp sửa_đổi tên , nội_dung tài_khoản mà không sửa_đổi số_hiệu tài_khoản : Sau khi có xác_lập yêu_cầu sửa_đổi tài_khoản tổng_hợp tại <TT rel="DC"> Thông_tư sửa_đổi , bổ_sung </TT> Hệ_thống tài_khoản Nhn , Vụ Tài_chính - Kế_toán phối_hợp với Cục Công_nghệ tin_học thực_hiện sửa_đổi tên tài_khoản và thực_hiện cập_nhật quy_tắc hạch_toán trên phân hệ Fah , cập_nhật vào bảng khai chỉ_tiêu báo_cáo tài_chính trên ;
+
+( ii ) Trường_hợp sửa_đổi số_hiệu tài_khoản phải thực_hiện mở mã tài_khoản mới và đóng tài_khoản cũ : Sau khi có xác_lập yêu_cầu sửa_đổi tài_khoản tổng_hợp tại <TT rel="DC"> Thông_tư sửa_đổi , bổ_sung </TT> Hệ_thống tài_khoản Nhn , Vụ Tài_chính - Kế_toán phối_hợp với Cục Công_nghệ tin_học kiểm_tra số_dư tài_khoản cũ , mở tài_khoản mới , chuyển_đổi số_dư trên tài_khoản cũ sang tài_khoản mới , đóng tài_khoản cũ và cập_nhật quy_tắc hạch_toán trên phân hệ Fah và cập_nhật vào bảng khai chỉ_tiêu báo_cáo tài_chính .
+
+3 . Mở , sửa_đổi tài_khoản chi_tiết
+
+Tài_khoản chi_tiết được mở theo đúng nội_dung nghiệp_vụ kinh_tế và đối_tượng kế_toán của tài_khoản tổng_hợp , đảm_bảo tuân_thủ quy_định này và các văn_bản hướng_dẫn nghiệp_vụ khác của Nhn . Khi phát_sinh nghiệp_vụ kinh_tế mới hoặc yêu_cầu mới về quản_lý , theo_dõi đối_tượng kế_toán mà các phân hệ nghiệp_vụ và các chương_trình ứng_dụng không có khả_năng quản_lý , theo_dõi được , các đơn_vị Nhn gửi văn_bản đề_xuất việc mở , sửa_đổi tài_khoản chi_tiết về Vụ Tài_chính - Kế_toán để xem_xét phê_duyệt . Sau khi được phê_duyệt , việc mở , sửa_đổi tài_khoản chi_tiết được thực_hiện theo quy_trình sau :
+
+a ) Mở tài_khoản chi_tiết
+
+Vụ Tài_chính - Kế_toán phối_hợp với Cục Công_nghệ tin_học thực_hiện tạo mới tài_khoản ( nhập giá_trị tài_khoản mới vào hệ_thống gồm mã tài_khoản , tên tài_khoản , tính_chất tài_khoản ) và thực_hiện cập_nhật tài_khoản mới vào quy_tắc hạch_toán trên phân hệ Fah , cập_nhật tài_khoản mới vào bảng khai chỉ_tiêu báo_cáo tài_chính ;
+
+b ) Sửa_đổi tài_khoản chi_tiết
+
+( i ) Trường_hợp sửa_đổi tên , nội_dung tài_khoản mà không sửa_đổi số_hiệu tài_khoản : Vụ Tài_chính - Kế_toán phối_hợp với Cục Công_nghệ tin_học thực_hiện sửa_đổi tên tài_khoản và thực_hiện cập_nhật quy_tắc hạch_toán trên phân hệ Fah , cập_nhật vào bảng khai chỉ_tiêu báo_cáo tài_chính ;
+
+( ii ) Trường_hợp sửa_đổi số_hiệu tài_khoản phải thực_hiện mở mã tài_khoản mới và đóng tài_khoản cũ : Vụ Tài_chính - Kế_toán phối_hợp với Cục Công_nghệ tin_học kiểm_tra số_dư tài_khoản cũ , mở tài_khoản mới , chuyển_đổi số_dư trên tài_khoản cũ sang tài_khoản mới , đóng tài_khoản cũ và cập_nhật quy_tắc hạch_toán trên phân hệ Fah và cập_nhật vào bảng khai chỉ_tiêu báo_cáo tài_chính .
+
+4 . Mở , sửa_đổi tài_khoản hoạt_động
+
+a ) Việc mở và sửa_đổi tài_khoản hoạt_động phải đảm_bảo phù_hợp với nội_dung kinh_tế , đối_tượng của tài_khoản tổng_hợp , tài_khoản chi_tiết và khả_năng xử_lí thực_tế của hệ_thống ;
+
+b ) Khi phát_sinh nghiệp_vụ kinh_tế mới theo quy_định của Nhn , các đơn_vị có liên_quan thiết_lập yêu_cầu quản_lí cần theo_dõi trên tài_khoản hoạt_động . Căn_cứ vào yêu_cầu quản_lí của các đơn_vị và quy_định về theo_dõi đối_tượng kế_toán , Cục Công_nghệ tin_học phối_hợp với Vụ Tài_chính - Kế_toán và các đơn_vị liên_quan để thống_nhất xây_dựng , cài_đặt các tham_số về tài_khoản hoạt_động tại phân hệ , phần_mềm ứng_dụng phù_hợp ;
+
+c ) Việc mở , sửa_đổi tài_khoản hoạt_động trên Hệ_thống phần_mềm ứng_dụng phải thực_hiện theo các quy_định , quy_trình của các phân hệ , phần_mềm ứng_dụng_cụ_thể của Nhn .
+
+Chương 2
+
+Quy_định Cụ_thể
+
+Điều 7 . Kết_cấu hệ_thống tài_khoản tổng_hợp của Ngân_hàng Nhà_nước
+
+Hệ_thống tài_khoản kế_toán của Nhn gồm 8 loại tài_khoản trong Bảng cân_đối kế_toán ( tài_khoản trong bảng ) và 2 loại tài_khoản ngoài Bảng cân_đối kế_toán ( tài_khoản ngoài bảng ) . Cụ_thể :
+
+1 . Các tài_khoản trong bảng gồm :
+
+a ) Loại 1 : Tiền và tài_sản thanh khoản ;
+
+b ) Loại 2 : Cho vay , mua_bán giấy_tờ có_giá , thanh_toán với Nhà_nước và Ngân_sách Nhà_nước ;
+
+c ) Loại 3 : Tài_sản cố_định và tài_sản Có khác ;
+
+d ) Loại 4 : Phát_hành tiền và nợ phải trả ;
+
+đ ) Loại 5 : Vốn , quỹ và kết_quả hoạt_động của Ngân_hàng Nhà_nước ;
+
+e ) Loại 6 : Tài_khoản trung_gian ;
+
+g ) Loại 7 : Thu_nhập ;
+
+h ) Loại 8 : Chi_phí .
+
+2 . Các tài_khoản ngoài bảng gồm :
+
+a ) Loại 9 : Các cam_kết ngoài bảng ;
+
+b ) Loại 0 : Tài_khoản ghi_nhớ ngoài bảng .
+
+Điều 8 . Phương_pháp hạch_toán trên các tài_khoản tổng_hợp
+
+1 . Việc hạch_toán trên các tài_khoản được tiến_hành theo phương_pháp ghi sổ kép ( Nợ - Có ) . Các tài_khoản trong bảng chia làm ba loại :
+
+Loại tài_khoản thuộc tài_sản Có : luôn_luôn có số dư Nợ .
+
+Loại tài_khoản thuộc tài_sản Nợ : luôn_luôn có số_dư Có .
+
+Loại tài_khoản thuộc tài_sản Nợ - Có : lúc có số_dư Có , lúc có số dư Nợ hoặc có cả hai số_dư .
+
+Khi lập bảng cân_đối tài_khoản kế_toán ngày , tháng , quý và năm , các đơn_vị Nhn chỉ lập đến tài_khoản cấp Iii và phải phản_ánh đầy_đủ và đúng tính_chất số_dư của các loại tài_khoản nói trên ( đối_với tài_khoản thuộc tài_sản Có và tài_khoản thuộc tài_sản Nợ ) và không được bù_trừ giữa hai số dư Nợ - Có ( đối_với tài_khoản thuộc tài_sản Nợ - Có ) .
+
+2 . Các cách_thức hạch_toán :
+
+a ) Hạch_toán tự_động từ các chương_trình ứng_dụng : Việc hạch_toán được hệ_thống tự_động thực_hiện thông_qua cài_đặt các tham_số tại các chương_trình , phân hệ nghiệp_vụ ( ví_dụ như các giao_dịch_hạch_toán dự_thu lãi cho vay khách_hàng , dự trả lãi tiền gửi khách_hàng . . . ) . Theo đó , các giao_dịch tự_động từ các chương_trình sẽ được cập_nhật vào các tài_khoản tổng_hợp thích_hợp được khai_báo trong tham_số hạch_toán tương_ứng ;
+
+b ) Hạch_toán thủ_công từ các phân hệ : Người dùng nhập trực_tiếp hoặc sử_dụng các bảng khai trên các chương_trình , phân hệ nghiệp_vụ làm phát_sinh các bút_toán hạch_toán vào tài_khoản tổng_hợp .
+
+Điều 9 . Hạch_toán các nghiệp_vụ liên_quan đến ngoại_tệ và vàng thuộc dự_trữ ngoại_hối nhà_nước
+
+Việc hạch_toán trên các tài_khoản ngoại_tệ và vàng thuộc dự_trữ ngoại_hối nhà_nước quy_định trong Hệ_thống tài_khoản kế_toán này phải thực_hiện theo các quy_định sau :
+
+1 . Vàng thuộc dự_trữ ngoại_hối nhà_nước được hạch_toán tương_tự như ngoại_tệ ( vàng được coi là một loại ngoại_tệ ) , đơn_vị đo_lường là gram .
+
+2 . Các giao_dịch phát_sinh theo loại tiền_tệ nào được hạch_toán theo loại tiền_tệ đó .
+
+3 . Các bút_toán hạch_toán ngoại_tệ phải được hạch_toán trên cặp tài_khoản đối_ứng và đảm_bảo cân_đối theo từng loại ngoại_tệ .
+
+4 . Đối_với các nghiệp_vụ mua , bán ngoại_tệ , hạch_toán đồng_thời các bút_toán đối_ứng bằng ngoại_tệ và bút_toán đối_ứng bằng đồng Việt_nam .
+
+5 . Đối_với các khoản thu , trả lãi , phí bằng ngoại_tệ được chuyển_đổi ra đồng Việt_nam để hạch_toán vào thu_nhập , chi_phí .
+
+6 . Tỷ_giá hạch_toán
+
+a ) Tỷ_giá sử_dụng để hạch_toán các nghiệp_vụ mua , bán ngoại_tệ là tỉ_giá mua , bán thực_tế tại thời_điểm phát_sinh nghiệp_vụ ;
+
+b ) Tỷ_giá sử_dụng để hạch_toán các nghiệp_vụ khác như thu , trả lãi , phí bằng ngoại_tệ , điều_chuyển và hoán_đổi giữa Quỹ Dự_trữ ngoại_hối và Quỹ Bình_ổn tỉ_giá và quản_lí thị_trường vàng :
+
+( i ) Đối_với đồng đô_la Mỹ : Tỷ_giá bằng tỉ_giá giao_dịch bình_quân trên thị_trường ngoại_tệ liên ngân_hàng của đồng Việt_nam với đô_la Mỹ do Nhn công_bố tại ngày hạch_toán ;
+
+( ii ) Đối_với loại ngoại_tệ khác đồng đô_la Mỹ : Tỷ_giá được quy_đổi thông_qua tỉ_giá giao_dịch bình_quân trên thị_trường ngoại_tệ liên ngân_hàng của đồng Việt_nam với đô_la Mỹ do Nhn công_bố và tỉ_giá giữa các loại ngoại_tệ niêm_yết trên màn_hình Reuters hoặc Bloomberg hoặc các phương_tiện khác trước 10 giờ sáng ngày hạch_toán .
+
+c ) Tỷ_giá sử_dụng để hạch_toán các nghiệp_vụ ngoại_tệ theo <LT rel="DC"> Luật Ngân_sách Nhà_nước </LT> được thực_hiện theo quy_định của Bộ Tài_chính .
+
+7 . Định_kì ( ngày , tháng , quý , năm ) khi lập Bảng cân_đối tài_khoản kế_toán quy_đổi theo từng loại ngoại_tệ và Bảng cân_đối tài_khoản kế_toán cộng quy_đổi , hệ_thống tự_động quy_đổi số_dư , doanh_số hoạt_động trong kì báo_cáo của các tài_khoản ngoại_tệ ra đồng Việt_nam . Tỷ_giá quy_đổi cụ_thể như sau :
+
+a ) Đối_với đồng đô_la Mỹ : Tỷ_giá bằng tỉ_giá quy_định tại điểm b ( i ) khoản 6 Điều này tại ngày lập Bảng cân_đối tài_khoản kế_toán ;
+
+b ) Đối_với loại ngoại_tệ khác đồng đô_la Mỹ : Tỷ_giá bằng tỉ_giá quy_định tại điểm b ( ii ) khoản 6 Điều này tại ngày lập Bảng cân_đối tài_khoản kế_toán ;
+
+c ) Đối_với các khoản mục phi tiền_tệ ; khoản mục ngoại_tệ theo <LT rel="DC"> Luật Ngân_sách Nhà_nước </LT> : tỉ_giá bằng tỉ_giá hạch_toán tại ngày giao_dịch ( các tài_khoản này không được đánh_giá lại ) ;
+
+d ) Số chênh_lệch do quy_đổi số_dư cuối ngày , tháng ( quy ra đồng Việt_nam ) của các tài_khoản có gốc ngoại_tệ được hạch_toán chuyển vào Tài_khoản 503001 - Chênh_lệch tỉ_giá hối_đoái .
+
+8 . Kết_quả mua_bán ngoại_tệ được tính bằng chênh_lệch giữa doanh_số bán ngoại_tệ với doanh_số mua vào tương_ứng hạch_toán vào tài_khoản thu_nhập hoặc chi_phí theo quy_định .
+
+9 . Cuối năm tài_chính , số chênh_lệch do đánh_giá lại ngoại_tệ ( nếu có ) hạch_toán vào tài_khoản 501003 - Vốn do đánh_giá lại tài_sản ( tài_khoản cấp Iii thích_hợp ) .
+
+10 . Để phân_biệt đồng Việt_nam , các loại ngoại_tệ , vàng Nhn sử_dụng thống_nhất Bảng mã_tiền_tệ theo quy_định tại Phụ_lục số 02 của Thông_tư này .
+
+Điều 10 . Danh_mục hệ_thống tài_khoản tổng_hợp
+
+Điều 11 . Nội_dung , kết_cấu tài_khoản tổng_hợp
+
+Loại 1 : Tiền và tài_sản thanh khoản
+
+Loại tài_khoản này phản_ánh số hiện có cũng như tình_hình biến_động về tiền và tài_sản thanh khoản của Nhn , bao_gồm : tiền_mặt ( đồng Việt_nam và ngoại_tệ ) , vàng , tiền gửi và đầu_tư chứng_khoán ở nước_ngoài .
+
+Tài_khoản 101 - Tiền tại quỹ phát_hành
+
+Tài_khoản này phản_ánh tình_hình thu , chi , tồn_quỹ tại Quỹ dự_trữ phát_hành và Quỹ nghiệp_vụ phát_hành .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Khi tiến_hành nhập , xuất của Quỹ dự_trữ phát_hành và Quỹ nghiệp_vụ phát_hành phải có phiếu nhập / xuất kho , phiếu thu , phiếu chi và chứng_từ có liên_quan hợp_pháp , hợp_lệ theo quy_định nghiệp_vụ và chế_độ kế_toán nghiệp_vụ giao_nhận , điều_chuyển , phát_hành , thu_hồi tiền .
+
+2 . Việc xuất tiền từ Quỹ dự_trữ phát_hành phải thực_hiện theo quy_định của Thống_đốc Nhn .
+
+3 . Định_kì theo quy_định , thủ_quỹ phải kiểm_kê số tồn_quỹ tiền_mặt thực_tế ; tiến_hành đối_chiếu với số_liệu trên sổ quỹ và sổ kế_toán . Nếu có chênh_lệch , kế_toán và thủ_quỹ phải kiểm_tra để xác_định nguyên_nhân . Việc xử_lí_số chênh_lệch thực_hiện theo quy_định hiện_hành .
+
+Tài_khoản 101001 - Quỹ dự_trữ phải hành .
+
+Tài_khoản này phản_ánh tiền đã công_bố lưu_hành thuộc Quỹ dự_trữ phát_hành được bảo_quản tại các kho tiền Nhn .
+
+Tài_khoản 101001 có các tài_khoản cấp Iii sau :
+
+10100101 - Tiền đủ tiêu_chuẩn lưu_thông
+
+10100102 - Tiền không đủ tiêu_chuẩn lưu_thông
+
+10100103 - Tiền_đình_chỉ lưu_hành
+
+10100104 - Tiền bị phá_hoại thuộc Quỹ dự_trữ phát_hành
+
+10100105 - Quỹ dự_trữ phát_hành đang vận_chuyển
+
+Tài_khoản 10100101 - Tiền đủ tiêu_chuẩn lưu_thông
+
+Tài_khoản này dùng để hạch_toán tiền đủ tiêu_chuẩn lưu_thông_thuộc Quỹ dự_trữ phát_hành .
+
+Bên Nợ : - Số tiền nhập từ các Nhà_máy_in tiền , từ Quỹ nghiệp_vụ phát_hành , từ các kho tiền khác chuyển đến ;
+
+Bên Có : - Số tiền xuất sang Quỹ nghiệp_vụ phát_hành ;
+
+- Số tiền chuyển đi kho tiền khác theo Lệnh ;
+
+Số_dư Nợ : - Phản_ánh số tiền đủ tiêu_chuẩn lưu_thông_thuộc Quỹ dự_trữ phát_hành đang bảo_quản trong kho tiền Nhn .
+
+Tài_khoản 10100102 - Tiền không đủ tiêu_chuẩn lưu_thông
+
+Tài_khoản này dùng để hạch_toán số tiền đã công_bố lưu_hành nhưng không đủ tiêu_chuẩn lưu_thông_thuộc Quỹ dự_trữ phát_hành , như tiền rách , nát hư_hỏng . . .
+
+Bên Nợ : - Số tiền không đủ tiêu_chuẩn lưu_thông_thuộc Quỹ nghiệp_vụ phát_hành chuyển sang , từ các kho tiền khác chuyển đến ;
+
+Bên Có : - Số tiền không đủ tiêu_chuẩn lưu_thông điều_chuyển đi Kho khác theo Lệnh ;
+
+- Số tiền không đủ tiêu_chuẩn lưu_thông xuất giao đi_tiêu_huỷ ;
+
+Số_dư Nợ : - Phản_ánh số tiền không đủ tiêu_chuẩn lưu_thông_thuộc Quỹ dự_trữ phát_hành đang bảo_quản trong kho tiền Nhn .
+
+Tài_khoản 10100103 - Tiền_đình_chỉ lưu_hành
+
+Tài_khoản này dùng để hạch_toán số tiền đã đình_chỉ lưu_hành thuộc Quỹ dự_trữ phát_hành của Nhn .
+
+Nội_dung hạch_toán tài_khoản 10100103 giống nội_dung hạch_toán tài_khoản 10100102 .
+
+Tài_khoản 10100104 - Tiền bị phá_hoại thuộc Quỹ dự_trữ phát_hành
+
+Tài_khoản dùng để phản_ánh tiền đã công_bố lưu_hành bị phá_hoại thuộc Quỹ dự_trữ phát_hành .
+
+Bên Nợ : - Tiền bị phá_hoại thuộc Quỹ nghiệp_vụ phát_hành chuyển sang , từ các kho tiền khác chuyển đến ;
+
+Bên Có : - Số tiền bị phá_hoại điều_chuyển đi kho tiền khác theo Lệnh ;
+
+- Số tiền bị phá_hoại xuất giao đi_tiêu_huỷ ;
+
+Số_dư Nợ : - Phản_ánh số tiền bị phá_hoại thuộc Quỹ dự_trữ phát_hành đang bảo_quản trong kho tiền Nhn .
+
+Tài_khoản 10100105 - Quỹ dự_trữ phát_hành đang vận_chuyển
+
+Tài_khoản này dùng để hạch_toán số tiền thuộc Quỹ dự_trữ phát_hành điều_chuyển tới các kho tiền Nhn khác nhưng đang vận_chuyển trên đường đi . Trường_hợp đơn_vị nhận tiền đến nhận trực_tiếp tại đơn_vị mình thì không phải theo_dõi hạch_toán vào tài_khoản này mà được báo Nợ luôn cho đơn_vị nhận tiền .
+
+Bên Nợ : - Số tiền xuất quỹ để vận_chuyển đến đơn_vị nhận tiền ;
+
+Bên Có : - Số tiền chuyển đi , đơn_vị nhận đã nhận được ( căn_cứ vào Biên_bản giao_nhận tiền hoặc giấy_báo của đơn_vị nhận tiền ) ;
+
+Số_dư Nợ : - Phản_ánh số tiền_mặt thuộc Quỹ dự_trữ phát_hành đang vận_chuyển trên đường .
+
+Tài_khoản 101002 - Quỹ nghiệp_vụ phát_hành
+
+Tài_khoản này dùng để phản_ánh tiền_mặt thuộc Quỹ nghiệp_vụ phát_hành được bảo_quản tại các kho tiền Nhn .
+
+Tài_khoản 101002 có các tài_khoản cấp Iii sau :
+
+10100201 - Tiền đủ tiêu_chuẩn lưu_thông
+
+10100202 - Tiền không đủ tiêu_chuẩn lưu_thông
+
+10100203 - Tiền_đình_chỉ lưu_hành
+
+10100204 - Tiền bị phá_hoại thuộc Quỹ nghiệp_vụ phát_hành
+
+10100205 - Quỹ nghiệp_vụ phát_hành đang vận_chuyển
+
+Tài_khoản 10100201 - Tiền đủ tiêu_chuẩn lưu_thông
+
+Tài_khoản này dùng để hạch_toán số tiền_mặt đang lưu_hành thuộc Quỹ nghiệp_vụ phát_hành .
+
+Bên Nợ : - Số tiền chuyển từ Quỹ dự_trữ phát_hành ;
+
+- Số tiền thu từ khách_hàng ;
+
+Bên Có : - Số tiền chuyển vào Quỹ dự_trữ phát_hành ;
+
+- Số tiền chi cho khách_hàng ;
+
+- Số tiền chuyển sang tiền không đủ tiêu_chuẩn lưu_thông ;
+
+- Số tiền chuyển sang tiền_đình_chỉ lưu_hành ;
+
+Số_dư Nợ : - Phản_ánh số tiền_mặt hiện có ở Quỹ nghiệp_vụ phát_hành .
+
+Tài_khoản 10100202 - Tiền không đủ tiêu_chuẩn lưu_thông
+
+Tài_khoản này dùng để phản_ánh số tiền đã lưu_hành thuộc Quỹ nghiệp_vụ phát_hành nhưng không đủ tiêu_chuẩn lưu_thông ( tiền rách , nát , hư_hỏng . . . ) .
+
+Bên Nợ : - Số tiền không đủ tiêu_chuẩn lưu_thông Nhn thu vào từ tiền đang lưu_hành ( qua chọn_lọc ) ;
+
+Bên Có : - Số tiền không đủ tiêu_chuẩn lưu_thông chuyển sang tiền không đủ tiêu_chuẩn lưu_thông_thuộc Quỹ dự_trữ phát_hành ;
+
+Số_dư Nợ : - Phản_ánh số tiền không đủ tiêu_chuẩn lưu_thông_thuộc Quỹ nghiệp_vụ phát_hành hiện có ở các đơn_vị Nhn .
+
+Tài_khoản 10100203 - Tiền_đình_chỉ lưu_hành
+
+Tài_khoản này dùng để hạch_toán số tiền đã đình_chỉ lưu_hành thuộc Quỹ nghiệp_vụ phát_hành đang bảo_quản ở các kho tiền của Nhn .
+
+Nội_dung hạch_toán tài_khoản 10100203 giống nội_dung hạch_toán tài_khoản 10100202 .
+
+Tài_khoản 10100204 - Tiền bị phá_hoại thuộc Quỹ nghiệp_vụ phát_hành
+
+Tài_khoản này dùng để phản_ánh số tiền bị phá_hoại thuộc Quỹ nghiệp_vụ phát_hành tại các kho tiền của Nhn .
+
+Bên Nợ : - Phản_ánh số tiền bị phá_hoại Nhn thu vào ;
+
+Bên Có : - Phản_ánh số tiền bị phá_hoại thuộc Quỹ nghiệp_vụ phát_hành điều_chuyển sang Quỹ dự_trữ phát_hành ;
+
+Số_dư Nợ : - Phản_ánh số tiền bị phá_hoại thuộc Quỹ nghiệp_vụ phát_hành đang bảo_quản trong kho tiền Nhn .
+
+Tài_khoản 10100205 - Quỹ nghiệp_vụ phát_hành đang vận_chuyển
+
+Tài_khoản này dùng để hạch_toán số tiền thuộc Quỹ nghiệp_vụ phát_hành điều_chuyển tới các kho tiền Nhn khác nhưng đang vận_chuyển trên đường đi . Trường_hợp đơn_vị nhận tiền đến nhận trực_tiếp tại đơn_vị mình thì không phải theo_dõi hạch_toán vào tài_khoản này mà được báo Nợ luôn cho đơn_vị nhận tiền .
+
+Bên Nợ : - Số tiền xuất quỹ để vận_chuyển đến đơn_vị nhận tiền ;
+
+Bên Có : - Số tiền chuyển đi , đơn_vị nhận đã nhận được ( căn_cứ vào Biên_bản giao_nhận tiền hoặc giấy_báo của đơn_vị nhận tiền ) ;
+
+Số_dư Nợ : - Phản_ánh số tiền_mặt thuộc Quỹ nghiệp_vụ phát_hành đang vận_chuyển trên đường .
+
+Tài_khoản 102 - Tiền_mặt
+
+Tài_khoản này phản_ánh tình_hình thu , chi , tồn_quỹ tiền_mặt_bằng đồng Việt_nam tại các đơn_vị Nhn không quản_lí Quỹ nghiệp_vụ phát_hành ; phản_ánh tình_hình về ngoại_tệ tại quỹ hay đang vận_chuyển tại các đơn_vị Nhn .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Khi tiến_hành nhập , xuất của quỹ tiền_mặt phải có phiếu nhập / xuất kho , phiếu thu , phiếu chi và chứng_từ có liên_quan hợp_pháp , hợp_lệ theo quy_định của chế_độ kế_toán nghiệp_vụ thu , chi tiền_mặt .
+
+2 . Tại bộ_phận quỹ , thủ_quỹ mở sổ quỹ theo_dõi theo từng loại tiền_tệ để hạch_toán các khoản thu , chi trong ngày và tồn_quỹ cuối ngày .
+
+Hàng ngày , thủ_quỹ phải kiểm_kê số tồn_quỹ tiền_mặt ( bằng đồng Việt_nam và ngoại_tệ ) thực_tế ; tiến_hành đối_chiếu với số_liệu trên sổ quỹ và sổ kế_toán tương_ứng . Nếu có chênh_lệch , kế_toán và thủ_quỹ phải kiểm_tra để xác_định nguyên_nhân . Việc xử_lí_số chênh_lệch thực_hiện theo quy_định hiện_hành .
+
+Tài_khoản 102 có các tài_khoản cấp Ii sau :
+
+102001 - Tiền_mặt_bằng đồng Việt_nam
+
+102002 - Tiền_mặt ngoại_tệ
+
+Tài_khoản 102001 - Tiền_mặt_bằng đồng Việt_nam
+
+Tài_khoản này dùng để phản_ánh tình_hình thu , chi , tồn_quỹ tiền_mặt_bằng đồng Việt_nam tại các đơn_vị Nhn không quản_lí Quỹ nghiệp_vụ phát_hành .
+
+Bên Nợ : - Số tiền_mặt thu vào quỹ ;
+
+Bên Có : - Số tiền_mặt chi ra từ quỹ ;
+
+Số_dư Nợ : - Phản_ánh số tiền_mặt hiện có ở quỹ .
+
+Tài_khoản 102002 - Tiền_mặt ngoại_tệ
+
+Tài_khoản này dùng để phản_ánh tình_hình thu , chi , tồn_quỹ tiền_mặt_bằng ngoại_tệ của đơn_vị Nhn .
+
+Tài_khoản 102002 có các tài_khoản cấp Iii sau :
+
+10200201 - Ngoại_tệ tại quỹ
+
+10200202 - Ngoại_tệ đang vận_chuyển
+
+Tài_khoản 10200201 - Ngoại_tệ tại quỹ .
+
+Tài_khoản này dùng để phản_ánh tình_hình thu , chi , tồn_quỹ tiền_mặt_bằng ngoại_tệ tại quỹ của đơn_vị Nhn .
+
+Bên Nợ : - Giá_trị ngoại_tệ nhập quỹ ;
+
+Bên Có : - Giá_trị ngoại_tệ xuất quỹ ;
+
+Số_dư Nợ : - Phản_ánh giá_trị ngoại_tệ hiện có tại quỹ .
+
+Tài_khoản 10200202 - Ngoại_tệ đang vận_chuyển
+
+Tài_khoản này dùng để hạch_toán giá_trị ngoại_tệ chuyển cho các đơn_vị khác đang trên đường đi . Trường_hợp đơn_vị nhận ngoại_tệ đến nhận trực_tiếp tại đơn_vị mình thì đơn_vị đó không phải hạch_toán theo_dõi vào tài_khoản này .
+
+Bên Nợ : - Giá_trị ngoại_tệ vận_chuyển đến đơn_vị nhận tiền ;
+
+Bên Có : - Giá_trị ngoại_tệ chuyển đến đơn_vị nhận ( căn_cứ vào Biên_bản giao_nhận hoặc giấy_báo của đơn_vị nhận ngoại_tệ ) ;
+
+Số_dư Nợ : - Phản_ánh giá_trị ngoại_tệ ở đơn_vị đang vận_chuyển trên đường .
+
+Tài_khoản 103 - Vàng
+
+Tài_khoản này phản_ánh giá_trị vàng hiện có và tình_hình sử_dụng vàng thuộc dự_trữ ngoại_hối Nhà_nước do Nhn quản_lý .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Hạch_toán vào tài_khoản này đối_với vàng thuộc dự_trữ ngoại_hối Nhà_nước theo quy_định hiện_hành . Kế_toán tài_khoản này tương_tự như kế_toán tài_khoản ngoại_tệ .
+
+2 . Khi tiến_hành nhập , xuất vàng tại kho phải có phiếu nhập / xuất kho , phiếu thu , phiếu chi và chứng_từ có liên_quan hợp_pháp , hợp_lệ theo quy_định .
+
+3 . Việc quản_lý , theo_dõi , kiểm_kê , đối_chiếu số_liệu với sổ_sách kế_toán được thực_hiện theo quy_định . Nếu có chênh_lệch , kế_toán , thủ_quỹ và / hoặc các bộ_phận có liên_quan phải kiểm_tra để xác_định nguyên_nhân . Việc xử_lí_số chênh_lệch thực_hiện theo quy_định hiện_hành .
+
+Tài_khoản 103 có các tài_khoản cấp Ii sau :
+
+103001 - Vàng vật_chất tại kho
+
+103002 - Vàng vật_chất gửi ở nước_ngoài
+
+103003 - Vàng tài_khoản ở nước_ngoài
+
+103004 - Vàng đang vận_chuyển
+
+103005 - Vàng mang đi gia_công
+
+Tài_khoản 103001 - Vàng vật_chất tại kho
+
+Tài_khoản này dùng để phản_ánh giá_trị vàng hiện có và tình_hình nhập , xuất vàng vật_chất đang bảo_quản trong kho .
+
+Hạch_toán tài_khoản này thực_hiện theo quy_định sau :
+
+Hàng ngày , thủ_quỹ phải kiểm_kê số vàng tồn_quỹ thực_tế ; tiến_hành đối_chiếu với số_liệu trên sổ quỹ và sổ kế_toán tương_ứng . Nếu có chênh_lệch , kế_toán và thủ_quỹ phải kiểm_tra để xác_định nguyên_nhân . Việc xử_lí_số chênh_lệch thực_hiện theo quy_định hiện_hành .
+
+Bên Nợ : - Giá_trị vàng vật_chất nhập kho ;
+
+Bên Có : - Giá_trị vàng vật_chất xuất kho ;
+
+Số_dư Nợ : - Phản_ánh giá_trị vàng vật_chất tồn_kho .
+
+Tài_khoản 103002 - Vàng vật_chất gửi ở nước_ngoài
+
+Tài_khoản này dùng để phản_ánh giá_trị vàng hiện có và tình_hình sử_dụng vàng vật_chất của Nhn đang gửi ở nước_ngoài .
+
+Bên Nợ : - Giá_trị vàng đem gửi ở nước_ngoài ;
+
+Bên Có : - Giá_trị vàng gửi ở nước_ngoài mang về hoặc lấy ra sử_dụng ;
+
+Số_dư Nợ : - Phản_ánh giá_trị vàng đang gửi ở nước_ngoài .
+
+Tài_khoản 103003 - Vàng tài_khoản ở nước_ngoài
+
+Tài_khoản này dùng để hạch_toán giá_trị vàng của Nhn được gửi trên tài_khoản ở nước_ngoài .
+
+Bên Nợ : - Giá_trị vàng tài_khoản mua vào ;
+
+Bên Có : - Giá_trị vàng tài_khoản chuyển_đổi sang vàng vật_chất ;
+
+- Giá_trị vàng tài_khoản bán ra ( nếu có ) ;
+
+Số_dư Nợ : - Phản_ánh giá_trị vàng trên tài_khoản của Nhn ở nước_ngoài .
+
+Tài_khoản 103004 - Vàng đang vận_chuyển
+
+Tài_khoản này dùng để phản_ánh giá_trị vàng chuyển từ nước_ngoài về hoặc điều_chuyển giữa các đơn_vị Nhn đang trên đường đi . Trường_hợp điều_chuyển vàng giữa các đơn_vị Nhn mà đơn_vị nhận vàng đến nhận trực_tiếp tại đơn_vị mình thì không phải hạch_toán theo_dõi vào tài_khoản này .
+
+Bên Nợ : - Giá_trị vàng đang vận_chuyển đến đơn_vị nhận ;
+
+Bên Có : - Giá_trị vàng đã vận_chuyển đến kho của đơn_vị nhận ;
+
+Số_dư Nợ : - Phản_ánh giá_trị vàng của Nhn , đơn_vị Nhn đang vận_chuyển trên đường .
+
+Tài_khoản 103005 - Vàng mang đi gia_công
+
+Tài_khoản này dùng để phản_ánh giá_trị vàng hiện có và tình_hình sử_dụng vàng mang đi gia_công .
+
+Bên Nợ : - Giá_trị vàng xuất kho mang đi gia_công ;
+
+Bên Có : - Giá_trị vàng nhập kho sau khi hoàn_thành gia_công ;
+
+Số_dư Nợ : - Phản_ánh giá_trị vàng đang mang đi gia_công .
+
+Tài_khoản 104 - Chứng_từ có giá_trị ngoại_tệ
+
+Tài_khoản này dùng để phản_ánh các chứng_từ có giá_trị ngoại_tệ tại quỹ , đang vận_chuyển hay đang gửi các ngân_hàng khác để nhờ thu .
+
+Tài_khoản 104 có các tài_khoản cấp Ii sau :
+
+104001 - Chứng_từ có giá_trị ngoại_tệ tại quỹ
+
+104002 - Chứng_từ có giá_trị ngoại_tệ gửi đi nhờ thu
+
+104003 - Chứng_từ có giá_trị ngoại_tệ đang vận_chuyển
+
+Tài_khoản 104001 - Chứng_từ có giá_trị ngoại_tệ tại quỹ
+
+Tài_khoản này dùng để hạch_toán giá_trị ngoại_tệ của chứng_từ tại quỹ Nhn .
+
+Bên Nợ : - Giá_trị ngoại_tệ của chứng_từ nhập quỹ ;
+
+Bên Có : - Giá_trị ngoại_tệ của chứng_từ xuất quỹ ;
+
+Số_dư Nợ : - Phản_ánh giá_trị ngoại_tệ của chứng từ hiện có tại quỹ .
+
+Tài_khoản 104002 - Chứng_từ có giá_trị ngoại_tệ gửi đi nhờ thu
+
+Tài_khoản này dùng để hạch_toán giá_trị ngoại_tệ của chứng từ gửi đi ngân_hàng khác để nhờ thu .
+
+Bên Nợ : - Giá_trị ngoại_tệ của chứng từ gửi đi nhờ thu ;
+
+Bên Có : - Giá_trị ngoại_tệ của chứng_từ đã được thu ;
+
+Số_dư Nợ : - Phản_ánh giá_trị ngoại_tệ của chứng_từ đang gửi đi nhờ thu .
+
+Tài_khoản 104003 - Chứng_từ có giá_trị ngoại_tệ đang vận_chuyển
+
+Tài_khoản này dùng để hạch_toán giá_trị ngoại_tệ của chứng từ chuyển cho ngân_hàng khác đang trên đường đi . Trường_hợp đơn_vị đến nhận chứng_từ có giá_trị ngoại_tệ trực_tiếp tại đơn_vị mình thì không phải hạch_toán theo_dõi vào tài_khoản này .
+
+Bên Nợ : - Giá_trị ngoại_tệ của chứng_từ vận_chuyển đến đơn_vị nhận tiền ;
+
+Bên Có : - Giá_trị ngoại_tệ của chứng từ chuyển đến đơn_vị nhận ( căn_cứ vào Biên_bản giao_nhận hoặc giấy_báo của đơn_vị nhận ngoại_tệ ) ;
+
+Số_dư Nợ : - Phản_ánh giá_trị ngoại_tệ của chứng_từ ở đơn_vị đang vận_chuyển trên đường .
+
+Tài_khoản 105 - Tiền gửi tại ngân_hàng nước_ngoài , ngân_hàng quốc_tế , tổ_chức tiền_tệ
+
+Tài_khoản này dùng để phản_ánh số ngoại_tệ của Nhn gửi tại ngân_hàng nước_ngoài , ngân_hàng quốc_tế , tổ_chức tiền_tệ .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Căn_cứ để hạch_toán vào tài_khoản này là các giấy_báo Có , báo Nợ hoặc bảng sao kê của đối_tác kèm theo các chứng từ gốc ( uỷ_nhiệm chi , uỷ_nhiệm thu , séc . . . ) .
+
+2 . Khi nhận được chứng_từ của đối_tác gửi về , kế_toán phải kiểm_tra đối_chiếu với chứng từ gốc kèm theo . Trường_hợp có sự chênh_lệch giữa số_liệu trên sổ kế_toán của đơn_vị , số_liệu ở chứng từ gốc với số_liệu trên chứng_từ của đối_tác thì phải thông_báo cho đối_tác đó để cùng đối_chiếu , xác_minh và xử_lí kịp_thời . Nếu chưa xác_định rõ nguyên_nhân chênh_lệch , thì kế_toán ghi sổ theo số_liệu trong giấy_báo hay bảng kê của đối_tác . Số chênh_lệch được ghi vào bên Nợ tài_khoản 314999 - Các khoản phải thu khách_hàng khác ( nếu số_liệu của kế_toán lớn hơn số_liệu của bên đối_tác ) hoặc ghi vào bên Có tài_khoản 414999 - Các khoản phải trả bên ngoài khác ( nếu số_liệu của kế_toán nhỏ hơn số_liệu của bên đối_tác ) . Sau đó , phải tiếp_tục kiểm_tra , đối_chiếu tìm nguyên_nhân chênh_lệch để điều_chỉnh lại số_liệu đã ghi sổ .
+
+Tài_khoản 105 có các tài_khoản cấp Ii sau :
+
+105001 - Tài_sản quyền rút vốn đặc_biệt tại Imf
+
+105002 - Tiền gửi tại ngân_hàng quốc_tế , tổ_chức tiền_tệ khác
+
+105003 - Tiền gửi tại ngân_hàng nước_ngoài
+
+Tài_khoản 105001 - Tài_sản quyền rút vốn đặc_biệt tại Imf
+
+Tài_khoản này dùng để hạch_toán số Sdr ( quyền rút vốn đặc_biệt - Special Drawing_rights ) Việt_nam đang nắm giữ tại Imf .
+
+Bên Nợ : - Tăng số Sdr Việt_nam nắm giữ từ Sdr Việt_nam được phân_bổ ;
+
+- Tăng số Sdr Việt_nam nắm giữ do Nhn mua Sdr từ các nước thành_viên Imf khác ;
+
+- Tăng số Sdr Việt_nam nắm giữ từ các giao_dịch khác ;
+
+Bên Có : - Giảm số Sdr Việt_nam nắm giữ do trả nợ vốn vay hoặc do góp vốn vào Imf ;
+
+- Giảm số Sdr Việt_nam nắm giữ do bán Sdr cho các nước thành_viên Imf để mua ngoại_tệ khác ;
+
+- Giảm số Sdr Việt_nam nắm giữ từ các giao_dịch khác ;
+
+Số_dư Nợ : - Phản_ánh số Sdr Việt_nam đang nắm giữ .
+
+Tài_khoản 105002 - Tiền gửi tại ngân_hàng quốc_tế , tổ_chức tiền_tệ khác
+
+Tài_khoản này dùng để phản_ánh giá_trị ngoại_tệ của Nhn gửi tại ngân_hàng quốc_tế , tổ_chức tiền_tệ khác .
+
+Tài_khoản 105002 có tài_khoản cấp Iii sau :
+
+10500201 - Tiền gửi không kì_hạn
+
+10500202 - Tiền gửi có kì_hạn
+
+10500299 - Tiền gửi khác
+
+Tài_khoản 10500201 - Tiền gửi không kì_hạn
+
+Tài_khoản này dùng để hạch_toán giá_trị ngoại_tệ của Nhn gửi không kì_hạn tại ngân_hàng quốc_tế , tổ_chức tiền_tệ khác .
+
+Bên Nợ : - Giá_trị ngoại_tệ Nhn gửi vào ngân_hàng quốc_tế , tổ_chức tiền_tệ khác ;
+
+Bên Có : - Giá_trị ngoại_tệ Nhn lấy ra ;
+
+Số_dư Nợ : - Phản_ánh giá_trị ngoại_tệ của Nhn đang gửi tại ngân_hàng quốc_tế , tổ_chức tiền_tệ khác .
+
+Tài_khoản 10500202 - Tiền gửi có kì_hạn
+
+Tài_khoản này dùng để hạch_toán giá_trị ngoại_tệ của Nhn gửi có kì_hạn tại ngân_hàng quốc_tế , tổ_chức tiền_tệ khác .
+
+Nội_dung hạch_toán tài_khoản 10500202 giống nội_dung hạch_toán tài_khoản 10500201 .
+
+Tài_khoản 10500299 - Tiền gửi khác
+
+Tài_khoản này dùng để hạch_toán giá_trị ngoại_tệ của Nhn gửi tại ngân_hàng quốc_tế , tổ_chức tiền_tệ khác ngoài nội_dung đã được hạch_toán vào các tài_khoản 10500201 , 10500202 .
+
+Nội_dung hạch_toán tài_khoản 10500299 giống nội_dung hạch_toán tài_khoản 10500201 .
+
+Tài_khoản 105003 - Tiền gửi tại ngân_hàng nước_ngoài
+
+Tài_khoản này dùng để phản_ánh giá_trị ngoại_tệ của Nhn gửi tại ngân_hàng nước_ngoài .
+
+10500301 - Tiền gửi không kì_hạn
+
+10500302 - Tiền gửi có kì_hạn
+
+10500399 - Tiền gửi khác
+
+Nội_dung hạch_toán tài_khoản 10500301 , 10500302 , 10500399 giống nội_dung hạch_toán tài_khoản 10500201 , 10500202 , 10500299 .
+
+Tài_khoản 106 - Tiền gửi khác
+
+Tài_khoản này dùng để phản_ánh số tiền gửi khác của Nhn ngoài những nội_dung đã được hạch_toán vào tài_khoản thích_hợp .
+
+Bên Nợ : - Số tiền đem đi gửi ;
+
+Bên Có : - Số tiền gửi đã lấy ra ;
+
+Số_dư Nợ : - Phản_ánh số tiền gửi khác hiện có .
+
+Tài_khoản 107 - Đầu_tư chứng_khoán ở nước_ngoài
+
+Tài_khoản này dùng để phản_ánh giá_trị hiện có và tình_hình biến_động các loại chứng_khoán ở nước_ngoài do Nhn đã đầu_tư theo quy_định về quản_lí dự_trữ ngoại_hối nhà_nước . Việc tính , hạch_toán trích_lập và sử_dụng dự_phòng rủi_ro đối_với chứng_khoán ở nước_ngoài được thực_hiện theo quy_định .
+
+Tài_khoản 107 có các tài_khoản cấp Ii sau :
+
+107001 - Chứng_khoán kinh_doanh
+
+107002 - Chứng_khoán đầu_tư sẵn_sàng để bán
+
+107003 - Chứng_khoán đầu_tư giữ đến ngày đáo_hạn
+
+Tài_khoản 107001 - Chứng_khoán kinh_doanh
+
+Tài_khoản này dùng để phản_ánh giá_trị hiện có và tình_hình biến_động các loại chứng_khoán Nhn mua vào , bán ra để hưởng chênh_lệch giá theo quy_định về quản_lí dự_trữ ngoại_hối nhà_nước .
+
+Hạch_toán tài_khoản này phải thực_hiện theo quy_định sau :
+
+1 . Chứng_khoán kinh_doanh được hạch_toán theo giá thực_tế mua chứng_khoán ( giá gốc ) , bao_gồm giá mua cộng ( + ) các chi_phí mua ( nếu có ) .
+
+2 . Tiền_lãi của chứng_khoán nhận được trong thời_gian nắm giữ chứng_khoán được ghi vào thu_nhập lãi .
+
+Tài_khoản 107001 có các tài_khoản cấp Iii sau :
+
+10700101 - Chứng_khoán Chính_phủ
+
+10700102 - Chứng_khoán của Ngân_hàng Trung_ương
+
+10700103 - Chứng_khoán của Ngân_hàng thương_mại
+
+10700199 - Chứng_khoán của tổ_chức quốc_tế khác
+
+Bên Nợ : - Giá_trị chứng_khoán tăng ;
+
+Bên Có : - Giá_trị chứng_khoán giảm ;
+
+Số_dư Nợ : - Phản_ánh giá_trị chứng_khoán Nhn đang đầu_tư .
+
+Tài_khoản 107002 - Chứng_khoán đầu_tư sẵn_sàng để bán
+
+Tài_khoản này dùng để phản_ánh giá_trị hiện có và tình_hình biến_động của các loại chứng_khoán của Chính_phủ hay tổ_chức nước_ngoài phát_hành mà Nhn đang đầu_tư sẵn_sàng để bán , không thuộc loại mua vào bán ra thường_xuyên nhưng có_thể bán bất_cứ lúc_nào xét thấy có lợi .
+
+Tài_khoản 107002 có các tài_khoản cấp Iii sau :
+
+10700201 - Chứng_khoán Chính_phủ
+
+10700202 - Chứng_khoán của Ngân_hàng Trung_ương
+
+10700203 - Chứng_khoán của Ngân_hàng thương_mại
+
+10700299 - Chứng_khoán của tổ_chức quốc_tế khác
+
+Hạch_toán các tài_khoản này phải thực_hiện theo quy_định sau :
+
+1 . Kế_toán phải theo_dõi chi_tiết theo mệnh_giá , giá_trị chiết_khấu và giá_trị phụ_trội của từng loại chứng_khoán , trong đó :
+
+- Giá gốc chứng_khoán ( giá thực_tế mua chứng_khoán ) bao_gồm : Giá mua cộng ( + ) chi_phí liên_quan trực_tiếp như chi_phí môi_giới , giao_dịch , cung_cấp thông_tin , thuế , lệ_phí và phí ngân_hàng ( nếu có ) .
+
+- Giá_trị chiết_khấu là giá_trị chênh_lệch âm giữa giá gốc với tổng giá_trị của các khoản tiền gồm mệnh_giá cộng ( + ) lãi dồn tích trước khi mua ( nếu có , đối_với chứng_khoán Nợ trả lãi sau ) hoặc trừ ( - ) lãi nhận trước chờ phân_bổ ( nếu có , đối_với chứng_khoán Nợ trả lãi trước ) .
+
++ Lãi nhận trước chờ phân_bổ : là phần lãi đã được tổ_chức phát_hành thanh_toán cho người đầu_tư nắm giữ chứng_khoán tính trên cơ_sở thời_gian đầu_tư , mệnh_giá và mức lãi_suất của chứng_khoán .
+
++ Lãi dồn tích trước khi mua : là lãi cộng dồn chưa được tổ_chức phát_hành thanh_toán của chứng_khoán nợ loại trả lãi sau , phát_sinh trong giai_đoạn trước khi Nhn đầu_tư .
+
+- Giá_trị phụ_trội là giá_trị chênh_lệch dương giữa giá gốc với tổng giá_trị của các khoản tiền gồm mệnh_giá cộng ( + ) lãi dồn tích trước khi mua ( nếu có , đối_với chứng_khoán Nợ trả lãi sau ) hoặc trừ ( - ) lãi nhận trước chờ phân_bổ ( nếu có , đối_với chứng_khoán Nợ trả lãi trước ) .
+
+- Khi lên Bảng cân_đối kế_toán , chứng_khoán đầu_tư được trình_bày theo giá_trị thuần = Mệnh_giá chứng_khoán ( - ) Giá_trị chiết_khấu ( + ) Giá_trị phụ_trội .
+
+- Giá_trị phụ_trội hoặc giá_trị chiết_khấu được phân_bổ đều cho thời_gian nắm giữ chứng_khoán đầu_tư .
+
+- Nếu thu được tiền lãi từ đầu_tư chứng_khoán Nợ bao_gồm cả khoản lãi dồn tích từ trước khi Nhn mua lại khoản đầu_tư đó , Nhn phải phân_bổ số tiền lãi này . Theo đó , chỉ có phần tiền lãi của thời_gian sau khi Nhn đã mua chứng_khoán này mới được ghi_nhận là thu_nhập lãi , còn khoản tiền lãi dồn tích trước khi Nhn mua lại khoản đầu_tư đó thì ghi giảm_giá_trị của chính khoản đầu_tư đó .
+
+2 . Trong trường_hợp quy_định và điều_kiện công_nghệ tin_học cho phép , tiền lãi được ghi_nhận trên cơ_sở thời_gian và lãi_suất thực ( lãi_suất thực là tỉ_lệ lãi dùng để quy_đổi các khoản tiền sẽ nhận được trong tương_lai trong suốt thời_gian cho bên khác sử_dụng tài_sản về giá_trị ghi_nhận ban_đầu tại thời_điểm chuyển_giao tài_sản cho bên sử_dụng ) , kế_toán phải mở tài_khoản chi_tiết để theo_dõi giá mua , giá_trị điều_chỉnh chứng_khoán đầu_tư của từng loại chứng_khoán để phản_ánh giá_trị hợp_lí của chứng_khoán đầu_tư tại thời_điểm lập báo_cáo .
+
+Tài_khoản Mệnh_giá chứng_khoán đầu_tư :
+
+Bên Nợ : - Mệnh_giá chứng_khoán đầu_tư ;
+
+Bên Có : - Tất_toán mệnh_giá chứng_khoán đầu_tư được bán ra hoặc khi đến hạn được bên phát_hành thanh_toán ;
+
+Số_dư Nợ : - Tổng_mệnh_giá chứng_khoán đầu_tư Nhn đang đầu_tư , sở_hữu .
+
+Tài_khoản Chiết_khấu chứng_khoán đầu_tư :
+
+Bên Nợ : - Phân_bổ giá_trị chiết_khấu chứng_khoán đầu_tư trong kỳ ;
+
+- Tất_toán giá_trị chiết_khấu chứng_khoán ( nếu có ) khi bán trước hạn ;
+
+Bên Có : - Giá_trị chiết_khấu chứng_khoán đầu_tư ;
+
+Số_dư Có : - Tổng_giá_trị chiết_khấu của chứng_khoán đầu_tư Nhn đang đầu_tư , sở_hữu .
+
+Tài_khoản Phụ_trội chứng_khoán đầu_tư :
+
+Bên Nợ : - Giá_trị phụ_trội chứng_khoán đầu_tư ;
+
+Bên Có : - Phân_bổ giá_trị phụ_trội chứng_khoán đầu_tư trong kỳ ;
+
+- Tất_toán giá_trị phụ_trội chứng_khoán ( nếu có ) khi bán trước hạn ;
+
+Số_dư Nợ : - Tổng_giá_trị phụ_trội của chứng_khoán đầu_tư Nhn đang đầu_tư , sở_hữu .
+
+Tài_khoản 107003 - Chứng_khoán đầu_tư giữ đến ngày đáo_hạn
+
+Tài_khoản này dùng để phản_ánh giá_trị hiện có và tình_hình biến_động của các loại chứng_khoán Nợ của Chính_phủ hay tổ_chức nước_ngoài phát_hành mà Nhn đang đầu_tư , có chiến_lược giữ đến ngày đáo_hạn ( ngày được thanh_toán ) .
+
+Tài_khoản 107003 có các tài_khoản cấp Iii sau :
+
+10700301 - Chứng_khoán Chính_phủ
+
+10700302 - Chứng_khoán của Ngân_hàng Trung_ương
+
+10700303 - Chứng_khoán của Ngân_hàng thương_mại
+
+10700399 - Chứng_khoán của tổ_chức quốc_tế khác
+
+Nội_dung hạch_toán tài_khoản 10700301 , 10700302 , 10700303 , 10700399 giống nội_dung hạch_toán tài_khoản 10700201 , 10700202 , 10700203 , 10700299 .
+
+Tài_khoản 108 - Lãi phải thu từ vàng , tiền gửi và đầu_tư chứng_khoán ở nước_ngoài
+
+Tài_khoản này dùng để phản_ánh các khoản lãi Nhn phải thu dồn tích từ vàng , tiền gửi và đầu_tư chứng_khoán ở nước_ngoài mà Nhn chưa được thanh_toán .
+
+Hạch_toán các tài_khoản này phải thực_hiện theo quy_định sau :
+
+1 . Lãi tiền gửi được ghi_nhận trên cơ_sở thời_gian và lãi_suất thực_tế từng kỳ .
+
+2 . Lãi phải thu thể_hiện số lãi tính dồn tích mà Nhn đã hạch_toán vào thu_nhập ; Lãi dồn tích trước đầu_tư đối_với chứng_khoán đầu_tư sẵn_sàng để bán và chứng_khoán đầu_tư giữ đến ngày đáo_hạn nhưng chưa được thanh_toán .
+
+Tài_khoản 108 có các tài_khoản cấp Ii sau :
+
+108001 - Lãi phải thu từ vàng gửi ở nước_ngoài
+
+108002 - Lãi phải thu từ tài_sản quyền rút vốn đặc_biệt tại Imf
+
+108003 - Lãi phải thu từ tiền gửi tại ngân_hàng quốc_tế , tổ_chức tiền_tệ khác
+
+108004 - Lãi phải thu từ tiền gửi tại ngân_hàng nước_ngoài
+
+108006 - Lãi phải thu từ chứng_khoán đầu_tư sẵn_sàng để bán
+
+108007 - Lãi phải thu từ chứng_khoán đầu_tư giữ đến ngày đáo_hạn
+
+108999 - Lãi phải thu khác
+
+Tài_khoản 108001 - Lãi phải thu từ vàng gửi ở nước_ngoài
+
+Tài_khoản này dùng để phản_ánh lãi phải thu dồn tích từ vàng gửi ở nước_ngoài mà Nhn chưa được thanh_toán .
+
+Bên Nợ : - Số tiền lãi phải thu từ vàng gửi ở nước_ngoài ;
+
+Bên Có : - Số tiền lãi đã hạch_toán phải thu được thanh_toán ;
+
+Số_dư Nợ : - Phản_ánh số tiền lãi từ vàng gửi ở nước_ngoài đã hạch_toán phải thu chưa được thanh_toán .
+
+Tài_khoản 108002 - Lãi phải thu từ tài_sản quyền rút vốn đặc_biệt tại Imf
+
+Tài_khoản này dùng để phản_ánh lãi phải thu dồn tích từ số Sdr mà Việt_nam đang nắm giữ trên tài_khoản Tài_sản quyền rút vốn đặc_biệt tại Imf mà chưa được thanh_toán .
+
+Nội_dung hạch_toán tài_khoản 108002 giống nội_dung hạch_toán tài_khoản 108001 .
+
+Tài_khoản 108003 - Lãi phải thu từ tiền gửi tại ngân_hàng quốc_tế , tổ_chức tiền_tệ khác
+
+Tài_khoản này dùng để phản_ánh lãi phải thu dồn tích từ tiền gửi tại ngân_hàng quốc_tế , tổ_chức tiền_tệ khác mà Nhn chưa được thanh_toán .
+
+Nội_dung hạch_toán tài_khoản 108003 giống nội_dung hạch_toán tài_khoản 108001 .
+
+Tài_khoản 108004 - Lãi phải thu từ tiền gửi tại ngân_hàng nước_ngoài
+
+Tài_khoản này dùng để phản_ánh lãi phải thu dồn tích từ tiền gửi tại ngân_hàng nước_ngoài .
+
+Nội_dung hạch_toán tài_khoản 108004 giống nội_dung hạch_toán tài_khoản 108001 .
+
+Tài_khoản 108006 - Lãi phải thu từ chứng_khoán đầu_tư sẵn_sàng để bán
+
+Tài_khoản này dùng để phản_ánh lãi phải thu dồn tích từ chứng_khoán đầu_tư sẵn_sàng để bán mà Nhn chưa được thanh_toán .
+
+Tài_khoản 108006 có các tài_khoản cấp Iii sau :
+
+10800601 - Lãi dồn tích giai_đoạn trước đầu_tư
+
+10800602 - Lãi dồn tích tính từ thời_điểm đầu_tư
+
+Tài_khoản 10800601 - Lãi dồn tích giai_đoạn trước đầu_tư
+
+Tài_khoản này dùng để phản_ánh số lãi dồn tích giai_đoạn trước đầu_tư đối_với chứng_khoán đầu_tư sẵn_sàng để bán nhưng chưa được thanh_toán .
+
+Bên Nợ : - Số tiền lãi phải thu giai_đoạn trước đầu_tư ;
+
+Bên Có : - Số tiền lãi phải thu giai_đoạn trước đầu_tư được thanh_toán ;
+
+Số_dư Nợ : - Phản_ánh số tiền lãi phải thu giai_đoạn trước đầu_tư chưa được thanh_toán .
+
+Tài_khoản 10800602 - Lãi dồn tích tính từ thời_điểm đầu_tư
+
+Tài_khoản này dùng để phản_ánh số lãi dồn tích tính từ thời_điểm đầu_tư đối_với chứng_khoán đầu_tư sẵn_sàng để bán chưa được thanh_toán .
+
+Bên Nợ : - Số tiền lãi phải thu tính từ thời_điểm đầu_tư ;
+
+Bên Có : - Số tiền lãi phải thu tính từ thời_điểm đầu_tư được thanh_toán ;
+
+Số_dư Nợ : - Phản_ánh số tiền lãi phải thu tính từ thời_điểm đầu_tư chưa được thanh_toán .
+
+Tài_khoản 108007 - Lãi phải thu từ chứng_khoán đầu_tư giữ đến ngày đáo_hạn
+
+Tài_khoản này dùng để phản_ánh lãi phải thu dồn tích từ chứng_khoán đầu_tư giữ đến ngày đáo_hạn mà Nhn chưa được thanh_toán .
+
+Tài_khoản 108007 có các tài_khoản cấp Iii sau :
+
+10800701 - Lãi dồn tích giai_đoạn trước đầu_tư
+
+10800702 - Lãi dồn tích tính từ thời_điểm đầu_tư
+
+Nội_dung hạch_toán tài_khoản 10800701 , 10800702 giống nội_dung hạch_toán tài_khoản 10800601 , 10800602 .
+
+Tài_khoản 108999 - Lãi phải thu khác
+
+Tài_khoản này dùng để phản_ánh lãi phải thu dồn tích từ các khoản khác ngoài các khoản đã hạch_toán vào tài_khoản thích_hợp .
+
+Nội_dung hạch_toán tài_khoản 108999 giống nội_dung hạch_toán tài_khoản 108001 .
+
+Tài_khoản 109 - Dự_phòng rủi_ro vàng , tiền gửi và đầu_tư chứng_khoán ở nước_ngoài
+
+Tài_khoản này dùng để phản_ánh việc Nhn trích_lập , xử_lí và hoàn_nhập khoản dự_phòng rủi_ro đối_với tiền gửi , vàng và chứng_khoán đầu_tư ở nước_ngoài theo quy_định hiện_hành .
+
+Hạch_toán tài_khoản này phải thực_hiện theo quy_định sau :
+
+1 . Việc tính , hạch_toán trích_lập , sử_dụng và hoàn_nhập khoản dự_phòng rủi_ro được thực_hiện theo Chế_độ tài_chính của Nhn .
+
+2 . Việc trích_lập dự_phòng rủi_ro đối_với tiền gửi , vàng và chứng_khoán đầu_tư phải thực_hiện theo từng khoản mục tài_sản hiện có của Nhn .
+
+3 . Mức tính , trích_lập dự_phòng rủi_ro cụ_thể sẽ thực_hiện theo quy_định của Thống_đốc Nhn về việc xác_định , trích_lập , quản_lí và sử_dụng khoản dự_phòng rủi_ro của Nhn .
+
+Tài_khoản 109 có các tài_khoản cấp Ii sau :
+
+109001 - Dự_phòng rủi_ro vàng gửi ở nước_ngoài
+
+109003 - Dự_phòng rủi_ro tiền gửi tại ngân_hàng quốc_tế , tổ_chức tiền_tệ khác
+
+109004 - Dự_phòng rủi_ro tiền gửi tại ngân_hàng nước_ngoài
+
+109005 - Dự_phòng rủi_ro chứng_khoán kinh_doanh
+
+109006 - Dự_phòng rủi_ro chứng_khoán đầu_tư sẵn_sàng để bán
+
+109007 - Dự_phòng rủi_ro chứng_khoán đầu_tư giữ đến ngày đáo_hạn
+
+Tài_khoản 109001 - Dự_phòng rủi_ro vàng gửi ở nước_ngoài
+
+Tài_khoản này dùng để phản_ánh việc Nhn trích_lập , xử_lí và hoàn_nhập khoản dự_phòng rủi_ro đối_với vàng gửi ở nước_ngoài theo quy_định hiện_hành .
+
+Bên Có : - Số dự_phòng được trích_lập vào chi_phí ;
+
+Bên Nợ : - Sử_dụng dự_phòng để xử_lí rủi_ro ;
+
+- Hoàn_nhập số chênh_lệch thừa dự_phòng đã lập theo quy_định ;
+
+Số_dư Có : - Phản_ánh số dự_phòng hiện có cuối kỳ .
+
+Tài_khoản 109003 - Dự_phòng rủi_ro tiền gửi tại ngân_hàng quốc_tế , tổ_chức tiền_tệ khác
+
+Tài_khoản này dùng để phản_ánh việc Nhn trích_lập , xử_lí và hoàn_nhập khoản dự_phòng rủi_ro đối_với các khoản tiền gửi tại ngân_hàng quốc_tế , tổ_chức tiền_tệ khác theo quy_định hiện_hành .
+
+Nội_dung hạch_toán tài_khoản 109003 giống nội_dung hạch_toán tài_khoản 109001 .
+
+Tài_khoản 109004 - Dự_phòng rủi_ro tiền gửi tại ngân_hàng nước_ngoài
+
+Tài_khoản này dùng để phản_ánh việc Nhn trích_lập , xử_lí và hoàn_nhập khoản dự_phòng rủi_ro đối_với các khoản tiền gửi tại ngân_hàng nước_ngoài theo quy_định hiện_hành .
+
+Nội_dung hạch_toán tài_khoản 109004 giống nội_dung hạch_toán tài_khoản 109001 .
+
+Nội_dung hạch_toán các tài_khoản :
+
+Tài_khoản 109005 - Dự_phòng rủi_ro chứng_khoán kinh_doanh
+
+Tài_khoản 109006 - Dự_phòng rủi_ro chứng_khoán đầu_tư sẵn_sàng để bán
+
+Tài_khoản 109007 - Dự_phòng rủi_ro chứng_khoán đầu_tư giữ đến ngày đáo_hạn
+
+Các tài_khoản này dùng để phản_ánh việc Nhn trích_lập , xử_lí và hoàn_nhập khoản dự_phòng đối_với chứng_khoán kinh_doanh , chứng_khoán đầu_tư sẵn_sàng để bán , chứng_khoán giữ đến ngày đáo_hạn theo quy_định hiện_hành .
+
+Nội_dung hạch_toán tài_khoản 109005 , 109006 , 109007 giống nội_dung hạch_toán tài_khoản 109001 .
+
+Loại 2 : Cho vay , mua_bán giấy_tờ có_giá , thanh_toán với Nhà_nước và Ngân_sách Nhà_nước
+
+Loại tài_khoản này phản_ánh việc Nhn thực_hiện nghiệp_vụ cho vay các Tctd trong nước , cho vay trên thị_trường quốc_tế , mua_bán giấy_tờ có_giá , thanh_toán với Nhà_nước và Ngân_sách Nhà_nước .
+
+Tài_khoản 201 - Cho vay tổ_chức tín_dụng trong nước
+
+Tài_khoản này phản_ánh tình_hình Nhn cho các Tctd trong nước vay thông_qua các hình_thức như cho vay qua đêm , cho vay có đảm_bảo bằng cầm_cố giấy_tờ có_giá , chiết_khấu giấy_tờ có_giá , cho vay đặc_biệt . . . . theo quy_định của pháp_luật .
+
+Tài_khoản 201 có các tài_khoản cấp Ii sau :
+
+201001 - Cho vay qua đêm
+
+201002 - Cho vay có đảm_bảo bằng cầm_cố giấy_tờ có_giá
+
+201003 - Chiết_khấu giấy_tờ có_giá
+
+201004 - Cho vay lại theo hồ_sơ tín_dụng
+
+201005 - Cho vay đặc_biệt
+
+201006 - Cho vay theo mục_tiêu chỉ_định của Chính_phủ
+
+201007 - Cho vay bù_đắp thiếu_hụt vốn trong thanh_toán bù_trừ
+
+201008 - Trả thay bảo_lãnh
+
+201009 - Cho vay được khoanh
+
+201999 - Cho vay khác trong nước
+
+Tài_khoản 201001 - Cho vay qua đêm
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn cho các Tctd trong nước vay qua đêm theo quy_định hiện_hành .
+
+Tài_khoản 201001 có các tài_khoản cấp Iii sau :
+
+20100101 - Nợ trong hạn
+
+20100102 - Nợ quá hạn
+
+Tài_khoản 20100101 - Nợ trong hạn
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn cho Tctd trong nước vay qua đêm còn trong hạn trả nợ theo quy_định .
+
+Bên Nợ : - Số tiền cho vay qua đêm ;
+
+Bên Có : - Số tiền cho vay qua đêm được hoàn_trả ;
+
+- Chuyển sang tài_khoản thích_hợp ;
+
+Số_dư Nợ : - Phản_ánh số tiền cho vay qua đêm còn trong hạn .
+
+Tài_khoản 20100102 - Nợ quá hạn
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn cho Tctd trong nước vay qua đêm đã quá hạn trả nợ .
+
+Bên Nợ : - Số tiền cho vay qua đêm đã quá hạn ;
+
+Bên Có : - Số tiền cho vay qua đêm được hoàn_trả ;
+
+- Chuyển sang tài_khoản thích_hợp ;
+
+Số_dư Nợ : - Phản_ánh số tiền cho vay qua đêm đã quá hạn .
+
+Tài_khoản 201002 - Cho vay có đảm_bảo bằng cầm_cố giấy_tờ có_giá
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn tái cấp vốn cho Tctd trong nước theo hình_thức đảm_bảo bằng cầm_cố giấy_tờ có_giá thuộc quyền sở_hữu của Tctd để đảm_bảo nghĩa_vụ trả nợ theo quy_định .
+
+Tài_khoản 201002 có các tài_khoản cấp Iii sau :
+
+20100201 - Nợ trong hạn
+
+20100202 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 20100201 , 20100202 giống nội_dung hạch_toán tài_khoản 20100101 , 20100102 .
+
+Tài_khoản 201003 - Chiết_khấu giấy_tờ có_giá
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn tái cấp vốn cho Tctd trong nước theo hình_thức chiết_khấu giấy_tờ có_giá .
+
+Tài_khoản 201003 có các tài_khoản cấp Iii sau :
+
+20100301 - Nợ trong hạn
+
+20100302 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 20100301 , 20100302 giống nội_dung hạch_toán tài_khoản 20100101 , 20100102 .
+
+Tài_khoản 201004 - Cho vay lại theo hồ_sơ tín_dụng
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn cho Tctd trong nước vay bằng hình_thức cho vay lại theo hồ_sơ tín_dụng .
+
+Tài_khoản 201004 có các tài_khoản cấp Iii sau :
+
+20100401 - Nợ trong hạn
+
+20100402 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 20100401 , 20100402 giống nội_dung hạch_toán tài_khoản 20100101 , 20100102 .
+
+Tài_khoản 201005 - Cho vay đặc_biệt
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn cho Tctd trong nước vay bằng hình_thức cho vay đặc_biệt trong trường_hợp Tctd lâm vào tình_trạng mất khả_năng chi_trả , đe_doạ sự ổn_định của hệ_thống , Tctd có nguy_cơ mất khả_năng chi_trả do sự_cố nghiêm_trọng khác . . . theo quy_định của pháp_luật .
+
+Tài_khoản 201005 có các tài_khoản cấp Iii sau :
+
+20100501 - Nợ trong hạn
+
+20100502 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 20100501 , 20100502 giống nội_dung hạch_toán tài_khoản 20100101 , 20100102 .
+
+Tài_khoản 201006 - Cho vay theo mục_tiêu chỉ_định của Chính_phủ
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn cho Tctd trong nước vay theo mục_tiêu chỉ_định của Chính_phủ .
+
+Tài_khoản 201006 có các tài_khoản cấp Iii sau :
+
+20100601 - Nợ trong hạn
+
+20100602 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 20100601 , 20100602 giống nội_dung hạch_toán tài_khoản 20100101 , 20100102 .
+
+Tài_khoản 201007 - Cho vay bù_đắp thiếu_hụt vốn trong thanh_toán bù_trừ
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn cho Tctd trong nước vay để bù_đắp thiếu_hụt vốn trong hoạt_động thanh_toán bù_trừ .
+
+Tài_khoản 201007 có các tài_khoản cấp Iii sau :
+
+20100701 - Nợ trong hạn
+
+20100702 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 20100701 , 20100702 giống nội_dung hạch_toán tài_khoản 20100101 , 20100102 .
+
+Tài_khoản 201008 - Trả thay bảo_lãnh
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn bảo_lãnh trả thay Tctd trong nước ( tctd vay vốn nước_ngoài ) trong trường_hợp Tctd được bảo_lãnh không thực_hiện được nghĩa_vụ của mình khi đến hạn thanh_toán .
+
+Tài_khoản 201008 có các tài_khoản cấp Iii sau :
+
+20100801 - Nợ trong hạn
+
+20100802 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 20100801 , 20100802 giống nội_dung hạch_toán tài_khoản 20100101 , 20100102 .
+
+Tài_khoản 201009 - Cho vay được khoanh
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn cho các Tctd trong nước vay đã được Chính_phủ chấp_thuận cho khoanh nợ .
+
+Bên Nợ : - Số tiền cho vay đã được khoanh ;
+
+Bên Có : - Số tiền cho vay được khoanh Tctd trả nợ ;
+
+- Số tiền được Chính_phủ chấp_thuận cho xử_lý ;
+
+Số_dư Nợ : - Phản_ánh số tiền cho vay đã được khoanh .
+
+Tài_khoản 201999 - Cho vay khác trong nước
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn cho Tctd trong nước vay ngoài các nội_dung đã hạch_toán vào tài_khoản cho vay thích_hợp .
+
+Tài_khoản 201999 có các tài_khoản cấp Iii sau :
+
+20199901 - Nợ trong hạn
+
+20199902 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 20199901 , 20199902 giống nội_dung hạch_toán tài_khoản 20100101 , 20100102 .
+
+Tài_khoản 202 - Hoạt_động nghiệp_vụ thị_trường mở
+
+Tài_khoản này phản_ánh tình_hình thực_hiện nghiệp_vụ thị_trường mở của Nhn thông_qua việc mua , bán giấy_tờ có_giá đối_với Tctd .
+
+Hạch_toán tài_khoản này cần tôn_trọng một_số quy_định sau :
+
+1 . Giấy_tờ có_giá được hạch_toán theo giá thực_tế mua / bán giấy_tờ có_giá ( giá gốc ) , bao_gồm giá mua / bán cộng ( + ) các chi_phí mua / bán ( nếu có ) .
+
+2 . Chênh_lệch giữa số tiền được thanh_toán ( giá mua / bán lại , số tiền thanh_toán khi đến hạn ) và giá mua trên hợp_đồng , Nhn tính và hạch_toán vào các tài_khoản thu_nhập / chi_phí theo nguyên_tắc cơ_sở dồn tích . Tổng_số lãi phải thu / phải trả cộng dồn đến thời_điểm thanh_toán ( bán / mua lại , thanh_toán khi đến hạn ) của giấy_tờ có_giá phải bằng chênh_lệch giữa giá mua lại và số tiền được thanh_toán .
+
+3 . Nếu quy_định cho phép : Định_kì khi lập báo_cáo tài_chính , giấy_tờ có_giá được đánh_giá lại theo giá thị_trường . Tất_cả mọi lãi / lỗ thực_hiện và chưa thực_hiện được ghi vào thu_nhập ( đưa vào Báo_cáo thu_nhập , chi_phí và kết_quả hoạt_động ) .
+
+Tài_khoản 202 có các tài_khoản cấp Ii sau :
+
+202001 - Mua_bán giấy_tờ có_giá của Chính_phủ
+
+202002 - Mua_bán lại giấy_tờ có_giá của Ngân_hàng Nhà_nước
+
+202999 - Mua_bán giấy_tờ có_giá khác
+
+Tài_khoản 202001 - Mua_bán giấy_tờ có_giá của Chính_phủ
+
+Tài_khoản này dùng để phản_ánh tình_hình mua_bán các loại giấy từ có_giá của Chính_phủ ( tín_phiếu kho_bạc , trái_phiếu chính_phủ . . . . ) qua nghiệp_vụ thị_trường mở .
+
+Tài_khoản 202001 có các tài_khoản cấp Iii sau :
+
+20200101 - Nợ trong hạn
+
+20200102 - Nợ quá hạn
+
+Tài_khoản 20200101 - Nợ trong bạn
+
+Tài_khoản này dùng để phản_ánh tình_hình mua_bán các loại giấy_tờ có_giá của Chính_phủ qua nghiệp_vụ thị_trường mở còn trong hạn theo quy_định .
+
+Tài_khoản 20200102 - Nợ quá hạn
+
+Tài_khoản này dùng để phản_ánh tình_hình mua_bán các loại giấy_tờ có_giá của Chính_phủ qua nghiệp_vụ thị_trường mở đã quá hạn trả .
+
+Tài_khoản 202002 - Mua_bán lại giấy_tờ có_giá của Ngân_hàng Nhà_nước
+
+Tài_khoản này dùng để phản_ánh tình_hình mua_bán các giấy_tờ có_giá Nhn đã phát_hành mà Nhn mua vào để thực_thi chính_sách tiền_tệ .
+
+Tài_khoản 202002 có các tài_khoản cấp Iii sau :
+
+20200201 - Nợ trong hạn
+
+20200202 - Nợ quá hạn
+
+Tài_khoản 20200201 - Nợ trong hạn
+
+Tài_khoản này dùng để phản_ánh tình_hình mua_bán các loại giấy_tờ có_giá Nhn đã phát_hành mà Nhn mua vào để thực_thi chính_sách tiền_tệ còn trong hạn theo quy_định .
+
+Tài_khoản 20200202 - Nợ quá hạn
+
+Tài_khoản này dùng để phản_ánh tình_hình mua_bán các loại giấy_tờ có_giá Nhn đã phát_hành mà Nhn mua vào để thực_thi chính_sách tiền_tệ đã quá hạn trả .
+
+Tài_khoản 202999 - Mua_bán giấy_tờ có_giá khác
+
+Tài_khoản này dùng để phản_ánh tình_hình mua_bán các giấy_tờ có_giá khác trong nước mà Nhn mua vào .
+
+Tài_khoản 202999 có các tài_khoản cấp Iii sau ;
+
+20299901 - Nợ trong hạn
+
+20299902 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 20299901 , 20299902 giống nội_dung hạch_toán tài_khoản 20200101 , 20200102 .
+
+Tài_khoản 203 - Mua trực_tiếp chung khoán Chính_phủ
+
+Tài_khoản này dùng để phản_ánh tình_hình Nhn mua trực_tiếp chứng_khoán Chính_phủ từ nhà phát_hành theo quy_định của Nhà_nước .
+
+1 . Giấy_tờ có_giá được hạch_toán theo giá thực_tế mua / bán giấy_tờ có_giá ( giá gốc ) , bao_gồm giá mua / bán cộng ( + ) các chi_phí mua / bán ( nếu có ) .
+
+2 . Chênh_lệch giữa số tiền được thanh_toán ( giá mua / bán lại , số tiền thanh_toán khi đến hạn ) và giá mua trên hợp_đồng , Nhn tính và hạch_toán vào các tài_khoản thu_nhập / chi_phí theo nguyên_tắc cơ_sở dồn tích . Tổng_số lãi phải thu / phải trả cộng dồn đến thời_điểm thanh_toán ( bán / mua lại , thanh_toán khi đến hạn ) của giấy_tờ có_giá phải bằng chênh_lệch giữa giá mua lại và số tiền được thanh_toán .
+
+3 . Nếu quy_định cho phép : Định_kì khi lập báo_cáo tài_chính , giấy_tờ có_giá được đánh_giá lại theo giá thị_trường . Tất_cả mọi lãi / lỗ thực_hiện và chưa thực_hiện được ghi vào thu_nhập ( đưa vào Báo_cáo thu_nhập , chi_phí và kết_quả hoạt_động ) .
+
+Tài_khoản 204 - Thanh_toán với Nhà_nước và Ngân_sách Nhà_nước
+
+Tài_khoản này dùng để phản_ánh tài_sản Có của Nhn qua việc Nhn tạm_ứng cho Ngân_sách Nhà_nước , cung_ứng tiền cho nền kinh_tế theo các mục_đích chỉ_định , các khoản thanh_toán khác với Nhà_nước . . .
+
+Tài_khoản 204 có các tài_khoản cấp Ii :
+
+204001 - Tạm_ứng cho Ngân_sách Nhà_nước
+
+204002 - Sử_dụng dự_trữ ngoại_hối theo Lệnh của Chính_phủ
+
+204003 - Sử_dụng tiền cung_ứng theo các mục_đích chỉ_định
+
+204004 - Thanh_toán khác với Nhà_nước và Ngân_sách Nhà_nước
+
+Tài_khoản 204001 - Tạm_ứng cho Ngân_sách Nhà_nước
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn tạm_ứng cho Ngân_sách Nhà_nước .
+
+Tài_khoản 204002 - Sử_dụng dự_trữ ngoại_hối theo Lệnh của Chính_phủ
+
+Tài_khoản này dùng để phản_ánh số tiền thuộc dự_trữ ngoại_hối đã chi theo Lệnh của Chính_phủ .
+
+Tài_khoản 204003 - Sử_dụng tiền cung_ứng theo mục_đích chỉ_định
+
+Tài_khoản này dùng để phản_ánh các khoản tiền cung_ứng sử_dụng vào các mục_đích chỉ_định của Nhà_nước .
+
+Tài_khoản 204003 có các tài_khoản cấp Iii sau :
+
+20400301 - Cấp vốn điều_lệ cho tổ_chức tín_dụng và doanh_nghiệp
+
+20400302 - Cung_ứng tiền để sử_dụng vào mục_đích khác
+
+Tài_khoản 204004 - Thanh_toán khác với Nhà_nước và Ngân_sách Nhà_nước
+
+Tài_khoản này dùng để phản_ánh khoản thanh_toán khác giữa Nhn với Nhà_nước và Ngân_sách Nhà_nước phát_sinh trong quá_trình giao_dịch , bao_gồm các khoản nợ cũ của Ngân_sách Nhà_nước , chuyển vốn vay nước_ngoài cho Ngân_sách Nhà_nước và các khoản thanh_toán khác với Nhà_nước và Ngân_sách Nhà_nước .
+
+Tài_khoản 204004 có các tài_khoản cấp Iii sau :
+
+20400401 - Nợ cũ của Ngân_sách Nhà_nước
+
+20400402 - Chuyển vốn vay nước_ngoài cho Ngân_sách Nhà_nước
+
+20400499 - Các khoản thanh_toán khác
+
+Tài_khoản 20400401 - Nợ cũ của Ngân_sách Nhà_nước
+
+Tài_khoản này dùng để phản_ánh các khoản tiền phát_hành cho Ngân_sách Nhà_nước sử_dụng vào các mục_đích theo Lệnh của Chính_phủ , bao_gồm phát_hành tiền cho Ngân_sách Nhà_nước để cân_đối Ngân_sách Nhà_nước và sử_dụng mục_đích khác .
+
+Tài_khoản 20400402 - Chuyển vốn vay nước_ngoài cho Ngân_sách Nhà_nước
+
+Tài_khoản này dùng để phản_ánh số tiền vay các tổ_chức quốc_tế , Chính_phủ nước_ngoài và pháp_nhân nước_ngoài do Nhn thay_mặt Chính_phủ kí vay và chuyển sang cho Ngân_sách Nhà_nước quản_lí theo cơ_chế .
+
+Tài_khoản 20400499 - Các khoản thanh_toán khác
+
+Tài_khoản này dùng để phản_ánh khoản thanh_toán khác ( ngoài những khoản thanh_toán nêu trên ) giữa Nhn với Nhà_nước và Ngân_sách Nhà_nước phát_sinh trong quá_trình giao_dịch .
+
+Tài_khoản 205 - Cho vay trên thị_trường quốc_tế
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn cho các đối_tác nước_ngoài vay trên thị_trường quốc_tế .
+
+Tài_khoản 205 có các tài_khoản cấp Ii sau :
+
+205001 - Cho vay qua đêm
+
+205002 - Cho vay ngắn_hạn
+
+205003 - Cho vay trung và dài_hạn
+
+Tài_khoản 205001 - Cho vay qua đêm
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn cho các đối_tác nước_ngoài vay qua đêm theo quy_định .
+
+Tài_khoản 205001 có các tài_khoản cấp Iii sau :
+
+20500101 - Nợ trong hạn
+
+20500102 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 20500101 , 2050102 giống nội_dung hạch_toán tài_khoản 20100101 , 20100102 .
+
+Tài_khoản 205002 - Cho vay ngắn_hạn
+
+Tài_khoản này dùng để phản_ánh các khoản cho vay ngắn_hạn ( ngoại_trừ cho vay qua đêm ) đối_với các đối_tác nước_ngoài trên thị_trường quốc_tế .
+
+Tài_khoản 205002 có các tài_khoản cấp Iii sau :
+
+20500201 - Nợ trong hạn
+
+20500202 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 20500201 , 20500202 giống nội_dung hạch_toán tài_khoản 20100101 , 20100102 .
+
+Tài_khoản 205003 - Cho vay trung và dài_hạn
+
+Tài_khoản này dùng để phản_ánh các khoản cho vay trung và dài_hạn đối_với các đối_tác nước_ngoài trên thị_trường quốc_tế .
+
+Tài_khoản này 205003 có các tài_khoản cấp Iii sau :
+
+20500301 - Nợ trong hạn
+
+20500302 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 20500301 , 20500302 giống nội_dung hạch_toán tài_khoản 20100101 , 20100102 .
+
+Tài_khoản 206 - Lãi phải thu cho vay
+
+Tài_khoản này dùng để phản_ánh số lãi phải thu dồn tích tính trên số tiền Nhn cho Tctd và đối_tác nước_ngoài vay mà Nhn sẽ thu được khi đến hạn .
+
+Tài_khoản 206 có các tài_khoản cấp Ii sau :
+
+206001 - Lãi phải thu cho vay tổ_chức tín_dụng trong nước
+
+206002 - Lãi phải thu hoạt_động nghiệp_vụ thị_trường mở
+
+206003 - Lãi phải thu từ mua trực_tiếp chứng_khoán Chính_phủ
+
+206004 - Lãi phải thu cho vay trên thị_trường quốc_tế
+
+206999 - Lãi phải thu khác
+
+Tài_khoản 207 - Dự_phòng rủi_ro
+
+Tài_khoản này dùng để phản_ánh việc trích_lập , xử_lí và hoàn_nhập các khoản dự_phòng rủi_ro theo quy_định của pháp_luật đối_với hoạt_động cho vay trong nước và quốc_tế , hoạt_động nghiệp_vụ thị_trường mở để xử_lí rủi_ro đối_với khoản cho vay của Nhn .
+
+Hạch_toán tài_khoản này phải thực_hiện theo quy_định sau :
+
+1 . Việc tính , hạch_toán trích_lập , sử_dụng và hoàn_nhập khoản dự_phòng rủi_ro được thực_hiện theo Chế_độ tài_chính của Nhn .
+
+2 . Mức tính , trích_lập dự_phòng rủi_ro cụ_thể sẽ thực_hiện theo quy_định của Thống_đốc Nhn về việc xác_định , trích_lập , quản_lí và sử_dụng khoản dự_phòng rủi_ro của Nhn .
+
+Tài_khoản 207 có các tài_khoản cấp Ii sau :
+
+207001 - Dự_phòng rủi_ro cho vay tổ_chức tín_dụng trong nước
+
+207002 - Dự_phòng rủi_ro từ hoạt_động nghiệp_vụ thị_trường mở
+
+207004 - Dự_phòng rủi_ro cho vay trên thị_trường quốc_tế
+
+207999 - Dự_phòng rủi_ro khác
+
+Loại 3 : Tài_sản cố_định và tài_sản Có khác
+
+Loại tài_khoản này phản_ánh giá_trị hiện có , tình_hình biến_động các loại tài_sản cố_định và tài_sản Có khác của Nhn .
+
+Tài_khoản 301 - Kim_loại quý , Đá_quý
+
+Tài_khoản này dùng để phản_ánh giá_trị kim_loại quý , đá_quý trong kho của Nhn .
+
+Hạch_toán tài_khoản này phải thực_hiện theo quy_định sau :
+
+Giá_trị kim_loại quý , đá_quý ( bao_gồm cả vàng không thuộc dự_trữ ngoại_hối như vàng trang_sức . . . ) hạch_toán trên tài_khoản này như sau :
+
+- Giá nhập kho , bao_gồm giá mua thực_tế , thuế ( nếu có ) , các chi_phí vận_chuyển , bốc_xếp . . . ( nếu có ) ;
+
+- Giá xuất kho xác_định theo phương_pháp tính theo giá đích_danh .
+
+Tài_khoản 301 có các tài_khoản cấp Ii sau :
+
+301001 - Kim_loại quý
+
+301002 - Đá_quý
+
+Tài_khoản 301001 - Kim_loại quý
+
+Tài_khoản này dùng để phản_ánh giá_trị kim_loại quý hiện có và tình_hình xuất , nhập kho kim_loại quý của Nhn .
+
+Tài_khoản này 301001 có các tài_khoản cấp Iii sau :
+
+30100101 - Bạc
+
+30100102 - Kim_loại quý khác trong kho
+
+30100103 - Kim_loại quý đang vận_chuyển
+
+Tài_khoản 30100101 - Bạc
+
+Tài_khoản này dùng để phản_ánh giá_trị bạc và tình_hình xuất , nhập kho_bạc của Nhn .
+
+Tài_khoản 30100102 - Kim_loại quý khác trong kho
+
+Tài_khoản này dùng để phản_ánh giá_trị kim_loại quý khác và tình_hình xuất , nhập kho kim_loại quý khác của Nhn .
+
+Nội_dung hạch_toán tài_khoản 30100102 giống nội_dung hạch_toán tài_khoản 30100101 .
+
+Tài_khoản 30100103 - Kim_loại quý đang vận_chuyển
+
+Tài_khoản này dùng để phản_ánh giá_trị bạc và kim_loại quý khác chuyển cho đơn_vị nhận đang trên đường đi . Trường_hợp giao_nhận trực_tiếp không hạch_toán vào tài_khoản này .
+
+Tài_khoản 301002 - Đá_quý
+
+Tài_khoản này dùng để phản_ánh giá_trị đá_quý hiện có và tình_hình xuất , nhập kho đá_quý của Nhn .
+
+Tài_khoản 301002 có các tài_khoản cấp Iii sau :
+
+30100201 - Đá_quý trong kho
+
+30100202 - Đá_quý đang vận_chuyển
+
+Nội_dung hạch_toán tài_khoản 30100201 , 30100102 giống nội_dung hạch_toán tài_khoản 30100101 , 30100103 .
+
+Tài_khoản 302 - Ủy_thác
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn uỷ_thác cho tổ_chức nhận uỷ_thác để thực_hiện cho vay , đầu_tư theo nội_dung đã thoả_thuận trên hợp_đồng uỷ_thác đã kí_kết theo quy_định .
+
+Tài_khoản 302 có các tài_khoản cấp Ii sau :
+
+302001 - Ủy_thác cho vay
+
+302002 - Ủy_thác đầu_tư
+
+302999 - Ủy_thác khác
+
+Tài_khoản 303 - Góp vốn
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn góp vốn cổ_phần vào tổ_chức trong nước và tổ_chức quốc_tế theo quy_định của pháp_luật .
+
+Tài_khoản 303 có các tài_khoản cấp Ii , cấp Iii sau :
+
+303001 - Góp vốn vào các tổ_chức trong nước
+
+303002 - Góp vốn vào các tổ_chức quốc_tế
+
+30300201 - Góp vốn vào Imf
+
+30300202 - Góp vốn vào tổ_chức quốc_tế khác
+
+Tài_khoản 304 - Tài_sản cố_định
+
+Tài_khoản này dùng để phản_ánh giá_trị hiện có và tình_hình biến_động của tài_sản cố_định của Nhn .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Việc hạch_toán tài_khoản này thực_hiện theo quy_định của chuẩn_mực kế_toán Việt_nam , chế_độ quản_lí và sử_dụng tài_sản cố_định của Nhà_nước .
+
+2 . Việc quản_lí các tài_sản cố_định hữu_hình , các đơn_vị Nhn tuân_thủ theo đúng quy_trình tại phân hệ Fa .
+
+Tài_khoản 304 có các tài_khoản cấp Ii sau :
+
+304001 - Tài_sản cố_định hữu_hình
+
+304002 - Tài_sản cố_định vô_hình
+
+304003 - Tài_sản cố_định thuê tài_chính
+
+304004 - Tài_sản cố_định thuộc chương_trình dự_án
+
+304005 - Hao_mòn tài_sản cố_định
+
+304006 - Hao_mòn tài_sản cố_định thuộc chương_trình dự_án
+
+Tài_khoản 304001 - Tài_sản cố_định hữu_hình
+
+Tài_khoản này dùng để phản_ánh giá_trị hiện có và tình_hình biến_động của toàn_bộ tài_sản cố_định hữu_hình của Nhn theo nguyên giá .
+
+Tài_khoản 304001 có các tài_khoản cấp Iii sau :
+
+30400101 - Nhà_cửa , vật kiến_trúc
+
+30400102 - Máy_móc , thiết_bị
+
+30400103 - Phương_tiện vận_tải , thiết_bị truyền_dẫn
+
+30400104 - Thiết_bị , dụng_cụ quản_lí
+
+30400199 - Tài_sản cố_định hữu_hình khác
+
+Tài_khoản 304002 - Tài_sản cố_định vô_hình
+
+Tài_khoản này dùng để phản_ánh giá_trị hiện có và tình_hình biến_động của toàn_bộ tài_sản cố_định vô_hình của Nhn .
+
+Tài_khoản 304002 có các tài_khoản cấp Iii sau :
+
+30400201 - Quyền sử_dụng đất
+
+30400202 - Chương_trình phần_mềm
+
+30400299 - Tài_sản cố_định vô_hình khác
+
+Tài_khoản 304003 - Tài_sản cố_định thuê tài_chính
+
+Tài_khoản này dùng để phản_ánh giá_trị hiện có và tình_hình biến_động toàn_bộ tài_sản cố_định thuê tài_chính của Nhn .
+
+Tài_khoản 304004 - Tài_sản cố_định thuộc chương_trình dự_án
+
+Tài_khoản này dùng để phản_ánh giá_trị hiện có và tình_hình biển động toàn_bộ tài_sản cố_định thuộc chương_trình dự_án của Nhn .
+
+Tài_khoản 304005 - Hao_mòn tài_sản cố_định
+
+Tài_khoản này dùng để phản_ánh giá_trị hao_mòn tài_sản cố_định của Nhn .
+
+Tài_khoản 304005 có các tài_khoản cấp Iii sau :
+
+30400501 - Hao_mòn tài_sản cố_định hữu_hình
+
+30400502 - Hao_mòn tài_sản cố_định vô_hình
+
+30400503 - Hao_mòn tài_sản cố_định thuê tài_chính
+
+Tài_khoản 304006 - Hao_mòn tài_sản cố_định thuộc chương_trình dự_án
+
+Tài_khoản này dùng để phản_ánh giá_trị hao_mòn tài_sản cố_định thuộc chương_trình dự_án của Nhn .
+
+Nội_dung hạch_toán tài_khoản 304006 giống nội_dung hạch_toán tài_khoản 304005 .
+
+Tài_khoản 305 - Tài_sản khác trong kho
+
+Tài_khoản này dùng để phản_ánh tình_hình hiện có và tình_hình biến_động tăng , giảm các tài_sản khác trong kho của Nhn .
+
+Tài_khoản 305 có các tài_khoản cấp Ii sau :
+
+305001 - Công_cụ , dụng_cụ
+
+305002 - Vật_liệu
+
+305999 - Tài_sản khác
+
+Tài_khoản 305001 - Công_cụ , dụng_cụ
+
+Tài_khoản này dùng để phản_ánh giá_trị hiện có và tình_hình biến_động tăng , giảm các loại công_cụ , dụng_cụ trong kho của Nhn .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Giá_trị công_cụ , dụng_cụ hạch_toán trên tài_khoản này như sau :
+
+- Giá nhập kho , bao_gồm giá mua thực_tế , thuế ( nếu có ) , các chi_phí vận_chuyển , bốc_xếp . . . ( nếu có ) ;
+
+- Giá xuất kho xác_định theo phương_pháp tính theo giá đích_danh .
+
+2 . Việc xác_định giá_trị công_cụ , dụng_cụ phân_bổ vào chi_phí thực_hiện theo quy_định tại quy_chế quản_lí tài_chính của Nhn .
+
+Tài_khoản 305002 - Vật_liệu
+
+Tài_khoản này dùng để phản_ánh các loại vật_liệu trong kho của Nhn như giấy_tờ in , vật_liệu văn_phòng , phụ_tùng thay_thế , xăng , dầu . . .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Kế_toán nhập , xuất , tồn_kho vật_liệu phải phản_ánh theo giá_trị thực_tế và thực_hiện theo nguyên_tắc giá gốc quy_định trong Chuẩn_mực kế_toán hàng tồn_kho .
+
+2 . Việc tính trị_giá của vật_liệu xuất kho được thực_hiện theo phương_pháp thực_tế đích_danh .
+
+3 . Không phản_ánh vào tài_khoản này đối_với vật_liệu không thuộc quyền sở_hữu của Nhn ( như nhận giữ hộ . . . . ) .
+
+Tài_khoản 305999 - Tài_sản khác
+
+Tài_khoản này dùng để phản_ánh các loại tài_sản khác trong kho của Nhn ngoài công_cụ , dụng_cụ và vật_liệu .
+
+Kế_toán theo_dõi quản_lí việc nhập , xuất , tồn các tài_sản khác này thực_hiện tương_tự như kế_toán theo_dõi quản_lí việc nhập , xuất , tồn công_cụ , dụng_cụ và vật_liệu .
+
+Nội_dung hạch_toán tài_khoản 305999 giống nội_dung hạch_toán tài_khoản 305001 .
+
+Tài_khoản 313 - Tạm_ứng về xây_dựng cơ_bản , mua_sắm và sửa_chữa_lớn tài_sản cố_định
+
+Tài_khoản này phản_ánh chi_phí thực_hiện dự_án đầu_tư ( bao_gồm chi_phí mua_sắm mới tài_sản cố_định , xây_dựng mới hoặc sửa_chữa , cải_tạo , mở_rộng hay trang_bị lại kĩ_thuật công_trình ) và tình_hình quyết_toán dự_án đầu_tư xây_dựng cơ_bản ở đơn_vị Nhn có tiến_hành công_tác mua_sắm tài_sản cố_định , đầu_tư xây_dựng cơ_bản , sửa_chữa_lớn tài_sản cố_định .
+
+Tài_khoản 313 có các tài_khoản cấp Ii sau :
+
+313001 - Mua_sắm tài_sản cố_định
+
+313002 - Sửa_chữa_lớn tài_sản cố_định
+
+313003 - Xây_dựng cơ_bản dở_dang
+
+313004 - Các khoản phải thu về xây_dựng cơ_bản
+
+Tài_khoản 313001 - Mua_sắm tài_sản cố_định
+
+Tài_khoản này dùng để phản_ánh các khoản chi_phí mua_sắm tài_sản cố_định và tình_hình quyết_toán chi_phí mua_sắm tài_sản cố_định trong trường_hợp phải qua lắp_đặt , chạy thử trước khi đưa vào sử_dụng ( kể_cả mua tài_sản cố_định mới hoặc đã qua sử_dụng ) . Nếu mua_sắm tài_sản cố_định về phải đầu_tư , trang_bị thêm mới sử_dụng được thì mọi chi_phí mua_sắm , trang_bị thêm cũng được phản_ánh vào tài_khoản này .
+
+Tài_khoản 313002 - Sữa chữa lớn tài_sản cố_định
+
+Tài_khoản này dùng để phản_ánh chi_phí sửa_chữa_lớn tài_sản cố_định và tình_hình quyết_toán chi_phí sửa_chữa_lớn tài_sản cố_định .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+- Chi_phí sửa_chữa thường_xuyên tài_sản cố_định thì không hạch_toán vào tài_khoản này mà tính thẳng vào chi_phí trong kỳ .
+
+- Chi_phí sửa_chữa tài_sản cố_định phát_sinh được tập_hợp vào bên Nợ tài_khoản này và được theo_dõi chi_tiết cho từng công_trình , công_việc sửa_chữa tài_sản cố_định .
+
+- Đối_với công_trình sửa_chữa không đủ điều_kiện ghi tăng nguyên giá tài_sản cố_định : Khi công_trình hoàn_thành , kế_toán ghi_nhận vào tài_khoản chi_phí hoặc tài_khoản 318999 - Chi_phí khác chờ phân_bổ và phân_bổ dần vào chi_phí theo quy_định .
+
+- Trường_hợp sửa_chữa cải_tạo , nâng_cấp thoả_mãn điều_kiện ghi tăng nguyên giá tài_sản cố_định : Khi công_trình hoàn_thành , kế_toán ghi tăng nguyên giá tài_sản cố_định .
+
+Tài_khoản 313002 có các tài_khoản cấp Iii sau :
+
+31300201 - Sửa_chữa_lớn tài_sản cố_định
+
+31300202 - Sửa_chữa_lớn công_trình xây_dựng cơ_bản
+
+Tài_khoản 313003 - Xây_dựng cơ_bản dở_dang
+
+Tài_khoản này phản_ánh chi_phí đầu_tư xây_dựng cơ_bản và tình_hình quyết_toán vốn đầu_tư xây_dựng cơ_bản .
+
+Tài_khoản 313003 có các tài_khoản cấp Iii sau :
+
+31300301 - Chi_phí công_trình
+
+31300399 - Chi_phí khác
+
+Tài_khoản 313004 - Các khoản phải thu về xây_dựng cơ_bản
+
+Tài_khoản này dùng để phản_ánh các khoản phải thu về xây_dựng cơ_bản phát_sinh trong quá_trình hoạt_động .
+
+Tài_khoản 313004 có các tài_khoản cấp Iii sau :
+
+31300401 - Phải thu vốn đầu_tư xây_dựng cơ_bản
+
+31300402 - Tạm_ứng vốn xây_dựng cơ_bản cho bên B
+
+31300499 - Các khoản phải thu khác về xây_dựng cơ_bản
+
+Tài_khoản 31300401 - Phải thu vốn đầu_tư xây_dựng cơ_bản
+
+Tài_khoản này dùng để hạch_toán số tiền vốn đầu_tư xây_dựng cơ_bản , Ban Quản_lí dự_án đang gửi tại ngân_hàng .
+
+Tài_khoản 31300402 - Tạm_ứng vốn xây_dựng cơ_bản cho bên B
+
+Tài_khoản này dùng để hạch_toán số tiền các đơn_vị NHN / Ban Quản_lí dự_án đã tạm_ứng cho khách_hàng ( bên B ) trong quá_trình thực_hiện dự_án đầu_tư xây_dựng cơ_bản .
+
+Tài_khoản 31300499 - Các khoản phải thu khác về xây_dựng cơ_bản
+
+Tài_khoản này dùng để hạch_toán các khoản phải thu khác về xây_dựng cơ_bản phát_sinh trong quá_trình hoạt_động ngoài những nội_dung đã được hạch_toán vào các tài_khoản thích_hợp .
+
+Tài_khoản 314 - Các khoản phải thu khách_hàng
+
+Tài_khoản này dùng để phản_ánh các khoản phải thu khách_hàng của Nhn như kí_quỹ , cầm_cố , các khoản tham_ô , lợi_dụng . . .
+
+Tài_khoản 314 có các tài_khoản cấp Ii sau :
+
+314001 - Ký_quỹ , cầm_cố
+
+314002 - Các khoản tham_ô , lợi_dụng
+
+314999 - Các khoản phải thu khách_hàng khác
+
+Tài_khoản 314001 - Ký_quỹ , cầm_cố
+
+Tài_khoản này dùng để phản_ánh các tài_sản ( tín_phiếu , trái_phiếu . . . . ) và tiền của Nhn mang đi kí_quỹ , cầm_cố tại các đối_tác có quan_hệ kinh_tế như ngân_hàng nước_ngoài , tổ_chức tiền_tệ , ngân_hàng quốc_tế . . .
+
+Tài_khoản 314002 - Các khoản tham_ô , lợi_dụng
+
+Tài_khoản này dùng để phản_ánh các khoản tiền bị khách_hàng tham_ô , lợi_dụng trong quá_trình giao_dịch với Nhn hay số tiền bị thiếu qua kiểm_đếm tiền điều_chuyển từ các Tctd .
+
+Tài_khoản 314999 - Các khoản phải thu khách_hàng khác
+
+Tài_khoản này dùng để phản_ánh các khoản Nhn phải thu của khách_hàng phát_sinh trong quá_trình hoạt_động ngoài những nội_dung đã được hạch_toán vào các tài_khoản thích_hợp .
+
+Tài_khoản 315 - Các khoản phải thu nội_bộ
+
+Tài_khoản này dùng để phản_ánh các khoản tạm_ứng , các khoản phải thu và tình_hình thanh_toán các khoản tạm_ứng , khoản phải thu phát_sinh trong hoạt_động nội_bộ Nhn .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Phạm_vi và nội_dung phản_ánh vào tài_khoản thuộc quan_hệ thanh_toán nội_bộ trong Nhn . Các quan_hệ thanh_toán của Nhn với các khách_hàng bên ngoài , không phản_ánh vào tài_khoản này .
+
+2 . Từng đơn_vị cần có biện_pháp đôn_đốc giải_quyết dứt_điểm các khoản tạm_ứng , phải thu nội_bộ trong niên độ kế_toán .
+
+3 . Cuối kì kế_toán , phải kiểm_tra , đối_chiếu và xác_nhận số phát_sinh , số_dư các tài_khoản 315 Các khoản phải thu nội_bộ và 415 Các khoản phải trả nội_bộ với các đơn_vị , cá_nhân có quan_hệ theo từng nội_dung thanh_toán .
+
+4 . Việc quản_lí các khoản phải thu nội_bộ của Nhn , các đơn_vị Nhn tuân_thủ theo đúng quy_trình tại phân hệ Ap , Ar .
+
+Tài_khoản 315 có các tài_khoản cấp Ii sau :
+
+315001 - Tạm_ứng chi_tiêu hành_chính quản_trị
+
+315002 - Tạm_ứng sửa_chữa bảo_dưỡng tài_sản
+
+315003 - Tạm_ứng tiền_lương , công_tác_phí cho cán_bộ , nhân_viên
+
+315004 - Tham_ô , thiếu mất tiền , tài_sản chờ xử_lí
+
+315005 - Các khoản phải bồi_thường của cán_bộ , nhân_viên
+
+315999 - Các khoản phải thu nội_bộ khác
+
+Nội_dung hạch_toán các tài_khoản tạm_ứng cho hoạt_động nội_bộ Nhn :
+
+Nội_dung hạch_toán các tài_khoản phải thu nội_bộ khác :
+
+Tài_khoản 316 - Các khoản phải thu đối_với các đơn_vị sự_nghiệp
+
+Tài_khoản này dùng để phản_ánh các khoản phải thu của Nhn đối_với các đơn_vị sự_nghiệp thuộc Nhn phát_sinh trong hoạt_động .
+
+Tài_khoản 317 - Các khoản tạm_ứng và phải thu Ngân_sách Nhà_nước
+
+Tài_khoản này dùng để phản_ánh các khoản tạm_ứng và phải thu của Nhn đối_với Ngân_sách Nhà_nước .
+
+Tài_khoản 317 có các tài_khoản cấp Ii sau :
+
+317001 - Tạm_ứng nộp Ngân_sách Nhà_nước
+
+317999 - Phải thu khác
+
+Tài_khoản 317001 - Tạm_ứng nộp Ngân_sách Nhà_nước
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn tạm_ứng để nộp chênh_lệch thu , chi cho Ngân_sách Nhà_nước .
+
+Tài_khoản 317999 - Phải thu khác
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn phải thu Ngân_sách Nhà_nước_ngoài những nội_dung đã được hạch_toán vào các tài_khoản thích_hợp .
+
+Tài_khoản 318 - Các khoản chi_phí chờ phân_bổ
+
+Tài_khoản này dùng để phản_ánh các khoản chi_phí thực_tế đã phát_sinh nhưng có liên_quan đến kết_quả hoạt_động nhiều kì kế_toán và việc phân_bổ khoản chi_phí này vào chi_phí hoạt_động trong kì kế_toán sau của Nhn nhằm phù_hợp với quy_định tại chế_độ tài_chính của Nhn .
+
+Tài_khoản 318 có các tài_khoản cấp Ii sau :
+
+318001 - Lãi trả trước chờ phân_bổ
+
+318002 - Chi_phí in đúc tiền chờ phân_bổ
+
+318003 - Phí mua quyền chọn
+
+318999 - Chi_phí khác chờ phân_bổ
+
+Tài_khoản 318001 - Lãi trả trước chờ phân_bổ
+
+Tài_khoản này dùng để phản_ánh các khoản lãi trả trước của Nhn thực_tế đã phát_sinh và việc phân_bổ lãi trả trước vào chi_phí trong từng kì của Nhn .
+
+Tài_khoản 318002 - Chi_phí in đúc tiền chờ phân_bổ
+
+Tài_khoản này dùng để phản_ánh các khoản đã chi về in , đúc tiền chờ phân_bổ của Nhn . Các khoản chi_phí in , đúc tiền của Nhn không được hạch_toán ngay vào chi_phí mà được phân_bổ dần vào chi_phí theo quy_định .
+
+Tài_khoản 318003 - Phí mua quyền chọn
+
+Tài_khoản này dùng để phản_ánh khoản phí mua quyền chọn đã trả cho đối_tác nước_ngoài và việc phân_bổ phí mua quyền chọn vào chi_phí trong kì của Nhn trong thời_gian mua quyền chọn .
+
+Tài_khoản 318999 - Chi_phí khác chờ phân_bổ
+
+Tài_khoản này dùng để phản_ánh khoản chi_phí khác thực_tế đã phát_sinh và việc phân_bổ chi_phí này vào chi_phí trong từng kì của Nhn .
+
+Tài_khoản 319 - Phải thu từ giao_dịch ngoại_tệ , công_cụ tài_chính phái_sinh và kinh_doanh vàng tài_khoản
+
+Tài_khoản này dùng để phản_ánh các khoản phải thu của Nhn đối_với đối_tác nước_ngoài trong các giao_dịch ngoại_tệ , giao_dịch tài_chính phái_sinh và hoạt_động_kinh_doanh vàng tài_khoản .
+
+Tài_khoản 319 có các tài_khoản cấp Ii sau :
+
+319001 - Phải thu từ giao_dịch giao ngay
+
+319002 - Phải thu từ công_cụ tài_chính phái_sinh
+
+319003 - Phải thu từ hoạt_động_kinh_doanh vàng tài_khoản
+
+Tài_khoản 319001 - Phải thu từ giao_dịch giao ngay
+
+Tài_khoản này dùng để phản_ánh chênh_lệch ( lãi ) do đánh_giá lại theo giá_trị thị_trường_hợp_đồng giao ngay tại ngày Nhn chưa thực_hiện hợp_đồng .
+
+Tài_khoản 319002 - Phải thu từ công_cụ tài_chính phái_sinh
+
+Tài_khoản này dùng để phản_ánh số phải thu từ công_cụ tài_chính phái_sinh mà Nhn tham_gia .
+
+Tài_khoản 319002 có các tài_khoản cấp Iii sau :
+
+31900201 - Phải thu từ các giao_dịch hoán_đổi
+
+31900202 - Phải thu từ các giao_dịch kì_hạn
+
+31900203 - Phải thu từ các giao_dịch tương_lai
+
+31900204 - Phải thu từ các giao_dịch quyền chọn
+
+31900299 - Phải thu từ các giao_dịch về công_cụ tài_chính phái_sinh khác
+
+Tài_khoản 319003 - Phải thu hoạt_động_kinh_doanh vàng tài_khoản
+
+Tài_khoản này dùng để phản_ánh số phải thu từ hoạt_động_kinh_doanh vàng tài_khoản của Nhn trên thị_trường quốc_tế .
+
+Tài_khoản 320 - Phải thu từ hoạt_động uỷ_thác
+
+Tài_khoản này dùng để phản_ánh số tiền phải thu từ hoạt_động uỷ_thác của Nhn .
+
+Tài_khoản 320 có các tài_khoản cấp Ii sau :
+
+320001 - Phải thu lãi từ hoạt_động uỷ_thác
+
+320999 - Phải thu khác từ hoạt_động uỷ_thác
+
+Tài_khoản 321 - Phải thu từ hoạt_động cung_cấp dịch_vụ
+
+Tài_khoản này dùng để phản_ánh số tiền phải thu từ hoạt_động cung_cấp dịch_vụ của Nhn cho khách_hàng trong quá_trình hoạt_động .
+
+Hạch_toán trên tài_khoản này cần phải thực_hiện theo các quy_định sau :
+
+1 . Số tiền phải thu từ hoạt_động cung_cấp dịch_vụ của Nhn như : thu từ dịch_vụ thanh_toán , thu từ dịch_vụ ngân quỹ , thu từ hoạt_động lưu kí chứng_khoán . . . được ghi_nhận trên cơ_sở thời_gian và số thực_tế phải thu từng kỳ .
+
+2 . Số tiền phải thu thể_hiện số tiền dồn tích mà Nhn đã hạch_toán vào thu_nhập trong kì nhưng chưa được khách_hàng thanh_toán .
+
+Tài_khoản 327 - Dự_phòng các khoản phải thu
+
+Tài_khoản này dùng để phản_ánh việc Nhn trích_lập , xử_lí và hoàn_nhập dự_phòng các khoản phải thu đối_với hoạt_động uỷ_thác , góp vốn . . . . để xử_lí rủi_ro trong hoạt_động theo quy_định của pháp_luật .
+
+Hạch_toán trên tài_khoản này cần phải thực_hiện theo các quy_định sau :
+
+1 . Việc tính , hạch_toán trích_lập , sử_dụng và hoàn_nhập khoản dự_phòng rủi_ro được thực_hiện theo Chế_độ tài_chính của Nhn .
+
+2 . Mức tính , trích_lập dự_phòng rủi_ro cụ_thể sẽ thực_hiện theo quy_định của Thống_đốc Nhn về việc xác_định , trích_lập , quản_lí và sử_dụng khoản dự_phòng rủi_ro của Nhn .
+
+Tài_khoản 327 có các tài_khoản cấp Ii sau :
+
+327001 - Dự_phòng rủi_ro hoạt_động uỷ_thác
+
+327002 - Dự_phòng rủi_ro hoạt_động góp vốn
+
+327999 - Dự_phòng các khoản phải thu khác
+
+Tài_khoản 328 - Chi về hoạt_động sự_nghiệp và chương_trình , dự_án
+
+Tài_khoản này dùng để phản_ánh các khoản chi về hoạt_động thường_xuyên và không thường_xuyên theo dự_toán chi đã được duyệt đối_với hoạt_động sự_nghiệp và chương_trình , dự_án tại Nhn .
+
+Tài_khoản 328 có các tài_khoản cấp Ii sau :
+
+28001 - Chi hoạt_động sự_nghiệp
+
+328002 - Chi chương_trình , dự_án
+
+Tài_khoản 328001 - Chi hoạt_động sự_nghiệp
+
+Tài_khoản này dùng để phản_ánh các khoản chi hoạt_động thường_xuyên và không thường_xuyên theo dự_toán chi đã được duyệt . Kế_toán theo_dõi chi_tiết theo nội_dung nguồn kinh_phí ( thường_xuyên , viện_trợ . . . . ) theo yêu_cầu quản_lý .
+
+Tài_khoản 328001 có các tài_khoản cấp Iii sau :
+
+32800101 - Năm trước
+
+32800102 - Năm nay
+
+32800103 - Năm sau
+
+Tài_khoản 328002 - Chi chương_trình , dự_án
+
+Tài_khoản này dùng để phản_ánh số chi cho chương_trình , dự_án đã được Thống_đốc Nhn phê_duyệt . Tài_khoản này được mở theo_dõi luỹ kế chi dự_án từ khi bắt_đầu thực_hiện cho đến khi kết_thúc chương_trình , dự_án được phê_duyệt quyết_toán và bàn_giao sử_dụng . Kế_toán theo_dõi chi_tiết theo năm ( năm trước , năm nay , năm sau ) .
+
+Tài_khoản 328002 có các tài_khoản cấp Iii sau :
+
+32800201 - Chi quản_lí dự_án
+
+32800202 - Chi thực_hiện dự_án
+
+Loại 4 : Phát_hành tiền và Nợ phải trả
+
+Loại tài_khoản này dùng để phản_ánh tài_sản Nợ của Nhn bao_gồm lượng tiền cotton , tiền polymer , tiền kim_loại và các phương_tiện thanh_toán được phép phát_hành vào lưu_thông ; mọi khoản nợ phát_sinh trong quá_trình hoạt_động mà ngân_hàng phải trả , phải thanh_toán cho cá_nhân , tổ_chức trong và ngoài đơn_vị Nhn , bao_gồm các khoản nợ tiền vay , tiền gửi của các Tctd , tổ_chức quốc_tế , pháp_nhân nước_ngoài , . . . và các khoản phải thanh_toán nội_bộ .
+
+Tài_khoản 401 - Phát_hành tiền
+
+Tài_khoản này phản_ánh số tiền cotton , tiền polymer , tiền kim_loại đã công_bố lưu_hành để phát_hành hoặc dã được phát_hành vào lưu_thông . Việc hạch_toán các tài_khoản này phải tuân_thủ theo các quy_định của Chính_phủ và Nhn về phát_hành tiền . Chênh_lệch giữa số_dư Có tài_khoản này với số dư Nợ các tài_khoản 101001 ; 101002 sẽ phản_ánh số tiền_mặt đang trong lưu_thông tại thời_điểm nhất_định ) .
+
+Tài_khoản 401 có các tài_khoản cấp Ii , cấp Iii sau :
+
+401001 - Tiền_giấy phát_hành
+
+40100101 - Tiền cotton phát_hành
+
+40100102 - Tiền polymer phát_hành
+
+401002 - Tiền kim_loại phát_hành
+
+Tài_khoản 402 - Các cam_kết trả nợ của Ngân_hàng Nhà_nước
+
+Tài_khoản này dùng để phản_ánh số tiền thu được từ phát_hành các cam_kết trả nợ của Nhn .
+
+Tài_khoản 402 có các tài_khoản cấp Ii sau :
+
+402001 - Tín_phiếu Nhn
+
+402999 - Các cam_kết trả nợ khác của Nhn
+
+Tài_khoản 402001 - Tín_phiếu Ngân_hàng Nhà_nước
+
+Tài_khoản này dùng để phản_ánh số tiền thu được do phát_hành Tín_phiếu Nhn ( bao_gồm cả tín_phiếu Nhn ( loại ghi sổ ) của Tctd cầm_cố cho Tctd khác để vay vốn và bên nhận cầm_cố ( bên Tctd cho vay ) yêu_cầu Nhn phong_toả để đảm_bảo nợ ) .
+
+Tài_khoản 402999 - Các cam_kết trả nợ khác của Ngân_hàng Nhà_nước
+
+Tài_khoản này dùng để phản_ánh số tiền thu được do phát_hành các cam_kết trả nợ khác của Nhn .
+
+Tài_khoản 403 - Tiền gửi của Kho_bạc Nhà_nước và vốn tài_trợ , uỷ_thác nhận của Chính_phủ
+
+Tài_khoản này dùng để phản_ánh số tiền của Kho_bạc Nhà_nước gửi tại Nhn và các khoản vốn tài_trợ , uỷ_thác mà Chính_phủ giao cho Nhn để thực_hiện các dự_án theo các mục_đích chỉ_định .
+
+Tài_khoản 403 có các tài_khoản cấp Ii sau :
+
+403001 - Tiền gửi của Kho_bạc Nhà_nước
+
+403002 - Vốn tài_trợ , uỷ_thác nhận của Chính_phủ
+
+Tài_khoản 403001 - Tiền gửi của Kho_bạc Nhà_nước
+
+Tài_khoản này dùng để phản_ánh tiền gửi của Kho_bạc Nhà_nước .
+
+Tài_khoản 403002 - Vốn tài_trợ , uỷ_thác nhận của Chính_phủ
+
+Tài_khoản này dùng để phản_ánh số vốn tài_trợ , uỷ_thác của Chính_phủ giao cho Nhn để thực_hiện các dự_án theo các mục_đích chỉ_định .
+
+Tài_khoản 404 - Tiền gửi của các tổ_chức tín_dụng , tổ_chức tài_chính hoạt_động tại Việt_nam
+
+Tài_khoản này dùng để phản_ánh tiền gửi của các Tctd , tổ_chức tài_chính trong nước gửi tại Nhn .
+
+Tài_khoản 404 có các tài_khoản cấp Ii sau :
+
+404001 - Tiền gửi không kì_hạn
+
+404002 - Tiền gửi khác
+
+Tài_khoản 404001 - Tiền gửi không kì_hạn
+
+Tài_khoản này dùng để phản_ánh số tiền của các Tctd , tổ_chức tài_chính hoạt_động tại Việt_nam gửi không kì_hạn tại Nhn .
+
+Tài_khoản 404002 - Tiền gửi khác
+
+Tài_khoản này dùng để phản_ánh số tiền của các Tctd , tổ_chức tài_chính hoạt_động tại Việt_nam gửi cho các mục_đích khác như tiền gửi có kì_hạn , tiền gửi chuyên_dùng , . . . tại Nhn .
+
+Tài_khoản 405 - Nhận kí_quỹ
+
+Tài_khoản này dùng để phản_ánh các khoản tiền mà Nhn nhận kí_quỹ của khách_hàng để bảo_đảm cho các dịch_vụ liên_quan đến hoạt_động_kinh_doanh , tín_dụng được thực_hiện đúng hợp_đồng , cam_kết đã ký .
+
+Tài_khoản 405 có các tài_khoản cấp Ii sau :
+
+405001 - Ký_quỹ tham_gia nghiệp_vụ thị_trường mở
+
+405002 - Ký_quỹ đấu_thầu vàng
+
+405003 - Ký_quỹ cấp giấy_phép thành_lập và hoạt_động ngân_hàng
+
+405004 - Ký_quỹ bảo_lãnh
+
+405999 - Ký_quỹ khác
+
+Tài_khoản 405001 - Ký_quỹ tham_gia nghiệp_vụ thị_trường mở
+
+Tài_khoản này dùng để phản_ánh số tiền kí_quỹ của các Tctd gửi tại Nhn để tham_gia nghiệp_vụ thị_trường mở : đấu_thầu mua tín_phiếu , chứng_khoán Chính_phủ . . .
+
+Tài_khoản 405002 - Ký_quỹ đấu_thầu vàng
+
+Tài_khoản này dùng để phản_ánh số tiền kí_quỹ của các Tctd và doanh_nghiệp gửi tại Nhn để đăng_kí tham_gia đấu_thầu vàng .
+
+Tài_khoản 405003 - Ký_quỹ cấp giấy_phép thành_lập và hoạt_động ngân_hàng
+
+Tài_khoản này dùng để phản_ánh số tiền kí_quỹ của các tổ_chức , cá_nhân gửi tại Nhn để xin cấp giấy_phép hoạt_động ngân_hàng , và hoạt_động_kinh_doanh vàng . . . theo quy_định của pháp_luật .
+
+Tài_khoản 405004 - Ký_quỹ bảo_lãnh
+
+Tài_khoản này dùng để phản_ánh số tiền kí_quỹ bảo_lãnh của các Tctd bảo_lãnh ( đối_với loại_hình Tctd phải kí_quỹ bảo_lãnh ) gửi tại Nhn .
+
+Tài_khoản 405999 - Ký_quỹ khác
+
+Tài_khoản này dùng để phản_ánh số tiền kí_quỹ của các Tctd gửi tại Nhn để tham_gia các hoạt_động khác ngoài các hoạt_động nêu trên .
+
+Tài_khoản 406 - Tiền gửi của tổ_chức quốc_tế và pháp_nhân nước_ngoài
+
+Tài_khoản này dùng để phản_ánh số tiền của tổ_chức quốc_tế và pháp_nhân nước_ngoài gửi tại Nhn .
+
+Tài_khoản 406 có các tài_khoản cấp Ii sau :
+
+406001 - Tiền gửi của Imf
+
+406002 - Tiền gửi của các tổ_chức quốc_tế khác
+
+406003 - Tiền gửi của pháp_nhân nước_ngoài
+
+Tài_khoản 406001 - Tiền gửi của Imf
+
+Tài_khoản này dùng để phản_ánh số tiền Imf gửi tại Nhn ( bao_gồm cả số tiền Nhà_nước góp vốn cổ_phần hội_viên vào Imf ) nhằm mục_đích sử_dụng cho các giao_dịch của Imf ( thanh_toán đăng_ký , thanh_toán nguồn_lực Imf vay_mượn , . . . ) , chi_phí quản_lí của Văn_phòng Imf và các khoản tiền nhận được khác : ấn_phẩm , báo_chí , . . .
+
+Tài_khoản 406002 - Tiền gửi của các tổ_chức quốc_tế khác
+
+Tài_khoản này dùng để phản_ánh số tiền của các tổ_chức quốc_tế khác gửi tại Nhn ,
+
+Tài_khoản 406002 có các tài_khoản cấp Iii sau :
+
+40600201 - Tiền gửi không kì_hạn
+
+40600202 - Tiền gửi có kì_hạn
+
+40500203 - Tiền gửi chuyên_dùng
+
+Tài_khoản 406003 - Tiền gửi của pháp_nhân nước_ngoài
+
+Tài_khoản này dùng để phản_ánh số tiền của pháp_nhân nước_ngoài gửi tại Nhn .
+
+Tài_khoản 406003 có các tài_khoản cấp Iii sau :
+
+40600301 - Tiền gửi không kì_hạn
+
+40600302 - Tiền gửi có kì_hạn
+
+40600303 - Tiền gửi chuyên_dùng
+
+Tài_khoản 407 - Sdr đã phân_bổ
+
+Tài_khoản này dùng để phản_ánh số Sdr ( quyền rút vốn đặc_biệt - Special Drawing_rights ) Imf đã phân_bổ và chuyển vào tài_khoản của Nhn tại Imf .
+
+Tài_khoản 408 - Vay các tổ_chức quốc_tế
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn vay và tình_hình thanh_toán các khoản tiền vay tại các tổ_chức quốc_tế .
+
+Tài_khoản 408 có các tài_khoản cấp Ii sau :
+
+408001 - Vay ngắn_hạn
+
+408002 - Vay trung và dài_hạn
+
+Tài_khoản 408001 - Vay ngắn_hạn
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn vay ngắn_hạn các tổ_chức quốc_tế .
+
+Tài_khoản 408001 có các tài_khoản cấp Iii sau :
+
+40800101 - Nợ trong hạn
+
+40800102 - Nợ quá hạn
+
+Tài_khoản 40800101 - Nợ trong hạn
+
+Tài_khoản này dùng để hạch_toán số tiền Nhn vay của các tổ_chức quốc_tế còn trong hạn theo hợp_đồng tín_dụng hoặc còn trong thời_gian gia_hạn , điều_chỉnh kì_hạn nợ đối_với các khoản vay được tổ_chức quốc_tế gia_hạn , điều_chỉnh kì_hạn nợ .
+
+Tài_khoản 40800102 - Nợ quá hạn
+
+Tài_khoản này dùng để hạch_toán số tiền Nhn vay các tổ_chức quốc_tế đã quá hạn trả .
+
+Tài_khoản 408002 - Vay trung và dài_hạn
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn vay trung và dài_hạn các tổ_chức quốc_tế .
+
+Tài_khoản 408002 có các tài_khoản cấp Iii sau :
+
+40800201 - Nợ trong hạn
+
+40800202 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 40800201 , 40800202 giống nội_dung hạch_toán tài_khoản 40800101 , 40800102 .
+
+Tài_khoản 409 - Vay Chính_phủ nước_ngoài
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn vay và tình_hình thanh_toán các khoản tiền vay Chính_phủ nước_ngoài .
+
+Tài_khoản 409 có các tài_khoản cấp Ii sau :
+
+409001 - Vay ngắn_hạn
+
+409002 - Vay trung và dài_hạn
+
+Tài_khoản 409001 - Vay ngắn_hạn
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn vay ngắn_hạn Chính_phủ nước_ngoài .
+
+Tài_khoản 409001 có các tài_khoản cấp Iii sau :
+
+40900101 - Nợ trong hạn
+
+40900102 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 40900101 , 40900102 giống nội_dung hạch_toán tài_khoản 40800101 , 40800102 .
+
+Tài_khoản 409002 - Vay trung và dài_hạn
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn vay trung và dài_hạn Chính_phủ nước_ngoài .
+
+Tài_khoản 409002 có các tài_khoản cấp Iii sau :
+
+40900201 - Nợ trong hạn
+
+40900202 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 40900201 , 40900202 giống nội_dung hạch_toán tài_khoản 40800101 , 40800102 .
+
+Tài_khoản 410 - Vay pháp_nhân nước_ngoài
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn vay và tình_hình thanh_toán các khoản tiền vay pháp_nhân nước_ngoài .
+
+Tài_khoản 410 có các tài_khoản cấp Ii sau :
+
+410001 - Vay ngắn_hạn
+
+410002 - Vay trung và dài_hạn
+
+Tài_khoản 410001 - Vay ngắn_hạn
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn vay ngắn_hạn các pháp_nhân nước_ngoài .
+
+Tài_khoản 410001 có các tài_khoản cấp Iii sau :
+
+41000101 - Nợ trong hạn
+
+41000102 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 41000101 , 41000102 giống nội_dung hạch_toán tài_khoản 40800101 , 40800102 .
+
+Tài_khoản 410002 - Vay trung và dài_hạn
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn vay trung và dài_hạn các pháp_nhân nước_ngoài .
+
+Tài_khoản 410002 có các tài_khoản cấp Iii sau :
+
+41000201 - Nợ trong hạn
+
+41000202 - Nợ quá hạn
+
+Nội_dung hạch_toán tài_khoản 41000201 , 41000202 giống nội_dung hạch_toán tài_khoản 40800101 , 40800102 .
+
+Tài_khoản 411 - Vốn tài_trợ , nhân uỷ_thác của Chính_phủ nước_ngoài và tổ_chức quốc_tế
+
+Tài_khoản này dùng để phản_ánh số vốn tài_trợ , uỷ_thác đầu_tư Nhtn nhận từ Chính_phủ nước_ngoài và tổ_chức quốc_tế để thực_hiện các dự_án theo Hợp_đồng uỷ_thác .
+
+Tài_khoản 412 - Thanh_toán với pháp_nhân nước_ngoài và tổ_chức quốc_tế
+
+Tài_khoản này dùng để hạch_toán các khoản thu , chi hộ giữa Nhn với các pháp_nhân nước_ngoài và các tổ_chức quốc_tế theo hợp_đồng_đại_lí và uỷ_nhiệm .
+
+Tài_khoản 413 - Các khoản phải trả về xây_dựng cơ_bản , tài_sản cố_định
+
+Tài_khoản này dùng để phản_ánh các khoản phải trả về xây_dựng cơ_bản , tài_sản cố_định phát_sinh trong quá_trình hoạt_động của Nhn .
+
+Tài_khoản 413 có các tài_khoản cấp Ii sau :
+
+413001 - Vốn Ngân_sách Nhà_nước cấp
+
+413002 - Tiền bảo_hành chưa đến hạn trả
+
+413004 - Phải trả về xây_dựng cơ_bản
+
+413999 - Các khoản phải trả khác
+
+Tài_khoản 413001 - Vốn Ngân_sách Nhà_nước cấp
+
+Tài_khoản này dùng để hạch_toán , theo_dõi số vốn xây_dựng cơ_bản đã được Ngân_sách Nhà_nước cấp_phát , thanh_toán theo giá_trị khối_lượng xây_dựng cơ_bản hoàn_thành .
+
+Tài_khoản 413002 - Tiền bảo_hành chưa đến hạn trả
+
+Tài_khoản này dùng để hạch_toán số tiền bảo_hành công_trình xây_dựng cơ_bản của đơn_vị nhận_thầu công_trình và tài_sản cố_định .
+
+Tài_khoản 413002 có các tài_khoản cấp Iii sau :
+
+41300201 - Công_trình xây_dựng cơ_bản
+
+41300202 - Tài_sản cố_định
+
+Tài_khoản 413004 - Phải trả về xây_dựng cơ_bản
+
+Tài_khoản này dùng để phản_ánh số tiền vốn xây_dựng cơ_bản , đơn_vị Nhn đang nhận giữ ( quản_lý ) hộ Ban Quản_lí Dự_án .
+
+Tài_khoản 413004 có 01 tài_khoản cấp Iii sau :
+
+Tài_khoản 41300401 - Tiền nhận giữ ( quản_lý ) hộ Ban Quản_lí Dự_án
+
+Tài_khoản 413999 - Các khoản phải trả khác
+
+Tài_khoản này dùng để hạch_toán các khoản phải trả khác về xây_dựng cơ_bản phát_sinh trong quá_trình hoạt_động , ngoài những nội_dung đã được hạch_toán vào các tài_khoản thích_hợp .
+
+Tài_khoản 414 - Các khoản phải trả khách_hàng
+
+Tài_khoản này dùng để phản_ánh tình_hình thanh_toán về các khoản nợ phải trả của Nhn cho khách_hàng .
+
+Tài_khoản 414 có các tài_khoản cấp Ii sau :
+
+414001 - Tiền không đủ tiêu_chuẩn lưu_thông đã xử_lí và chờ thanh_toán cho khách_hàng
+
+414002 - Tiền giữ hộ và đợi thanh_toán
+
+414999 - Các khoản phải trả bên ngoài khác
+
+Tài_khoản 414001 - Tiền không đủ tiêu_chuẩn lưu_thông đã xử_lí và chờ thanh_toán cho khách_hàng
+
+Tài_khoản này dùng để hạch_toán số tiền không đủ tiêu_chuẩn lưu_thông chờ xử_lí mà Nhn cần phải thanh_toán với khách_hàng .
+
+Tài_khoản 414002 - Tiền giữ hộ và đợi thanh_toán
+
+Tài_khoản này dùng để hạch_toán các khoản tiền phải quản_lí theo quy_định của Nhà_nước như tiền quản_lí trong thu đổi và các khoản tiền đang chờ thanh_toán , xử_lí của các cơ_quan , đơn_vị gửi Nhn để nhờ giữ hộ .
+
+Tài_khoản 414999 - Các khoản phải trả bên ngoài khác
+
+Tài_khoản này dùng để hạch_toán các khoản phải trả khác cho tổ_chức , cá_nhân ngoài đơn_vị không bao_gồm những nội_dung đã được hạch_toán vào các tài_khoản phải trả ( tài_khoản 414001 và 414002 ) .
+
+Tài_khoản 415 - Các khoản phải trả nội_bộ
+
+Tài_khoản này dùng để phản_ánh các khoản phải trả phát_sinh trong quá_trình hoạt_động nội_bộ Nhn .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Phạm_vi và nội_dung phản_ánh vào tài_khoản thuộc quan_hệ thanh_toán nội_bộ trong Nhn . Các quan_hệ thanh_toán của Nhn với các khách_hàng bên ngoài , không phản_ánh vào tài_khoản này .
+
+2 . Cuối kỳ , kế_toán phải kiểm_tra , đối_chiếu các tài_khoản 315 - Các khoản phải thu nội_bộ và tài_khoản 415 - Các khoản phải trả nội_bộ với các đơn_vị , cá_nhân có quan_hệ theo từng nội_dung thanh_toán .
+
+Tài_khoản 415 có các tài_khoản cấp Ii sau :
+
+415001 - Thừa_quỹ , tài_sản thừa chờ xử_lí
+
+415002 - Các khoản phải trả cho cán_bộ , nhân_viên Nhn
+
+415999 - Các khoản phải trả nội_bộ khác
+
+Tài_khoản 416 - Các khoản phải trả đối_với các đơn_vị sự_nghiệp
+
+Tài_khoản này dùng để phản_ánh các khoản phải trả của Nhn đối_với đơn_vị sự_nghiệp thuộc Nhn phát_sinh trong quá_trình hoạt_động .
+
+Tài_khoản 417 - Các khoản phải trả Ngân_sách Nhà_nước
+
+Tài_khoản này dùng để phản_ánh các khoản phải trả của Nhn với Ngân_sách Nhà_nước .
+
+Tài_khoản 417 có các tài_khoản cấp Ii sau :
+
+417001 - Thuế_thu_nhập cá_nhân phải nộp
+
+417002 - Trả thay thuế nhà_thầu nước_ngoài
+
+417999 - Các khoản phải trả khác
+
+Tài_khoản 417001 - Thuế_thu_nhập cá_nhân phải nộp
+
+Tài_khoản này dùng để phản_ánh quan_hệ giữa Nhn và Ngân_sách Nhà_nước về các khoản thuế thu_nhập cá_nhân của cán_bộ thuộc Nhn .
+
+Tài_khoản 417002 - Trả thay thuế nhà_thầu nước_ngoài
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn phải trả Ngân_sách Nhà_nước về số thuế trả thay nhà_thầu nước_ngoài .
+
+Tài_khoản 417999 - Các khoản phải trả khác
+
+Tài_khoản này dùng để hạch_toán các khoản phải trả khác cho Ngân_sách Nhà_nước_ngoài những nội_dung đã được hạch_toán vào các tài_khoản thích_hợp .
+
+Tài_khoản 418 - Thu_nhập chờ phân_bổ
+
+Tài_khoản này dùng để phản_ánh các khoản thu_nhập chờ phân_bổ ( chưa phân_bổ vào thu_nhập ) của Nhn trong kì kế_toán . Thu_nhập chờ phân_bổ bao_gồm : các khoản lãi nhận trước khi mua các công_cụ nợ ( trái_phiếu , tín_phiếu , kì_phiếu . . . ) và các khoản thu khác có tính_chất , nội_dung tương_tự .
+
+Tài_khoản 419 - Phải trả từ giao_dịch ngoại_tệ , công_cụ tài_chính phái_sinh và kinh_doanh vàng tài_khoản
+
+Tài_khoản này dùng để phản_ánh các khoản phải trả của Nhn trong giao_dịch ngoại_tệ , giao_dịch phái_sinh và giao_dịch kinh_doanh vàng tài_khoản .
+
+Tài_khoản 419 có các tài_khoản cấp Ii sau :
+
+419001 - Phải trả từ giao_dịch giao ngay
+
+419002 - Phải trả từ công_cụ tài_chính phái_sinh
+
+419003 - Phải trả từ hoạt_động_kinh_doanh vàng tài_khoản
+
+Tài_khoản 419001 - Phải trả từ giao_dịch giao ngay
+
+Tài_khoản này dùng để phản_ánh chênh_lệch ( lỗ ) do đánh_giá lại theo giá_trị thị_trường_hợp_đồng giao ngay tại ngày Nhn chưa thực_hiện hợp_đồng .
+
+Tài_khoản 419002 - Phải trả từ công_cụ tài_chính phái_sinh
+
+Tài_khoản này dùng để phản_ánh số phải trả từ công_cụ tài_chính phái_sinh mà Nhn tham_gia .
+
+Tài_khoản 419002 có các tài_khoản cấp Iii sau :
+
+41900201 - Phải trả từ giao_dịch hoán_đổi
+
+41900202 - Phải trả từ giao_dịch kì_hạn
+
+41900203 - Phải trả từ giao_dịch tương_lai
+
+41900204 - Phải trả từ giao_dịch quyền chọn
+
+41900299 - Phải trả từ giao_dịch về công_cụ tài_chính phái_sinh khác
+
+Tài_khoản 419003 - Phải trả từ hoạt_động_kinh_doanh vàng tài_khoản
+
+Tài_khoản này phản_ánh các khoản phải trả phát_sinh từ hoạt_động_kinh_doanh vàng trên tài_khoản ở nước_ngoài .
+
+Tài_khoản 420 - Phải trả từ hoạt_động uỷ_thác
+
+Tài_khoản này dùng để phản_ánh các khoản phải trả của Nhn phát_sinh từ hoạt_động uỷ_thác .
+
+Tài_khoản 421 - Phí phải trả
+
+Tài_khoản này dùng để phản_ánh số phí phải trả khi Nhn sử_dụng các sản_phẩm , dịch_vụ từ các nhà cung_cấp ( bao_gồm các khoản phí do sử_dụng Sdr ) .
+
+Hạch_toán trên tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Số phí phải trả cho các nhà cung_cấp được ghi_nhận trên cơ_sở thời_gian và số phí phải trả thực_tế trong kỳ .
+
+2 . Phí phải trả theo_dõi trên tài_khoản này thể_hiện số phí mà Nhn đã tính và hạch_toán vào chi_phí trong kì nhưng chưa chi_trả cho nhà cung_cấp .
+
+Tài_khoản 422 - Lãi phải trả
+
+Tài_khoản này dùng để phản_ánh số lãi cộng dồn của các khoản nợ mà Nhn sẽ phải trả khi đến hạn .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Lãi phải trả cho các khoản nợ được ghi_nhận trên cơ_sở thời_gian và lãi_suất thực_tế từng kỳ .
+
+2 . Lãi phải trả cho các khoản nợ thể_hiện số lãi dồn tích mà Nhn đã tính và hạch_toán vào chi_phí nhưng chưa chi_trả .
+
+Tài_khoản 422 có các tài_khoản cấp Ii sau :
+
+422001 - Lãi phải trả tín_phiếu Nhn
+
+422002 - Lãi phải trả tiền gửi
+
+422003 - Lãi phải trả tiền vay
+
+422999 - Lãi phải trả khác
+
+Tài_khoản 422001 - Lãi phải trả tín_phiếu Ngân_hàng Nhà_nước
+
+Tài_khoản này dùng để phản_ánh số lãi cộng dồn dự trả tính trên tín_phiếu Nhn mà Nhn sẽ phải trả khi đến hạn .
+
+Tài_khoản 422002 - Lãi phải trả tiền gửi
+
+Tài_khoản này phản_ánh số lãi cộng dồn dự trả tính trên các khoản tiền gửi mà Nhn sẽ phải trả khi đến hạn .
+
+Nội_dung hạch_toán tài_khoản 422002 giống nội_dung hạch_toán tài_khoản 422001 .
+
+Tài_khoản 422003 - Lãi phải trả tiền vay
+
+Tài_khoản này phản_ánh số lãi cộng dồn dự trả tính trên các khoản nợ nước_ngoài mà Nhn sẽ phải trả khi đến hạn .
+
+Nội_dung hạch_toán tài_khoản 422003 giống nội_dung hạch_toán tài_khoản 422001 .
+
+Tài_khoản 422999 - Lãi phải trả khác
+
+Tài_khoản này phản_ánh số lãi cộng dồn dự trả của các khoản phải trả khác ngoài các khoản lãi phải trả đã được hạch_toán vào các tài_khoản thích_hợp ( từ tài_khoản 422001 đến tài_khoản 422003 ) .
+
+Nội_dung hạch_toán tài_khoản 422999 giống nội_dung hạch_toán tài_khoản 422001 .
+
+Tài_khoản 423 - Các khoản chờ thanh_toán khác
+
+Tài_khoản này dùng để phản_ánh các khoản tiền Nhn đang chờ thanh_toán phái_sinh trong quá_trình hoạt_động ngoài những nội_dung đã được hạch_toán vào các tài_khoản thích_hợp ( từ tài_khoản 411 đến tài_khoản 422 ) .
+
+Tài_khoản 424 - Dự_trữ ngoại_hối chính_thức
+
+Tài_khoản này dùng để phản_ánh số ngoại_hối thuộc Dự_trữ ngoại_hối chính_thức Nhn đang quản_lý .
+
+Tài_khoản 424 có các tài_khoản cấp Ii sau :
+
+Tài_khoản 424001 - Quỹ dự_trữ ngoại_hối
+
+Tài_khoản 424002 - Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng
+
+Tài_khoản 424001 - Quỹ dự_trữ ngoại_hối
+
+Tài_khoản này dùng để phản_ánh số ngoại_hối thuộc Quỹ dự_trữ ngoại_hối .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Định_kì hàng tháng ( vào ngày cuối tháng ) , xác_định số chênh_lệch tăng , giảm_giá_trị ngoại_hối thuộc Quỹ dự_trữ ngoại_hối trên cơ_sở so_sánh số dự giữa tài_khoản 42400101 - Quỹ dự_trữ ngoại_hối ( sau khi đã đánh_giá lại ngoại_tệ theo tỉ_giá quy_định tại khoản 7 Điều 9 Thông_tư này ; đánh_giá lại giá vàng theo giá do Nhn quy_định ) với số_dư tài_khoản 42400102 - Mua_bán và thanh_toán ngoại_hối thuộc Quỹ dự_trữ ngoại_hối để tìm ra số chênh_lệch .
+
+2 . Nếu có chênh_lệch thì hạch_toán điều_chỉnh lại số_dư tài_khoản 42400102 cho bằng số_dư tài_khoản 42400101 ( quy ra đồng Việt_nam ) , số chênh_lệch này chuyển vào bên Có hoặc bên Nợ tài_khoản 503 " Chênh_lệch tỉ_giá hối_đoái " ( ghi đối_ứng với tài_khoản 42400102 ) .
+
+3 . Việc chuyển ngoại_hối từ Quỹ dự_trữ ngoại_hối sang Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng ; hoặc tạm_ứng , cho vay và sử_dụng ngoại_hối từ Quỹ dự_trữ ngoại_hối phải căn_cứ vào bản_chính Quyết_định của Thủ_tướng Chính_phủ và của Thống_đốc Nhn . Kế_toán chịu trách_nhiệm lưu Bản_chính Quyết_định của Thủ_tướng Chính_phủ .
+
+Tài_khoản 424001 có các tài_khoản cấp Iii sau :
+
+42400101 - Quỹ dự_trữ ngoại_hối
+
+42400102 - Mua_bán và thanh_toán ngoại_hối thuộc Quỹ dự_trữ ngoại_hối
+
+Tài_khoản 42400101 - Quỹ dự_trữ ngoại_hối
+
+Tài_khoản này dùng để hạch_toán giá_trị ngoại_hối thuộc Quỹ dự_trữ ngoại_hối .
+
+Tài_khoản 42400102 - Mua_bán và thanh_toán ngoại_hối thuộc Quỹ dự_trữ ngoại_hối
+
+Tài_khoản này dùng để hạch_toán các khoản mua_bán và thanh_toán ngoại_hối thuộc Quỹ dự_trữ ngoại_hối .
+
+Tài_khoản 424002 - Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng
+
+Tài_khoản này dùng để phản_ánh giá_trị ngoại_hối Nhn mua vào , bán ra thuộc Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Cuối kì kế_toán , xác_định số chênh_lệch giữa doanh_số ngoại_hối bán ra ( bằng tổng_số tiền tính bằng đồng Việt_nam thu được do bán ngoại_hối trong kỳ , tính theo tỉ_giá hoặc giá vàng thực_tế bán ra ) và doanh_số ngoại_hối mua vào tương_ứng ( bằng tỉ_giá hoặc giá vàng mua vào bình_quân trong kì nhân với số ngoại_hối đã bán trong kỳ ) để hạch_toán khoản chênh_lệch này vào tài_khoản Thu_nhập hay Chi_phí về kinh_doanh ngoại_hối .
+
+2 . Cuối tháng , sau khi thực_hiện bước 1 nêu trên , tiến_hành_xác_định số chênh_lệch tăng , tăng giảm_giá_trị ngoại_hối thuộc Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng trên cơ_sở so_sánh số_dư giữa tài_khoản 42400201 - Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng ( sau khi đã đánh_giá lại ngoại_tệ theo tỉ_giá vào ngày cuối tháng quy_định tại khoản 7 Điều 9 Thông_tư này , đánh_giá lại vàng theo giá do Nhn quy_định ) với số_dư tài_khoản 42400202 - Mua_bán và thanh_toán ngoại_hối thuộc Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng : để tìm ra số chênh_lệch thì hạch_toán điều_chỉnh lại số_dư tài_khoản 42400202 cho bằng số_dư tài_khoản 42400201 ( quy ra đồng Việt_nam ) , số chênh_lệch này chuyển vào bên Có hoặc bên Nợ tài_khoản 503 Chênh_lệch tỉ_giá hối_đoái ( ghi đối_ứng với tài_khoản 42400202 ) .
+
+Tài_khoản 424002 có các tài_khoản cấp Iii sau :
+
+42400201 - Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng
+
+42400202 - Mua_bán và thanh_toán ngoại_hối thuộc Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng
+
+Tài_khoản 42400201 - Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng
+
+Tài_khoản này dùng để hạch_toán giá_trị ngoại_hối thuộc Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng .
+
+Tài_khoản 42400202 - Mua_bán và thanh_toán ngoại_hối thuộc Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng
+
+Tài_khoản này dùng để hạch_toán các khoản mua_bán và thanh_toán ngoại_hối thuộc Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng .
+
+Tài_khoản 425 - Thanh_toán dự_trữ ngoại_hối Nhà_nước
+
+Tài_khoản này dùng để phản_ánh khoản thanh_toán khác ( ngoài những khoản thanh_toán đã hạch_toán vào các tài_khoản thích_hợp ) giữa Nhn với Nhà_nước phát_sinh trong quá_trình giao_dịch ( để thực_hiện các giao_dịch trung_gian thông_qua tài_khoản 2390 . 10 . 01 và tài_khoản 2390 . 00 . 05 trước đây ) .
+
+Tài_khoản 425 có các tài_khoản cấp Ii sau :
+
+425001 - Thanh_toán dự_trữ ngoại_hối Nhà_nước bằng ngoại_tệ
+
+425002 - Thanh_toán dự_trữ ngoại_hối Nhà_nước bằng đồng Việt_nam
+
+Tài_khoản 426 - Giao_dịch phái_sinh
+
+Tài_khoản này dùng để phản_ánh các cam_kết , các khoản phải thu , phải trả của các giao_dịch phái_sinh theo hợp_đồng kí giữa Nhn và đối_tác .
+
+Tái_khoản 426 có các tài_khoản cấp Ii sau :
+
+426001 - Giao_dịch hoán_đổi
+
+426002 - Thanh_toán đối_với giao_dịch hoán_đổi
+
+426003 - Giao_dịch kì_hạn
+
+426004 - Thanh_toán đối_với giao_dịch kì_hạn
+
+426005 - Giao_dịch tương_lai
+
+426006 - Thanh_toán đối_với giao_dịch tương_lai
+
+426007 - Giao_dịch quyền chọn
+
+426008 - Thanh_toán đối_với giao_dịch quyền chọn
+
+426998 - Giao_dịch phái_sinh khác
+
+426999 - Thanh_toán đối_với giao_dịch phái_sinh khác
+
+Tài_khoản 426001 - Giao_dịch hoán_đổi
+
+Tài_khoản này dùng để phản_ánh các cam_kết phải trả ra hoặc nhận về ngoại_tệ và giá_trị đánh_giá theo đồng Việt_nam của các hợp_đồng hoán_đổi đã kí giữa Nhn và đối_tác .
+
+Tài_khoản 426001 có các tài_khoản cấp Iii sau :
+
+42600101 - Cam_kết giao_dịch hoán_đổi
+
+42600102 - Giá_trị giao_dịch hoán_đổi
+
+Tài_khoản 42600101 - Cam_kết giao_dịch hoán_đổi
+
+Tài_khoản này dùng để phản_ánh giá_trị các cam_kết trả ra hoặc nhận về ngoại_tệ khi đến hạn theo quy_định tại hợp_đồng hoán_đổi đã kí giữa Nhn và đối_tác .
+
+Tài_khoản 42600102 - Giá_trị giao_dịch hoán_đổi
+
+Tài_khoản này dùng để hạch_toán giá_trị đánh_giá theo đồng Việt_nam của các khoản trả ra và nhận về bằng ngoại_tệ của hợp_đồng hoán_đổi theo_dõi tại tài_khoản 42600101 - Cam_kết giao_dịch hoán_đổi .
+
+Tài_khoản 426002 - Thanh_toán đối_với giao_dịch hoán_đổi
+
+Tài_khoản này dùng để phản_ánh các khoản phải thu hay phải trả bằng tiền_tệ ( Ngoại_tệ , vàng , đồng Việt_nam ) trong thời_hạn thoả_thuận giữa Nhn và đối_tác theo cam_kết giao_dịch hoán_đổi đã kí giữa hai bên .
+
+Tài_khoản 426003 - Giao_dịch kì_hạn
+
+Tài_khoản này dùng để phản_ánh các cam_kết phải trả ra hoặc nhận về ngoại_tệ và giá_trị đánh_giá theo đồng Việt_nam của các hợp_đồng kì_hạn đã kí giữa Nhn và đối_tác .
+
+Tài_khoản 426003 có các tài_khoản cấp Iii sau :
+
+42600501 - Cam_kết giao_dịch kì_hạn
+
+42600502 - Giá_trị giao_dịch kì_hạn
+
+Nội_dung hạch_toán tài_khoản 42600301 , 42600302 giống nội_dung hạch_toán tài_khoản 42600101 , 42600102 .
+
+Tài_khoản 426004 - Thanh_toán đối_với giao_dịch kì_hạn
+
+Tài_khoản này dùng để phản_ánh các khoản phải thu hay phải trả bằng tiền_tệ ( Ngoại_tệ , vàng , đồng Việt_nam ) trong thời_hạn thoả_thuận giữa Nhn và đối_tác theo cam_kết giao_dịch kì_hạn đã kí giữa hai bên .
+
+Nội_dung hạch_toán tài_khoản 426004 giống nội_dung hạch_toán tài_khoản 426002 .
+
+Tài_khoản 426005 - Giao_dịch tương_lai
+
+Tài_khoản này dùng để phản_ánh các cam_kết phải trả ra hoặc nhận về ngoại_tệ và giá_trị đánh_giá theo đồng Việt_nam của các hợp_đồng tương_lai đã kí giữa Nhn và đối_tác .
+
+Tài_khoản 426005 có các tài_khoản cấp Iii sau :
+
+42600501 - Cam_kết giao_dịch tương_lai
+
+42600502 - Giá_trị giao_dịch tương_lai
+
+Nội_dung hạch_toán tài_khoản 42600501 , 42600502 giống nội_dung hạch_toán tài_khoản 42600101 , 42600102 .
+
+Tài_khoản 426006 - Thanh_toán đối_với giao_dịch tương_lai
+
+Tài_khoản này dùng để phản_ánh các khoản phải thu hay phải trả bằng tiền_tệ ( Ngoại_tệ , vàng , đồng Việt_nam ) trong thời_hạn thoả_thuận giữa Nhn và đối_tác theo cam_kết giao_dịch tương_lai đã kí giữa hai bên .
+
+Nội_dung hạch_toán tài_khoản 426006 giống nội_dung hạch_toán tài_khoản 426002 .
+
+Tài_khoản 426007 - Giao_dịch quyền chọn
+
+Tài_khoản này dùng để phản_ánh các cam_kết phải trả ra hoặc nhận về ngoại_tệ và giá_trị đánh_giá theo đồng Việt_nam của các hợp_đồng quyền chọn đã kí giữa Nhn và đối_tác .
+
+Tài_khoản 426007 có các tài_khoản cấp Iii sau :
+
+42600701 - Cam_kết giao_dịch quyền chọn
+
+42600702 - Giá_trị giao_dịch quyền chọn
+
+Nội_dung hạch_toán tài_khoản 42600701 , 42600702 giống nội_dung hạch_toán tài_khoản 42600101 , 42600102 ,
+
+Tài_khoản 426008 - Thanh_toán đối_với giao_dịch quyền chọn
+
+Tài_khoản này dùng để phản_ánh các khoản phải thu hay phải trả bằng tiền_tệ ( Ngoại_tệ , vàng , đồng Việt_nam ) trong thời_hạn thoả_thuận giữa Nhn và đối_tác theo cam_kết giao_dịch quyền chọn đã kí giữa hai bên .
+
+Nội_dung hạch_toán tài_khoản 426008 giống nội_dung hạch_toán tài_khoản 426002 .
+
+Tài_khoản 426998 - Giao_dịch phái_sinh khác
+
+Tài_khoản này dùng để phản_ánh các cam_kết phải trả ra hoặc nhận về ngoại_tệ và giá_trị đánh_giá theo đồng Việt_nam của các hợp_đồng phái_sinh khác đã kí giữa Nhn và đối_tác .
+
+Tài_khoản 426998 có các tài_khoản cấp Iii sau :
+
+42699801 - Cam_kết giao_dịch phái_sinh khác
+
+42699802 - Giá_trị giao_dịch phái_sinh khác
+
+Nội_dung hạch_toán tài_khoản 42699801 , 42699802 giống nội_dung hạch_toán tài_khoản 42600101 , 42600102 .
+
+Tài_khoản 426999 - Thanh_toán đối_với giao_dịch phái_sinh khác
+
+Tài_khoản này dùng để phản_ánh các khoản phải thu hay phải trả bằng tiền_tệ ( Ngoại_tệ , vàng , đồng Việt_nam ) trong thời_hạn thoả_thuận giữa Nhn và đối_tác theo cam_kết giao_dịch phái_sinh khác đã kí giữa hai bên .
+
+Nội_dung hạch_toán tài_khoản 426999 giống nội_dung hạch_toán tài_khoản 426002 .
+
+Tài_khoản 427 - Khoản dự_phòng rủi_ro
+
+Tài_khoản này dùng để phản_ánh số tiền dự_phòng bù_đắp rủi_ro trong hoạt_động của Nhn được trích_lập từ chi_phí theo chế_độ tài_chính của Nhn quy_định .
+
+Tài_khoản 428 - Nguồn kinh_phí sự_nghiệp và chương_trình , dự_án .
+
+Tài_khoản này dùng để phản_ánh các khoản phải trả về hoạt_động sự_nghiệp và chương_trình , dự_án tại Nhn .
+
+Tài_khoản 428 có các tài_khoản cấp Ii sau :
+
+428001 - Nguồn kinh_phí sự_nghiệp
+
+428002 - Nguồn kinh_phí chương_trình , dự_án
+
+428003 - Nguồn kinh_phí đã hình_thành_tài_sản cố_định
+
+428004 - Thu chưa qua Ngân_sách
+
+Tài_khoản 428001 - Nguồn kinh_phí sự_nghiệp
+
+Tài_khoản này dùng để phản_ánh tình_hình tiếp_nhận , sử_dụng và quyết_toán nguồn kinh_phí hoạt_động của các đơn_vị Nhn .
+
+Tài_khoản 428001 có các tài_khoản cấp Iii sau :
+
+42800101 - Năm trước
+
+42800102 - Năm nay
+
+42800103 - Năm sau
+
+Tài_khoản 428002 - Nguồn kinh_phí chương_trình , dự_án
+
+Tài_khoản này dùng để phản_ánh việc tiếp_nhận , sử_dụng và quyết_toán nguồn kinh_phí chương_trình , dự_án do Ngân_sách Nhà_nước cấp hoặc do các nhà tài_trợ nước_ngoài đảm_bảo theo nội_dung ghi trong cam_kết giữa Nhn với nhà tài_trợ nước_ngoài . Kế_toán theo_dõi chi_tiết cho nguồn kinh_phí thuộc năm trước và nguồn kinh_phí năm nay , trong trường_hợp chương_trình , dự_án được thực_hiện trong nhiều năm và trong thời_gian xét_duyệt báo_cáo quyết_toán .
+
+Tài_khoản này có có các tài_khoản cấp Iii sau :
+
+42800201 - Nguồn kinh_phí Ngân_sách Nhà_nước cấp
+
+42800202 - Nguồn kinh_phí viện_trợ không hoàn lại
+
+42800299 - Nguồn kinh_phí khác
+
+Tài_khoản 428003 - Nguồn kinh_phí đã hình_thành_tài_sản cố_định
+
+Tài_khoản này dùng để phản_ánh số hiện có và tình_hình biến_động nguồn kinh_phí đã hình_thành_tài_sản cố_định của dự_án , đơn_vị sự_nghiệp bao_gồm nguồn kinh_phí đã hình_thành_tài_sản cố_định hữu_hình và nguồn kinh_phí đã hình_thành_tài_sản cố_định vô_hình . Kế_toán theo_dõi chi_tiết cho từng loại hoạt_động sự_nghiệp , từng chương_trình , dự_án .
+
+Tài_khoản 428004 - Thu chưa qua Ngân_sách
+
+Tài_khoản này dùng để phản_ánh các khoản tiền , hàng viện_trợ không hoàn lại đã tiếp_nhận phải nộp Ngân_sách Nhà_nước được để lại chi nhưng chưa có chứng_từ ghi thu , ghi chi Ngân_sách Nhà_nước . Kế_toán theo_dõi chi_tiết cho từng chương_trình , dự_án .
+
+Loại 5 : Vốn , quỹ và kết_quả hoạt_động của Ngân_hàng Nhà_nước
+
+Loại tài_khoản này dùng để phản_ánh nguồn vốn , các quỹ và kết_quả hoại động của Nhn .
+
+Tài_khoản 501 - Vốn của Ngân_hàng Nhà_nước
+
+Tài_khoản này dùng để phản_ánh vốn của Nhn bao_gồm vốn được cấp , vốn đầu_tư xây_dựng cơ_bản và mua_sắm tài_sản cố_định , vốn do đánh_giá lại tài_sản và vốn khác .
+
+Tài_khoản 501 có các tài_khoản cấp Ii sau :
+
+501001 - Vốn được cấp
+
+501002 - Vốn đầu_tư xây_dựng cơ_bản và mua_sắm tài_sản cố_định
+
+501003 - Vốn do đánh_giá lại tài_sản
+
+501999 - Vốn khác
+
+Tài_khoản 501001 - Vốn được cấp
+
+Tài_khoản này dùng để phản_ánh số vốn của Nhn được cấp .
+
+Tài_khoản 501002 - Vốn đầu_tư xây_dựng cơ_bản và mua_sắm tài_sản cố_định
+
+Tài_khoản này dùng để phản_ánh nguồn vốn để xây_dựng cơ_bản , mua_sắm tài_sản cố_định của Nhn .
+
+Tài_khoản 501003 - Vốn do đánh_giá lại tài_sản
+
+Tài_khoản này dùng để phản_ánh số vốn của Nhn được hình_thành do đánh_giá lại giá vàng , ngoại_tệ , chứng_khoán và tài_sản khác theo chế_độ quy_định .
+
+Tài_khoản 501003 có các tài_khoản cấp Iii sau :
+
+50100301 - Đánh_giá lại ngoại_tệ
+
+50100302 - Đánh_giá lại giá vàng
+
+50100303 - Đánh_giá lại chứng_khoán
+
+50100399 - Đánh_giá lại các loại tài_sản khác
+
+Tài_khoản 501999 - Vốn khác
+
+Tài_khoản này dùng để phản_ánh các vốn khác của Nhn được hình_thành trong quá_trình hoạt_động theo chế_độ tài_chính quy_định .
+
+Nội_dung hạch_toán tài_khoản 501999 giống nội_dung hạch_toán tài_khoản 501001 .
+
+Tài_khoản 502 - Quy của Ngân_hàng Nhà_nước
+
+Tài_khoản này dùng để phản_ánh các quỹ của Nhn bao_gồm Quỹ thực_hiện chính_sách tiền_tệ Quốc_gia , Quỹ dự_phòng tài_chính , Quỹ dự_phòng ổn_định thu_nhập , Quỹ khác theo chế_độ tài_chính quy_định .
+
+Tài_khoản 502 có các tài_khoản cấp Ii sau :
+
+502001 - Quỹ thực_hiện chính_sách tiền_tệ Quốc_gia
+
+502002 - Quỹ dự_phòng tài_chính
+
+502003 - Quỹ dự_phòng ổn_định thu_nhập
+
+502999 - Quỹ khác
+
+Tài_khoản 503 - Chênh_lệch tỉ_giá hối_đoái
+
+Tài_khoản này dùng để phản_ánh số chênh_lệch tỉ_giá hối_đoái do đánh_giá lại các khoản mục tiền_tệ có gốc ngoại_tệ , vàng và công_cụ tài_chính phái_sinh .
+
+Tài_khoản 503 có các tài_khoản cấp Ii sau :
+
+503001 - Chênh_lệch tỉ_giá hối_đoái
+
+503002 - Chênh_lệch đánh_giá lại giá vàng
+
+503003 - Chênh_lệch đánh_giá lại các công_cụ tài_chính phái_sinh
+
+Tài_khoản 503001 - Chênh_lệch tỉ_giá hối_đoái
+
+Tài_khoản này dùng để phản_ánh số chênh_lệch tỉ_giá hối_đoái do đánh_giá lại các khoản mục tiền_lệ có gốc ngoại_tệ .
+
+Tài_khoản 503001 có các tài_khoản cấp Iii sau :
+
+50300101 - Chênh_lệch tỉ_giá do đánh_giá lại ngoại_tệ thuộc Quỹ dự_trữ ngoại_hối
+
+50300102 - Chênh_lệch tỉ_giá do đánh_giá lại ngoại_tệ thuộc Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng
+
+50300103 - Chênh_lệch tỉ_giá do đánh_giá lại số_dư các tài_khoản tiền_tệ có gốc ngoại_tệ
+
+Tài_khoản 50300101 - Chênh_lệch tỉ_giá do đánh_giá lại ngoại_tệ thuộc Quỹ dự_trữ ngoại_hối
+
+Tài_khoản này dùng để phản_ánh số chênh_lệch tỉ_giá hối_đoái do đánh_giá lại giá_trị đồng Việt_nam của số_dư ngoại_tệ thuộc Quỹ dự_trữ ngoại_hối . Cuối năm tài_chính , số_dư tài_khoản này được xử_lí theo quy_định hiện_hành .
+
+Tài_khoản 50300102 - Chênh_lệch tỉ_giá do đánh_giá lại ngoại_tệ thuộc Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng
+
+Tài_khoản này dùng để phản_ánh số chênh_lệch tỉ_giá hối_đoái do đánh_giá lại giá_trị đồng Việt_nam của số_dư ngoại_tệ thuộc Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng . Cuối năm tài_chính , số_dư tài_khoản này được xử_lí theo quy_định hiện_hành .
+
+Nội_dung hạch_toán tài_khoản 50300102 giống nội_dung hạch_toán tài_khoản 50300101 .
+
+Tài_khoản 50300103 - Chênh_lệch tỉ_giá do đánh_giá lại giá_trị các khoản mục tiền_tệ có gốc ngoại_tệ
+
+Tài_khoản này dùng để phản_ánh số chênh_lệch tỉ_giá hối_đoái do đánh_giá lại giá_trị đồng Việt_nam của tất_cả số_dư các khoản mục tiền_tệ có gốc ngoại_tệ của Nhn .
+
+Sau khi đánh_giá lại giá_trị đồng Việt_nam số_dư tất_cả các tài_khoản ngoại_tệ , tài_khoản này thông_thường không có số_dư vì số điều_chỉnh tăng do đánh_giá lại bằng số điều_chỉnh giảm do đánh_giá lại , ngoại_trừ trường_hợp đặc_biệt , Nhn có các khoản mục phi tiền_tệ được luỹ kế trên Bảng cân_đối kế_toán .
+
+Ghi_chú : Cuối năm , số_dư các tài_khoản 50300103 được xử_lí theo quy_định của Chuẩn_mực kế_toán Việt_nam số 10 Ảnh_hưởng của những thay_đổi về tỉ_giá .
+
+Tài_khoản 503002 - Chênh_lệch đánh_giá lại giá vàng
+
+Tài_khoản này dùng để phản_ánh số chênh_lệch do thay_đổi giá vàng khi đánh_giá lại giá_trị bằng đồng Việt_nam của vàng . Cuối năm tài_chính , số_dư tài_khoản này được xử_lí theo quy_định hiện_hành .
+
+Tài_khoản 503002 có các tài_khoản cấp Iii sau :
+
+50300201 - Chênh_lệch đánh_giá lại giá vàng thuộc Quỹ dự_trữ ngoại_hối
+
+50300202 - Chênh_lệch đánh_giá lại giá vàng thuộc Quỹ bình_ổn tỉ_giá và quản_lí thị_trường vàng
+
+50300203 - Chênh_lệch đánh_giá lại giá vàng của các khoản mục vàng khác
+
+Nội_dung hạch_toán tài_khoản 50300201 , 50300202 , 50300203 giống nội_dung hạch_toán tài_khoản 50300101 , 50300102 , 50300103 .
+
+Tài_khoản 503003 - Chênh_lệch do đánh_giá lại các công_cụ tài_chính phái_sinh
+
+Tài_khoản này dùng để phản_ánh số chênh_lệch giá_trị đồng Việt_nam do thay_đổi tỉ_giá ngoại_tệ , giá vàng hoặc giá_cả khác khi đánh_giá lại giá_trị công_cụ tài_chính phái_sinh của Nhn . Cuối năm tài_chính , số_dư tài_khoản này được xử_lí theo quy_định hiện_hành .
+
+Tài_khoản 503003 có các tài_khoản cấp Iii sau :
+
+50300301 - Chênh_lệch tỉ_giá do đánh_giá lại của giao_dịch hoán_đổi tiền_tệ
+
+50300302 - Chênh_lệch tỉ_giá do đánh_giá lại của giao_dịch kì_hạn tiền_tệ
+
+50300304 - Chênh_lệch tỉ_giá do đánh_giá lại của giao_dịch tương_lai tiền_tệ
+
+50300304 - Chênh_lệch tỉ_giá do đánh_giá lại của giao_dịch quyền chọn tiền_tệ
+
+50300399 - Chênh_lệch tỉ_giá do đánh_giá của các công_cụ tài_chính phái_sinh khác
+
+Nội_dung hạch_toán tài_khoản 50300301 , 50300302 , 50300303 , 50300304 , 50300399 như sau :
+
+Tài_khoản 599 - Chênh_lệch thu , chi
+
+Tài_khoản 599001 - Chênh_lệch thu , chi năm nay
+
+Tài_khoản này dùng để phản_ánh số chênh_lệch giữa thu và chi của Nhn .
+
+Đầu năm sau , số_dư cuối năm của tài_khoản 599001 được chuyển thành số_dư đầu năm mới của tài_khoản 599002 - Chênh_lệch thu , chi năm trước ( không phải lập phiếu ) .
+
+Tài_khoản 599002 - Chênh_lệch thu , chi năm trước .
+
+Tài_khoản này dùng để phản_ánh số chênh_lệch thu , chi năm trước của Nhn và việc thanh_toán số chênh_lệch thu , chi đó .
+
+Sau khi báo_cáo thu_nhập , chi_phí năm được duyệt , các đơn_vị tất toán số_dư Tài_khoản 599002 để chuyển về Nhn ( Vụ Tài_chính - Kế_toán ) .
+
+Loại 6 : Tài_khoản trung_gian
+
+Loại tài_khoản này phản_ánh các hoạt_động thanh_toán giữa Nhn với các Tctd , giữa các đơn_vị Nhn .
+
+Tài_khoản 601 - Thanh_toán bù_trừ giữa các ngân_hàng
+
+Tài_khoản này phản_ánh tình_hình thanh_toán giữa Nhn với các Tctd . Tài_khoản 601 có các tài_khoản cấp Ii sau :
+
+601001 - Thanh_toán bù_trừ của ngân_hàng chủ_trì
+
+601002 - Thanh_toán bù_trừ của ngân_hàng thành_viên
+
+Tài_khoản 601001 - Thanh_toán bù_trừ của ngân_hàng chủ_trì
+
+Tài_khoản này mở tại Nhn chủ_trì thanh_toán bù_trừ dùng để phản_ánh kết_quả thanh_toán bù_trừ của ngân_hàng chủ_trì đối_với các ngân_hàng thành_viên tham_gia thanh_toán bù_trừ .
+
+Tài_khoản này sau khi thanh_toán bù_trừ với ngân_hàng thành_viên phải hết số_dư .
+
+Tài_khoản 601002 - Thanh_toán bù_trừ của ngân_hàng thành_viên
+
+Tài_khoản này mở tại các ngân_hàng thành_viên tham_gia thanh_toán bù_trừ dùng để phản_ánh toàn_bộ các khoản phải thanh_toán bù_trừ với các ngân_hàng khác .
+
+Tài_khoản này sau khi thanh_toán bù_trừ với ngân_hàng chủ_trì phải hết số_dư .
+
+Tài_khoản 602 - Thanh_toán giữa các đơn_vị Ngân_hàng Nhà_nước
+
+Tài_khoản này phản_ánh tình_hình thanh_toán giữa các đơn_vị Nhn .
+
+Tài_khoản 602 có các tài_khoản cấp Ii sau :
+
+602001 - Nguồn hình_thành_tài_sản cố_định
+
+602002 - Tạm_ứng kinh_phí hoạt_động
+
+602003 - Tạm_ứng , nhận tạm_ứng vốn
+
+602004 - Thanh_toán liên_chi_nhánh
+
+602999 - Thanh_toán khác giữa các đơn_vị Ngân_hàng Nhà_nước
+
+Tài_khoản 602001 - Nguồn hình_thành_tài_sản cố_định
+
+Tài_khoản này phản_ánh giá_trị còn lại của tài_sản cố_định_hình_thành từ nguồn Nhn tại đơn_vị sự_nghiệp , đơn_vị khác thuộc Nhn phải theo_dõi nguồn hình_thành_tài_sản cố_định theo quy_định .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Tài_khoản này được mở tại Nhn Việt_nam để theo_dõi nguồn hình_thành_tài_sản cố_định đã cấp cho đơn_vị sự_nghiệp , đơn_vị khác thuộc Nhn ( luôn có số dư Nợ ) .
+
+2 . Tài_khoản này được mở tại đơn_vị sự_nghiệp , đơn_vị khác thuộc Nhn để phản_ánh nguồn hình_thành_tài_sản cố_định được cấp ( luôn có số_dư Có ) .
+
+3 . Khi lên Bảng cân_đối tài_khoản kế_toán Nhn , tài_khoản này có số dư Nợ bằng số_dư Có .
+
+Tài_khoản 602002 - Tạm_ứng kinh_phí hoạt_động
+
+Tài_khoản này phản_ánh số kinh_phí do Nhn cấp cho hoạt_động của các đơn_vị sự_nghiệp , đơn_vị khác thuộc Nhn phải theo_dõi tạm_ứng kinh_phí hoạt_động theo quy_định .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Tài_khoản này được mở tại Nhn Việt_nam để theo_dõi nguồn kinh_phí hoạt_động đã tạm_ứng cho đơn_vị sự_nghiệp , đơn_vị khác thuộc Nhn ( luôn có số dư Nợ ) .
+
+2 . Tài_khoản này được mở tại đơn_vị sự_nghiệp , đơn_vị khác thuộc Nhn để phản_ánh nguồn kinh_phí hoạt_động đã nhận tạm_ứng ( luôn có số_dư Có ) .
+
+3 . Khi lên Bảng cân_đối tài_khoản kế_toán Nhn , tài_khoản này có số dư Nợ bằng số_dư Có .
+
+Tài_khoản 602003 - Tạm_ứng , nhận tạm_ứng vốn
+
+Tài_khoản này dùng để phản_ánh các khoản tạm_ứng , nhận tạm_ứng giữa Nhn và đơn_vị Nhn cấp phục_vụ cho mua_sắm tài_sản cố_định và xây_dựng cơ_bản .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Tài_khoản này được mở tại Nhn Việt_nam để theo_dõi số vốn Nhn đã tạm_ứng cho hoạt_động mua_sắm tài_sản cố_định và xây_dựng cơ_bản ( luôn có số dư Nợ ) .
+
+2 . Tài_khoản này được mở tại đơn_vị Nhn để phản_ánh số vốn nhận tạm_ứng cho hoạt_động mua_sắm tài_sản cố_định và xây_dựng cơ_bản ( luôn có số_dư Có ) .
+
+3 . Khi lên Bảng cân_đối tài_khoản kế_toán Nhn , tài_khoản này có số dư Nợ bằng số_dư Có .
+
+Tài_khoản 602003 có các tài_khoản cấp Iii sau :
+
+60200301 - Tạm_ứng , nhận tạm_ứng vốn mua_sắm tài_sản cố_định
+
+60200302 - Tạm_ứng , nhận tạm_ứng vốn xây_dựng cơ_bản
+
+Tài_khoản 60200301 - Tạm_ứng , nhận tạm_ứng vốn mua_sắm tài_sản cố_định
+
+Tài_khoản này đùng để phản_ánh các khoản tạm_ứng , nhận tạm_ứng giữa Nhn và đơn_vị Nhn trong quá_trình mua_sắm tài_sản cố_định tại Nhn .
+
+Tài_khoản 60200302 - Tạm_ứng , nhận tạm_ứng vốn xây_dựng cơ_bản
+
+Tài_khoản này dùng để phản_ánh các khoản Nhn tạm_ứng và đơn_vị nhận tạm_ứng vốn xây_dựng cơ_bản .
+
+Tài_khoản 602004 - Thanh_toán liên_chi_nhánh
+
+Tài_khoản này dùng để phản_ánh các khoản phát_sinh về giao_dịch thanh_toán liên ngân_hàng giữa các đơn_vị trong hệ_thống Nhn phát_sinh trong quá_trình giao_dịch . Khi lên Bảng cân_đối tài_khoản kế_toán Nhn , tài_khoản này có số dư Nợ bằng số_dư Có .
+
+Tài_khoản 602999 - Thanh_toán khác giữa các đơn_vị Ngân_hàng Nhà_nước
+
+Tài_khoản này dùng để phản_ánh các khoản thanh_toán khác giữa các đơn_vị Nhn phát_sinh trong quá_trình giao_dịch ngoài các khoản thanh_toán đã được phản_ánh vào tài_khoản thích_hợp .
+
+Nội_dung hạch_toán tài_khoản 602999 giống nội_dung hạch_toán tài_khoản 602004 .
+
+Tài_khoản 603 - Thanh_toán cho tổ_chức tín_dụng có mô_hình thanh_toán tập_trung
+
+Tài_khoản này được mở tại các Nhn chi_nhánh tỉnh_thành_phố để phản_ánh các khoản phải thu , phải trả cho các chi_nhánh thuộc Tctd có mô_hình thanh_toán tập_trung theo quy_định của Nhn .
+
+Tài_khoản này sau khi chuyển chênh_lệch về tài_khoản tiền gửi của Tctd tại Sở Giao_dịch cuối ngày phải hết số_dư .
+
+Loại 7 : Thu_nhập
+
+Loại tài_khoản này phản_ánh các khoản thu_nhập của Nhn , bao_gồm : Thu về nghiệp_vụ tiền gửi , tiền vay , nghiệp_vụ chiết_khấu các giấy_tờ có_giá , đầu_tư chứng_khoán nước_ngoài , góp vốn , hoạt_động ngoại_hối , dịch_vụ thanh_toán , thông_tin và ngân quỹ . . . các khoản thu khác trong hoạt_động ngân_hàng .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Loại tài_khoản này phản_ánh tất_cả các khoản thu_nhập của Nhn . Cuối năm tài_chính , số_dư các tài_khoản này được kết chuyển toàn_bộ sang tài_khoản 599001 - Chênh_lệch thu , chi năm và không còn số_dư .
+
+2 . Nguyên_tắc ghi_nhận thu_nhập của Nhn được thực_hiện theo Chế_độ tài_chính của Nhn .
+
+3 . Đối_với các khoản thu_nhập từ các hoạt_động mua_bán chứng_khoán , vàng , ngoại_tệ . . . chỉ hạch_toán phần chênh_lệch giữa giá mua và bán ( không phản_ánh tổng_số tiền thu được từ việc bán chứng_khoán , vàng , ngoại_tệ . . . ) , số lãi thu được . . .
+
+4 . Đối_với khoản tiền lãi nhận được từ khoản đầu_tư chứng_khoán thì chỉ có phần tiền lãi của các kì mà Nhn mua lại khoản đầu_tư này mới được ghi_nhận là thu_nhập phát_sinh trong kỳ , còn khoản lãi đầu_tư nhận được từ các khoản lãi đầu_tư dồn tích trước khi Nhn mua lại khoản đầu_tư đó thì ghi giảm_giá_trị khoản đầu_tư trái_phiếu , cổ_phiếu đó ( không ghi thu_nhập ) .
+
+Tài_khoản loại 7 có các tài_khoản cấp I sau :
+
+701 - Thu về nghiệp_vụ cho vay tổ_chức tín_dụng trong nước
+
+702 - Thu về nghiệp_vụ tiền gửi , tiền vay trên thị_trường quốc_tế
+
+703 - Thu về nghiệp_vụ mua_bán giấy_tờ có_giá
+
+704 - Thu về nghiệp_vụ đầu_tư chứng_khoán
+
+705 - Thu về nghiệp_vụ góp vốn , uỷ_thác
+
+706 - Thu về hoạt_động ngoại_hối
+
+707 - Thu về các công_cụ tài_chính phái_sinh
+
+708 - Thu về dịch_vụ ngân_hàng
+
+709 - Thu về hoạt_động của các đơn_vị sự_nghiệp
+
+715 - Thoái chi lãi phải trả không đúng niên độ
+
+799 - Các khoản thu khác
+
+Nội_dung hạch_toán các tài_khoản thu_nhập như sau :
+
+Chuyển số_dư Có vào tài_khoản 599001 - Chênh_lệch thu , chi năm nay khi quyết_toán cuối năm và không có số_dư .
+
+Tài_khoản 701 - Thu về nghiệp_vụ cho vay tổ_chức tín_dụng trong nước
+
+Tài_khoản này dùng để phản_ánh các khoản thu của Nhn về nghiệp_vụ cho vay đối_với các Tctd trong nước .
+
+Tài_khoản 701 có các tài_khoản cấp Ii sau :
+
+Tài_khoản 701002 - Thu_lãi cho vay
+
+Tài_khoản này dùng để phản_ánh các khoản thu lãi cho vay đối_với các Tctd tại thị_trường trong nước .
+
+Tài_khoản 701999 - Thu khác
+
+Tài_khoản này dùng để phản_ánh các khoản thu khác của Nhn ngoài khoản thu lãi cho vay trong nước .
+
+Tài_khoản 702 - Thu về nghiệp_vụ tiền gửi , tiền vay trên thị_trường quốc_tế
+
+Tài_khoản này dùng để phản_ánh các khoản thu của Nhn về nghiệp_vụ tiền gửi , tiền vay với đối_tác nước_ngoài trên thị_trường quốc_tế .
+
+Tài_khoản 702 có các tài_khoản cấp Ii sau :
+
+Tài_khoản 702001 - Thu lãi tiền gửi
+
+Tài_khoản này dùng để phản_ánh các khoản thu lãi tiền gửi của Nhn trên thị_trường quốc_tế .
+
+Tài_khoản 702002 - Thu_lãi cho vay
+
+Tài_khoản này dùng để phản_ánh các khoản thu lãi cho vay trên thị_trường quốc_tế .
+
+Tài_khoản 702999 - Thu khác
+
+Tài_khoản này dùng để phản_ánh các khoản thu khác của Nhn ngoài khoản thu lãi cho vay từ nghiệp_vụ tiền gửi , tiền vay trên thị_trường quốc_tế .
+
+Tài_khoản 703 - Thu về nghiệp_vụ mua_bán giấy_tờ có_giá
+
+Tài_khoản này dùng để phản_ánh các khoản thu của Nhn về nghiệp_vụ thị_trường mở đối_với các Tctd và mua trực_tiếp chứng_khoán Chính_phủ .
+
+Tài_khoản 703 có tài_khoản cấp Ii sau :
+
+Tài_khoản 703001 - Thu lãi giấy_tờ có_giá
+
+Tài_khoản này dùng để phản_ánh số tiền lãi của các kì mà Nhn được hưởng trong thời_gian nắm giữ giấy_tờ có_giá và được ghi_nhận là thu_nhập phát_sinh trong kỳ .
+
+Tài_khoản 703002 - Thu về mua_bán giấy_tờ có_giá
+
+Tài_khoản này dùng để phản_ánh số chênh_lệch giữa giá bán lớn hơn giá mua giấy_tờ có_giá .
+
+Tài_khoản 703999 - Thu khác
+
+Tài_khoản này dùng để phản_ánh các khoản thu của Nhn ngoài các khoản thu nói trên về nghiệp_vụ thị_trường mở .
+
+Tài_khoản 704 - Thu về nghiệp_vụ đầu_tư chứng_khoán
+
+Tài_khoản này dùng để phản_ánh các khoản thu của Nhn về nghiệp_vụ đầu_tư chứng_khoán .
+
+Tài_khoản 704 có tài_khoản cấp Ii sau :
+
+Tài_khoản 704001 - Thu_lãi từ đầu_tư chứng_khoán
+
+Tài_khoản này dùng để phản_ánh số tiền lãi của các kì mà Nhn được hưởng trong thời_gian nắm giữ chứng_khoán đang đầu_tư và được ghi_nhận là thu_nhập phát_sinh trong kỳ .
+
+Tài_khoản 704002 - Thu về mua_bán chứng_khoán
+
+Tài_khoản này dùng để phản_ánh số chênh_lệch giữa giá bán lớn hơn giá_trị ghi sổ của chứng_khoán đầu_tư .
+
+Tài_khoản 704999 - Thu khác
+
+Tài_khoản này dùng để phản_ánh các khoản thu của Nhn ngoài các khoản thu nói trên về nghiệp_vụ đầu_tư chứng_khoán .
+
+Tài_khoản 705 - Thu về nghiệp_vụ góp vốn , uỷ_thác
+
+Tài_khoản này dùng để phản_ánh các khoản thu của Nhn về nghiệp_vụ góp vốn của Nhn vào các tổ_chức quốc_tế và doanh_nghiệp đặc_thù theo quy_định hiện_hành .
+
+Tài_khoản 705 có tài_khoản cấp Ii sau :
+
+Tài_khoản 705001 - Thu từ góp vốn vào các tổ_chức quốc_tế
+
+Tài_khoản này dùng để phản_ánh số tiền thu được từ việc góp vốn vào các tổ_chức quốc_tế .
+
+Tài_khoản 705002 - Thu từ góp vốn vào doanh_nghiệp
+
+Tài_khoản này dùng để phản_ánh số tiền thu được từ góp vốn vào các doanh_nghiệp đặc_thù .
+
+Tài_khoản 705003 - Thu từ thanh_lí khoản vốn góp
+
+Tài_khoản này dùng để phản_ánh các khoản thu từ thanh_lí các khoản vốn góp của Nhn .
+
+Tài_khoản 705004 - Thu_lãi từ hoạt_động uỷ_thác
+
+Tài_khoản này dùng để phản_ánh các khoản lãi nhận được từ hoạt_động uỷ_thác của Nhn .
+
+Tài_khoản 705005 - Thu_thanh_lí hoạt_động uỷ_thác
+
+Tài_khoản này dùng để phản_ánh các khoản thu từ thanh_lí các khoản uỷ_thác của Nhn .
+
+Tài_khoản 705999 - Thu khác
+
+Tài_khoản này dùng để phản_ánh các khoản thu của Nhn ngoài các khoản thu nói trên về nghiệp_vụ góp vốn .
+
+Tài_khoản 706 - Thu về hoạt_động ngoại_hối
+
+Tài_khoản này dùng để phản_ánh các khoản thu của Nhn về hoạt_động ngoại_hối như mua_bán vàng và ngoại_tệ .
+
+Tài_khoản 706 có tài_khoản cấp Ii sau :
+
+Tài_khoản 706001 - Thu về mua_bán vàng : gồm các khoản thu về hoạt_động_kinh_doanh vàng như lãi về mua_bán vàng . . .
+
+Tài_khoản 706002 - Thu về mua_bán ngoại_tệ : gồm các khoản thu về hoạt_động_kinh_doanh ngoại_tệ như lãi về mua_bán ngoại_tệ . . .
+
+Tài_khoản 706999 - Thu khác về giao_dịch ngoại_hối : gồm các khoản thu của Nhn về hoạt_động ngoại_hối ngoài các khoản thu nói trên .
+
+Tài_khoản 706999 có các tài_khoản cấp Iii sau :
+
+70699901 - Thu khác về vàng
+
+70699902 - Thu khác về ngoại_tệ
+
+Tài_khoản 707 - Thu về các công_cụ tài_chính phái_sinh
+
+Tài_khoản này dùng để phản_ánh các khoản thu của Nhn về nghiệp_vụ phái_sinh .
+
+Tài_khoản 707 có tài_khoản cấp Ii sau :
+
+Tài_khoản 707001 - Thu_nhập từ các công_cụ tài_chính phái_sinh_tiền_tệ
+
+Tài_khoản này dùng để phản_ánh các khoản thu_nhập từ công_cụ tài_chính phái_sinh_tiền_tệ .
+
+Tài_khoản 707999 - Thu_nhập từ các công_cụ tài_chính phái_sinh khác
+
+Tài_khoản này dùng để phản_ánh các khoản thu từ công_cụ tài_chính phái_sinh khác ngoài công_cụ tài_chính phái_sinh_tiền_tệ như công_cụ phái_sinh chứng_khoán , lãi_suất . . . khi cơ_chế nghiệp_vụ cho phép .
+
+Tài_khoản 708 - Thu về dịch_vụ ngân_hàng
+
+Tài_khoản này dùng để phản_ánh các khoản thu của Nhn về dịch_vụ ngân_hàng ( dịch_vụ thanh_toán , dịch_vụ ngân quỹ . . . ) .
+
+Tài_khoản 708 có các tài_khoản cấp Ii sau :
+
+Tài_khoản 708001 - Thu dịch_vụ thanh_toán
+
+Tài_khoản này dùng để phản_ánh các khoản thu phí dịch_vụ thanh_toán của Nhn đối_với khách_hàng .
+
+Tài_khoản 708002 - Thu dịch_vụ ngân quỹ
+
+Tài_khoản này dùng để phản_ánh các khoản thu làm dịch_vụ ngân quỹ của Nhn đối_với khách_hàng .
+
+Tài_khoản 708999 - Thu dịch_vụ khác
+
+Tài_khoản này dùng để phản_ánh các khoản thu dịch_vụ khác của Nhn ngoài khoản thu về dịch_vụ thanh_toán và dịch_vụ ngân quỹ .
+
+Tài_khoản 708999 có các tài_khoản cấp Iii sau :
+
+Tài_khoản 70899901 - Thu về hoạt_động quản_lí các dự_án tín_dụng quốc_tế
+
+Tài_khoản này phản_ánh các khoản phí dịch_vụ Nhn được hưởng từ dịch_vụ cho vay lại các ngân_hàng thương_mại theo hoạt_động của dự_án tín_dụng quốc_tế .
+
+Tài_khoản 70899902 - Thu về đấu_thầu và thanh_toán chứng_khoán Chính_phủ
+
+Tài_khoản này phản_ánh các khoản phí dịch_vụ Nhn được hưởng từ nghiệp_vụ đấu_thầu và thanh_toán chứng_khoán Chính_phủ .
+
+Tài_khoản 70899999 - Thu khác từ dịch_vụ ngân_hàng
+
+Tài_khoản này dùng để phản_ánh các khoản thu của Nhn ngoài các khoản thu nói trên về dịch_vụ .
+
+Tài_khoản 709 - Thu về hoạt_động của các đơn_vị sự_nghiệp
+
+Các tài_khoản này dùng để phản_ánh số tiền thu từ cho thuê tài_sản , thanh_lí công_cụ , dụng_cụ và thu từ hoạt_động của các đơn_vị sự_nghiệp thuộc Nhn .
+
+Tài_khoản 715 - Thoái chi lãi phải trả không đúng niên độ
+
+Tài_khoản này dùng để phản_ánh các khoản chi lãi phải trả đã hạch_toán vào chi_phí nhưng đến kì_hạn không phải trả ( trong trường_hợp khác niên độ kế_toán ) .
+
+Tài_khoản 799 - Các khoản thu khác
+
+Tài_khoản này dùng để phản_ánh các khoản thu khác của Nhn ngoài các khoản thu đã được hạch_toán vào tài_khoản thích_hợp .
+
+Tài_khoản 799 có các tài_khoản cấp Ii sau :
+
+Tài_khoản 799001 - Thu từ tiêu_huỷ tiền : gồm các khoản thu từ việc tiêu_huỷ tiền .
+
+Tài_khoản 799002 - Thu về cấp giấy_phép hoạt_động : gồm các khoản thu theo chế_độ quy_định trong việc cấp giấy_phép hoạt_động ngân_hàng , kinh_doanh ngoại_hối . . .
+
+Tài_khoản 799003 - Thu về thanh_lí tài_sản : gồm các khoản thu từ thanh_lí tài_sản ( tài_sản cố_định , công_cụ , dụng_cụ , vật_liệu và các tài_sản khác ) .
+
+Tài_khoản 799003 có các tài_khoản cấp Iii sau :
+
+79900301 - Thu về thanh_lí tài_sản cố_định
+
+79900302 - Thu về thanh_lí tài_sản khác
+
+Tài_khoản 799004 - Thu từ hoàn_nhập dự_phòng rủi_ro
+
+Tài_khoản này dùng để phản_ánh số dự_phòng rủi_ro hoàn theo quy_định hiện_hành của Nhn .
+
+Tài_khoản 799999 - Thu khác
+
+Tài_khoản này dùng để phản_ánh các khoản thu của Nhn ngoài các khoản thu nói trên như thu tiền phạt , tiền thừa quỹ , thừa công_cụ , dụng_cụ , thu từ tiền bị phá_hoại . . .
+
+Loại 8 : Chi_phí
+
+Loại tài_khoản này phản_ánh các khoản chi_phí của Nhn và bao_gồm : Chi_phí hoạt_động nghiệp_vụ ngân_hàng , chi_phí quản_lí chung . . .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+1 . Loại tài_khoản này phản_ánh tất_cả các khoản chi_phí của Nhn . Cuối năm tài_chính , số_dư các tài_khoản này được kết chuyển toàn_bộ sang tài_khoản 599001 - Chênh_lệch thu , chi năm và không còn số_dư .
+
+2 . Nguyên_tắc ghi_nhận chi_phí của Nhn được thực_hiện theo Chế_độ tài_chính của Nhn .
+
+3 . Đối_với các khoản chi_phí từ các hoạt_động mua_bán chứng_khoán , vàng , ngoại_tệ . . . chỉ hạch_toán phần chênh_lệch giữa giá mua và bán ( không phản_ánh tổng_số tiền thu được từ việc bán chứng_khoán , vàng , ngoại_tệ . . . ) .
+
+Tài_khoản loại 8 có các tài_khoản cấp I sau :
+
+801 - Chi về nghiệp_vụ tiền gửi , tiền vay tổ_chức tín_dụng trong nước
+
+802 - Chi về nghiệp_vụ tiền gửi , tiền vay của ngân_hàng nước_ngoài , tổ_chức tiền_tệ , ngân_hàng quốc_tế
+
+803 - Chi về nghiệp_vụ mua_bán giấy_tờ có_giá
+
+804 - Chi về nghiệp_vụ đầu_tư chứng_khoán
+
+805 - Chi về nghiệp_vụ góp vốn , uỷ_thác
+
+806 - Chi về hoạt_động ngoại_hối
+
+807 - Chi về các công_cụ tài_chính phái_sinh
+
+808 - Chi_phí in , đúc , bảo_quản , bảo_vệ , vận_chuyển , giao_nhận , phát_hành , thu_hồi , thay_thế và tiêu_huỷ tiền
+
+809 - Chi cho các hoạt_động nghiệp_vụ khác
+
+810 - Chi cho cán_bộ , công_chức và nhân_viên
+
+811 - Chi về tài_sản
+
+812 - Chi cho hoạt_động quản_lí và công_vụ
+
+813 - Chi trích_lập khoản dự_phòng rủi_ro
+
+814 - Chi về hoạt_động của các đơn_vị sự_nghiệp
+
+815 - Thoái thu lãi phải thu không đúng niên độ
+
+899 - Các khoản chi khác
+
+Nội_dung hạch_toán các tài_khoản chi_phí như sau :
+
+Chuyển số dư Nợ vào tài_khoản 599001 - Chênh_lệch thu , chi năm nay khi quyết_toán cuối năm và không có số_dư .
+
+Tài_khoản 801 - Chi về nghiệp_vụ tiền gửi , tiền vay tổ_chức tín_dụng trong nước
+
+Tài_khoản này dùng để phản_ánh các khoản chi của Nhn về nghiệp_vụ tiền gửi , tiền vay Tctd trong nước ( trả lãi tiền gửi , trả lãi tín_phiếu . . . ) .
+
+Tài_khoản 801 có các tài_khoản cấp Ii sau :
+
+Tài_khoản 801001 - Chi_trả lãi tiền gửi : gồm các khoản trả lãi tiền gửi bằng đồng Việt_nam cho các Tctd trong nước và các tổ_chức quốc_tế và pháp_nhân trong nước .
+
+Tài_khoản 801002 - Chi_trả lãi tín_phiếu Ngân_hàng Nhà_nước phát_hành : gồm các khoản trả lãi tín_phiếu Nhn phát_hành .
+
+Tài_khoản 801999 - Chi khác : gồm các khoản chi_phí khác của Nhn về nghiệp_vụ tiền gửi , tiền vay Tctd trong nước .
+
+Tài_khoản 802 - Chi về nghiệp_vụ tiền gửi , tiền vay của ngân_hàng nước_ngoài , tổ_chức tiền_tệ , ngân_hàng quốc_tế
+
+Tài_khoản này dùng để phản_ánh các khoản chi của Nhn về nghiệp_vụ tiền gửi , tiền vay của ngân_hàng nước_ngoài , tổ_chức tiền_tệ , ngân_hàng quốc_tế .
+
+Tài_khoản 802 có các tài_khoản cấp Ii sau :
+
+Tài_khoản 802001 - Chi_trả lãi tiền gửi : gồm các khoản trả lãi tiền gửi cho các ngân_hàng nước_ngoài , tổ_chức tiền_tệ , ngân_hàng quốc_tế .
+
+Tài_khoản 802002 - Chi_trả lãi tiền vay : gồm các khoản trả lãi tiền vay của ngân_hàng nước_ngoài , tổ_chức tiền_tệ , ngân_hàng quốc_tế .
+
+Tài_khoản 802999 - Chi khác : gồm các khoản chi_phí khác của Nhn về nghiệp_vụ tiền gửi , tiền vay của ngân_hàng nước_ngoài , tổ_chức tiền_tệ , ngân_hàng quốc_tế .
+
+Tài_khoản 803 - Chi về nghiệp_vụ mua_bán giấy_tờ có_giá
+
+Tài_khoản này dùng để phản_ánh các khoản chi_phí của Nhn về nghiệp_vụ giao_dịch mua_bán chứng_khoán : phần chênh_lệch giữa giá bán nhỏ hơn giá mua chứng_khoán ( tín_phiếu , trái_phiếu , các giấy_tờ có_giá . . . ) ; các khoản chi_phí khác về nghiệp_vụ thị_trường mở đối_với Tctd và mua trực_tiếp chứng_khoán Chính_phủ .
+
+Tài_khoản 803 có các tài_khoản cấp Ii sau :
+
+803001 - Chi về mua_bán giấy_tờ có_giá
+
+803999 - Chi khác
+
+Tài_khoản 804 - Chi về nghiệp_vụ đầu_tư chứng_khoán
+
+Tài_khoản này dùng để phản_ánh các khoản chi của Nhn về nghiệp_vụ đầu_tư chứng_khoán .
+
+Tài_khoản 804 có các tài_khoản cấp Ii sau :
+
+804001 - Chi về mua_bán chứng_khoán
+
+804999 - Chi khác
+
+Tài_khoản 804001 - Chi về mua_bán chứng_khoán
+
+Tài_khoản này dùng để phản_ánh số chênh_lệch giữa giá bán nhỏ hơn giá_trị ghi sổ của chứng_khoán đầu_tư .
+
+Tài_khoản 804999 - Chi khác
+
+Tài_khoản này dùng để phản_ánh các khoản chi của Nhn ngoài các khoản chi nêu trên về nghiệp_vụ đầu_tư chứng_khoán .
+
+Tài_khoản 805 - Chi về nghiệp_vụ góp vốn , uỷ_thác
+
+Tài_khoản này dùng để phản_ánh các khoản chi về nghiệp_vụ góp vốn , uỷ_thác của Nhn .
+
+Tài_khoản 805 có các tài_khoản cấp Ii sau :
+
+805001 - Chi thanh_lí khoản vốn góp
+
+805002 - Chi thanh_lí hoạt_động uỷ_thác
+
+805999 - Chi khác
+
+Tài_khoản 806 - Chi về hoạt_động ngoại_hối
+
+Tài_khoản này dùng để phản_ánh các khoản chi trực_tiếp cho hoạt_động_kinh_doanh ngoại_hối như lỗ về mua_bán vàng , ngoại_tệ , phí nhờ tiêu_thụ ngoại_tệ , phí dịch_vụ thanh_toán ngoại_tệ , mua_bán các bản tin phục_vụ cho việc kinh_doanh ngoại_tệ , thuế_nhập_khẩu vàng , chi_phí vận_chuyển , đóng_gói , chế tác , gia_công và các chi_phí khác liên_quan đến quản_lí vàng . . .
+
+Tài_khoản 806 có các tài_khoản cấp Ii , cấp Iii sau :
+
+806001 - Chi về mua_bán vàng
+
+806002 - Chi về mua_bán ngoại_tệ
+
+806999 - Chi khác về giao_dịch ngoại_hối
+
+80699901 - Chi khác về vàng
+
+80699902 - Chi khác về ngoại_tệ
+
+Tài_khoản 807 - Chi về các công_cụ tài_chính phái_sinh
+
+Tài_khoản này dùng để phản_ánh các khoản chi từ công_cụ tài_chính phái_sinh như công_cụ tài_chính phái_sinh_tiền_tệ như công_cụ phái_sinh chứng_khoán , lãi_suất . . . và các công_cụ tài_chính phái_sinh khác .
+
+Tài_khoản 807 có các tài_khoản cấp Ii sau :
+
+Tài_khoản 807001 - Chi về các công_cụ tài_chính phái_sinh_tiền_tệ
+
+Tài_khoản này dùng để phản_ánh các khoản chi_phí về công_cụ tài_chính phái_sinh_tiền_tệ .
+
+Tài_khoản 807999 - Chi về các công_cụ tài_chính phái_sinh khác
+
+Tài_khoản này dùng để phản_ánh các khoản chi_phí về công_cụ tài_chính phái_sinh khác ngoài công_cụ tài_chính phái_sinh_tiền_tệ như công_cụ phái_sinh chứng_khoán , lãi_suất . . . khi cơ_chế nghiệp_vụ cho phép .
+
+Tài_khoản 808 - Chi_phí in , đúc , bảo_quản , bảo_vệ , vận_chuyển , giao_nhận , phát_hành , thu_hồi , thay_thế và tiêu_huỷ tiền
+
+Tài_khoản này dùng để phản_ánh các khoản chi_phí về tiền của Nhn như chi_phí in , đúc , bảo_quản , bảo_vệ , vận_chuyển , giao_nhận , phát_hành , thu_hồi , thay_thế và tiêu_huỷ tiền .
+
+Tài_khoản 808 có các tài_khoản cấp Ii sau :
+
+Tài_khoản 808001 - Chi_phí in , đúc tiền , giấy_tờ có_giá
+
+Tài_khoản này dùng để phản_ánh các khoản chi_phí thực_hiện theo cơ_chế_tài_chính hiện_hành : chi_phí in , đúc tiền ; chi_phí in giấy_tờ có_giá của Nhn ; chi_phí khác . . .
+
+Tài_khoản 808001 có các tài_khoản cấp Iii sau :
+
+80800101 - Chi_phí in , đúc tiền
+
+80800102 - Chi_phí in giấy_tờ có_giá của Ngân_hàng Nhà_nước
+
+80800199 - Chi_phí khác
+
+Tài_khoản 808002 - Chí phí tuyển_chọn , bảo_quản , vận_chuyển , tiêu_huỷ tiền , giấy_tờ có_giá
+
+Tài_khoản này dùng để phản_ánh các khoản chi_phí thực_hiện theo cơ_chế_tài_chính hiện_hành : Vận_chuyển , tuyển_chọn , bảo_quản tiêu_huỷ tiền , giấy_tờ có_giá . . .
+
+Tài_khoản 808002 có các tài_khoản cấp Iii sau :
+
+80800201 - Chi_phí bảo_quản tiền , giấy_tờ có_giá
+
+80800202 - Vận_chuyển , bốc_xếp
+
+80800203 - Tuyển_chọn , kiểm_đếm , đóng_gói , niêm_phong tiền
+
+80800204 - Bảo_vệ tiền
+
+80800205 - Chi_phí về tiêu_huỷ
+
+80800299 - Chi_phí khác
+
+Tài_khoản 809 - Chi cho các hoạt_động nghiệp_vụ khác
+
+Tài_khoản này dùng để phản_ánh các khoản chi của Nhn đối_với các hoạt_động nghiệp_vụ khác ngoài các khoản chi đã hạch_toán vào tài_khoản thích_hợp .
+
+Tài_khoản 809 có các tài_khoản cấp Ii sau :
+
+Tài_khoản 809001 - Chi cho các hoạt_động phòng , chống rửa_tiền
+
+Tài_khoản này phản_ánh các khoản chi cho hoạt_động phòng , chống rửa_tiền : chi cho hoạt_động nghiên_cứu , củng_cố hệ_thống phòng_chống rửa_tiền , nộp phí thành_viên và hoạt_động của Ban chỉ_đạo Phòng_chống rửa_tiền .
+
+Tài_khoản 809001 có các tài_khoản cấp Iii sau :
+
+80900101 - Chi về hoạt_động nghiên_cứu , củng_cố hệ_thống phòng_chống rửa_tiền
+
+80900102 - Chi nộp phí thành_viên
+
+80900103 - Chi cho hoạt_động của Ban chỉ_đạo phòng_chống rửa_tiền
+
+Tài_khoản 809002 - Chi về dịch_vụ thanh_toán , thông_tin
+
+Tài_khoản này phản_ánh các khoản chi về dịch_vụ thanh_toán , cước_phí bưu_điện về mạng viễn_thông . . . phục_vụ cho hoạt_động thanh_toán .
+
+Tài_khoản 809002 có các tài_khoản cấp Iii sau :
+
+80900201 - Chi về dịch_vụ thanh_toán
+
+80900202 - Cước_phí bưu_điện về mạng viễn_thông
+
+80900203 - Chi mua vật_liệu phục_vụ cho nghiệp_vụ thanh_toán
+
+80900299 - Chi khác về dịch_vụ thanh_toán , thông_tin
+
+Tài_khoản 809999 - Chi cho hoạt_động nghiệp_vụ khác
+
+Tài_khoản 809999 có các tài_khoản cấp Iii sau :
+
+80999901 - Chi về hoạt_động quản_lí các dự_án tín_dụng quốc_tế
+
+80999902 - Chi về đấu_thầu và thanh_toán chứng_khoán Chính_phủ
+
+80999999 - Chi khác về hoạt_động nghiệp_vụ
+
+Tài_khoản này dùng để phản_ánh số tiền chi khác về hoạt_động nghiệp_vụ và dịch_vụ ngân_hàng phát_sinh trong quá_trình hoạt_động ngoài những khoản chi đã được hạch_toán vào các tài_khoản thích_hợp ( như : chi cho hoạt_động đấu_thầu và thanh_toán chứng_khoán Chính_phủ , chi về hoạt_động quản_lí các dự_án tín_dụng quốc_tế , chi_trả phí dịch_vụ uỷ_thác đầu_tư , trả phí lưu kí chứng_khoán . . . ) .
+
+Tài_khoản 810 - Chi cho cán_bộ , công_chức và nhân_viên
+
+Tài_khoản này dùng để phản_ánh các khoản chi của Nhn cho cán_bộ , công_chức và nhân_viên .
+
+Tài_khoản 810 có các tài_khoản cấp Ii sau :
+
+Tài_khoản 810001 - Lương và phụ_cấp : gồm các khoản chi lương và phụ_cấp lương cho cán_bộ , công_chức và nhân_viên , phụ_cấp độc_hại theo chế_độ quy_định .
+
+Tài_khoản 810001 có các tài_khoản cấp Iii sau :
+
+81000101 - Lương và phụ_cấp lương cho cán_bộ , công_chức và nhân_viên
+
+81000102 - Phụ_cấp độc_hại
+
+81000103 - Phụ_cấp công_vụ
+
+Tài_khoản 810002 - Chi ăn trưa
+
+Tài_khoản này phản_ánh các khoản chi ăn trưa theo chế_độ quy_định .
+
+Tài_khoản 810003 - Chi trang_phục giao_dịch và bảo_hộ lao_động
+
+Tài_khoản này phản_ánh các khoản chi về trang_phục giao_dịch hàng năm của cán_bộ , công_chức và các khoản chi bảo_hộ lao_động như khẩu_trang , xà_phòng , . . . cho các đối_tượng theo quy_định của Nhà_nước .
+
+Tài_khoản 810004 - Chi khen_thưởng , phúc_lợi
+
+Tài_khoản này dùng để phản_ánh các khoản chi khen_thưởng , phúc_lợi cho cán_bộ , công_chức và nhân_viên theo cơ_chế khoán .
+
+Cuối năm tài_chính , chuyển số dư Nợ vào tài_khoản 599001 - Chênh_lệch thu , chi năm nay , tài_khoản không có số_dư .
+
+Tài_khoản 810005 - Các khoản chi để đóng_góp theo lương
+
+Tài_khoản này phản_ánh các khoản chi nộp bảo_hiểm xã_hội , đóng bảo_hiểm y_tế , nộp kinh_phí công_đoàn , nộp bảo_hiểm_thất_nghiệp và các khoản chi đóng_góp khác theo chế_độ .
+
+Tài_khoản 810005 có các tài_khoản cấp Iii sau :
+
+81000501 - Nộp bảo_hiểm xã_hội
+
+81000502 - Nộp bảo_hiểm y_tế
+
+81000503 - Nộp kinh_phí công_đoàn
+
+81000504 - Nộp bảo_hiểm_thất_nghiệp
+
+81000599 - Các khoản chi đóng_góp khác theo chế_độ
+
+Tài_khoản 810006 - Chi trợ_cấp
+
+Tài_khoản này phản_ánh các khoản chi trợ_cấp khó_khăn , trợ_cấp thôi_việc . . . theo quy_định của Nhà_nước .
+
+Tài_khoản 810006 có các tài_khoản cấp Iii sau :
+
+81000601 - Trợ_cấp khó_khăn
+
+81000602 - Trợ_cấp thôi_việc
+
+Tài_khoản 810007 - Chi công_tác xã_hội
+
+Tài_khoản này phản_ánh các khoản chi công_tác xã_hội cho cán_bộ , công_chức và nhân_viên theo quy_định hiện_hành .
+
+Tài_khoản 810999 - Chi khác cho cán_bộ công_nhân_viên
+
+Tài_khoản này phản_ánh các khoản chi cho cán_bộ , công_chức và nhân_viên ngoài các khoản chi đã đưa vào tài_khoản thích_hợp về chi cho cán_bộ , công_chức và nhân_viên .
+
+Tài_khoản 811 - Chi về tài_sản
+
+Tài_khoản này dùng để phản_ánh các khoản chi về tài_sản của Nhn .
+
+Tài_khoản 811 có các tài_khoản cấp Ii sau :
+
+811001 - Khấu_hao cơ_bản tài_sản cố_định
+
+811002 - Bảo_dưỡng và sửa_chữa tài_sản
+
+811003 - Chi về thanh_lí tài_sản
+
+811004 - Chi về mua_sắm công_cụ , dụng_cụ
+
+811005 - Chi đầu_tư phát_triển kĩ_thuật nghiệp_vụ và công_nghệ ngân_hàng
+
+811006 - Chi thuê tài_sản
+
+Tài_khoản 811001 - Khấu_hao cơ_bản tài_sản cố_định
+
+Tài_khoản này phản_ánh là số tiền trích khấu_hao cơ_bản tài_sản cố_định ở các đơn_vị phân_bổ vào chi_phí .
+
+Tài_khoản 811002 - Bảo_dưỡng và sửa_chữa tài_sản
+
+Tài_khoản này phản_ánh các khoản chi bảo_dưỡng và sửa_chữa tài_sản , mua phụ_tùng thay_thế các bộ_phận của tài_sản bị hư_hỏng , chi lắp_đặt và sửa_chữa hệ_thống điện nước cho các công_trình đang sử_dụng . . . Không hạch_toán vào tài_khoản này các khoản chi_phí bảo_trì , sửa_chữa xe chuyên_dùng chở tiền , xe ô_tô hộ_tống , xe nâng hàng và máy_móc thiết_bị an_toàn kho_quỹ , máy_móc thiết_bị dùng cho hoạt_động thanh_toán và chi_phí sửa_chữa_lớn mang tính nâng_cấp làm tăng nguyên giá tài_sản cố_định .
+
+Tài_khoản 811003 - Chi về thanh_lí tài_sản
+
+Tài_khoản này dùng để phản_ánh các khoản chi về nhượng bán , thanh_lí tài_sản cố_định , công_cụ , dụng_cụ , vật_liệu và các tài_sản khác theo Chế_độ tài_chính của Nhn .
+
+Tài_khoản 811003 có các tài_khoản cấp Iii sau :
+
+Tài_khoản 81100301 - Chi về thanh_lí tài_sản cố_định
+
+Tài_khoản 81100302 - Chi về thanh_lí tài_sản khác
+
+Tài_khoản 811004 - Chi về mua_sắm công_cụ , dụng_cụ
+
+Tài_khoản này dùng để phản_ánh các khoản chi mua_sắm các tài_sản thuộc đối_tượng công_cụ , dụng_cụ theo quy_định của Nhà_nước và Nhn Việt_nam .
+
+Tài_khoản 811005 - Chi đầu_tư phát_triển kĩ_thuật nghiệp_vụ và công_nghệ ngân_hàng
+
+Tài_khoản này dùng để phản_ánh số tiền được bổ_sung vào vốn pháp_định và sử_dụng để đầu_tư xây_dựng và mua_sắm tài_sản cố_định của Nhn theo chế_độ tài_chính của Nhn .
+
+Tài_khoản 811006 - Chi thuê tài_sản
+
+Tài_khoản này mở tại các đơn_vị có thuê tài_sản dùng để phản_ánh số tiều chi thuê tài_sản .
+
+Tài_khoản 812 - Chi cho hoạt_động quản_lí và công_vụ
+
+Tài_khoản này dùng để phản_ánh các khoản chi của Nhn cho hoạt_động quản_lí và công_vụ .
+
+Tài_khoản 812 có các tài_khoản cấp Ii sau :
+
+Tài_khoản 812001 - Chi về vật_liệu và giấy_tờ in
+
+Tài_khoản này phản_ánh các khoản chi mua_sắm các loại vật_liệu văn_phòng , các tài_sản rẻ_tiền , mau hỏng ( không thuộc phạm_vi công_cụ , dụng_cụ ) , xăng_dầu ( trừ xăng dầu dùng cho vận_chuyển tiền ) , giấy_tờ in thông_thường , vật_mang tin ( như băng_từ , đĩa từ ) . . . phục_vụ cho hoạt_động của Nhn .
+
+Tài_khoản 812001 có các tài_khoản cấp Iii sau :
+
+81200101 - Vật_liệu văn_phòng
+
+81200102 - Giấy_tờ in thông_thường
+
+81200103 - Vật_mang tin
+
+81200104 - Xăng_dầu
+
+81200199 - Vật_liệu khác
+
+Tài_khoản 812002 - Chi công_tác_phí
+
+Tài_khoản này phản_ánh các khoản chi về công_tác_phí cho cán_bộ ; công_chức Nhn được cử đi công_tác theo chế_độ quy_định .
+
+Tài_khoản 812003 - Chi đào_tạo , huấn_luyện nghiệp_vụ
+
+Tài_khoản này phản_ánh các khoản chi về các khoản chi cho công_tác đào_tạo , huấn_luyện nghiệp_vụ cho cán_bộ , công_chức Nhn như chi_phí tổ_chức các lớp tập_huấn , huấn_luyện nghiệp_vụ . . .
+
+Tài_khoản 812004 - Chi nghiên_cứu và ứng_dụng khoa_học công_nghệ
+
+Tài_khoản này phản_ánh các khoản chi về gồm các khoản chi nghiên_cứu , ứng_dụng và chuyển_giao các đề_tài khoa_học và công_nghệ ngân_hàng ( trừ các khoản chi đã được chi từ Đầu_tư phát_triển kĩ_thuật nghiệp_vụ và công_nghệ ngân_hàng ) , chi thuê dịch tài_liệu nước_ngoài . . .
+
+Tài_khoản 812005 - Chi bưu_phí và điện_thoại
+
+Tài_khoản này phản_ánh các khoản chi về cước_phí vận_chuyển công_văn , bưu_phẩm , cước_phí sử_dụng máy điện_thoại . . . trả cho cơ_quan cung_cấp dịch_vụ .
+
+Tài_khoản 812006 - Chi xuất_bản tài_liệu , tuyên_truyền , quảng_cáo
+
+Tài_khoản này phản_ánh các khoản chi về xuất_bản tạp_chí và các bản tin hoạt_động ngân_hàng , xuất_bản các văn_bản_thể_lệ chế_độ của ngân_hàng , chi_phí cho các cơ_quan thông_tin đại_chúng để tuyên_truyền , quảng_cáo về hoạt_động ngân_hàng , chi_phí cho các cuộc họp với cơ_quan thông_tin đại_chúng , các khách_hàng để phổ_biến chủ_trương chính_sách và chế_độ nghiệp_vụ Ngân_hàng . . .
+
+Tài_khoản 812007 - Chi lễ_tân , khánh_tiết
+
+Tài_khoản này phản_ánh số tiền chi tiếp khách tới làm_việc tại đơn_vị , chi tổ_chức các cuộc họp_mặt nhân ngày lễ , ngày kỉ_niệm .
+
+Tài_khoản 812008 - Chi về điện , nước , y_tế , vệ_sinh cơ_quan
+
+Tài_khoản này phản_ánh số tiền chi về điện , nước , y_tế , vệ_sinh cơ_quan theo quy_định hiện_hành .
+
+Tài_khoản 812009 - Chi nộp thuế , phí và lệ_phí
+
+Tài_khoản này phản_ánh các khoản chi nộp thuế và các khoản lệ_phí theo quy_định của Nhà_nước như thuế_đất , lệ_phí giao_thông các phương_tiện vận_tải . . .
+
+Tài_khoản 812999 - Các khoản chi_phí quản_lí khác
+
+Tài_khoản này phản_ánh số tiền chi về quản_lí khác phát_sinh trong quá_trình hoạt_động ngoài những nội_dung đã được hạch_toán vào các tài_khoản thích_hợp và thực_hiện theo quy_định hiện_hành ( như : Chi_phí thanh_tra , kiểm_tra , kiểm_toán Nhn ; Chi_hội_nghị , tập_huấn ngắn ngày ; Chi mua tài_liệu , sách_báo ; Các khoản chi hoạt_động quản_lí và công_vụ khác . . . ) .
+
+Tài_khoản 812009 có các tài_khoản cấp Iii sau :
+
+81299901 - Chi_phí cho thanh_tra , kiểm_tra , kiểm_toán Ngân_hàng Nhà_nước
+
+81299902 - Chi_hội_nghị , tập_huấn ngắn ngày
+
+81299903 - Chi mua tài_liệu , sách_báo
+
+81299999 - Các khoản chi hoạt_động quản_lí và công_vụ khác
+
+Tài_khoản 813 - Chi trích_lập khoản dự_phòng rủi_ro
+
+Tài_khoản này phản_ánh khoản chi_phí trích_lập dự_phòng rủi_ro của Nhn theo chế_độ quy_định .
+
+Tài_khoản 814 - Chi về hoạt_động của các đơn_vị sự_nghiệp
+
+Tài_khoản này phản_ánh các khoản chi xuất_bản Thời báo Ngân_hàng ; chi xuất_bản Tạp_chí Ngân_hàng , . . .
+
+Tài_khoản 815 - Thoái thu lãi phải thu không đúng niên độ
+
+Tài_khoản này dùng để hạch_toán các khoản thu_nhập phải thu đã hạch_toán thu_nhập nhưng đến kì_hạn thu không thu được ( nếu khác kì kế_toán ) .
+
+Tài_khoản 899 - Các khoản chi khác
+
+Tài_khoản này dùng để phản_ánh các khoản chi khác ngoài khoản chi đã được hạch_toán vào tài_khoản thích_hợp .
+
+Tài_khoản 899 có các tài_khoản cấp Ii sau :
+
+Tài_khoản 899001 - Các khoản tổn_thất
+
+Tài_khoản này chỉ xử_lí tập_trung tại Nhn Việt_nam ( Vụ Tài_chính - Kế_toán ) và sau khi đã được Thống_đốc Nhn phê_duyệt bằng văn_bản .
+
+Tài_khoản 899002 - Chi bồi_dưỡng quyết_toán
+
+Tài_khoản này dùng để phản_ánh số tiền chi bồi_dưỡng quyết_toán .
+
+Tài_khoản 899003 - Chi bảo_quản hồ_sơ , chứng từ kế_toán
+
+Tài_khoản này dùng để phản_ánh số tiền chi để bảo_quản hồ_sơ , chứng từ kế_toán .
+
+Tài_khoản 899004 - Chi khen_thưởng cho tập_thể , cá_nhân ngoài ngành
+
+Tài_khoản này phản_ánh số tiền cho khen_thưởng cho các đơn_vị , tập_thể , cá_nhân ngoài Nhn . Việc hạch_toán vào tài_khoản này phải thực_hiện theo quy_định của Thống_đốc Nhn .
+
+Tài_khoản 899005 - Chi hỗ_trợ hoạt_động của Đảng , Đoàn_thể
+
+Tài_khoản này dùng để phản_ánh số tiền chi hỗ_trợ theo quy_định cho các tổ_chức Đảng , Công_đoàn , Thanh_niên , Phụ_nữ . Chi cho hoạt_động , tuyên_truyền_giáo_dục , chính_trị tư_tưởng , văn_hoá , hoạt_động phong_trào văn_thể , hội_thao , hội_diễn . . . .
+
+Tài_khoản 899006 - Chi cho cán_bộ Công_đoàn Ngân_hàng Việt_nam
+
+Tài_khoản này dùng để hạch_toán các khoản chi cho cán_bộ công_đoàn ngành Ngân_hàng Việt_nam để đảm_bảo quyền_lợi và phúc_lợi tập_thể theo quy_định của Luật Công_đoàn .
+
+Tài_khoản 899999 - Các khoản chi khác
+
+Tài_khoản này phản_ánh các khoản chi ngoài những khoản chi đã nêu trên và theo chế_độ quy_định .
+
+Loại 9 : Các cam_kết ngoài bảng
+
+Loại tài_khoản này dùng để phản_ánh các cam_kết mà Nhn sẽ phải thực_hiện hoặc nhận được theo hợp_đồng đã thoả_thuận với khách_hàng . Căn_cứ hạch_toán vào các tài_khoản này là hợp_đồng đã kí_kết .
+
+Việc hạch_toán trên các tài_khoản này được tiến_hành theo phương_pháp ghi sổ kép ( Nợ - Có ) với một tài_khoản đối_ứng , cụ_thể : khi kế_toán ghi nợ hoặc có vào một tài_khoản dưới đây thì phần_mềm nghiệp_vụ sẽ tự_động ghi có hoặc nợ ( đối_ứng ) với một tài_khoản hệ_thống tương_ứng .
+
+Tài_khoản 901 - Cam_kết bảo_lãnh cho các tổ_chức tín_dụng vay vốn nước_ngoài
+
+Tài_khoản này dùng để phản_ánh số tiền Nhn bảo_lãnh cho các Tctd vay vốn nước_ngoài theo quyết_định của Thủ_tướng Chính_phủ .
+
+Tài_khoản 902 - Cam_kết giao_dịch ngoại_hối
+
+Tài_khoản này dùng để phản_ánh những khoản thanh_toán mà Nhn sẽ thực_hiện theo cam_kết_hợp_đồng giao_dịch hối_đoái đã thoả_thuận . Các cam_kết này sẽ được hạch_toán theo số tiền ghi trên hợp_đồng .
+
+Tài_khoản 902 có các tài_khoản cấp Ii sau :
+
+902001 - Cam_kết Mua ngoại_tệ giao ngay
+
+902002 - Cam_kết Bán ngoại_tệ giao ngay
+
+902003 - Cam_kết Mua ngoại_tệ có kì_hạn
+
+902004 - Cam_kết Bán ngoại_tệ có kì_hạn
+
+902005 - Cam_kết giao_dịch quyền lựa_chọn Mua tiền_tệ
+
+902006 - Cam_kết giao_dịch quyền lựa_chọn Bán tiền_tệ
+
+902007 - Cam_kết hoán_đổi
+
+902008 - Cam_kết tương_lai
+
+Tài_khoản 902001 - Cam_kết Mua ngoại_tệ giao ngay
+
+Tài_khoản 902002 - Cam_kết Bán ngoại_tệ giao ngay
+
+Hai tài_khoản này dùng để hạch_toán những khoản thanh_toán mà Nhn sẽ thực_hiện theo cam_kết_hợp_đồng Mua hoặc bán ngoại_tệ thanh_toán ngay để Mua hoặc bán ngoại_tệ theo tỉ_giá thoả_thuận đã ghi trong hợp_đồng , việc thanh_toán này được người bán thực_hiện_tại thời_điểm trong tương_lai ( theo quy_định trong vòng 2 ngày kể từ ngày giao_dịch ) .
+
+Tài_khoản 902003 - Cam_kết Mua ngoại_tệ có kì_hạn
+
+Tài_khoản 902004 - Cam_kết Bán ngoại_tệ có kì_hạn
+
+Hai tài_khoản này dùng để hạch_toán những khoản thanh_toán mà Nhn sẽ thực_hiện theo cam_kết_hợp_đồng Mua hoặc bán ngoại_tệ thanh_toán có kì_hạn để Mua hoặc bán ngoại_tệ theo tỉ_giá thoả_thuận đã ghi trong hợp_đồng , việc thanh_toán này được người bán thực_hiện_tại thời_điểm trong tương_lai ( theo quy_định nhiều hơn 2 ngày kể từ ngày giao_dịch ) .
+
+Tài_khoản 902005 - Cam_kết giao_dịch quyền lựa_chọn Mua tiền_tệ
+
+Tài_khoản 902006 - Cam_kết giao_dịch quyền lựa_chọn Bán tiền_tệ
+
+Hai tài_khoản này dùng để phản_ánh những khoản thanh_toán mà Nhn sẽ thực_hiện ( Mua hoặc Bán ) theo cam_kết Hợp_đồng giao_dịch quyền lựa_chọn Mua hay Bán tiền_tệ đã thoả_thuận với khách_hàng . Các cam_kết_hợp_đồng này sẽ hạch_toán theo số tiền ghi trên hợp_đồng .
+
+Tài_khoản 902007 - Cam_kết giao_dịch hoán_đổi
+
+Tài_khoản này dùng để hạch_toán những khoản thanh_toán mà Nhn sẽ thực_hiện theo cam_kết Hợp_đồng giao_dịch hoán_đổi đã thoả_thuận với khách_hàng . Các cam_kết_hợp_đồng này sẽ hạch_toán theo số tiền ghi trên hợp_đồng .
+
+Tài_khoản 902008 - Cam_kết giao_dịch tương_lai
+
+Tài_khoản này dùng để hạch_toán những khoản thanh_toán mà Nhn sẽ thực_hiện theo cam_kết Hợp_đồng giao_dịch tương_lai đã thoả_thuận với khách_hàng . Các cam_kết_hợp_đồng này sẽ hạch_toán theo số tiền ghi trên hợp_đồng .
+
+Nội_dung hạch_toán tài_khoản 902 như sau :
+
+Tài_khoản 903 - Cam_kết giao_dịch mua_bán chứng_khoán
+
+Tài_khoản này dùng để phản_ánh những khoản cam_kết trong giao_dịch mua_bán chứng_khoán của Nhn .
+
+Tài_khoản này 903 có các tài_khoản cấp Ii sau :
+
+Tài_khoản 903001 - Cam_kết mua chứng_khoán có kì_hạn
+
+Tài_khoản 903002 - Cam_kết bán chứng_khoán có kì_hạn
+
+Hai tài_khoản này dùng để phản_ánh những khoản thanh_toán mà Nhn sẽ thực_hiện ( Mua hoặc Bán ) theo cam_kết Hợp_đồng Mua hay Bán chứng_khoán có kì_hạn đã thoả_thuận với khách_hàng . Các cam_kết_hợp_đồng này sẽ hạch_toán theo số tiền ghi trên hợp_đồng .
+
+Nội_dung hạch_toán tài_khoản 903 như sau :
+
+Tài_khoản 904 - Cam_kết góp vốn vào các tổ_chức quốc_tế bằng hối_phiếu nhận nợ của Bộ Tài_chính
+
+Tài_khoản này dùng để phản_ánh số tiền góp vốn vào các tổ_chức quốc_tế ( imf , Adb , Wb , ) bằng hối_phiếu nhận nợ của Bộ Tài_chính .
+
+Tài_khoản 904 có các tài_khoản cấp Ii sau :
+
+904001 - Cam_kết góp vốn vào Imf
+
+904002 - Cam_kết góp vốn vào các tổ_chức quốc_tế khác
+
+Tài_khoản 905 - Cam_kết bảo_lãnh nhận được từ khách_hàng
+
+Tài_khoản này dùng để phản_ánh cam_kết bảo_lãnh nhận được từ khách_hàng .
+
+Tài_khoản 906 - Cam_kết đấu_thầu tín_phiếu Kho_bạc Nhà_nước
+
+Tài_khoản này dùng để phản_ánh cam_kết đấu_thầu tín_phiếu Kho_bạc Nhà_nước giữa Kho_bạc Nhà_nước và Nhn .
+
+Tài_khoản 907 - Cam_kết từ hoạt_động tín_dụng
+
+Tài_khoản này dùng để phản_ánh các khoản cam_kết từ hoạt_động tín_dụng của Nhn đối_với Tctd .
+
+Tài_khoản 999 - Cam_kết khác
+
+Tài_khoản này dùng để phản_ánh những khoản thanh_toán mà Nhn sẽ thực_hiện theo các cam_kết khác đã thoả_thuận ngoài các cam_kết nêu trên . Các cam_kết này sẽ được hạch_toán theo số tiền ghi trên hợp_đồng .
+
+Nội_dung hạch_toán tài_khoản 999 giống nội_dung hạch_toán tài_khoản 901 .
+
+Loại 0 : Tài_khoản ghi_nhớ ngoài bảng
+
+Loại tài_khoản này dùng để phản_ánh tiền chưa công_bố lưu_hành , các chứng_khoán của Nhn . . . và những tài_sản hiện có ở ngân_hàng nhưng không thuộc quyền sở_hữu của ngân_hàng như : tài_sản nhận giữ hộ , . . .
+
+Việc hạch_toán trên các tài_khoản được tiến_hành theo phương_pháp ghi sổ kép ( Nợ - Có ) với một tài_khoản đối_ứng , cụ_thể : khi kế_toán ghi Nợ hoặc Có vào một tài_khoản dưới đây thì phần_mềm nghiệp_vụ sẽ tự_động ghi Có hoặc Nợ ( đối_ứng ) với một tài_khoản hệ_thống tương_ứng .
+
+Việc xác_định giá_trị tài_sản để hạch_toán vào các tài_khoản này được căn_cứ vào hợp_đồng , biên_bản giao_nhận tài_sản hoặc các chứng_từ có liên_quan khác .
+
+Tài_khoản 001 - Tiền cotton , tiền polymer và tiền kim_loại
+
+Tài_khoản 001001 - Tiền chưa công_bố lưu_hành
+
+Tài_khoản này dùng để phản_ánh số tiền cotton , tiền polymer , tiền kim_loại đã được in , đúc và dự_trữ tại các kho tiền Nhn nhưng chưa được phép lưu_hành .
+
+Tài_khoản này hạch_toán theo giá quy_ước mỗi tờ hoặc mỗi miếng tiền kim_loại là 1 đồng ( một đồng ) .
+
+Tài_khoản 001002 - Tiền đã công_bố lưu_hành
+
+Tài_khoản này dùng để phản_ánh số tiền các loại đã công_bố lưu_hành nhưng chưa được phép phát_hành vào lưu_thông .
+
+Các tài_khoản này hạch_toán theo giá_trị nhập , xuất tiền ( Mệnh_giá x Số_lượng ) .
+
+Tài_khoản 001003 - Tiền đang vận_chuyển
+
+Tài_khoản này dùng để phản_ánh số tiền chưa công_bố lưu_hành và số tiền đã công_bố lưu_hành nhưng chưa được phép phát_hành vào lưu_thông đang vận_chuyển .
+
+Tài_khoản 001003 có các tài_khoản cấp Iii sau :
+
+00100301 - Tiền chưa công_bố lưu_hành đang vận_chuyển
+
+00100302 - Tiền đã công_bố lưu_hành đang vận_chuyển
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+Giá_trị hạch_toán trên tài_khoản 001003 - Tiền đang vận_chuyển
+
+- Đối_với các loại tiền mới chưa công_bố lưu_hành : được hạch_toán theo giá quy_ước mỗi tờ hoặc mỗi miếng tiền kim_loại là 1 đồng ( một đồng ) .
+
+- Khi tiền mới đã công_bố lưu_hành nhưng chưa được phép phát_hành vào lưu_thông thì phải hạch_toán theo mệnh_giá .
+
+Tài_khoản 001004 - Tiền không có giá_trị lưu_hành
+
+Tài_khoản 00100401 - Tiền_mẫu
+
+Tài_khoản này dùng để phản_ánh các loại tiền mẫu đang bảo_quản .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+Giá_trị hạch_toán trên tài_khoản 00100401 Tiền mẫu :
+
+- Đối_với các loại tiền mới chưa công_bố lưu_hành : được hạch_toán theo giá quy_ước mỗi tờ hoặc mỗi miếng tiền kim_loại là 1 đồng ( một đồng ) .
+
+- Khi tiền mới đã công_bố lưu_hành thì phải hạch_toán theo mệnh_giá .
+
+- Trường_hợp có nhiều người chịu trách_nhiệm bảo_quản , các đơn_vị Nhn phải mở sổ theo_dõi từng loại tiền mẫu giao cho từng người bảo_quản .
+
+Tài_khoản 00100402 - Tiền lưu_niệm
+
+Tài_khoản này dùng để phản_ánh các loại tiền lưu_niệm đang bảo_quản tại kho , quỹ của Nhn .
+
+Tài_khoản 00100403 - Tiền nghi giả , tiền nghi bị phá_hoại chờ xử_lí
+
+Tài_khoản này dùng để phản_ánh các loại tiền nghi giả , tiền nghi bị phá_hoại chờ xử_lý .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+Giá_trị hạch_toán trên tài_khoản 00100403 : Tài_khoản này được hạch_toán theo mệnh_giá .
+
+Tài_khoản 00100404 - Tiền giả
+
+Tài_khoản này dùng để phản_ánh các loại tiền giả thu ở khách_hàng .
+
+Giá_trị hạch_toán trên tài_khoản 00100404 : Tài_khoản này hạch_toán theo giá quy_ước mỗi tờ tiền giả là 1 đồng ( một đồng ) .
+
+Nội_dung hạch_toán tài_khoản 00100404 giống nội_dung hạch_toán tài_khoản 00100403 .
+
+Tài_khoản 00100405 - Tiền bị phá_hoại không xác_định được mệnh_giá
+
+Tài_khoản này dùng để phản_ánh các loại tiền bị phá_hoại không xác_định được mệnh_giá thu ở khách_hàng .
+
+Giá_trị hạch_toán trên tài_khoản 00100405 : Tài_khoản này hạch_toán theo giá quy_ước mỗi tờ tiền bị phá_hoại không xác_định được mệnh_giá là 1 đồng ( một đồng ) .
+
+Nội_dung hạch_toán tài_khoản 00100405 giống nội_dung hạch_toán tài_khoản 00100403 .
+
+Tài_khoản 001005 - Tiền giao đi_tiêu_huỷ
+
+Tài_khoản này dùng để phản_ánh số tiền giao cho Hội_đồng tiêu_huỷ để tiêu_huỷ .
+
+Các tài_khoản này hạch_toán theo giá_trị nhập , xuất tiền ( Mệnh_giá x Số_lượng ) .
+
+Tài_khoản 001006 - Tiền đã tiêu_huỷ
+
+Tài_khoản này dùng để phản_ánh số tiền rách_nát , hư_hỏng ( thuộc tiền đang lưu_hành ) đã tiêu_huỷ .
+
+Các tài_khoản này hạch_toán theo giá_trị nhập , xuất tiền ( Mệnh_giá x Số_lượng ) .
+
+Tài_khoản 002 - Giấy_tờ có_giá mẫu
+
+Tài_khoản này dùng để phản_ánh giá_trị của các loại giấy_tờ có_giá mẫu ( Tín_phiếu Nhn , chứng_khoán chính_phủ , séc . . . ) đơn_vị Nhn đang bảo_quản .
+
+Tài_khoản 002 có các tài_khoản cấp Ii sau :
+
+002001 - Tín_phiếu Nhn_mẫu
+
+002002 - Chứng_khoán Chính_phủ mẫu
+
+002003 - Séc_mẫu
+
+002999 - Giấy_tờ có_giá mẫu khác
+
+Tài_khoản 002001 - Tín_phiếu Ngân_hàng Nhà_nước mẫu
+
+Tài_khoản này dùng để phản_ánh giá_trị của các loại tín_phiếu Nhn mẫu_đơn_vị Nhn đang bảo_quản .
+
+Tài_khoản này hạch_toán theo giá quy_ước mỗi tờ tín_phiếu Nhn mẫu là 1 đồng ( một đồng ) .
+
+Tài_khoản 002002 - Chứng_khoán Chính_phủ mẫu
+
+Tài_khoản này dùng để phản_ánh giá_trị của các loại chứng_khoán Chính_phủ mẫu ( tín_phiếu kho_bạc , trái_phiếu kho_bạc , . . , ) đơn_vị đang bảo_quản .
+
+Tài_khoản này hạch_toán theo giá quy_ước mỗi tờ chứng_khoán Chính_phủ mẫu là 1 đồng ( một đồng ) .
+
+Tài_khoản 002003 - Séc_mẫu
+
+Tài_khoản này dùng để phản_ánh giá_trị của các Séc mẫu_đơn_vị Nhn đang bảo_quản .
+
+Tài_khoản này hạch_toán theo giá quy_ước mỗi quyển Séc mẫu là 1 đồng ( một đồng ) .
+
+Tài_khoản 002999 - Giấy_tờ có_giá mẫu khác
+
+Tài_khoản này dùng để phản_ánh giá_trị của các loại giấy_tờ có_giá khác ngoài các loại giấy_tờ có_giá nói trên đơn_vị đang bảo_quản .
+
+Tài_khoản này hạch_toán theo giá quy_ước mỗi tờ giấy_tờ có_giá mẫu là 1 đồng ( một đồng ) .
+
+Tài_khoản 003 - Lãi phải thu và nợ đã xử_lí
+
+Tài_khoản này dùng để phản_ánh các khoản lãi phải thu và nợ đã xử_lí của Nhn .
+
+Tài_khoản 003 có các tài_khoản cấp Ii sau :
+
+003001 - Lãi phải thu chưa thu được
+
+003002 - Nợ khó đòi đã xử_lí
+
+Tài_khoản 003001 - Lãi phải thu chưa thu được
+
+Tài_khoản này dùng để phản_ánh các khoản lãi Nhn cho vay chưa thu được , bao_gồm cả tiền lãi phạt trả quá hạn .
+
+Tài_khoản 003002 - Nợ khó đòi đã xử_lí
+
+Tài_khoản này dùng để phản_ánh các khoản nợ ( cho vay , tạm_ứng và các khoản phải thu ) bị tổn_thất đã dùng khoản dự_phòng rủi_ro để bù_đắp , đang trong thời_gian theo_dõi để có_thể tiếp_tục thu_hồi dần . Thời_gian theo_dõi trên tài_khoản này phải theo quy_định của Nhà_nước .
+
+Tài_khoản 003002 có các tài_khoản cấp Iii sau :
+
+00300201 - Nợ gốc cho vay khó đòi đã xử_lí
+
+00300202 - Nợ lãi cho vay khó đòi đã xử_lí
+
+00300203 - Nợ khó đòi khác đã xử_lí
+
+Tài_khoản 004 - Giấy_tờ có_giá khách_hàng gửi lưu kí
+
+Tài_khoản này dùng để phản_ánh giá_trị các giấy_tờ có_giá ( bao_gồm tín_phiếu kho_bạc , trái_phiếu . . . ) có đủ điều_kiện được gửi lưu kí theo quy_định .
+
+Tài_khoản 004 có các tài_khoản cấp Ii sau :
+
+004001 - Giấy_tờ có_giá khách_hàng gửi lưu kí tại Nhn
+
+004002 - Giấy_tờ có_giá của khách_hàng lưu kí trên tài_khoản của Ngân_hàng Nhà_nước tại Trung_tâm lưu kí chứng_khoán
+
+Tài_khoản 004001 - Giấy_tờ có_giá khách_hàng gửi lưu kí tại Ngân_hàng Nhà_nước
+
+Tài_khoản này dùng để phản_ánh giá_trị các giấy_tờ có_giá của khách_hàng được gửi lưu kí tại Nhn theo quy_định .
+
+Tài_khoản 004001 có các tài_khoản cấp Iii sau :
+
+00400101 - Lưu kí thông_thường
+
+00400102 - Lưu kí cho mục_đích cầm_cố
+
+00400103 - Lưu kí cho mục_đích cấp tín_dụng trên thị_trường liên ngân_hàng
+
+Tài_khoản 00400101 - Lưu kí thông_thường
+
+Tài_khoản này dùng để phản_ánh giá_trị các loại giấy_tờ có_giá của khách_hàng gửi lưu kí tại Nhn .
+
+Tài_khoản 00400102 - Lưu kí cho mục_đích cầm_cố
+
+Tài_khoản này dùng để phản_ánh giá_trị giấy_tờ có_giá của khách_hàng đang gửi lưu kí tại Nhn sử_dụng cho mục_đích chiết_khấu , tái chiết_khấu , cầm_cố để được Nhn cho vay tái cấp_vốn .
+
+Tài_khoản 00400103 - Lưu kí cho mục cấp tín_dụng trên thị_trường liên ngân_hàng
+
+Tài_khoản này dùng để phản_ánh giá_trị giấy_tờ có_giá của Tctd cầm_cố cho Tctd khác để vay vốn và bên nhận cầm_cố ( bên Tctd cho vay ) gửi lưu kí tại Nhn .
+
+Tài_khoản 004002 - Giấy_tờ có_giá khách_hàng gửi lưu kí trên tài_khoản của Ngân_hàng Nhà_nước tại Trung_tâm lưu kí chứng_khoán
+
+Tài_khoản này dùng để phản_ánh giá_trị các giấy_tờ có_giá của khách_hàng được gửi lưu kí trên tài_khoản của Nhn tại Trung_tâm lưu kí chứng_khoán theo quy_định .
+
+Tài_khoản 004002 có các tài_khoản cấp Iii sau :
+
+00400201 - Lưu kí thông_thường
+
+00400202 - Lưu kí cho mục_đích cầm_cố
+
+00400203 - Lưu kí cho mục_đích cấp tín_dụng trên thị_trường liên ngân_hàng
+
+Nội_dung hạch_toán tài_khoản 00400201 , 00400202 , 00400203 giống nội_dung hạch_toán tài_khoản 00400101 , 00400102 , 00400103 .
+
+Tài_khoản 005 - Giấy_tờ có_giá của Ngân_hàng Nhà_nước
+
+Tài_khoản này dùng để phản_ánh giá_trị giấy_tờ có_giá so Nhn sở_hữu , đang gửi lưu kí tại Trung_tâm lưu kí chứng_khoán hoặc đang quản_lí tại Nhn .
+
+Giấy_tờ có_giá được hạch_toán vào tài_khoản này là các loại giấy_tờ có_giá theo quy_định tại khoản 8 Điều 6 <LT rel="DC"> Luật Ngân_hàng Nhà_nước </LT> 2010 .
+
+Tài_khoản 005 có các tài_khoản cấp Ii sau :
+
+055001 - Giấy_tờ có_giá của Ngân_hàng Nhà_nước lưu kí tại Trung_tâm lưu kí chứng_khoán
+
+005002 - Giấy_tờ có_giá của Ngân_hàng Nhà_nước đang quản_lí
+
+Tài_khoản 005001 - Giấy_tờ có_giá của Ngân_hàng Nhà_nước lưu kí tại Trung_tâm lưu kí chứng_khoán
+
+Tài_khoản này dùng để phản_ánh giá_trị giấy_tờ có_giá do Nhn sở_hữu và đang gửi lưu kí tại Trung_tâm lưu kí chứng_khoán .
+
+Tài_khoản 005002 - Giấy_tờ có_giá của Ngân_hàng Nhà_nước đang quản_lí
+
+Tài_khoản này dùng để phản_ánh các loại giấy_tờ có_giá Nhn đang sở_hữu , bảo_quản ngoài các loại giấy_tờ có_giá lưu kí tại Trung_tâm lưu kí chứng_khoán .
+
+Nội_dung hạch_toán tài_khoản 005002 giống nội_dung hạch_toán tài_khoản 005001 .
+
+Tài_khoản 006 - Các chứng_từ có giá_trị khác đang bảo_quản
+
+Tài_khoản này dùng để phản_ánh giá_trị các chứng_từ có giá_trị khác ( bao_gồm hồ_sơ nhà_đất , hồ_sơ tín_dụng , . . . ) mà Nhn đang bảo_quản .
+
+- Tài_khoản 006 có các tài_khoản cấp Ii sau :
+
+006001 - Các chứng_từ có giá_trị khác của khách_hàng
+
+006002 - Các chứng_từ có giá_trị khác của Nhn
+
+Tài_khoản 006001 - Các chứng_từ có giá_trị khác của khách_hàng
+
+Tài_khoản này dùng để phản_ánh giá_trị các chứng_từ có giá_trị khác của khách_hàng Nhn đang bảo_quản .
+
+Tài_khoản 006001 có các tài_khoản cấp Iii sau :
+
+06600101 - Các chứng_từ có giá_trị khác nhận cầm_cố
+
+00600102 - Các chứng_từ có giá_trị khác đang bảo_quản
+
+Tài_khoản 00600101 - Các chứng_từ có giá_trị khác nhận cầm_cố
+
+Tài_khoản này dùng để phản_ánh các chứng_từ có giá_trị khác ( không bao_gồm giấy_tờ có_giá lưu ký ) của khách_hàng mang cầm_cố tại Nhn để vay vốn theo quy_định .
+
+Tài_khoản 00600102 - Các chứng_từ có giá_trị khác đang bảo_quản
+
+Tài_khoản này dùng để phản_ánh các chứng_từ có giá_trị khác của khách_hàng , Nhn đang bảo_quản ngoài những khoản đã được hạch_toán vào tài_khoản 004 , tài_khoản 00600101 .
+
+Tài_khoản 006002 - Các chứng_từ có giá_trị khác của Ngân_hàng Nhà_nước
+
+Tài_khoản này dùng để phản_ánh giá_trị các chứng_từ có giá_trị khác mà Nhn đang sở_hữu , bảo_quản .
+
+Tài_khoản 006002 có các tài_khoản cấp Iii sau :
+
+00600201 - Ấn chỉ quan_trọng
+
+00600202 - Giấy chứng_nhận quyền sử_dụng đất và sở_hữu tài_sản trên đất
+
+00600299 - Các chứng_từ có giá_trị khác
+
+Tài_khoản 00600201 - Ấn chỉ quan_trọng
+
+Tài_khoản này dùng để phản_ánh các loại giấy_tờ in quan_trọng nhưng chưa đưa ra sử_dụng để thực_hiện các nghiệp_vụ liên_quan như tín_phiếu , kì_phiếu , giấy in tiền . . .
+
+Tài_khoản 00600202 - Giấy chứng_nhận quyền sử_dụng đất và sở_hữu tài_sản trên đất
+
+Tài_khoản này dùng để phản_ánh chứng_nhận quyền sử_dụng đất và sở_hữu tài_sản trên đất của Nhn . Tài_khoản này hạch_toán theo giá_trị quy_ước mỗi bộ hồ_sơ là 1 đồng ( một đồng ) .
+
+Tài_khoản 00600299 - Các chứng_từ có giá_trị khác
+
+Tài_khoản này dùng để phản_ánh các chứng_từ có giá_trị khác Nhn đang sở_hữu , bảo_quản ngoài các loại chứng_từ có giá_trị khác đã hạch_toán vào các tài_khoản thích_hợp .
+
+Tài_khoản 007 - Chứng_khoán cho vay trên thị_trường quốc_tế
+
+Tài_khoản này dùng để phản_ánh giá_trị các chứng_khoán Nhn cho vay trên thị_trường quốc_tế và nhận lại theo thoả_thuận tại hợp_đồng .
+
+Tài_khoản 008 - Hạn_mức Sdr được phân_bổ
+
+Tài_khoản này dùng để phản_ánh số Sdr mà Nhn được Imf phân_bổ theo hạn_mức .
+
+Tài_khoản 009 - Tài_sản giữ hộ thuê ngoài
+
+Tài_khoản này dùng để phản_ánh các tài_sản Nhn đang nhận giữ hộ , thuê ngoài .
+
+Tài_khoản 009 có các tài_khoản cấp Ii sau đây :
+
+009001 - Kim_loại quý , đá_quý và tài_sản khác giữ hộ
+
+009002 - Tài_sản thuê ngoài
+
+Tài_khoản 009001 - Kim_loại quý , đá_quý và tài_sản khác giữ hộ
+
+Tài_khoản này dùng để phản_ánh_kim_loại quý , đá_quý và tài_sản khác mà Nhn đang giữ hộ .
+
+Tài_khoản 009001 có các tài_khoản cấp Iii sau đây :
+
+00900101 - Kim_loại quý , đá_quý giữ hộ
+
+00900199 - Tài_sản khác giữ hộ
+
+Tài_khoản 00900101 - Kim_loại quý , đá_quý giữ hộ
+
+Tài_khoản này dùng để phản_ánh_kim_loại quý , đá_quý của các đơn_vị , cá_nhân nhờ Nhn giữ hộ . Giá_trị ghi sổ là giá_trị của hiện_vật ghi trên hợp_đồng giao_nhận giữa Nhn và khách_hàng . Trường_hợp không xác_định được giá_trị thì hạch_toán hiện_vật theo giá quy_ước mỗi gói , hộp , thùng niêm_phong là 1đ ( một đồng ) . Kế_toán theo_dõi chi_tiết cho từng đơn_vị , cá_nhân có kim_loại quý , đá_quý nhờ giữ hộ .
+
+Ngân_hàng phải lưu biên_bản giao_nhận kim_loại quý , đá_quý giữ hộ để theo_dõi hiện_vật .
+
+Tài_khoản 00900199 - Tài_sản khác giữ hộ
+
+Tài_khoản này dùng để phản_ánh các tài_sản ( trừ kim_loại quý , đá_quý đã hạch_toán ở tài_khoản 00900101 ) của các đơn_vị khác giao cho Nhn giữ hộ theo chế_độ quy_định . Giá_trị của tài_sản giữ hộ được hạch_toán theo giá_trị ghi trên hợp_đồng của Nhn và khách_hàng . Trường_hợp không xác_định được giá_trị thì hạch_toán hiện_vật theo giá quy_ước mỗi gói , hộp , thùng niêm_phong là 1đ ( một đồng ) . Kế_toán theo_dõi chi_tiết cho từng đơn_vị có tài_sản giữ hộ .
+
+Ngân_hàng phải lưu biên_bản giao_nhận tài_sản giữ hộ để theo_dõi hiện_vật .
+
+Tài_khoản 009002 - Tài_sản thuê ngoài
+
+Tài_khoản này dùng để phản_ánh các tài_sản Nhn thuê ngoài để sử_dụng .
+
+Tài_khoản 010 - Công_cụ , dụng_cụ đang sử_dụng
+
+Tài_khoản này dùng để phản_ánh các công_cụ , dụng_cụ mua về sử_dụng ngay hoặc xuất kho sử_dụng đã phân_bổ giá_trị vào chi_phí .
+
+Cuối năm , đơn_vị phải kiểm_kê tài_sản , đảm_bảo công_cụ , dụng_cụ mà đơn_vị đang sử_dụng khớp đúng về số_lượng và chủng_loại .
+
+Tài_khoản 011 - Ngoại_tệ không đủ tiêu_chuẩn lưu_hành chờ xử_lí
+
+Tài_khoản này dùng để hạch_toán các ngoại_tệ nghi giả , ngoại_tệ nghi bị phá_hoại , ngoại_tệ giả , ngoại_tệ bị phá_hoại ( bị cắt_xén , sửa_chữa , rách_nát ) đang chờ xử_lý .
+
+Hạch_toán tài_khoản này phải thực_hiện theo các quy_định sau :
+
+Giá_trị hạch_toán trên tài_khoản 011 - Ngoại_tệ không đủ tiêu_chuẩn lưu_hành chờ xử_lí :
+
+- Đối_với các loại ngoại_tệ nghi giả , nghi bị phá_hoại và ngoại_tệ bị phá_hoại : được hạch_toán theo mệnh_giá .
+
+- Đối_với loại ngoại_tệ giả : được hạch_toán theo giá quy_ước mỗi tờ là 1 đ ( một đồng ) .
+
+Tài_khoản 011 có các tài_khoản cấp Ii sau :
+
+011001 - Ngoại_tệ nghi giả , nghi bị phá_hoại và ngoại_tệ bị phá_hoại
+
+011002 - Ngoại_tệ giả
+
+Tài_khoản 011001 - Ngoại_tệ nghi giả , nghi bị phá_hoại và ngoại_tệ bị phá_hoại
+
+Tài_khoản này dùng để phản_ánh các loại ngoại_tệ nghi giả , nghi bị phá_hoại và ngoại_tệ bị phá_hoại .
+
+Tài_khoản 011002 - Ngoại_tệ giả
+
+Tài_khoản này dùng để phản_ánh các loại ngoại_tệ giả .
+
+Nội_dung hạch_toán tài_khoản 011002 giống nội_dung hạch_toán tài_khoản 009001 .
+
+Tài_khoản 012 - Dư toán kinh_phí do Ngân_sách Nhà_nước cấp , sử_dụng theo mục_đích chỉ_định
+
+Các tài_khoản này phản_ánh dự_toán kinh_phí và tình_hình thực_hiện dự_toán kinh_phí Ngân_sách Nhà_nước cấp .
+
+Tài_khoản 012 có các tài_khoản cấp Ii sau :
+
+012001 - Dự_toán kinh_phí hoạt_động
+
+012002 - Dự_toán kinh_phí dự_án
+
+Tài_khoản 013 - Ngân_phiếu thanh_toán
+
+Tài_khoản này dùng để phản_ánh các loại ngân_phiếu thanh_toán mẫu đang bảo_quản và số ngân_phiếu thanh_toán đã tiêu_huỷ .
+
+Tài_khoản 013 có các tài_khoản cấp Ii sau :
+
+013001 - Ngân_phiếu thanh_toán mẫu
+
+013002 - Ngân_phiếu thanh_toán đã tiêu_huỷ
+
+Tài_khoản 013001 - Ngân_phiếu thanh_toán mẫu
+
+Tài_khoản này dùng để phản_ánh mệnh_giá các loại ngân_phiếu thanh_toán mẫu đang bảo_quản . Kế_toán theo_dõi chi_tiết cho từng loại ngân_phiếu thanh_toán mẫu phát_hành qua từng thời_kỳ .
+
+Tài_khoản 013002 - Ngân_phiếu thanh_toán đã tiêu_huỷ
+
+Tài_khoản này dùng để phản_ánh số Ngân_phiếu thanh_toán rách_nát , hư_hỏng đã tiêu_huỷ . Kế_toán theo_dõi chi_tiết cho từng loại ngân_phiếu thanh_toán .
+
+Tài_khoản 014 - Cung_ứng tiền theo các mục_đích chỉ_định
+
+Tài_khoản này dùng để phản_ánh số tiền cung_ứng tăng thêm ròng của những năm trước theo từng mục_tiêu chỉ_định .
+
+Chương 3
+
+Tổ_chức Thực_hiện
+
+Điều 12 . Trách_nhiệm của các đơn_vị Ngân_hàng Nhà_nước
+
+1 . Các đơn_vị Ngân_hàng Nhà_nước căn_cứ quy_định nội_dung hạch_toán của các tài_khoản kế_toán và tính_chất nghiệp_vụ cụ_thể của đơn_vị để sử_dụng các tài_khoản kế_toán phù_hợp .
+
+2 . Cục Công_nghệ tin_học có trách_nhiệm :
+
+a ) Quản_lí mã tài_khoản kế_toán , phối_hợp với Vụ Tài_chính - Kế_toán trong việc mở , sửa_đổi tài_khoản kế_toán theo quy_định tại Điều 6 Thông_tư này .
+
+b ) Quản_lý , cài_đặt , sửa_đổi , bổ_sung các tham_số để bảo_đảm việc hạch_toán tự_động từ các chương_trình ứng_dụng quy_định tại Điểm a Khoản 2 Điều 8 Thông_tư này tuân_thủ đúng quy_định về hạch_toán kế_toán của Nhn .
+
+3 . Vụ Tài_chính - Kế_toán có trách_nhiệm :
+
+a ) Quản_lí mã tài_khoản kế_toán , phối_hợp với Cục Công_nghệ tin_học trong việc mở , sửa_đổi tài_khoản kế_toán theo quy_định tại Điều 6 Thông_tư này .
+
+b ) Hướng_dẫn các đơn_vị Nhn chuyển_đổi các tài_khoản kế_toán đang sử_dụng sang hệ_thống tài_khoản kế_toán mới và hướng_dẫn các đơn_vị thực_hiện Thông_tư này .
+
+Điều 13 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01/12/2015
+
+2 . Kể từ ngày Thông_tư này có hiệu_lực thi_hành , các văn_bản sau đây hết hiệu_lực thi_hành :
+
+a ) <QĐ rel="None"> Quyết_định số 425/1998/QĐ-NHNN ngày 17/12/1998 </QĐ> của Thống_đốc Nhn về việc ban_hành Hệ_thống tài_khoản kế_toán Nhn ;
+
+b ) <QĐ rel="None"> Quyết_định số 183/2000/QĐ-NHNN2 ngày 14/6/2000 </QĐ> của Thống_đốc Nhn về việc bổ_sung và huỷ_bỏ một_số tài_khoản trong Hệ_thống tài_khoản kế_toán Nhn ban_hành theo <QĐ rel="DC"> Quyết_định số 425/1998/QĐ-NHNN ngày 17/12/1998 </QĐ> của Thống_đốc Nhn ;
+
+c ) <QĐ rel="None"> Quyết_định số 225/2001/QĐ-NHNN ngày 23/3/2001 </QĐ> của Thống_đốc Nhn về việc huỷ_bỏ Bảng cân_đối tài_chính của Nhn ban_hành kèm theo <QĐ rel="DC"> Quyết_định 425/1998/QĐ-NHNN2 ngày 17/12/1998 </QĐ>;
+
+d ) <QĐ rel="None"> Quyết_định số 162/2002/QĐ-NHNN ngày 06/3/2002 </QĐ> của Thống_đốc Nhn về việc bổ_sung và huỷ_bỏ một_số tài_khoản trong hệ_thống tài_khoản kế_toán Nhn ;
+
+đ ) <QĐ rel="None"> Quyết_định số 961/2002/QĐ-NHNN ngày 09/9/2002 </QĐ> của Thống_đốc Nhn về việc sửa_đổi và bổ_sung một_số tài_khoản trong Hệ_thống tài_khoản kế_toán Nhn ban_hành kèm theo <QĐ rel="DC"> Quyết_định số 425/1998/QĐ-NHNN2 ngày 17/12/1998 </QĐ> của Thống_đốc Nhn ;
+
+e ) <QĐ rel="None"> Quyết_định số 1579/2003/QĐ-NHNN ngày 01/12/2003 </QĐ> của Thống_đốc Nhn về việc sửa_đổi , bổ_sung , huỷ_bỏ một_số tài_khoản trong Hệ_thống tài_khoản kế_toán Nhn ;
+
+g ) <QĐ rel="None"> Quyết_định số 1638/2003/QĐ-NHNN ngày 26/12/2003 </QĐ> của Thống_đốc Nhn về việc sửa_đổi , bổ_sung một_số tài_khoản trong Hệ_thống tài_khoản kế_toán Nhn ;
+
+h ) <QĐ rel="None"> Quyết_định số 56/2006/QĐ-NHNN ngày 14/12/2006 </QĐ> của Thống_đốc Nhn về việc sửa_đổi , bổ_sung , huỷ_bỏ một_số tài_khoản trong Hệ_thống tài_khoản kế_toán Nhn ban_hành theo <QĐ rel="DC"> Quyết_định số 425/1998/QĐ-NHNN ngày 17/12/1998 </QĐ>, <QĐ rel="DC"> Quyết_định số 162/2002/QĐ-NHNN ngày 06/3/2002 </QĐ>, <QĐ rel="DC"> Quyết_định số 961/2002/QĐ-NHNN ngày 09/9/2002 </QĐ>, <QĐ rel="DC"> Quyết_định số 1579/2003/QĐ-NHNN ngày 01/12/2003 </QĐ>, <QĐ rel="DC"> Quyết_định số 1638/2003/QĐ-NHNN ngày 26/12/2003 </QĐ> của Thống_đốc Nhn .
+
+Điều 14 . Tổ_chức thực_hiện
+
+Chánh văn_phòng , Vụ_trưởng Vụ Tài_chính - Kế_toán , Cục_trưởng Cục Công_nghệ tin_học , Giám_đốc Nhn Chi_nhánh tỉnh , thành_phố trực_thuộc trung_ương , Thủ_trưởng các đơn_vị thuộc Nhn chịu trách_nhiệm tổ_chức thi_hành Thông_tư này . / .

@@ -1,0 +1,173 @@
+Thông_tư số 71/2015/tt-btnmt ngày 24 tháng 12 năm 2015 của bộ tài_nguyên và môi_trường
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 21/2013/NĐ-CP ngày 04 tháng 3 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định số 30/2014/QĐ-TTg ngày 26 tháng 4 năm 2014 </QĐ> của Thủ_tướng chính_phủ về việc Quản_lý , vận_hành và khai_thác vệ_tinh quan_sát trái_đất đầu_tiên của Việt_nam_vNREDSat - 1 ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 </QĐ> của Thủ_tướng Chính_phủ quy_định về thu_nhận , xử_lý , khai_thác và sử_dụng dữ_liệu viễn_thám quốc_gia ; <QĐ rel="None"> Quyết_định số 76/2014/QĐ-TTg ngày 24 tháng 12 năm 2014 </QĐ> của Thủ_tướng Chính_phủ sửa_đổi , bổ_sung một_số điều của <QĐ rel="None"> Quyết_định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 </QĐ> của Thủ_tướng Chính_phủ quy_định về thu_nhận , lưu_trữ , xử_lý , khai_thác và sử_dụng dữ_liệu viễn_thám quốc_gia ;
+
+Xét đề_nghị của Cục_trưởng Cục Viễn_thám quốc_gia , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ,
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành <TT rel="None"> Thông_tư quy_định kĩ_thuật </TT> đặt chụp ảnh viễn_thám .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về nội_dung và kĩ_thuật của việc đặt chụp ảnh viễn_thám .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với các cơ_quan , tổ_chức , cá_nhân có các hoạt_động liên_quan đến việc đặt chụp ảnh viễn_thám .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Đặt chụp ảnh viễn_thám là việc xác_định yêu_cầu chụp ảnh , xây_dựng đơn hàng và theo_dõi quá_trình thực_hiện đơn hàng đặt chụp ảnh viễn_thám .
+
+2 . Bên đặt chụp ảnh viễn_thám ( sau đây gọi là Bên đặt chụp ảnh ) là cơ_quan , tổ_chức có chức_năng đặt chụp ảnh viễn_thám và được cấp có thẩm_quyền cho phép .
+
+3 . Khách_hàng là các cơ_quan , tổ_chức hoặc cá_nhân có nhu_cầu về đặt chụp ảnh viễn_thám .
+
+4 . Đơn hàng đặt ảnh viễn_thám là thoả_thuận về đặt chụp dữ_liệu ảnh viễn_thám giữa khách_hàng và bên đặt chụp ảnh .
+
+5 . Ảnh xem nhanh ( từ tiếng Anh là Quicklook ) là ảnh có kích_thước nhỏ , được rút_gọn từ ảnh thực .
+
+6 . Kích_thước đặt ảnh viễn_thám tối_thiểu là diện_tích và độ dài cạnh nhỏ nhất cho phép của vùng đặt chụp ảnh trên thực_địa và được quy_định riêng đối_với từng loại ảnh viễn_thám .
+
+Chương_ii
+
+Quy_định Kỹ_thuật Đặt Chụp Ảnh Viễn_thám
+
+Điều 4 . Xác_định yêu_cầu về dữ_liệu viễn_thám
+
+1 . Căn_cứ vào yêu_cầu về dữ_liệu viễn_thám của khách_hàng , bên đặt chụp ảnh phải chuẩn_hoá nội_dung các thông_tin phục_vụ đặt ảnh viễn_thám , bao_gồm :
+
+a ) Vị_trí , phạm_vi của khu_vực đặt chụp ảnh được dựa trên một trong các trường_hợp sau :
+
+- Hình đa_giác với các toạ_độ của các đỉnh đa_giác . Các cạnh của đa_giác không được cắt nhau , số đỉnh tối_thiểu là 3 và tối_đa là 99 ;
+
+- Hình chữ_nhật với toạ_độ góc trên bên trái và góc dưới bên phải ;
+
+- Hình_tròn với toạ_độ tâm và bán_kính ( độ chính_xác đến giây hoặc km ) . Toạ_độ có_thể là toạ_độ địa_lí ( độ chính_xác đến giây ) hoặc toạ_độ bản_đồ ( độ chính_xác đến km ) ;
+
+- Địa_danh , địa_giới ;
+
+- Theo các đối_tượng_hình tuyến , đường bờ ( sông , biển ) ;
+
+Trên_cơ_sở các thông_tin trên , bên đặt chụp ảnh phải xây_dựng sơ_đồ để xác_định chính_xác vị_trí , phạm_vi khu_vực đặt chụp ảnh .
+
+b ) Thời_điểm và tần_suất chụp ảnh
+
+- Thời_điểm xác_định theo ngày , tháng , năm hoặc theo mùa ;
+
+- Tần_suất chụp một lần hay lặp lại nhiều lần .
+
+c ) Thông_số kĩ_thuật của ảnh
+
+- Tên loại dữ_liệu ảnh ( bộ cảm hoặc vệ_tinh ) ;
+
+- Chế_độ chụp ảnh ;
+
+- Góc_nghiêng chụp ảnh ;
+
+- Độ_phủ chờm giữa các ảnh ;
+
+- Kênh_phổ ;
+
+- Độ phân_giải mặt_đất ;
+
+- Số_lượng bit để biểu_diễn giá_trị độ xám của điểm_ảnh .
+
+d ) Mục_đích sử_dụng ảnh viễn_thám .
+
+đ ) Độ che_phủ mây theo các mức quy_định tại <TT rel="DC"> Thông_tư số 10/2015/TT-BTNMT ngày 25 tháng 03 năm 2015 </TT> của Bộ Tài_nguyên và Môi_trường quy_định kĩ_thuật về sản_xuất ảnh viễn_thám quang_học độ phân_giải cao và siêu cao để cung_cấp đến người sử_dụng .
+
+e ) Hệ toạ_độ : hệ toạ_độ Quốc_gia Vn - 2000 hoặc hệ toạ_độ khác theo nhu_cầu của khách_hàng .
+
+2 . Đối_với các yêu_cầu_khẩn_cấp , chỉ cần xác_định khu_vực đặt chụp ảnh dựa trên các thông_tin về toạ_độ hoặc địa_danh , phạm_vi của khu_vực và thời_điểm cần đặt chụp ảnh viễn_thám .
+
+Điều 5 . Xây_dựng đơn hàng đặt chụp ảnh viễn_thám
+
+Bên đặt chụp ảnh phải thực_hiện các công_đoạn sau :
+
+1 . Phân_loại , sắp_xếp các yêu_cầu chụp ảnh theo mức_độ ưu_tiên .
+
+2 . Phân_tích , đánh_giá sự phù_hợp giữa nhu_cầu ứng_dụng của khách_hàng với loại ảnh viễn_thám và các thông_số tương_ứng được yêu_cầu . Dựa trên kết_quả phân_tích , đánh_giá , cùng với khách_hàng lựa_chọn và đặt_hàng các loại ảnh viễn_thám với các thông_số thích_hợp_nhất .
+
+3 . Tính_toán xác_định kích_thước các vùng đặt chụp ảnh . Nếu kích_thước các vùng đặt chụp nhỏ hơn kích_thước đặt chụp ảnh tối_thiểu thì phải thống_nhất với khách_hàng để chỉnh_sửa lại , bảo_đảm tất_cả các vùng đặt chụp đều có kích_thước đạt yêu_cầu .
+
+4 . Đánh_giá bước_đầu tính khả_thi của yêu_cầu đặt chụp ảnh của khách_hàng và phân_loại theo 3 mức : cao , trung_bình và thấp .
+
+5 . Ước_tính diện_tích , số_lượng ảnh hoặc dải ảnh cần chụp , khoảng thời_gian cần_thiết để hoàn_thành toàn_bộ hoặc từng phần của yêu_cầu đặt chụp ảnh .
+
+6 . Điều_chỉnh yêu_cầu đặt chụp ảnh đối_với trường_hợp nếu khách_hàng muốn thay_đổi tính khả_thi , diện_tích , số_lượng ảnh hoặc thời_gian thi_công_ước_tính .
+
+Điều 6 . Đặt chụp ảnh viễn_thám
+
+1 . Bên đặt chụp ảnh tổng_hợp các yêu_cầu đặt chụp ảnh , bao_gồm yêu_cầu đặt chụp ảnh mới và các đơn hàng đặt chụp ảnh đang tiến_hành . Nếu có khu_vực yêu_cầu đặt chụp trùng nhau về vị_trí thì sẽ ưu_tiên yêu_cầu có đòi_hỏi cao hơn về thời_gian thực_hiện hoặc các thông_số kĩ_thuật .
+
+2 . Bên đặt chụp ảnh gửi đơn hàng tới cơ_quan vận_hành vệ_tinh .
+
+Điều 7 . Xác_nhận và chính_xác hoá nội_dung đơn hàng
+
+Trên_cơ_sở đơn hàng đã được xây_dựng tại Điều 5 Thông_tư này , bên đặt chụp ảnh phối_hợp với cơ_quan vận_hành vệ_tinh tiến_hành_xác_nhận và chính_xác hoá nội_dung của đơn hàng , bao_gồm các bước sau :
+
+1 . Phân_tích , đánh_giá chi_tiết tính khả_thi của đơn hàng theo các mức_độ như ở Khoản 4 Điều 5 Thông_tư này trên cơ_sở phân_tích , cân_đối giữa các yếu_tố sau :
+
+a ) Thời_điểm , khu_vực và các thông_số kĩ_thuật của yêu_cầu đặt chụp ảnh ;
+
+b ) Các đơn hàng , yêu_cầu đặt chụp ảnh khác đang và sẽ được cơ_quan vận_hành vệ_tinh thực_hiện ;
+
+c ) Năng_lực chụp ảnh và tài_nguyên hiện có của vệ_tinh ;
+
+d ) Số_liệu thống_kê về điều_kiện thời_tiết của khu_vực cần chụp ảnh viễn_thám trong các năm trước ;
+
+đ ) Thông_tin dự_báo thời_tiết tại khu_vực đặt chụp ảnh của Trung_tâm Khí_tượng Thuỷ_văn quốc_gia .
+
+2 . Tính_toán xác_định chính_xác diện_tích , số_lượng ảnh hoặc dải ảnh cần chụp và thời_gian , thời_điểm thi_công các hạng_mục của yêu_cầu chụp ảnh .
+
+3 . Điều_chỉnh đơn hàng đặt chụp ảnh nếu khách_hàng muốn thay_đổi tính khả_thi , diện_tích , số_lượng ảnh hoặc thời_gian thi_công_ước_tính .
+
+4 . Bên đặt chụp ảnh chính_thức xác_nhận nội_dung đơn hàng và thời_gian thi_công với cơ_quan vận_hành vệ_tinh và khách_hàng .
+
+Điều 8 . Theo_dõi việc thực_hiện đơn hàng đặt chụp ảnh viễn_thám
+
+Trong quá_trình thi_công đơn hàng , bên đặt chụp ảnh phải thường_xuyên tiến_hành các công_việc sau :
+
+1 . Kiểm_tra , đánh_giá chất_lượng các ảnh đã chụp được thông_qua ảnh xem nhanh . Nếu chất_lượng ảnh chưa đạt yêu_cầu thì phải thông_báo cho cơ_quan vận_hành vệ_tinh để tiến_hành chụp lại . Nội_dung các hạng_mục cần kiểm_tra được thực_hiện theo quy_định tại Điều 9 Thông_tư này .
+
+2 . Theo_dõi các thông_tin về thời_tiết tại các khu_vực thi_công . Nếu dự_báo thời_tiết tại các khu_vực đặt chụp thuận_lợi ( bầu_trời trong , ít mây ) , bên đặt chụp ảnh sẽ chủ_động yêu_cầu cơ_quan vận_hành vệ_tinh đẩy nhanh tiến_độ chụp ảnh viễn_thám . Trường_hợp dự_báo thời_tiết không thuận_lợi , bên đặt chụp ảnh sẽ đề_nghị cơ_quan vận_hành vệ_tinh tạm dừng chụp ảnh viễn_thám .
+
+Điều 9 . Kiểm_tra chất_lượng ảnh viễn_thám
+
+1 . Bên đặt chụp ảnh viễn_thám phải thường_xuyên kiểm_tra , đánh_giá chất_lượng ảnh viễn_thám đã chụp được trong suốt quá_trình thực_hiện đơn hàng theo đúng các tiêu_chuẩn , quy_chuẩn kĩ_thuật và các quy_định hiện_hành của Nhà_nước . Các nội_dung kiểm_tra bao_gồm :
+
+a ) Vị_trí của ảnh viễn_thám đã chụp phải trùng với vị_trí khu_vực đặt chụp trong đơn hàng ;
+
+b ) Độ che_phủ mây của ảnh viễn_thám đã chụp phải thấp hơn hoặc bằng độ che_phủ mây theo yêu_cầu ;
+
+c ) Ảnh viễn_thám đã chụp phải đảm_bảo về chất_lượng hình_ảnh trong quá_trình thu_nhận và xử_lí tín_hiệu . Tín_hiệu không bị lỗi hay bị đứt_đoạn , ảnh có độ tương_phản đồng_đều , không bị loá , không quá tối , không có những đốm hoặc vệt đen do các lỗi của hệ_thống .
+
+2 . Trường_hợp ảnh viễn_thám đã chụp chưa đạt yêu_cầu , bên đặt chụp ảnh viễn_thám sẽ yêu_cầu cơ_quan vận_hành vệ_tinh tiến_hành chụp lại .
+
+Chương_iii
+
+Điều_khoản Thi_hành
+
+Điều 10 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực từ ngày 15 tháng 02 năm 2016 .
+
+Điều 11 . Tổ_chức thực_hiện
+
+1 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ ; Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Cục Viễn_thám quốc_gia , Bộ Tài_nguyên và Môi_trường có trách_nhiệm hướng_dẫn , kiểm_tra việc thực_hiện Thông_tư này .
+
+3 . Sở Tài_nguyên và Môi_trường các tỉnh có trách_nhiệm giúp Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương triển_khai thực_hiện Thông_tư này ở địa_phương .
+
+4 . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , quyết_định . / .

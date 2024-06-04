@@ -1,0 +1,1177 @@
+Thông_tư số 21/2018/tt-btttt ngày 28 tháng 12 năm 2018 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Tần_số vô_tuyến_điện ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều <LT rel="CC"> Luật tiêu_chuẩn và quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về phao vô_tuyến chỉ vị_trí khẩn_cấp hàng_hải ( epirb ) hoạt_động ở băng tần 406 , 0 MHz đến 406 , 1 MHz .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về phao vô_tuyến chỉ vị_trí khẩn_cấp hàng_hải ( epirb ) hoạt_động ở băng tần 406 , 0 MHz đến 406 , 1 MHz ( qcvn 57 : 2018 / bt ) .
+
+Điều 2 .
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2019 .
+
+2 . Quy_chuẩn kĩ_thuật quốc_gia về phao vô_tuyến chỉ vị_trí khẩn_cấp hàng_hải ( epirb ) hoạt_động ở băng tần 406 , 0 MHz đến 406 , 1 MHz , Ký_hiệu Qcvn 57 : 2011 / bt quy_định tại Khoản 17 Điều 1 <TT rel="HHL"> Thông_tư số 29/2011/TT-BTTTT ngày 26 tháng 10 năm 2011 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_chuẩn kĩ_thuật quốc_gia về viễn_thông hết hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2019 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 57 : 2018 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Phao Vô_tuyến Chỉ Vị_trí Khẩn_cấp Hàng_hải ( epirb ) Hoạt_động Ở Băng_tần 406 , 0 MHz Đến 406 , 1 MHz
+
+National technical regulation on Emergency Position Indicating Radio_beacons ( EPIRBs ) operating in the 406 , 0 MHz to 406 , 1 MHz frequency band
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Yêu_cầu chung
+
+2 . 1 . 1 . Thiết_bị dẫn đường
+
+2 . 1 . 2 . Nguồn
+
+2 . 2 . Điều_kiện đo_kiểm
+
+2 . 2 . 1 . Yêu_cầu chung
+
+2 . 2 . 2 . Kiểm_tra chất_lượng
+
+2 . 2 . 3 . Chuẩn_bị Epirb để đo_kiểm
+
+2 . 2 . 4 . Trình_tự đo_kiểm
+
+2 . 2 . 5 . Nguồn đo_kiểm
+
+2 . 2 . 6 . Vị_trí đo_kiểm
+
+2 . 2 . 7 . Thiết_lập đo_kiểm
+
+2 . 2 . 8 . Máy thu đo
+
+2 . 2 . 9 . Ăng ten đo
+
+2 . 2 . 10 . Điều_kiện đo kiểm bình_thường
+
+2 . 2 . 11 . Điều_kiện đo kiểm tới hạn
+
+2 . 2 . 12 . Thủ_tục đo kiểm ở nhiệt_độ tới hạn
+
+2 . 2 . 13 . Độ không đảm_bảo đo
+
+2 . 3 . Thử_nghiệm môi_trường
+
+2 . 3 . 1 . Yêu_cầu chung
+
+2 . 3 2 . Thử nhiệt_độ
+
+2 . 3 . 3 . Thử rung
+
+2 . 3 . 4 . Thử va_chạm
+
+2 . 3 . 5 . Thử ăn_mòn
+
+2 . 3 . 6 . Thử rơi vào nước
+
+2 . 3 . 7 . Thử sốc nhiệt
+
+2 . 3 . 8 . Thử ngâm nước
+
+2 . 3 . 9 . Thử tác_động của dòng phun nước
+
+2 . 3 . 10 . Thử nổi
+
+2 . 3 . 11 . Thử bức_xạ mặt_trời
+
+2 . 3 . 12 . Thử tác_dụng của dầu
+
+2 . 4 . Máy_phát
+
+2 . 4 . 1 . Công_suất đầu_ra
+
+2 . 4 . 2 . Tần_số đặc_trưng
+
+2 . 4 . 3 . Độ ổn_định tần_số thời_hạn ngắn
+
+2 . 4 . 4 . Độ ổn_định tần_số thời_hạn trung_bình
+
+2 . 4 . 5 . Mặt_nạ phổ Rf
+
+2 . 5 . Định_dạng tín_hiệu
+
+2 . 5 . 1 . Yêu_cầu chung
+
+2 . 5 . 2 . Chu_kì lặp_lại
+
+2 . 5 . 3 . Tổng_thời_gian phát ( Tt )
+
+2 . 5 . 4 . Phần mào_đầu sóng mang ( cw )
+
+2 . 5 . 5 . Tốc_độ bit
+
+2 . 6 . Các yêu_cầu kĩ_thuật khác
+
+2 . 6 . 1 . Dung_lượng pin
+
+2 . 6 . 2 . Thiết_bị dẫn đường
+
+2 . 7 . Đo công_suất phát_xạ
+
+2 . 7 . 1 . Yêu_cầu chung
+
+2 . 7 . 2 . Công_suất phát_xạ
+
+2 . 7 . 3 . Các đặc_tính ăng ten
+
+3 . Quy_định Về Quản_lý
+
+4 . Trách_nhiệm Của Tổ_chức Cá_nhân
+
+5 . Tổ_chức Thực_hiện
+
+Thư_mục_tài_liệu Tham_khảo
+
+Lời_nói_đầu
+
+Qcvn 57 : 2018 / bt thay_thế Qcvn 57 : 2011 / bt .
+
+Qcvn 57 : 2018 / bt phù_hợp với tiêu_chuẩn Etsi En 300 066 V1 . 3 . 1 ( 2001 - 01 ) , của Viện Tiêu_chuẩn viễn_thông châu Âu ( etsi ) và C / s T . 012 ( 2 - 2018 ) của tổ_chức Cospas - Sarsat .
+
+Qcvn 57 : 2018 / bt do Viện Khoa_học Kỹ_thuật Bưu_điện biên_soạn , Vụ Khoa_học và Công_nghệ thẩm_định và trình_duyệt , Bộ Thông_tin và Truyền_thông ban_hành kèm theo số / 2018 / tbt n<TT rel="None"> Thông_tư gày_tháng năm 2018 </TT> .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Phao Vô_tuyến Chỉ Vị_trí Khẩn_cấp Hàng_hải ( epirb ) Hoạt_động Ở Băng_tần 406 , 0 MHz Đến 406 , 1 MHz
+
+National technical regulation on Emergency Position Indicating Radio_beacons ( EPIRBs ) operating in the 406 , 0 MHz to 406 , 1 MHz frequency band
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn này quy_định các yêu_cầu tối_thiểu về chất_lượng và các đặc_tính kĩ_thuật cho các loại Phao vô_tuyến chỉ vị_trí khẩn_cấp ( epirb ) hoạt_động trong hệ_thống vệ_tinh Cospas - sarsat để đảm_bảo thông_tin vô_tuyến trong Hệ_thống thông_tin an_toàn và cứu nạn hàng_hải toàn_cầu ( gmds ) .
+
+Quy_chuẩn này áp_dụng cho các Epirb hoạt_động ở băng tần 406 , 0 MHz đến 406 , 1 MHz , cùng với thiết_bị dẫn đường công_suất thấp hoạt_động tại tần_số 121 , 5 MHz .
+
+Quy_chuẩn này áp_dụng cho các Epirb_gắn trong các phương_tiện hàng_hải .
+
+Quy_chuẩn này áp_dụng cho các Epirb hoạt_động thông_qua hệ_thống thông_tin vệ_tinh trong khoảng nhiệt_độ :
+
+- 40 C đến + 55 C ( loại 1 ) ; hoặc
+
+- 20 C đến + 55 C ( loại 2 ) ;
+
+với một cơ_cấu tự thả .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn này được áp_dụng cho các tổ_chức , cá_nhân Việt_nam và nước_ngoài có hoạt_động_sản_xuất , kinh_doanh các thiết_bị thuộc phạm_vi điều_chỉnh trong mục 1 . 1 trên toàn lãnh_thổ Việt_nam .
+
+1 . 3 . Tài_liệu viện_dẫn
+
+Etsi En 300 066 V1 . 3 . 1 ( 2001 - 01 ) : ElectroMagnetic Compatibility and Radio Spectrum_matters ( erm ) ; Float - free maritime satellite Emergency Position Indicating Radio_beacons ( EPIRBs ) operating in the 406 , 0 MHz to 406 , 1 MHz frequency band ; Technical characteristics and methods of measurement .
+
+C / s T . 012 Issue 1 - Revision 13 February 2018 : Cospas - sarsat 406 MHz frequency management plan .
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 4 . 1 . Epirb vệ_tinh ( satellite Epirb )
+
+Trạm mặt_đất thuộc nghiệp_vụ thông_tin lưu_động qua vệ_tinh , phát_xạ của nó phục_vụ cho các hoạt_động tìm_kiếm và cứu nạn .
+
+1 . 4 . 2 . Cơ_cấu tự thả ( release mechanism )
+
+Một cơ_cấu cho phép Epirb tự_động thả và nổi tự_do .
+
+1 . 4 . 3 . Thiết_bị dẫn đường ( homing device )
+
+Báo_hiệu vô_tuyến 121 , 5 MHz , chủ_yếu cho dẫn đường bằng tầu_bay .
+
+1 . 4 . 4 . Khối điều_khiển từ xa ( remote control unit )
+
+Khối cho phép kích_hoạt Epirb từ xa khi Epirb được lắp trong cơ_cấu tự thả .
+
+1 . 4 . 5 . Thiết_bị ( equipment )
+
+Thiết_bị Epirb bao_gồm thiết_bị dẫn đường 121 , 5 MHz , cơ_cấu tự thả và khối điều_khiển từ xa .
+
+Loại 1 : Epirb vệ_tinh hoạt_động trong dải nhiệt_độ từ - 40 C đến + 55 C .
+
+Loại 2 : Epirb vệ_tinh hoạt_động trong dải nhiệt_độ từ - 20 C đến + 55 C .
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Yêu_cầu chung
+
+2 . 1 . 1 . Thiết_bị dẫn đường
+
+Epirb phải được trang_bị thiết_bị dẫn đường hoạt_động ở tần_số 121 , 5 MHz và thiết_bị này phải thoả_mãn các yêu_cầu của mục 2 . 6 . 2 .
+
+2 . 1 . 2 . Nguồn
+
+2 . 1 . 2 . 1 . Yêu_cầu về pin
+
+Tuổi_thọ của pin được xác_định bằng ngày hết hạn phải 3 năm .
+
+Ngày hết hạn của pin là ngày tính từ ngày sản_xuất pin cộng với tối_đa một nửa thời_gian hoạt_động có_ích của pin . Ngày hết hạn phải được đánh_dấu rõ_ràng .
+
+Thời_gian hoạt_động có_ích của pin được định_nghĩa_là khoảng thời_gian sau ngày sản_xuất pin mà pin vẫn còn thoả_mãn các yêu_cầu cấp nguồn điện cho phao Epirb .
+
+Để xác_định thời_gian hoạt_động có_ích của pin , các tổn hao dưới đây trong điều_kiện nhiệt_độ + 20 C 5 C phải được tính đến :
+
+- Tự thử với tần_suất một tháng_một lần ;
+
+- Tự xả của pin ;
+
+- Tổn hao trong chế_độ chờ ( nếu có ) .
+
+2 . 1 . 2 . 2 . Yêu_cầu_an_toàn
+
+Không nối ngược cực tính của pin .
+
+Pin không bị rò_rỉ các chất_độc_hại hoặc ăn_mòn ở bên trong hoặc bên ngoài phao Epirb trong các điều_kiện sau đây :
+
+- Trong hoặc sau khi đã bảo_quản ở nhiệt_độ giữa - 55 C và + 75 C ;
+
+- Trong khi xả hết pin hoặc một phần với bất_cứ tốc_độ nào , bao_gồm cả việc ngắn mạch bên ngoài ;
+
+- Sau khi xả hết pin hoặc một phần .
+
+Pin không gây nguy_hiểm cho người xử_lý , sử_dụng hoặc nhà sản_xuất khi thực_hiện vận_chuyển , lưu_giữ và cài_đặt theo các điều_kiện quy_định .
+
+2 . 2 . Điều_kiện đo_kiểm
+
+2 . 2 . 1 . Yêu_cầu chung
+
+Các yêu_cầu của Quy_chuẩn này phải được thoả_mãn sau thời_gian 15 min khởi_động .
+
+Nhà sản_xuất phải cung_cấp đầy_đủ thông_tin để thiết_lập , kiểm_tra và vận_hành thiết_bị trong khi đo kiểm .
+
+2 . 2 . 2 . Kiểm_tra chất_lượng
+
+Trong Quy_chuẩn này kiểm_tra chất_lượng nghĩa_là :
+
+- Xác_định tần_số đặc_trưng từ 4 lần đo tần_số sóng mang của tín_hiệu không điều_chế fc ( 1 ) , ở các điều_kiện đo kiểm tới hạn ( mục 2 . 2 . 11 và 2 . 2 . 12 ) trong thời_gian S1 ( Hình 5 ) của bốn lần phát liên_tiếp như sau :
+
+- Đối_với mốc có tần_số danh định 406 , 025 MHz , tần_số đặc_trưng phải nằm giữa 406 , 023 MHz và 406 , 027 MHz ;
+
+- Đối_với mốc có tần_số danh định 406 , 028 MHz , tần_số đặc_trưng phải nằm giữa 406 , 027 MHz và 406 , 029 MHz ;
+
+- Đo công_suất đầu_ra của Epirb ở các điều_kiện đo kiểm bình_thường . Công_suất đầu_ra phải là : 37 dBm 2 dB ;
+
+- Đo công_suất đầu_ra của thiết_bị dẫn đường 121 , 5 MHz ở các điều_kiện đo kiểm bình_thường . Công_suất đầu_ra phải là : 17 dBm 3 dB ;
+
+- Đo tần_số sóng mang của thiết_bị dẫn đường 121 , 5 MHz ở các điều_kiện đo kiểm bình_thường . Tần_số sóng mang phải là : 121 , 5 MHz 3 , 5 kHz .
+
+- Kiểm_tra hoạt_động của đèn báo_hiệu có công_suất thấp .
+
+2 . 2 . 3 . Chuẩn_bị Epirb để đo_kiểm
+
+Khi đo kiểm , Epirb phải được lập_trình để phát các cụm số_liệu được mã_hoá theo giao_thức thích_hợp và định_dạng như mục của Etsi En 300 066 . Thiết_bị dẫn đường phải được chuẩn_bị để phát khi đo kiểm . Tránh_phát tín_hiệu cứu nạn trên các tần_số cứu nạn và an_toàn bằng cách bù tần_số hoặc mã_hoá đo kiểm .
+
+Nhà sản_xuất phải cung_cấp Epirb có cổng ăng ten có_thể nối được với thiết_bị đo kiểm bằng cáp đồng trục có tải kết cuối 50 . Dây nối này phải không thấm nước và chịu được tất_cả các điều_kiện môi_trường , cổng ăng ten có_thể được nhà sản_xuất chuẩn_bị trước khi đo kiểm .
+
+2 . 2 . 4 . Trình_tự đo_kiểm
+
+Các phép đo phải được thực_hiện theo thứ_tự như trong Quy_chuẩn này .
+
+Tất_cả các phép đo phải được thực_hiện trên một khối duy_nhất và được chuẩn_bị theo mục 2 . 2 . 3 .
+
+2 . 2 . 5 . Nguồn đo_kiểm
+
+Thiết_bị phải sử_dụng nguồn pin bên trong khi thực_hiện các đo kiểm và kiểm_tra chất_lượng .
+
+2 . 2 . 6 . Vị_trí đo_kiểm
+
+Vị_trí đo kiểm là một vị_trí không có các vật phản_xạ như cây và các vật kim_loại . Các vật phản_xạ không được nằm trong phạm_vi đường elip có kích_thước như trong Hình 1 .
+
+Hình 1 - Vị_trí đo_kiểm mẫu
+
+Địa_hình bên ngoài vị_trí đo phải bằng_phẳng . Bất_kì vật dẫn nào bên trong vùng elip phải có kích_thước nhỏ hơn 7 cm . Chuẩn_bị mặt sàn kim_loại hoặc lưới dây để có_thể bao_phủ ít_nhất vùng elip có trục lớn và trục nhỏ như trong Hình 1 . Tất_cả các dây_điện và cáp phải được đi dưới sàn . Cáp ăng ten phải được kéo_dài sau ăng ten đo 1 , 5 m so với hai trục , dọc theo trục lớn trước khi đi xuống sàn .
+
+Trong khi đo , không có người nào được đứng trong phạm_vi 6 m tính từ Epirb . Báo_cáo đo kiểm phải trình_bày chi_tiết về môi_trường đo kiểm .
+
+Có_thể bao quanh vị_trí đo kiểm bằng các vật_liệu như sợi thuỷ_tinh , nhựa , gỗ hoặc vải .
+
+2 . 2 . 7 . Thiết_lập đo_kiểm
+
+Thiết_lập đo kiểm như trong Hình 2 .
+
+Epirb được đặt ở tư_thế hoạt_động như theo thiết_kế và Epirb được đặt trong một mặt hình_tròn có khả_năng quay 360 trong mặt_phẳng phương vị . Như chỉ trong hình 2 , mặt xoay B phải có bán_kính tối_thiểu là 1 , 7 ( 125 cm ) và được làm_bằng vật_liệu dẫn_điện cao ( đồng hoặc nhôm ) . Nó phải được đặt trên mặt sàn A ở độ cao chuẩn X = 0 , 75 m 0 , 10 m . Vạch nổi của Epirb phải ngang mặt xoay B và ăng ten của Epirb được định_vị ở giữa .
+
+Hình 2 - Thiết_lập đo_kiểm
+
+2 . 2 . 8 . Máy thu đo
+
+Máy thu đo ( có_thể là máy đo cường_độ trường hoặc máy phân_tích phổ ) được hiệu_chỉnh như sau :
+
+a ) Nối_thiết_bị như trong Hình 2 . Lắp_đặt Epirb như trong mục 2 . 2 . 7 .
+
+b ) Bật_epirb phát bình_thường . Đặt băng_thông máy thu để đo công_suất phát Băng_thông này được sử_dụng trong quá_trình đo ăng ten . Điều_chỉnh máy thu để có tín_hiệu thu cực_đại . Định_vị ăng ten đo trong mặt_phẳng ( đứng hoặc ngang ) mà có tín_hiệu thu được lớn nhất . Xoay ăng ten Epirb và xác_định_hướng có cường_độ trường bức_xạ trung_bình . Ghi lại mức thu ;
+
+c ) Ngắt ăng ten đo và cấp nguồn Rf chuẩn tới máy thu thông_qua cáp ăng ten đo . Điều_chỉnh nguồn tín_hiệu để có cùng mức thu như trong b ) ;
+
+d ) Ngắt nguồn Rf chuẩn từ cáp ăng ten đo và đo đầu_ra Rf bằng máy đo công_suất ;
+
+e ) Nối lại nguồn Rf chuẩn tới cáp ăng ten đo và điều_chỉnh tăng ích chuẩn của máy thu .
+
+2 . 2 . 9 . Ăng ten đo
+
+Trường bức_xạ của ăng ten Epirb được dò_tìm và đo bằng ăng ten lưỡng_cực . Ăng ten lưỡng_cực được đặt cách ăng ten Epirb 3 m và được lắp trên một cột đỡ thẳng_đứng mà có_thể thay_đổi độ cao của ăng ten đo từ 1 , 3 m đến 4 , 3 m ( nghĩa_là từ 10 đến 15 độ so với mặt_phẳng B được đặt ở độ cao chuẩn X = 0 , 75 m , Hình 2 ) . Ăng ten đo phải được nâng lên ở góc ngẩng được tính theo công_thức sau :
+
+h = 3 tg và H = h + X
+
+Trong đó :
+
+X là độ cao chuẩn ( 0 , 75 m ) ;
+
+h là độ cao của ăng ten đo so với độ cao chuẩn X ;
+
+là góc ngẩng so với mặt xoay B ( ở độ cao chuẩn X ) ;
+
+H là độ cao của ăng ten đo so với mặt sàn A .
+
+Chú_thích : điểm giữa của ăng ten lưỡng_cực được sử_dụng để xác_định độ cao của nó .
+
+Khi ăng ten đo được nâng theo phương thẳng_đứng , khoảng_cách ( r ) giữa ăng ten Epirb và ăng ten đo tăng lên . Khoảng_cách ( r ) là hàm của góc ngẩng ( ) và được tính theo công_thức sau :
+
+Cần biết hệ_số ăng ten ( af ) của ăng ten đo ở 406 MHz .
+
+Hệ_số này thường được nhà sản_xuất ăng ten lưỡng_cực cung_cấp . Nó được sử_dụng để chuyển_đổi số_đo điện_áp cảm_ứng thành cường_độ trường điện từ .
+
+Do giá_trị của Af phụ_thuộc vào hướng truyền sóng so với hướng của ăng ten thu nên ăng ten lưỡng_cực phải luôn vuông_góc với hướng truyền sóng . Để giảm sai_số trong khi đo , sử_dụng hệ_số hiệu_chỉnh đồ_thị phương_hướng của ăng ten đo ( Hình 3 ) , nếu ăng ten đo không vuông_góc với hướng truyền sóng . Với ăng ten lưỡng_cực , hệ_số hiệu_chỉnh ăng ten được tính như sau :
+
+và
+
+Trong đó :
+
+Af là hệ_số ăng ten của ăng ten do ở 406 , 0 MHz ;
+
+là góc ngẩng ;
+
+P là hệ_số hiệu_chỉnh của ăng ten lưỡng_cực .
+
+Chú_thích : Hệ_số hiệu_chỉnh ( p ) bằng 1 khi ăng ten đo vuông_góc với hướng truyền sóng . Vì_vậy , P bằng 1 khi ăng ten đo phân_cực ngang ở bất_kì góc ngẩng nào . Hệ_số hiệu_chỉnh chỉ áp_dụng với các phép đo phân_cực đứng .
+
+Hình 3 - Ăng ten đo vuông_góc với phương truyền sóng
+
+Hình 4 - Ăng ten đo không vuông_góc với phương truyền sóng
+
+2 . 2 . 10 . Điều_kiện đo kiểm bình_thường
+
+Điều_kiện nhiệt_độ và độ_ẩm :
+
+- Nhiệt_độ : + 15 C đến 35 C ;
+
+- Độ_ẩm tương_đối : 20 % đến 75 % .
+
+2 . 2 . 11 . Điều_kiện đo kiểm tới hạn
+
+Các phép đo được thực_hiện theo thủ_tục trong mục 2 . 2 . 12 tại các nhiệt_độ tới hạn dưới và trên như sau :
+
+- Với Epirb là thiết_bị loại 1 : - 40 C và + 55 C ;
+
+- Với Epirb là thiết_bị loại 2 : - 20 C và + 55 C .
+
+Khi đo kiểm cơ_cấu tự thả ở nhiệt_độ tới hạn , nhiệt_độ tới hạn dưới và trên là - 30 C và + 65 C .
+
+2 . 2 . 12 . Thủ_tục đo kiểm ở nhiệt_độ tới hạn
+
+Thiết_bị phải tắt trong lúc ổn_định nhiệt_độ .
+
+Trước khi thực_hiện các phép đo , thiết_bị phải đạt được cân_bằng nhiệt trong buồng đo và được bật trong thời_gian 15 min .
+
+2 . 2 . 13 . Độ không đảm_bảo đo
+
+Bảng 1 - Các giá_trị cực_đại của độ không đảm_bảo đo tuyệt_đối
+
+2 . 3 . Thử_nghiệm môi_trường
+
+2 . 3 . 1 . Yêu_cầu chung
+
+Thử_nghiệm này có_thể không cần nếu nhà sản_xuất có_thể cung_cấp đủ các chứng_cứ mà các thành_phần , vật_liệu , . . . duy_trì được chỉ_tiêu điện và cơ cho Epirb dưới tác_dụng môi_trường quy_định trong mục 2 . 3 .
+
+Các thử_nghiệm môi_trường trong mục này được thực_hiện trước các phép đo kiểm khác và phải được thực_hiện dưới điều_kiện đo kiểm bình_thường trừ khi có chỉ_định khác . Epirb phải được lắp_đặt trong cơ_cấu tự thả ở điều_kiện hoạt_động bình_thường nhưng không được phát ( mục 2 . 1 . 2 ) , trừ khi có chỉ_định khác .
+
+2 . 3 . 2 . Thử nhiệt_độ
+
+2 . 3 . 2 . 1 . Định_nghĩa
+
+Khả_năng của thiết_bị duy_trì chỉ_tiêu điện và cơ không đổi sau khi thử nhiệt_độ .
+
+Tốc_độ tăng và giảm nhiệt_độ của buồng đo tối_đa là 1 C / min .
+
+2 . 3 . 2 . 2 . Thử nung khô
+
+2 . 3 . 2 . 2 . 1 . Phương_pháp thử
+
+Thiết_bị phải được đặt trong một buồng đo có nhiệt_độ phòng bình_thường . Sau đó tăng nhiệt_độ và giữ ở 70 C ( 3 C ) trong một khoảng thời_gian từ 10 h đến 16 h .
+
+Sau thời_gian này , bộ_phận điều_khiển nhiệt_độ trong thiết_bị mới được bật và nhiệt_độ buồng đo được giảm xuống + 55 C ( 3 C ) . Quá_trình giảm nhiệt_độ phải hoàn_thành trong 30 min .
+
+Sau đó Epirb được bật và duy_trì làm_việc bình_thường trong 2 h . Nhiệt_độ của buồng đo phải được giữ ở + 55 C ( 3 C ) trong thời_gian này . Thiết_bị phải được kiểm_tra chất_lượng trong thời_gian 30 min cuối .
+
+Cuối quá_trình thử , buồng đo phải được giảm nhiệt_độ trong thời_gian không ít hơn 1 h . Thiết_bị được đặt trong điều_kiện nhiệt_độ và độ_ẩm phòng bình_thường trong thời_gian không ít hơn 3 h trước khi phép đo tiếp_theo được thực_hiện .
+
+2 . 3 . 2 . 2 . 2 . Yêu_cầu
+
+Các yêu_cầu của kiểm_tra chất_lượng phải được thoả_mãn .
+
+2 . 3 . 2 . 3 . Thử nung ẩm
+
+2 . 3 . 2 . 3 . 1 . Phương_pháp thử
+
+Thiết_bị phải được đặt trong một buồng đo ở nhiệt_độ phòng bình_thường . Độ_ẩm của phòng được giữ không đổi trong thời_gian 3 h ( 0 , 5 h ) . Thiết_bị được nung từ nhiệt_độ phòng tới 40 C ( 3 C ) và trong khoảng thời_gian này phải duy_trì độ_ẩm tương_đối ở 93 % ( 2 % ) .
+
+Những điều_kiện này phải được duy_trì trong một khoảng thời_gian từ 10 h đến 16 h . 30 min sau Epirb được bật và duy_trì làm_việc trong 2 h .
+
+Nhiệt_độ và độ_ẩm tương_đối của buồng đo phải giữ ở 40 C ( 3 C ) và 93 % ( 2 % ) trong khoảng thời_gian 2 h 30 min . Thiết_bị phải được kiểm_tra chất_lượng trong thời_gian 30 min cuối .
+
+Cuối quá_trình thử , buồng đo phải được giảm xuống nhiệt_độ phòng bình_thường trong thời_gian không ít hơn 1 h . Thiết_bị được đặt trong điều_kiện nhiệt_độ và độ_ẩm phòng bình_thường trong thời_gian không ít hơn 3 h hoặc tới khi độ_ẩm được phân_tán đều trước khi thực_hiện kiểm_tra chất_lượng tiếp_theo .
+
+2 . 3 . 2 . 3 . 2 . Yêu_cầu
+
+Các yêu_cầu của kiểm_tra chất_lượng phải được thoả_mãn .
+
+2 . 3 . 2 . 4 . Thử nhiệt_độ thấp
+
+2 . 3 . 2 . 4 . 1 . Phương_pháp thử
+
+Thiết_bị phải được đặt trong một buồng đo có nhiệt_độ phòng bình_thường . Sau đó giảm nhiệt_độ và giữ ở - 40 C ( 3 C ) với Epirb loại 1 và - 30 C ( 3 C ) với Epirb loại 2 trong một khoảng thời_gian từ 10 h đến 16 h .
+
+Bộ_phận điều_khiển nhiệt_độ của thiết_bị được bật và phòng được chuyển tới nhiệt_độ - 20 C ( 3 C ) ( với thiết_bị loại 2 ) . Quá_trình này phải hoàn_thành trong 25 min ( 5 min ) .
+
+Nhiệt_độ của phòng phải được duy_trì ở - 20 C ( 3 C ) trong thời_gian 2 h .
+
+Thiết_bị được kiểm_tra chất_lượng trong 30 min cuối của quá_trình thử_nghiệm .
+
+Cuối quá_trình thử , buồng đo phải được giảm xuống nhiệt_độ phòng bình_thường trong thời_gian không ít hơn 1 h . Thiết_bị được đặt trong điều_kiện nhiệt_độ và độ_ẩm phòng bình_thường trong thời_gian không ít hơn 3 h hoặc tới khi độ_ẩm được phân_tán đều trước khi thực_hiện phép đo tiếp_theo .
+
+Trong khi thử_nghiệm thiết_bị phải hoạt_động bình_thường .
+
+2 . 3 . 2 . 4 . 2 . Yêu_cầu
+
+Các yêu_cầu của kiểm_tra chất_lượng phải được thoả_mãn .
+
+2 . 3 . 3 . Thử rung
+
+2 . 3 . 3 . 1 . Định_nghĩa
+
+Khả_năng của thiết_bị duy_trì chỉ_tiêu điện và cơ không đổi sau khi thử rung .
+
+2 . 3 . 3 . 2 . Phương_pháp thử
+
+Thiết_bị được gắn vào một bàn rung bởi các phương_tiện hỗ_trợ của nó . Thiết_bị có_thể được treo để bù trọng_lượng mà bàn rung không chịu được .
+
+Tránh các ảnh_hưởng đến chỉ_tiêu thiết_bị do trường điện_từ của khối rung .
+
+Thiết_bị phải chịu rung dạng sin theo phương thẳng_đứng ở tất_cả các tần_số nằm giữa :
+
+- 2 Hz ( - 0 / + 3 Hz ) và 13 , 2 Hz với khoảng rung 1 mm 10 % ( gia_tốc tối_đa 7 m / s2 ở 13 , 2 Hz ) ; và
+
+- 13 , 2 Hz và 100 Hz với gia_tốc tối_đa không đổi 7 m / s2 .
+
+Tốc_độ quét tần_số phải đủ thấp để cho phép phát_hiện sự cộng_hưởng trong các phần của thiết_bị .
+
+Dò_tìm cộng_hưởng phải được thực_hiện trong khi thử rung . Nếu tìm thấy sự cộng_hưởng ở bất_kì phần_nào , thiết_bị phải được thử sự chịu rung ở tần_số cộng_hưởng đó với thời_gian không ít hơn 2 h . Thử_nghiệm phải được lặp_lại với mức rung như trên ở hướng vuông_góc tương_hỗ trong mặt_phẳng ngang .
+
+Kiểm_tra chất_lượng của Epirb và khối điều_khiển từ xa ( nếu trang_bị ) phải được thực_hiện trong và sau khi thử rung . Cuối quá_trình thử , thiết_bị được xem_xét các sai hỏng cơ_khí .
+
+2 . 3 . 3 . 3 . Yêu_cầu
+
+Epirb phải không phóng khỏi vị_trí lắp_ráp của nó và không tự_động kích_hoạt trong khi thử rung .
+
+Các yêu_cầu của kiểm_tra chất_lượng phải thoả_mãn . Không có sai hỏng cơ_khí nào có_thể nhìn thấy bằng mắt thường .
+
+2 . 3 . 4 . Thử va_chạm
+
+2 . 3 . 4 . 1 . Định_nghĩa
+
+Khả_năng của thiết_bị duy_trì chỉ_tiêu điện và cơ không đổi sau khi thử va_chạm .
+
+2 . 3 . 4 . 2 . Phương_pháp thử
+
+Epirb phải được lắp trong cơ_cấu tự thả của nó . Thử_nghiệm được tiến_hành với :
+
+- Gia_tốc đỉnh : 98 m / s2 10 % :
+
+- Độ rộng xung : 18 ms 20 % ;
+
+- Dạng sóng : Sóng hình sin nửa chu_kỳ ;
+
+- Trục thử : Thẳng_đứng ;
+
+- Số va_chạm : 4 000 .
+
+Cuối quá_trình thử_nghiệm , thiết_bị phải được kiểm_tra các sai hỏng cơ_khí . Thực_hiện tự thử Epirb ( mục 2 . 1 . 8 ) .
+
+2 . 3 . 4 . 3 . Yêu_cầu
+
+Epirb không được phóng khỏi vị_trí của nó và không tự_động kích_hoạt trong quá_trình thử .
+
+Việc hoàn_thành tự thử phải được chỉ báo .
+
+Không có sai hỏng cơ_khí nào có_thể nhìn thấy bằng mắt thường .
+
+2 . 3 . 5 . Thử ăn_mòn
+
+Thử_nghiệm có_thể không cần nếu nhà sản_xuất có khả_năng cung_cấp đầy_đủ các thông_tin về các thành_phần , các chất và khả_năng duy_trì các chỉ_tiêu điện và cơ không đổi đối_với các ảnh_hưởng của sự ăn_mòn .
+
+2 . 3 . 5 . 1 . Định_nghĩa
+
+Khả_năng của thiết_bị duy_trì chỉ_tiêu điện và cơ không đổi sau khi thử ăn_mòn .
+
+2 . 3 . 5 . 2 . Phương_pháp thử
+
+Sử_dụng thiết_bị phun sương dung_dịch muối có thành_phần như trong Bảng 2 .
+
+Bảng 2 - Thành_phần dung_dịch muối
+
+Ngoài_ra có_thể sử_dụng dung_dịch Na Cl 5 % . Muối được sử_dụng trong thử_nghiệm phải là Na Cl chất_lượng cao ( 0 , 1 % iốt và 0 , 3 % tổng tạp_chất ) .
+
+Dung_dịch được pha_chế bằng cách hoà_tan 5 phần ( 1 ) trọng_lượng của muối trong 95 phần trọng_lượng của nước_cất hoặc nước được khử_khoáng .
+
+Độ pH của dung_dịch phải nằm giữa 6 , 5 và 7 , 2 ở nhiệt_độ 20 C ( 2 C ) . Duy_trì độ pH trong khoảng này bằng cách pha thêm HCl hoặc NaOH để điều_chỉnh độ pH .
+
+Các thiết_bị phun sương phải đảm_bảo không có thành_phần ăn_mòn trong dung_dịch muối .
+
+Phun sương dung_dịch muối trên toàn_bộ_mặt ngoài của thiết_bị trong thời_gian 1 h . Sau mỗi lần phun , thiết_bị được lưu_trữ với thời_gian 7 ngày ở nhiệt_độ 40 C ( 2 C ) . Độ_ẩm tương_đối trong khi lưu_trữ được giữ trong khoảng 90 % và 95 % . Quá_trình trên được thực_hiện 4 lần .
+
+Cuối thời_gian thử_nghiệm , thiết_bị phải được xem_xét bằng mắt thường . Quá_trình_tự thử Epirb ( mục 2 . 1 . 8 ) phải được thực_hiện .
+
+2 . 3 . 5 . 3 . Yêu_cầu
+
+Các yêu_cầu của kiểm_tra chất_lượng phải được thoả_mãn và các phần kim_loại không bị ăn_mòn .
+
+Trong trường_hợp được lắp kín , thiết_bị phải không có dấu_hiệu bị thấm ẩm .
+
+Việc hoàn_thành tự thử phải được chỉ báo .
+
+2 . 3 . 6 . Thử rơi vào nước
+
+2 . 3 . 6 . 1 . Định_nghĩa
+
+Khả_năng của Epirb duy chỉ_tiêu điện và cơ không đổi sau khi thử rơi vào nước .
+
+2 . 3 . 6 . 2 . Phương_pháp thử
+
+Epirb được tháo khỏi cơ_cấu tự thả và được thả vào nước . Epirb được thả ba lần vào nước từ độ cao 20 m 1 m ở vị_trí hoạt_động bình_thường , vị_trí đảo_ngược và vị_trí vuông_góc so với vị_trí hoạt_động bình_thường .
+
+Cuối quá_trình thử_nghiệm , thực_hiện quá_trình_tự thử ( mục 2 . 1 . 8 ) .
+
+2 . 3 . 6 . 3 . Yêu_cầu
+
+Việc hoàn_thành tự thử phải được chỉ báo .
+
+Không có sai hỏng nào có_thể nhìn thấy bằng mắt thường .
+
+2 . 3 . 7 . Thử sốc nhiệt
+
+2 . 3 . 7 . 1 . Định_nghĩa
+
+Khả_năng của thiết_bị duy_trì được chỉ_tiêu điện và cơ không đổi sau khi thử sốc nhiệt .
+
+2 . 3 . 7 . 2 . Phương_pháp thử
+
+Thiết_bị được đặt trong môi_trường không_khí + 65 C ( 3 C ) trong 1 h . Sau đó nó được ngâm trong nước với nhiệt_độ + 20 C ( 3 C ) ở độ sâu 10 cm ( đo từ điểm_cao nhất của Epirb đến mặt_nước ) trong thời_gian 1 h .
+
+Cuối quá_trình thử_nghiệm , thực_hiện quá_trình_tự thử ( mục 2 . 1 . 8 ) .
+
+2 . 3 . 7 . 3 . Yêu_cầu
+
+Việc hoàn_thành tự thử phải được chỉ báo .
+
+Không có sai hỏng nào có_thể nhìn thấy bằng mắt thường .
+
+2 . 3 . 8 . Thử ngâm nước
+
+2 . 3 . 8 . 1 . Định_nghĩa
+
+Khả_năng của Epirb duy_trì chỉ_tiêu điện và cơ không đổi sau khi thực_hiện thử ngâm nước .
+
+2 . 3 . 8 . 2 . Phương_pháp thử
+
+Thiết_bị phải chịu áp_suất thuỷ_lực 100 kPa ( tương_ứng với độ sâu 10 m ) trong thời_gian 5 min .
+
+Cuối quá_trình thử_nghiệm , thực_hiện quá_trình_tự thử ( mục 2 . 1 . 8 ) .
+
+2 . 3 . 8 . 3 . Yêu_cầu
+
+Việc hoàn_thành tự thử phải được chỉ báo .
+
+Không có sai hỏng nào có_thể nhìn thấy bằng mắt thường .
+
+2 . 3 . 9 . Thử tác_động của dòng phun rước
+
+2 . 3 . 9 . 1 . Định_nghĩa
+
+Khả_năng giữ Epirb trong cơ_cấu tự thả của nó và không phát báo_động cấp_cứu khi thử tác_động của dòng phun nước .
+
+2 . 3 . 9 . 2 . Phương_pháp thử
+
+Epirb được lắp trong cơ_cấu tự thả . Phun nước trực_tiếp vào Epirb trong thời_gian 5 min . Vòi phun nước phải có đường_kính danh định là 63 , 5 mm và tốc_độ phun nước là 2 300 lít nước một phút . Điểm đầu của vòi phun phải cách Epirb 3 , 5 m và cao hơn điểm gốc của ăng ten 1 , 5 m . Vòi phun nước được di_chuyển trong khi thử_nghiệm để phun nước tới Epirb từ tất_cả các hướng trong cung 180 vuông_góc với vị_trí lắp_ráp bình_thường của Epirb .
+
+2 . 3 . 9 . 3 . Yêu_cầu
+
+Epirb không được phóng khỏi vị_trí của nó và phải không tự_động kích_hoạt trong quá_trình thử .
+
+2 . 3 . 10 . Thử nổi
+
+2 . 3 . 10 . 1 . Định_nghĩa
+
+Độ nổi được tính theo phần_trăm của tỉ_số lực nổi trên trọng_lực .
+
+2 . 3 . 10 . 2 . Phương_pháp thử
+
+Epirb được ngâm trong nước .
+
+Có_thể sử_dụng một trong hai phương_pháp sau :
+
+- Lực nổi được đo trong khi toàn_bộ Epirb ngập trong nước . Sau đó lấy lực nổi chia cho trọng_lực đo được . Kết_quả được ghi lại ; hoặc
+
+- Độ nổi có_thể được tính bằng cách chia thể_tích của khối trên mặt_nước cho thể_tích của khối dưới mặt_nước . Kết_quả được ghi lại .
+
+2 . 3 . 10 . 3 . Yêu_cầu
+
+Độ nổi 5 % .
+
+2 . 3 . 11 . Thử bức_xạ mặt_trời
+
+Thử_nghiệm này có_thể không cần nếu nhà sản_xuất có_thể cung_cấp đủ các chứng_cớ mà các thành_phần , vật_liệu . . . duy_trì được chỉ_tiêu điện và cơ xác_định dưới ảnh_hưởng của bức_xạ mặt_trời liên_tục .
+
+2 . 3 . 11 . 1 . Định_nghĩa
+
+Khả_năng của thiết_bị duy_trì được chỉ_tiêu điện và cơ không đổi sau khi thử bức_xạ mặt_trời được thực_hiện .
+
+2 . 3 . 11 . 2 . Phương_pháp thử
+
+Thiết_bị phải được đặt dưới nguồn bức_xạ mặt_trời giả ( xem Bảng 3 ) trong 80 h .
+
+Cuối quá_trình thử_nghiệm , quá_trình_tự thử ( mục 2 . 1 . 8 ) phải được thực_hiện .
+
+Cường_độ sáng ở điểm thử ( gồm cả bức_xạ phản_xạ từ xung_quanh ) phải là 1 120 W / m2 10 % với sự phân_bố phổ như trong Bảng 3 .
+
+Bảng 3 - Phân_bố phổ ánh_sáng mặt_trời
+
+2 . 3 . 11 . 3 . Yêu_cầu
+
+Việc hoàn_thành tự thử phải được chỉ báo .
+
+Không có sai hỏng nào có_thể nhìn thấy bằng mắt thường .
+
+2 . 3 . 12 . Thử tác_dụng của dầu
+
+Thử_nghiệm này có_thể không cần nếu nhà sản_xuất có_thể cung_cấp đủ các chứng_cớ mà các thành_phần , vật_liệu . . . duy_trì được chỉ_tiêu điện và cơ do tác_dụng của dầu .
+
+2 . 3 . 12 . 1 . Định_nghĩa
+
+Khả_năng của thiết_bị duy_trì các chỉ_tiêu điện và cơ không đổi sau khi thử_nghiệm ngâm trong dầu được thực_hiện .
+
+2 . 3 . 12 . 2 . Phương_pháp thử
+
+Epirb phải được nhúng trong dầu trong 6 h ở nhiệt_độ 19 C ( 1 C ) với yêu_cầu sau :
+
+- Điểm nhuộm : 120 C 5 C ;
+
+- Điểm sáng : Tối_thiểu là 240 C ;
+
+- Độ nhớt : 10 - 25 sST ở 99 C .
+
+Các dầu sau có_thể được sử_dụng :
+
+- Dầu Atsm số 1 ;
+
+- Dầu Atsm số 2 ;
+
+- Dầu Iso số 1 .
+
+Cuối quá_trình thử_nghiệm , thực_hiện quá_trình_tự thử ( mục 2 . 1 . 8 ) . Sau khi thử_nghiệm , Epirb phải được rửa sạch theo các chỉ_dẫn của nhà sản_xuất .
+
+2 . 3 . 12 . 3 . Yêu_cầu
+
+Việc hoàn_thành tự thử phải được chỉ báo .
+
+Epirb phải không có dấu_hiệu hỏng như co , vỡ , nở , tan hoặc thay_đổi các đặc_tính cơ_khí .
+
+2 . 4 . Máy_phát
+
+2 . 4 . 1 . Công_suất đầu_ra
+
+2 . 4 . 1 . 1 . Định_nghĩa
+
+Công_suất đầu_ra của Epirb là công_suất trung_bình cung_cấp cho đầu_cuối Rf 50 trong một chu_kì tần_số vô_tuyến .
+
+2 . 4 . 1 . 2 . Phương_pháp đo
+
+Công_suất tại đầu_ra của Epirb được đo ở các điều_kiện đo kiểm bình_thường và được ghi lại . Công_suất này được dùng như công_suất đầu_ra chuẩn của Epirb ( pr ) .
+
+Phép đo được lặp lại ở các điều_kiện đo kiểm tới hạn . Các giá_trị này được ghi lại .
+
+2 . 4 . 1 . 3 . Yêu_cầu
+
+Công_suất đầu_ra là : 37 dBm 2 dB .
+
+2 . 4 . 2 . Tần_số đặc_trưng
+
+2 . 4 . 2 . 1 . Định_nghĩa
+
+Tần_số đặc_trưng ( f0 ) là tần_số của tín_hiệu không điều_chế phát bởi Epirb .
+
+2 . 4 . 2 . 2 . Phương_pháp đo
+
+Tần_số đặc_trưng ( f0 ) được xác_định từ 18 phép đo tần_số sóng mang của tín_hiệu không điều_chế fc ( 1 ) , được thực_hiện ở các điều_kiện tới hạn ( mục 2 . 2 . 11 và 2 . 2 . 12 ) trong thời_gian S1 ( Hình 5 ) của 18 lần phát liên_tiếp như sau :
+
+Hình 5 - Thời_gian đo tần_số đặc_trưng
+
+- Xung_s1 bắt_đầu sau 12 ms tính từ thời_điểm đầu của sóng mang không điều_chế .
+
+- Xung_s2 bắt_đầu ở bit 23 .
+
+- Xung_s3 bắt_đầu sau 15 ms tính từ khi kết_thúc S2 .
+
+2 . 4 . 2 . 3 . Yêu_cầu
+
+Các kênh tần_số đặc_trưng của phao Epirb phải thuộc băng tần 406 , 0 MHz đến 406 , 1 MHz đã ấn_định bởi Cospas - Sarsat , cụ_thể quy_định tại tài_liệu ( c / s T . 012 - Issue 1 - Rev . 13 February 2018 ) , đồng_thời sai_số tần_số không được vượt quá giá_trị quy_định sau đây :
+
+Bảng 4 - Các kênh tần_số
+
+Chú_thích : Cospas - Sarsat có_thể thay_đổi quy_hoạch phân_bổ kênh tần_số trung_tâm nếu số người sử_dụng phao trong một kênh khác với số dự_kiến .
+
+2 . 4 . 3 . Độ ổn_định tần_số thời_hạn ngắn
+
+2 . 4 . 3 . 1 . Định_nghĩa
+
+Độ ổn_định tần_số trong số lần phát được xác_định trước .
+
+2 . 4 . 3 . 2 . Phương_pháp đo
+
+Độ ổn_định tần_số thời_hạn ngắn thu được từ các phép đo fi ( 2 ) và fi ( 3 ) , được thực_hiện ở các điều_kiện đo kiểm tới hạn ( mục 2 . 2 . 11 và 2 . 2 . 12 ) trong các thời_gian S2 và S3 ( Hình 5 ) của 18 lần phát liên_tiếp như sau :
+
+2 . 4 . 3 . 3 . Yêu_cầu
+
+Độ ổn_định tần_số thời_hạn ngắn phải < 2 x 10-9.
+
+2 . 4 . 4 . Độ ổn_định tần_số thời_hạn trung_bình
+
+2 . 4 . 4 . 1 . Định_nghĩa
+
+Độ ổn_định tần_số thời_hạn trung_bình được đánh_giá theo hai tham_số là độ dốc trung_bình của đường tần_số - thời_gian trong một khoảng thời_gian định trước và biến_thiên tần_số_dư so với độ dốc đó .
+
+2 . 4 . 4 . 2 . Phương_pháp đo
+
+Độ ổn_định tần_số thời_hạn trung_bình thu được từ các phép đo fi ( 2 ) , được thực_hiện ở các điều_kiện đo kiểm tới hạn ( mục 2 . 2 . 11 và 2 . 2 . 12 ) trên các lần phát liên_tiếp tại các thời_điểm ti trong thời_gian 15 min ( Hình 6 ) .
+
+Hình 6 - Đo độ ổn_định tần_số thời_hạn trung_bình
+
+Với 1 nhóm ( n ) phép đo , độ ổn_định tần_số thời_hạn trung_bình được xác_định bởi độ dốc trung_bình của đường_thẳng bình_phương tối_thiểu và biến_thiên tần_số_dư so với độ dốc đó .
+
+Độ dốc trung_bình được tính như sau :
+
+Tung_độ tại gốc của đường_thẳng bình_phương tối_thiểu được tính như sau :
+
+Biến_thiên tần_số_dư được tính như sau :
+
+Với chu_kì lặp_lại phát là 50 s , sẽ có 18 phép đo trong thời_gian 15 min ( n = 18 ) .
+
+2 . 4 . 4 . 3 . Yêu_cầu
+
+Độ dốc trung_bình 1 x 10-9
+
+Biến_thiên tần_số_dư 3 x 10-9
+
+2 . 4 . 5 . Mặt_nạ phổ Rf
+
+2 . 4 . 5 . 1 . Định_nghĩa
+
+Mặt_nạ phổ Rf được xác_định theo công_suất đầu_ra so với công_suất cực_đại trong băng tần 406 , 0 - 406 , 1 MHz .
+
+2 . 4 . 5 . 2 . Phương_pháp đo
+
+Thiết_bị được nối với một máy phân_tích phổ .
+
+Epirb_phát tín_hiệu điều_chế trên tần_số fc ở các điều_kiện đo kiểm tới hạn ( mục 2 . 2 . 11 và 2 . 2 . 12 ) .
+
+Trở_kháng vào của máy phân_tích phổ là 50 . Tần_số trung_tâm của hệ_thống hiển_thị của máy phân_tích phổ phải là tần_số sóng mang của Epirb . Độ phân_giải tần_số của máy phân_tích phổ là 100 Hz .
+
+Hình hiển_thị trên màn phải được ghi lại .
+
+2 . 4 . 5 . 3 . Yêu_cầu
+
+Phát_xạ không được vượt quá các mức được xác_định bởi mặt_nạ phổ trong Hình 7 .
+
+Trong đó :
+
+Pr = Công_suất sóng mang không điều_chế đầu_ra của Epirb
+
+fc = Tần_số sóng mang của Epirb
+
+dBc = Mức công_suất tín_hiệu phát của Epirb theo dB so với Pr ( độ phân_giải băng tần của máy phân_tích phổ là 100 Hz )
+
+Hình 7 - Mặt_nạ phổ ở băng tần 406 , 0 đến 406 , 1 MHz
+
+2 . 5 . Định_dạng tín_hiệu
+
+2 . 5 . 1 . Yêu_cầu chung
+
+Phát_xạ của Epirb được điều_chế bởi tín_hiệu_số gồm phần đầu , bản tin và một mã sửa_sai . Dạng tín_hiệu được xác_định trong mục này .
+
+Chú_thích : Các phép đo trong mục 2 . 5 được thực_hiện trên 18 lần phát liên_tục .
+
+2 . 5 . 2 . Chu_kì lặp_lại
+
+2 . 5 . 2 . 1 . Định_nghĩa
+
+Khoảng thời_gian giữa các điểm 90 % ( 0 , 9 Pn ) công_suất của hai lần phát liên_tiếp ( tr ) ( Hình 8 ) .
+
+Hình 8 - Chu_kì lặp_lại
+
+2 . 5 . 2 . 2 . Phương_pháp đo
+
+Chu_kì lặp_lại ( tr ) được đo trong 18 lần phát liên_tục . Các phép đo được thực_hiện ở các điều_kiện đo kiểm tới hạn ( mục 2 . 2 . 11 và 2 . 2 . 12 ) và sai_số giữa các giá_trị cực_đại và cực_tiểu của chu_kì lặp lại phải nhỏ hơn 1 s . Ghi lại các giá_trị cực_đại và cực_tiểu của Tr .
+
+2 . 5 . 2 . 3 . Yêu_cầu
+
+Tr phải nằm trong khoảng : 47 , 5 s đến 52 , 5 s .
+
+Nếu Epirb có thời_gian lặp lại cố_định , nó sẽ nằm trong khoảng 47 , 5 s đến 52 , 5 s và nhà sản_xuất Epirb sẽ cung_cấp tài_liệu kĩ_thuật về thời_gian lặp_lại sẽ thay_đổi như thế_nào tối_thiểu 8 giá_trị khác nhau .
+
+2 . 5 . 3 . Tổng_thời_gian phát ( Tt )
+
+2 . 5 . 3 . 1 . Định_nghĩa
+
+Khoảng thời_gian phát công_suất ở tần_số đặc_trưng trong một lần phát .
+
+2 . 5 . 3 . 2 . Phương_pháp đo
+
+Tổng_thời_gian phát ( Tt ) được đo ở các điều_kiện đo kiểm tới hạn ( mục 2 . 2 . 11 và 2 . 2 . 12 ) giữa các điểm mà công_suất sóng mang đầu_ra bằng 90 % giá_trị giới_hạn của nó ( Hình 12 ) .
+
+2 . 5 . 3 . 3 . Yêu_cầu
+
+Tổng_thời_gian phát ( Tt ) phải nằm trong giới_hạn sau :
+
+- Bản tin ngắn : 435 , 6 ms đến 444 , 4 ms ;
+
+- Bản tin dài ( tuỳ chọn ) : 514 , 8 ms đến 525 , 2 ms .
+
+2 . 5 . 4 . Phần mào_đầu sóng mang ( cw )
+
+2 . 5 . 4 . 1 . Định_nghĩa
+
+Phần mào_đầu sóng mang là sóng mang không điều_chế , có một khoảng thời_gian xác_định , ở đầu mỗi bản tin số .
+
+2 . 5 . 4 . 2 . Phương_pháp đo
+
+Thời_hạn của phần đầu Cw ( tp ) được đo ở các điều_kiện đo kiểm tới hạn ( mục 2 . 2 . 11 và 2 . 2 . 12 ) , giữa điểm mà công_suất sóng mang đầu_ra đạt 90 % giá_trị giới_hạn của nó và điểm bắt_đầu của bản tin số ( Hình 12 ) . Phép đo này được thực_hiện trong 18 lần phát liên_tục .
+
+2 . 5 . 4 . 3 . Yêu_cầu
+
+Phần mào_đầu sóng mang phải nằm trong khoảng : 158 , 4 ms đến 161 , 6 ms .
+
+2 . 5 . 5 . Tốc_độ bit
+
+2 . 5 . 5 . 1 . Định_nghĩa
+
+Tốc_độ bit là số bit / s .
+
+2 . 5 . 2 . 2 . Phương_pháp đo
+
+Tốc_độ bit ( fb ) được đo ở các điều_kiện đo kiểm tới hạn ( mục 2 . 2 . 11 và 2 . 2 . 12 ) , trên 15 bit đầu_tiên trong 1 lần phát . Phép đo được thực_hiện trong 18 lần phát và tốc_độ bit được ghi lại .
+
+2 . 5 . 5 . 3 . Yêu_cầu
+
+Tốc_độ bit phải nằm trong khoảng : 396 bit / s đến 404 bit / s .
+
+2 . 6 . Các yêu_cầu kĩ_thuật khác
+
+2 . 6 . 1 . Dung_lượng pin
+
+2 . 6 . 1 . 1 . Định_nghĩa
+
+Dung_lượng pin là khả_năng của nguồn điện bên trong cung_cấp đủ công_suất cho hoạt_động liên_tục của thiết_bị trong một khoảng thời_gian xác_định .
+
+2 . 6 . 1 . 2 . Phương_pháp đo
+
+Sử_dụng một pin mới , Epirb được kích_hoạt ( tại nhiệt_độ môi_trường ) trong một thời_gian được nhà sản_xuất đưa ra tương_ứng với sự giảm dung_lượng do tự thử và tự phóng_điện trong thời_gian hoạt_động có_ích của pin . Nhà sản_xuất phải giải_thích phương_pháp sử_dụng để xác_định thời_gian này .
+
+Epirb được đặt trong một phòng có nhiệt_độ bình_thường . Sau đó giảm nhiệt_độ và giữ ở - 40 C ( 3 C ) với Epirb loại 1 hoặc - 30 C ( 3 C ) với Epirb là thiết_bị loại 2 trong thời_gian 10 h .
+
+Cuối thời_gian trên , bộ_phận điều_khiển nhiệt_độ được bật và phòng được chuyển tới nhiệt_độ - 20 C ( 3 C ) ( với thiết_bị loại 2 ) . Quá_trình này phải hoàn_thành trong 20 min . 30 min sau , thiết_bị được kích_hoạt và duy_trì hoạt_động liên_tục trong thời_gian 48 h . Nhiệt_độ của buồng đo phải được duy_trì ổn_định trong suốt 48 h .
+
+2 . 6 . 1 . 3 . Yêu_cầu
+
+Epirp phải tuân theo yêu_cầu của các mục 2 . 4 . 1 ( công_suất đầu_ra ) , mục 2 . 4 . 2 ( tần_số đặc_trưng ) , mục 2 . 4 . 3 ( độ ổn_định tần_số thời_hạn ngắn ) , mục 2 . 4 . 4 ( độ ổn_định tần_số thời_hạn trung_bình ) trong 48 h .
+
+2 . 6 . 2 . Thiết_bị dẫn đường
+
+2 . 6 . 2 . 1 . Yêu_cầu chung
+
+2 . 6 . 2 . 1 . 1 . Loại phát_xạ
+
+Tín_hiệu song_biên cả sóng mang ( a3x ) .
+
+2 . 6 . 2 . 1 . 2 . Tần_số điều_chế
+
+Tín_hiệu âm_thanh quét từ cao xuống thấp giữa 1 600 Hz và 300 Hz trong một dải không nhỏ hơn 700 Hz .
+
+2 . 6 . 2 . 1 . 3 . Chu_trình hoạt_động của máy_phát
+
+Trong khi phát tín_hiệu 406 , 0 MHz , máy phát phải đảm_bảo làm_việc liên_tục và chỉ có_thể bị gián_đoạn tối_đa là 2 s .
+
+2 . 6 . 2 . 1 . 4 . Tốc_độ quét lặp_lại
+
+Tốc_độ quét lặp_lại của máy phát là : 2 Hz đến 4 Hz .
+
+2 . 6 . 2 . 2 . Sai_số tần_số
+
+2 . 6 . 2 . 2 . 1 . Định_nghĩa
+
+Sai_số tần_số là hiệu giữa tần_số_đo được và giá_trị danh định của nó .
+
+2 . 6 . 2 . 2 . 2 . Phương_pháp đo
+
+Tần_số sóng mang được đo bằng một máy đếm tần_số hoặc một máy phân_tích phổ ở các điều_kiện đo kiểm bình_thường và tới hạn .
+
+2 . 6 . 2 . 2 . 3 . Yêu_cầu
+
+Tần_số sóng mang là : 121 , 5 MHz 50 ppm .
+
+2 . 6 . 2 . 3 . Chu_trình hoạt_động điều_chế
+
+2 . 6 . 2 . 3 . 1 . Định_nghĩa
+
+Chu_trình hoạt_động điều_chế =
+
+trong đó :
+
+- T1 là khoảng thời_gian nửa chu_kì dương của điều_chế âm_tần được đo ở các điểm nửa biên_độ của đường bao điều_chế ; và
+
+- T2 là chu_kì của tần_số điều_chế âm_tần cơ_bản .
+
+2 . 6 . 2 . 3 . 2 . Phương_pháp đo
+
+Đầu_ra máy phát được nối với một máy hiện sóng có nhớ . T1 và T2 được đo tại điểm đầu , điểm giữa và điểm cuối của chu_kì điều_chế . Chu_kì hoạt_động điều_chế phải được tính_toán .
+
+2 . 6 . 2 . 3 . 3 . Yêu_cầu
+
+Chu_trình hoạt_động điều_chế phải nằm giữa : 33 % và 55 % .
+
+2 . 6 . 2 . 4 . Hệ_số điều_chế
+
+2 . 6 . 2 . 4 . 1 . Định_nghĩa
+
+Hệ_số điều_chế =
+
+trong đó :
+
+- A là giá_trị biên_độ cực_đại của đường bao ;
+
+- B là giá_trị biên_độ cực_tiểu của đường bao .
+
+2 . 6 . 2 . 4 . 2 . Phương_pháp đo
+
+Đầu_ra máy phát được nối với một máy hiện sóng có nhớ . A và B được đo tại các điểm đầu , điểm giữa và điểm cuối của chu_kì điều_chế . Hệ_số điều_chế phải được tính_toán .
+
+2 . 6 . 2 . 4 . 3 . Yêu_cầu
+
+Hệ_số điều_chế phải nằm trong khoảng : 0 , 85 và 1 .
+
+2 . 6 . 2 . 5 . Công_suất phát_xạ hiệu_dụng đỉnh
+
+2 . 6 . 2 . 5 . 1 . Định_nghĩa
+
+Là công_suất trung_bình trong một khoảng chu_kì tần_số vô_tuyến tại đỉnh của đường bao điều_chế .
+
+2 . 6 . 2 . 5 . 2 . Phương_pháp đo
+
+Phép đo được thực_hiện ở các điều_kiện nhiệt_độ bình_thường và sử_dụng Epirb mà pin của nó đã được bật trong ít_nhất 44 h . Nếu thời_gian đo vượt quá 4 h , pin có_thể được thay_thế bởi cái khác với điều_kiện đã bật trong ít_nhất 44 h .
+
+Khi đo kiểm ngoài buồng đo , đề_phòng phát các tín_hiệu cứu nạn trên các tần_số an_toàn và cứu nạn , ví_dụ bằng cách bù tần_số .
+
+Máy thu phải dò được tần_số sóng mang của máy phát . Ăng ten đo kiểm phân_cực đứng . Điều_chỉnh độ cao của ăng ten đo kiểm sao cho máy thu đo thu được mức tín_hiệu cực_đại . Máy_phát phải quay 360 quanh trục thẳng_đứng để dò_tìm hướng tín_hiệu cực_đại . Ghi lại mức tín_hiệu cực_đại của máy thu đo tìm được . Máy_phát phải được thay bằng ăng ten thay_thế . Ăng ten thay_thế phải được nối với máy tạo tín_hiệu chuẩn . Tần_số của máy tạo tín_hiệu chuẩn phải được điều_chỉnh từ tần_số sóng mang của máy phát . Suy hao đầu_vào của máy thu đo phải điều_chỉnh được để làm tăng độ nhạy thu của máy thu nếu cần .
+
+Ăng ten đo phải được điều_chỉnh được trong phạm_vi của độ cao đã chỉ_định để đảm_bảo rằng thu được tín_hiệu cực_đại .
+
+Tín_hiệu đầu_vào ăng ten thay_thế phải được điều_chỉnh đến mức mà máy thu đo dò được mà bằng với mức dò được từ thiết_bị bằng việc hiệu_chỉnh đo do thay_đổi suy hao đầu_vào của máy thu đo .
+
+Erpep cực_đại bằng công_suất máy phát tín_hiệu , được tăng thêm nhờ tăng ích của ăng ten thay_thế và được hiệu_chỉnh bằng sự thay_đổi của bộ suy hao .
+
+2 . 6 . 2 . 5 . 3 . Yêu_cầu
+
+Công_suất phát_xạ hiệu_dụng đỉnh phải nằm trong khoảng 25 mW và 100 mW .
+
+2 . 6 . 2 . 6 . Phát_xạ giả
+
+2 . 6 . 2 . 6 . 1 . Định_nghĩa
+
+Các phát_xạ giả là các phát_xạ trên một hay nhiều tần_số ngoài băng_thông cần_thiết và mức phát_xạ có_thể được làm giảm nhưng không ảnh_hưởng đến sự truyền_thông_tin tương_ứng . Các phát_xạ giả bao_gồm phát_xạ hài , phát_xạ kí_sinh , sản_phẩm xuyên điều_chế và sản_phẩm biến_đổi tần_số nhưng không gồm phát_xạ ngoài băng .
+
+2 . 6 . 2 . 6 . 2 . Phương_pháp đo
+
+Các phát_xạ giả được đo trong các băng tần 108 MHz - 137 MHz ; 156 MHz - 162 MHz ; 406 , 0 MHz - 406 , 1 MHz và 450 MHz đến 470 MHz ,
+
+2 . 6 . 2 . 6 . 3 . Yêu_cầu
+
+Công_suất của thành_phần phát_xạ giả ở tần_số bất_kì 25 W .
+
+2 . 7 . Đo công_suất phát_xạ
+
+2 . 7 . 1 . Yêu_cầu chung
+
+Phương_pháp đo công_suất phát_xạ cung_cấp số_liệu biểu_thị đặc_tính ăng ten bằng cách đo phân_cực sóng đứng và ngang .
+
+2 . 7 . 2 . Công_suất phát_xạ
+
+2 . 7 . 2 . 1 . Định_nghĩa
+
+Công_suất phát_xạ là công_suất phát_xạ đẳng_hướng tương_đương ( e . i . r . p ) .
+
+2 . 7 . 2 . 2 . Phương_pháp đo
+
+Epirb phát bình_thường và sử_dụng một pin mới . Tín_hiệu từ ăng ten đo được đưa tới một máy phân_tích phổ hoặc một máy đo cường_độ trường . Epirb được xoay 360 với ít_nhất 12 bước bằng nhau 30 ( 3 ) và các phép đo được thực_hiện .
+
+Để đo e . i . r . p toàn_phần , ăng ten đo phải phân_cực tuyến_tính và được đặt ở hai vị_trí để đồng chỉnh với hai thành_phần phân_cực đứng và ngang của tín_hiệu phát_xạ .
+
+Sau đó ăng ten đo được đặt tại góc ngẩng 10 , 20 , 30 , 40 và 50 ( 3 ) với các góc phương vị 0 đến 360 theo các bước 30 và đo điện_áp cảm_ứng cho mỗi loại phân_cực ở 60 vị_trí đó .
+
+Các giá_trị Vh và Vv ở mỗi vị_trí đo được ghi lại .
+
+Các bước sau được thực_hiện cho mỗi bộ điện_áp đo được và các kết_quả được ghi lại .
+
+Bước 1 : Tính điện_áp cảm_ứng toàn_phần Vrec theo dBV sử_dụng công_thức :
+
+Trong đó :
+
+- Vv và Vh là các số_đo điện_áp cảm_ứng ( v ) khi ăng ten đo được định_hướng trong mặt_phẳng đứng và ngang .
+
+Bước 2 : Tính_toán cường_độ trường E theo dBV / m tại ăng ten đo sử_dụng công_thức :
+
+E ( dBV / m ) = Vrec + 20logAFc + Lc
+
+Trong đó :
+
+- Vrec là mức tín_hiệu được tính từ bước 1 ( dBV ) ;
+
+- AFc là tham_số hiệu_chỉnh của ăng ten đo ;
+
+- Lc là độ suy_giảm hệ_thống thu và suy hao cáp ( dB ) .
+
+Bước 3 : Tính_e . i . r . p
+
+Tính_e . i . r . p cho mỗi toạ_độ góc theo công_thức :
+
+Trong đó :
+
+- R là khoảng_cách giữa Epirb và ăng ten lưỡng_cực đo ;
+
+- E là cường_độ trường được chuyển_đổi trong bước 2 thành V / m .
+
+Các phép đo được thực_hiện ở các điều_kiện đo kiểm bình_thường .
+
+2 . 7 . 2 . 3 . Yêu_cầu
+
+Công_suất phát_xạ phải nằm trong giới_hạn từ - 5 dB đến + 6 dB so với mức e . i . r . p 5 W .
+
+2 . 7 . 3 . Các đặc_tính ăng ten
+
+2 . 7 . 3 . 1 . Định_nghĩa
+
+Các đặc_tính ăng ten được xác_định với các góc ngẩng lớn hơn 5 và nhỏ hơn 60 .
+
+2 . 7 . 3 . 2 . Phương_pháp đo
+
+Hệ_số khuếch_đại ăng ten được tính cho từng bộ toạ_độ góc theo công_thức :
+
+Trong đó :
+
+- e . i . r . p . là công_suất phát_xạ xem ( mục 2 . 7 . 2 ) ;
+
+- Pt là công_suất cấp cho ăng ten Epirb ;
+
+- Gi là tỉ_số hệ_số khuếch_đại của ăng ten Epirb so với ăng ten đẳng_hướng .
+
+Phân_tích_số_liệu ( Vv , Vh ) thu được trong khi đo , ăng ten phải đủ để xác_định phân_cực của ăng ten Epirb là tuyến_tính hoặc tròn .
+
+Nếu các phép đo điện_áp cảm_ứng ( Vv , Vh ) cho mỗi bộ toạ_độ góc ( góc phương vị , góc ngẩng ) khác nhau ít_nhất 10 dB , phân_cực là tuyến_tính . Phân_cực sẽ là đứng hoặc ngang nếu Vv hoặc Vh lớn hơn .
+
+Nếu các phép đo điện_áp cảm_ứng ( Vv , Vh ) khác nhau trong khoảng 10 dB , ăng ten Epirb là phân_cực tròn .
+
+So_sánh các tín_hiệu thu được sử_dụng các ăng ten phân_cực tròn phải và phân_cực tròn trái đã biết khi ăng ten Epirb đang phát_xạ . Kết_quả ăng ten có tín_hiệu thu được lớn hơn xác_định chiều của phân_cực .
+
+2 . 7 . 3 . 3 . Giới_hạn .
+
+Ăng ten có các đặc_tính sau :
+
+- Kiểu : Bán_cầu ;
+
+- Phân_cực : Phân_cực tròn phải hoặc tuyến_tính ;
+
+- Tăng_ích ( ở hướng vuông_góc với mặt_phẳng ) : Từ - 3 dBi đến + 4 dBi ;
+
+- Biến_đổi tăng ích ( theo góc phương vị ) : < 3 dB ;
+
+- Tỷ_số điện_áp sóng đứng của ăng ten 1 , 5 : 1 .
+
+3 . Quy_định Về Quản_lý
+
+3 . 1 . Các phao vô_tuyến chỉ vị_trí khẩn_cấp hàng_hải ( epirb ) hoạt_động ở băng tần 406 , 0 MHz đến 406 , 1 MHz thuộc phạm_vi điều_chỉnh quy_định tại mục 1 . 1 phải tuân_thủ các quy_định trong Quy_chuẩn này .
+
+3 . 2 . Việc đo kiểm / thử_nghiệm đối_với yêu_cầu kĩ_thuật của quy_chuẩn này ( trừ mục 2 . 3 . mục 2 . 5 và mục 2 . 7 . 3 ) để thực_hiện về công_bố hợp quy phải thực_hiện theo các quy_định hiện_hành . Các tổ_chức , cá_nhân được phép sử_dụng kết_quả đo kiểm / thử_nghiệm của các phòng thử_nghiệm trong nước được chỉ_định hoặc phòng thử_nghiệm ngoài nước được thừa_nhận hoặc kết_quả đo kiểm / thử_nghiệm của nhà sản_xuất đối_với yêu_cầu tại các mục 2 . 3 , mục 2 . 5 và mục 2 . 7 . 3 để thực_hiện về công_bố hợp quy .
+
+3 . 3 . Phương_tiện , thiết_bị đo : Tuân_thủ các quy_định hiện_hành .
+
+4 . Trách_nhiệm Của Tổ_chức Cá_nhân
+
+Các tổ_chức , cá_nhân liên_quan có trách_nhiệm công_bố hợp quy các phao vô_tuyến chỉ vị_trí khẩn_cấp hàng_hải ( epirb ) hoạt_động ở băng tần 406 , 0 MHz đến 406 , 1 MHz và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành .
+
+5 . Tổ_chức Thực_hiện
+
+5 . 1 . Cục Viễn_thông , Cục Tần_số vô_tuyến_điện và các Sở Thông_tin và Truyền_thông có trách_nhiệm tổ_chức hướng_dẫn , triển_khai quản_lí các phao vô_tuyến chỉ vị_trí khẩn_cấp hàng_hải ( epirb ) hoạt_động ở băng tần 406 , 0 MHz đến 406 , 1 MHz theo Quy_chuẩn này .
+
+5 . 2 . Quy_chuẩn này được áp_dụng thay_thế Qcvn 57 : 2011 / bt Quy_chuẩn kĩ_thuật quốc_gia về phao vô_tuyến chỉ vị_trí khẩn_cấp hàng_hải ( epirb ) hoạt_động ở băng tần 406 , 0 MHz đến 406 , 1 MHz .
+
+5 . 3 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới .
+
+5 . 4 . Trong quá_trình triển_khai thực_hiện quy_chuẩn này , nếu có vấn_đề phát_sinh , vướng_mắc , các tổ_chức và cá_nhân có liên_quan phản_ánh bằng văn_bản về Bộ Thông_tin và Truyền_thông ( Vụ Khoa_học và Công_nghệ ) để được hướng_dẫn , giải_quyết . / .
+
+Thư_mục_tài_liệu Tham_khảo
+
+[ 1 ] Cospas - Sarsat type approved beacon models listed bi manufacturer .
+
+[ 2 ] Fcc - 02 - 271a1 : Amendment of Part 95 of the Commission ' s Rules to authorize the use of 406 . 025 MHz for Personal Locator_beacons ( plb ) .
+
+[ 3 ] Cospas - Sarsat type approved beacon models listed bi manufacturer . ( htp : / / www . Cospas - Sarsat . org / beacons / type - approved - models ) .
+
+[ 4 ] Etsi En 300 066 V 1 . 3 . 1 ( 01 - 2001 ) : ElectroMagnetic Compatibility and Radio Spectrum_matters ( erm ) ; Float - free maritime satellite Emergency Position Indicating Radio_beacons ( EPIRBs ) operating in the 406 , 0 MHz to 406 , 1 MHz frequency band ; Technical characteristics and methods of measurement . Part 1 : Technical characteristics and methods of measurement .
+
+[ 5 ] Etsi En 302 152-1 V1 . 1 . 1 ( 2003 - 11 ) : Electromagnetic compatibilityand Radio spectrum Matters ( erm ) ; Satellite Personal Locator_beacons ( plb ) operating in the 406 , 0 MHz to 406 , 1 MHz frequency band ; Part 1 : Technical characteristics and methods of measurement .
+
+[ 6 ] C / s T . 001 2018 : Specification for Cospas - Sarsat 406 MHz distress beacons .
+
+[ 7 ] C / s T . 007 2018 : Cospas - Sarsat 406 MHz distress beacons type approval standard .
+
+[ 8 ] C / s G . 005 2018 : Cospas - Sarsat guidelines on 406 MHz beacon coding , registration and type approval .
+
+[ 9 ] C / s T . 012 2018 : Cospas - Sarsat 406 MHz frequency management plan .

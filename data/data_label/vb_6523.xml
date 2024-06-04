@@ -1,0 +1,333 @@
+Thông_tư số 05/2020/tt-bkhcn ngày 30 tháng 10 năm 2020 của bộ khoa_học và công_nghệ
+
+Căn_cứ <LT rel="CC"> Luật Năng_lượng nguyên_tử ngày 03 tháng 6 năm 2008 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 95/2017/NĐ-CP ngày 16 tháng 8 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Khoa_học và Công_nghệ ;
+
+Theo đề_nghị của Cục_trưởng Cục An_toàn bức_xạ và hạt_nhân và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Khoa_học và Công_nghệ ban_hành Thông_tư quy_định về an_toàn hạt_nhân đối_với cơ_sở lò phản_ứng hạt_nhân nghiên_cứu .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định các yêu_cầu về an_toàn hạt_nhân trong thiết_kế , xây_dựng , vận_hành thử , vận_hành và chấm_dứt hoạt_động_cơ_sở lò phản_ứng hạt_nhân nghiên_cứu ( sau đây được viết tắt là Lpưnc ) .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Chủ đầu_tư , cơ_quan và tổ_chức thực_hiện việc lựa_chọn địa_điểm , thiết_kế , xây_dựng , vận_hành thử , vận_hành và chấm_dứt hoạt_động_cơ_sở Lpưnc .
+
+2 . Cơ_quan , tổ_chức thực_hiện thẩm_định an_toàn , phê_duyệt địa_điểm , phê_duyệt dự_án đầu_tư , cấp phép xây_dựng , cấp phép vận_hành thử , cấp phép vận_hành và cấp phép chấm_dứt hoạt_động_cơ_sở Lpưnc .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Cơ_sở lò phản_ứng hạt_nhân nghiên_cứu là cơ_sở hạt_nhân có lò phản_ứng dùng để tạo ra chùm nơtron và các chùm bức_xạ sử_dụng cho mục_đích nghiên_cứu và mục_đích khác , bao_gồm lò phản_ứng cùng với các hệ_thống , thiết_bị đi kèm và khu_vực hành_chính - kĩ_thuật liên_quan được bố_trí trên cùng một địa_điểm .
+
+2 . Giới_hạn_vận_hành là khoảng giá_trị các tham_số và đặc_trưng của hệ_thống , bộ_phận và tổng_thể cơ_sở Lpưnc được xác_định trong thiết_kế đối_với vận_hành bình_thường .
+
+3 . Điều_kiện vận_hành là điều_kiện về số_lượng , đặc_trưng , khả_năng hoạt_động và điều_kiện bảo_dưỡng kĩ_thuật của hệ_thống , bộ_phận để bảo_đảm hoạt_động của cơ_sở Lpưnc trong giới_hạn_vận_hành .
+
+4 . Giới_hạn_vận_hành an_toàn là khoảng giá_trị các tham_số công_nghệ được xác_định trong thiết_kế mà khi cơ_sở Lpưnc hoạt_động ngoài khoảng giá_trị đó có_thể dẫn đến sự_cố .
+
+5 . Điều_kiện vận_hành an_toàn là điều_kiện về số_lượng , đặc_trưng , khả_năng hoạt_động và điều_kiện bảo_dưỡng kĩ_thuật của hệ_thống , bộ_phận quan_trọng về an_toàn để bảo_đảm hoạt_động của cơ_sở Lpưnc trong giới_hạn_vận_hành an_toàn .
+
+6 . Giới_hạn thiết_kế là khoảng giá_trị các tham_số và đặc_trưng của hệ_thống , bộ_phận và tổng_thể cơ_sở Lpưnc được xác_định trong thiết_kế đối_với vận_hành bình_thường , tình_huống vận_hành và sự_cố .
+
+7 . Vận_hành bình_thường là khi cơ_sở Lpưnc hoạt_động trong giới_hạn và điều_kiện vận_hành .
+
+8 . Tình_huống vận_hành là khi cơ_sở Lpưnc hoạt_động ngoài giới_hạn và điều_kiện vận_hành nhưng không dẫn đến sự_cố .
+
+9 . Tình_huống tiệm cận sự_cố là khi cơ_sở Lpưnc hoạt_động ngoài giới_hạn và điều_kiện vận_hành an_toàn nhưng chưa xảy ra sự_cố .
+
+10 . Sai hỏng đơn là sai hỏng dẫn đến mất khả_năng thực_hiện chức_năng an_toàn của một hệ_thống , bộ_phận ; bao_gồm cả sai hỏng thứ cấp đi kèm .
+
+11 . Nguyên_tắc dự_phòng là việc thiết_kế đồng_thời có nhiều hệ_thống , bộ_phận có khả_năng thay_thế lẫn nhau để thực_hiện độc_lập cùng một chức_năng an_toàn .
+
+12 . Nguyên_tắc đa_dạng là việc thiết_kế đồng_thời có nhiều hệ_thống , bộ_phận có đặc_tính khác nhau thực_hiện cùng một chức_năng an_toàn xác_định , nhằm giảm_thiểu khả_năng sai hỏng cùng nguyên_nhân .
+
+13 . Nguyên_tắc tự an_toàn là nguyên_tắc khi xảy ra sai hỏng trong hệ_thống , bộ_phận thì hệ_thống , bộ_phận đó vẫn phải thực_hiện được các chức_năng an_toàn theo thiết_kế mà không cần kích_hoạt các hành_động bảo_vệ thông_qua hệ_thống điều_khiển an_toàn .
+
+14 . Nguyên_tắc chống sai hỏng đơn là nguyên_tắc áp_dụng đối_với hệ_thống an_toàn sao cho hệ_thống này phải có khả_năng thực_hiện được chức_năng an_toàn khi xảy ra sai hỏng đơn .
+
+15 . Sự_kiện khởi_phát là sự_kiện dẫn đến tình_huống vận_hành , tình_huống tiệm cận sự_cố hoặc sự_cố .
+
+16 . Sự_cố là tình_trạng cơ_sở Lpưnc hoạt_động ngoài giới_hạn và điều_kiện vận_hành an_toàn , gây rò_rỉ , phát_tán chất phóng_xạ ra ngoài biên của các lớp bảo_vệ vật_lý . Mỗi sự_cố đặc_trưng bởi sự_kiện khởi_phát , diễn_biến và hậu_quả sự_cố .
+
+17 . Sự_cố trong thiết_kế là sự_cố giả_định được tính đến trong thiết_kế cơ_sở Lpưnc , bảo_đảm kiểm_soát hậu_quả dưới mức giới_hạn đối_với sự_cố đó .
+
+18 . Sự_cố ngoài thiết_kế là sự_cố giả_định với các điều_kiện xảy ra sự_cố nghiêm_trọng hơn các điều_kiện xảy ra sự_cố trong thiết_kế .
+
+19 . Hệ_thống , bộ_phận vận_hành là hệ_thống , bộ_phận được sử_dụng cho vận_hành bình_thường .
+
+20 . Hệ_thống , bộ_phận an_toàn là hệ_thống , bộ_phận được sử_dụng để thực_hiện chức_năng an_toàn .
+
+21 . Hệ_thống , bộ_phận quan_trọng về an_toàn bao_gồm : hệ_thống , bộ_phận an_toàn ; hệ_thống , bộ_phận vận_hành mà nếu bị sai hỏng sẽ dẫn đến tình_huống tiệm cận sự_cố hoặc làm giảm khả_năng khắc_phục tình_huống tiệm cận sự_cố và có_thể dẫn đến sự_cố .
+
+22 . Hệ_thống , bộ_phận chủ_động là hệ_thống , bộ_phận mà việc thực_hiện chức_năng theo thiết_kế phụ_thuộc vào hoạt_động bình_thường của hệ_thống , bộ_phận khác .
+
+23 . Hệ_thống , bộ_phận thụ_động là hệ_thống , bộ_phận mà việc thực_hiện chức_năng không phụ_thuộc vào sự cung_cấp , hỗ_trợ bên ngoài .
+
+24 . Phát thải khẩn_cấp lớn nhất được phép là lượng nhân phóng_xạ được phép thải ra ngoài môi_trường trong trường_hợp xảy ra sự_cố ngoài thiết_kế mà vẫn bảo_đảm liều chiếu đối_với công_chúng trong và ngoài vùng lập kế_hoạch bảo_vệ khẩn_cấp không vượt quá giới_hạn theo quy_định và không cần phải đưa ra Quyết_định thực_hiện các hành_động bảo_vệ công_chúng ( có tính đến điều_kiện thời_tiết cực_đoan nhất ) .
+
+25 . Địa_điểm cơ_sở Lpưnc là khu_vực địa_lí đặt cơ_sở Lpưnc nằm trong phạm_vi bảo_vệ .
+
+26 . Khu_vực cơ_sở Lpưnc là khu_vực địa_lí có cơ_sở Lpưnc mà ở đó các hiện_tượng , quá_trình , yếu_tố do tự_nhiên hoặc con_người gây ra có_thể ảnh_hưởng đến an_toàn của cơ_sở Lpưnc .
+
+27 . Bảo_vệ thực_thể là việc thực_hiện các biện_pháp kĩ_thuật - hành_chính và hành_động của nhân_viên an_ninh nhằm ngăn_chặn sự phá_hoại hoặc chiếm_đoạt vật_liệu hạt_nhân , chất phóng_xạ và chất_thải phóng_xạ .
+
+Chương_ii
+
+Yêu_cầu_an_toàn
+
+Mục 1 . Yêu_cầu_an_toàn Chung
+
+Điều 4 . Yêu_cầu về mục_tiêu bảo_đảm an_toàn
+
+1 . Trong vận_hành bình_thường , tình_huống vận_hành hoặc khi xảy ra sự_cố trong thiết_kế , liều chiếu đối_với nhân_viên bức_xạ và công_chúng , lượng chất phóng_xạ thải ra môi_trường không được vượt quá các giá_trị giới_hạn xác_định .
+
+2 . Khi xảy ra sự_cố ngoài thiết_kế , tác_động bức_xạ đối_với nhân_viên bức_xạ , công_chúng và môi_trường phải được giảm_thiểu .
+
+Điều 5 . Yêu_cầu về bảo_vệ theo chiều sâu
+
+1 . Bảo_vệ theo chiều sâu bao_gồm sử_dụng các lớp bảo_vệ vật_lí và các biện_pháp kĩ_thuật - hành_chính để bảo_vệ nhân_viên bức_xạ , công_chúng và môi_trường khỏi tác_động bức_xạ từ cơ_sở Lpưnc .
+
+2 . Phải xây_dựng luận_chứng về việc thực_hiện bảo_vệ theo chiều sâu đối_với cơ_sở Lpưnc .
+
+3 . Các biện_pháp kĩ_thuật - hành_chính phải được kiểm_chứng thông_qua kinh_nghiệm vận_hành hoặc thử_nghiệm và phải tuân_thủ quy_định của pháp_luật về thiết_kế , xây_dựng , vận_hành thử , vận_hành và chấm_dứt hoạt_động_cơ_sở Lpưnc .
+
+4 . Các biện_pháp kĩ_thuật - hành_chính gồm 5 mức quy_định tại Phụ_lục I ban_hành kèm theo Thông_tư này .
+
+Điều 6 . Yêu_cầu về bảo_đảm chất_lượng
+
+1 . Phải xây_dựng và thực_hiện quy_trình bảo_đảm chất_lượng đối_với tất_cả các công_việc có khả_năng ảnh_hưởng đến an_toàn của cơ_sở Lpưnc .
+
+2 . Phải giám_sát việc bảo_đảm chất_lượng của các tổ_chức thực_hiện công_việc , cung_cấp dịch_vụ cho tổ_chức vận_hành .
+
+Điều 7 . Yêu_cầu về văn_hoá an_toàn
+
+1 . Văn_hoá an_toàn bao_gồm tổng_thể quan_điểm và ứng_xử của tổ_chức , cá_nhân với ưu_tiên hàng_đầu là bảo_đảm an_toàn cho con_người và môi_trường khỏi tác_động bức_xạ .
+
+2 . Tổ_chức vận_hành và các tổ_chức thực_hiện công_việc , cung_cấp dịch_vụ phải xây_dựng và duy_trì văn_hoá an_toàn thông_qua :
+
+a ) Tuyển_dụng , đào_tạo và tập_huấn đối_với nhân_viên thực_hiện các công_việc có ảnh_hưởng đến an_toàn ;
+
+b ) Phân_công rõ_ràng trách_nhiệm của người quản_lí và nhân_viên ;
+
+c ) Xây_dựng và tuân_thủ tài_liệu hướng_dẫn thực_hiện công_việc , hướng_dẫn vận_hành ; định_kì cập_nhật các tài_liệu này , có tính đến kinh_nghiệm vận_hành .
+
+Mục 2 . Yêu_cầu_an_toàn Đối_với Thiết_kế , Xây_dựng , Vận_hành Thử , Vận_hành Và Chấm_dứt Hoạt_động_cơ_sở_lpưnc
+
+Điều 8 . Nguyên_tắc thiết_kế
+
+1 . Ưu_tiên sử_dụng hệ_thống , bộ_phận thụ_động hoặc có đặc_tính an_toàn nội_tại ( đặc_tính an_toàn dựa trên hiệu_ứng phản_hồi , quá_trình và đặc_điểm tự_nhiên ) .
+
+2 . Phải bảo_đảm khả_năng kiểm_tra trực_tiếp và toàn_bộ hệ_thống quan_trọng về an_toàn theo thông_số thiết_kế trong quá_trình vận_hành thử , sau khi sửa_chữa và kiểm_tra thường_xuyên trong suốt vòng đời của cơ_sở Lpưnc .
+
+Trường_hợp thiết_kế cơ_sở Lpưnc không cho phép tiến_hành việc kiểm_tra trực_tiếp và toàn_bộ thì phải bảo_đảm khả_năng kiểm_tra gián_tiếp và từng phần của hệ_thống quan_trọng về an_toàn với tần_suất cụ_thể .
+
+3 . Phải bảo_đảm việc kiểm_tra và bảo_dưỡng kĩ_thuật hệ_thống , bộ_phận quan_trọng về an_toàn trong quá_trình vận_hành phù_hợp với giới_hạn và điều_kiện vận_hành an_toàn ; phải xây_dựng luận_chứng về sự phù_hợp của tần_suất , thời_gian kiểm_tra và bảo_dưỡng kĩ_thuật .
+
+4 . Xem_xét và xây_dựng luận_chứng về các biện_pháp_bảo_vệ hệ_thống , bộ_phận khỏi sai hỏng cùng nguyên_nhân .
+
+5 . Có giải_pháp kĩ_thuật để ngăn_ngừa và giảm_thiểu hậu_quả do sai_sót của nhân_viên , bao_gồm cả sai_sót trong quá_trình bảo_dưỡng kĩ_thuật hệ_thống quan_trọng về an_toàn .
+
+Điều 9 . Các yếu_tố trong thiết_kế
+
+Thiết_kế cơ_sở Lpưnc phải xác_định :
+
+1 . Đặc_trưng vật_lí - nơtron , thuỷ_nhiệt và các đặc_trưng quan_trọng về an_toàn khác .
+
+2 . Điều_kiện và tần_suất kiểm_tra sự phù_hợp của đặc_trưng vật_lí - nơtron với thiết_kế .
+
+3 . Chế_độ vận_hành , giới_hạn và điều_kiện vận_hành , giới_hạn và điều_kiện vận_hành an_toàn .
+
+4 . Danh_mục công_việc nguy_hiểm liên_quan đến hạt_nhân và biện_pháp_bảo_đảm an_toàn hạt_nhân khi thực_hiện .
+
+5 . Chỉ_số độ tin_cậy của hệ_thống quan_trọng về an_toàn và bộ_phận thuộc nhóm an_toàn cấp 1 , cấp 2 , cấp 3 theo quy_định tại Phụ_lục Iii Thông_tư này .
+
+6 . Danh_mục kết_cấu xây_dựng , thiết_bị , phương_tiện tự_động và các hệ_thống , bộ_phận khác phải được chứng_nhận theo quy_định .
+
+7 . Việc phân_loại an_toàn cháy , nổ đối_với các khu_vực trong cơ_sở Lpưnc .
+
+8 . Điều_kiện , phạm_vi , tần_suất kiểm_tra và bảo_dưỡng kĩ_thuật đối_với hệ_thống quan_trọng về an_toàn .
+
+9 . Điều_kiện kích_hoạt hệ_thống an_toàn ; mức_độ tác_động bên ngoài yêu_cầu dừng lò , đưa lò phản_ứng về trạng_thái dưới tới hạn .
+
+10 . Danh_mục sự_kiện khởi_phát các sự_cố trong thiết_kế và ngoài thiết_kế ; đánh_giá xác_suất xảy ra sự_cố ; kịch_bản sự_cố .
+
+11 . Xác_suất xảy ra phát thải khẩn_cấp lớn nhất được phép từ cơ_sở Lpưnc .
+
+12 . Mức kiềm_chế liều , có tính đến đặc_thù của khu_vực cơ_sở Lpưnc .
+
+13 . Thời_hạn_vận_hành của cơ_sở Lpưnc , tuổi_thọ và tiêu_chí thay_thế thiết_bị .
+
+Điều 10 . Các hạng_mục trong thiết_kế
+
+Thiết_kế cơ_sở Lpưnc bao_gồm đủ các hạng_mục được quy_định tại Phụ_lục Ii Thông_tư này . Trong trường_hợp thiết_kế không bao_gồm đủ các hạng_mục nói trên , phải xây_dựng luận_chứng nhằm chứng_minh việc thiếu hạng_mục đó không gây ảnh_hưởng tới an_toàn cơ_sở Lpưnc .
+
+Điều 11 . Phân nhóm , phân_cấp an_toàn đối_với hệ_thống , bộ_phận
+
+1 . Thiết_kế cơ_sở Lpưnc phải phân nhóm và phân_cấp an_toàn hệ_thống , bộ_phận phù_hợp với các yêu_cầu_an_toàn .
+
+2 . Hệ_thống , bộ_phận của cơ_sở Lpưnc được phân nhóm , phân_cấp an_toàn theo quy_định tại Phụ_lục Iii Thông_tư này .
+
+Điều 12 . Yêu_cầu_an_toàn đối_với thiết_kế các hệ_thống
+
+Yêu_cầu_an_toàn đối_với thiết_kế các hệ_thống của cơ_sở Lpưnc được quy_định tại Phụ_lục Iv Thông_tư này .
+
+Điều 13 . Yêu_cầu_an_toàn đối_với xây_dựng cơ_sở Lpưnc
+
+1 . Việc xây_dựng cơ_sở Lpưnc , chế_tạo và lắp_đặt hệ_thống , thiết_bị phải tuân_thủ thiết_kế chi_tiết .
+
+2 . Kết_cấu xây_dựng , thiết_bị , dụng_cụ và phương_tiện tự_động ( bao_gồm cả phương_tiện kĩ_thuật bảo_vệ thực_thể ) phải có giấy chứng_nhận ( nếu thuộc loại yêu_cầu có chứng_nhận bắt_buộc ) .
+
+3 . Việc kiểm_soát chất_lượng , nghiệm_thu công_việc và nghiệm_thu hệ_thống , bộ_phận thiết_bị phải tuân_thủ thiết_kế chi_tiết và quy_trình bảo_đảm chất_lượng .
+
+Điều 14 . Yêu_cầu_an_toàn đối_với vận_hành thử cơ_sở Lpưnc
+
+1 . Phải có các biện_pháp kĩ_thuật - hành_chính để xác_minh sự phù_hợp của đặc_tính kĩ_thuật đạt được so với thiết_kế .
+
+2 . Phải thực_hiện các công_việc sau :
+
+a ) Xây_dựng hướng_dẫn về bảo_đảm an_toàn bức_xạ và thiết_lập các mức kiểm_soát ;
+
+b ) Ban_hành và cập_nhật định_kì hồ_sơ kĩ_thuật của cơ_sở Lpưnc ;
+
+c ) Lập và cập_nhật định_kì hồ_sơ liều của nhân_viên bức_xạ ; xây_dựng và thực_hiện biện_pháp giảm_thiểu liều và số người bị chiếu_xạ ;
+
+d ) Tổ_chức việc bảo_vệ thực_thể ; kiểm_đếm và kiểm_soát vật_liệu hạt_nhân , chất phóng_xạ và chất_thải phóng_xạ .
+
+3 . Phải xây_dựng chương_trình vận_hành thử với các nội_dung sau :
+
+a ) Các công_đoạn chính của từng công_việc trong quá_trình vận_hành thử ;
+
+b ) Trạng_thái ban_đầu của cơ_sở Lpưnc trước mỗi công_đoạn của từng công_việc trong vận_hành thử ;
+
+c ) Nội_dung và yêu_cầu đối_với tài_liệu ở mỗi giai_đoạn của vận_hành thử .
+
+4 . Việc vận_hành thử phải bao_gồm các giai_đoạn : hiệu_chỉnh khởi_động , khởi_động_vật_lí và khởi_động năng_lượng .
+
+5 . Trong giai_đoạn hiệu_chỉnh khởi_động phải kiểm_tra khả_năng vận_hành cũng như sự phù_hợp với thiết_kế của từng hệ_thống và tổng_thể các hệ_thống khi có tác_động qua_lại .
+
+6 . Trong giai_đoạn khởi_động_vật_lí ( bao_gồm cả nạp nhiên_liệu vào vùng hoạt ) phải kiểm_tra sự phù_hợp của đặc_trưng vật_lí - nơtron so với thiết_kế .
+
+7 . Trong giai_đoạn khởi_động năng_lượng phải tiến_hành :
+
+a ) Khảo_sát ảnh_hưởng của công_suất và nhiệt_độ đến từng đặc_trưng vật_lí - nơtron đã đo được ở giai_đoạn khởi_động_vật_lý ;
+
+b ) Nghiên_cứu đặc_trưng của các kênh_thí_nghiệm và kênh chiếu_xạ , bao_gồm cả phân_bố thông_lượng nơtron tại lối ra các kênh ở vành phản_xạ và tại các kênh trong vùng hoạt ;
+
+c ) Đo tình_trạng bức_xạ tại địa_điểm cơ_sở Lpưnc .
+
+8 . Khi khởi_động năng_lượng , việc đưa lò phản_ứng lên thông_số danh định theo thiết_kế phải được thực_hiện theo nhiều giai_đoạn với các mức công_suất và khoảng thời_gian xác_định .
+
+9 . Tất_cả các điều_chỉnh sau quá_trình vận_hành thử phải được bổ_sung vào tài_liệu thiết_kế - kĩ_thuật , Báo_cáo phân_tích an_toàn , tài_liệu công_nghệ và tài_liệu vận_hành cơ_sở Lpưnc .
+
+Điều 15 . Yêu_cầu đối_với vận_hành cơ_sở Lpưnc
+
+Tổ_chức vận_hành phải thực_hiện các công_việc sau :
+
+1 . Xây_dựng cơ_cấu tổ_chức với các thành_phần :
+
+a ) Người đứng đầu_cơ_sở Lpưnc ( chịu trách_nhiệm trực_tiếp về an_toàn cơ_sở Lpưnc ) ;
+
+b ) Nhân_viên vận_hành ;
+
+c ) Nhân_viên bảo_dưỡng , sửa_chữa , thay_thế thiết_bị và phương_tiện kĩ_thuật ;
+
+d ) Nhân_viên giám_sát việc lập và thực_hiện quy_trình bảo_đảm chất_lượng ;
+
+đ ) Bộ_phận hiệu chuẩn_thiết_bị đo ;
+
+e ) Bộ_phận kiểm_soát an_toàn bức_xạ và hạt_nhân , an_toàn công_nghiệp và an_toàn cháy , nổ ;
+
+g ) Bộ_phận an_ninh bảo_đảm hoạt_động của hệ_thống bảo_vệ thực_thể .
+
+2 . Bảo_đảm có đội_ngũ nhân_viên đủ trình_độ chuyên_môn và được đào_tạo phù_hợp với chức_năng , nhiệm_vụ được giao .
+
+3 . Xây_dựng quy_định nội_bộ , phân_công trách_nhiệm , quyền_hạn đối_với lãnh_đạo , vị_trí việc_làm và yêu_cầu chuyên_môn đối_với nhân_viên .
+
+4 . Xây_dựng quy_trình đào_tạo nhân_viên vận_hành , bao_gồm : chương_trình đào_tạo , thực_tập , kiểm_tra định_kỳ , rèn_luyện kĩ_năng thực_hành điều_khiển cơ_sở Lpưnc và vận_hành thiết_bị thí_nghiệm , tập huấn thao_tác trong trường_hợp xảy ra tình_huống vận_hành , tình_huống tiệm cận sự_cố và sự_cố ; đào_tạo về văn_hoá an_toàn .
+
+5 . Lập Báo_cáo phân_tích an_toàn , hướng_dẫn vận_hành , tài_liệu công_nghệ của cơ_sở Lpưnc , trong đó nêu rõ giới_hạn thiết_kế và điều_kiện vận_hành an_toàn .
+
+6 . Bảo_đảm thực_hiện các quy_trình sau :
+
+a ) Nạp nhiên_liệu và đưa lò phản_ứng đến trạng_thái tới hạn ;
+
+b ) Thay đảo nhiên_liệu ;
+
+c ) Khởi_động , thay_đổi công_suất và vận_hành có công_suất ;
+
+d ) Hiệu_chỉnh thanh điều_khiển ;
+
+đ ) Đo và theo_dõi mức dự_trữ độ phản_ứng ;
+
+e ) Hiệu_chỉnh các kênh kiểm_soát phân_bố thông_lượng nơtron ;
+
+g ) Xác_định công_suất cơ_sở Lpưnc và hiệu_chỉnh buồng ion_hoá của hệ_thống điều_khiển ;
+
+h ) Hành_động của nhân_viên trong trường_hợp có tín_hiệu cảnh_báo ;
+
+i ) Hành_động của nhân_viên trong trường_hợp có kích_hoạt hệ_thống bảo_vệ ;
+
+k ) Dừng lò theo kế_hoạch và tắt các thiết_bị ;
+
+l ) Xử_lí vật_liệu hạt_nhân ;
+
+m ) Xử_lí chất phóng_xạ và chất_thải phóng_xạ ;
+
+n ) Các quy_trình khác trong trường_hợp thực_hiện công_việc nguy_hiểm liên_quan đến bức_xạ và hạt_nhân .
+
+7 . Xây_dựng hướng_dẫn sử_dụng hệ_thống , thiết_bị công_nghệ và thiết_bị thí_nghiệm , trong đó có chỉ dẫn thao_tác đối_với vận_hành bình_thường , tình_huống vận_hành và quy_trình thao_tác khi xảy ra các sự_cố trong thiết_kế và sự_cố ngoài thiết_kế .
+
+8 . Xây_dựng quy_trình lưu_trữ và bảo_quản hồ_sơ vận_hành .
+
+9 . Lưu_trữ tài_liệu thiết_kế , hồ_sơ_chế_tạo thiết_bị , biên_bản và báo_cáo thử_nghiệm , hồ_sơ bảo_dưỡng kĩ_thuật , sửa_chữa hệ_thống an_toàn và hệ_thống quan_trọng về an_toàn thuộc nhóm an_toàn cấp 1 và cấp 2 trong suốt vòng đời của cơ_sở Lpưnc .
+
+10 . Tiến_hành điều_tra , nghiên_cứu các tình_huống tiệm cận sự_cố , sự_cố đã từng xảy ra ; xây_dựng và thực_hiện biện_pháp ngăn_ngừa_lặp lại các tình_huống tiệm cận sự_cố , sự_cố tương_tự .
+
+11 . Xây_dựng và thực_hiện quy_trình thu_thập , xử_lý , phân_tích , hệ_thống_hoá và lưu_trữ thông_tin về những tình_huống vận_hành của cơ_sở Lpưnc trong suốt quá_trình vận_hành và khi chuyển_giao cơ_sở Lpưnc cho tổ_chức khác .
+
+12 . Thực_hiện kiểm_soát nội_bộ việc bảo_đảm an_toàn , bảo_vệ thực_thể và phải đưa kết_quả kiểm_tra vào báo_cáo thực_trạng an_toàn của cơ_sở Lpưnc .
+
+13 . Bảo_đảm việc khởi_động và vận_hành có công_suất , dừng lò tạm_thời , dừng lò dài_hạn , dừng lò vĩnh_viễn tuân_thủ các yêu_cầu được quy_định tại Phụ_lục V Thông_tư này .
+
+Điều 16 . Yêu_cầu đối_với chấm_dứt hoạt_động_cơ_sở Lpưnc
+
+1 . Trước khi chấm_dứt hoạt_động_cơ_sở Lpưnc phải hoàn_thành việc :
+
+a ) Vận_chuyển toàn_bộ vật_liệu hạt_nhân ra khỏi địa_điểm cơ_sở Lpưnc ;
+
+b ) Trang_bị thiết_bị chuyên_dụng để bảo_đảm an_toàn trong khi tháo_dỡ , tẩy xạ và xử_lí chất_thải phóng_xạ ;
+
+c ) Tập_huấn cho nhân_viên thực_hiện các công_việc liên_quan tới chấm_dứt hoạt_động_cơ_sở Lpưnc .
+
+2 . Khi chấm_dứt hoạt_động_cơ_sở Lpưnc phải bảo_đảm :
+
+a ) Giảm_thiểu lượng chất_thải phóng_xạ ;
+
+b ) Giảm_thiểu liều chiếu đối_với nhân_viên bức_xạ ;
+
+c ) Loại_bỏ tác_động bức_xạ tới công_chúng ;
+
+d ) Kiểm_đếm , kiểm_soát và bảo_vệ thực_thể đối_với chất_thải phóng_xạ .
+
+Chương_iii
+
+Điều_khoản Thi_hành
+
+Điều 17 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 12 năm 2020 .
+
+2 . Trong quá_trình thực_hiện , nếu có vướng_mắc , các cơ_quan , tổ_chức , cá_nhân kịp_thời phản_ánh về Bộ Khoa_học và Công_nghệ để xem_xét sửa_đổi , bổ_sung .
+
+Điều 18 . Điều_khoản chuyển_tiếp
+
+Cơ_sở đã được cấp giấy_phép vận_hành Lpưnc trước khi Thông_tư này có hiệu_lực phải thực_hiện các quy_định tại Điều 15 và Điều 16 Thông_tư này trong quá_trình vận_hành , khi đề_nghị gia_hạn giấy_phép vận_hành hoặc xin cấp giấy_phép chấm_dứt hoạt_động . / .

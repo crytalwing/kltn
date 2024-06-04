@@ -1,0 +1,265 @@
+Thông_tư số 42/2021/tt-bgdđt ngày 30 tháng 12 năm 2021 của bộ giáo_dục và đào_tạo
+
+Căn_cứ Nghị_định số 69/2017/NĐ-CP ngày 25 tháng 5 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Giáo_dục và Đào_tạo ;
+
+Căn_cứ Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính_phủ về Ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+
+Căn_cứ Nghị_định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính_phủ về Quản_lý , kết_nối và chia_sẻ dữ_liệu số của cơ_quan nhà_nước ;
+
+Theo đề_nghị của Cục_trưởng Cục Công_nghệ thông_tin ;
+
+Bộ_trưởng Bộ Giáo_dục và Đào_tạo ban_hành Thông_tư quy_định về cơ_sở dữ_liệu giáo_dục và đào_tạo .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh và đối_tượng áp_dụng
+
+1 . Thông_tư này quy_định về :
+
+a ) Nội_dung của cơ_sở dữ_liệu giáo_dục và đào_tạo ; việc quản_lí và khai_thác , sử_dụng cơ_sở dữ_liệu giáo_dục và đào_tạo ;
+
+b ) Trách_nhiệm , quyền_hạn của cơ_quan , tổ_chức , cá_nhân có liên_quan .
+
+2 . Thông_tư này áp_dụng đối_với :
+
+a ) Các sở giáo_dục và đào_tạo hoặc sở có chức_năng tham_mưu quản_lí nhà_nước về giáo_dục thuộc Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương ( sau đây gọi chung là sở giáo_dục và đào_tạo ) ; phòng giáo_dục và đào_tạo hoặc phòng có chức_năng tham_mưu quản_lí nhà_nước về giáo_dục thuộc Ủy_ban nhân_dân huyện , quận , thị_xã , thành_phố thuộc tỉnh , thành_phố trực_thuộc Trung_ương ( sau đây gọi chung là phòng giáo_dục và đào_tạo ) ;
+
+b ) Các cơ_sở giáo_dục bao_gồm : Cơ_sở giáo_dục mầm_non , cơ_sở giáo_dục phổ_thông , cơ_sở giáo_dục thường_xuyên , cơ_sở giáo_dục đại_học , trường cao_đẳng có đào_tạo ngành Giáo_dục Mầm_non ( sau đây gọi chung là trường cao_đẳng sư_phạm ) ;
+
+c ) Các tổ_chức , cá_nhân có liên_quan .
+
+Điều 2 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ sau đây được hiểu như sau :
+
+1 . Cơ_sở dữ_liệu giáo_dục và đào_tạo là tập_hợp dữ_liệu số_hoá thông_tin quản_lí về giáo_dục và đào_tạo ( gồm dữ_liệu về trường_học , dữ_liệu về lớp_học , dữ_liệu về cán_bộ quản_lí cơ_sở giáo_dục , đội_ngũ giáo_viên , giảng_viên , và nhân_viên , dữ_liệu về người học , dữ_liệu về chương_trình giáo_dục , dữ_liệu về cơ_sở vật_chất trường_học và các dữ_liệu liên_quan khác ) do Bộ Giáo_dục và Đào_tạo xây_dựng và quản_lý .
+
+2 . Mã định_danh cho một đối_tượng được quản_lí trên cơ_sở dữ_liệu giáo_dục và đào_tạo là một chuỗi kí_tự dùng để định_danh duy_nhất cho đối_tượng đó trên cơ_sở dữ_liệu giáo_dục và đào_tạo .
+
+3 . Tài_khoản trên cơ_sở dữ_liệu giáo_dục và đào_tạo gồm hai thông_tin chính là tên đăng_nhập và mật_khẩu được cơ_quan có thẩm_quyền cấp để đăng_nhập , báo_cáo và khai_thác sử_dụng cơ_sở dữ_liệu . Có hai loại tài_khoản là tài_khoản quản_trị dùng để quản_trị cơ_sở dữ_liệu giáo_dục và đào_tạo theo thẩm_quyền và tài_khoản khai_thác sử_dụng dữ_liệu trên cơ_sở dữ_liệu giáo_dục và đào_tạo .
+
+Điều 3 . Mục_đích của cơ_sở dữ_liệu giáo_dục và đào_tạo
+
+1 . Nâng cao hiệu_lực , hiệu_quả của công_tác quản_lí giáo_dục và đào_tạo như : Công_tác báo_cáo , thống_kê , theo_dõi , giám_sát , cảnh_báo , dự_báo và thanh_tra , kiểm_tra trong ngành giáo_dục dựa trên nền_tảng dữ_liệu lớn và công_nghệ số .
+
+2 . Thúc_đẩy chuyển_đổi số trong quản_trị , quản_lí giáo_dục và đào_tạo , góp_phần phát_triển Chính_phủ số , kinh_tế số và xã_hội số .
+
+Chương_ii
+
+Nội_dung Của Cơ_sở Dữ_liệu Giáo_dục Và Đào_tạo
+
+Điều 4 . Danh_mục cơ_sở dữ_liệu giáo_dục và đào_tạo
+
+Danh_mục cơ_sở dữ_liệu giáo_dục và đào_tạo do Bộ Giáo_dục và Đào_tạo xây_dựng , quản_lí thống_nhất trong toàn ngành giáo_dục bao_gồm :
+
+1 . Cơ_sở dữ_liệu về giáo_dục mầm_non .
+
+2 . Cơ_sở dữ_liệu về giáo_dục phổ_thông .
+
+3 . Cơ_sở dữ_liệu về giáo_dục thường_xuyên .
+
+4 . Cơ_sở dữ_liệu về giáo_dục đại_học ( áp_dụng cho các cơ_sở giáo_dục đại_học và các trường cao_đẳng sư_phạm ) .
+
+Điều 5 . Nội_dung của Cơ_sở dữ_liệu về giáo_dục mầm_non
+
+Nội_dung của Cơ_sở dữ_liệu về giáo_dục mầm_non gồm :
+
+1 . Thông_tin mạng_lưới cơ_sở giáo_dục mầm_non gồm : Thông_tin về cơ_sở giáo_dục , loại_hình giáo_dục , các thông_tin về điểm trường chính , các điểm trường ( nếu có ) và các thông_tin khác theo quy_định .
+
+2 . Thông_tin về nhà_trẻ , nhóm trẻ / lớp mẫu_giáo ( gọi chung là lớp_học ) gồm : Danh_sách lớp_học , lớp_học theo nhóm tuổi , lớp ghép , lớp_học 2 buổi / ngày , lớp_học bán_trú , chương_trình giáo_dục và các thông_tin khác theo quy_định .
+
+3 . Thông_tin đội_ngũ gồm : Thông_tin cơ_bản của cán_bộ quản_lí cơ_sở giáo_dục , giáo_viên , nhân_viên về thông_tin chung , trình_độ chuyên_môn , quá_trình đào_tạo và bồi_dưỡng , khen_thưởng , kỉ_luật , trình_độ tin_học , ngoại_ngữ , đánh_giá chuẩn nghề_nghiệp và các thông_tin khác theo quy_định .
+
+4 . Thông_tin người học gồm : Hồ_sơ lí_lịch , kết_quả của quá_trình học_tập , nuôi_dưỡng , sức_khoẻ của trẻ và các thông_tin khác theo quy_định .
+
+5 . Thông_tin cơ_sở vật_chất và trang thiết_bị trong trường_học gồm : Thông_tin cơ_bản về cơ_sở vật_chất , thiết_bị dạy_học , đồ_chơi trẻ_em và các thông_tin khác theo quy_định .
+
+6 . Thông_tin tài_chính gồm : Thông_tin cơ_bản về nguồn_lực tài_chính được cung_cấp ( nguồn thu ) , các khoản chi và các thông_tin khác .
+
+7 . Các thông_tin khác theo quy_định của Bộ Giáo_dục và Đào_tạo và các cơ_quan quản_lí có thẩm_quyền .
+
+Điều 6 . Nội_dung của Cơ_sở dữ_liệu về giáo_dục phổ_thông
+
+Nội_dung của Cơ_sở dữ_liệu về giáo_dục phổ_thông ( bao_gồm các cấp tiểu_học , trung_học cơ_sở , trung_học phổ_thông ) gồm :
+
+1 . Thông_tin mạng_lưới cơ_sở giáo_dục phổ_thông gồm : Thông_tin về cơ_sở giáo_dục , loại_hình giáo_dục , các thông_tin về điểm trường chính , các điểm trường ( nếu có ) và các thông_tin khác theo quy_định .
+
+2 . Thông_tin hệ_thống lớp_học gồm : Thông_tin cơ_bản về danh_sách lớp_học , lớp ghép , lớp_học 2 buổi / ngày , lớp_học bán_trú , lớp_học ngoại_ngữ , lớp có học_sinh_học hoà_nhập và các thông_tin khác theo quy_định .
+
+3 . Thông_tin đội_ngũ gồm : Thông_tin cơ_bản của cán_bộ quản_lí cơ_sở giáo_dục , giáo_viên , nhân_viên về thông_tin chung , trình_độ chuyên_môn , quá_trình đào_tạo và bồi_dưỡng , khen_thưởng , kỉ_luật , trình_độ tin_học , ngoại_ngữ , đánh_giá chuẩn nghề_nghiệp và các thông_tin khác theo quy_định .
+
+4 . Thông_tin người học gồm : Thông_tin về hồ_sơ lí_lịch , quá_trình học_tập , kết_quả học_tập , kết_quả đánh_giá năng_lực - phẩm_chất , rèn_luyện , sức_khoẻ và các thông_tin khác theo quy_định .
+
+5 . Thông_tin cơ_sở vật_chất và trang thiết_bị trong cơ_sở giáo_dục phổ_thông gồm : Thông_tin cơ_bản về cơ_sở vật_chất , thiết_bị dạy_học và các thông_tin khác theo quy_định .
+
+6 . Thông_tin tài_chính gồm : Thông_tin cơ_bản về nguồn_lực tài_chính được cung_cấp ( nguồn thu ) , các khoản chi và các thông_tin khác theo quy_định .
+
+7 . Các thông_tin khác theo quy_định của Bộ Giáo_dục và Đào_tạo và các cơ_quan quản_lí có thẩm_quyền .
+
+Điều 7 . Nội_dung của Cơ_sở dữ_liệu về giáo_dục thường_xuyên
+
+Nội_dung của Cơ_sở dữ_liệu về giáo_dục thường_xuyên gồm :
+
+1 . Thông_tin mạng_lưới cơ_sở giáo_dục thường_xuyên gồm : Thông_tin về cơ_sở giáo_dục chính và cơ_sở giáo_dục khác ( nếu có ) , loại_hình giáo_dục và các thông_tin khác theo quy_định .
+
+2 . Thông_tin hệ_thống lớp_học gồm : Thông_tin cơ_bản về danh_sách lớp_học , loại lớp , hình_thức học_tập , chương_trình học , hướng_nghiệp và dạy nghề , bán_trú và các thông_tin khác theo quy_định .
+
+3 . Thông_tin đội_ngũ gồm : Thông_tin cơ_bản của cán_bộ quản_lí cơ_sở giáo_dục , giáo_viên , nhân_viên về thông_tin chung , trình_độ chuyên_môn , quá_trình đào_tạo và bồi_dưỡng , khen_thưởng , kỉ_luật , trình_độ tin_học , ngoại_ngữ , đánh_giá chuẩn nghề_nghiệp và các thông_tin khác theo quy_định .
+
+4 . Thông_tin người học gồm : Thông_tin về hồ_sơ lí_lịch , quá_trình học_tập , kết_quả học_tập , rèn_luyện , sức_khoẻ và các thông_tin khác theo quy_định .
+
+5 . Thông_tin cơ_sở vật_chất và trang thiết_bị trong cơ_sở giáo_dục thường_xuyên gồm : Thông_tin cơ_bản về cơ_sở vật_chất , thiết_bị dạy_học và các thông_tin khác theo quy_định .
+
+6 . Thông_tin tài_chính gồm : Thông_tin cơ_bản về nguồn_lực tài_chính được cung_cấp ( nguồn thu ) , các khoản chi và các thông_tin khác theo quy_định .
+
+7 . Các thông_tin khác theo quy_định của Bộ Giáo_dục và Đào_tạo và các cơ_quan quản_lí có thẩm_quyền .
+
+Điều 8 . Nội_dung của Cơ_sở dữ_liệu về giáo_dục đại_học
+
+Nội_dung của Cơ_sở dữ_liệu về giáo_dục đại_học gồm :
+
+1 . Thông_tin mạng_lưới cơ_sở giáo_dục đại_học gồm : Thông_tin về cơ_sở giáo_dục , loại_hình giáo_dục , các thông_tin về trụ_sở chính , các trụ_sở khác ( nếu có ) , các phân_hiệu ( nếu có ) , cơ_cấu tổ_chức , Hội_đồng trường , Ban giám_hiệu , Hội_đồng khoa_học và các thông_tin khác theo quy_định .
+
+2 . Thông_tin danh_mục ngành đào_tạo gồm : Lĩnh_vực , nhóm ngành , ngành đào_tạo mỗi cơ_sở đào_tạo được phép đào_tạo và các thông_tin khác theo quy_định .
+
+3 . Thông_tin chương_trình đào_tạo gồm : Thông_tin cơ_bản về chương_trình đào_tạo , loại chương_trình , khoá đào_tạo , loại_hình đào_tạo , chuẩn đầu_ra và các thông_tin khác theo quy_định .
+
+4 . Thông_tin đội_ngũ gồm : Thông_tin cơ_bản của cán_bộ quản_lí cơ_sở giáo_dục , giảng_viên , nhân_viên , cán_bộ nghiên_cứu về thông_tin chung , trình_độ chuyên_môn , quá_trình đào_tạo và bồi_dưỡng , chương_trình và ngành tham_gia giảng_dạy , khen_thưởng , kỉ_luật , trình_độ tin_học , ngoại_ngữ , lí_lịch khoa_học và các thông_tin khác theo quy_định .
+
+5 . Thông_tin người học gồm : Thông_tin về hồ_sơ lí_lịch , tuyển_sinh , quá_trình học_tập , kết_quả học_tập , rèn_luyện , văn_bằng , ra trường có việc_làm và các thông_tin khác theo quy_định .
+
+6 . Thông_tin khoa_học công_nghệ gồm : Mạng_lưới các tổ_chức khoa_học công_nghệ , nhà khoa_học , các hoạt_động khoa_học và công_nghệ , sản_phẩm khoa_học và công_nghệ .
+
+7 . Thông_tin cơ_sở vật_chất và trang thiết_bị trong cơ_sở giáo_dục đại_học gồm : Thông_tin cơ_bản về các điều_kiện bảo_đảm về cơ_sở vật_chất , thiết_bị dạy_học và các thông_tin khác theo quy_định .
+
+8 . Thông_tin tài_chính gồm : Thông_tin cơ_bản về nguồn_lực tài_chính được cung_cấp ( nguồn thu ) , các khoản chi , nộp ngân_sách , trích_lập quỹ và các thông_tin khác theo quy_định .
+
+9 . Thông_tin hợp_tác quốc_tế , hợp_tác với doanh_nghiệp gồm : Các chương_trình , dự_án hợp_tác quốc_tế ; đội_ngũ cán_bộ , sinh_viên là người nước_ngoài ; các chương_trình , dự_án hợp_tác với doanh_nghiệp trong huy_động nguồn_lực đào_tạo và nghiên_cứu khoa_học .
+
+10 . Các thông_tin khác theo quy_định của Bộ Giáo_dục và Đào_tạo và các cơ_quan quản_lí có thẩm_quyền .
+
+Chương_iii
+
+Quản_lý Và Khai_thác , Sử_dụng Cơ_sở Dữ_liệu Giáo_dục Và Đào_tạo
+
+Điều 9 . Tài_khoản trên cơ_sở dữ_liệu giáo_dục và đào_tạo
+
+Tài_khoản trên cơ_sở dữ_liệu giáo_dục và đào_tạo được cấp cho tổ_chức , cá_nhân dùng để quản_trị , báo_cáo dữ_liệu , khai_thác và sử_dụng thông_tin từ cơ_sở dữ_liệu giáo_dục và đào_tạo .
+
+1 . Tài_khoản quản_trị cơ_sở dữ_liệu giáo_dục và đào_tạo do Bộ Giáo_dục và Đào_tạo ( Cục Công_nghệ thông_tin ) quản_lý .
+
+2 . Tài_khoản quản_trị của các cơ_sở giáo_dục đại_học và trường cao_đẳng sư_phạm do Bộ Giáo_dục và Đào_tạo cấp và giao cho các trường quản_lý , sử_dụng .
+
+3 . Tài_khoản quản_trị của các sở giáo_dục và đào_tạo do Bộ Giáo_dục và Đào_tạo cấp và giao cho các sở giáo_dục và đào_tạo quản_lý , sử_dụng . Tài_khoản khai_thác sử_dụng của các đơn_vị , cá_nhân thuộc và trực_thuộc sở giáo_dục và đào_tạo do sở giáo_dục và đào_tạo cấp , giao cho các đơn_vị , cá_nhân quản_lý , sử_dụng .
+
+4 . Tài_khoản quản_trị của các phòng giáo_dục và đào_tạo do sở giáo_dục và đào_tạo cấp và giao cho các phòng giáo_dục và đào_tạo quản_lý , sử_dụng . Tài_khoản khai_thác sử_dụng của các đơn_vị , cá_nhân thuộc và trực_thuộc phòng giáo_dục và đào_tạo do phòng giáo_dục và đào_tạo cấp , giao cho các đơn_vị , cá_nhân quản_lý , sử_dụng .
+
+5 . Tài_khoản quản_trị của các cơ_sở giáo_dục do sở giáo_dục và đào_tạo hoặc phòng giáo_dục và đào_tạo trực_tiếp_quản_lí cấp và giao cho các cơ_sở giáo_dục quản_lý , sử_dụng . Tài_khoản khai_thác sử_dụng của các bộ_phận , cá_nhân trong cơ_sở giáo_dục do cơ_sở giáo_dục cấp và giao cho bộ_phận , cá_nhân quản_lý , sử_dụng .
+
+6 . Tổ_chức , cá_nhân được giao tài_khoản chịu trách_nhiệm bảo_mật tài_khoản , bảo_mật dữ_liệu và quản_lý , sử_dụng tài_khoản theo đúng mục_đích , chức_năng quy_định .
+
+Điều 10 . Mã định_danh trên cơ_sở dữ_liệu giáo_dục và đào_tạo
+
+1 . Bộ Giáo_dục và Đào_tạo quy_định mã định_danh các đối_tượng quản_lí trên cơ_sở dữ_liệu giáo_dục và đào_tạo sử_dụng thống_nhất trong ngành giáo_dục bao_gồm : Sở giáo_dục và đào_tạo , phòng giáo_dục và đào_tạo , cơ_sở giáo_dục đại_học , trường cao_đẳng sư_phạm , giáo_viên , giảng_viên , cán_bộ quản_lí giáo_dục , nhân_viên và người học . Mã định_danh của cơ_sở giáo_dục do sở giáo_dục và đào_tạo hoặc phòng giáo_dục và đào_tạo trực_tiếp_quản_lí cấp từ lần tạo_lập thông_tin đầu_tiên về cơ_sở giáo_dục đó trên cơ_sở dữ_liệu giáo_dục và đào_tạo .
+
+2 . Mã định_danh của mỗi đối_tượng được quản_lí trên cơ_sở dữ_liệu giáo_dục và đào_tạo là duy_nhất , được hình_thành từ lần nhập dữ_liệu đầu_tiên và bất_biến ( không bị thay_đổi hoặc xoá_bỏ từ khi mã được sinh ra ) , được dùng thống_nhất , xuyên suốt ở tất_cả các cấp học . Mã định_danh phục_vụ công_tác quản_lý , báo_cáo , kết_nối dữ_liệu trên cơ_sở dữ_liệu giáo_dục và đào_tạo và các mục_đích khác do Bộ Giáo_dục và Đào_tạo quy_định .
+
+3 . Trường_hợp cơ_sở giáo_dục không còn hoạt_động , sở giáo_dục và đào_tạo hoặc phòng giáo_dục và đào_tạo trực_tiếp_quản_lí chỉ thay_đổi thông_tin trạng_thái của cơ_sở giáo_dục , không xoá mã định_danh và hồ_sơ trên cơ_sở dữ_liệu giáo_dục và đào_tạo .
+
+4 . Trường_hợp giáo_viên , giảng_viên , cán_bộ quản_lí và nhân_viên chuyển công_tác , ngưng làm_việc hoặc thôi_việc , cơ_sở giáo_dục cập_nhật trạng_thái và thông_tin hồ_sơ điện_tử , không xoá hồ_sơ và mã định_danh trên cơ_sở dữ_liệu giáo_dục và đào_tạo .
+
+5 , Trường_hợp người học tạm dừng học , thôi học , chuyển đi , cơ_sở giáo_dục và các cơ_quan liên_quan chỉ cập_nhật trạng_thái hồ_sơ điện_tử của người học , không xoá hồ_sơ trên cơ_sở dữ_liệu giáo_dục và đào_tạo .
+
+Điều 11 . Báo_cáo dữ_liệu trên cơ_sở dữ_liệu giáo_dục và đào_tạo
+
+1 . Nội_dung báo_cáo , kì báo_cáo , thời_hạn báo_cáo dữ_liệu trên cơ_sở dữ_liệu giáo_dục và đào_tạo được thực_hiện theo quy_định về chế_độ báo_cáo thống_kê ngành giáo_dục và khi có yêu_cầu của Bộ Giáo_dục và Đào_tạo .
+
+2 . Việc báo_cáo dữ_liệu trên cơ_sở dữ_liệu giáo_dục và đào_tạo được thực_hiện qua tài_khoản đã được cung_cấp hoặc qua trục tích_hợp dữ_liệu theo hướng_dẫn của Bộ Giáo_dục và Đào_tạo .
+
+3 . Sở giáo_dục và đào_tạo có trách_nhiệm tổ_chức hướng_dẫn , đôn_đốc việc triển_khai_báo_cáo và quản_lí dữ_liệu thuộc phạm_vi quản_lí trên cơ_sở dữ_liệu giáo_dục và đào_tạo ; chịu trách_nhiệm và bảo_đảm dữ_liệu đầy_đủ , chính_xác và báo_cáo đúng thời_hạn theo yêu_cầu của Bộ Giáo_dục và Đào_tạo .
+
+4 . Phòng giáo_dục và đào_tạo có trách_nhiệm tổ_chức hướng_dẫn , đôn_đốc việc triển_khai_báo_cáo và quản_lí dữ_liệu thuộc phạm_vi quản_lí trên cơ_sở dữ_liệu giáo_dục và đào_tạo ; bảo_đảm dữ_liệu đầy_đủ , chính_xác và báo_cáo đúng thời_hạn theo yêu_cầu của Bộ Giáo_dục và Đào_tạo và các cơ_quan có thẩm_quyền .
+
+5 . Các cơ_sở giáo_dục mầm_non , giáo_dục phổ_thông , giáo_dục thường_xuyên có trách_nhiệm quản_lí và tổ_chức cập_nhật_báo_cáo dữ_liệu lên cơ_sở dữ_liệu giáo_dục và đào_tạo ; bảo_đảm dữ_liệu đầy_đủ , chính_xác và báo_cáo đúng thời_hạn theo yêu_cầu của Bộ Giáo_dục và Đào_tạo và các cơ_quan có thẩm_quyền .
+
+6 . Các cơ_sở giáo_dục đại_học , trường cao_đẳng sư_phạm có trách_nhiệm quản_lí và tổ_chức cập_nhật dữ_liệu trên cơ_sở dữ_liệu giáo_dục và đào_tạo ; chịu trách_nhiệm và bảo_đảm dữ_liệu đầy_đủ , chính_xác và báo_cáo đúng thời_hạn theo yêu_cầu của Bộ Giáo_dục và Đào_tạo .
+
+Điều 12 . Khai_thác , sử_dụng thông_tin trong cơ_sở dữ_liệu giáo_dục và đào_tạo
+
+1 . Thông_tin trong cơ_sở dữ_liệu giáo_dục và đào_tạo được sử_dụng thống_nhất trên toàn_quốc , có giá_trị pháp_lí trong quản_lí giáo_dục và đào_tạo .
+
+2 . Hình_thức khai_thác sử_dụng thông_tin trong cơ_sở dữ_liệu giáo_dục và đào_tạo được thực_hiện thông_qua tài_khoản được cấp , qua trục kết_nối trao_đổi dữ_liệu hoặc văn_bản .
+
+3 . Việc sử_dụng thông_tin trong cơ_sở dữ_liệu giáo_dục và đào_tạo phải tuân_thủ các quy_định của pháp_luật về sở_hữu dữ_liệu và bảo_vệ an_toàn thông_tin cá_nhân .
+
+4 . Cơ_quan quản_lí giáo_dục và các cơ_sở giáo_dục được khai_thác sử_dụng thông_tin trong phạm_vi quản_lý ; ban_hành quy_định nội_bộ về quản_lý , sử_dụng , khai_thác dữ_liệu , trong đó quy_định cụ_thể trách_nhiệm quản_lí và khai_thác sử_dụng thông_tin từ các tài_khoản người dùng ; tiếp_nhận và xử_lí những góp_ý , khiếu_nại đối_với dữ_liệu trong thẩm_quyền quản_lý .
+
+5 . Các cơ_quan , tổ_chức , cá_nhân ngoài ngành giáo_dục có nhu_cầu sử_dụng thông_tin từ cơ_sở dữ_liệu giáo_dục và đào_tạo thực_hiện theo quy_định của pháp_luật về tiếp_cận thông_tin .
+
+6 . Đối_với thông_tin liên_quan các cơ_sở giáo_dục đại_học thuộc Bộ Công_an , Bộ Quốc_phòng , việc báo_cáo , khai_thác , sử_dụng thông_tin cần đảm_bảo quy_định về bảo_mật thông_tin an_ninh , quốc_phòng theo quy_định của pháp_luật .
+
+Điều 13 . Hướng_dẫn , hỗ_trợ kĩ_thuật sử_dụng cơ_sở dữ_liệu giáo_dục và đào_tạo
+
+1 . Bộ Giáo_dục và Đào_tạo ( Cục Công_nghệ thông_tin ) cung_cấp tài_liệu điện_tử về hướng_dẫn sử_dụng và các tài_liệu liên_quan phục_vụ nhu_cầu tập_huấn , hướng_dẫn sử_dụng cơ_sở dữ_liệu giáo_dục và đào_tạo của người dùng ; tiếp_nhận thông_tin_yêu_cầu hỗ_trợ kĩ_thuật và hướng_dẫn sử_dụng được thực_hiện qua địa_chỉ thư điện_tử csdl @ moet . gov . vn .
+
+2 . Việc tổ_chức hướng_dẫn , hỗ_trợ kĩ_thuật sử_dụng cơ_sở dữ_liệu giáo_dục và đào_tạo tại các địa_phương do địa_phương và cơ_sở giáo_dục thực_hiện theo điều_kiện và nhu_cầu .
+
+3 . Trong quá_trình sử_dụng , nếu phát_hiện sự_cố kĩ_thuật liên_quan đến cơ_sở dữ_liệu giáo_dục và đào_tạo , các cơ_sở giáo_dục , các phòng giáo_dục và đào_tạo , các sở giáo_dục và đào_tạo tổng_hợp , báo_cáo về Bộ Giáo_dục và Đào_tạo ( qua Cục Công_nghệ thông_tin ) để có biện_pháp xử_lí kịp_thời .
+
+Điều 14 . Quy_định kĩ_thuật về dữ_liệu và kết_nối với cơ_sở dữ_liệu giáo_dục và đào_tạo
+
+1 . Quy_định kĩ_thuật về dữ_liệu , quy_định kĩ_thuật về kết_nối và hướng_dẫn kết_nối , trao_đổi dữ_liệu với cơ_sở dữ_liệu giáo_dục và đào_tạo được Bộ Giáo_dục và Đào_tạo ban_hành theo các phiên_bản và công_bố công_khai trên Cổng thông_tin điện_tử của Bộ Giáo_dục và Đào_tạo .
+
+2 . Phần_mềm quản_lí ở các cơ_sở giáo_dục , các cơ_sở dữ_liệu giáo_dục ở địa_phương được hỗ_trợ kết_nối và trao_đổi dữ_liệu với cơ_sở dữ_liệu giáo_dục và đào_tạo . Cơ_quan chủ_quản phần_mềm quản_lí hoặc cơ_sở dữ_liệu giáo_dục ở địa_phương liên_hệ , phối_hợp với Bộ Giáo_dục và Đào_tạo ( qua Cục Công_nghệ thông_tin ) để được hướng_dẫn , hỗ_trợ kết_nối , trao_đổi dữ_liệu với cơ_sở dữ_liệu giáo_dục và đào_tạo .
+
+3 . Danh_sách các phần_mềm quản_lí giáo_dục ở các cơ_sở giáo_dục , cơ_sở dữ_liệu ở địa_phương về giáo_dục đáp_ứng quy_định kĩ_thuật về dữ_liệu và kết_nối trao_đổi dữ_liệu với cơ_sở dữ_liệu giáo_dục và đào_tạo được công_bố công_khai trên Cổng thông_tin điện_tử của Bộ Giáo_dục và Đào_tạo .
+
+Chương_iv
+
+Tổ_chức Thực_hiện
+
+Điều 15 . Trách_nhiệm của sở giáo_dục và đào_tạo , phòng giáo_dục và đào_tạo
+
+1 . Tổ_chức chỉ_đạo , hướng_dẫn , đôn_đốc , kiểm_tra , giám_sát các đơn_vị thuộc và trực_thuộc triển_khai công_tác quản_lý , báo_cáo và khai_thác sử_dụng cơ_sở dữ_liệu giáo_dục và đào_tạo tại địa_phương theo quy_định tại Thông_tư này .
+
+2 . Chỉ_đạo , phân_công bộ_phận phụ_trách công_nghệ thông_tin làm đầu_mối kĩ_thuật phụ_trách quản_trị phần_mềm cơ_sở dữ_liệu giáo_dục và đào_tạo ở địa_phương ; tổ_chức hướng_dẫn sử_dụng , hỗ_trợ sử_dụng , quản_lí và cấp tài_khoản sử_dụng cho các đơn_vị và cá_nhân trong phạm_vi quản_lý .
+
+3 . Chỉ_đạo , phân_công các phòng / bộ_phận chuyên_môn phụ_trách quản_lý , kiểm_duyệt , thực_hiện báo_cáo và khai_thác sử_dụng dữ_liệu theo quy_định .
+
+4 . Báo_cáo tình_hình quản_lí và khai_thác sử_dụng cơ_sở dữ_liệu giáo_dục và đào_tạo khi có yêu_cầu của cơ_quan quản_lý .
+
+5 . Trong trường_hợp địa_phương xây_dựng cơ_sở dữ_liệu về giáo_dục phục_vụ nhu_cầu quản_lí riêng , phải đáp_ứng các yêu_cầu tối_thiểu sau đây :
+
+a ) Căn_cứ vào nhu_cầu đặc_thù và điều_kiện thực_tế để xác_định sự cần_thiết đầu_tư xây_dựng cơ_sở dữ_liệu về giáo_dục ở địa_phương .
+
+b ) Cơ_sở dữ_liệu giáo_dục ở địa_phương phải tuân_thủ quy_định kĩ_thuật về dữ_liệu và kết_nối được với cơ_sở dữ_liệu giáo_dục và đào_tạo do Bộ Giáo_dục và Đào_tạo quản_lý .
+
+c ) Ban_hành quy_chế quản_lý , vận_hành , khai_thác sử_dụng cơ_sở dữ_liệu theo các quy_định hiện_hành , trong đó có tối_thiểu các nội_dung sau : Quy_định đối_tượng , hình_thức , quyền_hạn ( phạm_vi ) sử_dụng cơ_sở dữ_liệu của từng đối_tượng tham_gia sử_dụng bảo_đảm đúng mục_đích , bảo_đảm an_toàn hệ_thống thông_tin và thực_hiện đúng trách_nhiệm quản_lý , sở_hữu dữ_liệu và bảo_mật thông_tin cá_nhân .
+
+Điều 16 . Trách_nhiệm của cơ_sở giáo_dục đại_học và trường cao_đẳng sư_phạm
+
+1 . Tổ_chức số_hoá , xây_dựng và đưa vào sử_dụng các hệ_thống phần_mềm quản_trị trong cơ_sở giáo_dục đáp_ứng nhu_cầu quản_lý , quản_trị và kết_nối , báo_cáo chia_sẻ dữ_liệu với cơ_sở dữ_liệu giáo_dục và đào_tạo .
+
+2 . Tổ_chức thu_thập , cập_nhật và báo_cáo dữ_liệu của đơn_vị trên cơ_sở dữ_liệu giáo_dục và đào_tạo bảo_đảm đầy_đủ , chính_xác , đúng thời_hạn báo_cáo thống_kê và các báo_cáo khác theo yêu_cầu của Bộ Giáo_dục và Đào_tạo .
+
+Điều 17 . Trách_nhiệm của cơ_sở giáo_dục mầm_non , giáo_dục phổ_thông và giáo_dục thường_xuyên
+
+1 . Triển_khai phần_mềm quản_lí trường_học đáp_ứng nhu_cầu quản_lý , quản_trị của cơ_sở giáo_dục và kết_nối , báo_cáo chia_sẻ dữ_liệu với cơ_sở dữ_liệu giáo_dục và đào_tạo .
+
+2 . Tổ_chức thu_thập , cập_nhật và báo_cáo dữ_liệu của đơn_vị trên cơ_sở dữ_liệu giáo_dục và đào_tạo bảo_đảm đầy_đủ , chính_xác , đúng thời_hạn báo_cáo thống_kê và các báo_cáo khác theo yêu_cầu của Bộ Giáo_dục và Đào_tạo và các cơ_quan có thẩm_quyền .
+
+Điều 18 . Trách_nhiệm của các tổ_chức , cá_nhân khác
+
+Tổ_chức , cá_nhân khi khai_thác , sử_dụng dữ_liệu từ cơ_sở dữ_liệu giáo_dục và đào_tạo có trách_nhiệm sử_dụng thông_tin , dữ_liệu giáo_dục và đào_tạo theo đúng mục_đích và trong phạm_vi được phân_quyền ; chịu trách_nhiệm bảo_vệ thông_tin , tài_khoản truy_cập cơ_sở dữ_liệu giáo_dục và đào_tạo đã được cấp_phát .
+
+Điều 19 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 14 tháng 02 năm 2022 .
+
+2 . Thông_tư này thay_thế Thông_tư số 26/2019/TT-BGDĐT ngày 30 tháng 12 năm 2019 của Bộ_trưởng Bộ Giáo_dục và Đào_tạo quy_định về quản_lý , vận_hành và sử_dụng hệ_thống cơ_sở dữ_liệu ngành về giáo_dục mầm_non , giáo_dục phổ_thông và giáo_dục thường_xuyên .
+
+Điều 20 . Trách_nhiệm thi_hành
+
+Chánh Văn_phòng , Cục_trưởng Cục Công_nghệ thông_tin , Thủ_trưởng các đơn_vị thuộc Bộ Giáo_dục và Đào_tạo , Giám_đốc các sở giáo_dục và đào_tạo , Giám_đốc các đại_học , học_viện , hiệu_trưởng các trường đại_học , hiệu_trưởng các trường cao_đẳng có đào_tạo ngành Giáo_dục Mầm_non , Trưởng các phòng giáo_dục và đào_tạo , Thủ_trưởng các cơ_sở giáo_dục và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .

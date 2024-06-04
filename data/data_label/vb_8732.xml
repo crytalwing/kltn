@@ -1,0 +1,161 @@
+Thông_tư số 46/2016/tt-btttt ngày 26 tháng 12 năm 2016 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Tần_số vô_tuyến_điện ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định số 71/2013/QĐ-TTg ngày 21 tháng 11 năm 2013 </QĐ> của Thủ_tướng Chính_phủ ban_hành Quy_hoạch phổ tần_số vô_tuyến_điện quốc_gia ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 132/2013/NĐ-CP ngày 16 tháng 10 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Xét đề_nghị của Cục_trưởng Cục Tần_số vô_tuyến_điện ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành <TT rel="None"> Thông_tư quy_định_danh_mục thiết_bị vô_tuyến_điện được miễn giấy_phép sử_dụng tần_số </TT> vô_tuyến_điện , điều_kiện kĩ_thuật và khai_thác kèm theo .
+
+Điều 1 . Phạm_vi điều_chỉnh và đối_tượng áp_dụng
+
+1 . Thông_tư này quy_định_danh_mục và điều_kiện kĩ_thuật , khai_thác đối_với thiết_bị vô_tuyến_điện được miễn giấy_phép sử_dụng tần_số vô_tuyến_điện .
+
+2 . Thông_tư này áp_dụng đối_với các tổ_chức , cá_nhân quản_lý , sử_dụng , sản_xuất , nhập_khẩu , kinh_doanh thiết_bị vô_tuyến_điện được miễn giấy_phép sử_dụng tần_số vô_tuyến_điện để sử_dụng tại Việt_nam .
+
+3 . Thông_tư này không áp_dụng đối_với thiết_bị vô_tuyến_điện được sản_xuất , nhập_khẩu phục_vụ mục_đích quốc_phòng , an_ninh của lực_lượng vũ_trang . Việc sản_xuất , nhập_khẩu , sử_dụng thiết_bị vô_tuyến_điện này do Bộ Quốc_phòng , Bộ Công_an quy_định bảo_đảm phù_hợp với quy_chuẩn kĩ_thuật quốc_gia tương_ứng .
+
+Điều 2 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Thiết_bị vô_tuyến cự_li ngắn ( Short Range_device ) là thiết_bị vô_tuyến phát , thu - phát tín_hiệu một chiều hoặc hai chiều , ít khả_năng gây nhiễu có hại cho các thiết_bị vô_tuyến khác .
+
+2 . Thiết_bị vô_tuyến cự_li ngắn dùng cho mục_đích chung ( Non - Specific Short Range_device ) bao_gồm các thiết_bị vô_tuyến cự_li ngắn thoả_mãn điều_kiện kĩ_thuật và khai_thác quy_định , không phân_biệt ứng_dụng hay mục_đích sử_dụng .
+
+3 . Điện_thoại không dây ( Cordless_phone ) là thiết_bị điện_thoại đầu_cuối được kết_nối với mạng điện_thoại công_cộng qua giao_diện tương_tự hai dây . Thiết_bị này bao_gồm hai khối riêng_biệt được kết_nối với nhau qua giao_diện vô_tuyến :
+
+Khối trung_tâm ( còn gọi là trạm gốc hoặc máy mẹ ) : được đặt cố_định và đấu nối với hai dây điện_thoại cố_định của mạng điện_thoại công_cộng ( pstn - Public Switched Telephone_network ) , sử_dụng anten tích_hợp . Ăng - ten tích_hợp là anten được thiết_kế cố_định , bố_trí bên trong hoặc bên ngoài thiết_bị và là một phần của thiết_bị .
+
+Khối_di_động ( có_thể có nhiều khối di_động , còn gọi là máy con ) : máy cầm tay sử_dụng ăng - ten tích_hợp . Khối_di_động mang số thuê_bao điện_thoại của khối trung_tâm .
+
+4 . Hệ_thống liên_lạc dành cho thiết_bị y_tế cấy_ghép ( MICS - Medical Implant Communications_systems ) và Hệ_thống đo_lường dành cho thiết_bị y_tế cấy_ghép ( MI TS - Medical Implant Telemetry_systems )
+
+Hệ_thống liên_lạc dành cho thiết_bị y_tế cấy_ghép ( sau đây gọi là Mics ) và Hệ_thống đo_lường dành cho thiết_bị y_tế cấy_ghép ( sau đây gọi là Mi_ts ) là hệ_thống bao_gồm thiết_bị y_tế cấy_ghép trong cơ_thể người và thiết_bị liên_lạc vô_tuyến bên ngoài dùng để trao_đổi dữ_liệu với thiết_bị cấy_ghép trong khoảng_cách 02 m , sau đó dữ_liệu được truyền tới trung_tâm xử_lí và đến bác_sĩ thông_qua mạng viễn_thông .
+
+Trong hệ_thống Mics , thiết_bị cấy_ghép và thiết_bị liên_lạc vô_tuyến có trao_đổi dữ_liệu hai chiều . Trong hệ_thống Mi_ts , chỉ có truyền dữ_liệu một_chiều từ thiết_bị cấy_ghép tới thiết_bị liên_lạc vô_tuyến tại các thời_điểm đã lập_trình trước .
+
+5 . Thiết_bị nhận_dạng vô_tuyến_điện ( RFID - Radio Frequency_identification )
+
+Thiết_bị nhận_dạng vô_tuyến_điện sử_dụng sóng vô_tuyến để tự_động nhận_dạng , theo_dõi , quản_lí hàng_hoá , con_người , động_vật và các ứng_dụng khác . Thiết_bị nhận_dạng vô_tuyến_điện bao_gồm hai khối riêng_biệt được kết_nối thông_qua giao_diện vô_tuyến :
+
+- Thẻ vô_tuyến ( rf tag ) mang chip điện_tử , có hoặc không có nguồn điện , được gắn trên đối_tượng cần nhận_dạng . Chíp điện_tử chứa thông_tin về đối_tượng đó .
+
+- Thiết_bị đọc tần_số vô_tuyến ( rf Reader ) phát ra tần_số nhất_định để kích_hoạt thẻ vô_tuyến và thẻ vô_tuyến sẽ phát ra thông_tin của thẻ . Thông_tin này được đầu_đọc thu lại và chuyển tới hệ_thống xử_lí_số_liệu .
+
+Thiết_bị Rfid được sử_dụng trong các hoạt_động phân_phối , vận_chuyển và bán_lẻ , chăm_sóc sức_khoẻ , giao_thông hay các ứng_dụng di_động ( quảng_cáo thông_minh ) .
+
+6 . Thiết_bị cảnh_báo và phát_hiện vô_tuyến_điện ( Radio Detection and Alarm_device )
+
+Thiết_bị cảnh_báo và phát_hiện vô_tuyến_điện bao_gồm bộ_phận cảm_biến và hệ_thống điều_khiển được kết_nối với nhau qua giao_diện vô_tuyến .
+
+Một_số loại thiết_bị cảnh_báo và phát_hiện vô_tuyến_điện điển_hình : thiết_bị chống trộm , thiết_bị phát_hiện chuyển_động , thiết_bị dò_tìm kim_loại .
+
+7 . Thiết_bị âm_thanh không dây ( Wireless Audio_device )
+
+Thiết_bị âm_thanh không dây bao_gồm các thiết_bị sử_dụng sóng vô_tuyến_điện để truyền_dẫn âm_thanh ở cự_li ngắn .
+
+Một_số loại thiết_bị âm_thanh không dây điển_hình : microphone không dây cài áo , microphone không dây cầm tay , tai_nghe không dây , máy phát Fm cá_nhân , thiết_bị trợ_thính .
+
+8 . Thiết_bị điều_khiển từ xa vô_tuyến_điện ( Remote Control_device )
+
+Thiết_bị điều_khiển từ xa vô_tuyến_điện bao_gồm các thiết_bị dùng sóng vô_tuyến để điều_khiển các mô_hình , điều_khiển trong công_nghiệp và dân_dụng .
+
+Một_số loại thiết_bị điều_khiển từ xa vô_tuyến_điện điển_hình : điều_khiển mô_hình trên không như máy_bay mô_hình , điều_khiển mô_hình trên mặt_đất , mặt_nước như ô_tô mô_hình và tàu_thuỷ mô_hình , điều_khiển trong công_nghiệp và dân_dụng như điều_khiển đóng mở cửa_ô_tô và ga - ra .
+
+9 . Thiết_bị mạng nội_bộ không dây
+
+Thiết_bị mạng nội_bộ không dây , sau đây được gọi là Thiết_bị Wlan , ( WLAN - Wireless Local Area_network ) được sử_dụng để thiết_lập mạng nội_bộ vô_tuyến hoặc để kết_nối trực_tiếp với nhau thay cho việc sử_dụng dây_cáp .
+
+Một_số loại thiết_bị Wlan điển_hình : điểm truy_nhập ( access point ) , bộ định_tuyến không dây ( wifi router ) , bộ điều hợp mạng không dây ( wifi card ) , thiết_bị có tích_hợp mô đun thu - phát vô_tuyến theo tiêu_chuẩn Ie 802 . 11 ( không bao_gồm thiết_bị vô_tuyến dùng để kết_nối giữa các mạng Wlan Wireless bridge ) .
+
+10 . Thiết_bị đo từ xa vô_tuyến_điện ( Telemetry_device )
+
+Thiết_bị đo từ xa vô_tuyến_điện tự_động hiển_thị hoặc ghi lại các thông_số đo_lường và điều_khiển các chức_năng của thiết_bị khác qua giao_diện vô_tuyến .
+
+11 . Thiết_bị truyền_hình_ảnh không dây ( Wireless Video_transmitter )
+
+Thiết_bị truyền_hình_ảnh không dây dùng để truyền dữ_liệu hình_ảnh về hệ_thống xử_lí qua giao_diện vô_tuyến .
+
+Một_số loại thiết_bị truyền_hình_ảnh không dây điển_hình_như : webcam không dây , camera không dây , thiết_bị truyền_hình_ảnh không dây qua giao_diện cổng Usb từ máy_tính .
+
+12 . Thiết_bị vô_tuyến_điện đặt trên phương_tiện nghề cá
+
+Thiết_bị vô_tuyến_điện đặt trên phương_tiện nghề cá dùng để liên_lạc giữa các phương_tiện nghề cá hoạt_động ở các vùng_biển của Việt_nam .
+
+13 . Thiết_bị vô_tuyến_điện chỉ thu là thiết_bị vô_tuyến chỉ có chức_năng thu tín_hiệu sóng vô_tuyến_điện .
+
+14 . Thiết_bị truyền dữ_liệu băng rộng là thiết_bị vô_tuyến được dùng cho ứng_dụng truyền_dẫn băng rộng trong mạng di_động IMT - Advanced ( công_nghệ LTE - Advanced và các phiên_bản tiếp_theo ) sử_dụng dải_tần 5150-5350 MHz , 5470-5850 MHz với độ rộng kênh tần_số tối_thiểu 20 MHz hoặc dùng cho truy_cập tốc_độ lên tới hàng Gigabit / s trong mạng nội_bộ không dây ( wlan ) , mạng cá_nhân không dây ( wpan : Wireless Personal Area_network ) hoạt_động trong phạm_vi băng tần 57-66 GHz .
+
+15 . Thiết_bị ra - đa ô_tô ( Automotive_radar ) là thiết_bị ra - đa cự_li ngắn dùng cho các ứng_dụng trong thông_tin giao_thông như điều_khiển hành_trình , phát_hiện , cảnh_báo , tránh va_chạm giữa phương_tiện giao_thông với vật_thể xung_quanh .
+
+16 . Thiết_bị liên_lạc bộ_đàm công_suất thấp là thiết_bị vô_tuyến đầu_cuối di_động có chức_năng thu , phát tín_hiệu thoại trong một phạm_vi có diện_tích giới_hạn ( ví_dụ : toà nhà , khuôn_viên ) .
+
+17 . Thiết_bị truyền dữ_liệu băng siêu rộng ( UWB - Ultra Wide Band Communication_device ) là thiết_bị vô_tuyến_điện cự_li ngắn dùng để truyền_thông_tin ở dải_tần_số GHz với băng_thông tín_hiệu trên 500 MHz .
+
+18 . Thiết_bị vòng từ ( Inductive_loop ) là thiết_bị có chức_năng truyền tín_hiệu , hoạt_động dựa trên nguyên_lí trường điện từ và dùng tần_số thấp .
+
+19 . Thiết_bị nhận_dạng tự_động ( AIS - Automatic Identification_system ) là thiết_bị vô_tuyến dùng trong hệ_thống an_toàn hàng_hải được lắp_đặt , sử_dụng trên tàu , thuyền và các phương_tiện khác có động_cơ hoặc không có động_cơ để nâng cao hiệu_quả điều_động tránh va_chạm và quản_lí phương_tiện hoạt_động trên mặt_nước hoặc dưới mặt_nước .
+
+20 . Thiết_bị phao vô_tuyến chỉ báo vị_trí khẩn_cấp ( EPIRB - Emergency Position Indicating Radio_beacon ) là thiết_bị vô_tuyến chỉ báo vị_trí cấp_cứu sử_dụng dải_tần_số 406-406,1 MHz , được lắp_đặt , sử_dụng trên phương_tiện hoạt_động trên mặt_nước hoặc dưới mặt_nước bao_gồm tàu , thuyền và các phương_tiện khác có động_cơ hoặc không có động_cơ .
+
+21 . Thiết_bị phát báo tìm_kiếm cứu nạn ( SART - Search and Rescue Radar_transponder ) là thiết_bị vô_tuyến dùng cho mục_đích cứu nạn hàng_hải , hoạt_động ở dải_tần 9 GHz .
+
+22 . Thiết_bị nhận_dạng tự_động phát báo tìm_kiếm cứu nạn ( ais - sart ) là thiết_bị vô_tuyến thuộc nhóm thiết_bị hỗ_trợ hàng_hải để các Cơ_quan tìm_kiếm cứu nạn định_vị thiết_bị cứu_sinh hoặc tàu_thuyền bị nạn trong các hoạt_động tìm_kiếm cứu nạn .
+
+Điều 3 . Danh_mục thiết_bị vô_tuyến_điện được miễn giấy_phép sử_dụng tần_số vô_tuyến_điện và điều_kiện kĩ_thuật , khai_thác kèm theo
+
+1 . Danh_mục thiết_bị vô_tuyến_điện được miễn giấy_phép sử_dụng tần_số vô_tuyến_điện ( sau đây gọi là Danh_mục ) quy_định tại Phụ_lục 1 ban_hành kèm theo Thông_tư này .
+
+2 . Điều_kiện kĩ_thuật , khai_thác đối_với thiết_bị vô_tuyến_điện được miễn giấy_phép sử_dụng tần_số vô_tuyến_điện quy_định tại Phụ_lục 2 đến Phụ_lục 19 ban_hành kèm theo Thông_tư này .
+
+Điều 4 . Miễn giấy_phép sử_dụng tần_số vô_tuyến_điện
+
+Thiết_bị vô_tuyến_điện thuộc Danh_mục đáp_ứng quy_định chung tại Điều 5 và đáp_ứng các điều_kiện kĩ_thuật và khai_thác tương_ứng quy_định tại Phụ_lục 2 đến Phụ_lục 19 ban_hành kèm theo Thông_tư này được miễn giấy_phép sử_dụng tần_số vô_tuyến_điện .
+
+Điều 5 . Quy_định chung
+
+Các điều_kiện sau đây được áp_dụng chung cho thiết_bị vô_tuyến được miễn giấy_phép sử_dụng tần_số vô_tuyến_điện :
+
+1 . Thiết_bị vô_tuyến_điện được miễn giấy_phép sử_dụng tần_số vô_tuyến_điện phải chấp_nhận có_thể bị nhiễu có hại từ thiết_bị vô_tuyến_điện được cấp giấy_phép sử_dụng tần_số vô_tuyến_điện , thiết_bị vô_tuyến_điện được cơ_quan quản_lí cho phép hoạt_động .
+
+Trong trường_hợp thiết_bị vô_tuyến_điện được miễn giấy_phép sử_dụng tần_số vô_tuyến_điện gây nhiễu có hại cho thiết_bị vô_tuyến_điện được cấp giấy_phép sử_dụng tần_số vô_tuyến_điện , thiết_bị vô_tuyến_điện được cơ_quan quản_lí cho phép hoạt_động , tổ_chức , cá_nhân phải ngừng ngay việc sử_dụng và chỉ được hoạt_động trở_lại khi can nhiễu đã được khắc_phục .
+
+2 . Các thiết_bị vô_tuyến_điện được miễn giấy_phép sử_dụng tần_số vô_tuyến_điện phải chấp_nhận nhiễu do các thiết_bị ứng_dụng năng_lượng tần_số vô_tuyến_điện trong công_nghiệp , khoa_học và y_tế ( ISM - Industrial , Scientific and Medical ) gây ra khi dùng chung các băng tần sau đây dành cho Ism :
+
+a ) Băng tần 13 , 553 13 , 567 MHz ;
+
+b ) Băng tần 26 , 957 27 , 283 MHz ;
+
+c ) Băng tần 40 , 66 40 , 70 MHz ;
+
+d ) Băng tần 2400 2483 , 5 MHz ;
+
+đ ) Băng tần 5725 5875 MHz ;
+
+e ) Băng tần 24000 24250 MHz .
+
+3 . Tổ_chức , cá_nhân sản_xuất , nhập_khẩu thiết_bị vô_tuyến được miễn giấy_phép sử_dụng tần_số vô_tuyến_điện có trách_nhiệm tuân_thủ các quy_định của pháp_luật về nhập_khẩu , chứng_nhận và công_bố hợp quy , bảo_đảm thiết_bị phù_hợp với các điều_kiện kĩ_thuật và khai_thác theo các Phụ_lục tương_ứng của Thông_tư này .
+
+4 . Tổ_chức , cá_nhân khai_thác , sử_dụng thiết_bị có tích_hợp tính_năng điều_khiển từ xa vô_tuyến trong các mô_hình máy_bay phải tuân_thủ các quy_định của pháp_luật về cấp phép hoạt_động bay .
+
+5 . Tổ_chức , cá_nhân sử_dụng thiết_bị vô_tuyến_điện chỉ thu được miễn giấy_phép sử_dụng tần_số vô_tuyến_điện phải tuân_thủ quy_định của pháp_luật về viễn_thông , tần_số vô_tuyến_điện và quy_định của pháp_luật khác có liên_quan ; không được sử_dụng thông_tin thu được vào mục_đích bất_hợp_pháp .
+
+Điều 6 . Điều_khoản chuyển_tiếp và thời_gian áp_dụng
+
+1 . Thiết_bị vô_tuyến_điện đáp_ứng quy_định của <TT rel="None"> Thông_tư số 03/2012/TT </TT>- Bt ngày 20 tháng 3 năm 2012 của Bộ Thông_tin và Truyền_thông Quy_định_danh_mục thiết_bị vô_tuyến_điện được miễn giấy_phép sử_dụng tần_số vô_tuyến_điện , điều_kiện kĩ_thuật và khai_thác kèm theo nhưng không còn phù_hợp với Thông_tư này thì được tiếp_tục sử_dụng nhưng phải ngừng sử_dụng khi gây nhiễu có hại cho các thiết_bị vô_tuyến_điện được cấp giấy_phép sử_dụng tần_số vô_tuyến_điện .
+
+2 . Thiết_bị liên_lạc bộ_đàm công_suất thấp thuộc Danh_mục quy_định tại Phụ_lục 1 của Thông_tư này theo điều_kiện tần_số , điều_kiện kĩ_thuật , khai_thác tương_ứng tại Phụ_lục 2 và Phụ_lục 18 của Thông_tư này được miễn giấy_phép sử_dụng tần_số vô_tuyến_điện từ ngày 01 tháng 01 năm 2020 .
+
+3 . Không cấp phép để triển_khai mới thiết_bị vô_tuyến_điện sử_dụng băng tần 446-446,2 MHz có công_suất trên 500 mW kể từ ngày Thông_tư này có hiệu_lực thi_hành .
+
+Điều 7 . Điều_khoản thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 14 tháng 02 năm 2017 và thay_thế <TT rel="None"> Thông_tư số 03/2012/TT-BTTTT ngày 20 tháng 3 năm 2012 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông Quy_định_danh_mục thiết_bị vô_tuyến_điện được miễn giấy_phép sử_dụng tần_số vô_tuyến_điện , điều_kiện kĩ_thuật và khai_thác kèm theo .
+
+2 . Chánh Văn_phòng , Cục_trưởng Cục Tần_số vô_tuyến_điện , Thủ_trưởng cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+3 . Trong quá_trình thực_hiện nếu có vướng_mắc , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Thông_tin và Truyền_thông ( Cục Tần_số vô_tuyến_điện ) để được hướng_dẫn hoặc xem_xét , sửa_đổi , bổ_sung . / .

@@ -1,0 +1,163 @@
+Thông_tư số 67/2018/tt-btc ngày 06 tháng 08 năm 2018 của bộ tài_chính
+
+Căn_cứ Luật Quản_lý , sử_dụng tài_sản công ngày 21 tháng 6 năm 2017 ;
+
+Căn_cứ Luật Giao_dịch điện_tử ngày 29 tháng 11 năm 2005 ;
+
+Căn_cứ Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính_phủ về việc ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+
+Căn_cứ Nghị_định số 151/2017/NĐ-CP ngày 26 tháng 12 năm 2017 của Chính_phủ quy_định chi_tiết một_số điều của Luật Quản_lý , sử_dụng tài_sản công ;
+
+Căn_cứ Nghị_định số 87/2017/NĐ-CP ngày 26/7/2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+
+Theo đề_nghị của Cục_trưởng Cục Quản_lí công sản ;
+
+Bộ_trưởng Bộ Tài_chính ban_hành Thông_tư hướng_dẫn việc quản_lý , vận_hành , trao_đổi và khai_thác thông_tin trong Cơ_sở dữ_liệu quốc_gia về tài_sản công .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này hướng_dẫn việc quản_lý , vận_hành , trao_đổi và khai_thác thông_tin trong Cơ_sở dữ_liệu quốc_gia về tài_sản công .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Văn_phòng Trung_ương Đảng , cơ_quan trung_ương của tổ_chức chính_trị - xã_hội , tổ_chức chính_trị xã_hội - nghề_nghiệp , tổ_chức xã_hội , tổ_chức xã_hội - nghề_nghiệp , cơ_quan khác ở trung_ương ( sau đây gọi là Bộ , cơ_quan trung_ương ) .
+
+2 . Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương ( sau đây gọi là Ủy_ban nhân_dân cấp tỉnh ) .
+
+3 . Cơ_quan_tài_chính hoặc cơ_quan khác được giao nhiệm_vụ tiếp_nhận và quản_lí báo_cáo kê_khai tài_sản công ( gọi chung là cơ_quan_tài_chính ) , cơ_quan quản_lí công_nghệ thông_tin hoặc cơ_quan có chức_năng về quản_lí công_nghệ thông_tin ( gọi chung là cơ_quan quản_lí công_nghệ thông_tin ) của các Bộ , cơ_quan trung_ương ; Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương .
+
+4 . Các cơ_quan , tổ_chức , cá_nhân có liên_quan đến việc quản_lý , sử_dụng và khai_thác thông_tin trong Cơ_sở dữ_liệu quốc_gia về tài_sản công .
+
+Điều 3 . Giải_thích từ_ngữ
+
+1 . Cơ_sở dữ_liệu quốc_gia về tài_sản công ( gọi tắt là Cơ_sở dữ_liệu quốc_gia ) là tập_hợp các dữ_liệu về tài_sản công được sắp_xếp , tổ_chức để truy_cập , khai_thác , quản_lí và cập_nhật thông_qua phương_tiện điện_tử . Cơ_sở dữ_liệu quốc_gia được xây_dựng thống_nhất trong phạm_vi cả nước ; có chức_năng tổng_hợp_số_lượng , giá_trị , cơ_cấu phân_bổ toàn_bộ tài_sản công của quốc_gia .
+
+2 . Cơ_sở dữ_liệu về tài_sản chuyên_ngành là cơ_sở dữ_liệu về các loại tài_sản công do các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh xây_dựng được kết_nối vào Cơ_sở dữ_liệu quốc_gia về tài_sản công .
+
+3 . Chứng_thư số được sử_dụng để khai_thác Cơ_sở dữ_liệu , duyệt báo_cáo điện_tử là chứng_thư số do Ban Cơ_yếu Chính_phủ cấp từ hệ_thống chứng_thực điện_tử chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị theo quy_định của Nhà_nước để đảm_bảo tính bảo_mật của Cơ_sở dữ_liệu quốc_gia .
+
+4 . Thiết_bị lưu khoá bí_mật ( eTo ken ) là thiết_bị điện_tử dùng để lưu_trữ chứng_thư số và khoá bí_mật của người sử_dụng .
+
+5 . Cán_bộ quản_trị dữ_liệu trong Cơ_sở dữ_liệu quốc_gia ( gọi tắt là cán_bộ quản_trị ) là cán_bộ , công_chức , viên_chức của Bộ Tài_chính , cơ_quan_tài_chính của các Bộ , cơ_quan trung_ương , Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương được Thủ_trưởng đơn_vị giao nhiệm_vụ quản_trị , vận_hành Cơ_sở dữ_liệu quốc_gia .
+
+6 . Cán_bộ sử_dụng Cơ_sở dữ_liệu quốc_gia là cán_bộ , công_chức , viên_chức thuộc các cơ_quan , tổ_chức , đơn_vị được đăng_kí và có quyền truy_cập vào Cơ_sở dữ_liệu quốc_gia theo một vai_trò cụ_thể để thực_hiện các nhiệm_vụ được Thủ_trưởng các đơn_vị quy_định tại Điều 2 Thông_tư này giao . Cán_bộ sử_dụng được cấp một tài_khoản ( bao_gồm : tên truy_cập và mật_khẩu ) do cán_bộ quản_trị tạo_lập để truy_cập vào Cơ_sở dữ_liệu .
+
+7 . Cấu_trúc dữ_liệu trao_đổi là cấu_trúc của các thông_điệp dữ_liệu được trao_đổi giữa Cơ_sở dữ_liệu quốc_gia và các hệ_thống thông_tin có kết_nối với Cơ_sở dữ_liệu quốc_gia .
+
+8 . Hạ_tầng kĩ_thuật là tập_hợp thiết_bị tính_toán ( máy_chủ , máy trạm ) , thiết_bị kết_nối_mạng , thiết_bị an_ninh an_toàn , thiết_bị ngoại_vi và thiết_bị phụ_trợ , mạng nội_bộ , mạng diện_rộng .
+
+9 . Bộ mã đơn_vị có quan_hệ với ngân_sách nhà_nước trong Danh_mục dùng chung ngành tài_chính ( gọi tắt là Mã_qhns ) là mã_số của đơn_vị có quan_hệ với ngân_sách sử_dụng để giao_dịch với Kho_bạc nhà_nước do Bộ Tài_chính ( Cục Tin_học và Thống_kê tài_chính ) cấp cho các đơn_vị thuộc cấp ngân_sách Trung_ương ; Sở Tài_chính tỉnh , thành_phố trực_thuộc Trung_ương cấp cho các đơn_vị thuộc ngân_sách địa_phương ( ngân_sách cấp tỉnh , cấp huyện , cấp xã ) .
+
+10 . Bộ mã đơn_vị Đăng_kí tài_sản ( mã Đkts ) là bộ mã được thiết_lập trong Cơ_sở dữ_liệu quốc_gia dựa trên bộ mã đơn_vị có quan_hệ với ngân_sách nhà_nước trong Danh_mục dùng chung ngành tài_chính . Mỗi đơn_vị được giao quản_lý , sử_dụng tài_sản công thuộc diện phải báo_cáo kê_khai để đăng_nhập thông_tin vào Cơ_sở dữ_liệu quốc_gia được cán_bộ quản_trị tạo một mã Đkts làm căn_cứ nhập dữ_liệu vào Cơ_sở dữ_liệu quốc_gia .
+
+Điều 4 . Điều_kiện vận_hành Cơ_sở dữ_liệu quốc_gia về tài_sản công
+
+1 . Điều_kiện về máy_tính và khả_năng kết_nối Internet : Máy_tính phải được cập_nhật các bản vá lỗi hệ điều_hành về an_ninh ; được cài_đặt chương_trình phần_mềm diệt virus , được cập_nhật thường_xuyên các bản nhận_dạng mẫu virus mới , sử_dụng font chữ Unicode Tcvn 6909 : 2001 gõ dấu tiếng Việt và phải được kết_nối Internet hoặc kết_nối hệ_thống mạng Bộ Tài_chính .
+
+2 . Điều_kiện của cán_bộ quản_trị là người được Bộ Tài_chính cấp tài_khoản và phân_quyền truy_cập theo đề_nghị bằng văn_bản của cơ_quan_tài_chính các Bộ , cơ_quan trung_ương ; Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương .
+
+3 . Điều_kiện của cán_bộ sử_dụng là người được Bộ Tài_chính cấp tài_khoản truy_cập theo đề_nghị bằng văn_bản của cơ_quan_tài_chính các Bộ , cơ_quan trung_ương ; Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương .
+
+4 . Trường_hợp có sự thay_đổi về cán_bộ quản_trị , cán_bộ sử_dụng Cơ_sở dữ_liệu thì cơ_quan_tài_chính các Bộ , cơ_quan trung_ương ; Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương có trách_nhiệm thông_báo kịp_thời bằng văn_bản cho Bộ Tài_chính biết , có phương_án xử_lí phù_hợp .
+
+5 . Đối_với cán_bộ quản_trị được cấp chứng_thư số , ngoài các điều_kiện quy_định tại các khoản 1 , 2 và 3 Điều này , máy_vi_tính của cán_bộ quản_trị phải được cài_đặt Phần_mềm quản_lí thiết_bị lưu khoá bí_mật ( eTo ken ) do Ban Cơ_yếu Chính_phủ cấp kèm theo thiết_bị . Cán_bộ quản_trị được cấp eTo ken có tên đăng_nhập và mật_khẩu eTo ken để bảo_mật .
+
+Chương_ii
+
+Quy_định Cụ_thể
+
+Điều 5 . Quản_lí về kĩ_thuật
+
+1 . Bộ Tài_chính có trách_nhiệm :
+
+a ) Quản_lý , vận_hành và đảm_bảo hạ_tầng kĩ_thuật cho hoạt_động thông_suốt của hệ_thống ;
+
+b ) Đảm_bảo_an_ninh , an_toàn về mặt kĩ_thuật , lưu_trữ và bảo_mật Cơ_sở dữ_liệu quốc_gia được đặt tại Bộ Tài_chính ;
+
+c ) Hướng_dẫn xử_lí các vấn_đề về kĩ_thuật phát_sinh trong quá_trình sử_dụng Cơ_sở dữ_liệu quốc_gia ; chia_sẻ thông_tin về dữ_liệu tài_sản kịp_thời , chính_xác để các cơ_quan , tổ_chức , đơn_vị khai_thác , sử_dụng có hiệu_quả ; bảo_mật các thông_tin được chia_sẻ ; hướng_dẫn , hỗ_trợ các đơn_vị trong việc triển_khai kết_nối ; giải_thích , làm rõ các nội_dung liên_quan đến các tài_liệu của Cơ_sở dữ_liệu quốc_gia khi có yêu_cầu ; cập_nhật tài_liệu và thông_báo cho các bên liên_quan khi có sự thay_đổi các thông_tin kết_nối ;
+
+d ) Phát_triển hạ_tầng kĩ_thuật , xây_dựng , nâng_cấp Cơ_sở dữ_liệu quốc_gia nhằm đáp_ứng sự thay_đổi về công_nghệ và thay_đổi yêu_cầu nghiệp_vụ ;
+
+đ ) Đảm_bảo tính chính_xác của mã Qhns và mã Đkts sẵn_sàng đáp_ứng các yêu_cầu đồng_bộ sang Cơ_sở dữ_liệu quốc_gia ;
+
+e ) Tổng_hợp nhu_cầu cấp , thay_đổi , thu_hồi chứng_thư số gửi Ban Cơ_yếu Chính_phủ ; thực_hiện bàn_giao chứng_thư số cho cán_bộ quản_trị .
+
+2 . Cơ_quan quản_lí công_nghệ thông_tin của Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương có trách_nhiệm :
+
+a ) Đảm_bảo các điều_kiện vận_hành Cơ_sở dữ_liệu quốc_gia theo quy_định tại Điều 4 Thông_tư này ;
+
+b ) Thực_hiện các quy_định về kết_nối được quy_định tại Thông_tư này và các quy_định của pháp_luật có liên_quan ;
+
+c ) Tuân_thủ các tài_liệu kĩ_thuật của Cơ_sở dữ_liệu quốc_gia khi xây_dựng các hệ_thống thông_tin , triển_khai kết_nối ;
+
+d ) Thông_báo , phản_ánh về tình_hình kết_nối , khai_thác Cơ_sở dữ_liệu quốc_gia với Bộ Tài_chính .
+
+Điều 6 . Quản_lí về nghiệp_vụ
+
+1 . Bộ Tài_chính có trách_nhiệm :
+
+a ) Xây_dựng yêu_cầu về nghiệp_vụ báo_cáo kê_khai tài_sản công phù_hợp với quy_định của pháp_luật về quản_lý , sử_dụng tài_sản công trong từng thời_kì làm cơ_sở để xây_dựng , nâng_cấp hệ_thống ;
+
+b ) Tổ_chức tập_huấn và hỗ_trợ cho các cơ_quan , tổ_chức , đơn_vị trong quá_trình sử_dụng , khai_thác và trao_đổi thông_tin trong Cơ_sở dữ_liệu quốc_gia và các nghiệp_vụ liên_quan khác khi có nhu_cầu ;
+
+c ) Khai_thác Cơ_sở dữ_liệu quốc_gia để phục_vụ công_tác lập kế_hoạch ( ngắn_hạn , dài_hạn ) , công_tác chỉ_đạo , điều_hành , báo_cáo , phân_tích dự_báo của Chính_phủ , của Bộ Tài_chính và cơ_quan nhà_nước có liên_quan .
+
+2 . Cơ_quan_tài_chính của các Bộ , cơ_quan trung_ương ; Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương có trách_nhiệm đảm_bảo việc nhập , duyệt , chuẩn_hoá dữ_liệu trong Cơ_sở dữ_liệu quốc_gia theo quy_định của pháp_luật về quản_lý , sử_dụng tài_sản công và hướng_dẫn của Bộ Tài_chính , đảm_bảo tính bảo_mật của dữ_liệu .
+
+Điều 7 . Quản_lí chứng_thư số
+
+1 . Chứng_thư số được cấp cho các cán_bộ quản_trị thuộc Bộ Tài_chính , cơ_quan_tài_chính của các Bộ , cơ_quan trung_ương ; Sở Tài_chính các tỉnh , thành_phố trực_thuộc Trung_ương . Mỗi cán_bộ quản_trị được cấp một chứng_thư số .
+
+2 . Cán_bộ quản_trị phải kê_khai_thông_tin đăng_kí cấp chứng_thư số theo Mẫu_số 02 Phụ_lục ban_hành kèm theo Thông_tư số 08/2016/TT-BQP ngày 01/02/2016 của Bộ Quốc_phòng quy_định về cung_cấp , quản_lí và sử_dụng dịch_vụ chứng_thực chữ_kí số chuyên_dùng phục_vụ các cơ_quan Đảng , nhà_nước , tổ_chức chính_trị - xã_hội và nội_dung sửa_đổi , bổ_sung Thông_tư này ( nếu có ) , gửi Bộ Tài_chính tổng_hợp , phối_hợp với Ban cơ_yếu Chính_phủ để làm thủ_tục cấp chứng_thư số . Thời_hạn cán_bộ quản_trị nhận chứng_thư số tối_đa không quá 03 ngày làm_việc , kể từ ngày Ban cơ_yếu Chính_phủ cấp chứng_thư số .
+
+Trường_hợp thiết_bị lưu khoá bí_mật bị mất , hỏng , không sử_dụng hoặc có sự thay_đổi cán_bộ quản_trị , cơ_quan , tổ_chức , đơn_vị quản_lí cán_bộ quản_trị phải thông_báo cho Bộ Tài_chính trong thời_hạn 03 ngày làm_việc , kể từ ngày phát_hiện bị mất , hỏng , không sử_dụng hoặc có sự thay_đổi cán_bộ quản_trị để có biện_pháp xử_lí phù_hợp . Trường_hợp phải cấp lại chứng_thư số thì thủ_tục cấp lại được thực_hiện như thủ_tục cấp lần đầu .
+
+3 . Việc quản_lí chứng_thư số thực_hiện theo quy_định tại Thông_tư số 08/2016/TT-BQP ngày 01/02/2016 của Bộ Quốc_phòng quy_định về cung_cấp , quản_lí và sử_dụng dịch_vụ chứng_thực chữ_kí số chuyên_dùng phục_vụ các cơ_quan Đảng , nhà_nước , tổ_chức chính_trị - xã_hội và nội_dung sửa_đổi , bổ_sung Thông_tư này ( nếu có ) .
+
+Điều 8 . Tiêu_chuẩn kĩ_thuật , chuẩn thông_tin áp_dụng cho việc xây_dựng Cơ_sở dữ_liệu quốc_gia về tài_sản công
+
+1 . Cơ_sở dữ_liệu quốc_gia và các Cơ_sở dữ_liệu về tài_sản chuyên_ngành phải áp_dụng các quy_chuẩn , quy_định , hướng_dẫn về các yêu_cầu kĩ_thuật khi thực_hiện kết_nối , trao_đổi dữ_liệu giữa các hệ_thống thông_tin , cơ_sở dữ_liệu theo hướng_dẫn của Bộ Thông_tin và Truyền_thông .
+
+2 . Cấu_trúc dữ_liệu trao_đổi với Cơ_sở dữ_liệu quốc_gia phải sử_dụng bộ mã đơn_vị Đkts là bộ mã được thiết_lập trong Cơ_sở dữ_liệu quốc_gia dựa trên bộ mã có quan_hệ với ngân_sách nhà_nước trong Danh_mục dùng chung trong lĩnh_vực tài_chính theo quy_định tại Thông_tư số 18/2017/TT-BTC ngày 28/02/2017 của Bộ Tài_chính quy_định Hệ_thống Danh_mục điện_tử dùng chung trong lĩnh_vực Tài_chính .
+
+3 . Nội_dung chuẩn các thông_tin quy_định trên Cơ_sở dữ_liệu quốc_gia được quy_định tại Phụ_lục ban_hành kèm theo Thông_tư này . Các trường thông_tin quy_định tại Phụ_lục ban_hành kèm theo Thông_tư này là các trường thông_tin bắt_buộc và được chuẩn_hoá về nội_dung , kĩ_thuật để đảm_bảo việc trao_đổi , tích_hợp , chia_sẻ dữ_liệu điện_tử về các loại tài_sản công đảm_bảo thống_nhất trên phạm_vi cả nước .
+
+4 . Bộ Tài_chính có trách_nhiệm ban_hành tài_liệu kĩ_thuật phục_vụ kết_nối trước khi dự_án xây_dựng , nâng_cấp Cơ_sở dữ_liệu quốc_gia về tài_sản công được nghiệm_thu và đưa vào vận_hành .
+
+Điều 9 . Khai_thác , sử_dụng thông_tin
+
+1 . Bộ Tài_chính được khai_thác thông_tin về tài_sản công của cả nước trong Cơ_sở dữ_liệu quốc_gia .
+
+2 . Các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh có quyền khai_thác thông_tin tài_sản công của các cơ_quan , tổ_chức , đơn_vị thuộc phạm_vi quản_lí trong Cơ_sở dữ_liệu quốc_gia .
+
+3 . Các cơ_quan , tổ_chức , đơn_vị có tài_sản kê_khai trong Cơ_sở dữ_liệu quốc_gia có quyền khai_thác thông_tin tài_sản công của cơ_quan , tổ_chức , đơn_vị và các đơn_vị trực_thuộc ( nếu có ) trong Cơ_sở dữ_liệu quốc_gia .
+
+4 . Việc phân_quyền khai_thác thông_tin tài_sản công cho các cơ_quan , tổ_chức , đơn_vị quy_định tại khoản 3 Điều này do Thủ_trưởng cơ_quan_tài_chính của Bộ , cơ_quan trung_ương , Giám_đốc Sở Tài_chính tỉnh , thành_phố trực_thuộc Trung_ương Quyết_định .
+
+5 . Thông_tin lưu_giữ trong Cơ_sở dữ_liệu quốc_gia được sử_dụng theo quy_định tại Điều 129 của Luật Quản_lý , sử_dụng tài_sản công .
+
+6 . Các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh ban_hành Quy_chế phối_hợp cung_cấp thông_tin để kiểm_tra , đối_chiếu kết_quả đăng_nhập dữ_liệu tài_sản công vào Cơ_sở dữ_liệu quốc_gia và sử_dụng thông_tin lưu_giữ trong Cơ_sở dữ_liệu quốc_gia vào các mục_đích được quy_định tại khoản 5 Điều này .
+
+Điều 10 . Kinh_phí đảm_bảo việc xây_dựng , quản_lý , duy_trì , cập_nhật dữ_liệu trên Cơ_sở dữ_liệu quốc_gia về tài_sản công
+
+1 . Kinh_phí cho việc xây_dựng , nâng_cấp , duy_trì Cơ_sở dữ_liệu quốc_gia được bố_trí trong dự_toán ngân_sách nhà_nước_hàng năm của Bộ Tài_chính .
+
+2 . Kinh_phí cho việc nhập , duyệt , chuẩn_hoá , khai_thác dữ_liệu trong Cơ_sở dữ_liệu quốc_gia được bố_trí trong dự_toán ngân_sách hàng năm của các Bộ , cơ_quan trung_ương và địa_phương theo phân_cấp ngân_sách hiện_hành . Mức chi cho việc nhập , duyệt , chuẩn_hoá dữ_liệu về tài_sản công do cơ_quan , tổ_chức , đơn_vị thực_hiện tối_đa không quá 50 % mức chi nhập dữ_liệu theo quy_định tại Điều 4 Thông_tư số 194/2012/TT-BTC ngày 15/11/2012 của Bộ Tài_chính hướng_dẫn mức chi tạo_lập thông_tin điện_tử nhằm duy_trì hoạt_động thường_xuyên của cơ_quan , đơn_vị sử_dụng ngân_sách công . Mức chi cho việc khai_thác thông_tin được xác_định theo chi_phí thực_tế .
+
+Chương_iii
+
+Tổ_chức Thực_hiện
+
+Điều 11 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành từ ngày 01 tháng 9 năm 2018 .
+
+2 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , cơ_quan khác ở Trung_ương , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chỉ_đạo các cơ_quan , tổ_chức , đơn_vị có liên_quan thực_hiện Thông_tư này .
+
+Trong quá_trình thực_hiện nếu phát_sinh vướng_mắc , đề_nghị các cơ_quan , tổ_chức , đơn_vị phản_ánh kịp_thời về Bộ Tài_chính để phối_hợp xử_lý . / .

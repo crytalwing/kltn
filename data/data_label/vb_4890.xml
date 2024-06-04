@@ -1,0 +1,263 @@
+Thông_tư số 19/2023/tt-btttt ngày 25 tháng 12 năm 2023 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật An_toàn thông_tin mạng ngày 19 tháng 11 năm 2015 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Viễn_thông ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 </NĐ> của Chính_phủ về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 48/2022/NĐ-CP ngày 26 tháng 7 năm 2022 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định số 8/2023 </QĐ>/QĐ-TTg ngày 05 tháng 4 năm 2023 của Thủ_tướng Chính_phủ về Mạng_truyền số_liệu chuyên_dùng phục_vụ các cơ_quan Đảng , Nhà_nước ;
+
+Theo đề_nghị của Cục_trưởng Cục Bưu_điện Trung_ương ;
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành quy_định chi_tiết và hướng_dẫn một_số điều của <QĐ rel="None"> <TT rel="None"> Thông_tư Quyết_định số 8/2023 </TT> </QĐ>/QĐ-TTg ngày 05 tháng 4 năm 2023 của Thủ_tướng Chính_phủ về Mạng_truyền số_liệu chuyên_dùng phục_vụ các cơ_quan Đảng , Nhà_nước .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về dịch_vụ , kết_nối , bảo_đảm an_toàn thông_tin Mạng_truyền số_liệu chuyên_dùng phục_vụ các cơ_quan Đảng , Nhà_nước ( sau đây gọi là Mạng_truyền số_liệu chuyên_dùng ) .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với Cục Bưu_điện Trung_ương , các cơ_quan , tổ_chức cung_cấp , quản_lí và sử_dụng dịch_vụ của Mạng_truyền số_liệu chuyên_dùng .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Đối_tượng sử_dụng dịch_vụ của Mạng_truyền số_liệu chuyên_dùng bao_gồm đối_tượng sử_dụng dịch_vụ của mạng truy_nhập cấp I và đối_tượng sử_dụng dịch_vụ của mạng truy_nhập cấp Ii ( sau đây gọi là đối_tượng sử_dụng ) .
+
+2 . Đối_tượng sử_dụng của mạng truy_nhập cấp I là các cơ_quan , tổ_chức quy_định tại Phụ_lục I <QĐ rel="DC"> Quyết_định số 8/2023 </QĐ>/QĐ-TTg ngày 05 tháng 4 năm 2023 của Thủ_tướng Chính_phủ về Mạng_truyền số_liệu chuyên_dùng phục_vụ các cơ_quan Đảng , Nhà_nước .
+
+3 . Đối_tượng sử_dụng của mạng truy_nhập cấp Ii là các cơ_quan , tổ_chức quy_định tại Phụ_lục Ii <QĐ rel="DC"> Quyết_định số 8/2023 </QĐ>/QĐ-TTg.
+
+4 . Thiết_bị đầu_cuối của mạng truy_nhập là thiết_bị chuyển mạch , thiết_bị định_tuyến hoặc thiết_bị tương_đương đấu nối vào điểm kết cuối của Mạng_truyền số_liệu chuyên_dùng .
+
+Chương_ii
+
+Quy_định Về Dịch_vụ
+
+Điều 4 . Dịch_vụ mạng riêng ảo
+
+1 . Dịch_vụ mạng riêng ảo là dịch_vụ kết_nối hệ_thống thông_tin của đối_tượng sử_dụng thành các mạng riêng trên hạ_tầng kết_nối Mạng_truyền số_liệu chuyên_dùng .
+
+2 . Dịch_vụ mạng riêng ảo sử_dụng hạ_tầng mạng truy_nhập cấp I do Cục Bưu_điện Trung_ương triển_khai và mạng truy_nhập cấp Ii do cơ_quan , tổ_chức tự xây_dựng hoặc thuê dịch_vụ kênh riêng trực_tiếp hoặc kênh riêng ảo của doanh_nghiệp viễn_thông .
+
+3 . Dịch_vụ mạng riêng ảo do Cục Bưu_điện Trung_ương quản_lí và cung_cấp ; đơn_vị chuyên_trách công_nghệ thông_tin của đối_tượng sử_dụng dịch_vụ mạng riêng ảo tổng_hợp nhu_cầu , cung_cấp thông_tin kĩ_thuật và phối_hợp với Cục Bưu_điện Trung_ương triển_khai , bảo_đảm kết_nối dịch_vụ mạng riêng ảo .
+
+Điều 5 . Dịch_vụ hội_nghị truyền_hình
+
+1 . Dịch_vụ hội_nghị truyền_hình là dịch_vụ sử_dụng kênh truyền Mạng_truyền số_liệu chuyên_dùng và hệ_thống điều_khiển đa điểm của Cục Bưu_điện Trung_ương , bộ , ban , ngành , địa_phương để thiết_lập kết_nối các phiên họp trực_tuyến giữa các điểm cầu .
+
+2 . Cục Bưu_điện Trung_ương bảo_đảm kết_nối các điểm cầu thuộc đối_tượng sử_dụng của mạng truy_nhập cấp I ; bảo_đảm kết_nối liên_thông giữa hệ_thống hội_nghị truyền_hình của Cục Bưu_điện Trung_ương với các hệ_thống hội_nghị truyền_hình của bộ , ban , ngành , địa_phương và doanh_nghiệp .
+
+3 . Bộ , ban , ngành , địa_phương bảo_đảm kết_nối các điểm cầu thuộc đối_tượng sử_dụng của mạng truy_nhập cấp Ii .
+
+Điều 6 . Dịch_vụ truy_nhập Internet chuyên_dùng
+
+1 . Dịch_vụ truy_nhập Internet chuyên_dùng là dịch_vụ cung_cấp cho đối_tượng sử_dụng khả_năng truy_nhập Internet trên Mạng_truyền số_liệu chuyên_dùng .
+
+2 . Dịch_vụ truy_nhập Internet chuyên_dùng do Cục Bưu_điện Trung_ương quản_lý , cung_cấp cho Văn_phòng Trung_ương Đảng , Văn_phòng Quốc_hội , Văn_phòng Chủ_tịch nước , Văn_phòng Chính_phủ và các cơ_quan Đảng ở trung_ương .
+
+3 . Đơn_vị chuyên_trách công_nghệ thông_tin của đối_tượng sử_dụng dịch_vụ truy_nhập Internet chuyên_dùng cung_cấp thông_tin kĩ_thuật và phối_hợp với Cục Bưu_điện Trung_ương triển_khai , bảo_đảm an_toàn thông_tin .
+
+Chương_iii
+
+Quy_định Về Kết_nối_mạng
+
+Điều 7 . Mô_hình kết_nối_mạng
+
+Cơ_quan Đảng , Nhà_nước phối_hợp với Cục Bưu_điện Trung_ương thực_hiện kết_nối liên_thông các cấp hành_chính theo các mô_hình sau :
+
+1 . Mô_hình kết_nối tổng_quan
+
+a ) Hướng_dẫn kết_nối_mạng trục , mạng truy_nhập cấp I và mạng truy_nhập cấp Ii ;
+
+b ) Cục Bưu_điện Trung_ương triển_khai kết_nối_mạng trục , mạng truy_nhập cấp I tối_thiểu bằng 02 ( hai ) kênh truyền cáp_quang theo 02 ( hai ) hướng vật_lí khác nhau ; thiết_lập mạng riêng ảo trên cổng kết_nối để kết_nối các hệ_thống thông_tin với nhau ;
+
+c ) Bộ , ban , ngành , địa_phương triển_khai kết_nối_mạng truy_nhập cấp Ii , kết_nối hệ_thống thông_tin quốc_gia do bộ , ban , ngành , địa_phương quản_lí đến Mạng_truyền số_liệu chuyên_dùng bằng kênh truyền tự xây_dựng hoặc thuê dịch_vụ kênh riêng trực_tiếp hoặc kênh riêng ảo của doanh_nghiệp viễn_thông ; phối_hợp với Cục Bưu_điện Trung_ương thiết_lập điểm tập_trung_lưu_lượng tại cổng kết_nối để kết_nối các đối_tượng sử_dụng của mạng truy_nhập cấp Ii ;
+
+d ) Mạng_truyền số_liệu chuyên_dùng là hạ_tầng truyền_dẫn trong kết_nối , liên_thông các hệ_thống thông_tin phục_vụ Chính_phủ số ;
+
+đ ) Kênh_truyền phải bảo_đảm mức chiếm_dụng băng_thông của các hướng kết_nối < 90 % , căn_cứ kết_quả giám_sát lưu_lượng tất_cả các hướng kết_nối từ 00giờ00 đến 24giờ00 hàng ngày trong thời_gian tối_thiểu 03 ( ba ) tháng liên_tiếp , thời_gian mỗi mẫu giám_sát là 05 ( năm ) phút ;
+
+e ) Mô_hình kết_nối tổng_quan thể_hiện bằng sơ_đồ tại Mô_hình 01 của Phụ_lục I ban_hành kèm Thông_tư này .
+
+2 . Mô_hình kết_nối trung_tâm dữ_liệu đặt tại bộ , ban , ngành , địa_phương với Mạng_truyền số_liệu chuyên_dùng :
+
+a ) Áp_dụng cho trung_tâm dữ_liệu do bộ , ban , ngành , địa_phương tự đầu_tư và đặt thiết_bị tại trụ_sở bộ , ban , ngành , địa_phương ;
+
+b ) Bộ , ban , ngành , địa_phương triển_khai tối_thiểu 02 ( hai ) kênh truyền cáp_quang theo 02 ( hai ) hướng vật_lí khác nhau kết_nối từ thiết_bị định_tuyến của trung_tâm dữ_liệu đến công kết_nối ;
+
+c ) Kênh_truyền phải bảo_đảm mức chiếm_dụng băng_thông của các hướng kết_nối < 90 % , căn_cứ kết_quả giám_sát lưu_lượng tất_cả các hướng kết_nối từ 00giờ00 đến 24giờ00 hàng ngày trong thời_gian tối_thiểu 03 ( ba ) tháng liên_tiếp , thời_gian mỗi mẫu giám_sát là 05 ( năm ) phút ;
+
+d ) Cục Bưu_điện Trung_ương phối_hợp với bộ , ban , ngành , địa_phương thiết_lập chính_sách kết_nối trên cổng kết_nối và thiết_bị định_tuyến tại trung_tâm dữ_liệu ;
+
+đ ) Mô_hình kết_nối trung_tâm dữ_liệu đặt tại bộ , ban , ngành , địa_phương với Mạng_truyền số_liệu chuyên_dùng thể_hiện bằng sơ_đồ tại Mô_hình 02 của Phụ_lục I ban_hành kèm Thông_tư này .
+
+3 . Mô_hình kết_nối trung_tâm dữ_liệu đặt tại doanh_nghiệp viễn_thông với Mạng_truyền số_liệu chuyên_dùng :
+
+a ) Áp_dụng cho trung_tâm dữ_liệu do bộ , ban , ngành , địa_phương tự đầu_tư , thuê đặt thiết_bị tại doanh_nghiệp viễn_thông hoặc do bộ , ban , ngành , địa_phương thuê thiết_bị và đặt tại doanh_nghiệp viễn_thông ;
+
+b ) Doanh_nghiệp viễn_thông triển_khai tối_thiểu 02 ( hai ) kênh truyền cáp_quang theo 02 ( hai ) hướng vật_lí khác nhau kết_nối từ thiết_bị định_tuyến tại phân_vùng trung_tâm dữ_liệu của doanh_nghiệp viễn_thông đến cổng kết_nối ;
+
+c ) Kênh_truyền phải bảo_đảm mức chiếm_dụng băng_thông của các hướng kết_nối < 90 % , căn_cứ kết_quả giám_sát lưu_lượng tất_cả các hướng kết_nối từ 00giờ00 đến 24giờ00 hàng ngày trong thời_gian tối_thiểu 03 ( ba ) tháng liên_tiếp , thời_gian mỗi mẫu giám_sát là 05 ( năm ) phút ;
+
+d ) Cục Bưu_điện Trung_ương phối_hợp với doanh_nghiệp viễn_thông thiết_lập chính_sách kết_nối trên cống kết_nối và thiết_bị định_tuyến tại phân_vùng trung_tâm dữ_liệu ;
+
+đ ) Mô_hình kết_nối trung_tâm dữ_liệu đặt tại doanh_nghiệp viễn_thông với Mạng_truyền số_liệu chuyên_dùng thể_hiện bằng sơ_đồ tại Mô_hình 03 của Phụ_lục I ban_hành kèm Thông_tư này .
+
+4 . Mô_hình kết_nối các cơ_quan , tổ_chức tại địa_phương với Mạng_truyền số_liệu chuyên_dùng :
+
+a ) Áp_dụng cho địa_phương triển_khai mạng diện_rộng kết_hợp Mạng_truyền số_liệu chuyên_dùng để kết_nối các cơ_quan , tổ_chức trên địa_bàn ;
+
+b ) Kết_nối các cơ_quan , tổ_chức là đối_tượng sử_dụng của mạng truy_nhập cấp I và mạng truy_nhập cấp Ii theo quy_định tại khoản 1 Điều này ;
+
+c ) Địa_phương thiết_lập phân_vùng mạng kết_nối các đơn_vị không thuộc đối_tượng sử_dụng với Mạng_truyền số_liệu chuyên_dùng qua trung_tâm dữ_liệu của mình ; sử_dụng địa_chỉ Ip cho phân_vùng mạng này không trùng với địa_chỉ Ip của Mạng_truyền số_liệu chuyên_dùng ;
+
+d ) Trung_tâm dữ_liệu của địa_phương là điểm trung_chuyển lưu_lượng giữa mạng truy_nhập cấp I , mạng truy_nhập cấp Ii và phân_vùng mạng kết_nối các đơn_vị không thuộc đối_tượng sử_dụng ;
+
+đ ) Kênh_truyền phải bảo_đảm mức chiếm_dụng băng_thông của các hướng kết_nối < 90 % , căn_cứ kết_quả giám_sát lưu_lượng tất_cả các hướng kết_nối từ 00giờ00 đến 24giờ00 hàng ngày trong thời_gian tối_thiểu 03 ( ba ) tháng liên_tiếp , thời_gian mồi mẫu giám_sát là 05 ( năm ) phút ;
+
+e ) Cục Bưu_điện Trung_ương phối_hợp với địa_phương thiết_lập các chính_sách định_tuyến giữa 02 ( hai ) mạng qua cổng kết_nối và thiết_bị định_tuyến tại trung_tâm dữ_liệu ;
+
+g ) Mô_hình kết_nối các cơ_quan , tổ_chức tại địa_phương với Mạng_truyền số_liệu chuyên_dùng thể_hiện bằng sơ_đồ tại Mô_hình 04 của Phụ_lục I ban_hành kèm Thông_tư này .
+
+5 . Mô_hình kết_nối_mạng viễn_thông khác với Mạng_truyền số_liệu chuyên_dùng :
+
+a ) Chủ_quản mạng viễn_thông khác thiết_lập và sử_dụng kênh kết_nối bằng cáp_quang hoặc thuê dịch_vụ kênh riêng trực_tiếp hoặc kênh riêng ảo của doanh_nghiệp viễn_thông để kết_nối từ mạng viễn_thông khác vào cổng kết_nối Mạng_truyền số_liệu chuyên_dùng ;
+
+b ) Kênh_truyền phải bảo_đảm mức chiếm_dụng băng_thông của các hướng kết_nối < 90 % , căn_cứ kết_quả giám_sát lưu_lượng tất_cả các hướng kết_nối từ 00giờ00 đến 24giờ00 hàng ngày trong thời_gian tối_thiểu 03 ( ba ) tháng liên_tiếp , thời_gian mỗi mẫu giám_sát là 05 ( năm ) phút ;
+
+c ) Cục Bưu_điện Trung_ương và đơn_vị chủ_quản mạng viễn_thông khác phối_hợp thiết_lập các chính_sách định_tuyến giữa 02 ( hai ) mạng thông_qua cổng kết_nối và thiết_bị chuyển_đổi địa_chỉ Ip của mạng viễn_thông khác ;
+
+d ) Mô_hình kết_nối_mạng viễn_thông khác với Mạng_truyền số_liệu chuyên_dùng thể_hiện bằng sơ_đồ tại Mô_hình 05 của Phụ_lục I ban_hành kèm Thông_tư này .
+
+Điều 8 : Quy_định về địa_chỉ Ip và định_tuyến
+
+1 . Mạng_truyền số_liệu chuyên_dùng sử_dụng địa_chỉ Ip công_cộng và Ip dùng riêng .
+
+2 . Địa_chỉ Ip công_cộng do Cục Bưu_điện Trung_ương cấp lại cho đối_tượng sử_dụng dịch_vụ truy_nhập Internet chuyên_dùng tuân theo các quy_định của Bộ Thông_tin và Truyền_thông về quản_lí và sử_dụng tài_nguyên Internet .
+
+3 . Địa_chỉ Ip dùng riêng sử_dụng cho các kết_nối bên trong Mạng_truyền số_liệu chuyên_dùng tuân theo các quy_định sau đây :
+
+a ) Cục Bưu_điện Trung_ương quản_lí toàn_bộ địa_chỉ Ip của Mạng_truyền số_liệu chuyên_dùng ; cấp , phân_chia địa_chỉ Ip theo mạng truy_nhập cấp I , mạng truy_nhập cấp Ii , cấp hành_chính và nhu_cầu sử_dụng hạ_tầng viễn_thông của đối_tượng sử_dụng ; đảm_bảo_an_toàn , tính mở_rộng và dự_phòng về địa_chỉ Ip ; thu_hồi những địa_chỉ Ip sử_dụng không đúng với quy_định của Bộ Thông_tin và Truyền_thông ;
+
+b ) Đơn_vị chuyên_trách công_nghệ thông_tin của đối_tượng sử_dụng tổng_hợp nhu_cầu và cung_cấp thông_tin cho Cục Bưu_điện Trung_ương theo mẫu quy_định tại Phụ_lục Ii của Thông_tư này để được cấp địa_chỉ Ip cho hệ_thống thông_tin kết_nối vào Mạng_truyền số_liệu chuyên_dùng phù_hợp với đăng_ký ;
+
+c ) Việc sử_dụng địa_chỉ Ip phải bảo_đảm đúng mục_đích , đối_tượng và không trùng_lặp giữa các dịch_vụ , cơ_quan , tổ_chức ;
+
+d ) Hằng năm , các đơn_vị chuyên_trách công_nghệ thông_tin của đối_tượng sử_dụng có trách_nhiệm thực_hiện rà_soát hoạt_động sử_dụng địa_chỉ Ip Mạng_truyền số_liệu chuyên_dùng và gửi báo_cáo về Bộ Thông_tin và Truyền_thông ( Cục Bưu_điện Trung_ương ) .
+
+4 . Nguyên_tắc định_tuyến
+
+a ) Cục Bưu_điện Trung_ương quản_lý , thiết_lập chính_sách định_tuyến trên toàn mạng phục_vụ kết_nối liên_thông giữa các cơ_quan Đảng , Nhà_nước bảo_đảm chất_lượng dịch_vụ và an_toàn thông_tin mạng theo các quy_định kết_nối tại Thông_tư này ;
+
+b ) Các yêu_cầu về tạo mới hoặc thay_đổi chính_sách định_tuyến chỉ được triển_khai sau khi thống_nhất phương_án giữa các đơn_vị liên_quan và Cục Bưu_điện Trung_ương .
+
+Chương_iv
+
+Quy_định Về Bảo_đảm An_toàn Thông_tin_mạng
+
+Điều 9 . Yêu_cầu bảo_đảm an_toàn hệ_thống thông_tin kết_nối Mạng_truyền số_liệu chuyên_dùng
+
+1 . Hệ_thống thông_tin kết_nối vào Mạng_truyền số_liệu chuyên_dùng phải thực_hiện qua cổng kết_nối để bảo_đảm an_toàn thông_tin và triển_khai các dịch_vụ , ứng_dụng của Mạng_truyền số_liệu chuyên_dùng .
+
+2 . Hệ_thống thông_tin phải đáp_ứng các yêu_cầu quy_định tại Điều 9 và 10 <TT rel="DC"> Thông_tư số 12/2022/TT-BTTTT ngày 12 tháng 8 năm 2022 </TT> của Bộ Thông_tin và Truyền_thông quy_định chi_tiết và hướng_dẫn một_số điều của <NĐ rel="DC"> Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 </NĐ> của Chính_phủ về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ .
+
+3 . Hệ_thống thông_tin phải được triển_khai đầy_đủ phương_án bảo_đảm an_toàn thông_tin mạng theo quy_định trước khi kết_nối vào Mạng_truyền số_liệu chuyên_dùng .
+
+4 . Phân_vùng mạng tham_gia kết_nối vào Mạng_truyền số_liệu chuyên_dùng phải được thiết_kế phân_tách độc_lập và có phương_án quản_lí truy_nhập với các phân_vùng mạng khác .
+
+5 . Khi hệ_thống thông_tin kết_nối vào Mạng_truyền số_liệu chuyên_dùng bị phát_hiện không bảo_đảm an_toàn thông_tin mạng , đơn_vị quản_lý , vận_hành hệ_thống thông_tin cần phối_hợp thực_hiện xử_lí theo hướng_dẫn của Cục Bưu_điện Trung_ương .
+
+Điều 10 . Giám_sát an_toàn thông_tin mạng và kiểm_soát truy_nhập
+
+1 . Cổng kết_nối phải có chức_năng quản_lí truy_nhập , phát_hiện xâm_nhập và phòng_chống mã độc trên môi_trường mạng .
+
+2 . Cục Bưu_điện Trung_ương giám_sát trạng_thái hoạt_động , lưu_lượng mạng , cấu_hình và hiệu_năng của cổng kết_nối , thiết_bị mạng phục_vụ kết_nối hệ_thống thông_tin , thông_qua sử_dụng nền_tảng , hệ_thống quản_lí tập_trung .
+
+3 . Thông_tin giám_sát an_toàn thông_tin mạng của thiết_bị , hệ_thống thông_tin kết_nối Mạng_truyền số_liệu chuyên_dùng được chia_sẻ về Trung_tâm điều_hành mạng theo hướng_dẫn của Cục Bưu_điện Trung_ương .
+
+4 . Máy_chủ , máy trạm và thiết_bị công_nghệ thông_tin khác kết_nối vào Mạng_truyền số_liệu chuyên_dùng phải được cài_đặt phần_mềm phòng_chống mã độc và được giám_sát an_toàn thông_tin mạng tập_trung .
+
+5 . Yêu_cầu tối_thiểu đối_với thiết_bị đầu_cuối quy_định tại Phụ_lục Iii của Thông_tư này .
+
+Chương V
+
+Quy_định Về Kiểm_tra , Chế_độ Báo_cáo
+
+Điều 11 . Kiểm_tra
+
+1 . Nội_dung kiểm_tra
+
+a ) Kiểm_tra , đánh_giá việc tuân_thủ quy_định của pháp_luật về Mạng_truyền số_liệu chuyên_dùng ;
+
+b ) Kiểm_tra , giám_sát việc chấp_hành các quy_định , quy_trình quản_lý , vận_hành , khai_thác và đảm_bảo_an_toàn thông_tin Mạng_truyền số_liệu chuyên_dùng ;
+
+c ) Kiểm_tra về kết_nối_mạng , quản_lí chất_lượng dịch_vụ và các nội_dung liên_quan khác trong hoạt_động cung_cấp , sử_dụng dịch_vụ .
+
+2 . Hình_thức kiểm_tra :
+
+a ) Kiểm_tra theo kế_hoạch đã được cơ_quan có thẩm_quyền phê_duyệt ;
+
+b ) Kiểm_tra đột_xuất .
+
+3 . Đơn_vị kiểm_tra
+
+a ) Bộ Thông_tin và Truyền_thông ( Cục Bưu_điện Trung_ương ) thực_hiện kiểm_tra trên toàn_quốc ;
+
+b ) Sở Thông_tin và Truyền_thông theo phân_công , phân_cấp của Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc trung_ương thực_hiện kiểm_tra tại địa_phương .
+
+4 . Kinh_phí kiểm_tra do ngân_sách nhà_nước đảm_bảo được bố_trí trong dự_toán chi thường_xuyên của cơ_quan kiểm_tra và được sử_dụng theo quy_định của pháp_luật hiện_hành .
+
+Điều 12 . Chế_độ báo_cáo
+
+1 . Báo_cáo định_kì_thực_hiện theo quy_định tại khoản 1 Điều 4 <TT rel="DC"> Thông_tư số 02/2023/TT-BTTT ngày 21 tháng 3 năm 2023 </TT> của Bộ Thông_tin và Truyền_thông quy_định_chế_độ báo_cáo định_kì thuộc phạm_vi quản_lí Nhà_nước của Bộ Thông_tin và Truyền_thông .
+
+2 . Báo_cáo đột_xuất thực_hiện theo đề_nghị của Bộ_trưởng , Thứ_trưởng Bộ Thông_tin và Truyền_thông hoặc của Chủ_tịch , Phó_chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương khi có những phát_sinh bất_thường trong hoạt_động quản_lý , cung_cấp và sử_dụng dịch_vụ của Mạng_truyền số_liệu chuyên_dùng .
+
+Chương_vi
+
+Tổ_chức Thực_hiện
+
+Điều 13 . Trách_nhiệm của Cục Bưu_điện Trung_ương
+
+1 . Chủ_trì xây_dựng , phổ_biến và hướng_dẫn áp_dụng quy_định , quy_trình quản_lý , vận_hành , khai_thác và đảm_bảo_an_toàn thông_tin Mạng_truyền số_liệu chuyên_dùng .
+
+2 . Chủ_trì xây_dựng quy_định quản_lí chất_lượng dịch_vụ của Mạng_truyền số_liệu chuyên_dùng và trình cấp có thẩm_quyền ban_hành .
+
+3 . Thực_hiện công_tác kiểm_tra , giám_sát hoạt_động Mạng_truyền số_liệu chuyên_dùng trên toàn_quốc và báo_cáo Bộ Thông_tin và Truyền_thông theo quy_định tại Điều 11 và 12 của Thông_tư này .
+
+Điều 14 . Trách_nhiệm của Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc trung_ương
+
+1 . Tham_mưu , giúp Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương thực_hiện trách_nhiệm quản_lý , kiểm_tra , giám_sát và báo_cáo hoạt_động Mạng_truyền số_liệu chuyên_dùng tại địa_phương .
+
+2 . Tham_mưu xây_dựng Quy_chế về quản_lý , vận_hành , kết_nối , bảo_đảm an_toàn thông_tin mạng và kế_hoạch đưa các ứng_dụng , dịch_vụ dùng chung của địa_phương trên Mạng_truyền số_liệu chuyên_dùng .
+
+3 . Phối_hợp với Cục Bưu_điện Trung_ương triển_khai các nền_tảng , hệ_thống quản_lí tập_trung .
+
+4 . Phối_hợp với doanh_nghiệp viễn_thông trong công_tác triển_khai kết_nối và xử_lí_sự_cố đối_với mạng truy_nhập cấp Ii .
+
+Điều 15 . Trách_nhiệm của các tổ_chức , doanh_nghiệp liên_quan đến hoạt_động cung_cấp dịch_vụ
+
+1 . Thực_hiện cung_cấp dịch_vụ bảo_đảm chất_lượng dịch_vụ và an_toàn thông_tin mạng quy_định tại Thông_tư và pháp_luật liên_quan hiện_hành .
+
+2 . Tổ_chức , doanh_nghiệp liên_quan đến hoạt_động cung_cấp hạ_tầng kết_nối cho mạng truy_nhập cấp Ii có trách_nhiệm xác_định và trình cơ_quan có thẩm_quyền phê_duyệt cấp_độ và triển_khai đầy_đủ phương_án bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ tương_ứng .
+
+3 . Thực_hiện chế_độ báo_cáo theo quy_định tại Điều 12 của Thông_tư này .
+
+Điều 16 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 3 năm 2024 .
+
+2 . Thông_tư này thay_thế <TT rel="None"> Thông_tư số 27/2017/TT-BTTTT ngày 20 tháng 10 năm 2017 </TT> của Bộ Thông_tin và Truyền_thông quy_định về quản_lý , vận_hành , kết_nối , sử_dụng và bảo_đảm an_toàn thông_tin trên Mạng_truyền số_liệu chuyên_dùng của các cơ_quan Đảng , Nhà_nước và <TT rel="None"> Thông_tư số 12/2019/TT-BTTTT ngày 05 tháng 11 năm 2019 </TT> của Bộ Thông_tin và Truyền_thông sửa_đổi , bổ_sung một_số điều của <TT rel="None"> Thông_tư số 27/2017/TT-BTTTT </TT>.
+
+3 . Trong quá_trình triển_khai thực_hiện , nếu có vấn_đề vướng_mắc , các cơ_quan , tổ_chức liên_quan phản_ánh kịp_thời về Bộ Thông_tin và Truyền_thông ( Cục Bưu_điện Trung_ương ) để xem_xét , bổ_sung , sửa_đổi . / .

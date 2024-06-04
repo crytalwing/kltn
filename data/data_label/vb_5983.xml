@@ -1,0 +1,91 @@
+Thông_tư số 13/2021/tt-btttt ngày 29 tháng 10 năm 2021 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của chính_phủ quy_định chi_tiết thi_hành một_số điều <LT rel="CC"> Luật tiêu_chuẩn và quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về yêu_cầu_an_toàn điện cho thiết_bị đầu_cuối kết_nối_mạng viễn_thông và công_nghệ thông_tin .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về yêu_cầu_an_toàn điện cho thiết_bị đầu_cuối kết_nối_mạng viễn_thông và công_nghệ thông_tin ( qcvn 22 : 2021 / bt ) .
+
+Điều 2 . Bãi_bỏ quy_định tại 2 . 1 , 2 . 2 và 2 . 3 của Quy_chuẩn kĩ_thuật quốc_gia về an_toàn điện cho các thiết_bị đầu_cuối viễn_thông , Ký_hiệu Qcvn 22 : 2010 / bt quy_định tại Khoản 21 Điều 1 <TT rel="DC"> Thông_tư số 18/2010/TT-BTTTT ngày 30 tháng 7 năm 2010 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_chuẩn kĩ_thuật quốc_gia về viễn_thông .
+
+Điều 3 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2022 .
+
+Điều 4 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 22 : 2021 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Yêu_cầu_an_toàn Điện Cho Thiết_bị Đầu_cuối Kết_nối_mạng Viễn_thông Và Công_nghệ_thông_tin
+
+National technical regulation on electrical safety requirements for terminal equipment to be connected to information and communication networks
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Tổng_quan
+
+2 . 2 . Kết_nối thiết_bị
+
+2 . 2 . 1 . Các yêu_cầu chung
+
+2 . 2 . 2 . Các loại mạch kết_nối
+
+2 . 3 . Các mạch Es1
+
+2 . 3 . 1 . Giới_hạn
+
+2 . 3 . 2 . Bảo_vệ chống tiếp_xúc với các mạch Es1
+
+2 . 4 . Các mạch Es2
+
+2 . 4 . 1 . Các giới_hạn
+
+2 . 4 . 2 . Bảo_vệ chống tiếp_xúc với các mạch Es2
+
+2 . 5 . Các mạch Es3
+
+2 . 5 . 1 . Giới_hạn
+
+2 . 5 . 2 . Bảo_vệ chống tiếp_xúc với các mạch Es3
+
+2 . 6 . Bảo_vệ khỏi nguy_hiểm trong thiết_bị đối_với người vận_hành các mạng Ict và người sử_dụng thiết_bị khác nối vào mạng
+
+2 . 6 . 1 . Bảo_vệ khỏi mạch Es3
+
+2 . 6 . 2 . Cách_li mạng Ict với đất
+
+2 . 6 . 3 . Dòng_điện tiếp_xúc tới các mạng Ict
+
+2 . 6 . 4 . Tổng_dòng_điện tiếp_xúc từ các mạng Ict
+
+2 . 7 . Bảo_vệ người sử_dụng thiết_bị khỏi hiện_tượng quá áp trên các mạng Ict
+
+2 . 8 . Bảo_vệ hệ_thống dây của mạng Ict khỏi hiện_tượng quá nhiệt
+
+3 . Quy_định Về Quản_lý
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+5 . Tổ_chức Thực_hiện

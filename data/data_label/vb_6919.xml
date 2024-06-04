@@ -1,0 +1,85 @@
+Thông_tư số 23/2019/tt-btnmt ngày 25 tháng 12 năm 2019 của bộ tài_nguyên và môi_trường
+
+Căn_cứ <LT rel="CC"> Luật Đo_đạc và bản_đồ ngày 14 tháng 6 năm 2018 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 27/2019/NĐ-CP ngày 13 tháng 3 năm 2019 </NĐ> của Chính_phủ quy_định chi_tiết một_số điều của <LT rel="CC"> Luật Đo_đạc và bản_đồ </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 4 </NĐ> nam 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Cục_trưởng Cục Đo_đạc , Bản_đồ và Thông_tin địa_lí Việt_nam , Vụ_trưởng Vụ Pháp_chế và Vụ_trưởng Vụ Khoa_học và Công_nghệ ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành <TT rel="None"> Thông_tư quy_định kĩ_thuật về mô_hình cấu_trúc , nội_dung cơ_sở dữ_liệu nền địa_lí </TT> quốc_gia tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 .
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định kĩ_thuật về mô_hình cấu_trúc , nội_dung cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với các cơ_quan , tổ_chức , cá_nhân liên_quan đến các hoạt_động xây_dựng , vận_hành , cập_nhật , lưu_trữ , cung_cấp , sử_dụng mô_hình cấu_trúc , nội_dung cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 .
+
+Điều 3 . Giải_thích từ_ngữ và chữ_viết tắt
+
+Trong thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Gml ( Geography Markup_language ) là ngôn_ngữ đánh_dấu địa_lí mở_rộng dùng trong khuôn_thức trao_đổi dữ_liệu nền địa_lí quốc_gia .
+
+2 . Gdb ( Ge oda ta base ) là một định_dạng lưu_trữ dữ_liệu của cơ_sở dữ_liệu nền địa_lí quốc_gia .
+
+3 . Shp ( Shape file ) là một định_dạng lưu_trữ dữ_liệu của cơ_sở dữ_liệu nền địa_lí quốc_gia .
+
+Điều 4 . Các yêu_cầu kĩ_thuật về mô_hình cấu_trúc , nội_dung cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000
+
+Các yêu_cầu kĩ_thuật về mô_hình cấu_trúc , nội_dung cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 bao_gồm yêu_cầu về mô_hình cấu_trúc , nội_dung ; yêu_cầu thu_nhận dữ_liệu chi_tiết cho mô_hình cấu_trúc và nội_dung đã thiết_kế ; yêu_cầu về chất_lượng dữ_liệu được thu_nhận trong mô_hình cấu_trúc ; yêu câu trình_bày dữ_liệu dưới dạng đồ_hoạ ; cụ_thể tuân theo các quy_định sau đây :
+
+1 . Hệ quy chiếu toạ_độ , hệ quy chiếu thời_gian thực_hiện theo Quy_chuẩn kĩ_thuật quốc_gia về chuẩn thông_tin địa_lí cơ_sở ban_hành kèm theo <TT rel="DC"> Thông_tư số 02/2012/TT-BTNMT ngày 19 tháng 3 năm 2012 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường ( qcvn42 : 2012 / btnmt ) ; <TT rel="None"> Thông_tư số 973/2001/TT-TCĐC ngày 20 tháng 6 năm 2001 </TT> của Tổng_cục_trưởng Tổng_cục Địa_chính ( nay là Bộ Tài_nguyên và Môi_trường ) về hướng_dẫn áp_dụng Hệ quy chiếu và Hệ toạ_độ quốc_gia Vn - 2000 .
+
+2 . Quy_định về mô_hình cấu_trúc và nội_dung cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 , thực_hiện theo Phụ_lục số 1 ban_hành kèm theo Thông_tư này .
+
+3 . Quy_định về thu_nhận dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 , thực_hiện theo Phụ_lục số 2 ban_hành kèm theo Thông_tư này .
+
+4 . Quy_định về chất_lượng cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 , thực_hiện theo Phụ_lục số 3 ban_hành kèm theo Thông_tư này .
+
+5 . Quy_định về trình_bày cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 , thực_hiện theo Phụ_lục số 4 ban_hành kèm theo Thông_tư này .
+
+Điều 5 . Siêu dữ_liệu của cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000
+
+Siêu dữ_liệu của cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 thực_hiện theo quy_định về siêu dữ_liệu tại Phụ_lục 8 của Qcvn 42 : 2012 / btnmt .
+
+Điều 6 . Định_dạng dữ_liệu
+
+1 . Cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 phải được xây_dựng , vận_hành , cập_nhật , lưu_trữ , cung_cấp ở định_dạng Gml và các định_dạng bổ_sung Gdb , Shp .
+
+2 . Quy_định về định_dạng Gml
+
+a ) Tên định_dạng : Gml v3 . 3
+
+b ) Ngôn_ngữ : vi ( Việt_nam ) .
+
+c ) Bảng mã kí_tự : 004 - Utf8 .
+
+3 . Quy_định về định_dạng Gdb
+
+a ) Tên định_dạng : Gdb - Esri .
+
+b ) Ngôn_ngữ : vi ( Việt_nam ) .
+
+c ) Bảng mã kí_tự : 004 - Utf8 .
+
+4 . Quy_định về định_dạng Shp
+
+a ) Tên định_dạng : Shape - Esri .
+
+b ) Ngôn_ngữ : vi ( Việt_nam ) .
+
+c ) Bảng mã kí_tự : 004 - Utf8 .
+
+Điều 7 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành từ ngày 10 tháng 02 năm 2020 . Thông_tư này thay_thế <TT rel="None"> Thông_tư số 55/2014/TT-BTNMT ngày 12 tháng 9 năm 2014 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định kĩ_thuật về mô_hình cấu_trúc , nội_dung cơ_sở dữ_liệu nền địa_lí tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 .
+
+Điều 8 . Tổ_chức thực_hiện
+
+1 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và các cơ_quan , tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , Quyết_định . / .

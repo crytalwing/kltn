@@ -1,0 +1,135 @@
+Thông_tư số 40/2017/tt-btnmt ngày 23 tháng 10 năm 2017 của bộ tài_nguyên và môi_trường
+
+Căn_cứ Luật khí_tượng thuỷ_văn ngày 23 tháng 11 năm 2015 ;
+
+Căn_cứ Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Tổng_cục_trưởng Tổng_cục Khí_tượng Thuỷ_văn , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư quy_định kĩ_thuật chuẩn bộ dữ_liệu về quan_trắc , điều_tra , khảo_sát_khí_tượng , thuỷ_văn , hải_văn , môi_trường không_khí và nước .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định kĩ_thuật chuẩn bộ dữ_liệu về quan_trắc , điều_tra , khảo_sát_khí_tượng thuỷ_văn , môi_trường không_khí và nước .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với cơ_quan , tổ_chức , cá_nhân trong nước ; tổ_chức , cá_nhân nước_ngoài ở Việt_nam có liên_quan đến xây_dựng cơ_sở dữ_liệu khí_tượng thuỷ_văn quốc_gia và quản_lý , khai_thác và trao_đổi thông_tin , dữ_liệu khí_tượng thuỷ_văn .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Chuẩn_bộ dữ_liệu khí_tượng thuỷ_văn là cách_thức quy_định nội_dung , cấu_trúc , kiểu thông_tin và định_dạng lưu_trữ dữ_liệu cho bộ dữ_liệu khí_tượng thuỷ_văn được sử_dụng khi giao_nộp , trao_đổi dữ_liệu .
+
+2 . Siêu dữ_liệu khí_tượng thuỷ_văn là dữ_liệu đặc_tả khí_tượng thuỷ_văn mô_tả nội_dung , định_dạng , chất_lượng , nguồn_gốc , phương_pháp xử_lí và các thông_tin đặc_tính khác của dữ_liệu khí_tượng thuỷ_văn .
+
+3 . Cấu_trúc dữ_liệu là cách tổ_chức dữ_liệu trong máy_tính thể_hiện sự phân_cấp , liên_kết của các nhóm dữ_liệu .
+
+4 . Kiểu thông_tin của dữ_liệu là tên , kiểu giá_trị và độ dài trường thông_tin của dữ_liệu .
+
+5 . Hệ cao_độ quốc_gia là hệ cao_độ được sử_dụng thống_nhất trong toàn_quốc có điểm gốc cao_độ đặt tại Hòn Dấu - Hải_phòng .
+
+6 . Vn - 2000 là tên hệ quy chiếu và hệ toạ_độ Quốc_gia hiện_hành của Việt_nam được thống_nhất áp_dụng trong cả nước theo Quyết_định số 83/2000/QĐ-TTg ngày 12 tháng 7 năm 2000 của Thủ_tướng Chính_phủ về việc áp_dụng Hệ quy chiếu và Hệ toạ_độ quốc_gia Vn - 2000 .
+
+7 . Cao_độ hải_đồ ( số " 0 hải_đồ " hay số 0 độ sâu ) là mặt_phẳng chuẩn quy_ước được chọn làm gốc để đo độ sâu của biển , mặt này là một mặt_phẳng nằm ngang , được quy_định cho từng vùng_biển sử_dụng số " 0 " này và thường được chọn là mực nước thấp nhất có_thể có theo điều_kiện thiên_văn ( nước_ròng thấp nhất ) tại vùng này . Số 0 độ sâu Nhà_nước là mặt mực chuẩn trùng với mực nước triều thấp nhất lịch_sử tại trạm Hòn Dấu .
+
+8 . Xml ( extensible Markup_language ) là ngôn_ngữ đánh_dấu mở_rộng được sử_dụng để xây_dựng tài_liệu văn_bản có cấu_trúc phục_vụ mục_đích trao_đổi dữ_liệu .
+
+Chương_ii
+
+Quy_định Kỹ_thuật
+
+Điều 4 . Hệ cao_độ , toạ_độ không_gian và hệ quy chiếu thời_gian
+
+Thông_tin , dữ_liệu về quan_trắc , điều_tra , khảo_sát_khí_tượng thuỷ_văn , môi_trường không_khí và nước phải áp_dụng hệ cao_độ , toạ_độ không_gian và hệ quy chiếu thời_gian như sau :
+
+1 . Hệ cao_độ :
+
+a ) Sử_dụng hệ cao_độ quốc_gia đối_với thông_tin , dữ_liệu khí_tượng , thuỷ_văn ;
+
+b ) Sử_dụng cao_độ hải_đồ đối_với thông_tin , dữ_liệu hải_văn .
+
+2 . Hệ toạ_độ không_gian : Áp_dụng Hệ quy chiếu và Hệ toạ_độ quốc_gia Vn - 2000 .
+
+3 . Hệ quy chiếu thời_gian : Ngày , tháng , năm theo năm Dương_lịch ; giờ , phút , giây theo múi_giờ Việt_nam ( utc + 07 : 00 ) .
+
+Điều 5 . Nội_dung , cấu_trúc , kiểu thông_tin , dữ_liệu
+
+1 . Nội_dung thông_tin , dữ_liệu :
+
+a ) Thông_tin , dữ_liệu khí_tượng bề_mặt : Nhiệt_độ không_khí , nhiệt_độ điểm sương , độ_ẩm không_khí , áp_suất khí_quyển , bốc_hơi , thời_gian nắng , hướng và tốc_độ gió , mây , lượng mưa , nhiệt_độ đất , trạng_thái mặt_đất , tầm nhìn ngang , các hiện_tượng khí_tượng ;
+
+b ) Thông_tin , dữ_liệu thuỷ_văn : Nhiệt_độ nước sông , mực nước , độ rộng mặt_nước , chiều dài lưu_vực , diện_tích lưu_vực , diện_tích mặt_cắt , tốc_độ , lưu_lượng nước , độ sâu , độ đục , độ dốc , hệ_số nhám lòng_sông , tổng_lượng dòng_chảy , lượng triều , lưu_lượng chất lơ_lửng , hàm_lượng chất lơ_lửng , tổng_lượng chất lơ_lửng ;
+
+c ) Thông_tin , dữ_liệu khí_tượng nông_nghiệp : Nhiệt_độ nước trên ruộng , độ_ẩm các lớp đất sâu , xáo_trộn không_khí tại lớp không_khí gần bề_mặt , lượng nước trong đất , lượng nước có_ích ;
+
+d ) Thông_tin , dữ_liệu khí_tượng hải_văn : Gió bề_mặt_biển , tầm nhìn xa phía biển , mực nước biển , mực nước biển trung_bình , thuỷ_triều , dao_động dư , loại sóng biển , yếu_tố sóng biển , dạng sóng , cấp sóng , nhiệt_độ bề_mặt_biển , trạng_thái mặt_biển , độ muối nước biển , sáng biển , các hiện_tượng khí_tượng hải_văn nguy_hiểm ;
+
+đ ) Thông_tin , dữ_liệu môi_trường không_khí và nước : Thành_phần hoá_học của nước mưa , các thông_số vật_lý , các thông_số_hoá_học của môi_trường không_khí , các thông_số vật_lý , các thông_số_hoá_học của môi_trường nước sông , hồ , biển , thông_tin về các vật trôi_nổi trên sông hồ ;
+
+e ) Thông_tin , dữ_liệu khí_tượng bức_xạ : Trực xạ , cán_cân bức_xạ , phản_xạ , tán_xạ , tổng_xạ , albedo , thời sai , độ cao mặt_trời , màu_sắc bầu_trời , trạng_thái mặt đệm , trạng_thái đĩa mặt_trời , độ trong suốt và độ vẩn_đục khí_quyển ;
+
+g ) Thông_tin , dữ_liệu ô dôn - bức_xạ cực tím : Tổng_lượng ô dôn , cường_độ bức_xạ cực tím ;
+
+h ) Thông_tin , dữ_liệu thám không vô_tuyến : Nhiệt_độ không_khí , độ_ẩm không_khí , áp_suất khí_quyển và gió ;
+
+i ) Thông_tin , dữ_liệu gió Pilot : Gió trên cao ;
+
+k ) Thông_tin , dữ_liệu điều_tra , khảo_sát : thuỷ_văn , khí_tượng hải_văn , môi_trường nước biển .
+
+2 . Cấu_trúc và kiểu thông_tin , dữ_liệu bao_gồm phân_cấp thông_tin , kí_hiệu , kiểu dữ_liệu , độ dài trường , đơn_vị và mô_tả được quy_định cụ_thể tại Phụ_lục 01 Thông_tư này .
+
+Điều 6 . Siêu dữ_liệu
+
+1 . Nội_dung , cấu_trúc và kiểu thông_tin của siêu dữ_liệu quan_trắc , điều_tra , khảo_sát_khí_tượng , thuỷ_văn , hải_văn , môi_trường không_khí và nước được xây_dựng tuân_thủ theo chuẩn dữ_liệu Dublin_core và phải được mã_hoá .
+
+2 . Siêu dữ_liệu quan_trắc , điều_tra , khảo_sát_khí_tượng , thuỷ_văn , hải_văn , môi_trường không_khí và nước gồm :
+
+a ) Nhóm thông_tin nội_dung : nhan_đề , chủ_đề , mô_tả , loại , tóm_tắt ;
+
+b ) Nhóm thông_tin bản_quyền : tác_giả , tác_giả phụ , nhà xuất_bản , bản_quyền ;
+
+c ) Nhóm thông_tin thuyết_minh : ngày_tháng , nơi chứa , liên_kết , định_danh , ngôn_ngữ .
+
+3 . Siêu dữ_liệu được lập trong quá_trình xây_dựng cơ_sở dữ_liệu và được cập_nhật thường_xuyên .
+
+4 . Cấu_trúc và kiểu thông_tin của siêu dữ_liệu bao_gồm phân_cấp thông_tin , kí_hiệu trường thông_tin , kiểu giá_trị và mô_tả được quy_định chi_tiết tại Phụ_lục 02 Thông_tư này .
+
+Điều 7 . Định_dạng dữ_liệu và siêu dữ_liệu
+
+1 . Định_dạng dữ_liệu và siêu dữ_liệu sử_dụng theo ngôn_ngữ Xml .
+
+2 . Dữ_liệu và siêu dữ_liệu được trao_đổi , phân_phối dưới dạng tệp dữ_liệu thông_qua các thiết_bị lưu_trữ và các dịch_vụ truyền dữ_liệu .
+
+Điều 8 . Kiểm_tra chất_lượng nội_dung thông_tin , dữ_liệu
+
+Việc kiểm_tra chất_lượng nội_dung thông_tin , dữ_liệu được thực_hiện theo các hạng_mục sau :
+
+1 . Kiểm_tra nội_dung , cấu_trúc , kiểu thông_tin , dữ_liệu .
+
+2 . Kiểm_tra tính đầy_đủ của thông_tin , dữ_liệu .
+
+3 . Kiểm_tra lược đồ ứng_dụng trong trao_đổi , phân_phối và cập_nhật dữ_liệu và siêu dữ liêu .
+
+4 . Chi_tiết hạng_mục và mức_độ kiểm_tra được quy_định tại Phụ_lục 03 Thông_tư này .
+
+Chương_iii
+
+Tổ_chức Thực_hiện
+
+Điều 9 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 8 tháng 12 năm 2017 .
+
+Điều 10 . Trách_nhiệm thực_hiện
+
+1 . Chánh Văn_phòng Bộ , Tổng_cục_trưởng Tổng_cục Khí_tượng Thuỷ_văn , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Vụ_trưởng Vụ Pháp_chế , Thủ_trưởng các đơn_vị trực_thuộc Bộ , Giám_đốc Sở Tài_nguyên và Môi_trường các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Tổng_cục Khí_tượng Thuỷ_văn có trách_nhiệm hướng_dẫn , kiểm_tra , giám_sát việc thực_hiện Thông_tư này .
+
+3 . Trong quá_trình thực_hiện Thông_tư này , nếu có khó_khăn , vướng_mắc , các cơ_quan , tổ_chức , cá_nhân phản_ánh về Bộ Tài_nguyên và Môi_trường để xem_xét , giải_quyết . / .

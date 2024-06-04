@@ -1,0 +1,301 @@
+Thông_tư số 28/2020/tt-btttt ngày 01 tháng 10 năm 2020 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều Luật tiêu_chuẩn và quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về chất_lượng dịch_vụ truyền_hình cáp số ứng_dụng công_nghệ Dvb - t2 .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về chất_lượng dịch_vụ truyền_hình cáp số ứng_dụng công_nghệ Dvb - t2 ( qcvn 121 : 2020 / bt ) .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 4 năm 2021 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 121 : 2020 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Chất_lượng Dịch_vụ Truyền_hình_cáp Số Ứng_dụng_công_nghệ_dvb - t2
+
+National technical regulation on quality of digital cable television service applied to Dvb - t2 technology
+
+Lời_nói_đầu
+
+Qcvn 121 : 2020 / bt do Cục Phát_thanh , truyền_hình và thông_tin điện_tử biên_soạn , Vụ Khoa_học và Công_nghệ trình_duyệt , Bộ Khoa_học và Công_nghệ thẩm_định , Bộ Thông_tin và Truyền_thông ban_hành kèm theo Thông_tư số 28/2020/TT-BTTTT ngày 01 tháng 10 năm 2020 .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Chất_lượng Dịch_vụ Truyền_hình_cáp Số Ứng_dụng_công_nghệ_dvb - t2
+
+National technical regulation on quality of digital cable television service applied to Dvb - t2 technology
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn này quy_định về các yêu_cầu chất_lượng dịch_vụ truyền_hình cáp số ứng_dụng công_nghệ Dvb - t2 .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn này áp_dụng đối_với cơ_quan quản_lí nhà_nước và các doanh_nghiệp cung_cấp dịch_vụ truyền_hình cáp số Dvb - t2 để thực_hiện quản_lí chất_lượng theo các quy_định của Nhà_nước và Bộ Thông_tin và Truyền_thông .
+
+Quy_chuẩn này cũng là cơ_sở để người sử_dụng giám_sát chất_lượng dịch_vụ truyền_hình cáp số Dvb - t2 .
+
+1 . 3 . Tài_liệu viện_dẫn
+
+Iec 60728 - 1 : 2014 Cable networks for television signals , sound signals and interactive services - Part 1 : System performance of forward paths .
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 4 . 1 . Dịch_vụ truyền_hình cáp số ứng_dụng công_nghệ Dvb - t2
+
+Dịch_vụ truyền_hình cáp số ứng_dụng công_nghệ Dvb - t2 sau đây gọi tắt là dịch_vụ truyền_hình cáp số Dvb - t2 là loại_hình dịch_vụ phát_thanh , truyền_hình cáp kĩ_thuật_số ứng_dụng công_nghệ Dvb - t2 đề cung_cấp các kênh chương_trình phát_thanh , truyền_hình ; các chương_trình phát_thanh , truyền_hình đến người sử_dụng dịch_vụ .
+
+1 . 4 . 2 . Doanh_nghiệp cung_cấp dịch_vụ ( dncdv )
+
+Doanh_nghiệp cung_cấp dịch_vụ truyền_hình cáp số Dvb - t2 , được cấp phép và hoạt_động theo các quy_định của Nhà_nước và Bộ Thông_tin và Truyền_thông .
+
+1 . 4 . 3 . Thuê_bao truyền_hình cáp số Dvb - t2
+
+Các tổ_chức , cá_nhân Việt_nam hoặc nước_ngoài sử_dụng dịch_vụ truyền_hình cáp số Dvb - t2 trên lãnh_thổ Việt_nam của doanh_nghiệp cung_cấp dịch_vụ .
+
+1 . 4 . 4 . Điểm kết_nối thuê_bao truyền_hình cáp số Dvb - t2
+
+Điểm cấp tín_hiệu truyền_hình cáp tại vị_trí thuê_bao đăng_kí dịch_vụ truyền_hình cáp số Dvb - t2 , sau đây gọi tắt là điểm kết_nối thuê_bao .
+
+1 . 4 . 5 . Điểm tập_trung thuê_bao truyền_hình cáp số Dvb - t2
+
+Điểm chuyển_đổi tín_hiệu từ hệ_thống cáp đường_trục vào hệ_thống cáp phân_phối ( Hub ) hoặc vào trung_tâm xử_lí và chuyển_tiếp tín_hiệu ( Sub_headend ) , sau đây gọi tắt là điểm tập_trung thuê_bao .
+
+1 . 4 . 6 . Chất_lượng dịch_vụ
+
+Kết_quả tổng_hợp của các chỉ_tiêu thể_hiện mức_độ hài_lòng của người sử_dụng dịch_vụ đối_với dịch_vụ đó .
+
+1 . 4 . 7 . Thiết_bị đo chuyên_dùng
+
+Thiết_bị đo các chỉ_tiêu kĩ_thuật tương_ứng và được kiểm_định bởi cơ_quan , tổ_chức có thẩm_quyền .
+
+1 . 5 . Chữ_viết tắt
+
+1 . 6 . Điểm đo và số_lượng mẫu đo
+
+Điểm đo tín_hiệu truyền_hình cáp số Dvb - t2 được xác_định là tại điểm kết_nối thuê_bao .
+
+Số_lượng mẫu đo : 01 mẫu / điểm tập_trung thuê_bao . Trường_hợp cơ_quan quản_lí nhà_nước thực_hiện đo kiểm phục_vụ_việc kiểm_tra , giám_sát theo quy_định , số_lượng mẫu đo tại điểm tập_trung thuê_bao có_thể nhiều hơn nhưng không quá số_lượng thuê_bao có trong điểm tập_trung thuê_bao .
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Các chỉ_tiêu kĩ_thuật
+
+2 . 1 . 1 . Mức tín_hiệu cao_tần
+
+Định_nghĩa : Mức biên_độ của tín_hiệu cao_tần sau điều_chế tại mỗi kênh truyền_hình cáp số Dvb - t2 ( tính bằng dB V ) đo tại điểm kết_nối thuê_bao .
+
+Chỉ_tiêu : Mức tín_hiệu cao_tần đo được tại điểm kết_nối thuê_bao truyền_hình cáp số Dvb - t2 phải đáp_ứng yêu_cầu như Bảng 1 .
+
+Bảng 1 - Chỉ_tiêu mức tín_hiệu cao_tần
+
+Phương_pháp xác_định : Sử_dụng thiết_bị đo chuyên_dùng xác_định_mức tín_hiệu cao_tần của tín_hiệu thu được tại điểm kết_nối thuê_bao truyền_hình cáp số Dvb - t2 của Dncdv .
+
+Sơ_đồ đo như Hình 1 .
+
+Hình 1 - Sơ_đồ kết_nối đo mức tín_hiệu cao_tần
+
+2 . 1 . 2 . Băng_thông của mỗi kênh
+
+Định_nghĩa : Độ rộng phổ tần_số cho phép của mỗi kênh truyền_hình cáp số Dvb - t2 .
+
+Chỉ_tiêu : Tối_đa 8 MHz .
+
+Phương_pháp xác_định : Sử_dụng thiết_bị đo chuyên_dùng xác_định băng_thông tất_cả các kênh truyền_hình cáp thu được tại điểm kết_nối thuê_bao truyền_hình cáp số Dvb - t2 của đơn_vị cung_cấp dịch_vụ .
+
+Sơ_đồ đo như Hình 2 .
+
+Hình 2 - Sơ_đồ kết_nối đo băng_thông mỗi kênh
+
+2 . 1 . 3 . Sai_lệch đáp tuyến biên_độ tần_số tín_hiệu cao_tần
+
+Định_nghĩa : Chỉ_tiêu đánh_giá độ đồng_đều về biên_độ tín_hiệu trên toàn băng_thông kênh truyền .
+
+Chỉ_tiêu : Tối_đa 8 dB .
+
+Phương_pháp xác_định : Sử_dụng thiết_bị đo chuyên_dùng để xác_định đáp tuyến biên_độ tần_số của tín_hiệu .
+
+Sơ_đồ đo như Hình 3 .
+
+Hình 3 - Sơ_đồ kết_nối đo đáp tuyến biên_độ tần_số tín_hiệu cao_tần
+
+2 . 1 . 4 . Độ_di_tần
+
+Định_nghĩa : Độ lệch lớn nhất giữa tần_số tức_thời của tín_hiệu Rf so với tần_số danh định .
+
+Chỉ_tiêu : Độ_di_tần tối_đa cho phép là 30 kHz .
+
+Phương_pháp xác_định : Sử_dụng thiết_bị đo chuyên_dùng để xác_định độ di_tần tại điểm kết_nối thuê_bao .
+
+Sơ_đồ đo như Hình 4 .
+
+Hình 4 - Sơ_đồ kết_nối đo độ di_tần
+
+2 . 1 . 5 . Tỷ_số tín_hiệu cao_tần trên tạp_âm
+
+Định_nghĩa : Tỷ_số tín_hiệu cao_tần trên tạp_âm ( s / n ) là tỉ_số giữa mức công_suất sóng mang trên mức công_suất tạp_âm .
+
+Chỉ_tiêu : S / n được đo tại điểm kết_nối thuê_bao truyền_hình cáp số Dvb - t2 phải đáp_ứng yêu_cầu như Bảng 2 .
+
+Bảng 2 - Chỉ_tiêu tỉ_số tín_hiệu cao_tần trên tạp_âm
+
+Phương_pháp xác_định : Điều_chỉnh máy phân_tích về kênh cần đo , lựa_chọn tần_số trung_tâm và cài_đặt mức để có_thể hiển_thị toàn_bộ băng tần .
+
+Đo mức đỉnh của tín_hiệu cần đo , máy đo sẽ hiển_thị tỉ_số công_suất tín_hiệu trên công_suất tạp_âm .
+
+Sơ_đồ đo như Hình 5 .
+
+Hình 5 - Sơ_đồ kết_nối đo tỉ_số S / n
+
+2 . 1 . 6 . Tỷ_số lỗi bit
+
+Định_nghĩa : Tỷ_số lỗi bit ( ber ) là thông_số cơ_bản xác_định chất_lượng kết_nối của đường truyền_dẫn số ; thông_số Ber là tỉ_lệ số bit lỗi trên tổng_số bit được truyền .
+
+Chỉ_tiêu : Ber 10-4 trước giải_mã Reed - Solomon .
+
+Phương_pháp xác_định : Sử_dụng thiết_bị đo chuyên_dùng xác_định tỉ_số bit lỗi trên tổng_số bit được truyền . Thiết_bị thu đo phải được điều_chỉnh đề loại_bỏ méo tuyến_tính của mạng truyền_hình cáp .
+
+Sơ_đồ đo như Hình 6 .
+
+Hình 6 - Sơ_đồ kết_nối đo tỉ_số Ber
+
+2 . 1 . 7 . Tỷ_số lỗi điều_chế
+
+Định_nghĩa : Tỷ_số lỗi điều_chế ( mer ) là thông_số đặc_trưng cho tính chính_xác của tín_hiệu và khả_năng khôi_phục của tín_hiệu được điều_chế .
+
+Chỉ_tiêu : Mer 32 dB .
+
+Phương_pháp xác_định : Thiết_lập tần_số sóng mang của bộ điều_chế Rf theo kênh tần_số mà phép đo sẽ thực_hiện .
+
+Sử_dụng thiết_bị đo chuyên_dùng phân_tích chòm_sao tín_hiệu để xác_định chỉ_số Mer .
+
+Sơ_đồ đo như Hình 7 .
+
+Hình 7 - Sơ_đồ kết_nối đo tỉ_số Mer
+
+2 . 1 . 8 . Độ rung pha
+
+Định_nghĩa : Độ rung pha là độ biến_đổi về pha hoặc tần_số của tín_hiệu trong mạng truyền_hình cáp số Dvb - t2 .
+
+Chỉ_tiêu : Độ rung pha tín_hiệu phải nằm trong giải 5 .
+
+Phương_pháp xác_định : Sử_dụng thiết_bị đo chuyên_dùng xác_định độ rung pha của tín_hiệu thu được tại điểm kết_nối thuê_bao truyền_hình cáp số Dvb - t2 của đơn_vị cung_cấp dịch_vụ .
+
+Hình 8 - Sơ_đồ kết_nối đo độ rung pha
+
+2 . 2 . Các chỉ_tiêu về chất_lượng phục_vụ
+
+2 . 2 . 1 . Độ khả_dụng của dịch_vụ
+
+Định_nghĩa : Độ khả_dụng của dịch_vụ ( d ) là tỉ_lệ thời_gian trong đó Dncdv sẵn_sàng cung_cấp dịch_vụ cho khách_hàng :
+
+trong đó : Tr : Thời_gian xác_định độ khả_dụng của dịch_vụ ;
+
+Tf : Thời_gian sự_cố thuộc trách_nhiệm Dncdv và được tính theo công_thức :
+
+N : Tổng_số lần xảy ra sự_cố trong thời_gian xác_định độ khả_dụng ;
+
+Ri : Tổng_số thuê_bao tại thời_điểm xảy ra sự_cố thứ i ;
+
+ri : Số thuê_bao bị mất liên_lạc trong sự_cố thứ i ;
+
+ti : Thời_gian sự_cố thứ i .
+
+Chỉ_tiêu : Độ khả_dụng của dịch_vụ 99 , 5 % .
+
+Phương_pháp xác_định : Phương_pháp thống_kê . Thống_kê toàn_bộ sự_cố trong thời_gian xác_định độ khả_dụng . Thời_gian xác_định độ khả_dụng tối_thiểu là 3 tháng .
+
+2 . 2 . 2 . Thời_gian thiết_lập dịch_vụ
+
+Định_nghĩa : Thời_gian thiết_lập dịch_vụ ( e ) được tính từ lúc Dncdv và khách_hàng kí hợp_đồng cung_cấp dịch_vụ truyền_hình cáp số Dvb - t2 cho tới khi khách_hàng có_thể sử_dụng được dịch_vụ này . Nếu Dncdv không_thể kí hợp_đồng cung_cấp dịch_vụ thì trong vòng 3 ngày kể từ thời_điểm nhận được phiếu yêu_cầu cung_cấp dịch_vụ của khách_hàng , Dncdv phải có văn_bản thông_báo cho khách_hàng về việc từ_chối kí_kết_hợp_đồng dịch_vụ và nêu rõ lí_do từ_chối .
+
+Chỉ_tiêu : Ít_nhất 90 % số hợp_đồng cung_cấp dịch_vụ có thời_gian thiết_lập dịch_vụ trong khoảng thời_gian quy_định như sau :
+
+Trường_hợp không lắp_đặt đường thuê_bao , E 5 ngày .
+
+Trường_hợp có lắp_đặt đường thuê_bao , E được cộng thêm thời_gian lắp_đặt đường thuê_bao Ei .
+
+- Nội_thành , thị_xã : Ei 7 ngày ( Không tính ngày lễ , thứ 7 và chủ_nhật ) ;
+
+- Thị_trấn , xã , làng : Ei 15 ngày ( Không tính ngày lễ , thứ 7 và chủ_nhật ) .
+
+Phương_pháp xác_định : Phương_pháp thống_kê . Thống_kê toàn_bộ yêu_cầu thiết_lập dịch_vụ truyền_hình cáp số Dvb - t2 của Dncdv trong khoảng thời_gian ít_nhất là 3 tháng .
+
+2 . 2 . 3 . Thời_gian khắc_phục_dịch_vụ
+
+Định_nghĩa : Thời_gian khắc_phục_dịch_vụ được tính từ lúc Dncdv nhận được thông_báo về việc mất dịch_vụ từ phía khách_hàng hoặc từ hệ_thống_thiết_bị của doanh_nghiệp đến lúc dịch_vụ được khôi_phục .
+
+Chỉ_tiêu : Ít_nhất 90 % số lần mất dịch_vụ được khắc_phục trong khoảng thời_gian quy_định như sau :
+
+- Nội_thành , thị_xã : R 36 h ;
+
+- Thị_trấn , xã , làng : R 72 h .
+
+Phương_pháp xác_định : Phương_pháp thống_kê . Thống_kê đầy_đủ số_liệu khắc_phục_dịch_vụ trong khoảng thời_gian ít_nhất là 3 tháng .
+
+2 . 2 . 4 . Khiếu_nại của khách_hàng về chất_lượng dịch_vụ
+
+Định_nghĩa : Khiếu_nại của khách_hàng là việc khách_hàng phản_ánh sự không hài_lòng về chất_lượng dịch_vụ được báo cho Dncdv .
+
+Chỉ_tiêu :
+
+- Số khiếu_nại của khách_hàng bằng văn_bản về chất_lượng dịch_vụ 0 , 25 khiếu_nại / 100 khách_hàng / 3 tháng ;
+
+- Số khiếu_nại của khách_hàng qua các hình_thức khác ( gọi điện_thoại , nhắn_tin , gửi email , . . . ) về chất_lượng dịch_vụ 0 , 25 khiếu_nại / 100 khách_hàng / 3 tháng .
+
+Phương_pháp xác_định : Phương_pháp thống_kê . Thống_kê toàn_bộ số khiếu_nại của khách_hàng về chất_lượng dịch_vụ trong khoảng thời_gian 3 tháng liên_tiếp .
+
+2 . 2 . 5 . Hồi_âm khiếu_nại của khách_hàng
+
+Định_nghĩa : Hồi_âm khiếu_nại của khách_hàng là ý_kiến của Dncdv cho khách_hàng có khiếu_nại về việc tiếp_nhận và xem_xét giải_quyết .
+
+Chỉ_tiêu :
+
+- Dncdv phải có văn_bản hồi_âm cho 100 % khách_hàng khiếu_nại trong thời_hạn 02 ngày làm_việc kể từ thời_điểm tiếp_nhận khiếu_nại bằng đơn ;
+
+- Dncdv phải hồi_âm ( gọi điện_thoại , nhắn_tin , gửi email , . . . ) cho 100 % khách_hàng khiếu_nại trong thời_hạn 02 ngày làm_việc kể từ thời_điểm tiếp_nhận khiếu_nại không bằng văn_bản ( gọi điện_thoại , nhắn_tin , gửi email , . . . ) .
+
+Phương_pháp xác_định : Phương_pháp thống_kê . Thống_kê toàn_bộ hồi_âm cho khách_hàng về chất_lượng dịch_vụ trong khoảng thời_gian tối_thiểu là 3 tháng liên_tiếp .
+
+2 . 2 . 6 . Dịch_vụ hỗ_trợ khách_hàng
+
+Định_nghĩa : Dịch_vụ hỗ_trợ khách_hàng là dịch_vụ hỗ_trợ , hướng_dẫn , giải_đáp cho khách_hàng về dịch_vụ truyền_hình cáp số Dvb - t2 .
+
+Chỉ_tiêu :
+
+- Thời_gian cung_cấp dịch_vụ hỗ_trợ khách_hàng bằng nhân_công qua điện_thoại là 24 h trong ngày ;
+
+- Tỷ_lệ ( % ) cuộc_gọi tới dịch_vụ hỗ_trợ khách_hàng chiếm mạch thành_công và nhận được tín_hiệu trả_lời trong vòng 60 s 80 % .
+
+Phương_pháp xác_định : Thực_hiện gọi nhân_công tới dịch_vụ hỗ_trợ khách_hàng , số cuộc_gọi thử tối_thiểu là 250 cuộc_gọi vào các giờ khác nhau trong ngày .
+
+3 . Quy_định Về Quản_lý
+
+Dịch_vụ truyền_hình cáp số Dvb - t2 thuộc phạm_vi điều_chỉnh quy_định tại điều 1 . 1 phải tuân_thủ các quy_định tại Quy_chuẩn này .
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+4 . 1 . Doanh_nghiệp cung_cấp dịch_vụ truyền_hình cáp số Dvb - t2 có trách_nhiệm đảm_bảo chất_lượng dịch_vụ tuân_thủ Quy_chuẩn này .
+
+4 . 2 . Doanh_nghiệp cung_cấp dịch_vụ truyền_hình cáp số Dvb - t2 có trách_nhiệm thực_hiện công_bố chất_lượng dịch_vụ theo Quy_chuẩn này và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành .
+
+4 . 3 . Trách_nhiệm của doanh_nghiệp cung_cấp dịch_vụ truyền_hình cáp số Dvb - t2 thực_hiện_tại Thông_tư số 24/2016/TT-BTTTT ngày 15 tháng 11 năm 2016 của Bộ_trưởng Bộ Thông_tin và Truyền_thông quy_định về quản_lí chất_lượng dịch_vụ phát_thanh , truyền_hình .
+
+5 . Tổ_chức Thực_hiện
+
+5 . 1 . Cục Phát_thanh , truyền_hình và thông_tin điện_tử , Cục Viễn_thông , các Sở Thông_tin và Truyền_thông có trách_nhiệm tổ_chức , hướng_dẫn , kiểm_tra các doanh_nghiệp cung_cấp dịch_vụ truyền_hình cáp số Dvb - t2 thực_hiện Quy_chuẩn này .
+
+5 . 2 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện_tại văn_bản mới .
+
+5 . 3 . Trong quá_trình triển_khai thực_hiện Quy_chuẩn , nếu có vấn_đề phát_sinh , vướng_mắc , các tổ_chức và cá_nhân phản_ánh bằng văn_bản về Bộ Thông_tin và Truyền_thông ( Vụ Khoa_học và Công_nghệ ) để được hướng_dẫn , giải_quyết . / .

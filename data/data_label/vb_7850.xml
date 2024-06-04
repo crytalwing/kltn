@@ -1,0 +1,179 @@
+Thông_tư số 17/2018/tt-bgtvt ngày 09 tháng 04 năm 2018 của bộ giao_thông vận_tải
+
+Căn_cứ <BL rel="CC"> Bộ_luật Hàng_hải Việt_nam ngày 25 tháng 11 năm 2015 </BL> ;
+
+Căn_cứ <LT rel="CC"> Luật Giao_thông đường_thuỷ nội_địa ngày 15 tháng 6 năm 2004 </LT> ;
+
+Căn_cứ Luật sửa_đổi , bổ_sung một_số Điều của <LT rel="None"> Luật Giao_thông đường_thuỷ nội_địa ngày 17 tháng 6 năm 2014 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 12/2017/NĐ-CP ngày 10 tháng 02 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Giao_thông vận_tải ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 58/2017/NĐ-CP ngày 10 tháng 5 năm 2017 </NĐ> của Chính_phủ quy_định chi_tiết một_số Điều của <BL rel="CC"> Bộ_luật Hàng_hải Việt_nam về quản_lí hoạt_động hàng_hải </BL> ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học - Công_nghệ , Cục_trưởng Cục Hàng_hải Việt_nam và Cục_trưởng Cục Đường_thuỷ nội_địa Việt_nam ;
+
+Bộ_trưởng Bộ Giao_thông vận_tải ban_hành Thông_tư quy_định quản_lí và khai_thác thông_tin nhận_dạng tự_động của tàu_thuyền .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi Điều_chỉnh
+
+Thông_tư này quy_định quản_lí và khai_thác thông_tin nhận_dạng tự_động của tàu_thuyền được quy_định phải lắp_đặt thiết_bị Ais hoạt_động trong vùng nước cảng biển , tuyến vận_tải ven biển , tuyến vận_tải thuỷ từ bờ ra đảo và vùng nước cảng , bến thuỷ nội_địa , đường_thuỷ nội_địa nằm trong phạm_vi thu_nhận bản tin Ais của trạm bờ Ais .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với tổ_chức , cá_nhân Việt_nam và nước_ngoài liên_quan đến việc quản_lí và khai_thác thông_tin nhận_dạng tự_động của tàu_thuyền được quy_định tại Điều 1 của Thông_tư này .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Tàu_thuyền là tàu_biển , phương_tiện thuỷ nội_địa được quy_định phải lắp_đặt thiết_bị Ais theo quy_định tại Điều 1 của Thông_tư này .
+
+2 . Ais là Hệ_thống nhận_dạng tự_động ( Automatic Identification_system ) . Hệ_thống này bao_gồm các thành Phần cơ_bản sau :
+
+a ) Thiết_bị Ais là thành Phần kĩ_thuật được lắp_đặt trên tàu_thuyền , có chức_năng thu phát bản tin Ais ;
+
+b ) Trạm bờ Ais là thành Phần kĩ_thuật được lắp_đặt trên bờ , có chức_năng thu_nhận bản tin Ais được phát ra từ các thiết_bị Ais ; xử_lý , lưu_trữ tạm_thời và truyền về trung_tâm dữ_liệu Ais ; phát thông_tin tới các thiết_bị Ais ( nếu có ) ;
+
+c ) Trung_tâm dữ_liệu Ais là thành Phần kĩ_thuật trên bờ , có chức_năng thu_nhận bản tin Ais từ trạm bờ Ais ; lưu_trữ , xử_lí và cung_cấp thông_tin Ais cho người sử_dụng thông_qua môi_trường mạng Internet .
+
+3 . Bản tin Ais là thông_tin mã_hoá được phát ra từ thiết_bị Ais . Bản tin Ais bao_gồm các thông_tin cơ_bản : Mã nhận_dạng của tàu_thuyền , tên tàu_thuyền , số Imo ( nếu có ) , hô hiệu ( nếu có ) , kiểu tàu_thuyền , kích_thước tàu_thuyền ( chiều dài , chiều rộng ) , vị_trí , tốc_độ và hướng đi của tàu_thuyền .
+
+4 . Thông_tin Ais là thông_tin được xử_lí và cung_cấp bởi trung_tâm dữ_liệu Ais bao_gồm các thông_tin cơ_bản : Mã nhận_dạng của tàu_thuyền , tên tàu_thuyền , số Imo ( nếu có ) , hô hiệu ( nếu có ) , kiểu tàu_thuyền , kích_thước tàu_thuyền ( chiều dài , chiều rộng ) , vị_trí , tốc_độ và hướng đi của tàu_thuyền .
+
+Điều 4 . Nguyên_tắc quản_lí và khai_thác thông_tin Ais
+
+1 . Thông_tin Ais được khai_thác sử_dụng cho Mục_đích hỗ_trợ công_tác bảo_đảm an_toàn , an_ninh , Điều_tra tai_nạn , tìm_kiếm cứu nạn , xử_lí vi_phạm hành_chính trong lĩnh_vực hàng_hải và đường_thuỷ nội_địa ; phòng_ngừa ô_nhiễm môi_trường từ tàu_thuyền và phục_vụ công_tác quản_lí nhà_nước chuyên_ngành hàng_hải và đường_thuỷ nội_địa .
+
+2 . Việc quản_lí và khai_thác thông_tin Ais phải tuân_thủ các quy_định tại Thông_tư này và các quy_định khác của pháp_luật có liên_quan .
+
+Chương_ii
+
+Quản_lý Và Khai_thác Thông_tin_ais
+
+Điều 5 . Quản_lí việc lắp_đặt và hoạt_động của thiết_bị Ais trên tàu_thuyền
+
+1 . Thiết_bị Ais được lắp_đặt , cài_đặt trên tàu_thuyền phải có các thông_tin tối_thiểu quy_định tại Khoản 3 Điều 3 và phải tuân_thủ theo các quy_chuẩn kĩ_thuật quốc_gia hiện_hành về Ais .
+
+2 . Thiết_bị Ais sau khi được lắp_đặt , cài_đặt và trong quá_trình sử_dụng trên tàu_thuyền phải được kiểm_tra bởi cơ_quan , tổ_chức có thẩm_quyền theo quy_định hiện_hành .
+
+3 . Thiết_bị Ais phải được duy_trì hoạt_động theo chế_độ 24/7.
+
+4 . Thiết_bị Ais phải được kiểm_tra kĩ_thuật , bảo_dưỡng định_kì theo khuyến_nghị của nhà sản_xuất .
+
+Điều 6 . Yêu_cầu đối_với trung_tâm dữ_liệu Ais và trạm bờ Ais
+
+1 . Trung_tâm dữ_liệu Ais :
+
+a ) Trung_tâm dữ_liệu Ais phải có chức_năng tích_hợp bản tin Ais gửi về từ các trạm bờ Ais để xử_lí và lưu_trữ ; có giao_diện truy_cập phù_hợp để khai_thác thông_tin Ais qua môi_trường mạng internet ; có khả_năng kết xuất dữ_liệu ;
+
+b ) Trung_tâm dữ_liệu Ais phải có khả_năng lưu_trữ dữ_liệu trong thời_gian tối_thiểu 03 năm ;
+
+c ) Trung_tâm dữ_liệu Ais phải được bảo_đảm an_toàn , an_ninh dữ_liệu .
+
+2 . Trạm bờ Ais :
+
+a ) Trạm bờ Ais phải có chức_năng thu_nhận trực_tiếp bản tin Ais phát đi từ thiết_bị Ais được lắp_đặt trên tàu_thuyền hoạt_động trong vùng thu_nhận bản tin Ais của trạm bờ Ais . Trạm bờ Ais có_thể có thêm chức_năng phát thông_tin tới thiết_bị Ais theo yêu_cầu ;
+
+b ) Các trạm bờ Ais phải được thiết_lập thành hệ_thống theo hướng bảo_đảm phủ_sóng toàn_bộ vùng nước cảng biển , tuyến vận_tải ven biển , tuyến vận_tải thuỷ từ bờ ra đảo và vùng nước cảng , bến thuỷ nội_địa , đường_thuỷ nội_địa ;
+
+c ) Các trạm bờ Ais phải kết_nối với trung_tâm dữ_liệu Ais để chuyển bản tin Ais thu được từ thiết_bị Ais được lắp_đặt trên tàu_thuyền về trung_tâm dữ_liệu Ais .
+
+Điều 7 . Quản_lí việc cung_cấp , sử_dụng thông_tin Ais
+
+1 . Thông_tin Ais được cung_cấp cho các tổ_chức , cá_nhân khi có yêu_cầu . Việc sử_dụng thông_tin Ais phải bảo_đảm đúng Mục_đích theo quy_định tại Khoản 1 Điều 4 của Thông_tư này .
+
+2 . Thông_tin Ais được cung_cấp dưới dạng cấp tài Khoản truy_cập cơ_sở dữ_liệu ; hoặc cung_cấp trên Cổng thông_tin điện_tử , Trang thông_tin điện_tử của đơn_vị thực_hiện cung_cấp thông_tin ; hoặc cấp dữ_liệu theo từng vụ_việc cụ_thể cho tổ_chức , cá_nhân khai_thác .
+
+3 . Cục Đường_thuỷ nội_địa Việt_nam , Công_ti Tnh Mtv Thông_tin điện_tử hàng_hải Việt_nam , Trung_tâm Thông_tin an_ninh hàng_hải , Cảng_vụ hàng_hải , Cảng_vụ đường_thuỷ nội_địa trực_thuộc Cục Đường_thuỷ nội_địa Việt_nam có trách_nhiệm tổ_chức thực_hiện cung_cấp thông_tin Ais theo đúng quy_định tại Thông_tư này .
+
+Điều 8 . Trách_nhiệm của các cơ_quan , tổ_chức có liên_quan trong việc quản_lý , khai_thác và cung_cấp thông_tin Ais
+
+1 . Cục Hàng_hải Việt_nam có trách_nhiệm :
+
+a ) Tổ_chức xây_dựng và quản_lí nhà_nước đối_với hoạt_động của trung_tâm dữ_liệu Ais và trạm bờ Ais đáp_ứng yêu_cầu quản_lý , khai_thác và cung_cấp thông_tin Ais theo phạm_vi quản_lý ;
+
+b ) Chỉ_đạo Công_ti Tnh Mtv Thông_tin điện_tử hàng_hải Việt_nam tổ_chức cung_cấp đầy_đủ tài Khoản truy_cập , thông_tin Ais cho các Cảng_vụ hàng_hải , Trung_tâm thông_tin an_ninh hàng_hải và các cơ_quan , tổ_chức có liên_quan khác khi có yêu_cầu phục_vụ Mục_đích nêu tại Khoản 1 , Điều 4 của Thông_tư này ;
+
+c ) Chỉ_đạo các Cảng_vụ hàng_hải , Trung_tâm Thông_tin an_ninh hàng_hải tổ_chức quản_lý , khai_thác thông_tin Ais phục_vụ Mục_đích nêu tại Khoản 1 Điều 4 của Thông_tư này .
+
+2 . Cục Đường_thuỷ nội_địa Việt_nam có trách_nhiệm :
+
+a ) Tổ_chức xây_dựng và quản_lí nhà_nước đối_với hoạt_động của trung_tâm dữ_liệu Ais và trạm bờ Ais đáp_ứng yêu_cầu quản_lý , khai_thác , cung_cấp tài Khoản truy_cập , quản_lí thông_tin tài Khoản truy_cập và cung_cấp thông_tin Ais theo phạm_vi quản_lý ;
+
+b ) Chỉ_đạo các Cảng_vụ đường_thuỷ nội_địa trực_thuộc tổ_chức quản_lý , khai_thác thông_tin Ais phục_vụ Mục_đích nêu tại Khoản 1 , Điều 4 của Thông_tư này ;
+
+c ) Chủ_trì xây_dựng định mức kinh_tế - kĩ_thuật vận_hành và bảo_trì Hệ_thống Ais do Cục Đường_thuỷ nội_địa Việt_nam quản_lý , vận_hành ;
+
+d ) Quản_lí và vận_hành trung_tâm dữ_liệu Ais của Cục Đường_thuỷ nội_địa Việt_nam phục_vụ Mục_đích nêu tại Khoản 1 Điều 4 của Thông_tư này .
+
+3 . Cảng_vụ hàng_hải có trách_nhiệm :
+
+a ) Tổ_chức quản_lý , khai_thác thông_tin Ais của các tàu_thuyền hoạt_động trong vùng nước cảng biển , tuyến vận_tải thuỷ từ bờ ra đảo theo phạm_vi quản_lí phục_vụ Mục_đích nêu tại Khoản 1 Điều 4 của Thông_tư này . Kiểm_tra , giám_sát việc thực_hiện các quy_định của Thông_tư này đối_với các tàu_thuyền được yêu_cầu lắp_đặt thiết_bị Ais hoạt_động trong phạm_vi quản_lý ;
+
+b ) Thường_xuyên sử_dụng thông_tin Ais để theo_dõi tốc_độ , hướng đi , vị_trí của tàu_thuyền hoạt_động trong vùng nước cảng biển , tuyến vận_tải thuỷ từ bờ ra đảo trong phạm_vi quản_lý ;
+
+c ) Trích_xuất các dữ_liệu Ais , chia_sẻ thông_tin Ais phục_vụ Mục_đích nêu tại Khoản 1 Điều 4 của Thông_tư này theo yêu_cầu của các cơ_quan quản_lí nhà_nước có thẩm_quyền ;
+
+d ) Quản_lý , vận_hành và bảo_dưỡng trung_tâm dữ_liệu Ais và các trạm bờ Ais của đơn_vị để thu_nhận , khai_thác và chia_sẻ thông_tin Ais của tàu_thuyền hoạt_động trong vùng nước cảng biển phục_vụ Mục_đích nêu tại Khoản 1 , Điều 4 của Thông_tư này .
+
+4 . Cảng_vụ đường_thuỷ nội_địa trực_thuộc Cục Đường_thuỷ nội_địa Việt_nam có trách_nhiệm :
+
+a ) Tổ_chức quản_lý , khai_thác thông_tin Ais của các tàu_thuyền hoạt_động trong vùng nước cảng , bến thuỷ nội_địa , đường_thuỷ nội_địa theo phạm_vi quản_lí phục_vụ Mục_đích nêu tại Khoản 1 Điều 4 của Thông_tư này . Kiểm_tra , giám_sát việc thực_hiện các quy_định của Thông_tư này đối_với các tàu_thuyền được yêu_cầu lắp_đặt thiết_bị Ais hoạt_động trong phạm_vi quản_lý ;
+
+b ) Thường_xuyên sử_dụng thông_tin Ais để theo_dõi tốc_độ , hướng đi , vị_trí của tàu_thuyền hoạt_động trong vùng nước cảng , bến thuỷ nội_địa , đường_thuỷ nội_địa trong phạm_vi quản_lý ;
+
+c ) Trích_xuất các dữ_liệu Ais , chia_sẻ thông_tin Ais phục_vụ Mục_đích nêu tại Khoản 1 , Điều 4 của Thông_tư này theo yêu_cầu của các cơ_quan quản_lí nhà_nước có thẩm_quyền ;
+
+d ) Quản_lí và vận_hành các trạm bờ Ais để thu_nhận , khai_thác và chia_sẻ thông_tin Ais của tàu_thuyền hoạt_động trong phạm_vi quản_lí phục_vụ Mục_đích nêu tại Khoản 1 Điều 4 của Thông_tư này .
+
+5 . Trung_tâm Thông_tin an_ninh hàng_hải có trách_nhiệm :
+
+a ) Tổ_chức quản_lý , khai_thác thông_tin Ais của các tàu_thuyền hoạt_động tuyến vận_tải ven biển , tuyến vận_tải thuỷ từ bờ ra đảo thuộc trách_nhiệm quản_lí của Cục Hàng_hải Việt_nam ;
+
+b ) Thường_xuyên sử_dụng thông_tin Ais để theo_dõi tốc_độ , hướng đi , vị_trí của các tàu_thuyền hoạt_động tuyến vận_tải ven biển , tuyến vận_tải thuỷ từ bờ ra đảo thuộc trách_nhiệm quản_lí của Cục Hàng_hải Việt_nam ;
+
+c ) Báo_cáo Cục Hàng_hải Việt_nam đối_với những hành_vi vi_phạm_quy_định pháp_luật hàng_hải của tàu_thuyền ;
+
+d ) Trích_xuất các dữ_liệu Ais , chia_sẻ thông_tin Ais phục_vụ Mục_đích nêu tại Khoản 1 Điều 4 của Thông_tư này theo yêu_cầu của các cơ_quan quản_lí nhà_nước có thẩm_quyền .
+
+6 . Công_ti Tnh Mtv Thông_tin điện_tử hàng_hải Việt_nam có trách_nhiệm :
+
+a ) Tổ_chức quản_lý , vận_hành và bảo_dưỡng trung_tâm dữ_liệu Ais và trạm bờ Ais của đơn_vị bảo_đảm hoạt_động liên_tục và ổn_định ;
+
+b ) Cung_cấp tài Khoản truy_cập , quản_lí thông_tin tài Khoản truy_cập và cung_cấp thông_tin Ais cho các Cảng_vụ hàng_hải , Trung_tâm thông_tin an_ninh hàng_hải và các cơ_quan , tổ_chức có liên_quan khác khi có yêu_cầu phục_vụ Mục_đích nêu tại Khoản 1 Điều 4 của Thông_tư này ;
+
+c ) Báo_cáo thống_kê về Cục Hàng_hải Việt_nam việc cung_cấp tài Khoản truy_cập , thông_tin Ais theo định_kì hàng quý hoặc báo_cáo đột_xuất khi có yêu_cầu ;
+
+d ) Xây_dựng , nâng_cấp Phần_mềm quản_lý , khai_thác thông_tin Ais theo yêu_cầu của cơ_quan quản_lí nhà_nước để quản_lí và khai_thác thông_tin Ais theo quy_định tại Thông_tư này ;
+
+đ ) Trích_xuất các dữ_liệu Ais , chia_sẻ thông_tin Ais phục_vụ Mục_đích nêu tại Khoản 1 Điều 4 của Thông_tư này theo yêu_cầu của các cơ_quan quản_lí nhà_nước có thẩm_quyền .
+
+7 . Chủ tàu , chủ phương_tiện và thuyền_trưởng có trách_nhiệm :
+
+a ) Duy_trì hoạt_động của thiết_bị Ais lắp_đặt trên tàu_thuyền theo chế_độ 24/7 để truyền phát bản tin Ais theo đúng chức_năng thiết_kế của thiết_bị . Trường_hợp thiết_bị Ais bị hư_hỏng phải thông_báo ngay cho Cảng_vụ hàng_hải hoặc Cảng_vụ đường_thuỷ nội_địa trực_thuộc Cục Đường_thuỷ nội_địa Việt_nam ;
+
+b ) Trong trường_hợp thay_đổi các thông_tin liên_quan đến mã nhận_dạng của tàu_thuyền , tên tàu_thuyền , số Imo ( nếu có ) , hô hiệu ( nếu có ) , kiểu tàu_thuyền , kích_thước tàu_thuyền ( chiều dài , chiều rộng ) phải thông_báo ngay cho Cảng_vụ hàng_hải hoặc Cảng_vụ đường_thuỷ nội_địa trực_thuộc Cục Đường_thuỷ nội_địa Việt_nam ;
+
+c ) Ghi nhật_kí vận_hành , khai_thác thiết_bị Ais trong nhật_kí của tàu_thuyền .
+
+8 . Người sử_dụng thông_tin Ais có trách_nhiệm :
+
+a ) Bảo_mật thông_tin tài Khoản Ais được cấp ;
+
+b ) Khai_thác , sử_dụng thông_tin Ais bảo_đảm đúng Mục_đích nêu tại Khoản 1 Điều 4 của Thông_tư này .
+
+Chương_iii
+
+Tổ_chức Thực_hiện
+
+Điều 9 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2018 .
+
+Điều 10 . Tổ_chức thực_hiện
+
+Chánh Văn_phòng , Chánh Thanh_tra , các Vụ_trưởng , Cục_trưởng Cục Hàng_hải Việt_nam , Cục_trưởng Cục Đường_thuỷ nội_địa Việt_nam và các tổ_chức , cá_nhân liên_quan chịu trách_nhiệm thi_hành Thông_tư này . /

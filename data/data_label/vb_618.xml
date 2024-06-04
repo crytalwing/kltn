@@ -1,0 +1,603 @@
+Nghị_định số 59/2022/nđ-cp ngày 05 tháng 09 năm 2022 của chính_phủ
+
+Căn_cứ <LT rel="CC"> Luật Tổ_chức Chính_phủ ngày 19 tháng 6 năm 2015 </LT> ; Luật sửa_đổi , bổ_sung một_số điều của <LT rel="CC"> Luật Tổ_chức Chính_phủ và </LT> <LT rel="None"> Luật Tổ_chức chính_quyền địa_phương ngày 22 tháng 11 năm 2019 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Đầu_tư ngày 17 tháng 6 năm 2020 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Giao_dịch điện_tử ngày 29 tháng 11 năm 2005 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Căn_cước công_dân ngày 20 tháng 11 năm 2014 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật An_toàn thông_tin mạng ngày 19 tháng 11 năm 2015 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật An_ninh mạng ngày 12 tháng 6 năm 2018 </LT> ;
+
+Theo đề_nghị của Bộ_trưởng Bộ Công_an ;
+
+Chính_phủ ban_hành Nghị_định quy_định về định_danh và xác_thực điện_tử .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Nghị_định này quy_định về danh_tính điện_tử , định_danh điện_tử , xác_thực điện_tử ; dịch_vụ xác_thực điện_tử ; quyền , nghĩa_vụ của bên sử_dụng dịch_vụ xác_thực điện_tử ; trách_nhiệm của cơ_quan , tổ_chức , cá_nhân có liên_quan .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Nghị_định này áp_dụng đối_với cơ_quan , tổ_chức , công_dân Việt_nam ; tổ_chức , cá_nhân nước_ngoài cư_trú , hoạt_động trên lãnh_thổ Việt_nam liên_quan đến định_danh và xác_thực điện_tử .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Nghị_định này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Danh_tính điện_tử là thông_tin của một cá_nhân hoặc một tổ_chức trong hệ_thống định_danh và xác_thực điện_tử cho phép xác_định duy_nhất cá_nhân hoặc tổ_chức đó trên môi_trường điện_tử .
+
+2 . Chủ_thể danh_tính điện_tử là tổ_chức , cá_nhân được xác_định gắn với danh_tính điện_tử .
+
+3 . Định_danh điện_tử là hoạt_động đăng_ký , đối_soát , tạo_lập và gắn danh_tính điện_tử với chủ_thể danh_tính điện_tử .
+
+4 . Cơ_quan quản_lí định_danh và xác_thực điện_tử là Cục Cảnh_sát quản_lí hành_chính về trật_tự xã_hội Bộ Công_an .
+
+5 . Hệ_thống định_danh và xác_thực điện_tử là hệ_thống thông_tin do Bộ Công_an xây_dựng , quản_lí để thực_hiện đăng_ký , tạo_lập , quản_lí tài_khoản định_danh điện_tử và thực_hiện xác_thực điện_tử .
+
+6 . Tài_khoản định_danh điện_tử là tập_hợp gồm tên đăng_nhập , mật_khẩu hoặc hình_thức xác_thực khác được tạo_lập bởi cơ_quan quản_lí định_danh và xác_thực điện_tử .
+
+7 . Thông_tin được đồng_bộ vào tài_khoản định_danh điện_tử là những thông_tin của chủ_thể danh_tính điện_tử được thể_hiện trong các giấy_tờ , tài_liệu do cơ_quan có thẩm_quyền của Việt_nam cấp và đã được xác_thực thông_qua cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu chuyên_ngành để đồng_bộ vào tài_khoản định_danh điện_tử theo đề_nghị của chủ_thể danh_tính điện_tử , gồm thông_tin về thẻ bảo_hiểm y_tế , chứng_nhận đăng_kí phương_tiện giao_thông , giấy_phép lái_xe , mã_số thuế hoặc giấy_tờ khác thuộc lĩnh_vực quản_lí của các bộ , cơ_quan ngang bộ sau khi thống_nhất với Bộ Công_an .
+
+8 . Xác_thực điện_tử là hoạt_động xác_nhận , khẳng_định thông_tin gắn với chủ_thể danh_tính điện_tử thông_qua việc khai_thác , đối_chiếu thông_tin của chủ_thể danh_tính điện_tử đó trong Cơ_sở dữ_liệu quốc_gia về dân_cư , Cơ_sở dữ_liệu căn_cước công_dân , Cơ_sở dữ_liệu quốc_gia về xuất nhập_cảnh , cơ_sở dữ_liệu khác và hệ_thống định_danh và xác_thực điện_tử hoặc xác_thực_tài_khoản định_danh điện_tử do hệ_thống định_danh và xác_thực điện_tử tạo_lập qua tổ_chức cung_cấp dịch_vụ xác_thực điện_tử để khẳng_định giá_trị sử_dụng của tài_khoản định_danh điện_tử đó .
+
+9 . Yếu_tố xác_thực là các thông_tin chủ_thể danh_tính điện_tử sử_dụng hoặc sở_hữu .
+
+10 . Phương_tiện xác_thực là các yếu_tố sau : mật_khẩu ; mã bí_mật ; mã_vạch 2 chiều ; thiết_bị đầu_cuối ; thiết_bị hoặc phần_mềm mật_khẩu sử_dụng một lần ; thiết_bị hoặc phần_mềm mật_mã , thẻ Căn_cước công_dân , hộ_chiếu , ảnh chân_dung , vân tay được sử_dụng cho mục_đích_xác_thực điện_tử .
+
+11 . Tổ_chức cung_cấp dịch_vụ xác_thực điện_tử là đơn_vị sự_nghiệp công_lập , doanh_nghiệp trong Công_an nhân_dân đáp_ứng điều_kiện về cung_cấp dịch_vụ xác_thực điện_tử theo quy_định tại Nghị_định này .
+
+12 . VNeID là ứng_dụng trên thiết_bị số ; dinh danh di_en tu . gov . vn , vneid . gov . vn là trang thông_tin định_danh điện_tử do Bộ Công_an tạo_lập , phát_triển để phục_vụ hoạt_động định_danh điện_tử và xác_thực điện_tử trong giải_quyết thủ_tục hành_chính , dịch_vụ hành_chính công và các giao_dịch khác trên môi_trường điện_tử ; phát_triển các tiện_ích để phục_vụ cơ_quan , tổ_chức , cá_nhân .
+
+13 . Số định_danh của người nước_ngoài là dãy số tự_nhiên duy_nhất do hệ_thống định_danh và xác_thực điện_tử xác_lập để quản_lí danh_tính điện_tử của một cá_nhân người nước_ngoài .
+
+14 . Mã định_danh điện_tử của tổ_chức được xác_định bằng mã_số thuế của tổ_chức đó ; trường_hợp không có mã_số thuế thì hệ_thống định_danh và xác_thực điện_tử xác_lập một dãy số tự_nhiên duy_nhất để quản_lí danh_tính điện_tử của tổ_chức đó .
+
+15 . Nền_tảng định_danh và xác_thực điện_tử là hệ_thống thông_tin do Bộ Công_an tổ_chức xây_dựng , vận_hành , quản_lí để phục_vụ_việc trao_đổi thông_tin giữa hệ_thống định_danh và xác_thực điện_tử với hệ_thống thông_tin của cơ_quan nhà_nước , tổ_chức chính_trị , tổ_chức chính_trị - xã_hội và tổ_chức , cá_nhân .
+
+Điều 4 . Nguyên_tắc định_danh và xác_thực điện_tử
+
+1 . Tuân_thủ Hiến_pháp và pháp_luật , bảo_đảm quyền và lợi_ích hợp_pháp của cơ_quan , tổ_chức , cá_nhân .
+
+2 . Bảo_đảm tính chính_xác , duy_nhất trong định_danh và xác_thực điện_tử ; công_khai , minh_bạch trong quản_lý , thuận_tiện cho cơ_quan , tổ_chức , cá_nhân .
+
+3 . Bảo_đảm an_ninh , an_toàn thiết_bị , bảo_mật dữ_liệu khi thực_hiện định_danh và xác_thực điện_tử .
+
+4 . Cơ_quan , tổ_chức , cá_nhân được khai_thác và sử_dụng danh_tính điện_tử phải bảo_mật thông_tin tài_khoản định_danh điện_tử và tuân_thủ quy_định của pháp_luật về bảo_vệ dữ_liệu cá_nhân .
+
+5 . Mọi hành_vi vi_phạm_pháp_luật về định_danh và xác_thực điện_tử phải được phát_hiện , xử_lí kịp_thời theo quy_định của pháp_luật .
+
+6 . Bảo_đảm phù_hợp với các điều_ước quốc_tế mà Việt_nam là thành_viên .
+
+Điều 5 . Khai_thác thông_tin trong hệ_thống định_danh và xác_thực điện_tử
+
+1 . Hệ_thống thông_tin của cơ_quan nhà_nước , tổ_chức chính_trị , tổ_chức chính_trị - xã_hội , tổ_chức cung_cấp dịch_vụ công kết_nối với hệ_thống định_danh và xác_thực điện_tử để khai_thác thông_tin của chủ_thể danh_tính điện_tử phục_vụ giải_quyết thủ_tục hành_chính , dịch_vụ hành_chính công trên môi_trường điện_tử và các hoạt_động quản_lí nhà_nước khác theo chức_năng , nhiệm_vụ được giao qua Nền_tảng định_danh và xác_thực điện_tử .
+
+2 . Cơ_quan nhà_nước , tổ_chức chính_trị , tổ_chức chính_trị - xã_hội , tổ_chức cung_cấp dịch_vụ công_khai_thác thông_tin trong hệ_thống định_danh và xác_thực điện_tử qua ứng_dụng VNeID , trang thông_tin định_danh điện_tử , thẻ Căn_cước công_dân gắn chíp điện_tử bằng thiết_bị , phần_mềm đáp_ứng yêu_cầu kĩ_thuật do Bộ_trưởng Bộ Công_an hướng_dẫn .
+
+3 . Chủ_thể danh_tính điện_tử khai_thác , chia_sẻ thông_tin danh_tính điện_tử ( trừ thông_tin sinh trắc học ) và thông_tin khác của mình đã được tích_hợp vào tài_khoản định_danh điện_tử trên hệ_thống định_danh và xác_thực điện_tử với cá_nhân , tổ_chức khác qua ứng_dụng VNeID .
+
+Điều 6 . Điều_khoản sử_dụng tài_khoản định_danh điện_tử
+
+Chủ_thể danh_tính điện_tử sử_dụng tài_khoản định_danh điện_tử phải tuân_thủ quy_định sau :
+
+1 . Không được sử_dụng tài_khoản định_danh điện_tử vào hoạt_động , giao_dịch trái quy_định của pháp_luật ; xâm_phạm đến an_ninh , quốc_phòng , lợi_ích quốc_gia , lợi_ích công_cộng , quyền và lợi_ích hợp_pháp của tổ_chức , cá_nhân .
+
+2 . Không được can_thiệp trái_phép vào hoạt_động của hệ_thống định_danh và xác_thực điện_tử .
+
+Chương_ii
+
+Danh_tính Điện_tử , Định_danh Điện_tử
+
+Mục 1 . Danh_tính Điện_tử
+
+Điều 7 . Danh_tính điện_tử công_dân Việt_nam
+
+Danh_tính điện_tử công_dân Việt_nam gồm :
+
+1 . Thông_tin cá_nhân :
+
+a ) Số định_danh cá_nhân ;
+
+b ) Họ , chữ đệm và tên ;
+
+c ) Ngày , tháng , năm sinh ;
+
+d ) Giới_tính .
+
+2 . Thông_tin sinh trắc học :
+
+a ) Ảnh chân_dung ;
+
+b ) Vân tay .
+
+Điều 8 . Danh_tính điện_tử người nước_ngoài
+
+Danh_tính điện_tử người nước_ngoài bao_gồm :
+
+1 . Thông_tin cá_nhân :
+
+a ) Số định_danh của người nước_ngoài ;
+
+b ) Họ , chữ đệm và tên ;
+
+c ) Ngày , tháng , năm sinh ;
+
+d ) Giới_tính ;
+
+đ ) Quốc_tịch ;
+
+e ) Số , kí_hiệu , ngày , tháng , năm , loại giấy_tờ và nơi cấp hộ_chiếu hoặc giấy_tờ có giá_trị đi_lại quốc_tế .
+
+2 . Thông_tin sinh trắc học :
+
+a ) Ảnh chân_dung ;
+
+b ) Vân tay .
+
+Điều 9 . Danh_tính điện_tử tổ_chức
+
+Danh_tính điện_tử tổ_chức gồm :
+
+1 . Mã định_danh điện_tử của tổ_chức .
+
+2 . Tên tổ_chức gồm tên tiếng Việt , tên viết tắt ( nếu có ) và tên tiếng nước_ngoài ( nếu có ) .
+
+3 . Ngày , tháng , năm thành_lập .
+
+4 . Địa_chỉ trụ_sở chính .
+
+5 . Số định_danh cá_nhân hoặc số định_danh của người nước_ngoài ; họ , chữ đệm và tên người đại_diện theo pháp_luật hoặc người đứng đầu của tổ_chức .
+
+Điều 10 . Cập_nhật thông_tin danh_tính điện_tử
+
+1 . Thông_tin về danh_tính điện_tử của cá_nhân trong Cơ_sở dữ_liệu quốc_gia về dân_cư , Cơ_sở dữ_liệu hộ_tịch điện_tử , Cơ_sở dữ_liệu Căn_cước công_dân , Cơ_sở dữ_liệu quốc_gia về xuất nhập_cảnh có sự thay_đổi thì được tự_động cập_nhật vào tài_khoản định_danh điện_tử của cá_nhân trong hệ_thống định_danh và xác_thực điện_tử .
+
+2 . Thông_tin về danh_tính điện_tử của tổ_chức trong Cơ_sở dữ_liệu quốc_gia về đăng_kí doanh_nghiệp , cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu chuyên_ngành khác có sự thay_đổi thì được tự_động cập_nhật vào tài_khoản định_danh điện_tử của tổ_chức trong hệ_thống định_danh và xác_thực điện_tử .
+
+Mục 2 . Định_danh Điện_tử
+
+Điều 11 . Đối_tượng được cấp tài_khoản định_danh điện_tử
+
+1 . Công_dân Việt_nam từ đủ 14 tuổi trở lên ; đối_với công_dân Việt_nam là người chưa đủ 14 tuổi hoặc là người được giám_hộ được đăng_kí theo tài_khoản định_danh điện_tử của cha , mẹ hoặc người giám_hộ .
+
+2 . Người nước_ngoài từ đủ 14 tuổi trở lên nhập_cảnh vào Việt_nam ; đối_với người nước_ngoài là người chưa đủ 14 tuổi hoặc là người được giám_hộ được đăng_kí theo tài_khoản định_danh điện_tử của cha , mẹ hoặc người giám_hộ .
+
+3 . Cơ_quan , tổ_chức được thành_lập hoặc đăng_kí hoạt_động tại Việt_nam .
+
+Điều 12 . Phân_loại mức_độ tài_khoản định_danh điện_tử
+
+1 . Tài_khoản định_danh điện_tử mức_độ 1 của công_dân Việt_nam gồm những thông_tin quy_định tại khoản 1 và điểm a khoản 2 Điều 7 Nghị_định này . Tài_khoản định_danh điện_tử mức_độ 1 của người nước_ngoài gồm những thông_tin quy_định tại khoản 1 và điểm a khoản 2 Điều 8 Nghị_định này .
+
+2 . Tài_khoản định_danh điện_tử mức_độ 2 của cá_nhân gồm những thông_tin quy_định tại Điều 7 hoặc Điều 8 Nghị_định này .
+
+3 . Tài_khoản định_danh điện_tử của tổ_chức gồm những thông_tin quy_định tại Điều 9 Nghị_định này là tài_khoản định_danh điện_tử mức_độ 2 .
+
+Điều 13 . Sử_dụng tài_khoản định_danh điện_tử
+
+1 . Chủ_thể danh_tính điện_tử sử_dụng tài_khoản định_danh điện_tử để đăng_nhập và sử_dụng các tính_năng , tiện_ích trên ứng_dụng VNeID , trang thông_tin định_danh điện_tử .
+
+2 . Tài_khoản định_danh điện_tử do hệ_thống định_danh và xác_thực điện_tử tạo_lập được sử_dụng để thực_hiện thủ_tục hành_chính , dịch_vụ hành_chính công trên môi_trường điện_tử và các hoạt_động khác theo nhu_cầu của chủ_thể danh_tính điện_tử .
+
+3 . Cơ_quan , tổ_chức , cá_nhân được tạo_lập tài_khoản để phục_vụ cho hoạt_động của mình và chịu trách_nhiệm xác_thực , bảo_đảm tính chính_xác của tài_khoản do mình tạo_lập , Quyết_định mức_độ và giá_trị sử_dụng của từng mức_độ tài_khoản . Thông_tin để tạo_lập tài_khoản do chủ_thể của tài_khoản cung_cấp hoặc đồng_ý cho cơ_quan , tổ_chức , cá_nhân sử_dụng để tạo_lập tài_khoản .
+
+4 . Việc sử_dụng tài_khoản định_danh điện_tử mức_độ 1 được tạo_lập bởi hệ_thống định_danh và xác_thực điện_tử đối_với chủ_thể danh_tính điện_tử là công_dân Việt_nam có giá_trị chứng_minh các thông_tin của người đó quy_định tại khoản 1 Điều 7 Nghị_định này , đối_với chủ_thể là người nước_ngoài có giá_trị chứng_minh các thông_tin của người đó quy_định tại khoản 1 Điều 8 Nghị_định này trong các hoạt_động , giao_dịch có yêu_cầu cung_cấp thông_tin cá_nhân của chủ_thể danh_tính điện_tử .
+
+5 . Việc sử_dụng tài_khoản định_danh điện_tử mức_độ 2 được tạo_lập bởi hệ_thống định_danh và xác_thực điện_tử đối_với chủ_thể danh_tính điện_tử là công_dân Việt_nam có giá_trị tương_đương như việc sử_dụng thẻ Căn_cước công_dân trong thực_hiện các giao_dịch có yêu_cầu xuất_trình thẻ Căn_cước công_dân ; có giá_trị cung_cấp thông_tin trong các loại giấy_tờ của công_dân đã được đồng_bộ vào tài_khoản định_danh điện_tử để cơ_quan , tổ_chức có thẩm_quyền đối_chiếu khi thực_hiện các giao_dịch có yêu_cầu xuất_trình giấy_tờ đó .
+
+6 . Việc sử_dụng tài_khoản định_danh điện_tử mức_độ 2 được tạo_lập bởi hệ_thống định_danh và xác_thực điện_tử đối_với chủ_thể danh_tính điện_tử là người nước_ngoài có giá_trị tương_đương như việc sử_dụng hộ_chiếu hoặc giấy_tờ có giá_trị đi_lại quốc_tế trong thực_hiện các giao_dịch có yêu_cầu xuất_trình hộ_chiếu hoặc giấy_tờ có giá_trị đi_lại quốc_tế ; có giá_trị cung_cấp thông_tin trong các loại giấy_tờ của người nước_ngoài được đồng_bộ vào tài_khoản định_danh điện_tử để cơ_quan , tổ_chức có thẩm_quyền đối_chiếu khi thực_hiện các giao_dịch có yêu_cầu xuất_trình giấy_tờ đó .
+
+7 . Việc sử_dụng tài_khoản định_danh điện_tử được tạo_lập bởi hệ_thống định_danh và xác_thực điện_tử đối_với chủ_thể danh_tính điện_tử là tổ_chức do người đại_diện theo pháp_luật thực_hiện hoặc giao cho người được uỷ_quyền sử_dụng . Việc sử_dụng tài_khoản định_danh điện_tử của tổ_chức có giá_trị chứng_minh danh_tính điện_tử của tổ_chức khi thực_hiện giao_dịch có yêu_cầu chứng_minh thông_tin về tổ_chức đó ; có giá_trị cung_cấp thông_tin trong các loại giấy_tờ của tổ_chức được đồng_bộ vào tài_khoản định_danh điện_tử để cơ_quan , tổ_chức có thẩm_quyền đối_chiếu khi thực_hiện các giao_dịch có yêu_cầu xuất_trình giấy_tờ đó .
+
+8 . Khi chủ_thể danh_tính điện_tử sử_dụng tài_khoản định_danh điện_tử mức_độ 2 trong các hoạt_động , giao_dịch điện_tử thì có giá_trị tương_đương với việc xuất_trình giấy_tờ , tài_liệu để chứng_minh thông_tin đã được tích_hợp vào tài_khoản định_danh điện_tử .
+
+Chương_iii
+
+Tài_khoản Định_danh Điện_tử Và Xác_thực_điện_tử
+
+Điều 14 . Trình_tự , thủ_tục đăng_kí tài_khoản định_danh điện_tử đối_với công_dân Việt_nam
+
+1 . Đăng_kí tài_khoản định_danh điện_tử mức_độ 1 qua ứng_dụng VNeID đối_với công_dân đã có thẻ Căn_cước công_dân gắn chíp điện_tử
+
+a ) Công_dân sử_dụng thiết_bị di_động tải và cài_đặt ứng_dụng VNeID .
+
+b ) Công_dân sử_dụng ứng_dụng VNeID để nhập thông_tin về số định_danh cá_nhân và số điện_thoại hoặc địa_chỉ thư điện_tử ; cung_cấp các thông_tin theo hướng_dẫn trên ứng_dụng VNeID ; thu_nhận ảnh chân_dung bằng thiết_bị di_động và gửi yêu_cầu đề_nghị cấp tài_khoản định_danh điện_tử tới cơ_quan quản_lí định_danh và xác_thực điện_tử qua ứng_dụng VNeID .
+
+c ) Cơ_quan quản_lí định_danh điện_tử thông_báo kết_quả đăng_kí tài_khoản qua ứng_dụng VNeID hoặc tin nhắn Sms hoặc địa_chỉ thư điện_tử .
+
+2 . Đăng_kí tài_khoản định_danh điện_tử mức_độ 2
+
+a ) Đối_với công_dân đã được cấp thẻ Căn_cước công_dân gắn chíp điện_tử :
+
+Công_dân đến Công_an xã , phường , thị_trấn hoặc nơi làm thủ_tục cấp thẻ Căn_cước công_dân để làm thủ_tục cấp tài_khoản định_danh điện_tử . Công_dân xuất_trình thẻ Căn_cước công_dân gắn chíp điện_tử , cung_cấp thông_tin về số điện_thoại hoặc địa_chỉ thư điện_tử và đề_nghị bổ_sung thông_tin được tích_hợp vào tài_khoản định_danh điện_tử .
+
+Cán_bộ tiếp_nhận nhập thông_tin công_dân cung_cấp vào hệ_thống định_danh và xác_thực điện_tử ; chụp ảnh chân_dung , thu_nhận vân tay của công_dân đến làm thủ_tục để xác_thực với Cơ_sở dữ_liệu căn_cước công_dân và khẳng_định sự đồng_ý đăng_kí tạo_lập tài_khoản định_danh điện_tử .
+
+Cơ_quan quản_lí định_danh điện_tử thông_báo kết_quả đăng_kí tài_khoản qua ứng_dụng VNeID hoặc tin nhắn Sms hoặc địa_chỉ thư điện_tử .
+
+b ) Cơ_quan Công_an tiến_hành cấp tài_khoản định_danh điện_tử mức_độ 2 cùng với cấp thẻ Căn_cước công_dân với trường_hợp công_dân chưa được cấp Căn_cước công_dân gắn chíp điện_tử .
+
+Điều 15 . Trình_tự , thủ_tục đăng_kí tài_khoản định_danh điện_tử đối_với người nước_ngoài
+
+1 . Đăng_kí tài_khoản định_danh điện_tử mức_độ 1
+
+a ) Người nước_ngoài sử_dụng thiết_bị di_động tải và cài_đặt ứng_dụng VNeID .
+
+b ) Người nước_ngoài sử_dụng ứng_dụng VNeID để nhập thông_tin về số hộ_chiếu hoặc giấy_tờ có giá_trị đi_lại quốc_tế và địa_chỉ thư điện_tử hoặc số điện_thoại ( nếu có ) ; cung_cấp các thông_tin theo hướng_dẫn trên ứng_dụng VNeID ; thu_nhận ảnh chân_dung bằng thiết_bị di_động và gửi yêu_cầu đề_nghị cấp tài_khoản định_danh điện_tử tới cơ_quan quản_lí định_danh và xác_thực điện_tử qua ứng_dụng VNeID .
+
+c ) Cơ_quan quản_lí định_danh điện_tử thông_báo kết_quả đăng_kí tài_khoản qua ứng_dụng VNeID hoặc tin nhắn Sms hoặc địa_chỉ thư điện_tử .
+
+2 . Đăng_kí tài_khoản định_danh điện_tử mức_độ 2
+
+a ) Người nước_ngoài đến cơ_quan quản_lí xuất nhập_cảnh thuộc Bộ Công_an hoặc Công_an cấp tỉnh làm thủ_tục đăng_kí tài_khoản định_danh điện_tử , xuất_trình Hộ_chiếu hoặc giấy_tờ có giá_trị đi_lại quốc_tế , cung_cấp thông_tin địa_chỉ thư điện_tử hoặc số điện_thoại ( nếu có ) và đề_nghị bổ_sung thông_tin được tích_hợp vào tài_khoản định_danh điện_tử .
+
+b ) Cán_bộ tiếp_nhận nhập thông_tin người nước_ngoài cung_cấp vào hệ_thống định_danh và xác_thực điện_tử ; chụp ảnh chân_dung , thu_nhận vân tay của người nước_ngoài đến làm thủ_tục để xác_thực với Cơ_sở dữ_liệu quốc_gia về xuất nhập_cảnh và khẳng_định sự đồng_ý đăng_kí tạo_lập tài_khoản định_danh điện_tử .
+
+c ) Cơ_quan quản_lí xuất nhập_cảnh gửi yêu_cầu cấp tài_khoản định_danh điện_tử tới cơ_quan quản_lí định_danh và xác_thực điện_tử .
+
+d ) Cơ_quan quản_lí định_danh và xác_thực điện_tử thông_báo kết_quả đăng_kí tài_khoản qua ứng_dụng VNeID hoặc tin nhắn Sms hoặc địa_chỉ thư điện_tử .
+
+Điều 16 . Trình_tự , thủ_tục đăng_kí tài_khoản định_danh điện_tử đối_với tổ_chức
+
+1 . Người đại_diện theo pháp_luật , người đứng đầu của tổ_chức ( đã có tài_khoản định_danh điện_tử mức_độ 2 ) đăng_nhập ứng_dụng VNeID để đăng_kí tài_khoản định_danh điện_tử cho tổ_chức ; cung_cấp các thông_tin theo hướng_dẫn trên ứng_dụng VNeID và gửi yêu_cầu đề_nghị cấp tài_khoản định_danh điện_tử tới cơ_quan quản_lí định_danh và xác_thực điện_tử qua ứng_dụng VNeID .
+
+2 . Cơ_quan quản_lí định_danh và xác_thực điện_tử tiến_hành_xác_thực thông_tin về tổ_chức trong Cơ_sở dữ_liệu quốc_gia về đăng_kí doanh_nghiệp , cơ_sở dữ_liệu quốc_gia và cơ_sở dữ_liệu chuyên_ngành khác . Trường_hợp thông_tin về tổ_chức chưa có trong Cơ_sở dữ_liệu quốc_gia về đăng_kí doanh_nghiệp , cơ_sở dữ_liệu quốc_gia và cơ_sở dữ_liệu chuyên_ngành khác thì thực_hiện xác_minh thông_tin tổ_chức và thông_báo kết_quả đăng_kí tài_khoản định_danh điện_tử cho người đến làm thủ_tục của tổ_chức qua ứng_dụng VNeID hoặc tin nhắn Sms hoặc địa_chỉ thư điện_tử .
+
+Điều 17 . Thời_hạn giải_quyết cấp tài_khoản định_danh điện_tử
+
+Kể từ ngày nhận đủ hồ_sơ hợp_lệ theo quy_định tại Nghị_định này , cơ_quan Công_an có trách_nhiệm giải_quyết cấp tài_khoản định_danh điện_tử trong thời_hạn như sau :
+
+1 . Đối_với trường_hợp công_dân Việt_nam đã có thẻ Căn_cước công_dân gắn chíp : Không quá 01 ngày làm_việc với trường_hợp cấp tài_khoản định_danh điện_tử mức_độ 1 , không quá 03 ngày làm_việc với trường_hợp cấp tài_khoản định_danh điện_tử mức_độ 2 . Đối_với trường_hợp công_dân Việt_nam chưa có thẻ Căn_cước công_dân gắn chíp : Không quá 07 ngày làm_việc .
+
+2 . Đối_với người nước_ngoài : Không quá 01 ngày làm_việc với trường_hợp cấp tài_khoản định_danh điện_tử mức_độ 1 ; không quá 03 ngày làm_việc với trường_hợp cấp tài_khoản định_danh điện_tử mức_độ 2 đã có thông_tin về ảnh chân_dung , vân tay trong Cơ_sở dữ_liệu quốc_gia về xuất nhập_cảnh ; không quá 07 ngày làm_việc với trường_hợp cấp tài_khoản định_danh điện_tử mức_độ 2 nhưng chưa có thông_tin về ảnh chân_dung , vân tay trong Cơ_sở dữ_liệu quốc_gia về xuất nhập_cảnh .
+
+3 . Đối_với tổ_chức :
+
+a ) Không quá 01 ngày làm_việc với trường_hợp thông_tin cần xác_thực về tổ_chức đã có trong cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu chuyên_ngành .
+
+b ) Không quá 15 ngày với trường_hợp thông_tin cần xác_thực về tổ_chức không có trong cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu chuyên_ngành .
+
+Điều 18 . Kích_hoạt tài_khoản định_danh điện_tử
+
+Chủ_thể danh_tính điện_tử thực_hiện kích_hoạt tài_khoản định_danh điện_tử trên ứng_dụng VNeID trong vòng 07 ngày kể từ ngày nhận được thông_báo kết_quả cấp tài_khoản định_danh điện_tử . Sau 07 ngày , nếu tài_khoản định_danh điện_tử không được kích_hoạt , chủ_thể danh_tính điện_tử liên_hệ với cơ_quan quản_lí định_danh và xác_thực điện_tử thông_qua tổng_đài tiếp_nhận và giải_quyết các yêu_cầu về định_danh và xác_thực điện_tử để thực_hiện việc kích_hoạt tài_khoản .
+
+Điều 19 . Khoá , mở khoá tài_khoản định_danh điện_tử
+
+1 . Khoá tài_khoản định_danh điện_tử của công_dân
+
+a ) Hệ_thống định_danh và xác_thực điện_tử tự_động ghi_nhận và khoá tài_khoản định_danh điện_tử trong trường_hợp chủ_thể danh_tính điện_tử yêu_cầu khoá tài_khoản định_danh điện_tử của mình ; chủ_thể danh_tính điện_tử_vi_phạm điều_khoản sử_dụng ứng_dụng VNeID ; chủ_thể danh_tính điện_tử bị thu_hồi thẻ Căn_cước công_dân ; chủ_thể danh_tính điện_tử chết . Việc ghi_nhận được thực_hiện thông_qua việc chủ_thể danh_tính điện_tử khai_báo trên ứng_dụng VNeID hoặc việc cập_nhật thông_tin danh_tính điện_tử vào hệ_thống định_danh và xác_thực điện_tử quy_định tại Điều 10 Nghị_định này .
+
+b ) Cơ_quan tiến_hành tố_tụng , cơ_quan_chức_năng có thẩm_quyền hoặc bên sử_dụng dịch_vụ có yêu_cầu khoá tài_khoản định_danh điện_tử thì gửi đề_nghị khoá tài_khoản tới cơ_quan Công_an để xem_xét , giải_quyết .
+
+c ) Trong thời_hạn 02 ngày làm_việc , thủ_trưởng cơ_quan Công_an nơi tiếp_nhận đề_nghị khoá tài_khoản định_danh điện_tử phê_duyệt việc khoá tài_khoản đối_với trường_hợp quy_định tại điểm b khoản 1 Điều này và thông_báo tới cơ_quan , tổ_chức đề_nghị khoá tài_khoản và chủ_thể danh_tính điện_tử . Trường_hợp từ_chối khoá tài_khoản thì có văn_bản trả_lời nêu rõ lí_do .
+
+2 . Khoá tài_khoản định_danh điện_tử của người nước_ngoài
+
+a ) Hệ_thống định_danh và xác_thực điện_tử tự_động ghi_nhận và khoá tài_khoản định_danh điện_tử trong trường_hợp chủ_thể danh_tính điện_tử yêu_cầu khoá tài_khoản định_danh điện_tử của mình ; chủ_thể danh_tính điện_tử_vi_phạm điều_khoản sử_dụng ứng_dụng VNeID ; chủ_thể danh_tính điện_tử hết hạn sử_dụng hộ_chiếu hoặc giấy_tờ có giá_trị đi_lại quốc_tế ; chủ_thể danh_tính điện_tử hết thời_hạn cư_trú trên lãnh_thổ Việt_nam ; chủ_thể danh_tính điện_tử chết . Việc ghi_nhận được thực_hiện thông_qua việc chủ_thể danh_tính điện_tử khai_báo trên ứng_dụng VNeID hoặc việc cập_nhật thông_tin danh_tính điện_tử vào hệ_thống định_danh và xác_thực điện_tử quy_định tại Điều 10 Nghị_định này .
+
+b ) Cơ_quan tiến_hành tố_tụng , cơ_quan_chức_năng có thẩm_quyền hoặc bên sử_dụng dịch_vụ có yêu_cầu khoá tài_khoản định_danh điện_tử thì gửi đề_nghị khoá tài_khoản tới cơ_quan Công_an để xem_xét , giải_quyết .
+
+c ) Trong thời_hạn 02 ngày làm_việc , thủ_trưởng cơ_quan Công_an nơi tiếp_nhận đề_nghị khoá tài_khoản định_danh điện_tử phê_duyệt việc khoá tài_khoản đối_với trường_hợp quy_định tại điểm b khoản 1 Điều này và thông_báo tới cơ_quan , tổ_chức đề_nghị khoá tài_khoản và chủ_thể danh_tính điện_tử . Trường_hợp từ_chối khoá tài_khoản thì có văn_bản trả_lời nêu rõ lí_do .
+
+3 . Khoá tài_khoản định_danh điện_tử của tổ_chức
+
+a ) Hệ_thống định_danh và xác_thực điện_tử tự_động ghi_nhận và khoá tài_khoản định_danh điện_tử trong trường_hợp chủ_thể danh_tính điện_tử yêu_cầu khoá tài_khoản định_danh điện_tử của mình ; chủ_thể danh_tính điện_tử_vi_phạm điều_khoản sử_dụng ứng_dụng VNeID ; tổ_chức giải_thể , dừng hoạt_động theo quy_định của pháp_luật . Việc ghi_nhận được thực_hiện thông_qua việc chủ_thể danh_tính điện_tử khai_báo trên ứng_dụng VNeID hoặc việc cập_nhật thông_tin danh_tính điện_tử vào hệ_thống định_danh và xác_thực điện_tử quy_định tại Điều 10 Nghị_định này .
+
+b ) Cơ_quan tiến_hành tố_tụng , cơ_quan_chức_năng có thẩm_quyền hoặc bên sử_dụng dịch_vụ có yêu_cầu khoá tài_khoản định_danh điện_tử thì gửi đề_nghị khoá tài_khoản tới cơ_quan Công_an để xem_xét , giải_quyết .
+
+c ) Trong thời_hạn 02 ngày làm_việc , thủ_trưởng cơ_quan Công_an nơi tiếp_nhận đề_nghị khoá tài_khoản định_danh điện_tử phê_duyệt việc khoá tài_khoản đối_với trường_hợp quy_định tại điểm b khoản 1 Điều này và thông_báo tới cơ_quan , tổ_chức đề_nghị khoá tài_khoản và chủ_thể danh_tính điện_tử . Trường_hợp từ_chối khoá tài_khoản thì có văn_bản trả_lời nêu rõ lí_do .
+
+4 . Mở khoá tài_khoản định_danh điện_tử
+
+a ) Hệ_thống định_danh và xác_thực điện_tử tự_động mở khoá ngay tài_khoản định_danh điện_tử khi các căn_cứ khoá tự_động tài_khoản định_danh điện_tử đã hết ;
+
+b ) Cơ_quan tiến_hành tố_tụng , cơ_quan_chức_năng có thẩm_quyền hoặc bên sử_dụng dịch_vụ có yêu_cầu mở khoá tài_khoản định_danh điện_tử thì gửi đề_nghị mở khoá tài_khoản tới cơ_quan Công_an để xem_xét , giải_quyết .
+
+c ) Trong thời_hạn 02 ngày làm_việc , thủ_trưởng cơ_quan Công_an nơi tiếp_nhận đề_nghị mở khoá tài_khoản định_danh điện_tử phê_duyệt việc mở khoá tài_khoản đối_với trường_hợp quy_định tại điểm b khoản 2 Điều này và thông_báo tới cơ_quan , tổ_chức đề_nghị mở khoá tài_khoản và chủ_thể danh_tính điện_tử . Trường_hợp từ_chối mở khoá tài_khoản thì có văn_bản trả_lời nêu rõ lí_do .
+
+5 . Hình_thức yêu_cầu khoá , mở khoá tài_khoản định_danh điện_tử :
+
+a ) Chủ_thể danh_tính điện_tử thực_hiện theo các bước hướng_dẫn trên ứng_dụng VNeID để yêu_cầu khoá tài_khoản định_danh điện_tử ;
+
+b ) Chủ_thể danh_tính điện_tử liên_hệ với tổng_đài tiếp_nhận và giải_quyết các yêu_cầu về định_danh và xác_thực điện_tử , cung_cấp thông_tin xác_thực chủ tài_khoản định_danh điện_tử để yêu_cầu khoá , mở khoá tài_khoản định_danh điện_tử ;
+
+c ) Chủ_thể danh_tính điện_tử đến cơ_quan quản_lí định_danh và xác_thực điện_tử , cung_cấp thông_tin xác_thực chủ tài_khoản định_danh điện_tử để yêu_cầu khoá , mở khoá tài_khoản định_danh điện_tử .
+
+6 . Khoá , mở khoá tài_khoản định_danh điện_tử khi có yêu_cầu của cơ_quan tiến_hành tố_tụng , cơ_quan_chức_năng có thẩm_quyền
+
+Cơ_quan tiến_hành tố_tụng , cơ_quan_chức_năng có thẩm_quyền có văn_bản gửi cơ_quan quản_lí định_danh và xác_thực điện_tử cùng cấp đề_nghị khoá , mở khoá tài_khoản định_danh điện_tử , trong đó nêu rõ lí_do , thời_hạn khoá .
+
+Điều 20 . Thẩm_quyền cấp tài_khoản định_danh điện_tử , Quyết_định khoá , mở khoá tài_khoản định_danh điện_tử
+
+1 . Cục_trưởng Cục Cảnh_sát quản_lí hành_chính về trật_tự xã_hội Bộ Công_an có thẩm_quyền cấp tài_khoản định_danh điện_tử ; Quyết_định khoá , mở khoá tài_khoản định_danh điện_tử tự_động trên hệ_thống định_danh và xác_thực điện_tử và đề_nghị khoá , mở khoá tài_khoản định_danh điện_tử của cơ_quan cấp cục hoặc tương_đương trở lên .
+
+2 . Trưởng_phòng Cảnh_sát quản_lí hành_chính về trật_tự xã_hội Công_an tỉnh , thành_phố trực_thuộc Trung_ương Quyết_định khoá , mở khoá tài_khoản định_danh điện_tử đối_với đề_nghị được tiếp_nhận tại Công_an cấp tỉnh .
+
+3 . Trưởng Công_an cấp huyện Quyết_định khoá , mở khoá tài_khoản định_danh điện_tử đối_với đề_nghị được tiếp_nhận tại Công_an cấp huyện .
+
+4 . Trưởng Công_an cấp xã Quyết_định khoá , mở khoá tài_khoản định_danh điện_tử đối_với đề_nghị được tiếp_nhận tại Công_an cấp xã .
+
+Điều 21 . Lưu_trữ thông_tin trong hệ_thống định_danh và xác_thực điện_tử
+
+1 . Thông_tin về tài_khoản định_danh điện_tử được lưu_trữ vĩnh_viễn trong hệ_thống định_danh và xác_thực điện_tử .
+
+2 . Thông_tin lịch_sử về việc sử_dụng tài_khoản định_danh điện_tử được lưu_trữ trong hệ_thống định_danh và xác_thực điện_tử với thời_hạn 05 năm kể từ thời_điểm sử_dụng tài_khoản .
+
+Điều 22 . Kết_nối , sử_dụng tài_khoản định_danh điện_tử được tạo_lập bởi hệ_thống định_danh và xác_thực điện_tử
+
+1 . Điều_kiện của tổ_chức , cá_nhân thực_hiện kết_nối với hệ_thống định_danh và xác_thực điện_tử :
+
+a ) Có cơ_sở hạ_tầng , hệ_thống thông_tin để kết_nối ;
+
+b ) Hệ_thống thông_tin phục_vụ kết_nối bảo_đảm an_toàn theo tiêu_chí hệ_thống thông_tin cấp_độ 3 trở lên theo quy_định của pháp_luật .
+
+2 . Trình_tự , thủ_tục , hồ_sơ đề_nghị kết_nối :
+
+a ) Cá_nhân , tổ_chức có nhu_cầu kết_nối với hệ_thống định_danh và xác_thực điện_tử gửi văn_bản đề_nghị kết_nối tới cơ_quan quản_lí định_danh và xác_thực điện_tử nêu rõ phạm_vi , mục_đích_thực_hiện kết_nối và giấy_tờ , tài_liệu chứng_minh đáp_ứng điều_kiện thực_hiện kết_nối quy_định tại khoản 1 Điều này .
+
+b ) Căn_cứ vào điều_kiện thực_hiện kết_nối quy_định tại khoản 1 Điều này và phạm_vi , mục_đích_thực_hiện kết_nối của cá_nhân , tổ_chức đề_nghị kết_nối , cơ_quan quản_lí định_danh và xác_thực điện_tử tổ_chức thẩm_định , kiểm_tra thực_tế và Quyết_định việc cho phép thực_hiện kết_nối .
+
+c ) Trong thời_hạn 30 ngày kể từ ngày nhận được đề_nghị kết_nối , cơ_quan quản_lí định_danh và xác_thực điện_tử xem_xét , Quyết_định cho phép thực_hiện kết_nối bằng văn_bản ; nếu không đồng_ý thì phải trả_lời bằng văn_bản và nêu rõ lí_do .
+
+3 . Thực_hiện kết_nối :
+
+a ) Sau khi cơ_quan quản_lí định_danh và xác_thực điện_tử có văn_bản chấp_thuận cho phép kết_nối hệ_thống định_danh và xác_thực điện_tử với hệ_thống thông_tin của tổ_chức , cá_nhân , tổ_chức cung_cấp dịch_vụ xác_thực điện_tử thực_hiện việc kết_nối thông_qua hợp_đồng cung_cấp dịch_vụ kí với cá_nhân , tổ_chức đó .
+
+b ) Tổ_chức cung_cấp dịch_vụ xác_thực điện_tử ngừng thực_hiện kết_nối trong trường_hợp cá_nhân , tổ_chức vi_phạm thoả_thuận sử_dụng dịch_vụ theo hợp_đồng cung_cấp dịch_vụ . Tổ_chức cung_cấp dịch_vụ xác_thực điện_tử báo_cáo cơ_quan quản_lí định_danh và xác_thực điện_tử về việc ngừng thực_hiện kết_nối để cơ_quan quản_lí định_danh và xác_thực điện_tử thông_báo cho cá_nhân , tổ_chức .
+
+Điều 23 . Xác_thực điện_tử
+
+1 . Cơ_quan quản_lí cơ_sở dữ_liệu chuyên_ngành , cơ_quan nhà_nước , tổ_chức chính_trị , tổ_chức chính_trị - xã_hội , tổ_chức thực_hiện dịch_vụ công được xác_thực thông_tin của chủ_thể danh_tính điện_tử qua cơ_quan quản_lí cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu chuyên_ngành , hệ_thống định_danh và xác_thực điện_tử ; xác_thực_tài_khoản định_danh điện_tử qua hệ_thống định_danh và xác_thực điện_tử .
+
+2 . Cá_nhân , tổ_chức không thuộc khoản 1 Điều này được xác_thực_tài_khoản định_danh điện_tử do hệ_thống định_danh và xác_thực điện_tử tạo_lập qua tổ_chức cung_cấp dịch_vụ xác_thực điện_tử để xác_thực_tài_khoản đó do hệ_thống định_danh và xác_thực điện_tử tạo_lập và còn giá_trị sử_dụng khi thực_hiện thủ_tục hành_chính , dịch_vụ hành_chính công và các giao_dịch khác trên môi_trường điện_tử . Tổ_chức cung_cấp dịch_vụ xác_thực điện_tử không xác_thực thông_tin danh_tính chủ_thể và thông_tin khác của chủ_thể tài_khoản định_danh điện_tử , trừ trường_hợp cần_thiết do Bộ_trưởng Bộ Công_an Quyết_định .
+
+Việc thực_hiện xác_thực_tài_khoản định_danh điện_tử theo yêu_cầu của cá_nhân , tổ_chức không thuộc khoản 1 Điều này được thực_hiện theo thoả_thuận bằng hợp_đồng cung_cấp dịch_vụ với tổ_chức cung_cấp dịch_vụ xác_thực điện_tử . Việc thực_hiện xác_thực_tài_khoản định_danh điện_tử phải có sự đồng_ý của chủ_thể danh_tính điện_tử .
+
+3 . Bộ_trưởng các bộ , cơ_quan ngang bộ , Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương quản_lí cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu chuyên_ngành có trách_nhiệm hướng_dẫn việc thực_hiện xác_thực thông_tin của chủ_thể danh_tính điện_tử có trong cơ_sở dữ_liệu do mình quản_lý .
+
+Điều 24 . Mức_độ xác_thực_tài_khoản định_danh điện_tử
+
+1 . Mức_độ 1 : Xác_thực_tài_khoản định_danh điện_tử được thực_hiện dựa trên một yếu_tố xác_thực theo quy_định tại khoản 9 Điều 3 và phương_tiện xác_thực quy_định tại khoản 10 Điều 3 Nghị_định này trong đó không có thông_tin về sinh trắc học .
+
+2 . Mức_độ 2 : Xác_thực_tài_khoản định_danh điện_tử được thực_hiện dựa trên hai yếu_tố xác_thực khác nhau theo quy_định tại khoản 9 Điều 3 và phương_tiện xác_thực tương_ứng tại khoản 10 Điều 3 Nghị_định này trong đó không có thông_tin về sinh trắc học .
+
+3 . Mức_độ 3 : Xác_thực_tài_khoản định_danh điện_tử được thực_hiện dựa trên hai yếu_tố xác_thực khác nhau trở lên theo quy_định tại khoản 9 Điều 3 và phương_tiện xác_thực tương_ứng tại khoản 10 Điều 3 Nghị_định này trong đó có một thông_tin về sinh trắc học .
+
+4 . Mức_độ 4 : Xác_thực_tài_khoản định_danh điện_tử được thực_hiện dựa trên các yếu_tố xác_thực gồm ảnh chân_dung , vân tay với thông_tin trên thẻ Căn_cước công_dân hoặc Cơ_sở dữ_liệu căn_cước công_dân , Cơ_sở dữ_liệu quốc_gia về xuất nhập_cảnh .
+
+Điều 25 . Phương_thức xác_thực điện_tử trong thực_hiện giao_dịch thông_qua hệ_thống định_danh và xác_thực điện_tử
+
+1 . Việc xác_thực điện_tử đối_với giao_dịch trực_tuyến được thực_hiện qua các phương_tiện xác_thực phù_hợp với mức_độ an_toàn theo yêu_cầu của tổ_chức cung_cấp dịch_vụ trực_tuyến đó .
+
+2 . Đối_với các trường_hợp xác_thực thông_tin tài_khoản tại nơi thực_hiện giao_dịch thực_hiện xác_thực qua giải_pháp xác_thực được cung_cấp tại ứng_dụng VNeID .
+
+Chương_iv
+
+Dịch_vụ Xác_thực_điện_tử
+
+Điều 26 . Dịch_vụ xác_thực điện_tử
+
+1 . Dịch_vụ xác_thực điện_tử là ngành_nghề kinh_doanh có điều_kiện .
+
+2 . Tổ_chức cung_cấp dịch_vụ xác_thực điện_tử phải bảo_đảm điều_kiện quy_định tại Điều 27 Nghị_định này và được Bộ Công_an cấp giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử .
+
+3 . Cơ_quan , tổ_chức , cá_nhân_tạo_lập tài_khoản định_danh theo quy_định tại khoản 3 Điều 13 Nghị_định này không phải tuân_thủ các quy_định tại Điều 27 , Điều 28 , Điều 29 , Điều 30 Nghị_định này .
+
+Điều 27 . Điều_kiện cung_cấp dịch_vụ xác_thực điện_tử
+
+1 . Điều_kiện về tổ_chức , doanh_nghiệp
+
+Đơn_vị sự_nghiệp công_lập , doanh_nghiệp trong Công_an nhân_dân .
+
+2 . Điều_kiện về nhân_sự
+
+a ) Người đứng đầu tổ_chức , người đại_diện theo pháp_luật của doanh_nghiệp là công_dân Việt_nam , thường_trú tại Việt_nam .
+
+b ) Tổ_chức , doanh_nghiệp phải có_nhân_sự có bằng đại_học trở lên chuyên_ngành an_toàn thông_tin hoặc công_nghệ thông_tin hoặc điện_tử viễn_thông chịu trách_nhiệm cung_cấp dịch_vụ , quản_trị hệ_thống , vận_hành hệ_thống , bảo_đảm an_toàn thông_tin của hệ_thống .
+
+3 . Điều_kiện về kĩ_thuật , quy_trình quản_lí cung_cấp dịch_vụ và phương_án bảo_đảm an_ninh , trật_tự
+
+Tổ_chức , doanh_nghiệp đề_nghị cấp giấy xác_nhận phải có Đề_án hoạt_động cung_cấp dịch_vụ bao_gồm các tài_liệu sau :
+
+a ) Phương_án , quy_trình hoạt_động cung_cấp dịch_vụ xác_thực điện_tử bao_gồm thuyết_minh hệ_thống công_nghệ thông_tin ; thuyết_minh phương_án kĩ_thuật về giải_pháp công_nghệ ; phương_án lưu_trữ , bảo_đảm tính toàn_vẹn dữ_liệu , bảo_đảm an_ninh an_toàn thông_tin của hệ_thống cung_cấp dịch_vụ ; phương_án bảo_vệ dữ_liệu cá_nhân , tổ_chức ; phương_án bảo_đảm an_ninh , trật_tự ; phương_án phòng cháy và chữa_cháy , dự_phòng thảm_hoạ và bảo_đảm vận_hành ổn_định , thông_suốt dịch_vụ xác_thực điện_tử ;
+
+b ) Văn_bản giới_thiệu về máy_móc , thiết_bị đang sở_hữu đặt tại Việt_nam phù_hợp với yêu_cầu của pháp_luật về phòng , chống cháy , nổ ; có khả_năng chống chịu lũ , lụt , động_đất , nhiễu điện từ , sự xâm_nhập bất_hợp_pháp của con_người .
+
+Điều 28 . Hồ_sơ , trình_tự thủ_tục cấp giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử
+
+1 . Thành_phần hồ_sơ :
+
+a ) Tờ khai đề_nghị cấp giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử theo Mẫu Xt01 tại Phụ_lục ban_hành kèm theo Nghị_định này ;
+
+b ) Đề_án và các tài_liệu mô_tả theo quy_định tại khoản 3 Điều 27 Nghị_định này .
+
+2 . Trình_tự , thời_hạn và cách_thức cấp Giấy xác_nhận :
+
+a ) Tổ_chức , doanh_nghiệp nộp 01 bộ hồ_sơ đề_nghị cấp Giấy xác_nhận tại khoản 1 Điều này trực_tiếp hoặc qua hệ_thống bưu_chính về Bộ Công_an hoặc nộp hồ_sơ qua Cổng dịch_vụ công_quốc_gia , Cổng dịch_vụ công của Bộ Công_an ;
+
+b ) Trường_hợp hồ_sơ chưa đầy_đủ , hợp_lệ theo quy_định tại khoản 1 Điều này , trong thời_hạn 03 ngày làm_việc kể từ ngày nhận được hồ_sơ , Bộ Công_an có thông_báo bằng văn_bản cho tổ_chức , doanh_nghiệp để bổ_sung hồ_sơ ;
+
+c ) Trong thời_hạn 03 ngày làm_việc kể từ ngày nhận được hồ_sơ hợp_lệ , Bộ Công_an lấy ý_kiến của các bộ , cơ_quan ngang bộ có liên_quan ; trong thời_hạn 10 ngày kể từ ngày nhận được văn_bản của Bộ Công_an , bộ , cơ_quan ngang bộ có văn_bản trả_lời ;
+
+d ) Trong thời_hạn 30 ngày kể từ ngày nhận đủ hồ_sơ hợp_lệ , Bộ Công_an thực_hiện việc thẩm_định , kiểm_tra thực_tế tại tổ_chức , doanh_nghiệp và cấp giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử theo mẫu Xt03 tại Phụ_lục ban_hành kèm theo Nghị_định này cho tổ_chức , doanh_nghiệp đủ điều_kiện ; trường_hợp từ_chối cấp Giấy xác_nhận phải có thông_báo bằng văn_bản nêu rõ lí_do .
+
+Điều 29 . Cấp lại , thay_đổi Giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử
+
+1 . Thay_đổi nội_dung Giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử được thực_hiện trong trường_hợp tổ_chức , doanh_nghiệp thay_đổi một trong các thông_tin về người đại_diện theo pháp_luật , địa_chỉ trụ_sở , tên giao_dịch , phương_án , quy_trình được Bộ Công_an thẩm_định theo quy_định tại khoản 3 Điều 27 Nghị_định này .
+
+Tổ_chức , doanh_nghiệp nộp 01 bộ hồ_sơ đề_nghị thay_đổi nội_dung Giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử về Bộ Công_an theo quy_định tại điểm a khoản 2 Điều 28 Nghị_định này . Hồ_sơ đề_nghị thay_đổi nội_dung Giấy_phép bao_gồm : Tờ khai đề_nghị thay_đổi Giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử theo Mẫu Xt02 tại Phụ_lục ban_hành kèm theo Nghị_định này , tài_liệu chứng_minh nội_dung thay_đổi về thông_tin .
+
+a ) Trường_hợp tổ_chức , doanh_nghiệp thay_đổi một trong các thông_tin về người đại_diện theo pháp_luật , địa_chỉ trụ_sở , tên giao_dịch thì trong thời_hạn 10 ngày kể từ ngày nhận đủ hồ_sơ hợp_lệ , Bộ Công_an thẩm_định , cấp giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử cho tổ_chức , doanh_nghiệp đủ điều_kiện ; trường_hợp từ_chối thay_đổi phải thông_báo bằng văn_bản và nêu rõ lí_do ;
+
+b ) Trường_hợp tổ_chức , doanh_nghiệp thay_đổi một trong các thông_tin về phương_án , quy_trình hoạt_động cung_cấp dịch_vụ xác_thực điện_tử thì trong thời_hạn 30 ngày kể từ ngày nhận đủ hồ_sơ hợp_lệ , Bộ Công_an thực_hiện việc thẩm_định , lấy ý_kiến bộ , cơ_quan ngang bộ có liên_quan , kiểm_tra thực_tế và cấp giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử cho tổ_chức , doanh_nghiệp đủ điều_kiện ; trường_hợp từ_chối thay_đổi phải thông_báo bằng văn_bản và nêu rõ lí_do .
+
+2 . Cấp lại Giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử trong trường_hợp bị mất hoặc bị hư_hỏng :
+
+a ) Tổ_chức , doanh_nghiệp nộp 01 bộ hồ_sơ đề_nghị cấp lại Giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử về Bộ Công_an theo quy_định tại điểm a khoản 2 Điều 28 Nghị_định này . Hồ_sơ đề_nghị cấp lại Giấy xác_nhận bao_gồm : Tờ khai đề_nghị cấp lại Giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử theo Mẫu Xt02 tại Phụ_lục ban_hành kèm theo Nghị_định này ;
+
+b ) Trong thời_hạn 03 ngày làm_việc kể từ ngày nhận được tờ khai đề_nghị , Bộ Công_an xem_xét và cấp lại Giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử cho tổ_chức cung_cấp dịch_vụ xác_thực điện_tử ; trường_hợp từ_chối cấp lại phải thông_báo bằng văn_bản và nêu rõ lí_do .
+
+Điều 30 . Thu_hồi Giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử
+
+1 . Tổ_chức cung_cấp dịch_vụ xác_thực điện_tử bị thu_hồi Giấy xác_nhận trong các trường_hợp sau đây :
+
+a ) Tổ_chức , doanh_nghiệp không hoạt_động liên_tục từ 06 tháng trở lên ;
+
+b ) Bị giải_thể hoặc phá_sản theo quy_định của pháp_luật ;
+
+c ) Không tiếp_tục cung_cấp dịch_vụ ;
+
+d ) Vi_phạm_pháp_luật về bảo_vệ dữ_liệu cá_nhân , an_toàn thông_tin , an_ninh mạng .
+
+2 . Bộ Công_an ra Quyết_định về việc thu_hồi Giấy xác_nhận đủ điều_kiện kinh_doanh dịch_vụ xác_thực điện_tử theo Mẫu Xt04 tại Phụ_lục ban_hành kèm theo Nghị_định này .
+
+3 . Tổ_chức cung_cấp dịch_vụ xác_thực điện_tử bị thu_hồi giấy xác_nhận có trách_nhiệm bảo_đảm quyền và lợi_ích hợp_pháp của chủ_thể danh_tính điện_tử và các bên có liên_quan theo quy_định của pháp_luật .
+
+Điều 31 . Chi_phí cấp , sử_dụng tài_khoản định_danh điện_tử và sử_dụng dịch_vụ xác_thực điện_tử
+
+1 . Chủ_thể danh_tính điện_tử là cơ_quan , tổ_chức , công_dân Việt_nam không phải thanh_toán chi_phí đăng_kí cấp tài_khoản định_danh điện_tử và chi_phí sử_dụng tài_khoản định_danh điện_tử do hệ_thống định_danh và xác_thực điện_tử tạo_lập .
+
+2 . Tổ_chức , cá_nhân sử_dụng dịch_vụ xác_thực điện_tử thanh_toán chi_phí cho tổ_chức cung_cấp dịch_vụ xác_thực điện_tử theo quy_định của pháp_luật .
+
+Chương V
+
+Trách_nhiệm Của Cơ_quan , Tổ_chức , Cá_nhân
+
+Điều 32 . Trách_nhiệm chủ_thể danh_tính điện_tử
+
+1 . Bảo_vệ thông_tin danh_tính điện_tử .
+
+2 . Bảo_đảm an_toàn yếu_tố xác_thực .
+
+3 . Thông_báo ngay cho tổ_chức cung_cấp dịch_vụ xác_thực điện_tử khi mất kiểm_soát phương_tiện xác_thực hoặc phát_hiện có người sử_dụng trái_phép danh_tính điện_tử của mình hoặc lí_do khác có_thể gây mất an_toàn sử_dụng dịch_vụ .
+
+Điều 33 . Trách_nhiệm của bên sử_dụng dịch_vụ
+
+1 . Tuân_thủ quy_chuẩn kĩ_thuật về định_danh và xác_thực điện_tử .
+
+2 . Quản_lý , bảo_mật thông_tin tài_khoản định_danh điện_tử , bảo_đảm sử_dụng tài_khoản định_danh điện_tử an_toàn .
+
+3 . Chịu trách_nhiệm về các giao_dịch đã thực_hiện và quy_định của các bên có liên_quan đối_với các giao_dịch điện_tử .
+
+Điều 34 . Trách_nhiệm của tổ_chức cung_cấp dịch_vụ xác_thực điện_tử và cơ_quan , tổ_chức , cá_nhân tự tạo_lập tài_khoản
+
+1 . Trách_nhiệm của tổ_chức cung_cấp dịch_vụ xác_thực điện_tử
+
+a ) Cung_cấp dịch_vụ xác_thực điện_tử cho tổ_chức , cá_nhân trên cơ_sở thoả_thuận bằng hợp_đồng cung_cấp dịch_vụ ;
+
+b ) Bảo_đảm kênh tiếp_nhận thông_tin và việc sử_dụng dịch_vụ là liên_tục 24 giờ trong ngày và 7 ngày trong tuần ;
+
+c ) Tuân_thủ các quy_định của pháp_luật về an_toàn thông_tin mạng , an_ninh mạng , giao_dịch điện_tử , tiêu_chuẩn , quy_chuẩn kĩ_thuật trong lĩnh_vực xác_thực điện_tử ;
+
+d ) Tuân_thủ phương_án , quy_trình hoạt_động cung_cấp dịch_vụ xác_thực điện_tử đã được Bộ Công_an thẩm_định ;
+
+đ ) Gửi báo_cáo định_kì 06 tháng , 01 năm về hoạt_động xác_thực điện_tử cho cơ_quan quản_lí định_danh và xác_thực điện_tử hoặc khi cơ_quan quản_lí định_danh và xác_thực điện_tử có yêu_cầu .
+
+2 . Trách_nhiệm của cơ_quan , tổ_chức , cá_nhân tự tạo_lập tài_khoản phục_vụ hoạt_động của mình :
+
+a ) Chịu trách_nhiệm về tính chính_xác của tài_khoản do mình tạo_lập ;
+
+b ) Bảo_vệ dữ_liệu cá_nhân do mình thu_thập , quản_lí theo quy_định của pháp_luật ;
+
+c ) Bảo_đảm được sự đồng_ý của chủ_thể dữ_liệu trong mọi hoạt_động liên_quan đến việc quản_lý , khai_thác , sử_dụng dữ_liệu ;
+
+d ) Xoá dữ_liệu đã thu_thập , quản_lí trong trường_hợp có yêu_cầu của chủ_thể dữ_liệu , trừ trường_hợp luật có quy_định khác ;
+
+đ ) Gửi báo_cáo về hoạt_động định_danh cho cơ_quan quản_lí định_danh và xác_thực điện_tử khi có yêu_cầu .
+
+Điều 35 . Trách_nhiệm của Bộ Công_an
+
+1 . Xây_dựng , quản_lý , bảo_vệ và vận_hành hệ_thống định_danh và xác_thực điện_tử ; ứng_dụng tài_khoản định_danh điện_tử vào công_tác quản_lí nhà_nước , cải_cách hành_chính , phòng , chống thiên_tai , dịch_bệnh .
+
+2 . Thực_hiện quản_lí nhà_nước về định_danh và xác_thực điện_tử .
+
+3 . Ban_hành hướng_dẫn về tiêu_chuẩn kĩ_thuật , quy_trình , điều_kiện bảo_đảm kết_nối với hệ_thống định_danh và xác_thực điện_tử ; quy_trình xác_thực điện_tử của tổ_chức cung_cấp dịch_vụ xác_thực điện_tử .
+
+4 . Chủ_trì , phối_hợp với các bộ , cơ_quan ngang bộ trong kết_nối các cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu chuyên_ngành phục_vụ_việc định_danh và xác_thực điện_tử .
+
+5 . Chủ_trì , phối_hợp với Bộ Thông_tin và Truyền_thông , Bộ Quốc_phòng , Bộ Tư_pháp và các bộ , cơ_quan ngang bộ có liên_quan thực_hiện thanh_tra , kiểm_tra hoạt_động định_danh và xác_thực điện_tử .
+
+6 . Giải_quyết khiếu_nại , tố_cáo , hướng_dẫn cho cơ_quan , tổ_chức , cá_nhân về đăng_ký , quản_lí định_danh và xác_thực điện_tử .
+
+7 . Kết_nối , tích_hợp hệ_thống định_danh và xác_thực điện_tử với Nền_tảng trao_đổi định_danh điện_tử của Cổng dịch_vụ công_quốc_gia phục_vụ giải_quyết thủ_tục hành_chính , cung_cấp dịch_vụ công trực_tuyến theo quy_định pháp_luật .
+
+8 . Hướng_dẫn áp_dụng tiêu_chuẩn , quy_chuẩn kĩ_thuật trong hoạt_động định_danh và xác_thực điện_tử .
+
+9 . Chủ_trì , phối_hợp với Bộ Thông_tin và Truyền_thông , Bộ Quốc_phòng , Ban Cơ_yếu Chính_phủ bảo_đảm an_toàn và bảo_mật thông_tin đối_với hệ_thống định_danh và xác_thực điện_tử .
+
+10 . Chủ_trì , phối_hợp với bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ thống_nhất các loại giấy_tờ , tài_liệu và phương_án đồng_bộ thông_tin vào tài_khoản định_danh điện_tử .
+
+11 . Chủ_trì , phối_hợp với bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ban Cơ_yếu Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương thống_nhất phương_án kết_nối , chia_sẻ để sử_dụng danh_tính điện_tử , tài_khoản định_danh điện_tử được cung_cấp , tạo_lập bởi hệ_thống định_danh và xác_thực điện_tử ; bảo_đảm_bảo_mật , an_toàn , an_ninh thông_tin .
+
+12 . Phối_hợp với các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương thực_hiện xác_thực , đồng_bộ dữ_liệu các tài_khoản đã được tạo_lập , sử_dụng bởi Cổng dịch_vụ công_quốc_gia , Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh với tài_khoản do hệ_thống định_danh và xác_thực điện_tử tạo_lập .
+
+13 . Chủ_trì , phối_hợp với Bộ Tư_pháp , Bộ Kế_hoạch và Đầu_tư , Bộ Quốc_phòng trong việc bảo_đảm kết_nối , chia_sẻ , cập_nhật thông_tin trong Cơ_sở dữ_liệu quốc_gia về dân_cư , Cơ_sở dữ_liệu quốc_gia về xuất nhập_cảnh , Cơ_sở dữ_liệu hộ_tịch điện_tử , Cơ_sở dữ_liệu quốc_gia về đăng_kí doanh_nghiệp phục_vụ_việc định_danh và xác_thực điện_tử .
+
+14 . Bảo_đảm kênh tiếp_nhận thông_tin và việc sử_dụng hệ_thống định_danh và xác_thực điện_tử liên_tục 24 giờ trong ngày và 7 ngày trong tuần .
+
+Điều 36 . Trách_nhiệm của Bộ Thông_tin và Truyền_thông
+
+1 . Bảo_đảm sử_dụng danh_tính điện_tử , tài_khoản định_danh điện_tử để thực_hiện các thủ_tục hành_chính , dịch_vụ hành_chính công trên môi_trường điện_tử thuộc chức_năng của mình .
+
+2 . Chủ_trì , phối_hợp với Bộ Công_an quy_định về kết_nối kĩ_thuật bảo_đảm kết_nối Nền_tảng tích_hợp , chia_sẻ dữ_liệu quốc_gia với Nền_tảng định_danh và xác_thực điện_tử và các hệ_thống khác có liên_quan , bảo_đảm_bảo_mật , an_toàn , an_ninh thông_tin .
+
+3 . Phối_hợp với Bộ Công_an , Bộ Quốc_phòng bảo_đảm an_toàn và bảo_mật thông_tin đối_với hệ_thống định_danh và xác_thực điện_tử .
+
+Điều 37 . Trách_nhiệm của Bộ Quốc_phòng
+
+1 . Hướng_dẫn cơ_quan , đơn_vị , doanh_nghiệp , cá_nhân trực_thuộc thực_hiện định_danh và xác_thực điện_tử bảo_đảm phù_hợp với các quy_định về bảo_vệ bí_mật nhà_nước trong lĩnh_vực quốc_phòng .
+
+2 . Bảo_đảm sử_dụng danh_tính điện_tử , tài_khoản định_danh điện_tử để thực_hiện các thủ_tục hành_chính , dịch_vụ hành_chính công trên môi_trường điện_tử thuộc chức_năng quản_lí được pháp_luật quy_định .
+
+3 . Phối_hợp với Bộ Công_an thống_nhất phương_án kết_nối , chia_sẻ để sử_dụng danh_tính điện_tử , tài_khoản định_danh điện_tử được cung_cấp , tạo_lập bởi hệ_thống định_danh và xác_thực điện_tử .
+
+4 . Phối_hợp với Bộ Công_an trong bảo_đảm an_toàn thông_tin , an_ninh mạng đối_với hệ_thống định_danh và xác_thực điện_tử .
+
+Điều 38 . Trách_nhiệm của Ban Cơ_yếu Chính_phủ
+
+1 . Hướng_dẫn áp_dụng tiêu_chuẩn , quy_chuẩn kĩ_thuật mật_mã dân_sự và sử_dụng dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ trong hoạt_động định_danh và xác_thực điện_tử .
+
+2 . Chủ_trì , phối_hợp với Bộ Công_an đánh_giá an_toàn mật_mã đối_với bên sử_dụng dịch_vụ xác_thực điện_tử .
+
+3 . Phối_hợp với Bộ Công_an bảo_đảm an_toàn , bảo_mật thông_tin sử_dụng sản_phẩm mật_mã cơ_yếu đối_với hệ_thống định_danh và xác_thực điện_tử , sử_dụng danh_tính điện_tử , tài_khoản định_danh điện_tử trong việc cung_cấp dịch_vụ chữ_kí số chuyên_dùng Chính_phủ .
+
+Điều 39 . Trách_nhiệm của các bộ khác , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương
+
+1 . Phối_hợp với Bộ Công_an thực_hiện kết_nối hệ_thống định_danh và xác_thực điện_tử với Cổng dịch_vụ công_quốc_gia , Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh để phục_vụ giải_quyết dịch_vụ hành_chính công trên môi_trường điện_tử , thời_hạn chậm nhất hoàn_thành việc kết_nối là ngày 30 tháng 6 năm 2024 .
+
+2 . Bảo_đảm sử_dụng danh_tính điện_tử , tài_khoản định_danh điện_tử để thực_hiện các thủ_tục hành_chính , dịch_vụ hành_chính công trên môi_trường điện_tử .
+
+3 . Phối_hợp với Bộ Công_an để thống_nhất phương_án kết_nối , chia_sẻ để sử_dụng danh_tính điện_tử , tài_khoản định_danh điện_tử được cung_cấp , tạo_lập bởi Hệ_thống định_danh và xác_thực điện_tử ; bảo_đảm an_toàn , an_ninh thông_tin .
+
+4 . Bảo_đảm hoạt_động ổn_định , thông_suốt của các cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu chuyên_ngành trong việc xác_thực theo yêu_cầu của cơ_quan quản_lí cơ_sở dữ_liệu chuyên_ngành , cơ_quan nhà_nước , tổ_chức chính_trị , tổ_chức chính_trị - xã_hội , tổ_chức khác được giao thực_hiện dịch_vụ công .
+
+Chương_vi
+
+Điều_khoản Thi_hành
+
+Điều 40 . Hiệu_lực thi_hành
+
+1 . Nghị_định này có hiệu_lực thi_hành từ ngày 20 tháng 10 năm 2022 .
+
+2 . Tài_khoản do Cổng dịch_vụ công_quốc_gia , Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh được sử_dụng để thực_hiện thủ_tục hành_chính , dịch_vụ hành_chính công trên môi_trường điện_tử đến ngày 01 tháng 7 năm 2024 .
+
+3 . Sửa_đổi , bổ_sung khoản 1 Điều 7 <NĐ rel="DSD"> Nghị_định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 </NĐ> về thực_hiện thủ_tục hành_chính , dịch_vụ hành_chính công trên môi_trường điện_tử như sau :
+
+1 . Tổ_chức , cá_nhân thực_hiện thủ_tục hành_chính trên Cổng dịch_vụ công_quốc_gia , Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh thông_qua tài_khoản định_danh điện_tử do hệ_thống định_danh và xác_thực điện_tử tạo_lập được kết_nối , tích_hợp trên Cổng dịch_vụ công_quốc_gia .
+
+Điều 41 . Trách_nhiệm thi_hành
+
+1 . Bộ Công_an chịu trách_nhiệm hướng_dẫn , kiểm_tra , đôn_đốc việc thực_hiện Nghị_định này .
+
+2 . Trong quá_trình thực_hiện Bộ Công_an phối_hợp Bộ Thông_tin và Truyền_thông tổng_hợp xử_lí các vấn_đề theo chức_năng quản_lí nhà_nước . Trường_hợp cần_thiết báo_cáo Thủ_tướng Chính_phủ xem_xét , Quyết_định .
+
+3 . Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm thi_hành Nghị_định này . / .

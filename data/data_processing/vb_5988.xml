@@ -1,0 +1,347 @@
+Thông_tư số 12/2021/tt-btttt ngày 29 tháng 10 năm 2021 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Luật Tần_số vô_tuyến_điện ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về chất_lượng dịch_vụ truyền_hình cáp giao_thức Internet ( iptv ) .
+
+Điều 2 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 5 năm 2022 .
+
+2 . Thông_tư số 08/2014/TT-BTTTT ngày 30 tháng 7 năm 2014 của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_chuẩn kĩ_thuật quốc_gia về chất_lượng dịch_vụ Iptv trên mạng viễn_thông công_cộng cố_định hết hiệu_lực thi_hành kể từ ngày 01 tháng 5 năm 2022 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 84 : 2021 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia
+
+Về Chất_lượng Dịch_vụ Truyền_hình_cáp Giao_thức Internet ( iptv )
+
+National technical regulation
+
+on quality of Internet protocol cable Tv service ( iptv )
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Chỉ_tiêu chất_lượng kĩ_thuật
+
+2 . 1 . 1 . Chất_lượng tín_hiệu video
+
+2 . 1 . 2 . Các tham_số truyền_dẫn
+
+2 . 2 . Các chỉ tiêu chất_lượng phục_vụ
+
+2 . 2 . 1 . Độ khả_dụng của dịch_vụ
+
+2 . 2 . 2 . Thời_gian thiết_lập dịch_vụ
+
+2 . 2 . 3 . Thời_gian khắc_phục_dịch_vụ
+
+2 . 2 . 4 . Khiếu_nại của khách_hàng về chất_lượng dịch_vụ
+
+2 . 2 . 5 . Hồi_âm khiếu_nại của khách_hàng
+
+2 . 2 . 6 . Dịch_vụ trợ_giúp khách_hàng
+
+3 . Quy_định Về Quản_lý
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+5 . Tổ_chức Thực_hiện
+
+Thư_mục tài_liệu tham_khảo
+
+Lời_nói_đầu
+
+Qcvn 84 : 2021 / bt thay_thế Qcvn 84 : 2014 / bt .
+
+Qcvn 84 : 2021 / bt do Viện Khoa_học kĩ_thuật Bưu_điện biên_soạn , Vụ Khoa_học và Công_nghệ trình_duyệt , Bộ Khoa_học và Công_nghệ thẩm_định , Bộ Thông_tin và Truyền_thông ban_hành kèm theo Thông_tư số 12/2021/TT-BTTTT ngày 29 tháng 10 năm 2021 .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia
+
+Về Chất_lượng Dịch_vụ Truyền_hình_cáp Giao_thức Internet ( iptv )
+
+National technical regulation
+
+on quality of Internet protocol cable Tv service ( iptv )
+
+Quy_chuẩn này quy_định mức giới_hạn của các chỉ tiêu chất_lượng đối_với dịch_vụ truyền_hình cáp giao_thức Internet ( iptv ) trên mạng viễn_thông cố_định mặt_đất tại Việt_nam .
+
+Quy_chuẩn này áp_dụng đối_với cơ_quan quản_lí nhà_nước và các doanh_nghiệp cung_cấp dịch_vụ Iptv trên mạng viễn_thông cố_định mặt_đất .
+
+Quy_chuẩn này cũng là cơ_sở để người sử_dụng giám_sát chất_lượng dịch_vụ Iptv trên mạng viễn_thông cố_định mặt_đất của các doanh_nghiệp .
+
+Tr - 126 ( 12 / 2006 ) : Triple - play Services Quality of Experience ( QoE ) Requirements , Dsl_forum .
+
+Ietf Rfc 3357 ( 8 / 2002 ) : One - way Loss Pattern Sample_metrics .
+
+Itu - t P . 910 ( 04 / 2008 ) : Subjective video quality assessment methods for multimedia applications .
+
+Itu - t P . 913 ( 3 / 2016 ) : Methods for the subjective assessment of video quality , audio quality and audiovisual quality of Internet video and distribution quality television in any environment .
+
+Itu - t J . 343 ( 11 / 2014 ) : Hybrid perceptual bit st re am models for objective video quality measurements .
+
+Itu - t J . 343 Amendment 1 ( 5 / 2018 ) : Hybrid perceptual bit st re am models for objective video quality measurements - Amendment 1 .
+
+Loại_hình dịch_vụ phát_thanh , truyền_hình sử_dụng hạ_tầng kĩ_thuật truyền_dẫn phát_sóng truyền_hình cáp , áp_dụng giao_thức Internet ( iptv ) để cung_cấp các kênh chương_trình phát_thanh , truyền_hình đến người sử_dụng dịch_vụ .
+
+Doanh_nghiệp cung_cấp dịch_vụ Iptv theo các quy_định hiện_hành của Nhà_nước và của Bộ Thông_tin và Truyền_thông .
+
+Cá_nhân , tổ_chức Việt_nam hoặc nước_ngoài sử_dụng dịch_vụ Iptv tại Việt_nam .
+
+Kết_quả tổng_hợp của các chỉ_tiêu thể_hiện mức_độ hài_lòng của người sử_dụng dịch_vụ đối_với dịch_vụ đó .
+
+Sự hỏng của một hoặc một_số phần_tử trong mạng của Dncdv dẫn đến việc_làm gián_đoạn cung_cấp dịch_vụ .
+
+Phương_pháp xác_định là các phương_pháp đánh_giá chất_lượng dịch_vụ với mức lấy mẫu tối_thiểu được quy_định để cơ_quan quản_lí nhà_nước và Dncdv áp_dụng trong việc đo kiểm chất_lượng dịch_vụ .
+
+Mức trong đó các tham_số ứng_dụng khác nhau được thiết_lập , ví_dụ : độ phân_giải màn_hình , loại bộ mã_hoá , tốc_độ bit , khắc_phục việc mất tín_hiệu bộ giải_mã , v . v . Cũng có_thể bao_gồm sự hiệu_chỉnh lỗi trước của lớp ứng_dụng .
+
+Mos được tạo ra bằng cách lấy trung_bình các kết_quả đánh_giá của một bộ tiêu_chuẩn , các bài kiểm_tra chủ_quan , ở đó người dùng đánh_giá chất_lượng trên thang điểm là năm điểm : từ 1 ( Xấu / Rất khó_chịu ) đến 5 ( Tuyệt_vời / Không_thể nhận thấy khiếm_khuyết ) . Mos là trung_bình số_học của tất_cả điểm số đánh_giá .
+
+Lớp chịu trách_nhiệm truyền_dẫn các gói dịch_vụ từ một thực_thể này đến thực_thể khác . Lớp truyền_dẫn sử_dụng định_tuyến và chuyển_tiếp để thực_hiện chức_năng của nó . Nó cũng có_thể sử_dụng các cơ_chế quản_lí lưu_lượng khi cần_thiết . Sự suy_giảm mạng khác nhau ( mất gói , trễ , rung ) có_thể xảy ra ở đây và QoS , các cơ_chế sửa lỗi có_thể được sử_dụng ở trong lớp truyền_dẫn . Đối_với mục_đích của quy_chuẩn này , lớp truyền_dẫn bao_gồm Lớp 4 và lớp ở dưới từ mô_hình mạng Osi .
+
+Các gói liên_tiếp trong một mẫu chuỗi thời_gian là các số chuỗi quy_định , chúng là các số_nguyên liên_tiếp . Quy_chuẩn này không chỉ_định chính_xác làm thế_nào để kết_hợp các số chuỗi với các gói tin . Các số chuỗi có_thể được chứa trong các gói thử_nghiệm , hoặc chúng có_thể được dẫn_xuất thông_qua sự xử_lí sau của mẫu .
+
+Sự thay_đổi trễ truyền_tải gói tin theo thời_gian từ nơi truyền đến nơi nhận
+
+Khoảng thời_gian tối_đa cho phép trong đó xuất_hiện sự_kiện lỗi bởi sự mất gói hoặc một_số gói tin bị lỗi .
+
+Giả_sử P _ i là gói thứ i .
+
+Định_nghĩa f ( P _ i ) = 1 nếu P _ i bị mất , nếu không thì f ( P _ i ) = 0 .
+
+Sau đó , một chu_kì mất gói bắt_đầu nếu f ( P _ i ) = 1 và f ( p _ ( i - 1 ) ) = 0 .
+
+Hiệu_số của số chuỗi của hai gói tin bị mất liên_tiếp , các gói này có_thể hoặc không_thể bị tách rời bởi các gói tin được nhận thành_công .
+
+Ví_dụ : Trong luồng gói , gói tin với số chuỗi 20 được xem như bị mất , tiếp_theo sau là gói với số chuỗi 50 . Khoảng_cách mất gói là 30 .
+
+Tỷ_lệ giữa số gói tin Ip bị mất và tổng_số gói tin Ip_truyền đến của một luồng video trong một khoảng thời_gian xác_định .
+
+2 . 1 . 1 . 1 . Định_nghĩa
+
+Chất_lượng tín_hiệu video là chỉ_số tích_hợp_chất_lượng truyền video được xác_định bằng cách tính điểm trung_bình với thang điểm Mos từ 1 đến 5 theo Itu - t . p913 .
+
+2 . 1 . 1 . 2 . Chỉ_tiêu
+
+Điểm chất_lượng hình_ảnh trung_bình Mos 3 , 0 .
+
+2 . 1 . 1 . 3 . Phương_pháp xác_định
+
+Sử_dụng phương_pháp đo theo Itu - t J . 343 và chuyển_đổi sang thang điểm Mos .
+
+2 . 1 . 2 . 1 . Định_nghĩa
+
+Là các chỉ_tiêu tại lớp truyền_dẫn đảm_bảo chất_lượng dịch_vụ video trong Iptv .
+
+2 . 1 . 2 . 2 . Chỉ_tiêu
+
+Để đảm_bảo chất_lượng dịch_vụ video , các tham_số truyền_dẫn phải tuân theo các giá_trị quy_định trong Bảng 1 , Bảng 2 tương_ứng .
+
+a ) Video độ phân_giải chuẩn
+
+Bộ mã_hoá - giải_mã H . 264 hoặc mã_hoá theo tiêu_chuẩn Smpte 421m
+
+Hiệu_năng tối_thiểu của lớp truyền_dẫn Tv quảng_bá cần_thiết để cung_cấp hiệu_năng chấp_nhận được khi sử_dụng các bộ mã_hoá - giải_mã H . 264 hoặc mã_hoá theo tiêu_chuẩn Smpte 421m :
+
+Giả_định cho Bảng 1 như sau :
+
+- Bộ mã_hoá - giải_mã H . 264 hoặc mã_hoá theo tiêu_chuẩn Smpte 421m ;
+
+- Dòng truyền_tải Mpeg với bảy gói tin 188 byte cho mỗi gói dữ_liệu Ip ;
+
+- Không có công_nghệ Plc ( Packet Loss_concealment - che_giấu sự mất gói ) hoặc che_giấu tối_thiểu sự mất gói ( tỷ_lệ mất gói cho phép có_thể cao hơn tuỳ_thuộc vào mức_độ và chất_lượng kĩ_thuật Plc của Stb ) ;
+
+- Phép đo là đầu_cuối - đầu_cuối , từ đầu ra_bộ mã_hoá điểm cuối đến sau bất_kì các cơ_chế bảo_vệ nào của lớp ứng_dụng ở nhà_riêng của khách_hàng ;
+
+Bảng 1 Các chỉ_tiêu truyền_dẫn đối_với dịch_vụ Sdtv mã_hoá H . 264 hoặc mã_hoá theo tiêu_chuẩn Smpte 421m
+
+b ) Tv độ phân_giải cao
+
+Đề_xuất rằng giá_trị 4 h được sử_dụng như khoảng_cách mất gói tối_thiểu cho các dịch_vụ Hd_tv , giả_sử rằng không phải tất_cả các lỗi sẽ dẫn đến sự suy_giảm có_thể nhìn thấy , bởi_vì :
+
+- Sự mất thông_tin khung B đôi_khi dưới ngưỡng đáng chú_ý ;
+
+- Kỹ_thuật che_giấu lỗi sẽ được sử_dụng với các bộ giải_mã Hd_tv .
+
+Bộ mã_hoá - giải_mã H . 264 , Smpte 421m hoặc Avs
+
+Bảng 2 dưới đây cho thấy mức tối_thiểu của hiệu_năng lớp truyền_tải , đối_với chu_kì mất gói và khoảng_cách mất gói , cần_thiết khi sử_dụng các bộ mã_hoá - giải_mã H . 264 , Smpte 421m hoặc Avs .
+
+Giả_định cho Bảng 2 như sau :
+
+- Bộ mã_hoá - giải_mã H . 264 , Smpte 421m hoặc Avs ;
+
+- Dòng truyền_tải Mpeg với bảy gói tin 188 byte cho mỗi gói dữ_liệu Ip ;
+
+- Stb có một_số mức_độ Plc ;
+
+- Phép đo là đầu_cuối - đầu_cuối , từ đầu ra_bộ mã_hoá điểm cuối đến sau bất_kì các cơ_chế bảo_vệ nào của lớp ứng_dụng ở nhà_riêng của khách_hàng ;
+
+- Phép đo dành cho các luồng Ip chỉ chứa các luồng video ; các luồng Ip cho các ứng_dụng khác có_thể có các yêu_cầu chỉ_tiêu khác nhau .
+
+Bảng 2 - Các chỉ_tiêu truyền_dẫn đối_với dịch_vụ Hd_tv mã_hoá H . 264 , Smpte 421m hoặc Avs
+
+2 . 1 . 2 . 3 . Phương_pháp xác_định
+
+Phương_pháp giám_sát . Sử_dụng các thiết_bị đo giám_sát tại thiết_bị nhà thuê_bao ( stb ) , trong điều_kiện Stb có hoặc không có khả_năng bù lỗi .
+
+Các tham_số truyền_dẫn chỉ áp_dụng đối_với các luồng Ip truyền_tải nội_dung video .
+
+2 . 2 . 1 . 1 . Định_nghĩa
+
+Độ khả_dụng của dịch_vụ ( d ) là tỉ_lệ thời_gian trong đó Dncdv sẵn_sàng cung_cấp dịch_vụ cho khách_hàng :
+
+Trong đó :
+
+Tr : Thời_gian xác_định độ khả_dụng của dịch_vụ ;
+
+Tf : Thời_gian sự_cố thuộc trách_nhiệm của Dncdv được tính theo công_thức :
+
+N : Tổng_số lần xảy ra sự_cố trong thời_gian xác_định độ khả_dụng ;
+
+Ri : Tổng_số thuê_bao Iptv tại thời_điểm xảy ra sự_cố thứ i ;
+
+ri : Số thuê_bao Iptv bị ảnh_hưởng trong sự_cố thứ i ;
+
+ti thời_gian sự_cố thứ i .
+
+2 . 2 . 1 . 2 . Chỉ_tiêu
+
+Độ khả_dụng của dịch_vụ 99 , 5 % .
+
+2 . 2 . 1 . 3 . Phương_pháp xác_định
+
+Phương_pháp thống_kê . Thống_kê toàn_bộ sự_cố trong thời_gian xác_định độ khả_dụng . Thời_gian xác_định độ khả_dụng tối_thiểu là 3 tháng .
+
+2 . 2 . 2 . Thời_gian thiết_lập dịch_vụ
+
+2 . 2 . 2 . 1 . Định_nghĩa
+
+Thời_gian thiết_lập dịch_vụ ( e ) là khoảng thời_gian được tính từ lúc Dncdv kí hợp_đồng cung_cấp dịch_vụ Iptv trên mạng viễn_thông cố_định mặt_đất với khách_hàng cho tới khi khách_hàng có_thể sử_dụng được dịch_vụ này . Nếu Dncdv không_thể kí hợp_đồng cung_cấp dịch_vụ thì trong vòng 3 ngày kể từ thời_điểm nhận được yêu_cầu cung_cấp dịch_vụ của khách_hàng , Dncdv phải có văn_bản thông_báo cho khách_hàng về việc từ_chối kí_kết_hợp_đồng dịch_vụ và nêu rõ lí_do từ_chối .
+
+2 . 2 . 2 . 2 . Chỉ_tiêu
+
+- Trường_hợp đã có sẵn đường_dây thuê_bao : 90 % số hợp_đồng cung_cấp dịch_vụ có thời_gian thiết_lập dịch_vụ E 3 ngày .
+
+- Trường_hợp chưa có đường_dây thuê_bao :
+
++ Nội_thành , thị_xã : 90 % số hợp_đồng cung_cấp dịch_vụ có thời_gian thiết_lập dịch_vụ E 5 ngày ( Không tính ngày lễ , thứ 7 và chủ_nhật ) . .
+
++ Thị_trấn , xã : 90 % số hợp_đồng cung_cấp dịch_vụ có thời_gian thiết_lập dịch_vụ E 5 ngày ( Không tính ngày lễ , thứ 7 và chủ_nhật ) .
+
+2 . 2 . 2 . 3 . Phương_pháp xác_định
+
+Phương_pháp thống_kê . Thống_kê toàn_bộ yêu_cầu thiết_lập dịch_vụ Iptv trên mạng viễn_thông cố_định mặt_đất của Dncdv trong khoảng thời_gian tối_thiểu là 3 tháng .
+
+2 . 2 . 3 . Thời_gian khắc_phục_dịch_vụ
+
+2 . 2 . 3 . 1 . Định_nghĩa
+
+Thời_gian khắc_phục_dịch_vụ ( r ) được tính từ lúc Dncdv nhận được thông_báo về việc mất dịch_vụ từ phía khách_hàng hoặc từ hệ_thống_thiết_bị của doanh_nghiệp đến lúc dịch_vụ được khôi_phục .
+
+2 . 2 . 3 . 2 . Chỉ_tiêu
+
+- Nội_thành , thị_xã : 95 % số lần mất dịch_vụ có R 36 h .
+
+- Thị_trấn , xã : 95 % số lần mất dịch_vụ có R 72 h .
+
+2 . 2 . 3 . 3 . Phương_pháp xác_định
+
+Phương_pháp thống_kê . Thống_kê đầy_đủ số_liệu khắc_phục mất dịch_vụ trong khoảng thời_gian tối_thiểu là 3 tháng .
+
+2 . 2 . 4 . Khiếu_nại của khách_hàng về chất_lượng dịch_vụ
+
+2 . 2 . 4 . 1 . Định_nghĩa
+
+Khiếu_nại của khách_hàng về chất_lượng dịch_vụ là sự không hài_lòng của khách_hàng về chất_lượng dịch_vụ được báo cho Dncdv bằng văn_bản hoặc cổng thông_tin tiếp_nhận ý_kiến khiếu_nại của Dncdv .
+
+2 . 2 . 4 . 2 . Chỉ_tiêu
+
+Số khiếu_nại của khách_hàng về chất_lượng dịch_vụ ( qua các hình_thức : gửi văn_bản , gọi điện_thoại , nhắn_tin , gửi email ) 0 , 25 khiếu_nại / 100 khách_hàng / 3 tháng .
+
+2 . 2 . 4 . 3 . Phương_pháp xác_định
+
+Phương_pháp thống_kê . Thống_kê toàn_bộ số khiếu_nại của khách_hàng về chất_lượng dịch_vụ trong khoảng thời_gian tối_thiểu là 3 tháng liên_tiếp .
+
+2 . 2 . 5 . Hồi_âm khiếu_nại của khách_hàng
+
+2 . 2 . 5 . 1 . Định_nghĩa
+
+Hồi_âm khiếu_nại của khách_hàng là văn_bản hoặc thư điện_tử của Dncdv thông_báo cho khách_hàng có đơn , thư khiếu_nại về việc tiếp_nhận và xem_xét giải_quyết khiếu_nại .
+
+2 . 2 . 5 . 2 . Chỉ_tiêu
+
+- Dncdv phải có văn_bản hồi_âm cho 100 % khách_hàng khiếu_nại trong thời_hạn 48 h kể từ thời_điểm tiếp_nhận khiếu_nại bằng đơn , văn_bản .
+
+- Dncdv phải hồi_âm ( gọi điện_thoại , nhắn_tin , gửi email , ) cho 100 % khách_hàng khiếu_nại trong thời_hạn 48 h kể từ thời_điểm tiếp_nhận khiếu_nại không bằng văn_bản ( khách_hàng gọi điện_thoại , nhắn_tin , gửi email , ) .
+
+2 . 2 . 5 . 3 . Phương_pháp xác_định
+
+Phương_pháp thống_kê . Thống_kê toàn_bộ văn_bản hồi_âm cho khách_hàng khiếu_nại về chất_lượng dịch_vụ trong khoảng thời_gian tối_thiểu là 3 tháng liên_tiếp .
+
+2 . 2 . 6 . Dịch_vụ trợ_giúp khách_hàng
+
+2 . 2 . 6 . 1 . Định_nghĩa
+
+Dịch_vụ trợ_giúp khách_hàng là dịch_vụ giải_đáp thắc_mắc , tư_vấn , hướng_dẫn sử_dụng dịch_vụ , tiếp_nhận yêu_cầu , cung_cấp thông_tin cho khách_hàng về dịch_vụ Iptv trên mạng viễn_thông cố_định mặt_đất .
+
+2 . 2 . 6 . 2 . Chỉ_tiêu
+
+- Thời_gian cung_cấp dịch_vụ trợ_giúp khách_hàng bằng nhân_công qua điện_thoại là 24 h trong ngày ;
+
+- Tỷ_lệ ( % ) cuộc_gọi tới dịch_vụ trợ_giúp khách_hàng chiếm mạch thành_công , gửi yêu_cầu kết_nối đến điện_thoại_viên và nhận được tín_hiệu trả_lời của điện_thoại_viên trong vòng 60 s 80 % .
+
+2 . 2 . 6 . 3 . Phương_pháp xác_định
+
+- Phương_pháp mô_phỏng hoặc gọi nhân_công . Thực_hiện mô_phỏng hoặc gọi nhân_công tới dịch_vụ trợ_giúp khách_hàng . Số cuộc_gọi thử tối_thiểu là 250 cuộc_gọi vào các giờ khác nhau trong ngày .
+
+- Phương_pháp giám_sát . Thực_hiện giám_sát tất_cả các cuộc_gọi tới dịch_vụ trợ_giúp khách_hàng bằng thiết_bị hoặc bằng tính_năng sẵn có của mạng . Số_lượng cuộc_gọi lấy mẫu tối_thiểu là toàn_bộ cuộc_gọi trong 7 ngày liên_tiếp .
+
+Dịch_vụ Iptv trên mạng viễn_thông cố_định mặt_đất thuộc phạm_vi quy_định tại 1 . 1 phải tuân_thủ các quy_định tại Quy_chuẩn này .
+
+4 . 1 . Các doanh_nghiệp cung_cấp dịch_vụ Iptv trên mạng viễn_thông cố_định mặt_đất có trách_nhiệm đảm_bảo chất_lượng dịch_vụ Iptv tuân_thủ Quy_chuẩn này .
+
+4 . 2 . Các doanh_nghiệp cung_cấp dịch_vụ Iptv trên mạng viễn_thông cố_định mặt_đất có trách_nhiệm thực_hiện cam_kết , công_bố hợp quy chất_lượng dịch_vụ theo Quy_chuẩn này và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành .
+
+5 . 1 . Cục Phát_thanh , truyền_hình và thông_tin điện_tử và các Sở Thông_tin và Truyền_thông có trách_nhiệm tổ_chức hướng_dẫn , triển_khai quản_lí chất_lượng dịch_vụ Iptv trên mạng viễn_thông cố_định mặt_đất theo Quy_chuẩn này .
+
+5 . 2 . Quy_chuẩn này được áp_dụng thay_thế cho Quy_chuẩn kĩ_thuật quốc_gia Qcvn 84 : 2014 / bt Quy_chuẩn kĩ_thuật quốc_gia về chất_lượng dịch_vụ Iptv trên mạng viễn_thông công_cộng cố_định .
+
+5 . 3 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới .
+
+5 . 4 . Trong quá_trình triển_khai thực_hiện Quy_chuẩn , nếu có vấn_đề phát_sinh , vướng_mắc , các tổ_chức và cá_nhân phản_ánh bằng văn_bản về Bộ Thông_tin và Truyền_thông ( Vụ Khoa_học và Công_nghệ ) để được hướng_dẫn , giải_quyết . / .
+
+[ 1 ] Tcvn 8689 : 2011 Dịch_vụ Iptv trên mạng viễn_thông công_cộng cố_định - Các yêu_cầu .
+
+[ 2 ] Itu - t G . 1080 ( 12 / 2008 ) : Quality of experience requirements for Iptv services .
+
+[ 3 ] Smpte 421m ( 2006 ) , Standard for Television : Vc - 1 Compressed Video Bit st re am Format and Decoding_process .

@@ -1,0 +1,371 @@
+Thông_tư số 28/2016/tt-btttt ngày 07 tháng 12 năm 2016 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 132/2013/NĐ-CP ngày 16 tháng 10 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị chỉ góc hạ_cánh trong hệ_thống vô_tuyến dẫn đường hàng_không .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị chỉ góc hạ_cánh trong hệ_thống vô_tuyến dẫn đường hàng_không ( qcvn 104 : 2016 / bt ) .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2017 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 104 : 2016 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Thiết_bị Chỉ Góc Hạ_cánh Trong Hệ_thống Vô_tuyến Dẫn Đường Hàng_không
+
+National technical regulation on glidepath equipment for radio navigation aids
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Giải_thích từ_ngữ
+
+1 . 4 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Dung_sai tần_số
+
+2 . 1 . 1 . Định_nghĩa
+
+2 . 1 . 2 . Giới_hạn
+
+2 . 1 . 3 . Phương_pháp đo
+
+2 . 2 . Độ sâu điều_chế
+
+2 . 2 . 1 . Định_nghĩa
+
+2 . 2 . 2 . Giới_hạn
+
+2 . 2 . 3 . Phương_pháp đo
+
+2 . 3 . Công_suất sóng mang
+
+2 . 3 . 1 . Định_nghĩa
+
+2 . 3 . 2 . Giới_hạn
+
+2 . 3 . 3 . Phương_pháp đo
+
+2 . 4 . Phát_xạ giả dẫn
+
+2 . 4 . 1 . Định_nghĩa
+
+2 . 4 . 2 . Giới_hạn
+
+2 . 4 . 3 . Phương_pháp đo
+
+3 . Phương_pháp_đo
+
+3 . 1 . Điều_kiện môi_trường
+
+3 . 1 . 1 . Nguồn điện
+
+3 . 1 . 2 . Độ_ẩm và nhiệt_độ
+
+3 . 2 . Giải_thích kết_quả đo
+
+3 . 3 . Kênh đo_kiểm
+
+3 . 4 . Phương_pháp đo_kiểm
+
+3 . 4 . 1 . Đo_kiểm dung_sai tần_số
+
+3 . 4 . 2 . Đo kiểm độ sâu điều_chế
+
+3 . 4 . 3 . Đo_kiểm công_suất sóng mang
+
+3 . 4 . 4 . Đo_kiểm phát_xạ giả dẫn
+
+4 . Quy_định Về Quản_lý
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+6 . Tổ_chức Thực_hiện
+
+Thư_mục_tài_liệu Tham_khảo
+
+Lời_nói_đầu
+
+Qcvn 104 : 2016 / bt được xây_dựng dựa trên_tài_liệu Volume I , Annex 10 ( 07 / 2006 ) của Tổ_chức Hàng_không dân_dụng Quốc_tế ( ic ao ) và Etsi En 302 617-2 V1 . 1 . 1 ( 10 / 2010 ) của Viện Tiêu_chuẩn viễn_thông châu Âu ( etsi ) .
+
+Qcvn 104 : 2016 / bt do Cục Viễn_thông biên_soạn , Vụ Khoa_học và Công_nghệ thẩm_định và trình_duyệt , Bộ Thông_tin và Truyền_thông ban_hành kèm theo <TT rel="DC"> Thông_tư số 28/2016/TT-BTTTT ngày 07 tháng 12 năm 2016 </TT> .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Thiết_bị Chỉ Góc Hạ_cánh Trong Hệ_thống Vô_tuyến Dẫn Đường Hàng_không
+
+National technical regulation on glidepath equipment for radio navigation aids
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn này quy_định yêu_cầu kĩ_thuật áp_dụng cho thiết_bị chỉ góc hạ_cánh trong hệ_thống vô_tuyến dẫn đường hàng_không dùng trên mặt_đất hoạt_động trong băng tần từ 328 , 6 MHz đến 335 , 4 MHz .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn này áp_dụng đối_với các tổ_chức , cá_nhân Việt_nam và nước_ngoài có hoạt_động_sản_xuất , kinh_doanh các thiết_bị thuộc phạm_vi điều_chỉnh của quy_chuẩn này trên lãnh_thổ Việt_nam .
+
+1 . 3 . Giải_thích từ_ngữ
+
+1 . 3 . 1 . Hệ_thống_thiết_bị chỉ góc hạ_cánh hai tần_số ( two - frequency glide path system )
+
+Hệ_thống có vùng phủ_sóng đạt được bằng cách sử_dụng hai mẫu trường bức_xạ độc_lập trên các tần_số sóng mang riêng_rẽ của thiết_bị chỉ góc hạ_cánh .
+
+1 . 3 . 2 . Góc hạ_cánh ( ils glide path angle )
+
+Góc_hợp bởi một đường_thẳng đại_diện cho đường chỉ góc hạ_cánh trung_bình và mặt_phẳng ngang .
+
+1 . 3 . 3 . Công_suất phát danh định ( rated output power )
+
+Công_suất phát của thiết_bị được nhà sản_xuất công_bố .
+
+1 . 3 . 4 . Hệ_thống chỉ_dẫn hạ_cánh cấp I ( ils - i )
+
+Một hệ_thống hạ_cánh bằng thiết_bị cung_cấp thông_tin hướng_dẫn tàu_bay từ giới_hạn tầm phủ_sóng của hệ_thống đến một điểm là nơi giao nhau giữa đường chỉ hướng hạ_cánh và đường chỉ góc hạ_cánh , và có một độ cao là 60 m ( 200ft ) hoặc thấp hơn trên mặt_phẳng ngang có chứa ngưỡng của đường cất hạ_cánh .
+
+1 . 3 . 5 . Hệ_thống chỉ_dẫn hạ_cánh cấp Ii ( ils - ii )
+
+Một hệ_thống hạ_cánh bằng thiết_bị cung_cấp thông_tin hướng_dẫn tàu_bay từ giới_hạn tầm phủ_sóng của hệ_thống đến một điểm là nơi giao nhau giữa đường chỉ hướng hạ_cánh và đường chỉ góc hạ_cánh , và có một độ cao là 15 m ( 50ft ) hoặc thấp hơn trên mặt_phẳng ngang có chứa ngưỡng của đường cất hạ_cánh .
+
+1 . 3 . 6 . Hệ_thống chỉ_dẫn hạ_cánh cấp Iii ( ils - iii )
+
+Một hệ_thống hạ_cánh bằng thiết_bị cùng với sự phụ_trợ của các thiết_bị phụ ở những nơi cần_thiết , cung_cấp thông_tin hướng_dẫn tàu_bay từ giới_hạn tầm phủ_sóng của hệ_thống đến và dọc theo bề_mặt của đường cất hạ_cánh .
+
+1 . 3 . 7 . Đường chỉ hướng hạ_cánh ( Course line )
+
+Quỹ_tích những điểm nằm trong mặt_phẳng ngang , gần tâm đường cất hạ_cánh nhất và không có chênh_lệch độ sâu điều_chế ( dm = 0 ) .
+
+1 . 3 . 8 . Đường chỉ góc hạ_cánh ( ils glide path )
+
+Quỹ_tích những điểm nằm trong mặt_phẳng thẳng_đứng chứa tâm đường cất hạ_cánh và không có chênh_lệch độ sâu điều_chế ( dm = 0 ) .
+
+1 . 3 . 9 . Thiết_bị chỉ góc hạ_cánh ( Glidepath equipment )
+
+Thiết_bị cung_cấp thông_tin về góc hạ_cánh cho máy_bay ( góc hạ_cánh thông_thường là 3 ) .
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Dung_sai tần_số
+
+2 . 1 . 1 . Định_nghĩa
+
+Dung_sai tần_số là độ lệch lớn nhất của tần_số trung_tâm trong băng tần phát_xạ chiếm_dụng so với tần_số được ấn_định , được biểu_thị bằng giá_trị phần_trăm .
+
+2 . 1 . 2 . Giới_hạn
+
+2 . 1 . 2 . 1 . Đối_với sóng mang
+
+Đối_với thiết_bị chỉ góc hạ_cánh một tần_số , dung_sai tần_số cho phép là 0 , 005 % .
+
+Đối_với thiết_bị chỉ góc hạ_cánh hai tần_số , dung_sai tần_số cho phép là 0 , 002 % và dải_tần danh định dành cho các sóng mang phải đối_xứng qua tần_số được ấn_định .
+
+2 . 1 . 2 . 2 . Đối_với tín_hiệu âm_tần
+
+Đối_với thiết_bị chỉ góc hạ_cánh cấp I , dung_sai tần_số cho phép là 2 , 5 % .
+
+Đối_với thiết_bị chỉ góc hạ_cánh cấp Ii , dung_sai tần_số cho phép là 1 , 5 % .
+
+Đối_với thiết_bị chỉ góc hạ_cánh cấp Iii , dung_sai tần_số cho phép là 1 % .
+
+2 . 1 . 3 . Phương_pháp đo
+
+Sử_dụng các phép đo kiểm mô_tả trong 3 . 4 . 1 .
+
+2 . 2 . Độ sâu điều_chế
+
+2 . 2 . 1 . Định_nghĩa
+
+Độ sâu điều_chế biên_độ là tỉ_số giữa hiệu và tổng của biên_độ lớn nhất và nhỏ nhất xác_định trong một chu_kì của dạng sóng điều_chế .
+
+2 . 2 . 2 . Giới_hạn
+
+Độ sâu điều_chế phải nằm trong giới_hạn từ 37 , 5 % đến 42 , 5 % ứng với mỗi tín_hiệu điều_chế âm_tần 90 Hz và 150 Hz .
+
+2 . 2 . 3 . Phương_pháp đo
+
+Sử_dụng các phép đo kiểm mô_tả trong 3 . 4 . 2 .
+
+2 . 3 . Công_suất sóng mang
+
+2 . 3 . 1 . Định_nghĩa
+
+Công_suất sóng mang của máy phát là công_suất trung_bình cấp cho ăng ten trong một chu_kì phát không có điều_chế .
+
+Các quy_định kĩ_thuật của quy_chuẩn này phải được áp_dụng cho tất_cả các mức công_suất tại đầu_ra , nơi mà máy phát được thiết_kế để hoạt_động với trở_kháng đầu_ra ăng ten 50 . Trên thực_tế , các phép đo được thực_hiện_tại mức công_suất thấp nhất và cao nhất của máy phát , trừ khi có quy_định khác .
+
+2 . 3 . 2 . Giới_hạn
+
+Giá_trị công_suất sóng mang đo được khi công_suất đầu_ra được điều_chỉnh cực_đại không chênh_lệch quá 1 , 5 dB so với công_suất phát danh định .
+
+2 . 3 . 3 . Phương_pháp đo
+
+Sử_dụng các phép đo kiểm mô_tả trong 3 . 4 . 3 .
+
+2 . 4 . Phát_xạ giả dẫn
+
+2 . 4 . 1 . Định_nghĩa
+
+Phát_xạ giả dẫn là các phát_xạ xuất_hiện_tại cổng ra Rf trên một hay nhiều tần_số nằm ngoài độ rộng băng_thông tần_số cần_thiết và mức của các phát_xạ này có_thể bị suy_giảm mà không ảnh_hưởng đến sự truyền_dẫn tương_ứng của thông_tin . Phát_xạ giả dẫn bao_gồm các phát_xạ hài , các phát_xạ kí_sinh , các thành_phần xuyên điều_chế và thành_phần biến_đổi tần_số , nhưng không bao_gồm các phát_xạ ngoài băng .
+
+2 . 4 . 2 . Giới_hạn
+
+Các giá_trị phát_xạ giả dẫn lớn nhất được quy_định trong Bảng 1
+
+Bảng 1 - Giới_hạn phát_xạ giả dẫn
+
+2 . 4 . 3 . Phương_pháp đo
+
+Sử_dụng các phép đo kiểm mô_tả trong 3 . 4 . 4 .
+
+3 . Phương_pháp_đo
+
+3 . 1 . Điều_kiện môi_trường
+
+3 . 1 . 1 . Nguồn điện
+
+Trong_suốt quá_trình đo kiểm , thiết_bị được cấp nguồn từ nguồn điện có khả_năng tạo ra các điện_áp đo kiểm bình_thường .
+
+Trở_kháng trong của nguồn điện đo kiểm phải đủ nhỏ để ảnh_hưởng của nó đến kết_quả đo là không đáng_kể . Để phục_vụ cho việc đo kiểm , phải đo điện_áp của nguồn điện đo kiểm giữa hai đầu_vào nguồn điện của thiết_bị .
+
+Trong_suốt quá_trình đo kiểm phải duy_trì điện_áp của nguồn điện đo kiểm với dung_sai nhỏ hơn 3 % so với điện_áp tại thời_điểm ban_đầu của mỗi phép đo .
+
+3 . 1 . 1 . 1 . Điện_lưới
+
+Điện_áp đo kiểm đối_với thiết_bị được nối với nguồn điện_lưới phải là điện_áp nguồn điện_lưới danh định .
+
+Theo mục_đích của quy_chuẩn , điện_áp danh định phải là điện_áp được công_bố hay một giá_trị bất_kì trong các điện_áp thiết_kế cho thiết_bị được công_bố .
+
+Tần_số của nguồn điện đo kiểm tương_ứng với nguồn điện_lưới Ac phải nằm trong khoảng 49 Hz và 51 Hz .
+
+3 . 1 . 1 . 2 . Các nguồn điện_áp khác
+
+Khi thiết_bị hoạt_động với các nguồn điện hay các loại ắc qui khác ( sơ_cấp hoặc thứ cấp ) thì điện_áp đo kiểm phải là điện_áp được nhà sản_xuất thiết_bị công_bố .
+
+3 . 1 . 2 . Độ_ẩm và nhiệt_độ
+
+Các điều_kiện bình_thường về nhiệt_độ và độ_ẩm cho phép đo là một sự kết_hợp bất_kì giữa nhiệt_độ và độ_ẩm nằm trong các dải sau đây :
+
+- Nhiệt_độ : 15 C đến 35 C .
+
+- Độ_ẩm tương_đối : 20 % đến 75 % .
+
+Khi không_thể thực_hiện được phép đo kiểm trong các điều_kiện như trên , ghi lại nhiệt_độ môi_trường và độ_ẩm tương_đối khi thực_hiện phép đo kiểm , thông_tin này được ghi vào kết_quả đo kiểm .
+
+3 . 2 . Giải_thích kết_quả đo
+
+Giải_thích các kết_quả ghi trong kết_quả đo kiểm cho các phép đo trong quy_chuẩn này như sau :
+
+- Với mỗi phép đo cụ_thể , độ không đảm_bảo đo thực_tế của phép đo phải được ghi trong báo_cáo đo .
+
+- Với mỗi phép đo , giá_trị về độ không đảm_bảo đo phải bằng hoặc thấp hơn các giá_trị trong Bảng 2 .
+
+Bảng 2 - Độ không đảm_bảo đo
+
+3 . 3 . Kênh đo_kiểm
+
+Đo_kiểm được thực_hiện trên ba tần_số sau trừ khi có quy_định khác :
+
+- 329 , 15 MHz ;
+
+- 332 , 0 MHz ;
+
+- 335 , 0 MHz .
+
+3 . 4 . Phương_pháp đo_kiểm
+
+3 . 4 . 1 . Đo_kiểm dung_sai tần_số
+
+3 . 4 . 1 . 1 . Đo_kiểm dung_sai tần_số sóng mang
+
+Thiết_lập sơ_đồ bố_trí đo như hình sau :
+
+Hình 1 - Cấu_hình đo dung_sai tần_số vô_tuyến
+
+Nối máy phát cần đo với máy đo tần_số thông_qua bộ suy hao trở_kháng 50 .
+
+Đặt máy phát hoạt_động ở chế_độ không điều_chế ( cw ) , các phép đo tần_số được thực_hiện trên kênh đo được đơn_vị đo kiểm lựa_chọn trước .
+
+Ghi lại kết_quả trên máy đo tần_số .
+
+3 . 4 . 1 . 2 . Đo_kiểm dung_sai tần_số tín_hiệu âm_tần
+
+Thiết_lập sơ_đồ bố_trí đo như hình sau :
+
+Hình 2 - Cấu_hình đo dung_sai tần_số tín_hiệu âm_tần
+
+Nối máy đo tần_số vào điểm đo tần_số tần_số tín_hiệu âm_tần .
+
+Tắt_thành_phần tín_hiệu 90 Hz để đo tín_hiệu 150 Hz . Ghi lại kết_quả trên máy đo tần_số .
+
+Tắt_thành_phần tín_hiệu 150 Hz để đo tín_hiệu 90 Hz . Ghi lại kết_quả trên máy đo tần_số .
+
+3 . 4 . 2 . Đo kiểm độ sâu điều_chế
+
+Thiết_lập sơ_đồ bố_trí đo như hình sau :
+
+Hình 3 - Cấu_hình đo độ sâu điều_chế
+
+Nối máy phát cần đo tại đầu_ra kênh Csb ( Carrier and SideBand ) với máy phân_tích điều_chế thông_qua bộ suy hao trở_kháng 50 .
+
+Đặt máy phát ở chế_độ phát , tắt tín_hiệu âm_tần 90 Hz để đo độ sâu điều_chế tín_hiệu âm_tần 150 Hz , ghi lại kết_quả trên máy phân_tích điều_chế .
+
+Đặt máy phát ở chế_độ phát , tắt tín_hiệu âm_tần 150 Hz để đo độ sâu điều_chế tín_hiệu âm_tần 90 Hz , ghi lại kết_quả trên máy phân_tích điều_chế .
+
+3 . 4 . 3 . Đo_kiểm công_suất sóng mang
+
+Thiết_lập sơ_đồ bố_trí đo như hình sau :
+
+Hình 4 - Cấu_hình đo công_suất sóng mang
+
+Nối máy phát với máy đo công_suất qua bộ suy hao trở_kháng 50 . Các phép đo được thực_hiện trong điều_kiện thử_nghiệm khi công_suất đầu_ra của máy phát cấu_hình ở mức cao nhất và thấp nhất .
+
+3 . 4 . 4 . Đo_kiểm phát_xạ giả dẫn
+
+Thiết_lập sơ_đồ bố_trí đo như hình sau :
+
+Hình 5 - Cấu_hình đo phát_xạ giả dẫn
+
+Nối máy phát cần đo với máy phân_tích phổ qua bộ suy hao trở_kháng 50 . Phát_xạ giả dẫn được đo khi máy phát hoạt_động ở chế_độ không điều_chế và hoạt_động trên tần_số trung_tâm tại mục 3 . 3 .
+
+Các phép đo được thực_hiện trên phạm_vi từ 9 kHz đến 4 GHz loại_trừ kênh mà máy phát đang hoạt_động và cách tần_số trung_tâm của máy phát 1 MHz .
+
+Các phép đo cho mỗi một phát_xạ giả được thực_hiện bằng cách sử_dụng một thiết_bị đo vô_tuyến hoặc một máy phân_tích phổ .
+
+Các phép đo được thực_hiện lặp_lại khi máy phát hoạt_động ở chế_độ chờ .
+
+4 . Quy_định Về Quản_lý
+
+Các thiết_bị chỉ góc hạ_cánh thuộc phạm_vi điều_chỉnh quy_định tại mục 1 . 1 phải tuân_thủ các quy_định kĩ_thuật trong quy_chuẩn này .
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+Các tổ_chức , cá_nhân liên_quan có trách_nhiệm thực_hiện các quy_định về chứng_nhận và công_bố hợp quy các thiết_bị thuộc phạm_vi của Quy_chuẩn này và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành
+
+6 . Tổ_chức Thực_hiện
+
+6 . 1 . Cục Viễn_thông và các Sở Thông_tin và Truyền_thông có trách_nhiệm hướng_dẫn , tổ_chức triển_khai quản_lí thiết_bị chỉ góc hạ cách theo quy_chuẩn này .
+
+6 . 2 . Trong trường_hợp các quy_định nêu tại quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới .
+
+Thư_mục_tài_liệu Tham_khảo
+
+[ 1 ] Ic ao Annex 10 Volume I ( July 2006 ) - radio navigation aids .
+
+[ 2 ] Etsi En 302 617-1 V1 . 1 . 1 ( 2009 - 01 ) - Electromagnetic compatibility and Radio spectrum Matters ( erm ) ; Ground - based Uhf radio transmitters , receivers and transceivers for the Uhf aeronautical mobile service using amplitude modulation ; Part - 1 : Technical characteristics and methods of measurement .
+
+[ 3 ] Etsi En 302 617-2 V1 . 1 . 1 ( 2010 - 10 ) - Electromagnetic compatibility and Radio spectrum Matters ( erm ) ; Ground - based Uhf radio transmitters , receivers and transceivers for the Uhf aeronautical mobile service using amplitude modulation ; Part 2 : Harmonized En covering the essential requirements of article 3 . 2 of the R & te Directive .

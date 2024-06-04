@@ -1,0 +1,339 @@
+Thông_tư số 30/2015/tt-btttt ngày 20 tháng 10 năm 2015 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 132/2013/NĐ-CP ngày 16 tháng 10 năm 2013 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện từ đối_với thiết_bị truyền_hình_ảnh số không dây .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện từ đối_với thiết_bị truyền_hình_ảnh số không dây ( qcvn 93 : 2015 / bt ) .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 5 năm 2016 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 93 : 2015 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Tương_thích Điện_từ Đối_với Thiết_bị Truyền_hình_ảnh Số Không Dây
+
+National technical regulation on ElectroMagnetic Compatibility for wireless digital video link equipment
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Phát_xạ Emc
+
+2 . 2 . Miễn_nhiễm
+
+2 . 3 . Điều_kiện đo_kiểm
+
+2 . 3 . 1 . Tổng_quát
+
+2 . 3 . 2 . Bố_trí các tín_hiệu đo_kiểm
+
+2 . 3 . 3 . Băng tần loại_trừ Rf đối_với thiết_bị vô_tuyến truyền_thông
+
+2 . 3 . 4 . Đáp_ứng băng hẹp của máy thu
+
+2 . 4 . Đánh_giá chỉ_tiêu
+
+2 . 4 . 1 . Tổng_quát
+
+2 . 4 . 2 . Thiết_bị có_thể cung_cấp kết_nối thông_tin liên_tục
+
+2 . 4 . 3 . Thiết_bị không_thể cung_cấp kết_nối thông_tin liên_tục
+
+2 . 4 . 4 . Thiết_bị phụ_trợ
+
+2 . 4 . 5 . Phân_loại thiết_bị
+
+2 . 5 . Tiêu_chí chất_lượng
+
+2 . 5 . 1 . Tiêu_chí chất_lượng chung
+
+2 . 5 . 2 . Tiêu_chí chất_lượng đối_với hiện_tượng liên_tục áp_dụng cho máy phát ( ct )
+
+2 . 5 . 3 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến_áp_dụng cho máy phát ( t )
+
+2 . 5 . 4 . Tiêu_chí chất_lượng đối_với hiện_tượng liên_tục áp_dụng cho máy thu ( cr )
+
+2 . 5 . 5 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến_áp_dụng cho máy thu ( tr )
+
+2 . 5 . 6 . Tiêu_chí chất_lượng đối_với thiết_bị phụ_trợ được kiểm_tra độc_lập
+
+3 . Quy_định Về Quản_lý
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+5 . Tổ_chức Thực_hiện
+
+Thư_mục_tài_liệu Tham_khảo
+
+Lời_nói_đầu
+
+Qcvn 93 : 2015 / bt được xây_dựng trên cơ_sở tiêu_chuẩn Etsi En 301 489-28 V1 . 1 . 1 ( 2004 - 09 ) của Viện Tiêu_chuẩn Viễn_thông châu Âu ( etsi ) .
+
+Qcvn 93 : 2015 / bt do Viện Khoa_học Kỹ_thuật B ưu điện biên_soạn , Vụ Khoa_học và Công_nghệ thẩm_định và trình_duyệt , Bộ Thông_tin và Truyền_thông ban_hành kèm theo Thông_tư số 30/2015/TT-BTTTT ngày 20 tháng 10 năm 2015 .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Tương_thích Điện_từ Đối_với Thiết_bị Truyền_hình_ảnh Số Không Dây
+
+National technical regulation on ElectroMagnetic Compatibility for wireless digital video link equipment
+
+Quy_chuẩn này quy_định các yêu_cầu về tương_thích điện_từ ( emc ) , điều_kiện đo kiểm và phương_pháp đánh_giá chỉ_tiêu , tiêu_chí chất_lượng của các thiết_bị truyền_hình_ảnh số không dây .
+
+Các chỉ_tiêu kĩ_thuật liên_quan đến cổng ăng ten và phát_xạ từ cổng vỏ của thiết_bị vô_tuyến không thuộc phạm_vi quy_chuẩn này mà được quy_định trong các tiêu_chuẩn về sản_phẩm cụ_thể .
+
+Quy_chuẩn này áp_dụng cho chủng_loại thiết_bị có băng_thông kênh cho phép tối_đa là 5 MHz , 10 MHz , 20 MHz .
+
+Tần_số hoạt_động của thiết_bị truyền_hình_ảnh số không dây phải tuân_thủ các quy_định về quản_lí tần_số quốc_gia .
+
+Quy_chuẩn này được áp_dụng đối_với các tổ_chức , cá_nhân Việt_nam và nước_ngoài có hoạt_động_sản_xuất , kinh_doanh các thiết_bị thuộc phạm_vi điều_chỉnh của Quy_chuẩn này trên lãnh_thổ Việt_nam .
+
+Qcvn 18 : 2014 / bt , Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện từ đối_với thiết_bị thông_tin vô_tuyến_điện .
+
+Tcvn 8241-4-3:2009 ( iec 61000 - 4 - 3 ) , Tương_thích điện_từ ( emc ) - Phần 4-3: Phương_pháp đo và thử . Miễn_nhiễm đối_với nhiễu phát_xạ tần_số vô_tuyến .
+
+Etsi En 302 064-1: " Electromagnetic compatibility and Radio spectrum Matters ( erm ) ; Wireless Video_links ( wvl ) operating in the 1 , 3 GHz to 50 GHz frequency band ; Part 1 : Technical characteristics and methods of measurement " .
+
+Ăng ten được thiết_kế nối trực_tiếp với thiết_bị mà không sử_dụng đầu nối ngoài 50 và ăng ten đó được coi là một phần của thiết_bị .
+
+Chú_thích : An ten liền có_thể được nối bên trong hoặc bên ngoài thiết_bị .
+
+Ăng ten có_thể tháo rời trong khi đo kiểm theo thông_báo của nhà sản_xuất .
+
+Được định_nghĩa_là Ber 2 10-4 sau khi giải_mã Vi ter bi , mà hầu_như loại_bỏ các lỗi sau giải_mã Reed - Solomon .
+
+Dải_tần_số tối_đa mà máy thu hoặc máy phát có_thể được vận_hành mà không cần lập_trình lại hoặc điều_chỉnh lại .
+
+Thiết_bị cần đo kiểm là đối_tượng cho các yêu_cầu chỉ_tiêu của tài_liệu hiện_hành .
+
+Thiết_bị được dùng chủ_yếu là thiết_bị thông_tin và thường được sử_dụng độc_lập .
+
+Nhiễu điện từ mà tác_động của nó lên thiết_bị hoặc trang thiết_bị cụ_thể không_thể xếp vào một_số các hiệu_ứng đã biết .
+
+Hiện_tượng thay_đổi giữa hai trạng_thái ổn_định liên_tiếp trong một khoảng thời_gian ngắn so với khoảng thời_gian xem_xét .
+
+Dải ( các dải ) tần_số vô_tuyến được xác_định bởi thiết_bị cần đo kiểm ( eut ) mà không có bất_kì sự thay_đổi về đơn_vị .
+
+Thiết_bị được sử_dụng trong kết_nối với máy thu hoặc máy phát .
+
+Chú_thích : Một thiết_bị được coi là thiết_bị phụ_trợ khi :
+
+- Thiết_bị được sử_dụng kết_hợp với một máy thu hoặc máy phát để tạo ra các tính_năng hoạt_động và / hoặc điều_khiển bổ_sung cho thiết_bị thông_tin vô_tuyến ( ví_dụ như để mở_rộng điều_khiển tới vị_trí hoặc khu_vực khác ) , và
+
+- Thiết_bị không_thể sử_dụng riêng_lẻ để tạo ra các chức_năng sử_dụng độc_lập của một máy thu hoặc máy phát , và
+
+- Máy_thu / máy phát mà nó kết_nối tới có khả_năng tạo ra một_số hoạt_động đã được dự_tính như phát và / hoặc thu không cần có thiết_bị phụ_trợ ( nghĩa_là nó không phải là một khối con của thiết_bị chính cần_thiết để duy_trì chức_năng cơ_bản của thiết_bị chính ) .
+
+Ranh_giới vật_lí của thiết_bị mà trường điện từ có_thể bức_xạ và gây ảnh_hưởng .
+
+Chú_thích : Trong trường_hợp thiết_bị có ăng ten liền , cổng này không cách_li với cổng ăng ten .
+
+Giao_diện cụ_thể của thiết_bị ( máy ) có môi_trường điện từ .
+
+Chú_thích : Bất_kì điểm đấu nối trên một thiết_bị dùng để đấu nối cáp tới / từ thiết_bị này được coi như là một cổng ( xem Hình 1 ) .
+
+Hình 1 - Các cổng của thiết_bị
+
+Cổng viễn_thông / mạng là điểm đấu nối cho thoại , dữ_liệu và báo_hiệu dùng để liên_kết các hệ_thống phân_tán rộng thông_qua các phương_tiện đấu nối trực_tiếp tới các mạng viễn_thông ( ví_dụ : mạng viễn_thông chuyển mạch công_cộng , tích_hợp mạng số đa dịch_vụ , đường_dây thuê_bao kĩ_thuật_số , . . . ) , các mạng cục_bộ ( ví_dụ như Ethernet , Token_ring , . . . ) và các mạng tương_tự .
+
+Chú_thích 1 : Cổng dùng cho liên_kết các thành_phần hệ_thống Ite cần đo kiểm ( ví_dụ : Rs 232 , Ieee1284 ( máy_in song_song ) , bus tuần_tự phổ_quát ( usb ) , Ie 1394 ( ( " Fire_wire " ) , v . v ) và việc sử_dụng phù_hợp với đặc_điểm chức_năng của nó ( ví_dụ độ dài cáp lớn nhất nối tới cổng ) không được xem là cổng viễn_thông / mạng theo định_nghĩa này .
+
+Ite loại B là loại thiết_bị thoả_mãn các giới_hạn nhiễu của Ite loại B . Ite loại B chủ_yếu thích_hợp cho sử_dụng môi_trường gia_đình gồm :
+
+- Thiết_bị không cố_định nơi sử_dụng , ví_dụ như thiết_bị xách tay được cấp nguồn từ pin lắp sẵn ;
+
+- Thiết_bị đầu_cuối viễn_thông được cấp nguồn từ mạng viễn_thông ;
+
+- Máy_tính cá_nhân và thiết_bị ghép_nối phụ_trợ .
+
+Chú_thích : Môi_trường gia_đình là môi_trường có_thể sử_dụng máy thu_thanh , thu_hình quảng_bá cách các thiết_bị liên_quan trong vòng 10 m .
+
+Ite loại A là loại Ite khác thoả_mãn các giới_hạn nhiễu của Ite loại A nhưng không thoả_mãn giới_hạn nhiễu của Ite loại B . Các thiết_bị này không bị hạn_chế mua_bán , nhưng trong hướng_dẫn sử_dụng phải có cảnh_báo sau đây :
+
+Cảnh_báo : Đây là sản_phẩm loại A . Trong môi_trường gia_đình_sản_phẩm này có_thể gây nhiễu vô_tuyến , trong trường_hợp đó người sử_dụng có_thể phải thực_hiện các biện_pháp xử_lí thích_hợp .
+
+Yêu_cầu về phát_xạ tuân theo mục 2 . 1 trong Qcvn 18 : 2014 / bt .
+
+Yêu_cầu về miễn_nhiễm tuân theo mục 2 . 2 trong Qcvn 18 : 2014 / bt .
+
+Thiết_bị phải được đo trong các điều_kiện đo bình_thường phù_hợp với các tiêu_chuẩn cơ_bản và sản_phẩm liên_quan hoặc các thông_tin kĩ_thuật đi kèm theo thiết_bị , đó là các thông_tin được nhà sản_xuất công_bố như dải nhiệt_độ , độ_ẩm và điện_áp nguồn . Phải ghi lại các điều_kiện này trong báo_cáo đo .
+
+Cấu_hình và chế_độ hoạt_động của Eut khi đo phải được ghi lại trong báo_cáo đo .
+
+Đo phát_xạ và điều_chế đo thử miễn_nhiễm , sơ_đồ đo , tín_hiệu đo quy_định trong quy_chuẩn này , áp_dụng mục 2 . 3 . 1 tới 2 . 3 . 4 .
+
+Đối_với các phép thử Emc , các máy phát mang theo người hay cầm tay phải được gắn trên vật_liệu không dẫn_điện cao ít_nhất 0 , 8 m so với bề_mặt dẫn_điện . Eut và bất_kì thiết_bị cần đánh_giá tiêu_chí chất_lượng trước , trong và sau toàn_bộ bài đo phải được kết_nối điển_hình trong điều_kiện sử_dụng bình_thường .
+
+Khi Eut đi kèm với ăng ten có_thể tháo rời , Eut phải được thử với ăng ten được điều_chỉnh trong điều_kiện sử_dụng bình_thường .
+
+Đối_với các phép thử miễn_nhiễm , thiết_bị nằm trong danh_mục cho phép , đường liên_kết truyền_thông phải được thiết_lập ở đầu_bài đo và duy_trì trong quá_trình đo .
+
+Điều_kiện đo thử phải được quy_định như sau :
+
+- Máy_phát phải được hoạt_động ở công_suất đầu_ra Rf tối_đa được điều_chế với tín_hiệu điều_chế thích_hợp ( xem mục 2 . 3 . 2 . 1 ) ;
+
+- Đối_với máy thu đứng độc_lập hoặc phần thu của chế_độ thu phát hoạt_động ở chế_độ đơn công , tín_hiệu vào Rf mong_muốn , ghép tới máy thu phải được điều_chế với một tín_hiệu điều_chế thích_hợp ( xem mục 2 . 3 . 2 . 3 ) ;
+
+Đối_với máy thu phát song công , tín_hiệu đầu_vào Rf mong_muốn ghép tới máy thu phải được điều_chế với một tín_hiệu điều_chế thích_hợp ( xem mục 2 . 3 . 2 . 3 ) . Máy_phát phải hoạt_động ở công_suất đầu_ra tối_đa , được điều_chế với tín_hiệu điều_chế đo , ghép tới máy phát từ đầu_ra máy thu ( chế_độ lặp_lại ) .
+
+Tuân theo mục A . 2 trong Qcvn 18 : 2014 / bt .
+
+Tuân theo mục A . 2 . 1 trong Qcvn 18 : 2014 / bt .
+
+Đối_với mục_đích của quy_chuẩn này , phát video hay tín_hiệu vào là kết_hợp video / âm_thanh phải được cung_cấp bởi một máy phát có trở_kháng vào được xác_định chính_xác trừ khi có quy_định khác ( xem Hình 2 và 3 ) . Nhà sản_xuất quy_định cụ_thể tín_hiệu đo .
+
+Tuân theo mục A . 2 . 2 trong Qcvn 18 : 2014 / bt .
+
+Tuân theo mục A . 2 . 3 trong Qcvn 18 : 2014 / bt .
+
+Đối_với mục_đích của quy_chuẩn này , phát video hay tín_hiệu vào là kết_hợp video / âm_thanh phải được cung_cấp bởi một máy phát có trở_kháng vào được xác_định chính_xác trừ khi có quy_định khác ( xem Hình 2 và 3 ) . Nhà sản_xuất quy_định cụ_thể tín_hiệu đo .
+
+Hình 2 - Cấu_hình đo ăng ten liền ; hoạt_động của máy_phát - đầu_vào dòng_điện
+
+Hình 3 - Cấu_hình đo ăng ten liền ; hoạt_động của máy thu
+
+Tuân theo mục A . 2 . 4 trong Qcvn 18 : 2014 / bt .
+
+Tuân theo mục A . 2 . 5 trong Qcvn 18 : 2014 / bt .
+
+Tuân theo mục A . 3 trong Qcvn 18 : 2014 / bt .
+
+Băng tần loại_trừ đối_với máy thu và phần thu trong máy thu phát là dải_tần_số được xác_định bằng dải lựa_chọn , dải lựa_chọn do nhà sản_xuất công_bố :
+
+- Tần_số dưới cùng của băng tần loại_trừ bằng tần_số nhỏ nhất thu được khi lấy tần_số dưới cùng của dải lựa_chọn trừ 5 % tần_số trung_tâm của dải lựa_chọn ;
+
+- Tần_số trên cùng của băng tần loại_trừ bằng tần_số lớn nhất thu được khi lấy tần_số trên cùng của dải lựa_chọn cộng 5 % tần_số trung_tâm của dải lựa_chọn .
+
+Dải_lựa_chọn là dải_tần_số lớn nhất mà máy thu có_thể hoạt_động mà không cần lập_trình hoặc sắp_xếp lại .
+
+Băng tần loại_trừ không được áp_dụng khi đo máy phát ở chế_độ chờ standby .
+
+Đối_với mục_đích của quy_chuẩn này , băng tần loại_trừ phải được mở_rộng ra phía trên và phía dưới tần_số phát cơ_bản , nhưng tách ra từ tần_số trung_tâm phát_xạ bởi 250 % của khoảng_cách tách kênh có liên_quan ( chs ) của sắp_xếp kênh tần_số vô_tuyến khi hệ_thống được sắp_đặt . Khi Chs không được định_nghĩa băng tần loại_trừ phải được mở_rộng ra phía trên và phía dưới tần_số phát cơ_bản nhưng tách từ tần_số trung_tâm phát_xạ 250 % băng_thông cần_thiết .
+
+Tuân theo mục A . 4 trong Qcvn 18 : 2014 / bt .
+
+Độ lệch khỏi tần_số danh định được sử_dụng cho việc xác_định đáp_ứng băng hẹp sẽ là gấp đôi băng_thông của bộ lọc trung_tần If phía thu ngay trước bộ giải điều_chế như khai_báo của nhà sản_xuất , cho thủ_tục nhận_biết đầu_tiên , thứ hai và một nửa băng_thông phía thu cho phần còn lại .
+
+Đáp_ứng băng hẹp được giới_hạn ít hơn 3 lần so với băng_thông kênh ( b ) được khai_báo của hệ_thống . Xem En 302 064-1.
+
+Tuân theo mục B . 1 trong Qcvn 18 : 2014 / bt .
+
+Ngoài_ra , tại thời_điểm nộp hồ_sơ thầu của các thiết_bị đo , nhà sản_xuất phải cung_cấp các thông_tin được ghi trong báo_cáo thử_nghiệm :
+
+- Đấu_nối có_nghĩa_là được sử_dụng cho các ứng_dụng của tín_hiệu điều_chế tới Eut và giám_sát đầu_ra Eut ; và
+
+- Mức_độ và bổ_sung tín_hiệu đo Rf cho việc thiết_lập liên_kết thông_tin ;
+
+- Mô_tả cơ_cấu đo kiểm .
+
+Tuân theo mục B . 2 trong Qcvn 18 : 2014 / bt .
+
+Tuân theo mục B . 3 trong Qcvn 18 : 2014 / bt .
+
+Tuân theo mục B . 4 trong Qcvn 18 : 2014 / bt .
+
+Tuân theo mục B . 5 , Qcvn 18 : 2014 / bt .
+
+Thiết_bị phải đáp_ứng các chỉ tiêu chất_lượng tối_thiểu được quy_định trong 2 . 5 . 2 , 2 . 5 . 3 , 2 . 5 . 4 , 2 . 5 . 5 và 2 . 5 . 6 .
+
+Sự thiết_lập và duy_trì một liên_kết truyền_thông và đánh_giá biên_độ tổn hao tại điểm gần như_không lỗi Quasi - Error - Free ( qef ) được sử_dụng như tiêu_chí để đảm_bảo rằng tất_cả các chức_năng chính của máy phát và máy thu được đánh_giá trong suốt quá_trình thử miễn_nhiễm . Ngoài_ra , bài đo cũng phải được tiến_hành ở chế_độ " rỗi " để đảm_bảo máy phát hoạt_động như dự_định . Sự duy_trì đường liên_kết truyền_thông phải được đánh_giá bằng bộ Chỉ_thị , có_thể là một phần của hệ_thống đo kiểm hoặc thiết_bị được đo kiểm Eut .
+
+Nếu thiết_bị có tính_chất chuyên_dụng , chẳng_hạn các tiêu_chí chất_lượng được mô_tả trong các mục dưới đây không phù_hợp thì nhà sản_xuất phải khai_báo bổ_sung vào báo_cáo đo , chỉ_tiêu kĩ_thuật riêng sự suy_giảm chất_lượng ở mức_độ chấp_nhận được trong suốt quá_trình thử miễn_nhiễm . Các chỉ_tiêu kĩ_thuật bao_gồm trong mô_tả sản_phẩm và quy_chuẩn này .
+
+Đường liên_kết truyền_thông phải được thiết_lập khi bắt_đầu phép đo kiểm và được duy_trì trong quá_trình đo kiểm , xem các điều mục 2 . 3 . 2 , 2 . 3 . 3 , 2 . 3 . 4 và 2 . 3 . 5 .
+
+Trước khi đo , bộ suy hao ở đầu_vào máy thu phải được điều_chỉnh để đạt được hoạt_động tại điểm Qef ( hoặc tương_đương ) .
+
+Trong quá_trình đo , bộ suy hao phải được điều_chỉnh để liên_kết truyền_thông được tái_thiết_lập hoạt_động tại điểm Qef .
+
+Mức_độ điều_chỉnh suy hao cần_thiết để đạt được điều này phải được ghi vào báo_cáo đo . Điều này được định_nghĩa_là tổn hao biên_độ nhiễu ( lonm - Loss Of Noise_margin ) .
+
+Lonm không được vượt quá 3 dB .
+
+Trường_hợp không thực_tế để đo Ber nhà sản_xuất phải nêu rõ mức_độ suy_giảm hình_ảnh được coi là tương_đương với hoạt_động tại điểm Qef .
+
+Khi kết_thúc phép đo kiểm , Eut vẫn phải hoạt_động như mong_muốn , không mất các chức_năng đối_tượng sử_dụng điều_khiển hay số_liệu được lưu_trữ và đường truyền_thông sẽ vẫn phải được duy_trì . Ngoài_ra để xác_định chỉ_tiêu kĩ_thuật trên trong điều_kiện hoạt_động bình_thường , bài đo phải tiến_hành ở chế_độ " rỗi " và máy phát không được hoạt_động một_cách không có chủ_định .
+
+Đường liên_kết truyền_thông phải được thiết_lập khi bắt_đầu phép đo kiểm , xem các điều mục 2 . 3 . 2 , 2 . 3 . 3 , 2 . 3 . 4 và 2 . 3 . 5 .
+
+Trước khi đo , bộ suy hao ở đầu_vào máy thu phải được điều_chỉnh để đạt được hoạt_động tại điểm Qef ( hoặc tương_đương ) .
+
+Trong quá_trình đo , bộ suy hao phải được điều_chỉnh để liên_kết truyền_thông được tái_thiết_lập hoạt_động tại điểm Qef .
+
+Mức_độ điều_chỉnh suy hao cần_thiết để đạt được điều này phải được ghi vào báo_cáo đo .
+
+Điều này được định_nghĩa_là biên_độ tổn hao nhiễu Loss Of Noise_margin ( lonm ) .
+
+Lonm không được vượt quá 3 dB .
+
+Trên lí_thuyết để đo Ber nhà sản_xuất phải nêu rõ mức_độ suy_giảm hình_ảnh được coi là tương_đương với hoạt_động tại điểm Qef .
+
+Khi kết_thúc mỗi phép đo kiểm , Eut vẫn phải hoạt_động như mong_muốn và người sử_dụng không nhận ra dấu_hiệu mất đường truyền_thông_tin .
+
+Khi kết_thúc phép đo kiểm tổng_thể bao_gồm chuỗi các phép đo riêng_lẻ , Eut vẫn phải hoạt_động như mong_muốn , không mất các chức_năng đối_tượng sử_dụng điều_khiển hay số_liệu được lưu_trữ như nhà sản_xuất đã công_bố và đường truyền_thông sẽ vẫn phải được duy_trì . Ngoài_ra để xác_định các chỉ_tiêu kĩ_thuật trên khi hoạt_động bình_thường , phải tiến_hành đo kiểm trong chế_độ " rỗi " và máy phát không được hoạt_động một_cách không có chủ_đích .
+
+Đường liên_kết truyền_thông phải được thiết_lập khi bắt_đầu phép đo kiểm , xem các điều mục 2 . 3 . 1 , 2 . 3 . 2 , 2 . 3 . 3 và 2 . 3 . 4 .
+
+Trước khi đo , bộ suy hao ở đầu_ra máy phát phải được điều_chỉnh để đạt được hoạt_động tại điểm Qef ( hoặc tương_đương ) .
+
+Trong quá_trình đo , bộ suy hao phải được điều_chỉnh để liên_kết truyền_thông được tái_thiết_lập hoạt_động tại điểm Qef .
+
+Mức_độ điều_chỉnh suy hao cần_thiết để đạt được điều này phải được ghi vào báo_cáo đo . Điều này được định_nghĩa_là biên_độ tổn hao nhiễu Loss Of Noise_margin ( lonm ) .
+
+Lonm không được vượt quá 3 dB .
+
+Trên lí_thuyết để đo Ber nhà sản_xuất phải nêu rõ mức_độ suy_giảm hình_ảnh được coi là tương_đương với hoạt_động tại điểm Qef .
+
+Khi kết_thúc đo , Eut phải hoạt_động như dự_định mà không bị mất các chức_năng đối_tượng sử_dụng điều_khiển hoặc số_liệu cần phải lưu đồng_thời liên_kết truyền_thông phải được duy_trì trong quá_trình đo .
+
+Đường liên_kết truyền_thông phải được thiết_lập khi bắt_đầu phép đo kiểm , xem các điều mục 2 . 3 . 1 , 2 . 3 . 2 , 2 . 3 . 3 và 2 . 3 . 4 .
+
+Trước khi đo , bộ suy hao ở đầu_ra máy phát phải được điều_chỉnh để đạt được hoạt_động tại điểm Qef ( hoặc tương_đương ) .
+
+Trong quá_trình đo , bộ suy hao phải được điều_chỉnh để liên_kết truyền_thông được tái_thiết_lập hoạt_động tại điểm Qef .
+
+Mức_độ điều_chỉnh suy hao cần_thiết để đạt được điều này phải được ghi vào báo_cáo đo . Điều này được định_nghĩa_là biên_độ tổn hao nhiễu Loss Of Noise_margin ( lonm ) .
+
+Lonm không được vượt quá 3 dB .
+
+Trên lí_thuyết để đo Ber nhà sản_xuất phải nêu rõ mức_độ suy_giảm hình_ảnh được coi là tương_đương với hoạt_động tại điểm Qef .
+
+Khi kết_thúc mỗi phép đo kiểm , Eut vẫn phải hoạt_động như mong_muốn và người sử_dụng không nhận ra dấu_hiệu mất đường truyền_thông_tin .
+
+Khi kết_thúc phép đo kiểm tổng_thể bao_gồm chuỗi các phép đo riêng_lẻ , Eut vẫn phải hoạt_động như mong_muốn , không mất các chức_năng đối_tượng sử_dụng điều_khiển hay số_liệu được lưu_trữ như nhà sản_xuất đã công_bố và đường truyền_thông sẽ vẫn phải được duy_trì .
+
+Tuân theo mục C . 4 trong Qcvn 18 : 2014 / bt .
+
+Các thiết_bị truyền_hình_ảnh số không dây thuộc phạm_vi điều_chỉnh được quy_định tại mục 1 . 1 phải tuân_thủ Quy_chuẩn này .
+
+Các tổ_chức , cá_nhân có hoạt_động_sản_xuất , kinh_doanh các thiết_bị truyền_hình_ảnh số không dây phải thực_hiện các quy_định về chứng_nhận và công_bố hợp quy và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành .
+
+5 . 1 . Cục Viễn_thông và các Sở Thông_tin và Truyền_thông có trách_nhiệm tổ_chức hướng_dẫn , triển_khai quản_lí các thiết_bị truyền_hình_ảnh số không dây phù_hợp với Quy_chuẩn này .
+
+5 . 2 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới . / .
+
+Thư_mục_tài_liệu Tham_khảo
+
+[ 1 ] Etsi_en 489-28 V1 . 1 . 1 ( 2004 - 09 ) : Electromagnetic compatibility and Radio spectrum Matters ( erm ) ; ElectroMagnetic Compatibility ( emc ) standard for radio equipment and services ; Part 28 : Specific conditions for wireless digital video links
+
+[ 2 ] Etsi En 301 489-1 ( 2011 - 9 ) : Electromagnetic compatibility and Radio spectrum Matters ( erm ) ; ElectroMagnetic Compatibility ( emc ) standard for radio equipment and services ; Part 1 : Common technical requirements

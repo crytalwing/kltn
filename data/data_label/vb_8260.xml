@@ -1,0 +1,355 @@
+Thông_tư số 20/2017/tt-btttt ngày 12 tháng 09 năm 2017 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật An_toàn thông_tin mạng ngày 19 tháng 11 năm 2015 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 </NĐ> của Chính_phủ về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định số 05/2017/QĐ-TTg ngày 16 tháng 3 năm 2017 </QĐ> của Thủ_tướng Chính_phủ quy_định về hệ_thống phương_án ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng quốc_gia ;
+
+Theo đề_nghị của Giám_đốc Trung_tâm ứng_cứu khẩn_cấp máy_tính Việt_nam ;
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành <TT rel="None"> Thông_tư quy_định về điều_phối </TT> , ứng_cứu sự_cố an_toàn thông_tin mạng trên toàn_quốc .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi và đối_tượng áp_dụng
+
+1 . Thông_tư này quy_định về các hoạt_động điều_phối , ứng_cứu sự_cố an_toàn thông_tin mạng trên toàn_quốc ( không bao_gồm hoạt_động điều_phối ứng_cứu sự_cố an_toàn thông_tin mạng nghiêm_trọng quy_định tại <QĐ rel="DC"> Quyết_định số 05/2017/QĐ-TTg ngày 16 tháng 3 năm 2017 </QĐ> của Thủ_tướng Chính_phủ quy_định về hệ_thống phương_án ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng quốc_gia ( sau đây gọi tắt là <QĐ rel="DC"> Quyết_định số 05/2017/QĐ-TTg </QĐ>));
+
+Các sự_cố của hệ_thống thông_tin do Bộ Quốc_phòng , Bộ Công_an quản_lí không thuộc phạm_vi điều_chỉnh của Thông_tư này .
+
+2 . Đối_tượng áp_dụng là các cơ_quan , tổ_chức , cá_nhân có liên_quan tới hoạt_động điều_phối , ứng_cứu sự_cố an_toàn thông_tin mạng .
+
+Điều 2 . Giải_thích từ_ngữ
+
+1 . Sự_cố an_toàn thông_tin mạng là việc thông_tin , hệ_thống thông_tin bị tấn_công hoặc gây nguy_hại , ảnh_hưởng tới tính nguyên_vẹn , tính bảo_mật hoặc tính khả_dụng ( sau đây gọi tắt là sự_cố ) .
+
+2 . Ứng_cứu sự_cố an_toàn thông_tin mạng là hoạt_động nhằm xử_lý , khắc_phục sự_cố gây mất an_toàn thông_tin mạng gồm : theo_dõi , thu_thập , phân_tích , phát_hiện , cảnh_báo , điều_tra , xác_minh sự_cố , ngăn_chặn sự_cố , khôi_phục dữ_liệu và khôi_phục hoạt_động bình_thường của hệ_thống thông_tin .
+
+3 . Đầu_mối ứng_cứu sự_cố là bộ_phận hoặc cá_nhân được thành_viên mạng_lưới ứng_cứu sự_cố an_toàn thông_tin mạng quốc_gia cử để thay_mặt cho thành_viên liên_lạc và trao_đổi thông_tin với Cơ_quan điều_phối quốc_gia về ứng_cứu sự_cố hoặc các thành_viên khác trong hoạt_động điều_phối , ứng_cứu sự_cố .
+
+Điều 3 . Phân_cấp tổ_chức thực_hiện ứng_cứu sự_cố bảo_đảm an_toàn thông_tin mạng trên toàn_quốc
+
+Phân_cấp tổ_chức thực_hiện ứng_cứu sự_cố bảo_đảm an_toàn thông_tin mạng trên toàn_quốc là các cơ_quan , tổ_chức , đơn_vị thực_hiện ứng_cứu sự_cố bảo_đảm an_toàn thông_tin mạng quốc_gia được quy_định tại <QĐ rel="DC"> Quyết_định số 05/2017/QĐ-TTg </QĐ>. Các cơ_quan , tổ_chức tham_gia hoạt_động điều_phối , ứng_cứu sự_cố trên toàn_quốc gồm :
+
+1 . Bộ Thông_tin và Truyền_thông - Cơ_quan thường_trực về ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng quốc_gia ( gọi tắt là Cơ_quan thường_trực quốc_gia ) và Ban điều_phối ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng quốc_gia ( gọi tắt là Ban điều_phối ứng_cứu_quốc_gia ) ; Trung_tâm Ứng_cứu khẩn_cấp máy_tính Việt_nam_vncert - Cơ_quan điều_phối quốc_gia về ứng_cứu sự_cố ( gọi tắt là Cơ_quan điều_phối quốc_gia ) .
+
+2 . Ban Chỉ_đạo ứng_cứu khẩn_cấp sự_cố an_toàn thông_tin mạng của các Bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ và Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương ( gọi tắt là Ban Chỉ_đạo ứng_cứu sự_cố cấp_bộ , tỉnh ) .
+
+3 . Đơn_vị chuyên_trách về ứng_cứu sự_cố an_toàn thông_tin mạng ( sau đây gọi tắt là Đơn_vị chuyên_trách về ứng_cứu sự_cố ) ; Đội ứng_cứu sự_cố hoặc bộ_phận ứng_cứu sự_cố tại Bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ và Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương ( sau đây gọi tắt là Đội / bộ_phận ứng_cứu sự_cố ) .
+
+4 . Mạng_lưới ứng_cứu sự_cố an_toàn thông_tin mạng quốc_gia ( gọi tắt là Mạng_lưới ứng_cứu sự_cố ) ; và Ban Điều_hành mạng_lưới .
+
+5 . Chủ_quản hệ_thống thông_tin ; đơn_vị vận_hành hệ_thống thông_tin ; các cơ_quan , tổ_chức , đơn_vị chuyên_môn được Cơ_quan thường_trực , Cơ_quan điều_phối quốc_gia hoặc Ban Chỉ_đạo ứng_cứu sự_cố cấp_bộ , tỉnh chỉ_định hoặc triệu_tập tham_gia ứng_cứu sự_cố .
+
+Điều 4 . Nguyên_tắc điều_phối , ứng_cứu sự_cố
+
+1 . Tuân_thủ các quy_định pháp_luật về điều_phối , ứng_cứu sự_cố an_toàn thông_tin mạng .
+
+2 . Chủ_động , kịp_thời , nhanh_chóng , chính_xác , đồng_bộ và hiệu_quả .
+
+3 . Phối_hợp chặt_chẽ , chính_xác , đồng_bộ và hiệu_quả giữa các cơ_quan tổ_chức , doanh_nghiệp trong nước và nước_ngoài .
+
+4 . Ứng_cứu sự_cố trước_hết phải được thực_hiện , xử_lí bằng lực_lượng tại_chỗ và trách_nhiệm chính của chủ_quản hệ_thống thông_tin .
+
+5 . Tuân_thủ các điều_kiện , nguyên_tắc ưu_tiên về duy_trì hoạt_động của hệ_thống thông_tin đã được cấp thẩm_quyền phê_duyệt trong kế_hoạch ứng_phó sự_cố .
+
+6 . Thông_tin trao_đổi trong mạng_lưới phải được kiểm_tra , xác_thực đối_tượng trước khi thực_hiện các bước tác_nghiệp tiếp_theo .
+
+7 . Bảo_đảm bí_mật thông_tin biết được khi tham_gia , thực_hiện các hoạt_động ứng_cứu sự_cố theo yêu_cầu của Cơ_quan điều_phối quốc_gia hoặc cơ_quan tổ_chức , cá_nhân gặp sự_cố .
+
+Chương_ii
+
+Mạng_lưới Ứng_cứu Sự_cố
+
+Điều 5 . Mạng_lưới ứng_cứu sự_cố
+
+1 . Mạng_lưới ứng_cứu sự_cố hoạt_động trên toàn_quốc , gồm thành_viên là các đơn_vị chuyên_trách về ứng_cứu sự_cố và các cơ_quan , tổ_chức , doanh_nghiệp liên_quan được quy_định chi_tiết tại Điều 7 <QĐ rel="DC"> Quyết_định số 05/2017/QĐ-TTg </QĐ>.
+
+2 . Mạng_lưới ứng_cứu sự_cố hoạt_động theo Quy_chế hoạt_động của Mạng_lưới và hướng_dẫn liên_quan của Cơ_quan điều_phối quốc_gia ( Trung_tâm ứng_cứu khẩn_cấp máy_tính Việt_nam ) . Ban điều_hành mạng_lưới do Bộ Thông_tin và Truyền_thông thành_lập theo quy_định tại Điều 7 <QĐ rel="DC"> Quyết_định số 05/2017/QĐ-TTg </QĐ>
+
+3 . Các thành_viên mạng_lưới khai_báo hồ_sơ theo Biểu_mẫu_số 01 ban_hành kèm theo Thông_tư này , định_kì cập_nhật hàng năm , gửi Cơ_quan điều_phối quốc_gia . Các tổ_chức , doanh_nghiệp , cá_nhân tự_nguyện đăng_kí tham_gia mạng_lưới phải có đơn đăng_kí tham_gia theo Biểu_mẫu_số 02 , gửi Cơ_quan điều_phối quốc_gia .
+
+Điều 6 . Trách_nhiệm , quyền_hạn của các thành_viên mạng_lưới
+
+1 . Thành_viên mạng_lưới có các trách_nhiệm và quyền_hạn sau :
+
+a ) Thực_hiện các trách_nhiệm và quyền_hạn quy_định tại <QĐ rel="DC"> Quyết_định số 05/2017/QĐ-TTg </QĐ>;
+
+b ) Cử Đầu_mối ứng_cứu sự_cố có đủ năng_lực , trình_độ chuyên_môn và kĩ_năng nghiệp_vụ để thực_hiện các hoạt_động phối_hợp ứng_cứu sự_cố ; bảo_đảm duy_trì liên_lạc thông_suốt , liên_tục 24/7; công_bố thông_tin về địa_chỉ tiếp_nhận sự_cố trên Trang / Cổng thông_tin điện_tử ; cung_cấp , cập_nhật thông_tin về Đầu_mối ứng_cứu sự_cố , nhân_lực kĩ_thuật an_toàn thông_tin , ứng_cứu sự_cố thuộc phạm_vi quản_lí tới Cơ_quan điều_phối quốc_gia ; cập_nhật thông_tin về Đầu_mối ứng_cứu sự_cố , trong vòng 24 giờ khi có thay_đổi ;
+
+c ) Tổng_hợp , xây_dựng báo_cáo định_kì 06 tháng ( trước ngày 20 tháng 6 ) 01 năm ( trước ngày 15 tháng 12 ) theo Biểu_mẫu_số 05 gửi Cơ_quan điều_phối quốc_gia ; báo_cáo đột_xuất khi có yêu_cầu của Cơ_quan điều_phối quốc_gia ;
+
+d ) Báo_cáo với Cơ_quan điều_phối quốc_gia khi tiếp_nhận thông_tin , phát_hiện các sự_cố đối_với hệ_thống thông_tin trong phạm_vi quản_lý ;
+
+đ ) Xây_dựng và triển_khai kế_hoạch ứng_phó sự_cố , hướng_dẫn hoạt_động ứng_cứu sự_cố , tổ_chức và điều_hành hoạt_động của Đội ứng_cứu sự_cố trong phạm_vi quản_lý ;
+
+e ) Có quyền đề_nghị thành_viên mạng_lưới hướng_dẫn , hỗ_trợ xử_lí và ứng_cứu sự_cố khi cần_thiết ; được tham_gia các hội_thảo , hội_nghị giao_ban , tập_huấn bồi_dưỡng , đào_tạo , huấn_luyện , diễn_tập và các hoạt_động khác trong mạng_lưới ;
+
+g ) Có quyền được chia_sẻ thông_tin , kinh_nghiệm , cảnh_báo về sự_cố và tình_hình an_toàn thông_tin mạng trong và ngoài nước ;
+
+h ) Các thành_viên mạng_lưới là cơ_quan , đơn_vị chức_năng thuộc Bộ Công_an và Bộ Quốc_phòng không phải thực_hiện Điểm c và Điểm d Khoản này .
+
+2 . Trách_nhiệm và quyền_hạn của Cơ_quan điều_phối quốc_gia :
+
+a ) Thực_hiện các trách_nhiệm và quyền_hạn quy_định tại <QĐ rel="DC"> Quyết_định số 05/2017/QĐ-TTg </QĐ>;
+
+b ) Công_khai trên Trang thông_tin điện_tử của mình số điện_thoại , số fax địa_chỉ thư điện_tử ( email ) , đường_dây_nóng và bảo_đảm nguồn_lực để duy_trì trực đường_dây_nóng liên_tục , kịp_thời tiếp_nhận và xử_lí_sự_cố ; tổng_hợp thông_tin liên_lạc ( địa_chỉ , số điện_thoại , số fax , địa_chỉ thư điện_tử ) và thông_tin về đầu_mối ứng_cứu sự_cố , nhân_lực kĩ_thuật an_toàn thông_tin , ứng_cứu sự_cố của các thành_viên mạng_lưới và Đội ứng_cứu sự_cố của các thành_viên mạng_lưới ;
+
+c ) Xây_dựng , triển_khai và vận_hành cổng thông_tin mạng_lưới , hệ_thống kĩ_thuật hỗ_trợ cho hoạt_động liên_lạc , trao_đổi thông_tin trong mạng_lưới và các hệ_thống kĩ_thuật phục_vụ các hoạt_động điều_phối , ứng_cứu , xử_lý , khắc_phục sự_cố ;
+
+d ) Hướng_dẫn hoạt_động thông_báo và hỏi_đáp về sự_cố an_toàn thông_tin mạng trên toàn_quốc ; điều_hành mạng_lưới ; nghiên_cứu , đề_xuất các biện_pháp nhằm tăng_cường nguồn_lực cho mạng_lưới hoạt_động có hiệu_quả ;
+
+đ ) Tập_hợp , tiếp_nhận , xử_lý , chuẩn_bị thông_tin , cảnh_báo tới người có thẩm_quyền và các cơ_quan , tổ_chức , đơn_vị liên_quan về các nguy_cơ_sự_cố an_toàn thông_tin mạng và các biện_pháp phòng_ngừa , ngăn_chặn , xử_lý ;
+
+e ) Tổ_chức hội_thảo , hội_nghị giao_ban , phổ_biến , trao_đổi thông_tin , tập_huấn , bồi_dưỡng , đào_tạo , huấn_luyện , diễn_tập về an_toàn thông_tin mạng ứng_cứu sự_cố ; tổ_chức các hoạt_động chung của mạng_lưới .
+
+Điều 7 . Các hoạt_động chính của mạng_lưới ứng_cứu sự_cố
+
+Ban điều_hành mạng_lưới tổ_chức triển_khai các nhiệm_vụ của mạng_lưới ứng_cứu sự_cố , gồm các hoạt_động chính sau :
+
+1 . Nghiên_cứu , thu_thập , tiếp_nhận , phân_tích , xác_minh , đánh_giá , cảnh_báo về sự_cố , rủi_ro an_toàn thông_tin mạng và phần_mềm độc_hại .
+
+2 . Phối_hợp thực_hiện ứng_cứu , xử_lý , ngăn_chặn và khắc_phục sự_cố ; kiểm_tra , đốc_thúc việc xây_dựng , triển_khai kế_hoạch ứng_phó sự_cố an_toàn thông_tin mạng và việc thực_hiện các trách_nhiệm , nghĩa_vụ của thành_viên mạng_lưới ;
+
+3 . Xây_dựng , nâng cao năng_lực cho các thành_viên mạng_lưới và các Đội ứng_cứu sự_cố , gồm :
+
+a ) Huấn_luyện , diễn_tập , đào_tạo , tập_huấn nâng cao_trình_độ , kĩ_năng và nghiệp_vụ ; tổ_chức các chuyến công_tác trong và ngoài nước để khảo_sát , học_hỏi kinh_nghiệm , trao_đổi , hợp_tác ;
+
+b ) Giao_ban định_kỳ , tổ_chức hội_thảo , hội_nghị , toạ_đàm trao_đổi và chia_sẻ thông_tin , kinh_nghiệm về điều_phối , ứng_cứu sự_cố , bảo_đảm an_toàn thông_tin mạng ;
+
+c ) Hỗ_trợ xây_dựng và áp_dụng các quy_trình quản_lý , vận_hành hệ_thống thông_tin theo các tiêu_chuẩn quốc_gia , quy_chuẩn kĩ_thuật quốc_gia và tiêu_chuẩn quốc_tế về an_toàn thông_tin , ứng_cứu sự_cố ;
+
+d ) Tổ_chức các nghiên_cứu chuyên_môn , xây_dựng các báo_cáo , tài_liệu hướng_dẫn , thống_kê về an_toàn thông_tin mạng và các vấn_đề liên_quan để chia_sẻ , phổ_biến trong mạng_lưới .
+
+4 . Tham_gia các hoạt_động thông_tin , tuyên_truyền nâng cao nhận_thức về phòng_ngừa , ứng_cứu sự_cố , bảo_đảm an_toàn thông_tin mạng .
+
+5 . Tổ_chức , duy_trì hoạt_động của Ban điều_hành mạng_lưới ; và triển_khai các hoạt_động khác liên_quan đến điều_phối , ứng_cứu sự_cố , bảo_đảm an_toàn thông_tin mạng .
+
+Chương_iii
+
+Hoạt_động Điều_phối , Ứng_cứu Sự_cố
+
+Điều 8 . Hoạt_động điều_phối ứng_cứu sự_cố
+
+1 . Điều_phối ứng_cứu sự_cố là hoạt_động của Cơ_quan điều_phối quốc_gia và cơ_quan có thẩm_quyền nhằm huy_động , điều_hành , phối_hợp thống_nhất các nguồn_lực gồm : nhân_lực , vật_lực ( trang thiết_bị ) , tài_lực ( tài_chính , ngân_sách ) để phòng_ngừa , theo_dõi , thu_thập , phát_hiện , cảnh_báo sự_cố ; tiếp_nhận , phân_tích xác_minh , phân_loại sự_cố ; điều_hành , phối_hợp , tổ_chức ứng_cứu sự_cố , sẵn_sàng ứng_phó , khắc_phục sự_cố nhằm giảm_thiểu các rủi_ro , thiệt_hại do sự_cố gây ra .
+
+2 . Cơ_quan điều_phối quốc_gia thực_hiện chức_năng cảnh_báo , điều_phối ứng_cứu sự_cố trên toàn_quốc ; có quyền huy_động , điều_phối các thành_viên mạng_lưới ứng_cứu sự_cố và các tổ_chức , đơn_vị liên_quan phối_hợp ngăn_chặn , xử_lý , khắc_phục sự_cố trên toàn_quốc ; ban_hành và chịu trách_nhiệm về các Lệnh / yêu_cầu điều_phối theo Biểu_mẫu_số 06 ban_hành kèm theo Thông_tư này ;
+
+3 . Các tác_nghiệp của hoạt_động điều_phối ứng_cứu sự_cố :
+
+a ) Theo_dõi , phân_tích , phát_hiện , cảnh_báo các nguy_cơ , đe_doạ , lỗ_hổng , sự_cố , tấn_công mạng và các giải_pháp phòng_ngừa sự_cố ;
+
+b ) Xây_dựng , đề_xuất phương_án , kế_hoạch ứng_phó với sự_cố ;
+
+c ) Tổ_chức huấn_luyện , diễn_tập ứng_cứu sự_cố , bảo_đảm an_toàn thông_tin mạng ;
+
+d ) Điều_hành , huy_động các nguồn_lực để ứng_cứu sự_cố theo thẩm_quyền ; cung_cấp các hỗ_trợ kĩ_thuật và thực_hiện các biện_pháp để đối_phó , phòng_chống tấn_công mạng ;
+
+đ ) Điều_tra , phân_tích , xác_định nguồn_gốc , cách_thức , phương_pháp tấn_công để đối_phó , ngăn_chặn , đồng_thời cảnh_báo và hướng_dẫn để ngăn_ngừa sự_cố lây_lan diện rộng ; thu_thập , xây_dựng báo_cáo tổng_hợp sự_cố ;
+
+e ) Chia_sẻ , trao_đổi , cung_cấp thông_tin giữa các cơ_quan , tổ_chức có trách_nhiệm liên_quan về ứng_cứu sự_cố , hoạt_động điều_phối ứng_cứu sự_cố và quá_trình xử_lí_sự_cố ;
+
+g ) Các hoạt_động khác liên_quan đến ứng_cứu sự_cố theo quyết_định Bộ Thông_tin và Truyền_thông .
+
+4 . Hình_thức trao_đổi thông_tin về điều_phối ứng_cứu sự_cố được thực_hiện bằng một hoặc nhiều hình_thức như : Công_văn , thư điện_tử , điện_thoại , fax , nhắn_tin đa_phương_tiện hoặc hệ_thống kĩ_thuật truyền_thông tiên_tiến ; và đảm_bảo tuân_thủ theo các quy_định pháp_luật liên_quan khi trao_đổi thông_tin mật .
+
+Điều 9 . Thông_báo , báo_cáo sự_cố an_toàn thông_tin mạng
+
+1 . Các hình_thức thông_báo , báo_cáo sự_cố
+
+a ) Hình_thức thông_báo sự_cố : Bằng công_văn , fax , thư điện_tử , nhắn_tin đa_phương_tiện hoặc thông_qua hệ_thống kĩ_thuật báo_cáo sự_cố an_toàn thông_tin mạng theo hướng_dẫn của Cơ_quan điều_phối quốc_gia ;
+
+b ) Hình_thức báo_cáo sự_cố : Bằng văn_bản giấy hoặc văn_bản điện_tử ( có kí_tên và đóng_dấu hoặc chữ_kí số của người có thẩm_quyền ) .
+
+2 . Báo_cáo sự_cố an_toàn thông_tin mạng
+
+a ) Đơn_vị , cá_nhân vận_hành hệ_thống thông_tin có trách_nhiệm chậm nhất 05 ngày kể từ khi phát_hiện sự_cố phải thông_báo các thông_tin của sự_cố theo nội_dung tại Điểm a Khoản 3 Điều này ( Thông_báo sự_cố ) tới đồng_thời các cơ_quan , đơn_vị sau : Chủ_quản hệ_thống thông_tin , Cơ_quan điều_phối quốc_gia , Đơn_vị chuyên_trách về ứng_cứu sự_cố và thành_viên mạng_lưới ứng_cứu sự_cố có trách_nhiệm liên_quan ( nếu có ) . Tại thời_điểm_báo_cáo , nếu chưa hoàn_thành việc xử_lí_sự_cố , đơn_vị , cá_nhân vận_hành hệ_thống phải cập_nhật lại thông_tin của sự_cố cho các cơ_quan , đơn_vị đã nhận thông_tin trước đó ngay khi kết_thúc việc xử_lí_sự_cố ;
+
+b ) Trường_hợp đơn_vị , cá_nhân vận_hành hệ_thống thông_tin xác_định sự_cố có_thể vượt khả_năng xử_lí của mình phải xây_dựng ngay Báo_cáo ban_đầu sự_cố , báo_cáo Chủ_quản hệ_thống thông_tin , Đơn_vị chuyên_trách về ứng_cứu sự_cố chịu trách_nhiệm ứng_cứu ( nếu có ) và Cơ_quan điều_phối quốc_gia ; sau khi kết_thúc ứng_cứu sự_cố , chậm nhất trong vòng 05 ngày phải hoàn_thiện Báo_cáo kết_thúc ứng_phó sự_cố để báo_cáo Chủ_quản hệ_thống thông_tin và Cơ_quan điều_phối quốc_gia . Cơ_quan điều_phối quốc_gia chỉ ghi_nhận sự_cố đã hoàn_thành ứng_cứu sự_cố sau khi đã nhận được Báo_cáo kết_thúc ứng_phó sự_cố ;
+
+c ) Các tổ_chức , cá_nhân không phải là đơn_vị , cá_nhân vận_hành hệ_thống thông_tin khi phát_hiện dấu_hiệu tấn_công hoặc sự_cố an_toàn thông_tin mạng cần nhanh_chóng thông_báo thông_tin của sự_cố ( Thông_báo sự_cố ) tới đồng_thời hoặc một trong các cơ_quan , đơn_vị sau : Đơn_vị , cá_nhân vận_hành hệ_thống thông_tin Chủ_quản hệ_thống thông_tin , Cơ_quan điều_phối quốc_gia , Đơn_vị chuyên_trách về ứng_cứu sự_cố hoặc thành_viên mạng_lưới ứng_cứu sự_cố có trách_nhiệm liên_quan .
+
+3 . Các loại thông_báo , báo_cáo sự_cố :
+
+a ) Thông_báo sự_cố , nội_dung gồm : Tên , địa_chỉ đơn_vị , cá_nhân thông_báo sự_cố ; tên hoặc tên_miền , địa_chỉ Ip của hệ_thống thông_tin bị sự_cố ; tên địa_chỉ của đơn_vị , cá_nhân vận_hành và cơ_quan chủ_quản hệ_thống thông_tin bị sự_cố ( nếu biết ) ; mô_tả sự_cố và thời_điểm phát_hiện sự_cố ; kết_quả xử_lí_sự_cố đề_xuất , kiến_nghị và các thông_tin liên_quan khác ( nếu có ) ;
+
+b ) Báo_cáo ban_đầu sự_cố , nội_dung theo Biểu_mẫu_số 03 Phụ_lục I ban_hành kèm theo Thông_tư này ;
+
+c ) Báo_cáo diễn_biến tình_hình ;
+
+d ) Báo_cáo phương_án ứng_cứu cụ_thể ;
+
+đ ) Báo_cáo đề_nghị hỗ_trợ , phối_hợp ;
+
+e ) Báo_cáo kết_thúc ứng_phó sự_cố , nội_dung theo Biểu_mẫu_số 04 Phụ_lục I ban_hành kèm theo Thông_tư này .
+
+4 . Trong quá_trình ứng_cứu sự_cố , đơn_vị , cá_nhân vận_hành hệ_thống phải chủ_trì , phối_hợp với các cơ_quan , đơn_vị liên_quan xây_dựng và duy_trì thực_hiện các báo_cáo ứng_cứu sự_cố theo quy_định và yêu_cầu của cơ_quan có thẩm_quyền .
+
+Điều 10 . Phát_hiện , tiếp_nhận , xác_minh , xử_lí ban_đầu và phân_loại sự_cố an_toàn thông_tin mạng
+
+1 . Đơn_vị , cá_nhân vận_hành hệ_thống thông_tin , có trách_nhiệm :
+
+a ) Khi phát_hiện sự_cố : Tổ_chức theo_dõi , ghi_chép và tập_hợp các thông_tin liên_quan đến sự_cố và tổ_chức thông_báo hoặc báo_cáo sự_cố theo quy_định tại Điều 9 của Thông_tư này ;
+
+b ) Khi tiếp_nhận thông_báo sự_cố : Phản_hồi ngay cho tổ_chức , cá_nhân gửi thông_báo sự_cố để xác_nhận thông_tin ;
+
+c ) Xác_minh sự_cố và xử_lí ban_đầu : Chủ_trì , phối_hợp với đơn_vị chịu trách_nhiệm bảo_đảm an_toàn thông_tin ( nếu có ) , đơn_vị chuyên_trách về ứng_cứu sự_cố liên_quan và các doanh_nghiệp viễn_thông , Internet ( isp ) để tiến_hành phân_tích , xác_minh , đánh_giá sự_cố ; thực_hiện ngay các hoạt_động ứng_cứu sự_cố ban_đầu , triển_khai quy_trình ứng_cứu sự_cố theo kế_hoạch ứng_phó sự_cố an_toàn thông_tin mạng đã được cấp thẩm_quyền phê_duyệt hoặc quy_trình tại Điều 11 của Thông_tư này ; trường_hợp xác_định sự_cố có khả_năng là sự_cố nghiêm_trọng , cần báo_cáo ngay với chủ_quản hệ_thống thông_tin , đơn_vị chuyên_trách về ứng_cứu sự_cố liên_quan để đề_xuất nâng_cấp sự_cố nghiêm_trọng , đồng_thời gửi Cơ_quan điều_phối quốc_gia .
+
+2 . Đơn_vị chuyên_trách về ứng_cứu sự_cố hoặc thành_viên mạng_lưới ứng_cứu sự_cố , có trách_nhiệm :
+
+a ) Khi phát_hiện sự_cố : Thông_báo sự_cố ngay đến đơn_vị , cá_nhân vận_hành hệ_thống thông_tin , chủ_quản hệ_thống thông_tin và Cơ_quan điều_phối quốc_gia ;
+
+b ) Khi tiếp_nhận thông_báo hoặc báo_cáo sự_cố : Ghi_nhận , tiếp_nhận đúng quy_định và phản_hồi cho tổ_chức , cá_nhân gửi thông_báo hoặc báo_cáo sự_cố ngay sau khi nhận được để xác_nhận thông_tin ;
+
+c ) Tổ_chức xác_minh và xử_lí_sự_cố : Phối_hợp với đơn_vị , cá_nhân vận_hành hệ_thống thông_tin để thẩm_tra , xác_minh và xử_lí_sự_cố trong khả_năng và trách_nhiệm của mình ; trường_hợp xác_định sự_cố có khả_năng vượt qua khả_năng xử_lí của mình hoặc có khả_năng là sự_cố nghiêm_trọng , cần báo_cáo ngay chủ_quản hệ_thống thông_tin và Cơ_quan điều_phối quốc_gia ;
+
+d ) Giám_sát diễn_biến tình_hình ứng_cứu sự_cố và báo_cáo hoặc đề_xuất , xin ý_kiến chỉ_đạo của chủ_quản hệ_thống thông_tin và Ban Chỉ_đạo ứng_cứu sự_cố cấp_bộ , tỉnh trong trường_hợp vượt thẩm_quyền , phạm_vi trách_nhiệm của mình hoặc vượt khả_năng xử_lí của mình ;
+
+đ ) Tổng_hợp , báo_cáo Cơ_quan điều_phối quốc_gia về diễn_biến sự_cố khi được yêu_cầu .
+
+3 . Cơ_quan điều_phối quốc_gia có trách_nhiệm :
+
+a ) Ghi_nhận , tiếp_nhận thông_báo , báo_cáo sự_cố an_toàn thông_tin mạng theo đúng quy_trình ;
+
+b ) Phản_hồi cho tổ_chức , cá_nhân gửi thông_báo , báo_cáo sự_cố ngay sau khi nhận được để xác_nhận thông_tin ;
+
+c ) Thẩm_tra , xác_minh và phân_loại sự_cố để thực_hiện các cảnh_báo , điều_phối lựa_chọn phương_án , tổ_chức ứng_cứu và báo_cáo , đề_xuất với Cơ_quan thường_trực xem_xét , quyết_định sự_cố nghiêm_trọng và phương_án ứng_cứu khẩn_cấp phù_hợp . Trường_hợp phân_loại là sự_cố nghiêm_trọng , Cơ_quan điều_phối quốc_gia chủ_trì , phối_hợp với các cơ_quan liên_quan triển_khai các bước theo quy_trình ứng_cứu sự_cố nghiêm_trọng quy_định tại <QĐ rel="DC"> Quyết_định số 05/2017/QĐ-TTg </QĐ>;
+
+d ) Tổ_chức hoạt_động phối_hợp với các tổ_chức ứng_cứu sự_cố mạng quốc_tế để tiếp_nhận các cảnh_báo sớm , thông_tin về sự_cố , nguy_cơ về mất an_toàn thông_tin mạng và phối_hợp ứng_cứu sự_cố , tấn_công xuyên biên_giới ;
+
+đ ) Thực_hiện các trách_nhiệm khác của Cơ_quan điều_phối quốc_gia báo_cáo đề_xuất với Cơ_quan thường_trực các vấn_đề vượt thẩm_quyền .
+
+Điều 11 . Quy_trình ứng_cứu sự_cố an_toàn thông_tin mạng
+
+Quy_trình ứng_cứu sự_cố an_toàn thông_tin mạng theo sơ_đồ tại Phụ_lục Ii_cụ_thể gồm :
+
+1 . Tiếp_nhận , phân_tích , ứng_cứu ban_đầu và thông_báo sự_cố
+
+a ) Tiếp_nhận , xác_minh sự_cố
+
+Đơn_vị chủ_trì : Đơn_vị , cá_nhân vận_hành hệ_thống thông_tin .
+
+Đơn_vị phối_hợp : Đơn_vị chuyên_trách về ứng_cứu sự_cố , Cơ_quan điều_phối quốc_gia .
+
+Nội_dung thực_hiện : Theo_dõi , tiếp_nhận , phân_tích các cảnh_báo , dấu_hiệu sự_cố từ các nguồn bên trong và bên ngoài . Khi phân_tích , xác_minh sự_cố đã xảy ra , cần tổ_chức ghi_nhận , thu_thập chứng_cứ , xác_định nguồn_gốc sự_cố .
+
+b ) Triển_khai các bước ưu_tiên ứng_cứu ban_đầu
+
+Đơn_vị chủ_trì : Đơn_vị , cá_nhân vận_hành hệ_thống thông_tin .
+
+Đơn_vị phối_hợp : Đơn_vị chuyên_trách về ứng_cứu sự_cố , thành_viên mạng_lưới có liên_quan và Cơ_quan điều_phối quốc_gia .
+
+Nội_dung : Sau khi đã xác_định sự_cố xảy ra , đơn_vị , cá_nhân vận_hành hệ_thống thông_tin căn_cứ vào bản_chất , dấu_hiệu của sự_cố tổ_chức triển_khai các bước ưu_tiên ban_đầu để xử_lí_sự_cố theo kế_hoạch ứng_phó sự_cố đã được cấp thẩm_quyền phê_duyệt hoặc theo hướng_dẫn của Đơn_vị chuyên_trách về ứng_cứu sự_cố liên_quan hoặc Cơ_quan điều_phối quốc_gia .
+
+c ) Triển_khai lựa_chọn phương_án ứng_cứu
+
+Đơn_vị chủ_trì : Đơn_vị , cá_nhân vận_hành hệ_thống thông_tin .
+
+Đơn_vị phối_hợp : Đơn_vị chuyên_trách về ứng_cứu sự_cố , thành_viên mạng_lưới có liên_quan , Cơ_quan điều_phối quốc_gia .
+
+Nội_dung thực_hiện : Căn_cứ theo kế_hoạch ứng_phó sự_cố đã được cấp thẩm_quyền phê_duyệt hoặc theo hướng_dẫn của Đơn_vị chuyên_trách về ứng_cứu sự_cố hoặc Cơ_quan điều_phối quốc_gia để lựa_chọn phương_án ngăn_chặn và xử_lí_sự_cố ; báo_cáo , đề_xuất Chủ_quản hệ_thống thông_tin , Ban Chỉ_đạo ứng_cứu sự_cố cấp_bộ , tỉnh xin ý_kiến chỉ_đạo nếu cần .
+
+d ) Chỉ_đạo xử_lí_sự_cố ( nếu cần )
+
+Đơn_vị chủ_trì : Ban Chỉ_đạo ứng_cứu sự_cố cấp_bộ , tỉnh .
+
+Đơn_vị phối_hợp : Chủ_quản hệ_thống thông_tin .
+
+Nội_dung thực_hiện : Căn_cứ theo báo_cáo , đề_xuất của Đơn_vị , cá_nhân vận_hành hệ_thống thông_tin , Ban Chỉ_đạo ứng_cứu sự_cố cấp_bộ , tỉnh phối_hợp với chủ_quản hệ_thống thông_tin và tham_khảo ý_kiến Cơ_quan điều_phối quốc_gia ( nếu cần ) thực_hiện chỉ_đạo Đơn_vị chuyên_trách về ứng_cứu sự_cố , triệu_tập Đội / bộ_phận ứng_cứu sự_cố thuộc phạm_vi quản_lí triển_khai công_tác ứng_cứu , xử_lí_sự_cố ; chỉ_đạo , phân_công hoạt_động phát_ngôn , cung_cấp thông_tin . Trong quá_trình ứng_cứu , tuỳ_thuộc vào diễn_biến tình_hình thực_tế , Ban Chỉ_đạo ứng_cứu sự_cố cấp_bộ , tỉnh có_thể quyết_định bổ_sung thành_phần tham_gia Đội / bộ_phận ứng_cứu sự_cố , chỉ_đạo điều_chỉnh phương_án ứng_cứu sự_cố .
+
+đ ) Báo_cáo sự_cố
+
+Đơn_vị chủ_trì : Đơn_vị , cá_nhân vận_hành hệ_thống thông_tin .
+
+Đơn_vị phối_hợp : Đơn_vị chuyên_trách về ứng_cứu sự_cố liên_quan / chịu trách_nhiệm , các doanh_nghiệp viễn_thông , Internet ( isp ) .
+
+Nội_dung thực_hiện : Sau khi đã triển_khai các bước ưu_tiên ứng_cứu ban_đầu , Đơn_vị vận_hành hệ_thống thông_tin tổ_chức thông_báo , báo_cáo sự_cố đến các tổ_chức , cá_nhân liên_quan bên trong và bên ngoài cơ_quan tổ_chức theo quy_định tại Điều 9 Thông_tư này và quy_định nội_bộ ( nếu có ) .
+
+e ) Điều_phối công_tác ứng_cứu
+
+Đơn_vị chủ_trì : Ban Chỉ_đạo ứng_cứu sự_cố cấp_bộ , tỉnh ; Cơ_quan điều_phối quốc_gia .
+
+Đơn_vị phối_hợp : Đơn_vị , cá_nhân vận_hành hệ_thống thông_tin , Đơn_vị chuyên_trách về ứng_cứu sự_cố , thành_viên mạng_lưới có liên_quan .
+
+Nội_dung thực_hiện : Căn_cứ vào tính_chất sự_cố , đề_nghị hỗ_trợ của Đơn_vị , cá_nhân vận_hành hệ_thống thông_tin và Đơn_vị chuyên_trách về ứng_cứu sự_cố , Ban Chỉ_đạo ứng_cứu sự_cố cấp_bộ , tỉnh và Cơ_quan điều_phối quốc_gia thực_hiện công_tác điều_phối , giám_sát cơ_chế phối_hợp , chia_sẻ thông_tin theo phạm_vi , chức_năng , nhiệm_vụ của mình để huy_động nguồn_lực ứng_cứu sự_cố .
+
+2 . Triển_khai ứng_cứu , ngăn_chặn và xử_lí_sự_cố
+
+Đơn_vị chủ_trì : Đơn_vị , cá_nhân vận_hành hệ_thống thông_tin ; Đội / bộ_phận ứng_cứu sự_cố .
+
+Đơn_vị phối_hợp : Đơn_vị chịu trách_nhiệm bảo_đảm an_toàn thông_tin cho hệ_thống bị sự_cố , Đơn_vị chuyên_trách về ứng_cứu sự_cố , thành_viên mạng_lưới có liên_quan , Cơ_quan điều_phối quốc_gia .
+
+Nội_dung thực_hiện :
+
+a ) Triển_khai thu_thập chứng_cứ , phân_tích , xác_định phạm_vi , đối_tượng bị ảnh_hưởng .
+
+b ) Triển_khai phân_tích , xác_định nguồn_gốc tấn_công , tổ_chức ứng_cứu và ngăn_chặn , giảm_thiểu tác_động , thiệt_hại đến hệ_thống thông_tin .
+
+3 . Xử_lí_sự_cố , gỡ bỏ và khôi_phục
+
+a ) Xử_lí_sự_cố , gỡ bỏ
+
+Đơn_vị chủ_trì : Đơn_vị , cá_nhân vận_hành hệ_thống thông_tin ; Đội / bộ_phận ứng_cứu sự_cố .
+
+Đơn_vị phối_hợp : Đơn_vị chịu trách_nhiệm bảo_đảm an_toàn thông_tin cho hệ_thống bị sự_cố ; Đơn_vị chuyên_trách về ứng_cứu sự_cố , thành_viên mạng_lưới có liên_quan , Cơ_quan điều_phối quốc_gia .
+
+Nội_dung thực_hiện : Sau khi đã triển_khai ngăn_chặn sự_cố , đơn_vị , cá_nhân vận_hành hệ_thống thông_tin , Đơn_vị chuyên_trách về ứng_cứu sự_cố , Đội / bộ_phận ứng_cứu sự_cố triển_khai tiêu_diệt , gỡ bỏ các mã độc , phần_mềm độc_hại khắc_phục các điểm yếu an_toàn thông_tin của hệ_thống thông_tin .
+
+b ) Khôi_phục
+
+Đơn_vị chủ_trì : Đơn_vị , cá_nhân vận_hành hệ_thống thông_tin ; .
+
+Đơn_vị phối_hợp : Đội / bộ_phận ứng_cứu sự_cố , Đơn_vị chịu trách_nhiệm bảo_đảm an_toàn thông_tin cho hệ_thống bị sự_cố , Đơn_vị chuyên_trách về ứng_cứu sự_cố , thành_viên mạng_lưới có liên_quan , Cơ_quan điều_phối quốc_gia .
+
+Nội_dung thực_hiện : Đơn_vị , cá_nhân vận_hành hệ_thống chủ_trì phối_hợp với các đơn_vị liên_quan triển_khai các hoạt_động khôi_phục hệ_thống thông_tin dữ_liệu và kết_nối ; cấu_hình hệ_thống an_toàn ; bổ_sung các thiết_bị , phần_cứng phần_mềm bảo_đảm an_toàn thông_tin cho hệ_thống thông_tin .
+
+c ) Kiểm_tra , đánh_giá hệ_thống thông_tin
+
+Đơn_vị chủ_trì : Đơn_vị , cá_nhân vận_hành hệ_thống thông_tin .
+
+Đơn_vị phối_hợp : Đơn_vị chịu trách_nhiệm bảo_đảm an_toàn thông_tin cho hệ_thống bị sự_cố , Đơn_vị chuyên_trách về ứng_cứu sự_cố , chủ_quản hệ_thống thông_tin , Cơ_quan điều_phối quốc_gia .
+
+Nội_dung thực_hiện : Đơn_vị , cá_nhân vận_hành hệ_thống và các đơn_vị liên_quan triển_khai kiểm_tra , đánh_giá hoạt_động của toàn_bộ hệ_thống thông_tin sau khi khắc_phục sự_cố . Trường_hợp hệ_thống chưa hoạt_động ổn_định , cần tiếp_tục tổ_chức thu_thập , xác_minh lại nguyên_nhân và tổ_chức các bước tương_ứng tại Khoản 2 và Khoản 3 của Điều này để xử_lí dứt_điểm , khôi_phục hoạt_động bình_thường của hệ_thống thông_tin .
+
+4 . Tổng_kết , đánh_giá
+
+Đơn_vị chủ_trì : Đơn_vị , cá_nhân vận_hành hệ_thống thông_tin .
+
+Đơn_vị phối_hợp : Đơn_vị chuyên_trách về ứng_cứu sự_cố ; Đội / bộ_phận ứng_cứu sự_cố ; Chủ_quản hệ_thống thông_tin ; Ban Chỉ_đạo ứng_cứu sự_cố cấp_bộ , tỉnh ; Cơ_quan điều_phối quốc_gia .
+
+Nội_dung thực_hiện : Đơn_vị , cá_nhân vận_hành hệ_thống bị sự_cố phối_hợp với Đơn_vị chuyên_trách về ứng_cứu sự_cố và Đội / bộ_phận ứng_cứu sự_cố triển_khai tổng_hợp toàn_bộ các thông_tin , báo_cáo , phân_tích có liên_quan đến sự_cố , công_tác triển_khai_phương_án ứng_cứu sự_cố , báo_cáo Chủ_quản hệ_thống thông_tin , Ban Chỉ_đạo ứng_cứu sự_cố cấp_bộ , tỉnh và Cơ_quan điều_phối quốc_gia ; tổ_chức phân_tích nguyên_nhân , rút kinh_nghiệm trong hoạt_động xử_lí_sự_cố và đề_xuất các biện_pháp bổ_sung nhằm phòng_ngừa , ứng_cứu đối_với các sự_cố tương_tự trong tương_lai .
+
+Chương_iv
+
+Biện_pháp_bảo_đảm Thực_hiện Ứng_cứu Sự_cố An_toàn Thông_tin_mạng
+
+Điều 12 . Xây_dựng và triển_khai kế_hoạch ứng_phó sự_cố bảo_đảm an_toàn thông_tin mạng
+
+1 . Các cơ_quan , tổ_chức và doanh_nghiệp xây_dựng và triển_khai kế_hoạch ứng_phó sự_cố bảo_đảm an_toàn thông_tin mạng của cơ_quan , tổ_chức và doanh_nghiệp mình , trong đó :
+
+a ) Đối_với các hệ_thống thông_tin đã được phê_duyệt cấp_độ 04 , cấp_độ 05 hoặc thuộc Danh_mục hệ_thống thông_tin quan_trọng quốc_gia , theo Đề_cương Kế_hoạch ứng_phó sự_cố an_toàn thông_tin mạng quy_định tại Điều 16 của <QĐ rel="DC"> Quyết_định số 05/2017/QĐ-TTg </QĐ>.
+
+b ) Đối_với các hệ_thống thông_tin không thuộc Điểm a Khoản 1 Điều này , theo Phụ_lục Iii ban_hành kèm theo Thông_tư này .
+
+2 . Các chủ_quản hệ_thống thông_tin và cơ_quan , đơn_vị có thẩm_quyền phê_duyệt Kế_hoạch ứng_phó sự_cố cần xác_định các điều_kiện , nguyên_tắc ưu_tiên để duy_trì hoạt_động của hệ_thống thông_tin khi triển_khai ứng_cứu sự_cố và coi nội_dung này là một yêu_cầu bắt_buộc trong Kế_hoạch ứng_phó sự_cố .
+
+3 . Cơ_quan điều_phối quốc_gia hướng_dẫn việc xây_dựng , triển_khai kế_hoạch ứng_phó sự_cố , dự_phòng ứng_cứu , xử_lí_sự_cố an_toàn thông_tin mạng ; tổ_chức hoạt_động huấn_luyện , diễn_tập theo vùng , miền và quốc_gia , quốc_tế ; xây_dựng kế_hoạch và tổ_chức định_kì kiểm_tra , đánh_giá về việc triển_khai_phương_án ứng_phó sự_cố an_toàn thông_tin mạng của các bộ , ngành , địa_phương và của các tổ_chức , doanh_nghiệp .
+
+Điều 13 . Kinh_phí
+
+Kinh_phí triển_khai các hoạt_động điều_phối , ứng_cứu sự_cố an_toàn thông_tin mạng trên toàn_quốc thực_hiện theo quy_định tại Điều 17 <QĐ rel="DC"> Quyết_định số 05/2017/QĐ-TTg </QĐ> và các văn_bản hướng_dẫn liên_quan .
+
+Chương V
+
+Tổ_chức Thực_hiện
+
+Điều 14 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 11 năm 2017 và bãi_bỏ <TT rel="None"> Thông_tư số 27/2011/TT-BTTTT ngày 04 tháng 10 năm 2011 </TT> của Bộ Thông_tin và Truyền_thông quy_định về điều_phối các hoạt_động ứng_cứu sự_cố mạng Internet Việt_nam .
+
+2 . Trong quá_trình thực_hiện , nếu có vướng_mắc , phát_sinh , tổ_chức , cá_nhân có liên_quan kịp_thời phản_ánh về Bộ Thông_tin và Truyền_thông ( qua Trung_tâm ứng_cứu khẩn_cấp máy_tính Việt_nam ) để xem_xét , bổ_sung và sửa_đổi . / .

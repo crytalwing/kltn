@@ -1,0 +1,509 @@
+Thông_tư số 14/2019/tt-btttt ngày 22 tháng 11 năm 2019 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Luật Tần_số vô_tuyến_điện ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều Luật tiêu_chuẩn và quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện từ đối_với thiết_bị thông_tin vô_tuyến và dẫn đường hàng_hải .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện từ đối_với thiết_bị thông_tin vô_tuyến và dẫn đường hàng_hải ( qcvn 119 : 2019 / bt ) .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 07 năm 2020 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 119 : 2019 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Tương_thích Điện_từ Đối_với Thiết_bị Thông_tin Vô_tuyến Và Dẫn Đường Hàng_hải
+
+National technical regulation on Electromagnetic compatibility for maritime navigation and radiocommunication equipment
+
+Lời_nói_đầu
+
+Qcvn 119 : 2019 / bt được xây_dựng trên cơ_sở tiêu_chuẩn Iec 60945 : 2002 và Iec 60945 : 2002 / cor1 : 2008 của Ủy_ban Kỹ_thuật điện quốc_tế ( iec ) .
+
+Qcvn 119 : 2019 / bt do Cục Tần_số vô_tuyến_điện biên_soạn , Vụ khoa_học và Công_nghệ thẩm_định và trình_duyệt , Bộ Thông_tin và Truyền_thông ban_hành kèm theo Thông_tư số 14/2019/TT-BTTTT ngày 22 tháng 11 năm 2019 .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Tương_thích Điện_từ Đối_với Thiết_bị Thông_tin Vô_tuyến Và Dẫn Đường Hàng_hải
+
+National technical regulation on Electromagnetic compatibility for maritime navigation and radiocommunication equipment
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn này quy_định các yêu_cầu về tương_thích điện từ đối_với thiết_bị thông_tin vô_tuyến và dẫn đường hàng_hải .
+
+Quy_chuẩn này chỉ áp_dụng đối_với thiết_bị Ra đa , thiết_bị vô_tuyến dẫn đường và thiết_bị phát , thu - phát_sóng vô_tuyến_điện chuyên_dùng cho nghiệp_vụ di_động hàng_hải thuộc Danh_mục sản_phẩm , hàng_hoá cố khả_năng gây mất an_toàn thuộc trách_nhiệm quản_lí của Bộ Thông_tin và Truyền_thông .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn kĩ_thuật này áp_dụng cho các tổ_chức , cá_nhân Việt_nam và nước_ngoài có hoạt_động_sản_xuất , kinh_doanh các thiết_bị thuộc phạm_vi điều_chỉnh của Quy_chuẩn này trên lãnh_thổ Việt_nam .
+
+1 . 3 . Tài_liệu viện_dẫn
+
+Tcvn 6989-1-1:2008 ( cispr 16-1-1:2006): Yêu_cầu kĩ_thuật đối_với thiết_bị đo và phương_pháp đo nhiễu và miễn_nhiễm tần_số radio - Phần 1-1: Thiết_bị đo nhiễu và miễn_nhiễm tần_số radio - Thiết_bị đo .
+
+Tcvn 7909-4-2:2015,Tương thích điện_từ ( emc ) - Phần 4-2: Phương_pháp đo và thử - Miễn_nhiễm đối_với hiện_tượng phóng tĩnh_điện .
+
+Tcvn 7909-4-3:2015, Tương_thích điện_từ - Phần 4-3: Phương_pháp đo và thử - Miễn_nhiễm đối_với nhiễu phát_xạ tần_số vô_tuyến .
+
+Tcvn 8241-4-5:2009, Tương_thích điện_từ ( emc ) - Phần 4-5: Phương_pháp đo và thử - Miễn_nhiễm đối_với xung .
+
+Tcvn 7909-4-6:2015, Tương_thích điện_từ ( emc ) - Phần 4-6: Phương_pháp đo và thử - Miễn_nhiễm đối_với nhiễu dân tần_số vô_tuyến .
+
+Tcvn 8241-4-11:2009, Tương_thích điện_từ - Phần 4-11: Phương_pháp đo và thử - Miễn_nhiễm đối_với các hiện_tượng sụt áp , gián_đoạn ngắn và biến_đổi điện_áp .
+
+Iec 61000 - 4 - 4 : 2004 , Electromagnetic compatibility ( emc ) - Part 4-4: Testing and measurement techniques - Electrical fast transient / burst immunity test .
+
+Imo Convention for the Safety of Life at Sea ( sol as ) : 1997
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 4 . 1 . Thiết_bị thông_tin vô_tuyến hàng_hải ( maritime radiocommunication equipment )
+
+Thiết_bị thông_tin vô_tuyến , bao_gồm thiết_bị phát hoặc thiết_bị thu - phát , được sử_dụng trong nghiệp_vụ di_động hàng_hải .
+
+1 . 4 . 2 . Nghiệp_vụ di_động hàng_hải ( maritime mobile service )
+
+Nghiệp_vụ di_động giữa các đài bờ và các đài tàu , hoặc giữa các đài tàu với nhau , hoặc giữa các đài thông_tin trên tàu . Các đài tàu cứu nạn và các đài phao vô_tuyến chỉ báo vị_trí khẩn_cấp cũng có_thể thuộc nghiệp_vụ này .
+
+1 . 4 . 3 . Thiết_bị dẫn đường hàng_hải ( maritime navigation equipment )
+
+Thiết_bị trên tàu được người hoa_tiêu hoặc lái tàu sử_dụng trong dẫn đường hàng_hải như xác_định vị_trí , tốc_độ , hướng đi , . . . của tàu để đạt đến một cảng hoặc một điểm đến nào đó .
+
+1 . 4 . 4 . Phương_tiện trợ_giúp dẫn đường ( navigational aids hoặc aids to navigation )
+
+Phương_tiện trên đó được lắp_đặt các thiết_bị nhận_dạng , cảnh_báo , chỉ_dẫn hoặc phối_hợp để trợ_giúp_việc dẫn đường .
+
+1 . 4 . 5 . Được bảo_vệ ( protected )
+
+Được bảo_vệ bằng cách che_chắn để tránh tác_động của thời_tiết .
+
+1 . 4 . 6 . Được phơi ra ( exposed )
+
+Được tiếp_xúc trực_tiếp và chịu tác_động trực_tiếp của thời_tiết .
+
+1 . 4 . 7 . Ngập nước ( submerged )
+
+Chìm trong nước hoặc tiếp_xúc liên_tục với nước .
+
+1 . 4 . 8 . Thiết_bị phụ_trợ ( ancillary equipment )
+
+Thiết_bị hoặc phụ_kiện được sử_dụng trong kết_nối với thiết_bị chính để trợ_giúp thiết_bị chính tạo ra các tính_năng hoạt_động hoặc bổ_sung , mở_rộng phạm_vi điều_khiển cho thiết_bị chính .
+
+1 . 4 . 9 . Cổng ( port )
+
+Giao_diện cụ_thể của thiết_bị với môi_trường điện từ .
+
+Chú_thích : Ví_dụ , bất_kì điểm đấu nối trên một thiết_bị dùng để đấu nối cáp tới / từ thiết_bị này được coi như là một cổng
+
+1 . 4 . 10 . Cổng vỏ ( enclosure port )
+
+Ranh_giới vật_lí của thiết_bị mà trường điện từ có_thể bức_xạ và gây ảnh_hưởng .
+
+Chú_thích : Trong trường_hợp thiết_bị có ăng ten liền , cổng này không cách_li với cổng ăng ten ,
+
+1 . 4 . 11 . Môi_trường biển ( maritime environment )
+
+Môi_trường thuộc vùng không_gian tiếp_giáp , liền kề với mặt_nước biển thuộc đại_dương , biển , vịnh , cửa_sông , bờ biển , ven biển , hải_đảo , chịu ảnh_hưởng trực_tiếp của khí_hậu biển .
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Quy_định chung
+
+2 . 1 . 1 . Yêu_cầu về môi_trường thử_nghiệm
+
+Các thiết_bị được thử_nghiệm trong điều_kiện môi_trường hoạt_động bình_thường như sau :
+
+- Nhiệt_độ : từ + 15 C đến + 35 C ;
+
+- Độ_ẩm tương_đối : từ 20 % đến 75 % ;
+
+- Nguồn điện : mức điện_áp cung_cấp cho Eut có dung_sai 3 % so với giá_trị điện_áp danh định của hệ_thống nguồn điện cấp cho Eut . Đối_với nguồn điện Ac , dung_sai tần_số của nguồn điện trong phạm_vi 1 Hz .
+
+2 . 1 . 2 . Yêu_cầu về nơi thử_nghiệm
+
+Các phép thử_nghiệm Emc được thực_hiện trong phòng thử_nghiệm Emc hoặc khu_vực thử_nghiệm Emc .
+
+2 . 1 . 3 . Yêu_cầu về kết_quả thử_nghiệm
+
+Các kết_quả thử_nghiệm phải được ghi trong báo_cáo thử_nghiệm , trong đó phải được so_sánh và đánh_giá với các mức giới_hạn tương_ứng đã quy_định .
+
+2 . 2 . Yêu_cầu về phát_xạ điện_từ
+
+2 . 2 . 1 . Yêu_cầu chung
+
+Trong khi đo phát_xạ điện từ , Eut phải hoạt_động trong điều_kiện đo kiểm bình_thường , và các thiết_lập điều_khiển có_thể ảnh_hưởng đến mức phát_xạ dẫn hay phát_xạ bức_xạ phải được thay_đổi để đạt được mức phát_xạ lớn nhất . Nếu Eut có nhiều trạng_thái hoạt_động , như trạng_thái hoạt_động bình_thường , trạng_thái chờ ( standby ) , . . . trạng_thái tạo ra mức phát_xạ cực_đại phải được kích_hoạt và các phép đo đầy_đủ phải được thực_hiện ở trạng_thái này . Kết_nối ăng ten của Eut , nếu có , phải được kết cuối với ăng ten giả không bức_xạ .
+
+Đối_với các phép đo phát_xạ bức_xạ , Eut có bộ phát_sóng vô_tuyến hoạt_động trong bảng tần đo phải ở trạng_thái hoạt_động nhưng không phát .
+
+Đối_với các phép đo phát_xạ dẫn với Eut có bộ phát_sóng vô_tuyến , áp_dụng băng loại_trừ 200 kHz có tâm tại tần_số cơ_bản và các hài trong băng đo .
+
+Hình 1 - Các cổng trong phép thử miễn_nhiễm và phát_xạ điện_tử
+
+Khả_năng áp_dụng các phép thử về phát_xạ điện từ được tóm_tắt ở Bảng 1 .
+
+Bảng 1 - Khả_năng áp_dụng các phép thử về phát_xạ điện_từ
+
+2 . 2 . 2 . Yêu_cầu về phát_xạ dẫn
+
+2 . 2 . 2 . 1 . Mục_đích
+
+Phép thử này đo các tín_hiệu do thiết_bị phát ra tại cổng nguồn có_thể dẫn sang nguồn cung_cấp chung , do đó sẽ gây nhiễu lên các thiết_bị khác .
+
+2 . 2 . 2 . 2 . Phương_pháp đo
+
+Phát_xạ phải được đo bởi thiết_bị thu đo tách sóng tựa đỉnh như nêu trong Tcvn 6989-1. Mạng nguồn giả V theo như Tcvn 6989-1-1, như ở Hình 2 , được sử_dụng để cung_cấp trở_kháng xác_định ở tần_số cao qua các cực của Eut , để cô_lập mạch kiểm_tra bởi các tín_hiệu tần_số sóng vô_tuyến không mong_muốn trên mạng nguồn . Băng_thông thiết_bị thu trong dải_tần từ 10 kHz đến 150 kHz là 200 Hz , trong dải_tần từ 150 kHz đến 30 MHz là 9 kHz .
+
+Các cáp nguồn đầu_vào giữa các cổng nguồn Ac và Dc của Eut và mạng nguồn giả phải được che_chắn và không vượt quá_độ dài 0 , 8 m . Nếu Eut có nhiều hơn một khối với các cổng nguồn Ac và / hoặc Dc riêng , các cổng nguồn của cùng một điện_áp cung_cấp danh định có_thể được nối song_song với mạng cung_cấp nguồn giả .
+
+Hình 2a - Ví_dụ mô_phỏng mạng nguồn giả V 50 / 50 H + 5 sử_dụng trong dải_tần_số từ 10 kHz đến 150 kHz
+
+Hình 2b - Ví_dụ mô_phỏng mạng nguồn giả V 50 / 50 H + 5 sử_dụng trong dải_tần_số từ 150 kHz đến 30 MHz
+
+Hình 2 - Mạng nguồn giả để kiểm_tra phát_xạ dẫn
+
+Đo_kiểm phải được thực_hiện với mọi thiết_bị đo và Eut được đỡ và gắn với mặt_phẳng đất . Trong trường_hợp không có mặt_phẳng đất , có_thể thực_hiện các sắp_đặt tương_đương sử_dụng khung hay thảm kim_loại của Eut làm đất chuẩn .
+
+2 . 2 . 2 . 3 . Giới_hạn
+
+Trong dải_tần từ 10 kHz đến 30 MHz , mức điện_áp của phát_xạ dẫn tại các cực cổng nguồn của Eut không được vượt quá giá_trị quy_định trong Hình 3 .
+
+Hình 3 - Giới_hạn điện_áp của phát_xạ dẫn tại các cực cổng nguồn
+
+2 . 2 . 3 . Yêu_cầu về phát_xạ bức_xạ qua cổng vỏ
+
+2 . 2 . 3 . 1 . Mục_đích
+
+Phép thử này đo bất_kì tín_hiệu nào bức_xạ từ thiết_bị mà không qua ăng ten và có_thể gây nhiễu lên các thiết_bị khác ở lân_cận , như các thiết_bị thu sóng vô_tuyến .
+
+2 . 2 . 3 . 2 . Phương_pháp đo
+
+a ) Thiết_bị thu đo như nêu tại Tcvn 6989-1-1, sử_dụng tách sóng tựa đỉnh . Băng_thông của thiết_bị thu trong dải_tần từ 150 kHz đến 300 MHz là 9 kHz , trong dải_tần từ 30 MHz đến 2 GHz là 120 kHz , trong dải_tần từ 156 MHz đến 165 MHz là 9 kHz .
+
+Với các tần_số từ 150 kHz đến 30 MHz phép đo phải sử_dụng trường từ H . Ăng ten đo là ăng ten vòng có màn chắn điện và có kích_thước sao cho có_thể đặt vừa khít trong một hình_vuông có mỗi cạnh dài 60 cm , hay một thanh ferit thích_hợp như chỉ rõ trong Tcvn 6989-1-1.
+
+Hệ_số hiệu_chỉnh của ăng ten bao_gồm hệ_số + 51 , 5 dB chuyển_đổi cường_độ từ trưởng_thành điện_trường tương_ứng .
+
+Với các tần_số trên 30 MHz phép đo phải sử_dụng trường từ E . Ăng ten đo là ăng ten lưỡng_cực cân bằng độ dài cộng_hưởng , hay lưỡng_cực thu gọn thay_thế hay ăng ten có độ tăng ích cao như chỉ rõ trong Tcvn 6989-1-1. Kích_thước của ăng ten đo theo hướng của Eut không được vượt quá 20 % khoảng_cách đến Eut . Với các tần_số trên 80 MHz , có_thể thay_đổi độ cao của tâm ăng ten đo so với mặt_đất trong phạm_vi từ 1 m đến 4 m .
+
+Vị_trí đo kiểm phải tuân_thủ Tcvn 6989-1-1, sử_dụng mặt_phẳng đất bằng kim_loại và có kích_thước sao cho cho phép khoảng_cách đo là 3 m .
+
+Eut phải được lắp_đặt hoàn_chỉnh , đầy_đủ với các cáp kết_nối liên_kết và được gắn lên_mặt_phẳng hoạt_động bình_thường .
+
+Khi Eut gồm nhiều khối thì các cáp liên_kết ( khác với phi_đơ ăng ten ) giữa khối chính và các khối khác phải bằng giá_trị cực_đại xác_định bởi nhà sản_xuất hoặc 20 m tuỳ theo giá_trị nào nhỏ hơn . Các cổng vào / ra sẵn có phải được kết_nối với cáp có độ dài cực_đại quy_định bởi nhà sản_xuất hoặc 20 m tuỳ theo giá_trị nào nhỏ hơn và được kết cuối để mô_phỏng trở_kháng của thiết_bị phụ_trợ mà chúng thường nối tới .
+
+Phần chiều dài vượt quá của các cáp này phải được bó lại tại điểm giữa với mỗi bó từ 30 cm đến 40 cm trong mặt_phẳng nằm ngang từ cổng mà chúng kết_nối . Nếu không_thể thực_hiện được điều này do khối cáp lớn hay có độ cứng cao , thì có_thể sắp_xếp cáp càng gần với yêu_cầu càng tốt và sắp_xếp này phải được nêu rõ trong biên_bản thử_nghiệm .
+
+Ăng ten thử được đặt cách Eut 3 m , tâm của ăng ten cách mặt_đất ít_nhất 1 , 5 m . Ăng ten trường E được điều_chỉnh độ cao và hướng quay để có phân_cực đứng và ngang , khi đã song_song với mặt_đất , để xác_định mức phát_xạ cực_đại .
+
+Cuối_cùng , ăng ten được di_chuyển vòng_quanh Eut , để xác_định mức phát_xạ cực_đại một lần nữa , hay Eut có_thể được đặt trong mặt_phẳng trực_giao với ăng ten thử tại điểm giữa và quay để đạt được cùng một kết_quả .
+
+b ) Hơn_nữa , trong băng tần_số từ 156 MHz đến 165 MHz , phép đo phải được lặp_lại với băng_thông thu 9 kHz , các điều_kiện khác như quy_định ở khoản a ) .
+
+c ) Cũng có_thể lựa_chọn cách khác trong băng tần_số từ 156 MHz đến 165 MHz là sử_dụng một thiết_bị thu tách sóng đỉnh hay thiết_bị phân_tích tần_số , tuỳ theo thoả_thuận giữa nhà sản_xuất và cơ_quan đo kiểm .
+
+Hình 4 - Giới_hạn phát_xạ bức_xạ từ cổng vỏ tại cự_li 3 m
+
+2 . 2 . 3 . 3 . Giới_hạn
+
+a ) Trong dải_tần từ 150 kHz đến 2 GHz , giới_hạn bức_xạ tại khoảng_cách 3 m từ cổng vỏ được xác_định theo Hình 4 .
+
+b ) Trong dải_tần từ 156 MHz đến 165 MHz , giới_hạn bức_xạ tại khoảng_cách 3 m từ cổng vỏ là 24 dB V / m .
+
+c ) Trong cách lựa_chọn khác , trong dải_tần từ 156 MHz đến 165 MHz , giới_hạn phát_xạ tại khoảng_cách 3 m từ cổng vỏ là 30 dB V / m .
+
+2 . 3 . Yêu_cầu về miễn_nhiễm_điện_từ
+
+2 . 3 . 1 . Yêu_cầu chung
+
+Trong các phép thử này , Eut phải tuân_thủ cấu_hình hoạt_động , thủ_tục lắp_đặt và nối đất bình_thường , trừ khi có thay_đổi được chỉ rõ , hoạt_động trong điều_kiện đo kiểm bình_thường .
+
+Giao_diện đặc_biệt của Eut với môi_trường điện từ bên ngoài được gọi là các cổng . Giới_hạn vật_lí của Eut qua đó các trường điện từ có_thể bức_xạ hay tác_động là cổng vỏ ( Hình 1 ) .
+
+Các phép thử chế_độ chênh_lệch là các phép thử được áp_dụng giữa các đường điện , đường tín_hiệu và đường điều_khiển .
+
+Các phép thử chế_độ chung là các phép thử được áp_dụng giữa các nhóm đường_dây và điểm tham_chiếu chung , thường là đất .
+
+Đối_với các phép thử miễn_nhiễm , các kết_quả được đánh_giá theo các tiêu_chí chất_lượng phụ_thuộc vào các điều_kiện hoạt_động và các đặc_tính chức_năng của Eut , được định_nghĩa như sau :
+
+- Tiêu_chí chất_lượng A : Eut phải tiếp_tục hoạt_động bình_thường trong và sau khi thử . Không được xảy ra suy_giảm chất_lượng hay mất chức_năng như đã định_nghĩa trong tiêu_chuẩn thiết_bị và chỉ_tiêu kĩ_thuật do nhà sản_xuất cung_cấp .
+
+- Tiêu_chí chất_lượng B : Eut phải tiếp_tục hoạt_động bình_thường sau khi thử . Không được xảy ra suy_giảm chất_lượng hay mất chức_năng như đã định_nghĩa trong tiêu_chuẩn thiết_bị và chỉ_tiêu kĩ_thuật do nhà sản_xuất cung_cấp . Trong khi thử cho phép suy_giảm chất_lượng hay mất chức_năng nhưng có_thể tự phục_hồi nhưng không cho phép thay_đổi trạng_thái hoạt_động thực_tế hay số_liệu lưu_trữ .
+
+- Tiêu_chí chất_lượng C : cho phép suy_giảm hoặc mất chức_năng tạm_thời trong khi thử , với điều_kiện chức_năng có_thể tự phục_hồi , hoặc có_thể phục_hồi lại sau khi kết_thúc phép thử bằng các bộ_phận điều_khiển , như đã định_nghĩa trong tiêu_chuẩn thiết_bị và chỉ_tiêu kĩ_thuật do nhà sản_xuất cung_cấp .
+
+Các điều_kiện và phép thử được tóm_tắt trong Bảng 2 , trong đó cũng nêu các chỉ tiêu chất_lượng được yêu_cầu cho thiết_bị thông_tin vô_tuyến và thiết_bị dẫn đường thuộc phạm_vi điều_chỉnh của quy_chuẩn này . Với các loại thiết_bị khác , tiêu_chí chất_lượng phải được cung_cấp trong tiêu_chuẩn sản_phẩm hoặc chỉ_tiêu kĩ_thuật do nhà sản_xuất cung_cấp , tuy_nhiên , tối_thiểu Eut phải tuân_thủ_tiêu_chí chất_lượng C .
+
+Bảng 2 - Khả_năng áp_dụng các phép thử miễn_nhiễm_điện_từ
+
+2 . 3 . 2 . Thiết_bị thu sóng vô_tuyến
+
+Nếu Eut có gắn thiết_bị thu sóng vô_tuyến , các tần_số trong băng loại_trừ , cùng với các đáp_ứng của thiết_bị thu băng hẹp ( đáp_ứng giả ) , phải không nằm trong các phép thử miễn_nhiễm với nhiễu bức_xạ và nhiễu dẫn .
+
+2 . 3 . 2 . 1 . Băng tần_số loại_trừ
+
+Băng tần_số loại_trừ của thiết_bị thu được định_nghĩa_là băng tần hoạt_động của thiết_bị thu , do nhà sản_xuất công_bố , mở_rộng tại các giới_hạn thêm 5 % giá_trị .
+
+2 . 3 . 2 . 2 . Đánh_giá đáp_ứng thiết_bị thu
+
+Đáp_ứng băng hẹp cho phép ( đáp_ứng giả ) được xác_định bằng phương_pháp sau :
+
+Nếu tín_hiệu thử ( tín_hiệu không mong_muốn ) làm suy_giảm chất_lượng tại một tần_số riêng , tần_số tín_hiệu thử phải được tăng thêm một lượng gấp đôi độ rộng băng tần của bộ lọc If máy thu nằm ngay trước bộ giải điều_chế , theo như công_bố của nhà sản_xuất . Tín_hiệu thử sau đó được giảm một lượng tương_đương .
+
+Nếu không có suy_giảm chất_lượng tại cả hai tần_số này thì đáp_ứng ở đây được gọi là đáp_ứng băng hẹp cho phép . Nếu vẫn có suy_giảm chất_lượng , thì có_thể do phần thay_đổi đã làm cho tần_số của tín_hiệu thử tương_ứng với một đáp_ứng băng hẹp khác . Điều này được xác_định bằng cách lặp lại các thủ_tục trên bằng cách tăng và giảm tần_số tín_hiệu thử thêm 2 , 5 lần độ rộng băng tần ở trên .
+
+Nếu vẫn có suy_giảm chất_lượng thì đáp_ứng ở đây không được coi là đáp_ứng băng hẹp cho phép .
+
+2 . 3 . 3 . Miễn_nhiễm đối_với nhiễu dẫn tần_số vô_tuyến
+
+2 . 3 . 3 . 1 . Mục_đích
+
+Phép thử này mô_phỏng ảnh_hưởng của nhiễu được gây ra trên đường nguồn , trường tín_hiệu và điều_khiển từ các thiết_bị phát_sóng vô_tuyến trên tàu tại các tần_số dưới 80 MHz .
+
+2 . 3 . 3 . 2 . Phương_pháp đo
+
+Eut được đặt trên một tấm đỡ cách_điện có độ cao 0 , 1 m so với mặt_phẳng đất chuẩn ( xem Hình 5 ) .
+
+Thiết_bị phụ_trợ ( ae ) , cần_thiết cung_cấp nguồn và các tín_hiệu cần_thiết cho Eut để hoạt_động bình_thường và kiểm_tra chất_lượng , phải được kết_nối bằng dây_cáp với các thiết_bị ghép và tách thích_hợp ( CDNs ) tại khoảng_cách 0 , 1 m và 0 , 3 m từ Eut ( xem Hình 6 ) .
+
+Tcvn 7909-4-6:2015 mô_tả thiết_kế của CDNs và cách sử_dụng các kìm_kẹp để thay_thế nếu không_thể sử_dụng Cdn .
+
+Chú_thích :
+
+T Đầu_cuối 50
+
+T2 Khuy ếch đại công_suất ( 6 dB )
+
+Cdn Mạng ghép / tách
+
+Hình 5 - Sơ_đồ thiết_lập thử miễn_nhiễm đối_với nhiễu dẫn tần_số vô_tuyến
+
+Hình 6 - Ví_dụ minh_hoạ sơ_đồ đơn_giản của Cdn sử_dụng với các nguồn cung_cấp không có lớp che_chắn , trong phép thử nhiễu dẫn tần_số vô_tuyến
+
+Phép thử phải được thực_hiện với bộ phát thử nối lần_lượt với các Cdn , trong khi các cổng vào Rf không_kích_thích đến Cdn được kết cuối bằng trở_kháng 50 .
+
+Bộ phát thử phải được thiết_lập cho mỗi Cdn với Ae và Eut được ngắt ra và thay_thế bằng các trở_kháng 150 . Bộ phát thử phải cung_cấp e . m . f không điều_chế tại cổng Eut với mức thử yêu_cầu .
+
+Phép thử được tiến_hành như trong Tcvn 7909-4-6:2015 với các mức thử sau :
+
+- Biên_độ 3 V r . m . s quét trong dải_tần_số từ 150 kHz đến 80 MHz ( mức khắc_nghiệt 2 ) ;
+
+- Biên_độ 10 V r . m . s tại các tần_số : 2 MHz , 3 MHz , 4 MHz , 6 , 2 MHz , 8 , 2MHz , 12 , 6 MHz , 16 , 5 MHz 18 , 8 MHz , 22 MHz và 25 MHz ;
+
+Trong khi thử , điều_chế biên_độ tại 400 Hz 10 % với độ sâu 80 % 10 % sẽ được sử_dụng .
+
+Tốc_độ quét tần_số không được vượt quá 1 , 5 x 10-3 decade / s để cho phép phát_hiện lỗi của Eut .
+
+Các tín_hiệu trên được đặt lên_đường điện , đường tín_hiệu và đường điều_khiển của Eut . Phép kiểm_tra chất_lượng Emc được thực_hiện trong và sau mỗi phép thử .
+
+2 . 3 . 3 . 3 . Tiêu_chí chất_lượng
+
+Các yêu_cầu kiểm_tra chất_lượng Emc phải được thoả_mãn trong và sau phép thử tương_ứng với tiêu_chí chất_lượng A như mô_tả trong 2 . 3 . 1 .
+
+2 . 3 . 4 . Miễn_nhiễm đối_với nhiễu bức_xạ tần_số vô_tuyến
+
+2 . 3 . 4 . 1 . Mục_đích
+
+Phép thử này mô_phỏng ảnh_hưởng của các thiết_bị phát_sóng vô_tuyến tần_số trên 80 MHz , như các thiết_bị phát Vhf đặt trên tàu hay các thiết_bị vô_tuyến cầm tay , hoạt_động gần thiết_bị .
+
+2 . 3 . 4 . 2 . Phương_pháp đo
+
+Eut phải được đặt trong một phòng che thích_hợp hay buồng đo không phản_xạ và có kích_thước tương_xứng với Eut ( xem Hình 7 ) .
+
+Eut cần được đặt ở khu_vực trường đồng_nhất và cách_điện với đất bằng giá đỡ phi_kim_loại . Khu_vực đồng_nhất được hiệu chuẩn khi phòng đo trống , cấu_hình của Eut và các cáp đi cùng sẽ được ghi trong biên_bản thử_nghiệm .
+
+Nếu đường_dây từ và đến Eut không được chỉ rõ , các dây_dẫn song_song không che_chắn sẽ được sử_dụng và để trần trong trường điện từ cách Eut 1 m .
+
+Phép thử được tiến_hành như mô_tả trong Tcvn 7909-4-3:2015 với mức nghiêm_ngặt 3 , với ăng ten phát đặt đối_diện với một trong bốn mặt của Eut . Khi thiết_bị có_thể được sử_dụng theo các hướng khác nhau ( thẳng_đứng và nằm ngang ) , phép thử được tiến_hành ở tất_cả các mặt .
+
+Eut ban_đầu được đặt sao cho một mặt trùng với mặt_phẳng hiệu chuẩn . Dải_tần được quét với tốc_độ theo thứ tự là 1 , 5 x 10-3 decade / s với dải_tần từ 80 MHz đến 1 GHz và 0 , 5 x 10-3 decade / s với dải_tần từ 1 GHz đến 2 GHz , và phải đủ chậm để cho phép phát_hiện bất_kì lỗi chức_năng nào của Eut . Bất_kì tần_số nhạy_cảm hay tần_số quan_tâm vượt_trội nào cũng cần được phân_tích riêng .
+
+Eut được đặt trong điện_trường điều_chế với cường_độ 10 v / m quét trong dải_tần từ 80 MHz đến 2 GHz . Điều_chế tại 400 Hz 10 % , độ sâu 80 % 10 % ,
+
+2 . 3 . 4 . 3 . Tiêu_chí chất_lượng
+
+Các yêu_cầu kiểm_tra chất_lượng Emc phải được thoả_mãn trong và sau phép thử tương_ứng với Tiêu_chí chất_lượng A như mô_tả tại 2 . 3 . 1 .
+
+Hình 7 - Ví_dụ điều_kiện thử_nghiệm miễn_nhiễm đối_với bức_xạ vô_tuyến
+
+Chú_thích :
+
+I Khoảng_cách giữa giá kẹp và Eut ( không lớn hơn 1 m )
+
+( a ) Vị_trí ghép đường nguồn
+
+( b ) Vị_trí ghép đường tín_hiệu
+
+Hình 8 - Thiết_lập thử_nghiệm chung cho miễn_nhiễm đối_với đột_biến nhanh
+
+2 . 3 . 5 . Miễn_nhiễm đối_với xung_đột_biến nhanh trên đường điện Ac , đường tín_hiệu và đường điều_khiển
+
+2 . 3 . 5 . 1 . Mục_đích
+
+Phép thử này mô_phỏng đột_biến năng_lượng thấp , nhanh gây ra do chuyển mạch thiết_bị tạo nên tại_chỗ tiếp_xúc .
+
+2 . 3 . 5 . 2 . Phương_pháp đo
+
+Phép thử được tiến_hành như mô_tả trong Iec 61000 - 4 - 4 , tại mức nghiêm_ngặt 3 , sử_dụng thiết_bị phát thử tuân_thủ theo mục 6 . 1 . 1 của Iec 61000 - 4 - 4 , mạng ghép / tách cho các đường điện tuân_thủ theo mục 6 . 2 của Iec 61000 - 4 - 4 , giá kẹp ghép điện_dung cho đường tín_hiệu và đường điều_khiển tuân_thủ theo 6 . 3 của Iec 61000 - 4 - 4 ( xem Hình 8 ) .
+
+Xung với các đặc_tính sau được sử_dụng cho đường điện , đường tín_hiệu và đường điều_khiển :
+
+- Thời_gian quá_độ : 5 ns ( Giá_trị nằm giữa 10 % và 90 % )
+
+- Độ rộng : 50 ns ( 50 % giá_trị )
+
+- Biên_độ : 2 kV chế_độ chênh_lệch trên các đường điện Ac1 kV chế_độ chung trên đường tín_hiệu và đường điều_khiển
+
+- Tốc_độ lặp : 5 kHz ( 1 kV ) , 2 , 5 kHz ( 2 kV )
+
+- Ứng_dụng : burst 15 ms trong 300 ms
+
+- Chu_trình : 3 phút đến 5 phút cho mỗi xung_cực tính dương và âm .
+
+2 . 3 . 5 . 3 . Tiêu_chí chất_lượng
+
+Các yêu_cầu kiểm_tra chất_lượng Emc phải được thoả_mãn trong và sau phép thử tương_ứng với Tiêu_chí chất_lượng B như mô_tả trong 2 . 3 . 1 .
+
+2 . 3 . 6 . Miễn_nhiễm đối_với xung_sét trên đường điện Ac
+
+2 . 3 . 6 . 1 . Mục_đích
+
+Phép thử mô_phỏng xung sét năng_lượng cao , chậm gây ra do chuyển mạch thyristor lên nguồn điện Ac
+
+2 . 3 . 6 . 2 . Phương_pháp đo
+
+Phép thử được tiến_hành như mô_tả trong Tcvn 8241-4-5:2009 , tại mức nghiêm_ngặt 2 , sử_dụng thiết_bị phát_sóng kết_hợp ( lai ) , tuân_thủ theo 6 . 1 của Tcvn 8241-4- 5 : 2009 , kết_hợp với mạng ghép / tách , tuân_thủ theo 6 . 3 . 1 . 1 của Tcvn 8241-4-5:2009 ( xem Hình 9a và 9b ) .
+
+Xung với các đặc_tính sau được sử_dụng cho các đường điện :
+
+- Thời_gian quá_độ : 1 , 2 s ( Giá_trị nằm giữa 10 % và 90 % )
+
+- Độ rộng : 50 s ( 50 % giá_trị )
+
+- Biên_độ : 1 kV dây / đất , 0 , 5 kV dây / dây
+
+- Tốc_độ lặp : 1 xung / phút
+
+- Ứng_dụng : liên_tục
+
+- Chu_trình : 5 phút cho mỗi xung_cực tính dương và âm .
+
+2 . 3 . 6 . 3 . Tiêu_chí chất_lượng
+
+Các yêu_cầu kiểm_tra chất_lượng Emc phải được thoả_mãn trong và sau phép thử tương_ứng với Tiêu_chí chất_lượng B như được mô_tả tại 2 . 3 . 1 .
+
+Hình 9a - Thiết_lập phép thử miễn_nhiễm đối_với xung_sét trên đường Ac - Ví_dụ thiết_lập phép thử ghép điện_dung trên đường Ac / dc ; ghép đường tới đường , đầu_ra thiết_bị phát thả_nổi
+
+Hình 9b - Thiết_lập phép thử miễn_nhiễm đối_với xung_sét trên đường Ac - Ví_dụ thiết_lập phép thử ghép điện_dung trên đường Ac / dc ; ghép đường tới đất , đầu_ra thiết_bị phát nổi đất
+
+2 . 3 . 7 . Miễn_nhiễm đối_với biến_đổi nguồn ngắn_hạn
+
+2 . 3 . 7 . 1 . Miễn_trừ
+
+Phép thử này không dùng cho thiết_bị điện_áp Dc
+
+2 . 3 . 7 . 2 . Mục_đích
+
+Phép thử này mô_phỏng biến_đổi nguồn do tải thay_đổi mạnh . Phần này bổ_sung cho phép thử biến_đổi nguồn liên_tục trong điều_kiện đo kiểm tới hạn như chỉ ra trong Bảng 1 .
+
+2 . 3 . 7 . 3 . Phương_pháp đo
+
+Biến_đổi điện_áp nguồn được tạo ra bằng nguồn điện có_thể lập_trình được .
+
+Eut phải chịu biến_đổi điện_áp nguồn tương_ứng với giá_trị danh định từng phút trong 10 phút ( Hình 10 ) như sau :
+
+a ) Điện_áp : danh định + ( 20 1 ) % , chu_trình 1 , 5 s 0 , 2 s ,
+
+Tần_số : danh định + ( 10 0 , 5 ) % , chu_trình 5 s 0 , 5 s , áp_đặt ;
+
+b ) Điện_áp ; danh định - ( 20 1 ) % , chu_trình 1 , 5 s 0 , 2 s ,
+
+Tần_số : danh định - ( 10 0 , 5 ) % , chu_trình 5 s 0 , 5 s , áp_đặt
+
+Thời_gian tăng và giảm biến_đổi tần_số và điện_áp là 0 , 2 s 0 , 1s ( từ 10 % đến 90 % ) . Các thông_tin khác được mô_tả trong Tcvn 8241-4-11:2009.
+
+Hình 10a - Phép thử 1 : điện_áp ( v ) + 20 % và tần_số ( f ) + 10 %
+
+Hình 10b - Phép thử 2 : điện_áp ( v ) - 20 % và tần_số ( f ) - 10 %
+
+Hình 10 - Biến_đổi nguồn trong phép thử miễn_nhiễm đối_với biến_đổi điện_áp nguồn ngắn_hạn
+
+2 . 3 . 7 . 4 . Tiêu_chí chất_lượng
+
+Các yêu_cầu kiểm_tra chất_lượng Emc phải được thoả_mãn trong và sau phép thử tương_ứng với Tiêu_chí chất_lượng B như được mô_tả tại 2 . 3 . 1 .
+
+2 . 3 . 8 . Miễn_nhiễm đối_với lỗi nguồn
+
+2 . 3 . 8 . 1 . Miễn_trừ
+
+Phép thử này không áp_dụng với Eut hoạt_động bằng nguồn ắc_quy hoặc kết_nối tới ắc_quy dự_phòng .
+
+2 . 3 . 8 . 2 . Mục_đích
+
+Phép thử này mô_phỏng ngắt nguồn trong khoảng thời_gian ngắn do thay_đổi nguồn điện và ngắt_điện_áp . Nó bao_gồm cả trường_hợp ngắt cho phép bởi Công_ước Imo Sol as trong việc chuyển_đổi từ nguồn điện chính sang nguồn khẩn_cấp .
+
+2 . 3 . 8 . 3 . Phương_pháp đo
+
+Eut phải chịu ba lần ngắt nguồn với mỗi lần ngắt khoảng 60 s . Các thông_tin khác được cho trong Tcvn 8241-4-11:2009 .
+
+2 . 3 . 8 . 4 . Tiêu_chí chất_lượng
+
+Các yêu_cầu kiểm_tra chất_lượng Emc phải được thoả_mãn trong và sau phép thử tương_ứng với Tiêu_chí chất_lượng C như được mô_tả trong 2 . 3 . 1 . Không xảy ra hỏng_hóc phần_mềm hay mất các dữ_liệu quan_trọng .
+
+2 . 3 . 9 . Miễn_nhiễm đối_với phóng tĩnh_điện
+
+2 . 3 . 9 . 1 . Mục_đích
+
+Phép thử này mô_phỏng ảnh_hưởng của phóng tĩnh_điện từ người xảy ra trong môi_trường mà người đó tích điện , như tiếp_xúc với thảm sợi nhân_tạo hay các áo_quần bằng Vinyl .
+
+Hình 11 - Ví_dụ thiết_lập phép thử miễn_nhiễm phóng tĩnh_điện ( esd ) cho thiết_bị đặt trên sản chỉ rõ các vị_trí cơ_bản của thiết_bị phát Esd
+
+2 . 3 . 9 . 2 . Phương_pháp đo
+
+Phép thử được thực_hiện như mô_tả trong Tcvn 7909-4-2:2015 , sử_dụng thiết_bị phóng tĩnh_điện ( esd ) , là một tụ_điện dự_trữ năng_lượng có điện_dung 150 pF và trở_kháng phóng 330 nối với một đầu phóng .
+
+Eut phải được đặt trên một mặt_phẳng đất bằng kim_loại và cách_điện với mặt_phẳng này . Mặt_phẳng này phải nhô ra tối_thiểu 0 , 5 m bên ngoài Eut ở mỗi mặt ( Hình 11 và Hình 12 ) . Thiết_bị phóng tĩnh_điện sẽ phóng_điện vào các điểm trên Eut mà người sử_dụng thường truy_nhập trong quá_trình sử_dụng bình_thường .
+
+Hình 12 - Ví_dụ thiết_lập phép thử miễn_nhiễm phóng tĩnh_điện ( esd ) cho thiết_bị đặt trên bàn chỉ rõ vị_trí cơ_bản của thiết_bị phóng Esd
+
+Thiết_bị phóng Esd được giữ vuông_góc với bề_mặt , tại vị_trí có_thể thực_hiện phóng_điện và với tốc_độ 20 lần phóng trong một giây . Mỗi vị_trí được thử với 10 lần phóng_điện_tích dương và âm trong khoảng thời_gian giãn cách ít_nhất 1 s giữa các lần phóng để cho phép kiểm_tra lỗi hoạt_động của Eut . Phương_pháp hay được sử_dụng là phóng_điện tiếp_xúc ; tuy_nhiên phóng_điện qua không_khí sẽ được dùng ở những nơi không_thể áp_dụng phóng_điện tiếp_xúc , như trên các bề_mặt sơn cách_điện theo công_bố của nhà sản_xuất .
+
+Để mô_phỏng phóng_điện lên các vật_thể đặt cạnh Eut , 10 lần phóng_điện tiếp_xúc đơn , cực tính dương và âm , sẽ được sử_dụng cho mặt_phẳng đất tại mỗi bề_mặt ở vị_trí cách Eut 0 , 1 m . 10 lần phóng_điện khác sẽ được đặt vào tâm của một cạnh của mặt_phẳng ghép đứng ( vcp ) , mặt_phẳng này được đặt ở các vị_trí khác nhau đủ để cả 4 bề_mặt của Eut được chiếu đầy_đủ .
+
+Mức thử là 6 kV cho phóng_điện tiếp_xúc và 8 kV cho phóng_điện qua không_khí .
+
+2 . 3 . 9 . 3 . Tiêu_chí chất_lượng
+
+Các yêu_cầu kiểm_tra chất_lượng Emc phải được thoả_mãn trong và sau phép thử tương_ứng với Tiêu_chí chất_lượng B như được mô_tả trong mục 2 . 3 . 1 .
+
+3 . Quy_định Về Quản_lý
+
+3 . 1 . Các thiết_bị thuộc phạm_vi điều_chỉnh quy_định tại mục 1 . 1 của Quy_chuẩn này phải tuân_thủ các quy_định kĩ_thuật của Quy_chuẩn này và phải thực_hiện công_bố hợp quy theo Quy_chuẩn này .
+
+3 . 2 . Đối_với thiết_bị Ra đa dùng cho nghiệp_vụ di_động hàng_hải , Quy_chuẩn này được áp_dụng thay cho Qcvn 18 : 2014 / bt để thực_hiện các quy_định của Bộ Thông_tin và Truyền_thông về công_bố hợp quy .
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+Các tổ_chức , cá_nhân liên_quan có trách_nhiệm thực_hiện các quy_định về công_bố hợp quy và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành .
+
+5 . Tổ_chức Thực_hiện
+
+5 . 1 . Cục Viễn_thông , Cục Tần_số vô_tuyến_điện và các Sở Thông_tin và Truyền_thông có trách_nhiệm tổ_chức hướng_dẫn , triển_khai áp_dụng và quản_lí các cá_nhân , tổ_chức , doanh_nghiệp thực_hiện theo Quy_chuẩn này .
+
+5 . 2 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới .
+
+5 . 3 . Trong quá_trình triển_khai thực_hiện quy_chuẩn này , nếu có vấn_đề phát_sinh , vướng_mắc , các tổ_chức và cá_nhân có liên_quan phản_ánh bằng văn_bản về Bộ Thông_tin và Truyền_thông ( Vụ Khoa_học và Công_nghệ ) để được hướng_dẫn , giải_quyết . / .

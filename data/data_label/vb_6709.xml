@@ -1,0 +1,393 @@
+Thông_tư số 03/2020/tt-btnmt ngày 29 tháng 05 năm 2020 của bộ tài_nguyên và môi_trường
+
+Căn_cứ <LT rel="CC"> Luật Đo_đạc và bản_đồ ngày 14 tháng 6 năm 2018 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 27/2019/NĐ-CP ngày 13 tháng 3 năm 2019 </NĐ> của Chính_phủ quy_định chi_tiết một_số điều của <LT rel="CC"> Luật Đo_đạc và bản_đồ </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Cục_trưởng Cục Đo_đạc , Bản_đồ và Thông_tin địa_lí Việt_nam , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành <TT rel="None"> Thông_tư quy_định kĩ_thuật </TT> về mạng_lưới trạm định_vị vệ_tinh quốc_gia .
+
+Chương I
+
+Những Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định các yêu_cầu kĩ_thuật về mạng_lưới trạm định_vị vệ_tinh quốc_gia trong hoạt_động đo_đạc và bản_đồ .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với cơ_quan nhà_nước , tổ_chức và cá_nhân có liên_quan đến việc xây_dựng mạng_lưới trạm định_vị vệ_tinh quốc_gia ; cung_cấp , sử_dụng dịch_vụ mạng_lưới trạm định_vị vệ_tinh quốc_gia trong hoạt_động đo_đạc và bản_đồ .
+
+Điều 3 . Giải_thích từ_ngữ và từ_ngữ viết tắt
+
+1 . Giải_thích từ_ngữ
+
+a ) Dịch_vụ đo động thời_gian thực được cung_cấp bởi mạng_lưới trạm định_vị vệ_tinh quốc_gia : là dịch_vụ có khả_năng cung_cấp các dữ_liệu cải_chính được xử_lí_tính_toán từ 3 trạm định_vị vệ_tinh quốc_gia trở lên phục_vụ trong hoạt_động đo_đạc và bản_đồ đáp_ứng độ chính_xác cỡ cm trong thời_gian thực ;
+
+b ) Giãn cách thu tín_hiệu ( Data_sampling ) : là khoảng thời_gian ( đơn_vị giây ) trị đo được ghi vào bộ_nhớ của máy thu ;
+
+c ) Giá_gắn ăng - ten : là phụ_kiện để gắn ăng - ten cố_định vào trụ mốc , có khả_năng cân_bằng và điều_chỉnh hướng của ăng - ten , thường được chế_tạo sẵn theo chuẩn quốc_tế ;
+
+d ) Tôn_zam : là hợp_kim của thép với kẽm - nhôm - magiê được phát_triển phù_hợp với dòng sản_phẩm mới , có khả_năng chống mòn vượt_trội , có độ bền cao thường được sử_dụng làm vật_liệu cấu_trúc nhà xây_dựng .
+
+2 . Từ_ngữ viết tắt
+
+a ) Gns ( Global Navigation Satellite_system ) : Hệ_thống dẫn đường bằng vệ_tinh toàn_cầu ;
+
+b ) Gps ( Global Positioning_system ) : Hệ_thống định_vị toàn_cầu của Mỹ ;
+
+c ) Glonas ( Global Navigation Satellite_system ) : Hệ_thống dẫn đường bằng vệ_tinh toàn_cầu của Nga ;
+
+d ) Galileo : Hệ_thống dẫn đường bằng vệ_tinh toàn_cầu của Liên_minh Châu_âu được vận_hành bởi cơ_quan hàng không vũ_trụ Châu_âu ;
+
+đ ) Bds ( BeiDou Navigation Satellite_system ) : Hệ_thống dẫn đường bằng vệ_tinh toàn_cầu của Trung_quốc ;
+
+e ) Qzss ( Quasi - Zenith Satelite_system ) : Hệ_thống dẫn đường bằng vệ_tinh của Nhật_bản hoạt_động chủ_yếu ở khu_vực châu Á - Châu Đại_dương ;
+
+g ) Irns ( Indian Regional Navigation Satellite_system ) : Hệ_thống dẫn đường bằng vệ_tinh khu_vực được phát_triển bởi Tổ_chức nghiên_cứu không_gian Ấn_độ ;
+
+h ) Igs ( International Gns_service ) : Tổ_chức quốc_tế cung_cấp các dịch_vụ về hệ_thống Gns ;
+
+i ) Itrf ( International_terrestrial Reference_frame ) : Hệ quy chiếu trắc_địa quốc_tế ;
+
+k ) Rinex ( Receiver Independent Exchange format ) : Chuẩn dữ_liệu trị đo Gns theo khuôn_dạng dữ_liệu Asci được sử_dụng để thuận_tiện cho việc xử_lí không phụ_thuộc máy thu hoặc phần_mềm ;
+
+l ) Vrs ( Virtual Reference_station ) : Trạm tham_chiếu ảo ;
+
+m ) Mac ( Master - Auxiliary_concept ) : Trạm chính - phụ ;
+
+n ) Max : Dịch_vụ cải_chính_sử_dụng giải_pháp công_nghệ trạm chính - phụ ;
+
+o ) i - MAX : Dịch_vụ cải_chính_sử_dụng giải_pháp công_nghệ trạm chính - phụ có điều_chỉnh ;
+
+p ) Single Base : Dịch_vụ cải_chính_sử_dụng giải_pháp công_nghệ trạm đơn ;
+
+q ) Rtcm ( Radio Technical Commission for Maritime services ) : Chuẩn cấu_trúc dữ_liệu để truyền cải_chính phân sai được phát_triển bởi Ủy_ban kĩ_thuật vô_tuyến cho các dịch_vụ hàng_hải ;
+
+r ) Dvr ( Digital video recoder ) : Thiết_bị điện_tử có_thể thu_nhận các tín_hiệu từ camera kĩ_thuật_số có nhiệm_vụ xử_lí và ghi lại hình_ảnh theo thời_gian thực ;
+
+s ) Ftth ( Fiber to the Home ) : Giải_pháp kết_nối cáp_quang thuần_tuý được đi trực_tiếp từ nhà mạng đến hộ gia_đình hoặc tổ_chức ;
+
+t ) Leased line hay còn gọi là kênh thuê riêng , đây là hình_thức kết_nối trực_tiếp giữa các node mạng có sử_dụng kênh truyền_dẫn số_liệu thuê riêng ;
+
+u ) Mạng_lan ( Local Area_network ) hay còn gọi là mạng máy_tính cục_bộ : là một hệ_thống mạng dùng để kết_nối các máy_tính trong một phạm_vi nhỏ .
+
+Điều 4 . Quy_định chung về mạng_lưới trạm định_vị vệ_tinh quốc_gia
+
+1 . Mạng_lưới trạm định_vị vệ_tinh quốc_gia bao_gồm các trạm định_vị vệ_tinh quốc_gia và trạm điều_khiển xử_lí trung_tâm được kết_nối với nhau qua internet đảm_bảo việc thu_nhận dữ_liệu được liên_tục , ổn_định .
+
+2 . Trạm điều_khiển xử_lí trung_tâm bao_gồm trung_tâm dữ_liệu và phòng điều_khiển được kết_nối với nhau qua hệ_thống mạng Lan có chức_năng xử_lý , tính_toán , cung_cấp các dịch_vụ phục_vụ hoạt_động đo_đạc và bản_đồ , định_vị , dẫn đường độ chính_xác cao , nghiên_cứu khoa_học .
+
+3 . Mạng_lưới trạm định_vị vệ_tinh quốc_gia được xây_dựng đồng_bộ , phủ trùm trên toàn_quốc trong hệ toạ_độ quốc_gia Vn - 2000 , hệ độ cao quốc_gia ; được tính_toán xác_định toạ_độ thường_xuyên , liên_tục theo ngày trong hệ quy chiếu trắc_địa quốc_tế Itrf ; được xác_định giá_trị trọng_lực và sự_biến_thiên của giá_trị trọng_lực với chu_kì đo lặp 10 năm / lần .
+
+4 . Mô_hình Geoid phục_vụ cho việc xác_định độ cao thuỷ chuẩn là mô_hình Geoid được xây_dựng phù_hợp với lãnh_thổ Việt_nam do Bộ Tài_nguyên và Môi_trường công_bố đồng_thời với việc cung_cấp các dịch_vụ của mạng_lưới trạm định_vị vệ_tinh quốc_gia . Độ cao thuỷ chuẩn h = H - n ( trong đó H là độ cao trắc_địa , N là độ cao Geoid được nội suy từ mô_hình Geoid nói trên ) .
+
+5 . Một_số trạm định_vị vệ_tinh quốc_gia ven biển cần được liên_kết với trạm hải_văn gần nhất để có số_liệu quan_trắc mực nước biển phục_vụ_việc thiết_lập hệ độ cao quốc_gia , chính_xác hoá mô_hình Geoid , quan_trắc sự dâng lên của nước biển .
+
+6 . Mạng_lưới trạm định_vị vệ_tinh quốc_gia phải có khả_năng mở_rộng , nâng_cấp đáp_ứng nhu_cầu sử_dụng , đảm_bảo tính tương_thích với hạ_tầng kĩ_thuật , công_nghệ của các hệ_thống định_vị , dẫn đường bằng vệ_tinh hiện có trên thế_giới .
+
+Chương_ii
+
+Trạm Định_vị Vệ_tinh Quốc_gia
+
+Điều 5 . Thiết_kế sơ_bộ trạm định_vị vệ_tinh quốc_gia
+
+1 . Trạm định_vị vệ_tinh quốc_gia gồm 2 loại được thiết_kế theo mục_đích sử_dụng như sau :
+
+a ) Trạm tham_chiếu cơ_sở hoạt_động liên_tục : được phân_bố đều trên phạm_vi toàn_quốc , có khoảng_cách trung_bình giữa các trạm từ 150km - 200km , được sử_dụng để làm khung tham_chiếu toạ_độ quốc_gia , nghiên_cứu khoa_học và phục_vụ cho các hoạt_động đo_đạc và bản_đồ . Vị_trí của 24 trạm tham_chiếu cơ_sở hoạt_động liên_tục đã xây_dựng được thể_hiện_tại Phụ_lục 01 của Thông_tư này , trong đó có từ 1 đến 3 trạm tham_gia vào mạng_lưới của Igs ;
+
+b ) Trạm tham_chiếu hoạt_động liên_tục : được tăng dày giữa các trạm tham_chiếu cơ_sở hoạt_động liên_tục có khoảng_cách trung_bình giữa các trạm từ 50km - 70km , trường_hợp đặc_biệt có_thể lên đến 100km . Các trạm tham_chiếu hoạt_động liên_tục kết_hợp với các trạm tham_chiếu cơ_sở hoạt_động liên_tục tạo thành mạng_lưới trạm định_vị vệ_tinh quốc_gia có khả_năng cung_cấp dịch_vụ định_vị , dẫn đường trong thời_gian thực với độ chính_xác cỡ cm đáp_ứng hầu_hết các yêu_cầu về độ chính_xác trong công_tác đo_đạc và bản_đồ hiện_nay .
+
+2 . Trong quá_trình thiết_kế phải ưu_tiên lựa_chọn vị_trí tại các nơi đã có sẵn các cơ_sở hạ_tầng như các cơ_sở quan_trắc tài_nguyên môi_trường , các cơ_quan chuyên_môn về tài_nguyên và môi_trường ở địa_phương , Ủy_ban nhân_dân các cấp để giảm_thiểu chi_phí đầu_tư , vận_hành , đồng_thời đảm_bảo tính ổn_định lâu_dài , bảo_mật dữ_liệu .
+
+3 . Kết_thúc quá_trình thiết_kế sơ_bộ phải thể_hiện tổng_thể vị_trí của tất_cả các trạm định_vị vệ_tinh quốc_gia trên nền bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 1 . 000 . 000 . Vị_trí cụ_thể của từng trạm được thể_hiện trên nền bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 50 . 000 hoặc lớn hơn làm cơ_sở cho việc khảo_sát , lựa_chọn chi_tiết vị_trí xây_dựng trạm .
+
+Điều 6 . Đặt tên và đánh_số_hiệu cho trạm định_vị vệ_tinh quốc_gia
+
+1 . Tên trạm định_vị vệ_tinh quốc_gia gồm có tên đầy_đủ và tên rút_gọn . Tên đầy_đủ được lấy theo địa_danh của khu_vực đặt trạm . Tên rút_gọn gồm 04 kí_tự được viết tắt từ tên đầy_đủ , đồng_thời thoả_mãn các yêu_cầu sau :
+
+a ) Dễ nhận_biết so với tên đầy_đủ ;
+
+b ) Không được trùng nhau trong mạng_lưới trạm định_vị vệ_tinh quốc_gia ;
+
+c ) Không trùng với tên đã có của các điểm trong mạng_lưới Igs ( đối_với các điểm tham_gia mạng_lưới trạm định_vị vệ_tinh của tổ_chức Igs ) .
+
+2 . Số_hiệu của trạm định_vị vệ_tinh quốc_gia có 09 kí_tự bao_gồm : 02 kí_tự đầu_tiên là mã vùng quốc_gia , 04 kí_tự tiếp_theo là tên rút_gọn của trạm , 03 kí_tự tiếp_theo là số thứ_tự của trạm trong mạng_lưới trạm định_vị vệ_tinh quốc_gia trong đó trạm tham_chiếu cơ_sở hoạt_động liên_tục được đánh_số từ 001 đến 039 , trạm tham_chiếu hoạt_động liên_tục được đánh_số từ 040 trở_đi . Số_hiệu của trạm định_vị vệ_tinh quốc_gia phải đảm_bảo là duy_nhất trong mạng_lưới trạm định_vị vệ_tinh quốc_gia .
+
+Điều 7 . Khảo_sát , lựa_chọn vị_trí xây_dựng trạm định_vị vệ_tinh quốc_gia
+
+1 . Trên_cơ_sở kết_quả thiết_kế sơ_bộ trạm định_vị vệ_tinh quốc_gia được thực_hiện theo quy_định tại Điều 5 của Thông_tư này , tiến_hành khảo_sát thực_tế khu_vực dự_kiến xây_dựng trạm . Việc khảo_sát nhằm thu_thập các thông_tin sau :
+
+a ) Nhóm tiêu_chí về các thông_tin cơ_bản , bao_gồm các thông_tin về vị_trí địa_lý , đặc_điểm tự_nhiên , khí_hậu , giao_thông , kinh_tế xã_hội , an_ninh khu_vực . . . ;
+
+b ) Nhóm tiêu_chí về thông_tin cảnh_quan bao_gồm các thông_tin về cảnh_quan xung_quanh khu_vực dự_kiến đặt trạm có_thể làm ảnh_hưởng tới chất_lượng thu_nhận tín_hiệu vệ_tinh ;
+
+c ) Nhóm tiêu_chí về thông_tin cơ_sở hạ_tầng bao_gồm các thông_tin về hạ_tầng sẵn có của khu_vực cũng như các thông_tin chi_tiết phục_vụ công_tác thi_công lắp_đặt thiết_bị ;
+
+d ) Nhóm tiêu_chí về quan_trắc vệ_tinh Gns : thực_hiện thu_nhận dữ_liệu trực_tiếp bằng máy thu Gns trong thời_gian tối_thiểu 24 giờ tại vị_trí dự_kiến xây trụ mốc với các thông_số được thiết_lập trên máy thu như khi vận_hành chính_thức nhằm phân_tích , đánh_giá cụ_thể_chất_lượng thu tín_hiệu vệ_tinh trên tất_cả các tần_số quan_trắc được ; đánh_giá sự can nhiễu , khuất hướng , suy_giảm tín_hiệu đối_với từng vệ_tinh cụ_thể trong ngày ; đánh_giá sự ảnh_hưởng của các loại sóng vô_tuyến khác trong khu_vực ;
+
+đ ) Nhóm tiêu_chí về đo_đạc , khảo_sát hiện_trạng : đo vẽ trực_tiếp mặt_bằng khu_vực , quan_tâm đặc_biệt các đối_tượng có chiều cao lớn gây khuất hướng ảnh_hưởng tới khả_năng thu_nhận tín_hiệu của máy thu ;
+
+e ) Nhóm tiêu_chí về điểm toạ_độ quốc_gia , độ cao quốc_gia , bao_gồm kiểm_tra sự tồn_tại và khả_năng sử_dụng của các điểm toạ_độ , độ cao , trọng_lực có trong khu_vực phục_vụ_việc đo nối ;
+
+g ) Nhóm tiêu_chí về thông_tin địa_chất : thực_hiện đánh_giá khái_quát về đặc_điểm địa_chất , địa_mạo và thổ_nhưỡng tại vị_trí cần xây_dựng đối_với trụ mốc trạm tham_chiếu cơ_sở hoạt_động liên_tục ;
+
+h ) Nội_dung chi_tiết đối_với từng nhóm tiêu_chí quy_định tại điểm a , b , c , d , đ , e và điểm g khoản này theo quy_định tại Phụ_lục 02 của Thông_tư này . Kết_thúc quá_trình khảo_sát đơn_vị khảo_sát phải lập Báo_cáo tổng_hợp kết_quả khảo_sát có xác_nhận của các bên tham_gia .
+
+2 . Trên_cơ_sở thiết_kế sơ_bộ kết_hợp với kết_quả khảo_sát lựa_chọn vị_trí xây_dựng trạm định_vị vệ_tinh quốc_gia , đồng_thời tiến_hành thiết_kế chính_thức . Trên sơ_đồ thiết_kế chính_thức phải thể_hiện đầy_đủ các thông_tin cơ_bản của trạm như : tên trạm , số_hiệu trạm , toạ_độ gần đúng của trạm , khoảng_cách đến các trạm lân_cận ; các kí_hiệu sử_dụng trong thiết_kế phải rõ_ràng , thống_nhất . Thiết_kế chính_thức giao_nộp ở dạng in trên giấy và dạng số .
+
+Điều 8 . Xây_dựng trụ mốc trạm định_vị vệ_tinh quốc_gia
+
+1 . Trụ mốc trạm định_vị vệ_tinh quốc_gia phải được xây_dựng ở nơi có nền đất ổn_định , thông_thoáng , đảm_bảo có góc mở lên bầu_trời lớn hơn 170o tại vị_trí đặt ăng - ten . Quanh trụ mốc 2 mét không nên có tấm_lợp vật_liệu bằng kim_loại , cây tán rộng , hàng_rào kim_loại . . . để giảm_thiểu tối_đa nhiễu đa đường .
+
+2 . Trụ mốc được làm_bằng bê_tông cốt thép mác M25 ( theo 39 Tcvn 6025 : 1995 ) trở lên . Trụ mốc có hình_trụ đường_kính 0 , 3 mét , chiều cao từ đế mốc đến vị_trí đặt ăng - ten là 4 mét . Một_số trường_hợp đặc_biệt được quy_định như sau :
+
+a ) Trường_hợp quanh trụ mốc có các công_trình kiến_trúc ảnh_hưởng đến việc thu_nhận tín_hiệu được phép nâng chiều cao trụ mốc nhưng không được vượt quá 8 mét ;
+
+b ) Trường_hợp trụ mốc thiết_kế đặt trên các công_trình kiến_trúc được phép hạ chiều cao trụ mốc nhưng không được thấp hơn 2 mét so với mái của công_trình kiến_trúc .
+
+3 . Trên đỉnh trụ mốc được lắp giá gắn ăng - ten . Giá_gắn ăng - ten phải được gắn chặt vào trụ mốc , được gia_công_bằng vật_liệu thép không_gỉ và phải có các chức_năng cơ_bản như : khoá chặt ăng - ten , cân chỉnh ăng - ten về mặt_phẳng cân_bằng và điều_chỉnh hướng ăng - ten ( tham_khảo tại Phụ_lục 03 của Thông_tư này ) .
+
+4 . Tại đế trụ mốc phải gắn hai dấu mốc độ cao , trong đó một dấu mốc gắn nổi trên mặt đế mốc và một dấu mốc chôn chìm dưới mặt_đất . Trường_hợp trụ mốc đặt trên các công_trình kiến_trúc chỉ gắn một dấu mốc độ cao . Thực_hiện xác_định chênh cao thẳng_đứng giữa dấu mốc độ cao và điểm tham_chiếu ăng - ten ( arp ) với độ chính_xác < 2 mm . Quy_cách dấu mốc độ cao theo quy_định tại Phụ_lục 04 của Thông_tư này .
+
+5 . Các trụ mốc của trạm tham_chiếu cơ_sở hoạt_động liên_tục chỉ được xây_dựng trên mặt_đất và được khoan sâu , đổ bê_tông cốt thép tới tầng ổn_định . Quy_cách trụ mốc trạm tham_chiếu cơ_sở hoạt_động liên_tục theo quy_định tại Phụ_lục 05 của Thông_tư này .
+
+6 . Các trụ mốc trạm tham_chiếu hoạt_động liên_tục được xây_dựng trên mặt_đất hoặc trên các công_trình kiến_trúc kiên_cố . Quy_cách trụ mốc trạm tham_chiếu hoạt_động liên_tục theo quy_định tại Phụ_lục 06 của Thông_tư này .
+
+Điều 9 . Thiết_bị thu tín_hiệu vệ_tinh của trạm định_vị vệ_tinh quốc_gia
+
+1 . Ăng - ten thu tín_hiệu định_vị vệ_tinh được lắp trên đỉnh trụ mốc thông_qua giá gắn ăng - ten , được căn_chỉnh về đúng mặt_phẳng nằm ngang ; hướng ăng - ten phải được quay về hướng bắc thực với sai_lệch không quá 5o , trường_hợp vượt quá 5o phải ghi giá_trị cụ_thể ra nhật_ký . Ăng - ten phải đáp_ứng các yêu_cầu cơ_bản sau :
+
+a ) Sử_dụng ăng - ten có vòng cảm_kháng , có khả_năng thu_nhận tất_cả tín_hiệu ( tần_số ) hiện có từ các hệ_thống định_vị vệ_tinh tại thời_điểm lắp_đặt như : Gps , Glonas , Galileo , Bds , Qzss ; khuyến_khích sử_dụng các loại ăng - ten có khả_năng thu_nhận các tín_hiệu hiện_tại chưa được phát nhưng đã được lên kế_hoạch từ các hệ_thống định_vị vệ_tinh nói trên hoặc hệ_thống định_vị vệ_tinh mới như Irns ;
+
+b ) Có tên trong danh_sách các loại ăng - ten có tâm pha được hiệu chuẩn tuyệt_đối của tổ_chức Igs ;
+
+c ) Chịu được độ_ẩm lên đến 100 % ; tiêu_chuẩn kháng bụi , chịu nước phải đạt tối_thiểu mức Ip67 theo tiêu_chuẩn của Ủy_ban Kỹ_thuật Điện Quốc_tế ( iec ) ;
+
+d ) Có khả_năng làm_việc trong môi_trường nhiệt_độ từ - 10oC đến + 70oC ;
+
+đ ) Các trạm tham_chiếu cơ_sở hoạt_động liên_tục phải sử_dụng loại ăng - ten có vòng cảm_kháng với vật_liệu Dorne - Margolin , khuyến_khích sử_dụng đối_với các trạm còn lại ;
+
+e ) Chỉ được sử_dụng loại vòng chụp bảo_vệ dạng bán_cầu cho ăng - ten , không sử_dụng vòng chụp dạng nón ;
+
+g ) Không được phép tháo ăng - ten sau khi trạm đã đi vào hoạt_động trừ trường_hợp phải sửa_chữa phần_cứng do hỏng_hóc .
+
+2 . Máy_thu tín_hiệu định_vị vệ_tinh được đặt ở nơi khô_ráo , thoáng mát , đảm_bảo hoạt_động liên_tục . Về máy thu phải đáp_ứng các yêu_cầu cơ_bản sau :
+
+a ) Có khả_năng thu_nhận tất_cả tín_hiệu hiện có từ các hệ_thống định_vị vệ_tinh tại thời_điểm lắp_đặt như : Gps , Glonas , Galileo , Bds , Qzss ;
+
+b ) Số kênh thu không dưới 555 kênh , trong đó tối_thiểu phải có 12 kênh cho mỗi tần_số từ mỗi hệ_thống định_vị vệ_tinh nói trên ;
+
+c ) Có khả_năng dò_tìm và thu_nhận tín_hiệu từ các vệ_tinh ở góc ngưỡng < 10o , hỗ_trợ khả_năng loại_bỏ nhiễu đa đường ;
+
+d ) Có khả_năng thu tín_hiệu ở mức giãn cách thu tín_hiệu 1 giây hoặc nhỏ hơn , hỗ_trợ xuất dữ_liệu qua Rtcm các phiên_bản hiện_hành 2 . x / 3 . x , khuyến_khích hỗ_trợ xuất dữ_liệu qua Crm , Cmr + , Nmea - 0183 . . . ; hỗ_trợ Ntrip , Tcp / ip , Ftp ;
+
+đ ) Có tối_thiểu 2 nguồn cấp điện , hỗ_trợ kết_nối trực_tiếp thiết_bị cảm_biến khí_tượng , cảm_biến_dịch_chuyển nghiêng ;
+
+e ) Có đầy_đủ các cổng kết_nối cơ_bản như Rj - 45 , Usb , 3g / 4g / 5g , Rs - 232 ;
+
+g ) Tiêu_chuẩn kháng bụi , chịu nước phải đạt tối_thiểu mức Ip67 theo tiêu_chuẩn của Ủy_ban Kỹ_thuật Điện Quốc_tế ( iec ) ;
+
+h ) Có khả_năng làm_việc trong môi_trường nhiệt_độ từ - 10oC đến + 65oC ;
+
+i ) Bộ_nhớ trong có khả_năng lưu_trữ dữ_liệu ít_nhất 60 ngày ; hỗ_trợ kết_nối bộ_nhớ mở_rộng ;
+
+k ) Chiều dài cáp nối tín_hiệu từ máy thu tới ăng - ten không vượt quá 70 mét . Trường_hợp cá_biệt phải tiến_hành đo_đạc đánh_giá chất_lượng tín_hiệu trước khi lắp_đặt chính_thức . Đối_với các khu_vực có mật_độ sét lớn cần_thiết_kế khoảng_cách từ máy thu tới ăng - ten càng ngắn càng tốt ;
+
+l ) Dây nối ăng - ten với máy thu được đặt trong ống bọc dây_điện Pvc hoặc Hdpe dạng công_nghiệp và được chôn_ngầm dưới đất , trường_hợp cá_biệt được phép thiết_kế đi nổi trên không nhưng phải có hệ_thống giá đỡ chắc_chắn và không được để dây quá căng . Đầu dây nối với ăng - ten phải được bọc đảm_bảo không thấm nước , đặc_biệt là đối_với các khu_vực ven biển để tránh trường_hợp bị ăn_mòn , rỉ sét ;
+
+m ) Máy thu được cài_đặt thu tín_hiệu liên_tục 24 giờ từ tất_cả các vệ_tinh có_thể quan_sát được với giãn cách thu tín_hiệu 1 giây ; góc ngưỡng đặt trong máy thu là 0o .
+
+3 . Máy_thu tín_hiệu định_vị vệ_tinh và các thiết_bị phụ_trợ khác kèm theo được đặt trong tủ thiết_bị có hệ_thống quạt thông_gió tắt , mở tự_động thông_qua rơ_le cảm_biến nhiệt để làm giảm nhiệt_độ trong tủ ( thiết_kế tủ thiết_bị tham_khảo Phụ_lục 07 của Thông_tư này ) .
+
+4 . Vị_trí tủ thiết_bị ưu_tiên đặt ở trong phòng , trường_hợp đặc_biệt như khoảng_cách từ phòng tới trụ mốc ăng - ten quá xa hoặc không_thể tìm được vị_trí đặt tủ thiết_bị trong phòng thì có_thể đặt ngoài_trời . Đối_với các khu_vực có khí_hậu không thuận_lợi như nhiệt_độ cao , mưa nhiều trong năm , an_ninh không đảm_bảo khi đặt tủ thiết_bị ngoài_trời phải xây_dựng nhà để đảm_bảo_an_toàn cho tủ thiết_bị ( thiết_kế nhà đặt tủ thiết_bị tham_khảo Phụ_lục 08 của Thông_tư này ) .
+
+Điều 10 . Thiết_bị cảm_biến khí_tượng
+
+1 . Trường_hợp có tích_hợp cảm_biến khí_tượng tại các trạm định_vị vệ_tinh quốc_gia để phục_vụ nghiên_cứu khoa_học , cải_thiện chất_lượng tính_toán , nghiên_cứu các mô_hình thời_tiết thì các thiết_bị cảm_biến khí_tượng được lắp_đặt phải là các thiết_bị chuyên_dụng ; thiết_bị cảm_biến khí_tượng phải được kiểm_định đạt yêu_cầu kĩ_thuật trước khi lắp_đặt .
+
+2 . Cảm_biến khí_tượng phải được lắp_đặt gần ăng - ten thu tín_hiệu định_vị vệ_tinh nhưng không được làm ảnh_hưởng đến việc thu_nhận tín_hiệu hoặc gây nhiễu ; cần xác_định chênh cao giữa điểm tham_chiếu ăng - ten ( arp ) với cảm_biến khí_áp của cảm_biến khí_tượng với độ chính_xác < 1cm .
+
+3 . Các yêu_cầu cơ_bản của cảm_biến khí_tượng như sau :
+
+a ) Độ chính_xác đo khí_áp 0 . 1 hPa ;
+
+b ) Độ chính_xác đo độ_ẩm tương_đối : 2 % ;
+
+c ) Độ chính_xác đo nhiệt_độ : 0 . 1oC ;
+
+d ) Có khả_năng làm_việc trong môi_trường nhiệt_độ từ - 10oC đến + 60oC .
+
+4 . Trong quá_trình vận_hành , thường_xuyên kiểm_tra sự hoạt_động của các cảm_biến đặc_biệt là cảm_biến nhiệt_độ , có biện_pháp sửa_chữa , thay_thế kịp_thời . Việc kiểm_tra , bảo_dưỡng , sửa_chữa , thay_thế được thực_hiện theo quy_định tại Điều 7 , Điều 8 và Điều 9 <TT rel="DC"> Thông_tư số 70/2015/TT-BTNMT ngày 23 tháng 12 năm 2015 </TT> của Bộ Tài_nguyên và Môi_trường quy_định kĩ_thuật đối_với các trạm khí_tượng thuỷ_văn_tự_động .
+
+Điều 11 . Nguồn điện
+
+1 . Tại mỗi trạm định_vị vệ_tinh phải có tối_thiểu 2 nguồn điện : nguồn điện chính và nguồn điện dự_phòng . Trong đó , nguồn điện chính được cung_cấp bởi lưới_điện quốc_gia , nguồn điện dự_phòng được cung_cấp bởi hệ_thống Ups , ắc_quy . . . đảm_bảo duy_trì hoạt_động của tất_cả các thiết_bị của trạm một_cách liên_tục tối_thiểu 48 giờ . Tại các khu_vực có số giờ nắng trong năm cao , nguồn điện dự_phòng có_thể là hệ_thống pin mặt_trời .
+
+2 . Việc cung_cấp nguồn điện cho các thiết_bị của trạm định_vị vệ_tinh quốc_gia phải được quản_lí bởi bộ phân_phối điện có cơ_chế chuyển_đổi tự_động giữa nguồn điện chính và nguồn điện dự_phòng .
+
+3 . Tất_cả các hợp_phần điện phải được trang_bị bộ_phận chống tăng điện đột_ngột để đảm_bảo_an_toàn cho cả hệ_thống .
+
+Điều 12 . Giải_pháp truyền dữ_liệu
+
+1 . Các trạm định_vị vệ_tinh quốc_gia phải được lắp_đặt đường kết_nối internet ổn_định để phục_vụ cho việc truyền_tải dữ_liệu về trạm điều_khiển và xử_lí trung_tâm . Đường kết_nối internet nên được thiết_kế riêng cho việc truyền_dẫn dữ_liệu của trạm , không sử_dụng chung với mục_đích khác để đảm_bảo tính bảo_mật , an_toàn dữ_liệu và băng_thông truyền_dẫn .
+
+2 . Ngoài đường kết_nối internet chính là cáp_quang Ftth ( hoặc Leased line ) , tại mỗi trạm định_vị vệ_tinh quốc_gia phải có thêm 01 đường truyền kết_nối internet dự_phòng là cáp_quang Ftth của một nhà mạng khác với nhà mạng cung_cấp đường kết_nối internet chính hoặc sử_dụng giải_pháp kết_nối qua sóng 3g / 4g / 5g đối_với khu_vực có sóng 3g / 4g / 5g ổn_định . Mỗi đường kết_nối Ftth phải được cung_cấp 01 địa_chỉ Ip tĩnh kèm theo để phục_vụ cho việc truyền dữ_liệu được ổn_định .
+
+3 . Trạm điều_khiển xử_lí trung_tâm phải được lắp_đặt 02 đường kết_nối internet là cáp_quang Ftth ( hoặc Leased_line ) từ hai nhà mạng khác nhau . Mỗi đường truyền kết_nối internet được cấp tối_thiểu 01 Ip_tĩnh . Cả 02 đường đều phải có băng_thông đủ lớn để tiếp_nhận dữ_liệu được truyền từ các trạm định_vị vệ_tinh và cung_cấp các dịch_vụ cho người dùng liên_tục , không bị gián_đoạn .
+
+4 . Để đảm_bảo chất_lượng của việc cung_cấp dịch_vụ đo động thời_gian thực , độ trễ trung_bình cho phép của việc truyền dữ_liệu từ trạm định_vị vệ_tinh về trạm điều_khiển xử_lí trung_tâm là < 50ms đối_với kết_nối Ftth ( hoặc Leased_line ) và < 100ms đối_với kết_nối 3g / 4g / 5g .
+
+Điều 13 . Hệ_thống chống sét
+
+1 . Hệ_thống chống sét trực_tiếp được thiết_kế đảm_bảo_an_toàn cho thiết_bị tại trạm định_vị vệ_tinh quốc_gia . Tại mỗi trạm phải xây_dựng bãi tiếp đất đáp_ứng theo quy_định tại <TT rel="DC"> Thông_tư số 26/2016/TT-BTTTT ngày 07 tháng 12 năm 2016 </TT> của Bộ Thông_tin và Truyền_thông ban_hành kèm theo Quy_chuẩn kĩ_thuật quốc_gia về tiếp đất cho các trạm viễn_thông .
+
+2 . Các thiết_bị có khả_năng bị ảnh_hưởng bởi sét đánh lan_truyền phải được lắp_đặt thiết_bị cắt , thoát sét bao_gồm : nguồn điện , dây nối ăng - ten với máy thu tín_hiệu định_vị vệ_tinh , dây nối thiết_bị cảm_biến khí_tượng với máy thu tín_hiệu định_vị vệ_tinh ( nếu có ) .
+
+Chương_iii
+
+Đo Nối_mạng_lưới Trạm Định_vị Vệ_tinh Quốc_gia
+
+Điều 14 . Đo_nối , xác_định toạ_độ Vn - 2000 cho mạng_lưới trạm định_vị vệ_tinh quốc_gia
+
+1 . Sử_dụng các điểm toạ_độ quốc_gia cấp 0 có trong khu_vực để làm điểm khởi tính cho mạng_lưới đo nối ; trường_hợp mở_rộng , chêm dày trạm định_vị vệ_tinh quốc_gia được phép sử_dụng các trạm định_vị vệ_tinh đã có trong khu_vực để làm điểm khởi tính cho mạng_lưới đo nối . Các điểm khởi tính phải được bố_trí đều trong mạng_lưới đo nối ; số_lượng điểm khởi tính căn_cứ số_lượng trạm định_vị vệ_tinh quốc_gia cần đo nối nhưng không được ít hơn 05 điểm .
+
+2 . Các máy thu Gns đặt tại điểm toạ_độ quốc_gia cấp 0 phải là các máy thu đa tần , tối_thiểu phải thu được các tín_hiệu L1 / l2 từ các hệ_thống Gps và Glonas ; thời_gian quan_trắc đồng_thời liên_tục không ít hơn 24 giờ , bắt_đầu_từ 7h00 ( giờ Việt_nam ) ; giãn cách thu tín_hiệu là 15 giây ; sử_dụng phương_pháp đo tĩnh với góc ngưỡng thu là 10o . Các máy thu đặt tại các trạm định_vị vệ_tinh quốc_gia được thiết_lập theo quy_định tại điểm m khoản 2 Điều 9 của Thông_tư này .
+
+3 . Việc xử_lí_tính_toán được thực_hiện bởi các phần_mềm xử_lí Gns thông_dụng ; trong quá_trình tính_toán xử_lí các cạnh ( baselines ) phải sử_dụng lịch vệ_tinh chính_xác ( Final_orbit ) để tính_toán . Sai_số vị_trí điểm sau tính_toán bình_sai không được lớn hơn 2cm . Quy_trình tính_toán theo quy_định tại <TT rel="DC"> Thông_tư số 06/2009/TT-BTNMT ngày 18 tháng 6 năm 2009 </TT> của Bộ Tài_nguyên và Môi_trường ban_hành kèm theo Quy_chuẩn kĩ_thuật xây_dựng lưới toạ_độ quốc_gia .
+
+Điều 15 . Đo_nối , xác_định độ cao trạm định_vị vệ_tinh quốc_gia
+
+1 . Thiết_kế các tuyến độ cao độc_lập để xác_định độ cao cho các điểm trong mạng_lưới trạm định_vị quốc_gia . Thiết_kế dạng tuyến đơn , mỗi tuyến phải sử_dụng ít_nhất 02 điểm thuộc mạng_lưới độ cao quốc_gia hạng cao có trong khu_vực để làm điểm khởi tính . Việc thiết_kế , đo nối , tính_toán xác_định độ cao theo quy_định tại <QĐ rel="DC"> Quyết_định số 11/2008/QĐ-BTNMT ngày 18 tháng 12 năm 2008 </QĐ> của Bộ Tài_nguyên và Môi_trường ban_hành kèm theo Quy_chuẩn kĩ_thuật quốc_gia về xây_dựng lưới độ cao .
+
+2 . Đối_với các điểm thuộc trạm tham_chiếu cơ_sở hoạt_động liên_tục : việc thiết_kế , đo nối , tính_toán được thực_hiện theo quy_trình đo độ cao hạng Ii . Các điểm độ cao quốc_gia làm điểm khởi tính là các điểm độ cao hạng I , hạng Ii . Sai_số khép giữa đo đi - đo về và giữa 2 điểm hạng cao không được vượt quá 4 L đối_với vùng đồng_bằng và 5 L đối_với vùng núi ( l là chiều dài tuyến đo tính bằng km ) .
+
+3 . Đối_với các điểm thuộc trạm tham_chiếu hoạt_động liên_tục : việc thiết_kế , đo nối , tính_toán được thực_hiện theo quy_trình đo độ cao hạng Iii . Các điểm độ cao quốc_gia làm điểm khởi tính là các điểm độ cao hạng I , hạng Ii , hạng Iii . Sai_số khép giữa đo đi - đo về và giữa 2 điểm hạng cao không được vượt quá 10 L đối_với vùng đồng_bằng và 12 L đối_với vùng núi ( l là chiều dài tuyến đo tính bằng km ) .
+
+4 . Đo_nối , xác_định độ cao của trạm định_vị vệ_tinh quốc_gia phải được thực_hiện vào tất_cả dấu mốc theo quy_định tại khoản 4 Điều 8 của Thông_tư này . Chênh cao thẳng_đứng giữa dấu mốc độ cao và điểm tham_chiếu ăng - ten ( arp ) được xác_định bằng thước thép chuyên_dụng hoặc các phương_tiện đo có độ chính_xác tương_đương và được ghi riêng , tách khỏi sổ đo thuỷ chuẩn .
+
+Điều 16 . Đo_nối , xác_định giá_trị trọng_lực trạm định_vị vệ_tinh quốc_gia
+
+1 . Trên_cơ_sở các điểm trọng_lực cơ_sở , trọng_lực hạng I có trong khu đo , thiết_kế tuyến đo nối trọng_lực vào các trạm định_vị vệ_tinh quốc_gia với độ chính_xác của trọng_lực hạng Ii theo phương_pháp đo trọng_lực tương_đối . Mỗi tuyến phải sử_dụng ít_nhất 02 điểm thuộc mạng_lưới trọng_lực quốc_gia hạng cao có trong khu_vực để làm điểm khởi tính .
+
+2 . Vị_trí xác_định giá_trị trọng_lực tại trạm định_vị vệ_tinh quốc_gia là dấu mốc độ cao_gắn nổi trên trụ mốc . Sai_số trung phương gia_tốc_lực trọng_trường sau bình_sai không được lớn hơn 0 , 05mGal .
+
+3 . Sử_dụng các phương_tiện đo trọng_lực có độ chính_xác tối_thiểu 0 , 03 mG al để xác_định giá_trị trọng_lực cho mạng_lưới trạm định_vị vệ_tinh quốc_gia .
+
+Điều 17 . Kết_nối_mạng_lưới trạm định_vị vệ_tinh quốc_gia với hệ quy chiếu trắc_địa quốc_tế Itrf
+
+1 . Mạng_lưới trạm định_vị vệ_tinh quốc_gia được kết_nối với hệ quy chiếu trắc_địa quốc_tế Itrf thông_qua các trạm thuộc mạng_lưới của tổ_chức cung_cấp dịch_vụ Gns quốc_tế Igs có trong khu_vực . Tất_cả các điểm trong mạng_lưới trạm định_vị quốc_gia được xử_lí_tính_toán thường_xuyên , liên_tục hàng ngày trong Itrf với độ chính_xác 2mm .
+
+2 . Sử_dụng dữ_liệu Gns từ ít_nhất 05 trạm thuộc mạng_lưới Igs , trong đó ưu_tiên sử_dụng các trạm có dữ_liệu ổn_định , được xây_dựng từ lâu và có các thông_số khác có liên_quan đến trạm đầy_đủ theo khuyến_cáo của Igs .
+
+3 . Sử_dụng các phần_mềm có độ chính_xác cao như Bernese , GAM IT / GLOBK . . . đế tính_toán . Trong quá_trình tính_toán , ngoài trị đo Gns còn phải sử_dụng tất_cả các dữ_liệu khác có liên_quan đế nâng cao_độ chính_xác như : các thông_số về ăng - ten sau kiếm định của Igs , lịch vệ_tinh chính_xác , tham_số quay của cực trái_đất , mô_hình cải_chính ảnh_hưởng của thuỷ_triều_đại_dương , mô_hình tầng đối_lưu , mô_hình tầng điện_ly . . . .
+
+4 . Việc tính_toán được thực_hiện theo từng ngày , bắt_đầu_từ 0h00 ( giờ Utc ) ; sử_dụng dữ_liệu Gns với giãn cách thu tín_hiệu 30 giây đế tính_toán xử_lý . Kết_quả nhận được là cơ_sở cho việc xác_định dịch chuyến mảng , dịch chuyến đứng , xây_dựng hệ quy chiếu và hệ toạ_độ quốc_gia theo quan_điểm động , xác_định tham_số tính chuyến giữa hệ toạ_độ quốc_gia Vn - 2000 và Itrf .
+
+Chương_iv
+
+Trạm Điều_khiển Xử_lý Trung_tâm
+
+Điều 18 . Trạm điều_khiển xử_lí trung_tâm
+
+1 . Trạm điều khiến xử_lí trung_tâm là nơi tính_toán , xử_lý , cung_cấp các dịch_vụ của mạng_lưới trạm định_vị vệ_tinh quốc_gia . Trạm điều khiến xử_lí trung_tâm phải được đặt tại nơi có cơ_sở hạ_tầng kĩ_thuật đảm_bảo , có nguồn điện_lưới quốc_gia ổn_định , có khả_năng kết_nối internet tốc_độ cao , đảm_bảo_an_ninh trật_tự , bảo_mật an_toàn dữ_liệu .
+
+2 . Có khả_năng thu_nhận dữ_liệu liên_tục từ các trạm định_vị vệ_tinh quốc_gia gửi về ; đảm_bảo tính_toán , xử_lý , cung_cấp kịp_thời các dịch_vụ cho người sử_dụng 24giờ / 7ngày .
+
+3 . Có khả_năng xử_lý , tính_toán toạ_độ các điếm thuộc mạng_lưới trạm định_vị vệ_tinh quốc_gia trong hệ quy chiếu trắc_địa quốc_tế Itrf với độ chính_xác mm .
+
+4 . Có khả_năng cung_cấp dịch_vụ đo động thời_gian thực độ chính_xác cao tới người sử_dụng một_cách nhanh_chóng , chính_xác , kịp_thời thông_qua mạng internet .
+
+5 . Có khả_năng xử_lí sau các trị đo Gns dưới hình_thức trực_tuyến .
+
+6 . Có khả_năng điều khiến , xác_lập cấu_hình và giám_sát tình_trạng hoạt_động của các trạm định_vị vệ_tinh quốc_gia thường_xuyên , liên_tục từ xa qua mạng internet .
+
+7 . Có khả_năng giám_sát tình_trạng hoạt_động các phương_tiện đo Gns sử_dụng dịch_vụ đo động thời_gian thực .
+
+8 . Có khả_năng quản_lí các tài_khoản đã và đang sử_dụng dịch_vụ của mạng_lưới trạm định_vị vệ_tinh quốc_gia .
+
+9 . Hỗ_trợ tính_toán các thông_số tầng khí_quyển dựa trên dữ_liệu Gns kết_hợp với dữ_liệu từ thiết_bị cảm_biến khí_tượng tại các trạm định_vị vệ_tinh quốc_gia .
+
+10 . Có khả_năng lưu_trữ dữ_liệu Gns thu_nhận từ các trạm định_vị vệ_tinh quốc_gia ở định_dạng Rinex V2 . x , V3 . x . Thời_gian lưu_trữ được quy_định như sau :
+
+a ) Lưu_trữ vĩnh_viễn đối_với loại dữ_liệu có giãn cách thu tín_hiệu 30 giây ;
+
+b ) Lưu_trữ trong thời_gian tối_thiểu 20 năm đối_với loại dữ_liệu có giãn cách thu tín_hiệu 15 giây ( trừ các yêu_cầu đặc_biệt ) ;
+
+c ) Lưu_trữ trong thời_gian tối_thiểu 10 năm đối_với loại dữ_liệu có giãn cách thu tín_hiệu 1 giây ;
+
+d ) Lưu_trữ vĩnh_viễn đối_với kết_quả tính_toán liên_quan đến việc xây_dựng hệ quy chiếu và hệ toạ_độ quốc_gia .
+
+11 . Có hệ_thống bảo_mật nhiều lớp đảm_bảo_an_ninh , an_toàn đối_với dữ_liệu mạng_lưới trạm định_vị vệ_tinh quốc_gia , dữ_liệu người sử_dụng .
+
+12 . Có khả_năng sao lưu dữ_liệu tự_động theo định_kì để đảm_bảo sự an_toàn của dữ_liệu .
+
+Điều 19 . Trung_tâm dữ_liệu
+
+1 . Có hệ_thống điện_lưới quốc_gia ổn_định , chất_lượng ; thiết_lập nguồn điện theo 3 pha , có máy phát_điện dự_phòng đảm_bảo cung_cấp đủ lượng điện cho trung_tâm dữ_liệu khi có sự_cố mất điện_lưới xảy ra .
+
+2 . Hệ_thống lưu_điện Ups công_suất lớn đảm_bảo khả_năng duy_trì toàn_bộ hệ_thống_thiết_bị của trung_tâm bao_gồm cả máy_chủ , máy_lạnh , các thiết_bị phụ_trợ . . . . trong thời_gian ít_nhất 30 phút , khuyến_khích thiết_lập máy phát_điện dự_phòng và lưu_điện Ups theo chuẩn 1 + 1 .
+
+3 . Làm mát bằng hệ_thống điều_hoà không_khí đảm_bảo khả_năng hoạt_động luân_phiên , liên_tục , có khả_năng kiểm_soát nhiệt_độ với độ chính_xác 1oC , độ_ẩm 5 % .
+
+4 . Có hệ_thống sàn kĩ_thuật hoặc lớp cách_li chống nhiễm_điện . Hệ_thống điện và thiết_bị phải được lắp_đặt các thiết_bị cắt sét , thoát sét lan_truyền .
+
+5 . Có hệ_thống báo cháy có khả_năng phát_hiện khói sớm và tự_động cảnh_báo ; có khả_năng chữa_cháy tự_động .
+
+6 . Có hệ_thống camera giám_sát được kết_nối với đầu_ghi_hình Dvr theo_dõi hình_ảnh trong và ngoài trung_tâm dữ_liệu đảm_bảo thường_xuyên , liên_tục .
+
+7 . Hệ_thống máy_chủ đủ mạnh có tính tới yếu_tố dự_phòng , hệ_thống chuyển mạch hoạt_động song_song với cơ_chế dự_phòng tối_ưu . Hệ_thống cáp cần có tính tổ_chức , linh_hoạt và có_thể tái sử_dụng lại . Tất_cả các cabin , rack , panel , cables cần phải đánh nhãn thống_nhất theo nguyên_tắc dễ nhớ và dễ mở_rộng .
+
+Chương V
+
+Cung_cấp , Sử_dụng Dịch_vụ Mạng_lưới Trạm Định_vị Vệ_tinh Quốc_gia
+
+Điều 20 . Các dịch_vụ cung_cấp bởi mạng_lưới trạm định_vị vệ_tinh quốc_gia
+
+1 . Cung_cấp các dữ_liệu Gns với loại dữ_liệu có giãn cách thu tín_hiệu 30 giây , 15 giây , 1 giây dạng Rinex phục_vụ_việc xử_lí sau ( Post_processing ) trong thời_gian như quy_định tại khoản 10 Điều 18 của Thông_tư này .
+
+2 . Cung_cấp dịch_vụ tính_toán , xử_lí các mạng_lưới Gns với độ chính_xác lên tới mm trong hệ quy chiếu trắc_địa quốc_tế Itrf .
+
+3 . Cung_cấp dịch_vụ tự_động xử_lý , tính_toán trị đo Gns cho người sử_dụng dưới hình_thức trực_tuyến theo yêu_cầu riêng .
+
+4 . Cung_cấp dịch_vụ đo động thời_gian thực trong hệ toạ_độ quốc_gia Vn - 2000 , hệ độ cao quốc_gia thông_qua việc ứng_dụng các giải_pháp công_nghệ mạng ( Network_rtk ) như : Vrs , Max , iMAX hoặc theo trạm đơn Single_base . . . cho người sử_dụng .
+
+5 . Các dịch_vụ được cung_cấp bởi mạng_lưới trạm định_vị vệ_tinh quốc_gia được sử_dụng trong đo_đạc , thành_lập bản_đồ địa_hình ; xây_dựng , cập_nhật cơ_sở dữ_liệu nền địa_lí quốc_gia ; đo_đạc , thành_lập bản_đồ địa_chính ; nghiên_cứu khoa_học và các hoạt_động đo_đạc và bản_đồ khác .
+
+Điều 21 . Sử_dụng dịch_vụ đo động thời_gian thực
+
+1 . Các phương_tiện đo Gns_di_động sử_dụng dịch_vụ đo động thời_gian thực phải thoả_mãn các yêu_cầu cơ_bản sau :
+
+a ) Là phương_tiện đo Gns_di_động đa tần , thu được đầy_đủ tín_hiệu từ các hệ_thống định vệ_tinh phổ_biến như Gps , Glonas , Galileo , Bds ;
+
+b ) Có khả_năng hỗ_trợ kết_nối qua giao_thức Ntrip và nhận được dữ_liệu cải_chính Rtcm v3 . x với các kiểu gói tin nhắn từ 1021 - 1027 ;
+
+c ) Thu được tín_hiệu từ các hệ_thống định_vị vệ_tinh ở điều_kiện thông_thoáng .
+
+3 . Độ chính_xác khi sử_dụng dịch_vụ đo động thời_gian thực được cung_cấp bởi mạng_lưới trạm định_vị vệ_tinh quốc_gia như bảng dưới đây :
+
+Trong đó :
+
+- k là khoảng_cách giữa các trạm định_vị vệ_tinh tham_gia xử_lí trong mạng_lưới để cung_cấp dịch_vụ đo động thời_gian thực . Phạm_vi cụ_thể các khu_vực tính đến ngày 31 tháng 12 năm 2019 được thể_hiện_tại Phụ_lục 09 kèm theo Thông_tư này .
+
+- S là khoảng_cách từ vị_trí phương_tiện thu tín_hiệu vệ_tinh di_động đến trạm định_vị vệ_tinh cố_định được sử_dụng để cải_chính .
+
+- Phạm_vi khu_vực phủ trùm mô_hình Geoid của Bộ Tài_nguyên và Môi_trường được thể_hiện_tại Phụ_lục 10 kèm theo Thông_tư này .
+
+Chương_vi
+
+Điều_khoản Thi_hành
+
+Điều 22 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 7 năm 2020 .
+
+Điều 23 . Tổ_chức thực_hiện
+
+1 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Trong quá_trình tổ_chức thực_hiện , nếu có vướng_mắc , đề_nghị phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường xem_xét , quyết_định . / .

@@ -1,0 +1,137 @@
+Thông_tư số 93/2021/tt-btc ngày 01 tháng 11 năm 2021 của bộ tài_chính
+
+Căn_cứ <LT rel="CC"> Luật Công_nghệ thông_tin số 67/2006/QH11 ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Giao_dịch điện_tử_số 51/2005/QH11 ngày 29 tháng 11 năm 2005 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Giá số 11/2012/QH13 ngày 20 tháng 6 năm 2012 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 89/2013/NĐ-CP ngày 06 tháng 8 năm 2013 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều của <LT rel="CC"> Luật Giá về thẩm_định_giá </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 177/2013/NĐ-CP ngày 14 tháng 11 năm 2013 </NĐ> của Chính_phủ về việc quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Giá ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 149/2016/NĐ-CP ngày 11 tháng 11 năm 2016 </NĐ> của Chính_phủ về việc sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 177/2013/NĐ-CP ngày 14 tháng 11 năm 2013 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật giá ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 </NĐ> của Chính_phủ về Quản_lý , kết_nối và chia_sẻ dữ_liệu số của cơ_quan Nhà_nước ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 12/2021/NĐ-CP ngày 24 tháng 02 năm 2021 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 89/2013/NĐ-CP ngày 06 tháng 8 năm 2013 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều của <LT rel="CC"> Luật Giá về thẩm_định_giá </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 </NĐ> của Chính_phủ ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+
+Theo đề_nghị của Cục_trưởng Cục Tin_học và Thống_kê Tài_chính và Cục_trưởng Cục Quản_lí giá ;
+
+Bộ_trưởng Bộ Tài_chính ban_hành Thông_tư quy_định cấu_trúc , định_dạng dữ_liệu kết_nối , chia_sẻ dữ_liệu với Cơ_sở dữ_liệu Quốc_gia về giá .
+
+Chương I .
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về cấu_trúc và định_dạng dữ_liệu phục_vụ_việc kết_nối , chia_sẻ dữ_liệu giữa Cơ_sở dữ_liệu quốc_gia về giá với các hệ_thống cơ_sở dữ_liệu về giá của các bộ ngành , địa_phương và các tổ_chức , cá_nhân khác .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Đối_tượng áp_dụng của Thông_tư này bao_gồm :
+
+- Các cơ_quan quản_lí nhà_nước về giá ở trung_ương và địa_phương được quy_định trách_nhiệm xây_dựng cơ_sở dữ_liệu về giá được quy_định tại Khoản 11 , Điều 1 , <NĐ rel="DC"> Nghị_định số 149/2016/NĐ-CP ngày 11 tháng 11 năm 2016 </NĐ> của Chính_phủ về sửa_đổi , bổ_sung một_số điều của <NĐ rel="DC"> Nghị_định số 177/2013/NĐ-CP ngày 14 tháng 11 năm 2013 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật giá : Bộ quản_lí ngành , lĩnh_vực và các đơn_vị trực_thuộc quản_lí dữ_liệu liên_quan đến yếu_tố về giá theo phân_công của Bộ ; Sở Tài_chính các tỉnh , thành_phố trực_thuộc trung_ương và các đơn_vị có liên_quan theo phân_công của Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương ( sau đây gọi là Bộ , ngành , địa_phương ) .
+
+- Các doanh_nghiệp thẩm_định_giá có trách_nhiệm kết_nối cơ_sở dữ_liệu do doanh_nghiệp thẩm_định_giá xây_dựng với cơ_sở dữ_liệu quốc_gia về giá được quy_định tại Khoản 6 , Điều 1 , <NĐ rel="DC"> Nghị_định số 12/2021/NĐ-CP ngày 24 tháng 02 năm 2021 </NĐ> của Chính_phủ về việc sửa_đổi , bổ_sung một_số điều của <NĐ rel="DC"> Nghị_định số 89/2013/NĐ-CP ngày 06 tháng 8 năm 2013 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều của <LT rel="DC"> Luật giá về thẩm_định_giá </LT> .
+
+2 . Khuyến_khích các cơ_quan , tổ_chức không thuộc Khoản 1 , Khoản 2 Điều này áp_dụng các quy_định tại Thông_tư này khi kết_nối , chia_sẻ dữ_liệu với Cơ_sở dữ_liệu quốc_gia về giá .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Thông_điệp dữ_liệu là thông_tin được tạo ra , được gửi đi , được nhận và lưu_trữ bằng phương_tiện điện_tử .
+
+2 . Định_dạng thành_phần chứa dữ_liệu là các thông_tin bên trong phần chứa dữ_liệu của thông_điệp dữ_liệu .
+
+3 . Kết_nối dữ_liệu là việc Cơ_sở dữ_liệu về giá của các Bộ , ngành , địa_phương gửi dữ_liệu đến Cơ_sở dữ_liệu quốc_gia về giá .
+
+4 . Chia_sẻ dữ_liệu là việc Cơ_sở dữ_liệu quốc_gia về giá gửi dữ_liệu đến các Cơ_sở dữ_liệu về giá của các Bộ , ngành , địa_phương .
+
+5 . Nền_tảng chia_sẻ , tích_hợp dùng chung của các bộ , ngành , địa_phương là nền_tảng để tích_hợp , chia_sẻ các hệ_thống thông_tin , Cơ_sở dữ_liệu trong nội_bộ các bộ , ngành , địa_phương và giữa các bộ , ngành , địa_phương với nhau qua Nền_tảng tích_hợp , chia_sẻ dữ_liệu quốc_gia .
+
+6 . Nền_tảng tích_hợp , chia_sẻ dữ_liệu quốc_gia là nền_tảng do Bộ Thông_tin và Truyền_thông chủ_trì triển_khai với mục_tiêu tích_hợp , chia_sẻ dữ_liệu giữa các hệ_thống thông_tin và Cơ_sở dữ_liệu của các Bộ , ngành , địa_phương theo hình_thức kết_nối tập_trung và hình_thức kết_nối trực_tiếp_theo mô_hình phân_tán .
+
+7 . RESTful , Soap , Htps , Xml , Json : là các tiêu_chuẩn kĩ_thuật thuộc Danh_mục_tiêu_chuẩn kĩ_thuật về ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước được Bộ Thông_tin và Truyền_thông ban_hành và hướng_dẫn tại các quy_định hiện_hành .
+
+Điều 4 . Nguyên_tắc kết_nối , chia_sẻ dữ_liệu
+
+1 . Tuân_thủ các quy_định tại Điều 7 và Điều 13 <NĐ rel="DC"> Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 </NĐ> của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước và <NĐ rel="DC"> Nghị_định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 </NĐ> của Chính_phủ về quản_lý , kết_nối và chia_sẻ dữ_liệu số của cơ_quan Nhà_nước .
+
+2 . Việc kết_nối , chia_sẻ dữ_liệu phải tuân_thủ Khung Kiến_trúc Chính_phủ điện_tử Việt_nam ; Kiến_trúc Chính_phủ điện_tử Bộ Tài_chính và Kiến_trúc Chính_phủ điện_tử , Chính_quyền điện_tử cấp_bộ , cấp tỉnh . Kết_nối , chia_sẻ dữ_liệu giữa Bộ Tài_chính với các bộ , ngành , địa_phương thông_qua Nền_tảng tích_hợp , chia_sẻ dữ_liệu quốc_gia ; kết_nối , chia_sẻ dữ_liệu giữa các hệ_thống thông_tin , cơ_sở dữ_liệu trong phạm_vi Bộ Tài_chính thông_qua Nền_tảng tích_hợp , chia_sẻ dữ_liệu dùng chung của Bộ Tài_chính .
+
+3 . Bảo_đảm quyền được tiếp_cận , khai_thác , sử_dụng dữ_liệu hợp_pháp theo quy_định của pháp_luật ; Bảo_đảm việc tìm_kiếm , khai_thác thông_tin được thuận_tiện , không làm hạn_chế quyền khai_thác , sử_dụng Cơ_sở dữ_liệu quốc_gia của các cơ_quan nhà_nước , tổ_chức , cá_nhân do yếu_tố kĩ_thuật ; Bảo_đảm tính tương_thích , khả_năng tích_hợp , kết_nối , chia_sẻ thông_tin giữa các Cơ_sở dữ_liệu về giá ;
+
+4 . Cơ_sở dữ_liệu về giá của các Bộ , ngành , địa_phương và các tổ_chức khác phải đảm_bảo khả_năng kết_nối , tích_hợp với Cơ_sở dữ_liệu quốc_gia về giá đặt tại Bộ Tài_chính .
+
+5 . Tuân_thủ các quy_định về bảo_vệ bí_mật nhà_nước , tuân_thủ các quy_định của pháp_luật về an_toàn thông_tin mạng , các quy_định về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ đối_với Cơ_sở dữ_liệu quốc_gia và các hệ_thống thông_tin kết_nối với Cơ_sở dữ_liệu quốc_gia .
+
+Chương_ii
+
+Quy_định Cụ_thể
+
+Điều 5 . Danh_sách dữ_liệu , thông_điệp truyền nhận phục_vụ kết_nối , chia_sẻ với Cơ_sở dữ_liệu quốc_gia về giá
+
+1 . Danh_sách dữ_liệu , thông_điệp kết_nối , chia_sẻ được quy_định tại Thông_tư này nhằm mục_tiêu xây_dựng , hoàn_thiện Cơ_sở dữ_liệu quốc_gia về giá .
+
+2 . Danh_sách dữ_liệu , thông_điệp dữ_liệu phục_vụ kết_nối , chia_sẻ được quy_định tại Phụ_lục 01 , Phụ_lục 02 của Thông_tư và được cập_nhật điều_chỉnh khi có sự thay_đổi các quy_định quản_lí Nhà_nước về giá .
+
+Điều 6 . Quy_định về việc kết_nối , chia_sẻ dữ_liệu với Cơ_sở dữ_liệu quốc_gia về giá
+
+1 . Phương_thức kết_nối và định_dạng dữ_liệu trao_đổi
+
+Sử_dụng dịch_vụ web dạng Soap hoặc RESTful ; Cấu_trúc , định_dạng dữ_liệu sử_dụng Xml hoặc Json .
+
+2 . Giao_thức truy_cập dịch_vụ web : Sử_dụng giao_thức Htps
+
+3 . Chuẩn kí_tự : Sử_dụng Bộ kí_tự và mã_hoá cho tiếng Việt : áp_dụng Tcvn 6909 : 2001 .
+
+4 . Kỹ_thuật xác_thực khi kết_nối , tích_hợp dữ_liệu qua nền_tảng tích_hợp , chia_sẻ dữ_liệu quốc_gia : Thực_hiện theo hướng_dẫn của Bộ Thông_tin và Truyền_thông tại thời_điểm kết_nối .
+
+5 . Đối_soát dữ_liệu : Các đơn_vị phối_hợp xây_dựng cơ_chế đối soát dữ_liệu trong quá_trình kết_nối , chia_sẻ dữ_liệu đảm_bảo tính kịp_thời , đầy_đủ , chính_xác của số_liệu .
+
+Điều 7 . Quy_định về định_dạng thành_phần chứa dữ_liệu trong một thông_điệp dữ_liệu
+
+1 . Định_dạng chung của thành_phần chứa dữ_liệu trong một thông_điệp dữ_liệu tuân_thủ theo quy_định tại Phụ_lục 03 của Thông_tư này .
+
+2 . Định_dạng chi_tiết của một_số_thành_phần chứa dữ_liệu trong một thông_điệp dữ_liệu tuân_thủ theo quy_định tại Phụ_lục 04 của Thông_tư này .
+
+Chương_iii
+
+Tổ_chức Thực_hiện
+
+Điều 8 . Trách_nhiệm của các cơ_quan , đơn_vị
+
+1 . Trách_nhiệm của Bộ Tài_chính
+
+a ) Cục Tin_học và Thống_kê tài_chính : Phổ_biến , hướng_dẫn việc thực_hiện các nội_dung của Thông_tư ; xử_lí các vấn_đề phát_sinh trong quá_trình thực_hiện Thông_tư . Tiếp_nhận , giải_quyết các vướng_mắc kĩ_thuật trong quá_trình triển_khai kết_nối , chia_sẻ . Hướng_dẫn các cơ_quan , tổ_chức thực_hiện các biện_pháp , giải_pháp nhằm bảo_đảm an_toàn thông_tin trong kết_nối trao_đổi dữ_liệu với Cơ_sở dữ_liệu quốc_gia về giá .
+
+b ) Cục quản_lí giá : Hướng_dẫn các yêu_cầu nghiệp_vụ phát_sinh trong quá_trình kết_nối , chia_sẻ dữ_liệu với Cơ_sở dữ_liệu quốc_gia về giá .
+
+c ) Cục quản_lí giá , Cục Tin_học và Thống_kê tài_chính có trách_nhiệm phối_hợp đôn_đốc , theo_dõi , tổng_hợp tình_hình kết_nối , chia_sẻ các hệ_thống thông_tin với Cơ_sở dữ_liệu quốc_gia về giá .
+
+d ) Tổng_cục Thuế , Tổng_cục Hải_quan , Ủy_ban Chứng_khoán Nhà_nước , Cục Quản_lí công sản có trách_nhiệm kết_nối , chia_sẻ các dữ_liệu theo quy_định tại Thông_tư này .
+
+2 . Trách_nhiệm của các Bộ , ngành , địa_phương , các doanh_nghiệp thẩm_định_giá
+
+a ) Tổ_chức xây_dựng cơ_sở dữ_liệu về giá , thực_hiện kết_nối , chia_sẻ dữ_liệu theo quy_định tại Thông_tư này .
+
+b ) Thông_báo , phản_ánh kịp_thời các vướng_mắc về kĩ_thuật trong việc kết_nối với cơ_sở dữ_liệu quốc_gia về giá về Bộ Tài_chính theo mẫu quy_định tại Phụ_lục 05 của Thông_tư này .
+
+Điều 9 . Điều_khoản chuyển_tiếp
+
+1 . Trường_hợp các cơ_quan , đơn_vị , tổ_chức có trách_nhiệm cung_cấp dữ_liệu cho Cơ_sở dữ_liệu quốc_gia về giá chưa sẵn_sàng kết_nối , chia_sẻ dữ_liệu theo quy_định của Thông_tư này : thực_hiện cung_cấp dữ_liệu bằng hình_thức nhập dữ_liệu trực_tiếp trên giao_diện hoặc tải dữ_liệu theo định_dạng tệp excel có cấu_trúc lên hệ_thống Cơ_sở dữ_liệu quốc_gia về giá theo địa_chỉ htps : / / csdlgiaquocgia . mof . gov . vn . Tài_khoản sử_dụng và tài_liệu hướng_dẫn sử_dụng do Cục Quản_lí giá và Cục Tin_học và Thống_kê tài_chính - Bộ Tài_chính cung_cấp cho đơn_vị .
+
+2 . Trường_hợp các cơ_quan , đơn_vị , tổ_chức đã hoàn_thành việc xây_dựng cơ_sở dữ_liệu về giá của mình trước khi Thông_tư này có hiệu_lực cần rà_soát , đánh_giá , điều_chỉnh , tiến_hành kết_nối ngay với Hệ_thống cơ_sở dữ_liệu quốc_gia về giá . Đối_với các cơ_quan , đơn_vị , tổ_chức chưa thực_hiện hoặc chưa hoàn_thành việc xây_dựng cơ_sở dữ_liệu về giá của mình , cần căn_cứ , tham_chiếu các quy_định tại thông này trong quá_trình xây_dựng cơ_sở dữ_liệu về giá để đảm_bảo việc thực_hiện kết_nối , trao_đổi dữ_liệu với Hệ_thống Cơ_sở dữ_liệu quốc_gia về giá được thông_suốt , hiệu_quả ; Thời_hạn hoàn_thành 01 năm kể từ thời_điểm Thông_tư này có hiệu_lực .
+
+Điều 10 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 31 tháng 12 năm 2021 .
+
+2 . Trong quá_trình thực_hiện , nếu có vấn_đề vướng_mắc , các cơ_quan , đơn_vị , tổ_chức phản_ánh kịp_thời về Bộ Tài_chính ( Cục Tin_học và Thống_kê tài_chính ) để được hướng_dẫn , giải_quyết . / .

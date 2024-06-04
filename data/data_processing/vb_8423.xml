@@ -1,0 +1,269 @@
+Thông_tư số 09/2017/tt-btnmt ngày 06 tháng 06 năm 2017 của bộ tài_nguyên và môi_trường
+
+Căn_cứ Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Căn_cứ Quyết_định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 của Thủ_tướng Chính_phủ quy_định về thu_nhận , lưu_trữ , xử_lý , khai_thác và sử_dụng dữ_liệu viễn_thám quốc_gia ; Quyết_định số 76/2014/QĐ-TTg ngày 21 tháng 12 năm 2014 của Thủ_tướng Chính_phủ sửa_đổi , bổ_sung một_số điều của Quyết_định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 của Thủ_tướng Chính_phủ quy_định về thu_nhận , lưu_trữ , xử_lý , khai_thác và sử_dụng dữ_liệu viên thám quốc_gia ;
+
+Theo đề_nghị của Cục_trưởng Cục Viễn_thám quốc_gia , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ,
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư quy_định kĩ_thuật xây_dựng , cập_nhật cơ_sở dữ_liệu viễn_thám quốc_gia .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về kĩ_thuật xây_dựng , cập_nhật cơ_sở dữ_liệu viễn_thám quốc_gia và trách_nhiệm của các cơ_quan liên_quan đến việc xây_dựng , cập_nhật cơ_sở dữ_liệu viễn_thám quốc_gia .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Thông_tư này áp_dụng đối_với các cơ_quan , tổ_chức , cá_nhân có liên_quan đến việc xây_dựng , cập_nhật cơ_sở dữ_liệu viễn_thám quốc_gia .
+
+2 . Thông_tư này không áp_dụng đối_với các cơ_quan : Bộ Công_an và Bộ Quốc_phòng .
+
+Điều 3 . Giải_thích thuật_ngữ
+
+Trong Thông_tư này , các thuật_ngữ dưới đây được hiểu như sau :
+
+1 . Sản_phẩm ảnh viễn_thám là dữ_liệu ảnh viễn_thám đã được hiệu_chỉnh bức_xạ và hình_học .
+
+2 . Cơ_sở dữ_liệu viễn_thám của các Bộ , ngành và địa_phương là cơ_sở dữ_liệu viễn_thám chứa dữ_liệu ảnh viễn_thám và siêu dữ_liệu viễn_thám do các Bộ , ngành và địa_phương quản_lý .
+
+3 . Hạ_tầng kĩ_thuật công_nghệ thông_tin là tập_hợp thiết_bị tính_toán ( máy_chủ , máy trạm ) , thiết_bị kết_nối_mạng , thiết_bị an_ninh an_toàn , thiết_bị ngoại_vi và thiết_bị phụ_trợ , mạng nội_bộ , mạng diện_rộng .
+
+4 . Hệ_thống cơ_sở dữ_liệu viễn_thám quốc_gia là hệ_thống bao_gồm các thành_phần : Hạ_tầng kĩ_thuật công_nghệ thông_tin ; cơ_sở dữ_liệu viễn_thám quốc_gia ; phần_mềm ứng_dụng ; chính_sách và quy_định quản_lý , cập_nhật , vận_hành , khai_thác sử_dụng hệ_thống cơ_sở dữ_liệu viễn_thám quốc_gia .
+
+Điều 4 . Nội_dung cơ_sở dữ_liệu viễn_thám quốc_gia
+
+1 . Cơ_sở dữ_liệu viễn_thám quốc_gia gồm 02 ( hai ) cơ_sở dữ_liệu thành_phần là cơ_sở dữ_liệu siêu dữ_liệu viễn_thám quốc_gia và cơ_sở dữ_liệu ảnh viễn_thám quốc_gia .
+
+2 . Cơ_sở dữ_liệu siêu dữ_liệu viễn_thám quốc_gia chứa tập_hợp các thông_tin siêu dữ_liệu viễn_thám tại trạm thu ảnh viễn_thám ở Việt_nam hoặc dưới hình_thức mua , trao_đổi , hợp_tác , nhận viện_trợ từ nước_ngoài ; siêu dữ_liệu của sản_phẩm ảnh thuộc các công_trình , dự_án sử_dụng ngân_sách Nhà_nước .
+
+3 . Cơ_sở dữ_liệu ảnh viễn_thám quốc_gia chứa dữ_liệu ảnh thô và sản_phẩm ảnh viễn_thám giao_nộp về cơ_sở dữ_liệu viễn_thám quốc_gia .
+
+Điều 5 . Nguyên_tắc chung xây_dựng và cập_nhật
+
+1 . Cơ_sở dữ_liệu viễn_thám quốc_gia phải phục_vụ kịp_thời công_tác quản_lí nhà_nước và đáp_ứng yêu_cầu phát_triển kinh_tế , xã_hội , bảo_đảm quốc_phòng , an_ninh .
+
+2 . Cơ_sở dữ_liệu viễn_thám quốc_gia phải được xây_dựng , cập_nhật thuận_tiện cho việc vận_hành , khai_thác sử_dụng , công_bố siêu dữ_liệu viễn_thám quốc_gia và đảm_bảo_an_toàn dữ_liệu .
+
+3 . Các loại dữ_liệu ảnh viễn_thám , siêu dữ_liệu viễn_thám được tích_hợp vào cơ_sở dữ_liệu viễn_thám quốc_gia phải đảm_bảo các quy_chuẩn , tiêu_chuẩn , quy_định kĩ_thuật hiện_hành về dữ_liệu và sản_phẩm ảnh viễn_thám .
+
+Điều 6 . Bảo_đảm an_toàn thông_tin cho cơ_sở dữ_liệu viễn_thám quốc_gia
+
+1 . Cơ_sở dữ_liệu ảnh viễn_thám quốc_gia được quản_lý , lưu_trữ trên hệ_thống lưu_trữ với dung_lượng lớn nhằm đảm_bảo nhu_cầu truy_cập và khai_thác trực_tuyến .
+
+2 . Cơ_sở dữ_liệu viễn_thám quốc_gia phải được sao lưu dự_phòng đầy_đủ theo 03 ( ba ) phương_thức : sao lưu đầy_đủ , sao lưu gia_tăng và sao lưu khác_biệt .
+
+3 . Thực_hiện các biện_pháp_bảo_đảm an_toàn thông_tin cho hệ_thống thông_tin cơ_sở dữ_liệu viễn_thám quốc_gia theo quy_định của Luật An_toàn thông_tin mạng .
+
+Chương_ii
+
+Quy_định Về Xây_dựng Cơ_sở Dữ_liệu Siêu Dữ_liệu Viễn_thám Quốc_gia
+
+Điều 7 . Nội_dung siêu dữ_liệu viễn_thám quốc_gia
+
+1 . Đối_với dữ_liệu ảnh thô , sản_phẩm ảnh mức 2a , 3a , bao_gồm các thông_tin :
+
+a ) Tên vệ_tinh ;
+
+b ) Tên bộ cảm ;
+
+c ) Tên cảnh ảnh ;
+
+d ) Chế_độ chụp ;
+
+đ ) Mức xử_lý ;
+
+e ) Ngày chụp ;
+
+g ) Giờ chụp ;
+
+h ) Độ che_phủ mây ;
+
+i ) Góc tới ;
+
+k ) Cao_độ mặt_trời ;
+
+l ) Góc phương vị mặt_trời ;
+
+m ) Độ chính_xác hình_học ( nếu có ) ;
+
+n ) Độ phân_giải mặt_đất ;
+
+o ) Số_lượng bit ;
+
+p ) Vĩ_độ tâm ảnh ;
+
+q ) Kinh_độ tâm ảnh ;
+
+r ) Vĩ_độ góc Tây - Bắc ; Kinh_độ góc Tây - Bắc ;
+
+s ) Vĩ_độ góc Đông - Bắc ; Kinh_độ góc Đông - Bắc ;
+
+t ) Vĩ_độ góc Đông - Nam ; Kinh_độ góc Đông - Nam ;
+
+u ) Vĩ_độ góc Tây - Nam ; Kinh_độ góc Tây - Nam ;
+
+v ) Sơ_đồ vị_trí ảnh ;
+
+x ) Ảnh xem nhanh ;
+
+y ) Cơ_quan quản_lí dữ_liệu viễn_thám ( tên tổ_chức / cá_nhân , địa_chỉ , điện_thoại , thư điện_tử ) .
+
+2 . Đối_với dữ_liệu sản_phẩm ảnh mức 3b , bao_gồm các thông_tin :
+
+a ) Phiên_hiệu mảnh ;
+
+b ) Phương_pháp tổ_hợp ;
+
+c ) Các kênh phổ sử_dụng ;
+
+d ) Tỷ_lệ ;
+
+đ ) Độ phân_giải mặt_đất ( m ) ;
+
+e ) Định_dạng ảnh ;
+
+g ) Số_lượng bit :
+
+h ) Độ chính_xác hình_học ;
+
+i ) Hệ quy chiếu ;
+
+k ) Múi chiếu ;
+
+l ) Kinh_tuyến trục ;
+
+m ) Vĩ_độ góc Tây - Bắc ; Kinh_độ góc Tây - Bắc ;
+
+n ) Vĩ_độ góc Đông - Bắc ; Kinh_độ góc Đông - Bắc ;
+
+o ) Vĩ_độ góc Đông - Nam ; Kinh_độ góc Đông - Nam ;
+
+p ) Vĩ_độ góc Tây - Nam ; Kinh_độ góc Tây - Nam ;
+
+q ) Ảnh xem nhanh ;
+
+r ) Tên các cảnh ảnh sử_dụng / ngày thu_nhận ;
+
+s ) Cơ_quan , tổ_chức sản_xuất ;
+
+t ) Ngày nghiệm_thu ;
+
+u ) Cơ_quan / tổ_chức quản_lí dữ_liệu viễn_thám ( tên cơ_quan / tổ_chức , địa_chỉ , điện_thoại , thư điện_tử ) .
+
+Điều 8 . Định_dạng của tệp_tin siêu dữ_liệu viễn_thám quốc_gia
+
+Siêu dữ_liệu viễn_thám dạng số phải được cung_cấp cho cơ_quan quản_lí cơ_sở dữ_liệu viễn_thám quốc_gia dưới định_dạng của tệp_tin * . xls hoặc * . xml .
+
+Điều 9 . Thu_nhận siêu dữ_liệu viễn_thám quốc_gia
+
+Siêu dữ_liệu viễn_thám quốc_gia sau khi tiếp_nhận từ các cơ_quan , tổ_chức phải được kiểm_tra , phân_loại theo quy_định tại Điều 7 Thông_tư này .
+
+Điều 10 . Cấu_trúc cơ_sở dữ_liệu siêu dữ_liệu viễn_thám quốc_gia
+
+Cấu_trúc cơ_sở dữ_liệu siêu dữ_liệu viễn_thám quốc_gia được quy_định tại Phụ_lục kèm theo của Thông_tư này .
+
+Điều 11 . Tạo_lập nội_dung cơ_sở dữ_liệu siêu dữ_liệu viễn_thám quốc_gia
+
+Tạo_lập nội_dung cơ_sở dữ_liệu siêu dữ_liệu viễn_thám quốc_gia bao_gồm các bước sau :
+
+Bước 1 : Chuyển_đổi dữ_liệu vào cơ_sở dữ_liệu siêu dữ_liệu viễn_thám quốc_gia từ tệp_tin định_dạng * . xls hoặc * . xml .
+
+Bước 2 : Nhập dữ_liệu vào cơ_sở dữ_liệu siêu dữ_liệu viễn_thám quốc_gia .
+
+Điều 12 . Kiểm_tra
+
+Siêu dữ_liệu viễn_thám quốc_gia sau khi nhập vào cơ_sở dữ_liệu phải được kiểm_tra nhằm đảm_bảo tính đầy_đủ , thống_nhất và chính_xác .
+
+Chương_iii
+
+Quy_định Về Xây_dựng Cơ_sở Dữ_liệu Ảnh Viễn_thám Quốc_gia
+
+Điều 13 . Định_dạng dữ_liệu giao_nộp về cơ_sở dữ_liệu ảnh viễn_thám quốc_gia
+
+1 . Định_dạng dữ_liệu ảnh thô giao_nộp phải được giữ nguyên_trạng như định_dạng gốc của nhà sản_xuất .
+
+2 . Sản_phẩm ảnh viễn_thám được giao_nộp với khuôn_dạng Tiff / geotiff hoặc một_số khuôn_dạng phổ_biến khác cùng với tệp_tin siêu dữ_liệu .
+
+3 . Đối_với tệp dữ_liệu sản_phẩm ảnh chưa được tích_hợp thông_tin về toạ_độ ảnh thì phải nộp thêm các tệp_tin bổ_trợ .
+
+Điều 14 . Định_dạng dữ_liệu trong cơ_sở dữ_liệu ảnh viễn_thám quốc_gia
+
+1 . Định_dạng dữ_liệu ảnh thô phải được lưu_trữ nguyên_trạng như định_dạng của nhà sản_xuất .
+
+2 . Sản_phẩm ảnh viễn_thám phải được lưu_trữ dưới định_dạng Tiff / geotiff cùng với file đi kèm có phần mở_rộng là * . tfw .
+
+Điều 15 . Thu_nhận dữ_liệu ảnh viễn_thám quốc_gia
+
+Dữ_liệu ảnh viễn_thám quốc_gia sau khi được giao_nộp bởi các cơ_quan , tổ_chức phải được kiểm_tra , đánh_giá và phân_loại trước khi tích_hợp vào cơ_sở dữ_liệu ảnh viễn_thám quốc_gia .
+
+Điều 16 . Cấu_trúc cơ_sở dữ_liệu ảnh viễn_thám quốc_gia
+
+Cấu_trúc cơ_sở dữ_liệu ảnh viễn_thám quốc_gia được quy_định tại Phụ_lục kèm theo của Thông_tư này .
+
+Điều 17 . Tạo_lập nội_dung cơ_sở dữ_liệu ảnh viễn_thám quốc_gia
+
+Các tệp dữ_liệu ảnh viễn_thám sau khi kiểm_tra , phân_loại phải được chuyển thành_nội_dung cơ_sở dữ_liệu ảnh viễn_thám quốc_gia theo cấu_trúc quy_định tại Điều 16 của Thông_tư này .
+
+Điều 18 . Kiểm_tra
+
+Dữ_liệu ảnh viễn_thám quốc_gia sau khi nhập vào cơ_sở dữ_liệu phải được kiểm_tra nhằm đảm_bảo tính đầy_đủ , thống_nhất và chính_xác .
+
+Chương_iv
+
+Quy_định Cập_nhật Cơ_sở Dữ_liệu Viễn_thám Quốc_gia
+
+Điều 19 . Cập_nhật siêu dữ_liệu viễn_thám quốc_gia
+
+1 . Việc cập_nhật nội_dung của cơ_sở dữ_liệu siêu dữ_liệu viễn_thám quốc_gia dựa trên kết_quả thống_kê , đánh_giá dữ_liệu giao_nộp mới từ các cơ_quan , tổ_chức về cơ_quan quản_lí cơ_sở dữ_liệu viễn_thám quốc_gia .
+
+2 . Sau khi thu_nhận được siêu dữ_liệu viễn_thám quốc_gia , cơ_quan quản_lí cơ_sở dữ_liệu viễn_thám quốc_gia phải tiến_hành cập_nhật siêu dữ_liệu chậm nhất 01 ( một ) tháng .
+
+3 . Việc cập_nhật được thực_hiện theo quy_định tại Điều 9 , Điều 10 , Điều 11 và Điều 12 của Thông_tư này .
+
+Điều 20 . Cập_nhật dữ_liệu ảnh viễn_thám quốc_gia
+
+1 . Sau khi thu_nhận được dữ_liệu ảnh viễn_thám quốc_gia , cơ_quan quản_lí cơ_sở dữ_liệu viễn_thám quốc_gia phải tiến_hành cập_nhật siêu dữ_liệu chậm nhất 01 ( một ) tháng .
+
+2 . Việc cập_nhật được thực_hiện theo quy_định tại Điều 15 , Điều 16 , Điều 17 và Điều 18 của Thông_tư này .
+
+Chương V
+
+Trách_nhiệm Của Các Cơ_quan Trong Việc Xây_dựng , Cập_nhật Cơ_sở Dữ_liệu Viễn_thám Quốc_gia
+
+Điều 21 . Trách_nhiệm của Bộ Tài_nguyên và Môi_trường và cơ_quan quản_lí cơ_sở dữ_liệu viễn_thám thuộc Bộ Tài_nguyên và Môi_trường
+
+1 . Bộ Tài_nguyên và Môi_trường có trách_nhiệm tổ_chức xây_dựng , quản_lý , vận_hành và cập_nhật hệ_thống cơ_sở dữ_liệu viễn_thám quốc_gia .
+
+2 . Cục Viễn_thám quốc_gia thuộc Bộ Tài_nguyên và Môi_trường có trách_nhiệm :
+
+a ) Thực_hiện các hoạt_động tiếp_nhận các nguồn dữ_liệu ảnh viễn_thám , siêu dữ_liệu viễn_thám và tích_hợp vào cơ_sở dữ_liệu viễn_thám quốc_gia .
+
+b ) Cập_nhật nội_dung cơ_sở dữ_liệu viễn_thám quốc_gia .
+
+c ) Định_kì bảo_trì , bảo_hành và nâng_cấp hạ_tầng kĩ_thuật công_nghệ thông_tin của cơ_sở dữ_liệu viễn_thám quốc_gia .
+
+d ) Thực_hiện các giải_pháp về an_ninh , an_toàn và bảo_mật dữ_liệu .
+
+Điều 22 . Trách_nhiệm của Bộ , ngành và địa_phương
+
+Các Bộ , ngành và địa_phương có trách_nhiệm giao_nộp siêu dữ_liệu viễn_thám theo đúng nội_dung và định_dạng được quy_định tại Thông_tư này để tích_hợp vào cơ_sở dữ_liệu viễn_thám quốc_gia .
+
+Chương_vi
+
+Tổ_chức Thực_hiện
+
+Điều 23 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 24 tháng 7 năm 2017
+
+Điều 24 . Trách_nhiệm thực_hiện
+
+1 . Cục Viễn_thám quốc_gia , Bộ Tài_nguyên và Môi_trường có trách_nhiệm hướng_dẫn và kiểm_tra việc thực_hiện Thông_tư này .
+
+2 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân liên_quan có trách_nhiệm thi_hành Thông_tư này .
+
+Trong quá_trình thực_hiện , nếu có khó_khăn , vướng_mắc , các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét quyết_định . / .

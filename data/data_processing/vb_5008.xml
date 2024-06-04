@@ -1,0 +1,203 @@
+Thông_tư số 16/2023/tt-btnmt ngày 30 tháng 10 năm 2023 của bộ tài_nguyên và môi_trường
+
+Căn_cứ Luật Tài_nguyên nước ngày 21 tháng 6 năm 2012 ;
+
+Căn_cứ Nghị_định số 03/2019/NĐ-CP ngày 04 tháng 01 năm 2019 của Chính_phủ về hoạt_động viễn_thám ;
+
+Căn_cứ Nghị_định số 68/2022/NĐ-CP ngày 22 tháng 9 năm 2022 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Cục_trưởng Cục Viễn_thám quốc_gia , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư quy_định kĩ_thuật giám_sát mực nước lưu_vực sông bằng công_nghệ viễn_thám .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định kĩ_thuật giám_sát mực nước lưu_vực sông bằng công_nghệ viễn_thám .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với cơ_quan , tổ_chức và cá_nhân có liên_quan đến hoạt_động ứng_dụng công_nghệ viễn_thám trong việc giám_sát mực nước lưu_vực sông .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Độ cao vệ_tinh ( Satellite_altitude ) là khoảng_cách thẳng_đứng từ vệ_tinh đo cao đến mặt tham_chiếu ê - líp - xô - ít .
+
+2 . Khoảng_cách đo cao vệ_tinh ( Altimeter_range ) là chiều dài thẳng_đứng từ vệ_tinh đến bề_mặt_nước , được xác_định gián_tiếp thông_qua việc đo khoảng thời_gian lan_truyền hai chiều của tín_hiệu vệ_tinh .
+
+3 . Vệt quỹ_đạo vệ_tinh ( Satellite_groundtrack ) là hình_chiếu thẳng_đứng của quỹ_đạo vệ_tinh lên bề_mặt Trái_đất .
+
+4 . Độ phân_giải không_gian ( Spatial_resolution ) của trị đo cao vệ_tinh là khoảng_cách giữa hai điểm đo liên_tiếp_theo hướng dọc theo vệt quỹ_đạo vệ_tinh .
+
+5 . Chu_kì lặp ( Repeat_time ) là khoảng thời_gian vệt quỹ_đạo vệ_tinh quay lại gần chính_xác một vị_trí với biên_độ dao_động .
+
+6 . Trạm ảo ( Virtual_station ) trong giám_sát mực nước lưu_vực sông là trạm đo tại vị_trí giao_cắt giữa quỹ_đạo vệ_tinh với mặt_nước .
+
+7 . Dữ_liệu đo cao vệ_tinh I / gdr ( Interim / Geophysical Data_records ) là bản ghi dữ_liệu địa_vật_lí tần_số cao , được xử_lí ở mức 2 có chứa các số hiệu_chỉnh dùng để xác_định độ cao mực nước .
+
+8 . Hiệu_chỉnh do ảnh_hưởng tầng đối_lưu khô ( Dry Tropospheric_correction ) là công_tác hiệu_chỉnh trị đo khoảng_cách do ảnh_hưởng bởi hiện_tượng khúc_xạ của tín_hiệu trong quá_trình lan_truyền gây ra bởi các thành_phần khí khô ở tầng đối_lưu .
+
+10 . Hiệu_chỉnh do ảnh_hưởng tầng đối_lưu ướt ( Wet Tropospheric_correction ) là công_tác hiệu_chỉnh trị đo khoảng_cách do ảnh_hưởng bởi hiện_tượng khúc_xạ của tín_hiệu trong quá_trình lan_truyền gây ra bởi hơi_nước và giọt nước ở các đám mây ở tầng đối_lưu .
+
+11 . Hiệu_chỉnh do ảnh_hưởng tầng điện_li ( Ionospheric_correction ) là công_tác hiệu_chỉnh trị đo khoảng_cách do ảnh_hưởng bởi hiện_tượng khúc_xạ của tín_hiệu trong quá_trình lan_truyền gây ra bởi các chất điện_môi của tầng khí_quyển với sự có_mặt của những điện_tử tự_do .
+
+Điều 4 . Cơ_sở toán_học
+
+1 . Việc giám_sát mực nước lưu_vực sông sử_dụng Hệ quy chiếu và Hệ toạ_độ toàn_cầu Wgs - 84 , phép chiếu Geographic .
+
+2 . Độ cao mực nước lưu_vực sông khi tính_toán quy chiếu về mặt tham_chiếu Geo - ô - ít toàn_cầu Egm2008 .
+
+Điều 5 . Các nội_dung công_việc
+
+1 . Thu_thập và nhập dữ_liệu .
+
+2 . Xác_định toạ_độ của trị đo cao vệ_tinh .
+
+3 . Xác_định toạ_độ địa_lí chính_xác của trạm ảo .
+
+4 . Tính_toán độ cao mực nước .
+
+5 . Xuất dữ_liệu sang dạng Asci .
+
+6 . Chiết tách trị đo theo đối_tượng mặt_nước .
+
+7 . Tính_toán mực nước trung_bình và độ chính_xác .
+
+8 . Giám_sát biến_đổi mực nước lưu_vực sông .
+
+9 . Sản_phẩm giám_sát mực nước lưu_vực sông .
+
+10 . Kiểm_tra , nghiệm_thu và giao_nộp sản_phẩm .
+
+Chương_ii
+
+Quy_định Kỹ_thuật
+
+Điều 6 . Thu_thập và nhập dữ_liệu
+
+1 . Dữ_liệu đo cao vệ_tinh được thu_nhận tại các Trung_tâm lưu_trữ , xử_lí và cung_cấp dữ_liệu toàn_cầu .
+
+2 . Kiểu sản_phẩm của dữ_liệu I / gdr dùng trong giám_sát mực nước lưu_vực sông được lựa_chọn phù_hợp với các ứng_dụng trong nghiên_cứu thuỷ_văn lục_địa .
+
+3 . Dữ_liệu viễn_thám được thu_thập có thời_gian thu_nhận tương_thích với thời_gian thu_nhận dữ_liệu đo cao vệ_tinh , được hiệu_chỉnh ảnh_hưởng do độ cong Trái_đất , sai_số đầu thu và nhiễu khí_quyển , được quy chiếu về Hệ quy chiếu và Hệ toạ_độ toàn_cầu Wgs - 84 , phép chiếu Geographic , được hiệu_chỉnh sai_số vị_trí điểm sử_dụng mô_hình vật_lý , các điểm khống_chế ảnh và mô_hình số độ cao .
+
+4 . Các tài_liệu liên_quan đến đặc_điểm tự_nhiên , khí_hậu thuỷ_văn và chế_độ vận_hành các hồ chứa_nước có trên lưu_vực sông ( nếu có ) .
+
+5 . Dữ_liệu đo cao vệ_tinh được thu_nhận tương_thích phần_mềm đọc và xử_lí dữ_liệu của các loại vệ_tinh đo cao phổ_biến , được lưu_giữ dưới định_dạng NetCDF .
+
+Điều 7 . Xác_định toạ_độ của trị đo cao vệ_tinh
+
+1 . Thông_tin về toạ_độ của trị đo cao vệ_tinh được lấy từ các trường dữ_liệu kinh_độ và vĩ_độ tần_số cao trong các bản ghi dữ_liệu ; các trị đo trong phạm_vi nghiên_cứu được xử_lí nhằm giảm thời_gian và khối_lượng tính_toán .
+
+2 . Toạ_độ các trị đo cao vệ_tinh tần_số cao xuất ra dưới dạng một tệp dữ_liệu có định_dạng Asci để thuận_tiện cho quá_trình hiển_thị dữ_liệu trong môi_trường đồ_hoạ .
+
+Điều 8 . Xác_định toạ_độ địa_lí chính_xác của trạm ảo
+
+1 . Vị_trí trạm ảo giới_hạn bởi một cửa_sổ hình chữ_nhật có toạ_độ , xác_định bởi kinh_độ và vĩ_độ của góc trái trên và góc phải dưới , hiển_thị dưới dạng số thập_phân , đảm_bảo chứa được tất_cả các trị đo trên bề_mặt_nước tại điểm giao_cắt và hạn_chế những trị đo trên bề_mặt_đất . Vị_trí trạm ảo được tính_toán từ kinh_độ và vĩ_độ trung_bình của tất_cả các trị đo cao vệ_tinh nằm trên phạm_vi mặt_nước .
+
+2 . Việc xác_định cửa_sổ của các trị đo cao vệ_tinh thực_hiện đồng_thời với việc hiển_thị các điểm đo dọc theo vệt quỹ_đạo vệ_tinh trong tất_cả các chu_kì dữ_liệu trên nền dữ_liệu viễn_thám đã được quy chiếu về Hệ quy chiếu và Hệ toạ_độ toàn_cầu Wgs - 84 ; được thực_hiện_tại những vị_trí mà độ rộng của sông theo hướng vệt quỹ_đạo vệ_tinh có kích_thước tối_thiểu là 500 m đối_với dữ_liệu của thế_hệ các vệ_tinh đo cao ra - đa truyền_thống có độ phân_giải không_gian thấp và 100 m đối_với dữ_liệu của thế_hệ các vệ_tinh đo cao ứng_dụng công_nghệ ra - đa độ mở tổng_hợp có độ phân_giải không_gian cao .
+
+3 . Các tham_số của cửa_sổ trị đo cao vệ_tinh phải được thu_thập bao_gồm : Sông / Hồ , Trạm thuỷ_văn , Vệ_tinh , Vệt quỹ_đạo vệ_tinh , Trạm đo ảo ( Mã , Kinh_độ , Vĩ_độ ) , Độ rộng sông / hồ , Khoảng_cách đến trạm thuỷ_văn / Đập nước ( nếu có ) , thể_hiện theo mẫu tại Phụ_lục kèm theo Thông_tư này , định_dạng tệp dữ_liệu là * . docx ( Microsoft Word_document ) .
+
+Điều 9 . Tính_toán độ cao mực nước
+
+Độ cao mực nước được xác_định bởi chênh cao giữa độ cao quỹ_đạo vệ_tinh ( Alt ) với trị đo khoảng_cách đo cao vệ_tinh R và các số hiệu_chỉnh khác nhau ( gồm : trễ thời_gian khi các xung_tín_hiệu ra - đa đi qua môi_trường khí_quyển , ảnh_hưởng của thuỷ_triều Trái_đất ) , áp_dụng công_thức dưới đây :
+
+Wsh = Alt - R + [ dtc + Wtc + Ic + Ts ] - Gc
+
+Trong đó :
+
+- Dtc là số hiệu_chỉnh khúc_xạ ở tầng đối_lưu khô
+
+- Wtc là số hiệu_chỉnh khúc_xạ ở tầng đối_lưu ướt
+
+- Ic là số hiệu_chỉnh khúc_xạ ở tầng điện_li
+
+- Ts là số hiệu_chỉnh do ảnh_hưởng thuỷ_triều Trái_đất rắn
+
+- Gc là số hiệu_chỉnh Geo - ô - ít
+
+Số_hiệu_chỉnh khúc_xạ khí_quyển được sử_dụng là số hiệu_chỉnh mô_hình tiêu_chuẩn có trong bản ghi dữ_liệu I / gdr . Độ cao mực nước sau khi tính_toán sẽ được quy chiếu về mặt Geo - ô - ít toàn_cầu Egm2008 .
+
+Điều 10 . Xuất dữ_liệu sang dạng Asci
+
+Kết_quả tính_toán độ cao mực nước lưu_vực sông được xuất ra dưới dạng tệp dữ_liệu với định_dạng Asci , dưới dạng số thập_phân và lấy đến 4 số sau dấu_phẩy .
+
+Điều 11 . Chiết tách trị đo theo đối_tượng mặt_nước
+
+1 . Việc chiết tách trị đo theo đối_tượng mặt_nước tại các vị_trí giao_cắt của vệt quỹ_đạo vệ_tinh với bề_mặt sông được thực_hiện trên nền dữ_liệu vệ_tinh và được véc tơ hoá bằng một hình đa_giác làm ranh_giới . Khi đó , các trị đo vệ_tinh nằm giới_hạn của đa_giác được dùng để tính_toán độ cao mực nước lưu_vực sông .
+
+2 . Đối_với các con sông có độ rộng trung_bình và nhỏ ( 500 m ) , bờ sông có_thể được mở_rộng nhằm tạo một vùng_đệm thoả_mãn điều_kiện sao cho mỗi một vệt quỹ_đạo vệ_tinh đi qua đều có_thể thu_nhận được tối_thiểu từ 2 - 3 điểm trong hình đa_giác phục_vụ tính_toán độ cao mực nước trung_bình .
+
+Điều 12 . Tính_toán mực nước trung_bình và độ chính_xác
+
+1 . Mực nước tại mỗi vị_trí giám_sát trên lưu_vực sông của từng chu_kì lặp_được tính trung_bình từ các trị đo cao vệ_tinh tần_số cao dọc theo vệt quỹ_đạo vệ_tinh thu_nhận được sau khi chiết tách trị đo theo đối_tượng mặt_nước được áp_dụng theo công_thức dưới đây và thể_hiện theo mẫu tại Phụ_lục kèm theo Thông_tư này .
+
+Trong đó :
+
+- x là giá_trị trung_bình độ cao mực nước
+
+- xi là giá_trị độ cao mực nước của mỗi trị đo tần_số cao nằm trong phạm_vi ranh_giới đa_giác của một trạm ảo
+
+- N là số_lượng trị đo tần_số cao nằm trong phạm_vi ranh_giới đa_giác của một trạm ảo
+
+2 . Độ chính_xác của trị đo độ cao mực nước tại mỗi vị_trí giám_sát trên lưu_vực sông với từng chu_kì lặp của vệ_tinh đo cao được xác_định bởi sai_số độ lệch chuẩn ( standard deviation ) được áp_dụng theo công_thức dưới đây :
+
+3 . Đối_với từng chu_kì lặp , sai_số độ lệch chuẩn của trị đo cao mực nước phải thoả_mãn điều_kiện 0 , 5 m và sai_số giới_hạn của trị đo cao mực nước không được vượt quá 1 , 0 m . Trong trường_hợp địa_hình phức_tạp như núi cao , độ dốc lớn hay trong các trường_hợp điều_kiện không thuận_lợi khác đối_với trị đo vệ_tinh thì sai_số độ lệch chuẩn của trị đo cao mực nước không được vượt quá 1 , 0 m và sai_số giới_hạn của trị đo cao mực nước không được vượt quá 2 , 0 m .
+
+Điều 13 . Giám_sát biến_đổi mực nước lưu_vực sông
+
+1 . Giám_sát mực nước lưu_vực sông tại mỗi vị_trí trạm ảo được thực_hiện bằng cách theo_dõi chuỗi biến_đổi mực nước theo thời_gian tương_ứng với các chu_kì lặp của loại vệ_tinh đo cao được sử_dụng .
+
+2 . Chuỗi biến_đổi mực nước theo thời_gian được thiết_lập khi độ cao mực nước tại mỗi chu_kì lặp_được tính chuyển về độ cao mực nước tương_đối so với độ cao mực nước của một chu_kì lặp_bất_kỳ , được chọn làm gốc tham_chiếu hoặc so với độ cao mực nước trung_bình trong toàn_bộ thời_kì giám_sát .
+
+3 . Tại mỗi vị_trí trạm ảo được thực_hiện nếu_như hiệu_suất của trị đo cao vệ_tinh ( tức_là tỉ_số giữa số chu_kì cho dữ_liệu có giá_trị sử_dụng trên tổng_số chu_kì lặp_giám_sát ) đạt tối_thiểu 30 % trở lên .
+
+4 . Chuỗi biến_đổi mực nước theo thời_gian tại mỗi vị_trí trạm ảo cần thể_hiện được quy_luật biến_đổi theo mùa trong năm .
+
+5 . Đánh_giá độ tin_cậy của kết_quả giám_sát mực nước lưu_vực sông được thực_hiện trên cơ_sở kiểm_định chéo bằng cách so_sánh giữa hai chuỗi biến_đổi mực nước theo thời_gian của hai trạm ảo gần nhau với giả_thiết rằng biến_đổi mực nước của hai trạm ảo này là tương_tự nhau . Mức_độ tương_quan của hai chuỗi biến_đổi mực nước được xác_định bằng hệ_số tương_quan R2 .
+
+Điều 14 . Sản_phẩm giám_sát mực nước lưu_vực sông
+
+1 . Dữ_liệu đo cao vệ_tinh được ghi trên các thiết_bị lưu_trữ số .
+
+2 . Dữ_liệu ảnh viễn_thám được sử_dụng trong việc giám_sát mực nước lưu_vực sông ghi trên các thiết_bị lưu_trữ số .
+
+3 . Báo_cáo kết_quả tính_toán độ cao mực nước lưu_vực sông tại các trạm ảo phải ghi trên các thiết_bị lưu_trữ số .
+
+4 . Báo_cáo kết_quả tính_toán chuỗi biến_đổi mực nước theo thời_gian tại các trạm ảo phải ghi trên các thiết_bị lưu_trữ số .
+
+5 . Báo_cáo giám_sát mực nước lưu_vực sông phải ghi trên các thiết_bị lưu_trữ số .
+
+Điều 15 . Kiểm_tra , nghiệm_thu và giao_nộp sản_phẩm
+
+1 . Công_tác kiểm_tra kĩ_thuật , nghiệm_thu sản_phẩm bao_gồm các công_đoạn sau :
+
+a ) Kiểm_tra , nghiệm_thu cấp đơn_vị thi_công ;
+
+b ) Kiểm_tra , nghiệm_thu cấp chủ đầu_tư ;
+
+c ) Thẩm_định , nghiệm_thu hồ_sơ chất_lượng , khối_lượng sản_phẩm .
+
+2 . Sản_phẩm được giao_nộp sau khi đã được kiểm_tra kĩ_thuật , đánh_giá chất_lượng và nghiệm_thu cấp chủ đầu_tư .
+
+Chương_iii
+
+Điều_khoản Thi_hành
+
+Điều 16 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 12 năm 2023 .
+
+Điều 17 . Tổ_chức thực_hiện
+
+1 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Cục_trưởng Cục Viễn_thám quốc_gia có trách_nhiệm tổ_chức phổ_biến , kiểm_tra việc thực_hiện Thông_tư này .
+
+3 . Trong quá_trình thực_hiện , nếu có khó_khăn , vướng_mắc thì các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , Quyết_định . / .

@@ -1,0 +1,401 @@
+Thông_tư số 18/2017/tt-btttt ngày 11 tháng 09 năm 2017 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Luật Tần_số vô_tuyến_điện ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện từ đối_với thiết_bị vô_tuyến truyền dữ_liệu băng rộng .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện từ đối_với thiết_bị vô_tuyến truyền dữ_liệu băng rộng ( qcvn 112 : 2017 / bt )
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2018 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 112 : 2017 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Tương_thích Điện_từ Đối_với Thiết_bị Vô_tuyến_truyền Dữ_liệu Băng_rộng
+
+National technical regulation on general electromagnetic compatibility for radio broadband data transmission equipment
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Phát_xạ Emc
+
+2 . 2 . Miễn_nhiễm
+
+2 . 3 . Điều_kiện đo_kiểm
+
+2 . 3 . 1 . Tổng_quát
+
+2 . 3 . 2 . Bố_trí tín_hiệu đo_kiểm
+
+2 . 3 . 3 . Băng tần loại_trừ
+
+2 . 3 . 4 . Đáp_ứng băng hẹp máy thu hoặc máy thu là một phần của máy thu phát
+
+2 . 3 . 5 . Điều_chế đo kiểm bình_thường
+
+2 . 4 . Đánh_giá chỉ_tiêu
+
+2 . 4 . 1 . Tổng_quát
+
+2 . 4 . 2 . Các giải_pháp đánh_giá áp_dụng cho thiết_bị được đấu nối tới thiết_bị chủ và các thiết_bị vô_tuyến gắn thêm
+
+2 . 4 . 3 . Thủ_tục đánh_giá
+
+2 . 4 . 4 . Thiết_bị phụ_trợ
+
+2 . 4 . 5 . Phân_loại thiết_bị
+
+2 . 5 . Tiêu_chí chất_lượng
+
+2 . 5 . 1 . Tiêu_chí chất_lượng chung
+
+2 . 5 . 2 . Bảng tiêu_chí chất_lượng
+
+2 . 5 . 3 . Tiêu_chí chất_lượng đối_với hiện_tượng liên_tục áp_dụng cho máy phát ( ct )
+
+2 . 5 . 4 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến_áp_dụng cho máy phát ( t )
+
+2 . 5 . 5 . Tiêu_chí chất_lượng đối_với hiện_tượng liên_tục áp_dụng cho máy thu ( cr )
+
+2 . 5 . 6 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến_áp_dụng cho máy thu ( tr )
+
+3 . Quy_định Về Quản_lý
+
+4 . Trách_nhiệm Của Tổ_chức Cá_nhân
+
+5 . Tổ_chức Thực_hiện
+
+Thư_mục_tài_liệu Tham_khảo
+
+Lời_nói_đầu
+
+Các quy_định kĩ_thuật và phương_pháp đo của Qcvn 112 : 2017 / bt phù_hợp với tiêu_chuẩn En 301 489-17 V2 . 2 . 1 ( 2012 - 9 ) của Viện Tiêu_chuẩn viễn_thông châu Âu ( etsi ) .
+
+Qcvn 112 : 2017 / bt do Viện Khoa_học kĩ_thuật Bưu_điện biên_soạn , Vụ khoa_học và Công_nghệ thẩm_định và trình_duyệt , Bộ Thông_tin và Truyền_thông ban_hành kèm theo Thông_tư số 18/2017/TT-BTTTT ngày 11 tháng 9 năm 2017 .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Tương_thích Điện_từ Đối_với Thiết_bị Vô_tuyến_truyền Dữ_liệu Băng_rộng
+
+National technical regulation on general electromagnetic compatibility for radio broadband data transmission equipment
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn này cùng với Qcvn 18 : 2014 / bt quy_định các yêu_cầu về tương_thích điện_từ ( emc ) đối_với thiết_bị vô_tuyến truyền dữ_liệu băng rộng được liệt_kê dưới đây :
+
+- Thiết_bị thông_tin vô_tuyến sử_dụng kĩ_thuật điều_chế trải phổ trong băng tần 2 , 4 GHz ;
+
+- Thiết_bị truy_nhập vô_tuyến hoạt_động ở dải_tần_số 5 150 MHz đến 5 350 MHz , 5 470 MHz đến 5 725 MHz và 5 725 MHz đến 5 850 MHz ;
+
+- Thiết_bị truy_nhập vô_tuyến tốc_độ cao băng tần từ 57 GHz đến 66 GHz ; và
+
+- Thiết_bị của hệ_thống truy_nhập vô_tuyến băng rộng BWA / WiMAX ở cả chế_độ Td và Fdd .
+
+Quy_chuẩn này không quy_định các chỉ_tiêu kĩ_thuật liên_quan đến cổng ăng ten và chỉ_tiêu phát_xạ liên_quan đến cổng vỏ của thiết_bị .
+
+Quy_chuẩn này chỉ rõ khả_năng áp_dụng các phép đo thử Emc , phương_pháp đo thử , các giới_hạn và chỉ tiêu chất_lượng và phương_pháp đánh_giá kết_quả đo kiểm đối_với các thiết_bị vô_tuyến truyền dữ_liệu băng rộng .
+
+Sử_dụng cách phân_loại môi_trường , các quy_định phát_xạ và miễn_nhiễm trong Qcvn 18 : 2014 / bt trừ các điều_kiện đặc_biệt được quy_định trong quy_chuẩn này .
+
+Chú_thích :
+
+- Trong trường_hợp có sự khác nhau ( ví_dụ về điều_kiện riêng , định_nghĩa , chữ_viết tắt ) giữa quy_chuẩn này và Qcvn 18 : 2014 / bt thì ưu tiêu sử_dụng quy_chuẩn này .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn kĩ_thuật này áp_dụng đối_với các cơ_quan , tổ_chức , cá_nhân Việt_nam và nước_ngoài có hoạt_động_sản_xuất , kinh_doanh và khai_thác các thiết_bị thuộc phạm_vi điều_chỉnh của Quy_chuẩn này trên lãnh_thổ Việt_nam .
+
+1 . 3 . Tài_liệu viện_dẫn
+
+Qcvn 18 : 2014 / bt , Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện từ đối_với thiết_bị thông_tin vô_tuyến_điện .
+
+1 . 4 . Giải_thích từ_ngữ
+
+Quy_chuẩn này sử_dụng các thuật_ngữ có trong Qcvn 18 : 2014 / bt và các thuật_ngữ dưới đây :
+
+1 . 4 . 1 . Thiết_bị cần kiểm_tra ( eut : Equipment Under_test )
+
+Đối_tượng cần được đánh_giá theo các quy_định của quy_chuẩn này .
+
+1 . 4 . 2 . Trạm cố_định ( fixed station )
+
+Thiết_bị sử_dụng ở vị_trí cố_định , dùng một hoặc nhiều ăng ten .
+
+Chú_thích : thiết_bị có_thể được trang_bị các giắc cắm ăng ten hoặc ăng ten tích_hợp hoặc cả hai .
+
+1 . 4 . 3 . Thiết_bị cầm tay ( hand - portable station )
+
+Thiết_bị thường được sử_dụng độc_lập và có_thể mang bên người .
+
+Chú_thích : thiết_bị có_thể được trang_bị một hoặc nhiều ăng ten . Thiết_bị có_thể được trang_bị các giắc cắm ăng ten hoặc ăng ten tích_hợp hoặc cả hai .
+
+1 . 4 . 4 . Thiết_bị chủ ( host )
+
+Thiết_bị bất_kì có đầy_đủ chức_năng sử_dụng khi không đấu nối với phần thiết_bị vô_tuyến , mà việc đấu nối này là cần_thiết để_phần thiết_bị vô_tuyến cung_cấp chức_năng bổ_sung và được cài_đặt chức_năng .
+
+1 . 4 . 5 . Thiết_bị vô_tuyến được gắn thêm ( plug - in radio device )
+
+Thiết_bị vô_tuyến bao_gồm cả card vô_tuyến cắm thêm , được sử_dụng với nhiều loại hệ_thống_thiết_bị chủ , sử_dụng các chức_năng điều_khiển và nguồn cung_cấp của thiết_bị chủ .
+
+1 . 4 . 6 . Thiết_bị vô_tuyến sử_dụng độc_lập ( stand - alone radio equipment )
+
+Thiết_bị thông_tin , bình_thường được sử_dụng một_cách độc_lập .
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Phát_xạ Emc
+
+2 . 1 . 1 . Khả_năng áp_dụng các phép đo phát_xạ Emc
+
+Áp_dụng Bảng 1 của Qcvn 18 : 2014 / bt đo kiểm phát_xạ Emc trên các cổng của thiết_bị
+
+2 . 2 . Miễn_nhiễm
+
+Áp_dụng Bảng 4 của Qcvn 18 : 2014 / bt cho phép thử miễn_nhiễm đối_với các cổng liên_quan của thiết_bị .
+
+2 . 3 . Điều_kiện đo_kiểm
+
+2 . 3 . 1 . Tổng_quát
+
+Với mục_đích của quy_chuẩn này , có_thể áp_dụng các điều_kiện đo kiểm của Qcvn 18 : 2014 / bt khi thích_hợp . Các điều_kiện đo kiểm áp_dụng cho thiết_bị vô_tuyến truyền dữ_liệu băng rộng được quy_định trong các mục_từ 2 . 3 . 2 đến 2 . 3 . 5 .
+
+Thiết_bị vô_tuyến có_thể cần các thiết_bị gá lắp và / hoặc phần_mềm đặc_biệt trong khi thực_hiện phép đo . Đối_với các thiết_bị cần phải kết_nối với thiết_bị chủ để thiết_lập chức_năng thì sẽ sử_dụng cấu_hình đo theo quy_định của nhà sản_xuất . Trong mọi trường_hợp Eut phải được đo kiểm ở trạng_thái_bình_thường đúng với mục_đích được sản_xuất của Eut .
+
+2 . 3 . 2 . Bố_trí tín_hiệu đo_kiểm
+
+Áp_dụng cách bố_trí tín_hiệu đo kiểm trong A . 2 , Phụ_lục A của Qcvn 18 : 2014 / bt .
+
+2 . 3 . 2 . 1 . Bố_trí tín_hiệu đo kiểm tại đầu_vào máy_phát
+
+Áp_dụng cách bố_trí tín_hiệu đo kiểm trong A . 2 . 1 , Phụ_lục A của Qcvn 18 : 2014 / bt với điều_chỉnh như dưới đây :
+
+- Tuyến truyền_thông được thiết_lập để đáp_ứng yêu_cầu của tín_hiệu điều_khiển và / hoặc tín_hiệu mong_muốn phải theo quy_định của nhà sản_xuất . Máy_phát phải hoạt_động với công_suất cực_đại .
+
+2 . 3 . 2 . 2 . Bố_trí tín_hiệu đo kiểm tại đầu_ra máy_phát
+
+Áp_dụng cách bố_trí tín_hiệu đo kiểm trong A . 2 . 2 , Phụ_lục A của Qcvn 18 : 2014 / bt với điều_chỉnh như dưới đây :
+
+- Nhà sản_xuất có_thể cung_cấp một máy thu thích_hợp để sử_dụng thu các tin báo hoặc để thiết_lập tuyến truyền_thông .
+
+2 . 3 . 2 . 3 . Bố_trí tín_hiệu đo kiểm tại đầu_vào máy thu
+
+Áp_dụng cách bố_trí tín_hiệu đo kiểm trong A . 2 . 3 , Phụ_lục A của Qcvn 18 : 2014 / bt với những điều_chỉnh như dưới đây :
+
+- Tuyến truyền_thông được thiết_lập để có được tín_hiệu mong_muốn phải theo quy_định của nhà sản_xuất ;
+
+- Mức tín_hiệu mong_muốn tại đầu_vào máy thu phải lớn hơn mức công_bố Mus tối_thiểu là 30 dB .
+
+2 . 3 . 2 . 4 . Bố_trí tín_hiệu đo kiểm tại đầu_ra máy thu
+
+Thiết_bị đo tín_hiệu đầu_ra máy thu được kiểm_tra phải được đặt bên ngoài môi_trường đo kiểm .
+
+Có_thể đánh_giá chất_lượng thiết_bị bằng phương_pháp giám_sát tín_hiệu đầu_ra máy thu .
+
+Nếu máy thu có bộ đầu nối tín_hiệu ra hoặc cổng tín_hiệu ra thì cổng tín_hiệu này phải được nối với cáp ( sử_dụng cáp tiêu_chuẩn trong điều_kiện hoạt_động bình_thường của thiết_bị ) , cáp này được nối với thiết_bị đo bên ngoài môi_trường đo kiểm . Có_thể sử_dụng thiết_bị đo kiểm do nhà sản_xuất cung_cấp .
+
+Phải thực_hiện các biện_pháp phòng_ngừa để đảm_bảo giảm_thiểu mọi tác_động từ cách ghép_nối lên phép đo kiểm .
+
+Nhà sản_xuất có_thể cung_cấp một máy phát thích_hợp để có_thể phát đi các tin báo hoặc thiết_lập một tuyến truyền_thông .
+
+2 . 3 . 2 . 5 . Sắp_xếp đo kiểm máy phát cùng với máy thu ( như một hệ_thống )
+
+Áp_dụng cách sắp_xếp đo kiểm trong A . 2 . 5 Phụ_lục A của Qcvn 18 : 2014 / bt .
+
+Nhà sản_xuất có_thể cung_cấp một máy thu phát , hoặc một máy thu và máy phát thích_hợp để sử_dụng thu và phát tin báo hoặc để thiết_lập một tuyến truyền_thông .
+
+Cả thiết_bị cần đo và thiết_bị đo phải phát ở chế_độ điều_chế đo kiểm bình_thường . Hơn_nữa , đầu_ra của thiết_bị vô_tuyến cần đo phải được giám_sát bởi hệ_thống đo kiểm .
+
+2 . 3 . 3 . Băng tần loại_trừ
+
+Các tần_số trên đó máy phát của thiết_bị cần đo hoạt_động phải được loại_trừ khỏi các phép đo phát_xạ bức_xạ khi thực_hiện ở chế_độ phát .
+
+Không có băng tần loại_trừ nào được áp_dụng đối_với các phép đo phát_xạ phần máy thu của thiết_bị thu phát , hoặc máy thu độc_lập và / hoặc thiết_bị phụ_trợ .
+
+Băng tần loại_trừ áp_dụng cho phép thử miễn_nhiễm được tính_toán như sau :
+
+- Giới_hạn dưới của băng tần loại_trừ = tần_số biên thấp nhất của dải_tần phân_chia - 5 % ;
+
+- Giới_hạn trên của băng tần loại_trừ = tần_số biên cao nhất của dải_tần phân_chia + 5 % .
+
+Minh_hoạ cách tính áp_dụng cho băng tần 2 450 MHz làm ví_dụ :
+
+- Giới_hạn dưới của băng tần loại_trừ = 2 400 - 120 = 2 280 MHz ;
+
+- Giới_hạn trên của băng tần loại_trừ = 2 483 , 5 + 124 , 175 = 2 607 , 675 MHz ;
+
+- Từ đó xác_định được băng tần loại_trừ áp_dụng cho thiết_bị hoạt_động trong băng tần 2 , 4 GHz nằm trong phạm_vi áp_dụng của quy_chuẩn này là từ 2 280 MHz đến 2 607 , 675 MHz .
+
+2 . 3 . 4 . Đáp_ứng băng hẹp máy thu hoặc máy thu là một phần của máy thu phát
+
+Áp_dụng các yêu_cầu trong A . 4 Phụ_lục A của Qcvn 18 : 2014 / bt .
+
+2 . 3 . 5 . Điều_chế đo kiểm bình_thường
+
+Tín_hiệu điều_chế đo kiểm phải phù_hợp với mục_đích sử_dụng bình_thường và có_thể bao_gồm dữ_liệu định_dạng , thông_tin xác_định và sửa lỗi .
+
+2 . 4 . Đánh_giá chỉ_tiêu
+
+2 . 4 . 1 . Tổng_quát
+
+Áp_dụng các yêu_cầu trong B . 1 của Qcvn 18 : 2014 / bt với các chỉnh_sửa dưới đây .
+
+Tại thời_điểm nộp hồ_sơ thiết_bị cần đo kiểm , nhà sản_xuất phải cung_cấp các thông_tin sau đây để đưa vào báo_cáo đo :
+
+- Dải_tần_số phân_chia của thiết_bị và , nếu có_thể , các băng tần hoạt_động ;
+
+- Loại thiết_bị , ví_dụ thiết_bị độc_lập hoặc thiết_bị vô_tuyến gắn thêm ;
+
+- Thiết_bị chủ kết_hợp với thiết_bị vô_tuyến để thực_hiện phép thử ;
+
+- Mức chất_lượng tối_thiểu sau khi thử Emc ( xem 2 . 5 . 2 ) ;
+
+- Điều_chế đo kiểm bình_thường , công_thức và dạng của phương_thức sửa lỗi và các tin báo điều_khiển bất_kì như Ack / nack hoặc tin báo Arq .
+
+2 . 4 . 2 . Các giải_pháp đánh_giá áp_dụng cho thiết_bị được đấu nối tới thiết_bị chủ và các thiết_bị vô_tuyến gắn thêm
+
+Đối_với các phần thiết_bị nhất_định phải kết_hợp với thiết_bị chủ để được hỗ_trợ chức_năng thì có hai giải_pháp đánh_giá thay_thế được quy_định trong 2 . 4 . 2 . 1 và 2 . 4 . 2 . 2 . Nhà sản_xuất phải công_bố giải_pháp của mình .
+
+2 . 4 . 2 . 1 . Giải_pháp A : Thiết_bị kết_hợp
+
+Sự kết_hợp của phần thiết_bị vô_tuyến và một loại_hình_cụ_thể của thiết_bị chủ được sử_dụng để đánh_giá theo các quy_định trong quy_chuẩn này .
+
+Trường_hợp một kết_hợp cụ_thể giữa thiết_bị chủ và một phần thiết_bị vô_tuyến đã được đo kiểm như là một thiết_bị kết_hợp đối_với phép đo tuân_thủ thì không cần_lặp lại phép đo đối_với :
+
+- Thiết_bị kết_hợp là những kết_hợp khác của thiết_bị chủ và phần thiết_bị vô_tuyến , sự kết_hợp này dựa trên các phiên_bản thiết_bị chủ gần giống với thiết_bị chủ đã được đo kiểm ở trên , sự khác nhau về thuộc_tính cơ và điện giữa các phiên_bản thiết_bị chủ này không gây ảnh_hưởng đáng_kể lên khả_năng miễn_nhiễm và không gây ra các phát_xạ không mong_muốn của phần thiết_bị vô_tuyến ;
+
+- Phần_thiết_bị vô_tuyến mà phần thiết_bị vô_tuyến này chỉ sử_dụng được khi có sự điều_chỉnh về phần_mềm , phần cơ hoặc điện khi được sử_dụng trong các thiết_bị chủ khác với thiết_bị chủ đã được đo kiểm ở trên .
+
+Đối_với tất_cả các kết_hợp thiết_bị khác , mỗi cách kết_hợp phải được đo kiểm riêng .
+
+2 . 4 . 2 . 2 . Giải_pháp B : Sử_dụng một thiết_bị chủ hoặc thiết_bị gá lắp
+
+Trường_hợp_phần thiết_bị vô_tuyến được thiết_kế để sử_dụng với một loạt các thiết_bị chủ , thì nhà sản_xuất phải cung_cấp cấu_hình thử phù_hợp gồm hoặc là một hệ_thống_thiết_bị chủ dùng trong điều_kiện bình_thường hoặc một thiết_bị gá lắp , mà cấu_hình thử này phải đại_diện cho các loại tổ_hợp mà thiết_bị có_thể sử_dụng . Thiết_bị gá lắp phải cho phép phần thiết_bị vô_tuyến được cấp nguồn và kích_hoạt hoạt_động như khi được đấu nối tới hoặc tích_hợp trong thiết_bị chủ .
+
+2 . 4 . 3 . Thủ_tục đánh_giá
+
+Đánh_giá chỉ_tiêu phải dựa trên :
+
+- Duy_trì các chức_năng ;
+
+- Cách khôi_phục được các chức_năng bị mất tạm_thời ;
+
+- Trạng_thái không chủ_ý của Eut .
+
+Hệ_thống đo kiểm phải thiết_lập một tuyến truyền_thông theo cách_thức tương_tự của Eut trong điều_kiện làm_việc bình_thường .
+
+Các trường dữ_liệu người dùng trong bộ_nhớ hoặc được lưu_trữ của Eut phải được điền dữ_liệu theo cách thông_thường như khi Eut hoạt_động bình_thường .
+
+Thủ_tục đánh_giá phải xác_nhận rằng tuyến truyền_thông được thiết_lập để phục_vụ đo kiểm phải được duy_trì và thiết_bị không bị mất các chức_năng điều_khiển người sử_dụng theo như công_bố của nhà sản_xuất hoặc mất các trường dữ_liệu người sử_dụng .
+
+2 . 4 . 4 . Thiết_bị phụ_trợ
+
+Áp_dụng các yêu_cầu trong B . 4 của Qcvn18 : 2014 / bt , tuy_nhiên nếu thiết_bị phụ_trợ không thuộc phạm_vi của quy_chuẩn này thì không áp_dụng .
+
+2 . 4 . 5 . Phân_loại thiết_bị
+
+Thiết_bị cầm tay , hoặc tổ_hợp của chúng , được khai_báo sử_dụng nguồn của xe thì phải được xem_xét bổ_sung như là thiết_bị di_động dùng trên xe .
+
+Thiết_bị cầm tay , thiết_bị di_động hoặc tổ_hợp của chúng , được khai_báo sử_dụng nguồn lưới Ac thì phải được xem_xét bổ_sung như là thiết_bị cố_định .
+
+2 . 5 . Tiêu_chí chất_lượng
+
+2 . 5 . 1 . Tiêu_chí chất_lượng chung
+
+Có 3 loại tiêu_chí chất_lượng được áp_dụng trong quy_chuẩn này :
+
+- Tiêu_chí A áp_dụng cho phép thử miễn_nhiễm đối_với hiện_tượng liên_tục ;
+
+- Tiêu_chí B áp_dụng cho phép thử miễn_nhiễm đối_với hiện_tượng đột_biến ;
+
+- Tiêu_chí C áp_dụng cho phép thử miễn_nhiễm đối_với trường_hợp mất nguồn đột_ngột quá thời_gian cho phép .
+
+Thiết_bị phải đáp_ứng các tiêu_chí chất_lượng tối_thiểu được quy_định trong các phần dưới đây .
+
+2 . 5 . 2 . Bảng tiêu_chí chất_lượng
+
+Bảng 1 - Tiêu_chí chất_lượng
+
+2 . 5 . 3 . Tiêu_chí chất_lượng đối_với hiện_tượng liên_tục áp_dụng cho máy phát ( ct )
+
+Áp_dụng tiêu_chí A .
+
+Thực_hiện lại phép thử khi Eut ở trạng_thái chờ ( nếu có_thể áp_dụng ) để đảm_bảo rằng không xảy ra sự truyền phát không mong_muốn . Trong hệ_thống sử_dụng các tin báo xác_nhận Ack , thì việc truyền phát các tin báo xác_nhận Ack hoặc không xác_nhận Nack là có_thể xảy ra , các bước thực_hiện phép thử phải cẩn_thận để đảm_bảo diễn_giải một_cách chính_xác các truyền phát bất_kì do việc thực_hiện phép thử .
+
+2 . 5 . 4 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến_áp_dụng cho máy phát ( t )
+
+Áp_dụng tiêu_chí B , ngoại_trừ đối_với phép thử điện_áp trong khoảng 100 ms và ngắt_điện_áp trong khoảng 5 000 ms , đối_với các phép thử đó áp_dụng tiêu_chí C .
+
+Thực_hiện lại phép thử khi Eut ở trạng_thái chờ ( nếu có_thể áp_dụng ) để đảm_bảo rằng không xảy ra sự truyền phát không mong_muốn . Trong hệ_thống sử_dụng các tin báo xác_nhận Ack ( acknowledgement ) , thì việc truyền phát các tin báo xác_nhận Ack hoặc không xác_nhận Nack là có_thể xảy ra , các bước thực_hiện phép thử phải cẩn_thận để đảm_bảo diễn_giải một_cách chính_xác các truyền phát bất_kì do việc thực_hiện phép thử .
+
+2 . 5 . 5 . Tiêu_chí chất_lượng đối_với hiện_tượng liên_tục áp_dụng cho máy thu ( cr )
+
+Áp_dụng tiêu_chí A .
+
+Khi Eut là thiết_bị thu phát , trong mọi trường_hợp_phần phát sẽ hoạt_động không chủ_định trong khi thực_hiện phép thử . Trong hệ_thống sử_dụng các tin báo xác_nhận Ack , thì việc truyền phát các tin báo xác_nhận Ack hoặc không xác_nhận Nack là có_thể xảy ra , các bước thực_hiện phép thử phải cẩn_thận để đảm_bảo diễn_giải một_cách chính_xác các truyền phát bất_kì do việc thực_hiện phép thử .
+
+2 . 5 . 6 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến_áp_dụng cho máy thu ( tr )
+
+Áp_dụng tiêu_chí B , ngoại_trừ đối_với phép thử điện_áp trong khoảng 100 ms và ngắt_điện_áp trong khoảng 5 000 ms , đối_với các phép thử đó áp_dụng tiêu_chí C .
+
+Khi Eut là thiết_bị thu phát , trong mọi trường_hợp_phần phát sẽ hoạt_động không chủ_định trong khi thực_hiện phép thử . Trong hệ_thống sử_dụng các tin báo xác_nhận Ack , thì việc truyền phát các tin báo xác_nhận Ack hoặc không xác_nhận Nack là có_thể xảy ra , các bước thực_hiện phép thử phải cẩn_thận để đảm_bảo diễn_giải một_cách chính_xác các truyền phát bất_kì do việc thực_hiện phép thử .
+
+3 . Quy_định Về Quản_lý
+
+Các thiết_bị vô_tuyến truyền dữ_liệu băng rộng thuộc phạm_vi điều_chỉnh quy_định tại điều 1 . 1 phải tuân_thủ các quy_định kĩ_thuật trong Quy_chuẩn này .
+
+4 . Trách_nhiệm Của Tổ_chức Cá_nhân
+
+Các tổ_chức , cá_nhân liên_quan có trách_nhiệm thực_hiện các quy_định về chứng_nhận và công_bố hợp quy các thiết_bị vô_tuyến truyền dữ_liệu băng rộng và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành .
+
+5 . Tổ_chức Thực_hiện
+
+5 . 1 . Cục Viễn_thông và các Sở Thông_tin và Truyền_thông có trách_nhiệm tổ_chức hướng_dẫn triển_khai quản_lí các thiết_bị vô_tuyến truyền dữ_liệu băng rộng theo Quy_chuẩn này .
+
+5 . 2 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới .
+
+Thư_mục_tài_liệu Tham_khảo
+
+[ 1 ] En 301 489-17 V2 . 2 . 1 ( 2012 - 09 ) Electromagnetic compatibility and Radio spectrum Matters ( erm ) ; ElectroMagnetic Compatibility ( emc ) standard for radio equipment and services ; Part 17 : Specific conditions for Broadband Data Transmission_systems .
+
+[ 2 ] En 301 489-1 V1 . 9 . 2 ( 2011 - 09 ) Electromagnetic compatibility and Radio spectrum Matters ( erm ) ; ElectroMagnetic Compatibility ( emc ) standard for radio equipment and services ; Part 1 : Common technical requirements .
+
+[ 3 ] Qcvn 54 : 2011 / bt , Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị thu phát vô_tuyến sử_dụng kĩ_thuật điều_chế trải phổ trong băng tần 2 , 4 GHz .
+
+[ 4 ] Qcvn 65 : 2013 / bt , Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị truy_nhập vô_tuyến băng tần 5 GHz .
+
+[ 5 ] Qcvn 88 : 2015 / bt , Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị truy_nhập vô_tuyến tốc_độ cao băng tần 60 GHz .
+
+[ 6 ] Etsi En 302 544-2: " Broadband Data Transmission Systems operating in the 2500 MHz to 2690 MHz frequency band ; Part 2 : Td User Equipment_stations ; Harmonized En covering the essential requirements of article 3 . 2 of the R & te Directive " .
+
+[ 7 ] Etsi En 302 623 : " Broadband Wireless Access_systems ( bwa ) in the 3 400 MHz to 3 800 MHz frequency band ; Mobile Terminal_stations ; Harmonized En covering the essential requirements of article 3 . 2 of the R & te Directive " .
+
+[ 8 ] Etsi En 301 908-19: " imt cellular networks ; Harmonized En covering the essential requirements of article 3 . 2 of the R & te Directive ; Part 19 : Ofdma Td_wman ( Mobile WiMAX ) Td User_equipment ( ue ) " .
+
+[ 9 ] Etsi En 301 908-21: " imt cellular networks ; Harmonized En covering the essential requirements of article 3 . 2 of the R & te Directive ; Part 21 : Ofdma Td_wman ( Mobile WiMAX ) Fdd User_equipment ( ue ) " .

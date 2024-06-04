@@ -1,0 +1,1241 @@
+Thông_tư số 35/2019/tt-nhnn ngày 31 tháng 12 năm 2019 của ngân_hàng nhà_nước việt_nam
+
+Căn_cứ Luật Ngân_hàng Nhà_nước Việt_nam ngày 16 tháng 6 năm 2010 ;
+
+Căn_cứ Luật Kế_toán ngày 20 tháng 11 năm 2015 ;
+
+Căn_cứ Luật Quản_lý , sử_dụng tài_sản công ngày 21 tháng 6 năm 2017 ;
+
+Căn_cứ Quyết_định số 07/2013/QĐ-TTg ngày 24 tháng 01 năm 2013 của Thủ_tướng Chính_phủ về chế_độ tài_chính của Ngân_hàng Nhà_nước Việt_nam ;
+
+Căn_cứ Quyết_định số 08/2013/QĐ-TTg ngày 24 tháng 01 năm 2013 của Thủ_tướng Chính_phủ về chế_độ kế_toán áp_dụng đối_với Ngân_hàng Nhà_nước Việt_nam ;
+
+Căn_cứ Nghị_định số 16/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Ngân_hàng Nhà_nước Việt_nam ;
+
+Căn_cứ Nghị_định số 151/2017/NĐ-CP ngày 26 tháng 12 năm 2017 của Chính_phủ quy_định chi_tiết một_số điều của Luật Quản_lý , sử_dụng tài_sản công ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Tài_chính - Kế_toán ;
+
+Thống_đốc Ngân_hàng Nhà_nước Việt_nam ban_hành Thông_tư quy_định hạch_toán kế_toán tài_sản cố_định , công_cụ , dụng_cụ và vật_liệu của Ngân_hàng Nhà_nước Việt_nam .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định hạch_toán kế_toán tài_sản cố_định ( tscđ ) , công_cụ , dụng_cụ và vật_liệu tại các đơn_vị thuộc Ngân_hàng Nhà_nước Việt_nam ( sau đây gọi tắt là Nhn ) .
+
+Việc hạch_toán quá_trình hình_thành_tài_sản đối_với công_trình đầu_tư xây_dựng cơ_bản và các dự_án viện_trợ không hoàn lại ( trong quá_trình thực_hiện dự_án ) thuộc hệ_thống Nhn không thuộc phạm_vi điều_chỉnh của Thông_tư này .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Đối_tượng áp_dụng là Vụ Tài_chính - Kế_toán , Cục Quản_trị , Sở Giao_dịch , Cục Công_nghệ thông_tin , Cục Phát_hành và Kho_quỹ , Chi_cục Quản_trị , Chi_cục Công_nghệ thông_tin , Chi_cục Phát_hành và Kho_quỹ , Cơ_quan Thanh_tra , giám_sát ngân_hàng , Ban Quản_lí các dự_án tín_dụng quốc_tế Oda , Nhn chi_nhánh tỉnh , thành_phố trực_thuộc Trung_ương ( sau đây gọi tắt là Nhn chi_nhánh tỉnh , thành_phố ) , các đơn_vị thực_hiện hạch_toán trên hệ_thống tài_khoản kế_toán Nhn ( sau đây gọi chung là các đơn_vị Nhn ) .
+
+Các đơn_vị sự_nghiệp thuộc Nhn không áp_dụng quy_định hạch_toán kế_toán tại Thông_tư này mà chỉ áp_dụng quy_định tại Phụ_lục 02 ban_hành kèm theo Thông_tư này .
+
+Điều 3 . Giải_thích từ_ngữ
+
+1 . Hệ_thống Ngân_hàng lõi , kế_toán , lập ngân_sách và tích_hợp hệ_thống là hệ_thống được tạo_lập để gửi , nhận , lưu_trữ , hiển_thị , thực_hiện các xử_lí nhằm mục_đích quản_lí và hạch_toán kế_toán các nghiệp_vụ kinh_tế , tài_chính của Nhn bao_gồm : phần_mềm Enterprise Resource_planning ( erp ) , phần_mềm Ngân_hàng lõi ( Temenos T24 ) , phần_mềm quản_lí kho_quỹ ( cmo ) , phần_mềm lưu kí chứng_khoán ( csd ) , phần_mềm thị_trường mở ( aom ) ( sau đây gọi tắt là Hệ_thống phần_mềm kế_toán ) .
+
+2 . Phần_mềm Erp là hệ_thống quản_lí và hạch_toán kế_toán các nghiệp_vụ kinh_tế , tài_chính của Nhn , bao_gồm các phân hệ nghiệp_vụ :
+
+- Phân hệ Quản_lí Sổ cái ( General_ledger ) , viết tắt là Gl ;
+
+- Phân hệ Quản_lí Tài_sản ( Fixed_assets ) , viết tắt là Fa ;
+
+- Phân hệ Quản_lí Phải thu , phải trả ( Account_receivable , Account_payable ) viết tắt là Ar , Ap ;
+
+- Phân hệ Công_cụ kế_toán ( Financial Accounting_hub ) , viết tắt là Fah ;
+
+- Phân hệ Quản_lí Ngân_sách ( Budgeting ) , viết tắt là Bg .
+
+3 . Đơn_vị mua_sắm tập_trung là đơn_vị được Thống_đốc Nhn giao nhiệm_vụ thực_hiện mua_sắm tập_trung cho các đơn_vị Nhn .
+
+4 . Đơn_vị có nhu_cầu mua_sắm tài_sản ( tscđ , công_cụ , dụng_cụ ) là các đơn_vị Nhn thực_hiện việc tiếp_nhận tài_sản từ đơn_vị mua_sắm tập_trung .
+
+Điều 4 . Quy_định về tiêu_chuẩn ghi_nhận Tscđ , công_cụ , dụng_cụ , vật_liệu
+
+1 . Tiêu_chuẩn ghi_nhận Tscđ hữu_hình
+
+Tscđ hữu_hình là những tài_sản có hình_thái vật_chất sử_dụng cho hoạt_động của Nhn . Những tài_sản có kết_cấu độc_lập , hoặc là một hệ_thống gồm nhiều bộ_phận tài_sản riêng_lẻ liên_kết với nhau để cùng thực_hiện một hay một_số chức_năng nhất_định mà nếu thiếu bất_kì một bộ_phận nào thì cả hệ_thống không_thể hoạt_động được , là Tscđ nếu thoả_mãn đồng_thời hai tiêu_chuẩn dưới đây :
+
+a ) Có thời_gian sử_dụng từ 01 ( một ) năm trở lên ;
+
+b ) Nguyên giá tài_sản có giá_trị từ 30 . 000 . 000 đồng ( Ba_mươi triệu đồng ) trở lên .
+
+2 . Tiêu_chuẩn ghi_nhận Tscđ vô_hình
+
+Tscđ vô_hình là những tài_sản không có hình_thái vật_chất mà Nhn đã đầu_tư chi_phí tạo_lập tài_sản hoặc được hình_thành qua quá_trình hoạt_động , thoả_mãn đồng_thời cả hai tiêu_chuẩn quy_định tại khoản 1 Điều này , mà không hình_thành Tscđ hữu_hình .
+
+Những khoản chi_phí không đồng_thời thoả_mãn cả hai tiêu_chuẩn nêu tại khoản 1 Điều này thì được hạch_toán trực_tiếp hoặc được phân_bổ dần vào chi_phí của Nhn .
+
+3 . Tiêu_chuẩn ghi_nhận công_cụ , dụng_cụ
+
+Công_cụ , dụng_cụ là những tư_liệu lao_động không đủ tiêu_chuẩn ghi_nhận là Tscđ , tham_gia nhiều lần vào quá_trình hoạt_động của đơn_vị Nhn , được phân_loại theo quy_định tại Quy_chế quản_lí tài_sản của Nhn .
+
+4 . Tiêu_chuẩn ghi_nhận vật_liệu
+
+Vật_liệu là đối_tượng lao_động sử_dụng cho hoạt_động của Nhn , không được phân_loại là công_cụ , dụng_cụ , được phân_loại theo quy_định tại Quy_chế quản_lí tài_sản của Nhn .
+
+Điều 5 . Nguyên_tắc theo_dõi và hạch_toán kế_toán
+
+1 . Nguyên_tắc theo_dõi Tscđ , công_cụ , dụng_cụ và vật_liệu
+
+a ) Mọi tài_sản là Tscđ , công_cụ , dụng_cụ , vật_liệu phải được phản_ánh , theo_dõi đầy_đủ và có hệ_thống trên phân hệ Fa .
+
+b ) Đối_với Tscđ :
+
+( i ) Mỗi Tscđ phải được phân_loại , đánh_số và có thẻ riêng , được theo_dõi chi_tiết theo từng đối_tượng ghi Tscđ . Khi phát_sinh việc nâng_cấp , mở_rộng , sửa_chữa phải thực_hiện theo_dõi theo từng Tscđ .
+
+( ii ) Khi nhập Tscđ , trường_hợp Tscđ là một hệ_thống gồm nhiều bộ_phận tài_sản riêng_lẻ liên_kết với nhau , trong đó mỗi bộ_phận cấu_thành có thời_gian trích khấu_hao khác nhau và nếu thiếu một bộ_phận nào đó mà cả hệ_thống vẫn thực_hiện được chức_năng hoạt_động chính của nó thì đơn_vị Nhn phải phân_loại theo mỗi bộ_phận tài_sản đó , mỗi bộ_phận tài_sản đó nếu cùng thoả_mãn đồng_thời hai tiêu_chuẩn ghi_nhận Tscđ được coi là một Tscđ hữu_hình độc_lập .
+
+( iii ) Mỗi Tscđ phải được theo_dõi theo nguyên giá , giá_trị hao_mòn luỹ kế và giá_trị còn lại trên sổ kế_toán :
+
+( iv ) Đối_với những Tscđ không cần dùng , chờ thanh_lí nhưng chưa hết khấu_hao , đơn_vị Nhn phải thực_hiện theo_dõi , bảo_quản theo quy_định hiện_hành và trích khấu_hao theo quy_định tại Thông_tư này .
+
+c ) Đối_với công_cụ , dụng_cụ :
+
+Tất_cả công_cụ , dụng_cụ phải được theo_dõi chi_tiết theo từng loại , từng đối_tượng sử_dụng . Thời_gian theo_dõi công_cụ , dụng_cụ được bắt_đầu_từ khi mua_sắm cho đến khi thanh_lý , không phân_biệt công_cụ , dụng_cụ đó đã phân_bổ hết giá_trị hay chưa .
+
+d ) Đối_với vật_liệu :
+
+Tất_cả vật_liệu trong kho phải được theo_dõi chi_tiết theo từng loại vật_liệu theo số_lượng , đơn_giá theo từng lần nhập , xuất và số_lượng , thành tiền tồn_kho theo phương_pháp đích_danh .
+
+đ ) Định_kì cuối hàng năm , đơn_vị phải tiến_hành kiểm_kê Tscđ , công_cụ , dụng_cụ và vật_liệu . Trường_hợp phát_hiện thừa , thiếu đều phải lập biên_bản , tìm nguyên_nhân và có biện_pháp xử_lý .
+
+2 . Nguyên_tắc hạch_toán kế_toán
+
+a ) Việc theo_dõi và hạch_toán kế_toán Tscđ , công_cụ , dụng_cụ và vật_liệu tại các đơn_vị Nhn được thực_hiện trên Hệ_thống phần_mềm kế_toán .
+
+b ) Các đơn_vị Nhn thực_hiện hạch_toán kế_toán trên Hệ_thống phần_mềm kế_toán theo sổ_tay hướng_dẫn vận_hành Hệ_thống phần_mềm kế_toán của Nhn .
+
+c ) Các thành_viên tham_gia quy_trình hạch_toán kế_toán Tscđ , công_cụ , dụng_cụ , vật_liệu tại các đơn_vị Nhn phải tuân_thủ quy_định về luân_chuyển , kiểm_soát , đối_chiếu và tập_hợp chứng từ kế_toán trên Hệ_thống phần_mềm kế_toán của Nhn .
+
+Điều 6 . Quy_định về trích khấu_hao Tscđ
+
+1 . Nguyên_tắc trích khấu_hao Tscđ
+
+a ) Tscđ của Nhn được trích khấu_hao theo quy_định của Bộ Tài_chính đối_với các doanh_nghiệp .
+
+b ) Tất_cả Tscđ hiện có đều phải trích khấu_hao , trừ những Tscđ sau đây :
+
+( i ) Tscđ đã khấu_hao hết giá_trị nhưng vẫn đang sử_dụng vào hoạt_động của đơn_vị ;
+
+( ii ) Tscđ khấu_hao chưa hết bị mất ;
+
+( iii ) Tscđ chưa khấu_hao hết giá_trị nhưng đã hỏng không tiếp_tục sử_dụng được ;
+
+( iv ) Tscđ khác do đơn_vị quản_lí mà không thuộc quyền sở_hữu của đơn_vị ( trừ Tscđ thuê tài_chính ) ;
+
+( v ) Tscđ sử_dụng trong các hoạt_động phúc_lợi phục_vụ cán_bộ , công_chức và người lao_động của Nhn ( trừ các Tscđ phục_vụ cho cán_bộ , công_chức và người lao_động làm_việc như : nhà_nghỉ giữa ca , nhà_ăn giữa ca , nhà thay quần_áo , nhà vệ_sinh , nhà để xe , phòng hoặc trạm y_tế để khám chữa bệnh , . . . do Nhn đầu_tư , xây_dựng ) ;
+
+( vi ) Tscđ vô_hình là quyền sử_dụng đất đối_với các trường_hợp phải xác_định giá_trị quyền sử_dụng đất để tính vào giá_trị tài_sản quy_định tại Điều 100 Nghị_định số 151/2017/NĐ-CP ngày 26/12/2017 của Chính_phủ quy_định chi_tiết một_số điều của Luật Quản_lý , sử_dụng tài_sản công ( sau đây gọi tắt là Nghị_định 151/2017/NĐ-CP).
+
+c ) Việc trích hoặc thôi trích khấu_hao Tscđ được thực_hiện từ ngày Tscđ tăng hoặc giảm .
+
+2 . Phương_pháp trích khấu_hao Tscđ
+
+a ) Tscđ của Nhn được trích khấu_hao theo phương_pháp khấu_hao đường_thẳng như sau :
+
+( i ) Xác_định mức trích khấu_hao trung_bình hàng năm của Tscđ bằng cách lấy nguyên giá Tscđ chia cho thời_gian trích khấu_hao tính theo năm của Tscđ ;
+
+( ii ) Mức trích khấu_hao Tscđ hàng tháng được tính là mức trích khấu_hao trung_bình hàng năm chia cho 12 tháng . Mức trích khấu_hao cho tháng cuối_cùng của thời_gian trích khấu_hao Tscđ được xác_định là hiệu_số giữa nguyên giá của Tscđ và số khấu_hao luỹ kế đã thực_hiện đến tháng trước tháng cuối_cùng của thời_gian trích khấu_hao Tscđ đó .
+
+b ) Trường_hợp_thời_gian trích khấu_hao hay nguyên giá của Tscđ thay_đổi , các đơn_vị Nhn phải xác_định lại mức trích khấu_hao trung_bình của Tscđ tại thời_điểm thay_đổi , bằng cách lấy giá_trị còn lại sau khi thay_đổi trên sổ kế_toán chia ( : ) cho thời_gian trích khấu_hao xác_định lại hoặc thời_gian trích khấu_hao còn lại ( được xác_định là chênh_lệch giữa thời_gian trích khấu_hao theo quy_định tại Phụ_lục 01 , Phụ_lục 02 ban_hành kèm theo Thông_tư này hoặc thời_gian trích khấu_hao được đánh_giá lại trừ ( - ) thời_gian đã trích khấu_hao ) của Tscđ .
+
+3 . Xác_định thời_gian trích khấu_hao của Tscđ
+
+a ) Đối_với Tscđ còn mới ( chưa qua sử_dụng ) , đơn_vị Nhn cần căn_cứ vào thời_gian trích khấu_hao Tscđ quy_định tại Phụ_lục 01 , Phụ_lục 02 ban_hành kèm theo Thông_tư này để xác_định thời_gian trích khấu_hao của Tscđ .
+
+b ) Đối_với Tscđ đã qua sử_dụng , thời_gian trích khấu_hao của Tscđ được xác_định như sau :
+
+Trong đó : Giá_trị hợp_lí của Tscđ là giá mua hoặc trao_đổi thực_tế ( trong trường_hợp mua_bán , trao_đổi ) , giá_trị còn lại trên sổ kế_toán của Tscđ ( trong trường_hợp được cấp , được điều_chuyển ) hoặc giá_trị theo đánh_giá của Hội_đồng định_giá ( trong trường_hợp được cho , biếu , tặng ) và các trường_hợp khác .
+
+c ) Đối_với Tscđ vô_hình là quyền tác_giả , quyền sở_hữu trí_tuệ , thì thời_gian trích khấu_hao là thời_hạn bảo_hộ được ghi trên văn_bằng bảo_hộ theo quy_định ( không được tính thời_hạn bảo_hộ được gia_hạn thêm ) .
+
+4 . Thay_đổi nguyên giá Tscđ
+
+a ) Nguyên giá Tscđ được thay_đổi trong các trường_hợp sau :
+
+( i ) Đánh_giá lại giá_trị Tscđ theo quyết_định của cấp có thẩm_quyền ;
+
+( ii ) Thực_hiện nâng_cấp , mở_rộng , sửa_chữa Tscđ theo dự_án được cấp có thẩm_quyền phê_duyệt ;
+
+( iii ) Tháo_dỡ hoặc lắp_đặt thêm một hay một_số bộ_phận Tscđ ;
+
+( iv ) Điều_chỉnh nguyên giá Tscđ vô_hình là giá_trị quyền sử_dụng đất theo quy_định tại tiết ( vi ) điểm b khoản 1 Điều này được thực_hiện theo quy_định tại khoản 1 Điều 103 Nghị_định số 151/2017/NĐ-CP. Việc xác_định giá_trị quyền sử_dụng đất được thực_hiện theo quy_định tại các khoản 1 , 2 và 3 Điều 102 Nghị_định số 151/2017/NĐ-CP cộng ( + ) các khoản thuế ( không bao_gồm các khoản thuế được hoàn lại ) và các khoản phí , lệ_phí theo quy_định của pháp_luật về phí và lệ_phí .
+
+b ) Khi phát_sinh việc thay_đổi nguyên giá Tscđ ( trừ Tscđ là quyền sử_dụng đất quy_định tại tiết ( iv ) điểm a khoản này ) , đơn_vị Nhn thực_hiện lập Biên_bản ghi rõ lí_do thay_đổi nguyên giá ; đồng_thời xác_định lại các chỉ_tiêu nguyên giá , giá_trị còn lại của Tscđ và thực_hiện kế_toán .
+
+Trường_hợp dự_án nâng_cấp , mở_rộng , sửa_chữa Tscđ bao_gồm nhiều hạng_mục , tài_sản ( đối_tượng ghi sổ kế_toán Tscđ ) khác nhau nhưng không quyết_toán riêng cho từng hạng_mục , tài_sản thì thực_hiện phân_bổ giá_trị quyết_toán được cấp có thẩm_quyền phê_duyệt cho từng hạng_mục , tài_sản để ghi sổ kế_toán theo tiêu_chí như diện_tích xây_dựng , số_lượng , giá_trị dự_toán chi_tiết cho việc nâng_cấp , mở_rộng , sửa_chữa của từng tài_sản , hạng_mục .
+
+c ) Khi phát_sinh việc thay_đổi nguyên giá Tscđ là quyền sử_dụng đất , đơn_vị Nhn thực_hiện lập Biên_bản ghi rõ lí_do thay_đổi nguyên giá ; đồng_thời xác_định lại giá_trị quyền sử_dụng đất và thực_hiện kế_toán .
+
+Nguyên giá Tscđ vô_hình là quyền sử_dụng đất đối_với các trường_hợp quy_định tại tiết ( vi ) điểm b khoản 1 Điều này được xác_định lại gồm giá_trị quyền sử_dụng đất xác_định lại cộng ( + ) các khoản thuế ( không bao_gồm các khoản thuế được hoàn lại ) và các khoản phí , lệ_phí theo quy_định của pháp_luật về phí và lệ_phí .
+
+Việc xác_định lại giá_trị quyền sử_dụng đất thực_hiện theo công_thức quy_định tại khoản 1 , khoản 2 Điều 102 Nghị_định số 151/2017/NĐ-CP với các chỉ_tiêu về diện_tích đất , mục_đích sử_dụng đất , giá đất và hệ_số điều_chỉnh giá đất tại thời_điểm xác_định lại giá_trị quyền sử_dụng đất .
+
+5 . Thay_đổi thời_gian trích khấu_hao Tscđ
+
+a ) Trường_hợp có các yếu_tố tác_động ( như việc nâng_cấp hay tháo_dỡ một hay một_số bộ_phận của Tscđ ) nhằm kéo_dài hoặc rút ngắn thời_gian trích khấu_hao đã xác_định trước đó của Tscđ , tại thời_điểm lập kế_hoạch nâng_cấp hay tháo_dỡ một hay một_số bộ_phận của Tscđ , đơn_vị Nhn phải báo_cáo , đề_xuất phương_án , trong đó nêu cụ_thể thời_gian trích khấu_hao thay_đổi , trên cơ_sở giải_trình rõ các nội_dung sau gửi Nhn ( Vụ Tài_chính - Kế_toán ) :
+
+( i ) Tuổi_thọ kĩ_thuật của Tscđ theo thiết_kế ;
+
+( ii ) Hiện_trạng Tscđ ( thời_gian Tscđ đã trích khấu_hao , thế_hệ tài_sản , tình_trạng thực_tế của tài_sản ) ;
+
+( iii ) Ảnh_hưởng của việc tăng , giảm khấu_hao Tscđ .
+
+b ) Thẩm_quyền phê_duyệt phương_án :
+
+Trên_cơ_sở phương_án ( đã có đề_xuất cụ_thể thay_đổi thời_gian trích khấu_hao Tscđ ) của các đơn_vị Nhn , Vụ Tài_chính - Kế_toán xem_xét , phê_duyệt hoặc tổng_hợp , đề_xuất_trình Thống_đốc Nhn phê_duyệt theo thẩm_quyền tại quy_định nội_bộ về quản_lí tài_chính , tài_sản của Nhn .
+
+c ) Việc thay_đổi thời_gian trích khấu_hao của Tscđ bảo_đảm không vượt quá tuổi_thọ kĩ_thuật của Tscđ theo thiết_kế và không làm thay_đổi trọng_yếu đến Báo_cáo thu_nhập , chi_phí của đơn_vị Nhn .
+
+Điều 7 . Báo_cáo kế_toán
+
+1 . Nguyên_tắc lập và gửi các báo_cáo kế_toán về Tscđ , công_cụ , dụng_cụ và vật_liệu
+
+Các đơn_vị Nhn lập và gửi các báo_cáo kế_toán đảm_bảo đầy_đủ , kịp_thời và chính_xác . Các đơn_vị Nhn chịu trách_nhiệm về số_liệu báo_cáo .
+
+2 . Các báo_cáo kế_toán về Tscđ , công_cụ , dụng_cụ và vật_liệu gồm :
+
+- Báo_cáo kiểm_kê Tscđ ( Phụ_lục 24 )
+
+- Báo_cáo kiểm_kê công_cụ , dụng_cụ ( Phụ_lục 25 )
+
+- Báo_cáo kiểm_kê vật_liệu ( Phụ_lục 26 )
+
+- Báo_cáo trích khấu_hao Tscđ ( theo Quý ) ( Phụ_lục 27 )
+
+- Báo_cáo tình_hình tăng , giảm Tscđ ( Phụ_lục 28 )
+
+- Báo_cáo kiểm_kê các loại tài_sản khác đơn_vị đang quản_lí và giữ hộ ( Phụ_lục 29 ) .
+
+Chương_ii
+
+Hạch_toán Kế_toán_tscđ
+
+Điều 8 . Tài_khoản và chứng_từ , sổ kế_toán hạch_toán Tscđ
+
+1 . Tài_khoản kế_toán
+
+Kế_toán Tscđ sử_dụng các tài_khoản chủ_yếu sau :
+
+- Tk 304001 - Tscđ hữu_hình
+
+- Tk 304002 - Tscđ vô_hình
+
+- Tk 30400501 - Hao_mòn Tscđ hữu_hình
+
+- Tk 30400502 - Hao_mòn Tscđ vô_hình
+
+- Tk 313001 - Mua_sắm Tscđ
+
+- Tk 501001 - Vốn được cấp
+
+- Tk 501002 - Vốn đầu_tư xây_dựng cơ_bản và mua_sắm Tscđ
+
+- Tk 501003 - Vốn do đánh_giá lại tài_sản
+
+- Tk 501999 - Vốn khác
+
+- Tk 502002 - Quỹ dự_phòng tài_chính
+
+- Tk 602004 - Thanh_toán liên_chi_nhánh
+
+- Tk 602999 - Thanh_toán khác giữa các đơn_vị Nhn
+
+- Tk 811001 - Khấu_hao cơ_bản Tscđ
+
+- Tk 81100301 - Chi về thanh_lí Tscđ
+
+- Tk 811006 - Chi thuê tài_sản
+
+- Tk 00900199 - Tài_sản khác giữ hộ
+
+- Tk 009002 - Tài_sản thuê ngoài
+
+Nội_dung , tính_chất và kết_cấu của các tài_khoản này thực_hiện theo quy_định cụ_thể trong Hệ_thống tài_khoản kế_toán Nhn .
+
+2 . Chứng_từ , sổ kế_toán
+
+Kế_toán Tscđ sử_dụng các chứng_từ , sổ kế_toán chủ_yếu sau :
+
+- Biên_bản nghiệm_thu và giao_nhận Tscđ ( Phụ_lục 03 )
+
+- Biên_bản thanh_lí Tscđ ( Phụ_lục 04 )
+
+- Biên_bản nghiệm_thu và giao_nhận Tscđ sửa_chữa_lớn hoàn_thành ( Phụ_lục 05 )
+
+- Biên_bản đánh_giá lại Tscđ ( Phụ_lục 06 )
+
+- Biên_bản kiểm_kê Tscđ ( Phụ_lục 07 )
+
+- Thẻ_tscđ ( Phụ_lục 08 )
+
+- Sổ_tscđ ( Phụ_lục 09 )
+
+- Bảng kê trích khấu_hao Tscđ ( Phụ_lục 10 )
+
+- Sổ theo_dõi Tscđ và công_cụ , dụng_cụ tại nơi sử_dụng ( Phụ_lục 11 )
+
+- Phiếu hạch_toán Nợ tài_khoản ngoại bảng ( Phụ_lục 12 )
+
+- Phiếu hạch_toán Có tài_khoản ngoại bảng ( Phụ_lục 13 )
+
+- Bộ hoá_đơn , chứng từ Tscđ của nhà cung_cấp .
+
+Điều 9 . Hạch_toán Tscđ do đơn_vị sử_dụng thực_hiện mua_sắm
+
+1 . Khi thực_hiện mua_sắm
+
+Tại các đơn_vị Nhn có nhu_cầu mua_sắm Tscđ :
+
+a ) Đối_với các đơn_vị Nhn không có quỹ nghiệp_vụ phát_hành , đơn_vị Nhn thực_hiện tạm_ứng tại Sở Giao_dịch hoặc Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị mở tài_khoản thanh_toán theo tiến_độ đã được cấp có thẩm_quyền phê_duyệt .
+
+b ) Trong phạm_vi dự_toán được duyệt , đơn_vị Nhn tiến_hành mua Tscđ . Căn_cứ vào chứng_từ mua_sắm Tscđ hợp_pháp , hợp_lệ , tập_hợp toàn_bộ chi_phí mua_sắm Tscđ và hạch_toán :
+
+Nợ Tk 313001 - Mua_sắm Tscđ
+
+Có Tk thích_hợp ( 10100201 , 102001 , 602004 , 602999 , 413999 , . . . )
+
+2 . Khi Tscđ mua_sắm đã đưa vào sử_dụng được quyết_toán ngay trong năm tài_chính
+
+Căn_cứ hồ_sơ quyết_toán mua_sắm Tscđ đã được cấp có thẩm_quyền phê_duyệt , hạch_toán :
+
+a ) Hạch_toán tập_hợp chi_phí mua_sắm số tiền còn lại chưa thanh_toán cho nhà cung_cấp theo Hợp_đồng :
+
+Nợ Tk 313001 - Mua_sắm Tscđ
+
+Có Tk 413999 - Các khoản phải trả khác
+
+Việc tạm_ứng và thanh_toán với nhà cung_cấp thực_hiện theo quy_định tại Quy_chế quản_lí tài_sản của Nhn .
+
+b ) Hạch_toán nhập Tscđ theo đúng giá_trị quyết_toán được duyệt :
+
+Nợ Tk 304001 - Tscđ hữu_hình
+
+Và / hoặc Nợ Tk 304002 - Tscđ vô_hình
+
+Có Tk 313001 - Mua_sắm Tscđ
+
+Đồng_thời , đơn_vị Nhn hạch_toán trích khấu_hao Tscđ theo quy_định tại khoản 1 Điều 18 Thông_tư này .
+
+3 . Đối_với Tscđ mua_sắm đã đưa vào sử_dụng nhưng chưa được quyết_toán ngay trong năm tài_chính
+
+a ) Hạch_toán tạm nhập Tscđ
+
+Căn_cứ Biên_bản nghiệm_thu và giao_nhận Tscđ cùng chứng_từ có liên_quan để đưa Tscđ vào sử_dụng , hạch_toán :
+
+( i ) Hạch_toán tập_hợp chi_phí mua_sắm số tiền còn lại chưa thanh_toán cho nhà cung_cấp theo Hợp_đồng :
+
+Nợ Tk 313001 - Mua_sắm Tscđ
+
+Có Tk 413999 - Các khoản phải trả khác
+
+( ii ) Hạch_toán tạm nhập Tscđ :
+
+Nợ Tk 304001 - Tscđ hữu_hình
+
+Và / hoặc Nợ Tk 304002 - Tscđ vô_hình
+
+Có Tk 313001 - Mua_sắm Tscđ
+
+Đồng_thời , đơn_vị Nhn hạch_toán trích khấu_hao Tscđ theo quy_định tại khoản 1 Điều 18 Thông_tư này .
+
+b ) Xử_lí sau khi có quyết_toán mua_sắm Tscđ
+
+Việc tạm_ứng và thanh_toán với nhà cung_cấp thực_hiện theo quy_định tại Quy_chế quản_lí tài_sản của Nhn .
+
+Trường_hợp giá_trị duyệt quyết_toán có sự chênh_lệch với giá tạm nhập , đơn_vị Nhn phải thực_hiện điều_chỉnh giá tạm nhập đúng với giá_trị quyết_toán được duyệt :
+
+( i ) Trường_hợp điều_chỉnh giảm nguyên giá , ghi :
+
+Nợ Tk Phải thu thích_hợp ( số phải thu_hồi không được quyết_toán )
+
+Có Tk 304001 - Tscđ hữu_hình
+
+Và / hoặc Có Tk 304002 - Tscđ vô_hình
+
+( ii ) Trường_hợp điều_chỉnh tăng nguyên giá , ghi :
+
+Nợ Tk 304001 - Tscđ hữu_hình
+
+Và / hoặc Nợ Tk 304002 - Tscđ vô_hình
+
+Có Tk thích_hợp ( 10100201 , 102001 , 602004 , 602999 , 413999 , . . . )
+
+Đồng_thời thực_hiện điều_chỉnh lại giá_trị tạm trích khấu_hao theo quy_định tại điểm a khoản 2 Điều 18 Thông_tư này
+
+Điều 10 . Hạch_toán mua_sắm tập_trung Tscđ cho các đơn_vị Nhn
+
+1 . Tại đơn_vị mua_sắm tập_trung
+
+a ) Khi mua_sắm Tscđ
+
+( i ) Đơn_vị mua_sắm Tscđ thực_hiện tạm_ứng tại Sở Giao_dịch hoặc Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị mở tài_khoản thanh_toán theo tiến_độ đã được cấp có thẩm_quyền phê_duyệt .
+
+( ii ) Đơn_vị Nhn mở sổ chi_tiết theo_dõi vốn mua_sắm Tscđ tạm_ứng tại Sở Giao_dịch hoặc Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị mở tài_khoản thanh_toán .
+
+( iii ) Trong phạm_vi dự_toán được duyệt , đơn_vị mua_sắm tập_trung_thực_hiện mua_sắm Tscđ , tập_hợp toàn_bộ chi_phí mua_sắm Tscđ và hạch_toán :
+
+Nợ Tk 313001 - Mua_sắm Tscđ
+
+Có Tk thích_hợp ( 10100201 , 102001 , 602004 , 413999 . . . )
+
+b ) Khi giao Tscđ cho đơn_vị có nhu_cầu mua_sắm
+
+( i ) Trường_hợp đơn_vị mua_sắm tập_trung giao Tscđ cho cán_bộ của đơn_vị mình vận_chuyển và thực_hiện lắp_đặt tại đơn_vị có nhu_cầu mua_sắm tài_sản :
+
+- Căn_cứ Biên_bản nghiệm_thu và giao_nhận Tscđ giữa đơn_vị mua_sắm Tscđ với cán_bộ chịu trách_nhiệm vận_chuyển , lắp_đặt Tscđ , hạch_toán :
+
+Nợ Tk 315999 - Các khoản phải thu nội_bộ khác
+
+( tài_khoản chi_tiết : Tscđ đang vận_chuyển / Cán_bộ vận_chuyển , lắp_đặt )
+
+Có Tk 313001 - Mua_sắm Tscđ
+
+- Khi giao_nhận Tscđ , cán_bộ của đơn_vị mua_sắm tập_trung có trách_nhiệm lập Biên_bản nghiệm_thu và giao_nhận Tscđ với đơn_vị có nhu_cầu mua_sắm tài_sản .
+
+- Khi nhận được Biên_bản nghiệm_thu và giao_nhận Tscđ , hạch_toán :
+
+Nợ Tk 315999 - Các khoản phải thu nội_bộ khác
+
+( tài_khoản chi_tiết : Đơn_vị có nhu_cầu mua_sắm )
+
+Có Tk 315999 - Các khoản phải thu nội_bộ khác
+
+( tài_khoản chi_tiết : Tscđ đang vận_chuyển / Cán_bộ vận_chuyển , lắp_đặt )
+
+( ii ) Trường_hợp đơn_vị mua_sắm tập_trung thoả_thuận với nhà cung_cấp thực_hiện giao trực_tiếp Tscđ cho đơn_vị có nhu_cầu mua_sắm tài_sản :
+
+Căn_cứ Biên_bản nghiệm_thu và giao_nhận Tscđ giữa nhà cung_cấp và đơn_vị có nhu_cầu mua_sắm tài_sản , hạch_toán :
+
+Nợ Tk 315999 - Các khoản phải thu nội_bộ khác
+
+( tài_khoản chi_tiết : Đơn_vị có nhu_cầu mua_sắm )
+
+Có Tk 313001 - Mua_sắm Tscđ
+
+( iii ) Trường họp mua_sắm Tscđ cho chính đơn_vị mua_sắm tập_trung , hạch_toán tạm nhập Tscđ :
+
+Nợ Tk 304001 - Tscđ hữu_hình
+
+Và / hoặc Nợ Tk 304002 - Tscđ vô_hình
+
+Có Tk 313001 - Mua_sắm Tscđ
+
+c ) Khi quyết_toán vốn mua_sắm Tscđ
+
+Căn_cứ Quyết_định phê_duyệt quyết_toán , danh_mục Tscđ mua_sắm tập_trung theo từng đơn_vị có nhu_cầu mua_sắm , đơn_vị mua_sắm tập_trung báo Nợ về đơn_vị có nhu_cầu mua_sắm :
+
+Nợ Tk 602004 - Thanh_toán liên_chi_nhánh
+
+( mã đơn_vị : đơn_vị mua_sắm tập_trung , mã liên_chi_nhánh : đơn_vị có nhu_cầu mua_sắm )
+
+Hoặc Nợ Tk 602999 - Thanh_toán khác giữa các đơn_vị Nhn
+
+( mã đơn_vị : đơn_vị mua_sắm tập_trung , mã liên_chi_nhánh : Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị mua_sắm tập_trung mở tài_khoản )
+
+Có Tk 315999 - Các khoản phải thu nội_bộ khác
+
+( tài_khoản chi_tiết : Đơn_vị có nhu_cầu mua_sắm )
+
+2 . Tại Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị mua_sắm tập_trung mở tài_khoản
+
+Khi nhận được Lệnh chuyển Nợ của đơn_vị mua_sắm tập_trung về giá_trị quyết_toán vốn mua_sắm tập_trung Tscđ , xử_lý :
+
+Nợ Tk 602004 - Thanh_toán liên_chi_nhánh
+
+( mã đơn_vị : Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị mua_sắm tập_trung mở tài_khoản , mã liên_chi_nhánh : đơn_vị có nhu_cầu mua_sắm hoặc Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị có nhu_cầu mua_sắm mở tài_khoản )
+
+Có Tk 602999 - Thanh_toán khác giữa các đơn_vị Nhn
+
+( mã đơn_vị : Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị mua_sắm tập_trung mở tài_khoản , mã liên_chi_nhánh : đơn_vị mua_sắm tập_trung )
+
+3 . Tại Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị có nhu_cầu mua_sắm mở tài_khoản
+
+Khi nhận được Lệnh chuyển Nợ của đơn_vị mua_sắm tập_trung hoặc Nhn nơi đơn_vị mua_sắm tập_trung mở tài_khoản về giá_trị quyết_toán vốn mua_sắm tập_trung Tscđ , xử_lý :
+
+Nợ Tk 602999 - Thanh_toán khác giữa các đơn_vị Nhn
+
+( mã đơn_vị : Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị có nhu_cầu mua_sắm mở tài_khoản , mã liên_chi_nhánh : đơn_vị Nhn có nhu_cầu mua_sắm )
+
+Có Tk 602004 - Thanh_toán liên_chi_nhánh
+
+( mã đơn_vị : Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị có nhu_cầu mua_sắm mở tài_khoản , mã liên_chi_nhánh : đơn_vị mua_sắm tập_trung hoặc Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị mua_sắm tập_trung mở tài_khoản )
+
+4 . Tại đơn_vị có nhu_cầu mua_sắm tài_sản
+
+a ) Căn_cứ Biên_bản nghiệm_thu và giao_nhận Tscđ giữa nhà cung_cấp / đơn_vị mua_sắm tập_trung với đơn_vị có nhu_cầu mua_sắm tài_sản , và chứng_từ , hồ_sơ của tài_sản nhận bàn_giao , hạch_toán tạm nhập Tscđ :
+
+Nợ Tk 304001 - Tscđ hữu_hình
+
+Và / hoặc Nợ Tk 304002 - Tscđ vô_hình
+
+Có Tk 415999 - Các khoản phải trả nội_bộ khác
+
+( tài_khoản chi_tiết : Đơn_vị mua_sắm tập_trung )
+
+b ) Khi chưa được phê_duyệt quyết_toán trong năm tài_chính , đơn_vị Nhn thực_hiện tạm nhập Tscđ , tạm trích khấu_hao ; và thực_hiện điều_chỉnh nguyên giá , giá_trị khấu_hao của Tscđ theo phê_duyệt quyết_toán hướng_dẫn tại khoản 3 Điều 9 Thông_tư này .
+
+c ) Khi nhận được Lệnh chuyển Nợ của đơn_vị mua_sắm tập_trung hoặc Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị mua_sắm tập_trung mở tài_khoản hoặc Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị có nhu_cầu mua_sắm mở tài_khoản về giá_trị quyết_toán vốn mua_sắm tập_trung Tscđ , đối_chiếu khớp đúng với phê_duyệt quyết_toán mua_sắm tập_trung Tscđ và Biên_bản nghiệm_thu và giao_nhận Tscđ , xử_lý :
+
+Nợ Tk 415999 - Các khoản phải trả nội_bộ khác
+
+( tài_khoản chi_tiết : Đơn_vị mua_sắm tập_trung )
+
+Có Tk 602004 - Thanh_toán liên_chi_nhánh
+
+( mã đơn_vị : đơn_vị có nhu_cầu mua_sắm , mã liên_chi_nhánh : đơn_vị mua_sắm tập_trung hoặc Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị mua_sắm tập_trung )
+
+Hoặc Có Tk 602999 - Thanh_toán khác giữa các đơn_vị Nhn
+
+( mã đơn_vị : đơn_vị Nhn có nhu_cầu mua_sắm , mã liên_chi_nhánh : Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị có nhu_cầu mua_sắm mở tài_khoản )
+
+5 . Các khoản phải cấn trừ khi lập Bảng cân_đối kế_toán
+
+Tại thời_điểm cuối quý , cuối năm , trước khi lập báo_cáo tài_chính quý / năm của Nhn , các đơn_vị Nhn thực_hiện rà_soát , đối_chiếu đảm_bảo khớp đúng giữa số_dư Tk 315999 - Các khoản phải thu nội_bộ khác tại đơn_vị mua_sắm tập_trung và Tk 415999 - Các khoản phải trả nội_bộ khác tại đơn_vị có nhu_cầu mua_sắm tài_sản về mua_sắm Tscđ tập_trung theo từng đối_tượng có quan_hệ đối_ứng ; và thực_hiện cấn trừ theo quy_định của Nhn .
+
+Điều 11 . Hạch_toán Tscđ được cấp , biếu , tặng
+
+1 . Tại đơn_vị Nhn được cấp , biếu , tặng Tscđ
+
+Căn_cứ vào hồ_sơ Tscđ , Biên_bản nghiệm_thu và giao_nhận Tscđ , Biên_bản đánh_giá lại Tscđ ( trong trường_hợp Tscđ đã qua sử_dụng ) được cấp , biếu , tặng và Quyết_định tiếp_nhận Tscđ được cấp , biếu , tặng của cấp có thẩm_quyền , đơn_vị Nhn ghi nhập Tscđ và chuyển vốn về Vụ Tài_chính - Kế_toán :
+
+Nợ Tk 304001 - Tscđ hữu_hình
+
+Và / hoặc Nợ Tk 304002 - Tscđ vô_hình
+
+Có Tk 602004 - Thanh_toán liên_chi_nhánh
+
+( mã đơn_vị : đơn_vị Nhn được cấp , biếu , tặng , mã liên_chi_nhánh : Vụ Tài_chính - Kế_toán )
+
+Hoặc Có Tk 602999 - Thanh_toán khác giữa các đơn_vị Nhn
+
+( mã đơn_vị : đơn_vị Nhn được cấp , biếu , tặng , mã liên_chi_nhánh : Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản )
+
+Và gửi 01 bộ chứng_từ về Vụ Tài_chính - Kế_toán làm căn_cứ hạch_toán .
+
+2 . Tại Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản
+
+Trường_hợp nhận được Lệnh chuyển Có của đơn_vị Nhn mở tài_khoản về giá_trị Tscđ được cấp , biếu , tặng , Nhn chi_nhánh tỉnh , thành_phố xử_lí chuyển vốn về Vụ Tài_chính - Kế_toán :
+
+Nợ Tk 602999 - Thanh_toán khác giữa các đơn_vị Nhn
+
+( mã đơn_vị : Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản , mã liên_chi_nhánh : đơn_vị Nhn được cấp , biếu , tặng )
+
+Có Tk 602004 - Thanh_toán liên_chi_nhánh
+
+( mã đơn_vị : Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản , mã liên_chi_nhánh : Vụ Tài_chính - Kế_toán )
+
+3 . Tại Vụ Tài_chính - Kế_toán
+
+Căn_cứ vào chứng_từ của đơn_vị Nhn hoặc Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản chuyển đến đối_chiếu khớp đúng với Quyết_định điều_chuyển Tscđ của Thống_đốc Nhn , xử_lý :
+
+Nợ Tk 602004 - Thanh_toán liên_chi_nhánh
+
+( mã đơn_vị : Vụ Tài_chính - Kế_toán , mã liên_chi_nhánh : đơn_vị Nhn được cấp , biếu , tặng hoặc Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn được cấp , biếu , tặng mở tài_khoản )
+
+Có Tk 501001 - Vốn được cấp ( Trường_hợp Tscđ được Nsn cấp . . . )
+
+Hoặc Có Tk 501002 - vốn đầu_tư xây_dựng cơ_bản và mua_sắm Tscđ
+
+4 . Trường_hợp Nhn trực_tiếp_nhận Tscđ từ tổ_chức cấp , biếu , tặng , sau đó điều_chuyển cho đơn_vị Nhn sử_dụng : Đơn_vị được giao đầu_mối thực_hiện nhận Tscđ ( hạch_toán theo quy_định tại khoản 1 Điều này ) và điều_chuyển Tscđ cho đơn_vị Nhn sử_dụng ( hạch_toán theo quy_định tại khoản 1 Điều 14 Thông_tư này ) .
+
+Điều 12 . Hạch_toán khi phát_hiện thừa , thiếu , mất Tscđ hoặc Tscđ bị huỷ_hoại
+
+1 . Trường_hợp phát_hiện thừa Tscđ
+
+Mọi trường_hợp phát_hiện thừa Tscđ đều phải truy_tìm nguyên_nhân . Căn_cứ Biên_bản kiểm_kê Tscđ và kết_luận của Hội_đồng kiểm_kê để hạch_toán kịp_thời , chính_xác theo từng nguyên_nhân cụ_thể .
+
+a ) Tại đơn_vị Nhn
+
+( i ) Nếu Tscđ phát_hiện thừa do trước đây đơn_vị Nhn chưa hạch_toán nhập Tscđ , Kế_toán phải căn_cứ vào hồ_sơ Tscđ để hạch_toán theo quy_định tại Điều 9 , Điều 10 Thông_tư này . Đồng_thời , căn_cứ vào nguyên giá và tỉ_lệ khấu_hao , đơn_vị Nhn xác_định giá_trị hao_mòn làm căn_cứ tính , trích bổ_sung khấu_hao Tscđ .
+
+( ii ) Nếu Tscđ phát_hiện thừa được xác_định là Tscđ của đơn_vị khác quản_lí thì phải báo ngay cho chủ sở_hữu tài_sản đó biết và chuyển trả Tscđ đó .
+
+Việc chuyển trả Tscđ phải có Biên_bản giao_nhận Tscđ , có xác_nhận của Thủ_trưởng đơn_vị Nhn .
+
+( iii ) Nếu Tscđ phát_hiện thừa không xác_định được chủ sở_hữu tài_sản , đơn_vị Nhn phải có văn_bản báo_cáo về Nhn ( Vụ Tài_chính - Kế_toán ) để xử_lý .
+
+( iv ) Trong thời_gian chờ xử_lí Tscđ phát_hiện thừa , căn_cứ vào tài_liệu kiểm_kê , lập Phiếu hạch_toán Nợ tài_khoản ngoại bảng để theo_dõi Tscđ với giá_trị quy_ước trong hạch_toán tài_sản khác giữ hộ là 1 đồng ( đ ) / TSCĐ :
+
+Nợ Tk 00900199 - Tài_sản khác giữ hộ
+
+( tài_khoản chi_tiết : Tscđ chưa xác_định được chủ sở_hữu tài_sản / theo chủ sở_hữu chưa đến nhận )
+
+b ) Tại Vụ Tài_chính - Kế_toán
+
+Căn_cứ vào từng trường_hợp thừa Tscđ không xác_định được chủ sở_hữu tài_sản tại đơn_vị , Vụ Tài_chính - Kế_toán sẽ có hướng_dẫn xử_lí cụ_thể .
+
+2 . Trường_hợp phát_hiện thiếu , mất Tscđ hoặc Tscđ bị huỷ_hoại
+
+Khi phát_hiện thiếu , mất Tscđ hoặc Tscđ bị huỷ_hoại , đơn_vị Nhn phải xác_định rõ nguyên_nhân , truy_cứu người có trách_nhiệm ( nếu có ) và xử_lí theo quy_định hiện_hành và hạch_toán :
+
+a ) Ghi giảm Tscđ
+
+( i ) Trường_hợp Tscđ chưa hết khấu_hao
+
+Căn_cứ vào Biên_bản xử_lí thiếu , mất Tscđ hoặc Tscđ bị huỷ_hoại và hồ_sơ Tscđ , hạch_toán giảm Tscđ :
+
+( ii ) Trường_hợp Tscđ đã hết khấu_hao
+
+Căn_cứ vào Biên_bản xử_lí thiếu , mất Tscđ hoặc Tscđ bị huỷ_hoại và hồ_sơ Tscđ , hạch_toán giảm Tscđ :
+
+Hội_đồng xử_lí thiếu , mất Tscđ hoặc Tscđ bị huỷ_hoại xác_định nguyên_nhân , quy trách_nhiệm và xác_định số tiền phải bồi_thường trình cấp có thẩm_quyền phê_duyệt theo quy_định hiện_hành về chế_độ tài_chính của Nhn . Trường_hợp khoản bồi_thường của người gây ra và tiền đền_bù của đơn_vị bảo_hiểm không đủ bù_đắp thì đơn_vị Nhn xử_lí theo quy_định hiện_hành của Nhà_nước và Nhn về xử_lí tổn_thất tài_sản .
+
+b ) Khi có Quyết_định xác_định trách_nhiệm bồi_thường và số tiền phải bồi_thường và quyết_định xử_lí tổn_thất ( nếu có ) , hạch_toán :
+
+c ) Hạch_toán số tiền thu phế_liệu ( nếu có ) , chi_phí liên_quan đến xử_lí Tscđ bị huỷ_hoại
+
+d ) Hạch_toán số tiền thu_hồi được từ các khoản bồi_thường của cán_bộ , nhân_viên và đơn_vị bảo_hiểm :
+
+Nợ Tk thích_hợp ( 10100201 , 102001 , . . . )
+
+Có Tk 314999 - Các khoản phải thu khách_hàng khác
+
+( tài_khoản chi_tiết đơn_vị bảo_hiểm Tscđ )
+
+Hoặc Có Tk 315005 - Các khoản phải bồi_thường của cán_bộ , nhân_viên
+
+( tài_khoản chi_tiết theo từng cán_bộ , nhân_viên bồi_thường )
+
+Điều 13 . Hạch_toán đánh_giá lại Tscđ
+
+Việc đánh_giá lại Tscđ chỉ được thực_hiện khi pháp_luật có quy_định đánh_giá lại Tscđ . Căn_cứ vào Quyết_định của cấp có thẩm_quyền về việc đánh_giá lại Tscđ và Biên_bản đánh_giá lại Tscđ , đơn_vị Nhn lập chứng_từ hạch_toán phần giá_trị tăng hoặc giảm do đánh_giá lại , đồng_thời phản_ánh nguyên giá Tscđ , hao_mòn tăng hoặc giảm và giá_trị còn lại sau khi đánh_giá vào Thẻ_tscđ của Tscđ đó :
+
+1 . Hạch_toán đánh_giá tăng nguyên giá Tscđ
+
+a ) Tại đơn_vị Nhn :
+
+Nợ Tk 304001 - Tscđ hữu_hình
+
+Và / hoặc Nợ Tk 304002 - Tscđ vô_hình
+
+Nguyên giá Tscđ tăng thêm
+
+Có Tk 30400501 - Hao_mòn Tscđ hữu_hình
+
+Và / hoặc Có Tk 30400502 - Hao_mòn Tscđ vô_hình
+
+Giá_trị hao_mòn tăng thêm
+
+Có Tk 602004 - Thanh_toán liên_chi_nhánh
+
+( mã đơn_vị : đơn_vị Nhn có Tscđ được đánh_giá tăng , mã liên_chi_nhánh : Vụ Tài_chính - Kế_toán )
+
+Hoặc Có Tk 602999 - Thanh_toán khác giữa các đơn_vị Nhn
+
+( mã đơn_vị : đơn_vị Nhn có Tscđ được đánh_giá tăng , mã liên_chi_nhánh : Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản )
+
+Và gửi 01 bộ chứng_từ về Vụ Tài_chính - Kế_toán làm căn_cứ hạch_toán .
+
+b ) Tại Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản
+
+Khi nhận được bút_toán chuyển vốn của đơn_vị Nhn mở tài_khoản về giá_trị Tscđ được đánh_giá tăng , Nhn chi_nhánh tỉnh , thành_phố xử_lí chuyển vốn về Vụ Tài_chính - Kế_toán :
+
+Nợ Tk 602999 - Thanh_toán khác giữa các đơn_vị Nhn
+
+( mã đơn_vị : Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản , mã liên_chi_nhánh : đơn_vị Nhn có Tscđ được đánh_giá tăng )
+
+Có Tk 602004 - Thanh_toán liên_chi_nhánh
+
+( mã đơn_vị : Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản , mã liên_chi_nhánh : Vụ Tài_chính - Kế_toán )
+
+c ) Tại Vụ Tài_chính - Kế_toán
+
+Khi nhận được chứng từ chuyển Có của đơn_vị Nhn hoặc Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản và Biên_bản đánh_giá lại Tscđ của đơn_vị Nhn được phép đánh_giá tăng nguyên giá Tscđ cùng Quyết_định của cấp có thẩm_quyền về việc đánh_giá lại Tscđ , xử_lý :
+
+Nợ Tk 602004 - Thanh_toán liên_chi_nhánh
+
+( mã đơn_vị : Vụ Tài_chính - Kế_toán , mã liên_chi_nhánh : đơn_vị Nhn có Tscđ được đánh_giá tăng hoặc Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản )
+
+Có Tk 501003 - Vốn do đánh_giá lại tài_sản
+
+2 . Hạch_toán đánh_giá giảm nguyên giá Tscđ
+
+a ) Tại đơn_vị Nhn :
+
+Nợ Tk 602004 - Thanh_toán liên_chi_nhánh
+
+( mã đơn_vị : đơn_vị Nhn có Tscđ được đánh_giá giảm , mã liên_chi_nhánh : Vụ Tài_chính - Kế_toán )
+
+Hoặc Nợ Tk 602999 - Thanh_toán khác giữa các đơn_vị Nhn
+
+( mã đơn_vị : đơn_vị Nhn có Tscđ được đánh_giá giảm , mã liên_chi_nhánh : Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản )
+
+Nợ Tk 30400501 - Hao_mòn Tscđ hữu_hình
+
+Và / hoặc Nợ Tk 30400502 - Hao_mòn Tscđ vô_hình
+
+Giá_trị hao_mòn giảm
+
+Có Tk 304001 - Tscđ hữu_hình
+
+Và / hoặc Có Tk 304002 - Tscđ vô_hình
+
+Nguyên giá Tscđ_giảm
+
+b ) Tại Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản
+
+Khi nhận được bút_toán chuyển vốn của đơn_vị Nhn mở tài_khoản về giá_trị Tscđ được đánh_giá giảm , Nhn chi_nhánh tỉnh , thành_phố xử_lý :
+
+Nợ Tk 602004 - Thanh_toán liên_chi_nhánh
+
+( mã đơn_vị : Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản , mã liên_chi_nhánh : Vụ Tài_chính - Kế_toán )
+
+Có Tk 602999 - Thanh_toán khác giữa các đơn_vị Nhn
+
+( mã đơn_vị : Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản , mã liên_chi_nhánh : đơn_vị Nhn có Tscđ được đánh_giá giảm )
+
+c ) Tại Vụ Tài_chính - Kế_toán
+
+Khi nhận được chứng từ chuyển Nợ của đơn_vị Nhn hoặc Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản chuyển đến và Biên_bản đánh_giá lại Tscđ của đơn_vị Nhn được phép đánh_giá giảm nguyên giá Tscđ cùng Quyết_định của cấp có thẩm_quyền về việc đánh_giá lại Tscđ , xử_lý :
+
+Điều 14 . Hạch_toán điều_chuyển Tscđ
+
+1 . Điều_chuyển Tscđ trong hệ_thống Nhn
+
+a ) Tại đơn_vị điều_chuyển : Căn_cứ vào Quyết_định điều_chuyển Tscđ của Thống_đốc Nhn và hồ_sơ Tscđ cùng Biên_bản nghiệm_thu và giao_nhận Tscđ , hạch_toán :
+
+b ) Tại Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn điều_chuyển mở tài_khoản
+
+Khi nhận được bút_toán điều_chuyển của đơn_vị điều_chuyển Tscđ cho đơn_vị Nhn nhận điều_chuyển , xử_lý :
+
+c ) Tại Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn nhận điều_chuyển Tscđ mở tài_khoản
+
+Khi nhận được bút_toán điều_chuyển của đơn_vị điều_chuyển hoặc Nhn nơi đơn_vị điều_chuyển mở tài_khoản về Tscđ điều_chuyển , xử_lý :
+
+d ) Tại đơn_vị nhận điều_chuyển : Khi nhận được Tscđ kèm bộ hồ_sơ Tscđ từ đơn_vị điều_chuyển , thực_hiện đối_chiếu khớp đúng với Quyết_định điều_chuyển Tscđ của Thống_đốc Nhn , đơn_vị nhận điều_chuyển phải làm đầy_đủ các thủ_tục nhận Tscđ và nhận bút_toán điều_chuyển như sau :
+
+2 . Hạch_toán điều_chuyển Tscđ giữa Nhn với đơn_vị ngoài Nhn
+
+a ) Trường_hợp Nhn là đơn_vị điều_chuyển
+
+( i ) Tại đơn_vị Nhn điều_chuyển Tscđ :
+
+Căn_cứ Quyết_định điều_chuyển Tscđ , đơn_vị Nhn làm thủ_tục bàn_giao Tscđ cùng hồ_sơ Tscđ cho đơn_vị ngoài Nhn . Sau khi hoàn_tất thủ_tục , căn_cứ vào Biên_bản nghiệm_thu và giao_nhận Tscđ , đơn_vị Nhn điều_chuyển , hạch_toán :
+
+Sau khi điều_chuyển Tscđ , đơn_vị Nhn phải ghi vào Thẻ_tscđ của Tscđ được điều_chuyển ( phần ghi giảm Tscđ ) , đồng_thời ghi vào sổ Tscđ .
+
+( ii ) Tại Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn điều_chuyển mở tài_khoản
+
+Khi nhận được bút_toán điều_chuyển Tscđ của đơn_vị Nhn điều_chuyển Tscđ , xử_lý :
+
+( iii ) Tại Vụ Tài_chính - Kế_toán :
+
+Khi nhận chứng_từ cùng Biên_bản nghiệm_thu và giao_nhận Tscđ từ đơn_vị Nhn điều_chuyển Tscđ và bản chụp Quyết_định điều_chuyển Tscđ , xử_lý :
+
+b ) Trường_hợp Nhn là đơn_vị nhận điều_chuyển Tscđ
+
+( i ) Tại đơn_vị nhận điều_chuyển
+
+Khi nhận được Tscđ kèm bộ hồ_sơ Tscđ từ đơn_vị điều_chuyển , đối_chiếu khớp đúng với Quyết_định điều_chuyển Tscđ , đơn_vị nhận điều_chuyển phải làm đầy_đủ các thủ_tục nhận Tscđ và xử_lí hạch_toán nhập Tscđ và thực_hiện chuyển vốn ( giá_trị còn lại của Tscđ nhận điều_chuyển ) về Vụ Tài_chính - Kế_toán :
+
+( ii ) Tại Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn nhận điều_chuyển mở tài_khoản
+
+Khi nhận được bút_toán chuyển vốn ( giá_trị còn lại của Tscđ nhận điều_chuyển ) của đơn_vị nhận điều_chuyển Tscđ , Nhn chi_nhánh tỉnh , thành_phố xử_lý :
+
+( iii ) Tại Vụ Tài_chính - Kế_toán :
+
+Khi nhận chứng_từ cùng Biên_bản nghiệm_thu và giao_nhận Tscđ từ đơn_vị Nhn nhận Tscđ điều_chuyển và bản chụp Quyết_định điều_chuyển Tscđ , xử_lý :
+
+Điều 15 . Hạch_toán Tscđ thuê hoạt_động
+
+1 . Căn_cứ vào văn_bản của cấp có thẩm_quyền phê_duyệt việc thuê hoạt_động Tscđ , các đơn_vị Nhn tiến_hành thuê Tscđ .
+
+2 . Về nguyên_tắc , Tscđ thuê hoạt_động không hạch_toán tăng nguyên giá Tscđ tại đơn_vị Nhn . Chi_phí thuê Tscđ được ghi_nhận vào chi_phí tại đơn_vị Nhn và được phân_bổ theo phương_pháp đường_thẳng trong suốt thời_hạn thuê .
+
+3 . Hạch_toán kế_toán
+
+a ) Hạch_toán giá_trị Tscđ thuê ngoài :
+
+Đơn_vị Nhn chỉ hạch_toán giá_trị Tscđ thuê ngoài đối_với các Tscđ và đơn_vị thuê trực_tiếp_quản_lý , sử_dụng trong thời_gian thuê .
+
+Ngay sau khi nhận được Tscđ thuê ngoài , căn_cứ vào Hợp_đồng thuê Tscđ đã kí_kết , đơn_vị Nhn lập Phiếu hạch_toán Nợ tài_khoản ngoại bảng để hạch_toán giá_trị Tscđ thuê ngoài :
+
+Đồng_thời mở Sổ chi_tiết theo_dõi Tscđ thuê ngoài theo từng tổ_chức , cá_nhân cho thuê và theo từng Tscđ , loại Tscđ .
+
+b ) Hạch_toán chi_trả tiền thuê Tscđ :
+
+( i ) Trường_hợp trả tiền thuê Tscđ theo định_kì tháng , khi trả tiền thuê , hạch_toán :
+
+( ii ) Trường_hợp trả trước tiền thuê Tscđ cho nhiều kỳ , hạch_toán :
+
+Định_kì hàng tháng , phân_bổ dần số tiền thuê của tháng đã trả trước vào chi_phí :
+
+( iii ) Trường họp trả tiền thuê Tscđ sau ( trả tiền sau theo định_kì hoặc trả tiền 1 lần khi kết_thúc Hợp_đồng ) :
+
+Hàng tháng , tính và hạch_toán số tiền thuê Tscđ phải trả vào chi_phí :
+
+Khi chi_trả tiền thuê Tscđ , hạch_toán :
+
+c ) Hạch_toán khi kết_thúc Hợp_đồng thuê Tscđ : Căn_cứ vào Hợp_đồng thuê Tscđ , đơn_vị Nhn lập Phiếu hạch_toán Có tài_khoản ngoại bảng để hạch_toán tất toán giá_trị Tscđ thuê ngoài và xuất Tscđ trả lại bên cho thuê :
+
+Điều 16 . Hạch_toán bán , thanh_lí Tscđ
+
+Căn_cứ vào thông_báo phê_duyệt việc bán , thanh_lí Tscđ tại đơn_vị Nhn của cấp có thẩm_quyền , đơn_vị Nhn tiến_hành bán , thanh_lí Tscđ . Việc hạch_toán cụ_thể như sau :
+
+1 . Đối_với các khoản thu về bán , thanh_lí Tscđ , hạch_toán số tiền thu được từ bán , thanh_lí tài_sản :
+
+Đồng_thời , nộp vào tài_khoản tạm giữ tại Kho_bạc Nhà_nước do Sở Tài_chính làm chủ tài_khoản , hạch_toán :
+
+Nợ Tk 414999 - Các khoản phải trả bên ngoài khác
+
+Có Tk thích_hợp ( 10100201 , 102001 . . . )
+
+2 . Đối_với các khoản chi về bán , thanh_lí Tscđ , đơn_vị Nhn tập_hợp toàn_bộ các khoản chi_phí liên_quan đến bán , thanh_lí tài_sản và hạch_toán :
+
+Có Tk thích_hợp ( 10100201 , 414999 , . . . )
+
+3 . Ghi giảm Tscđ do bán , thanh_lý , hạch_toán :
+
+Sau khi bán , thanh_lí Tscđ , đơn_vị Nhn phải ghi vào Thẻ_tscđ của Tscđ được bán , thanh_lí ( phần ghi giảm Tscđ ) và lưu Thẻ Tscđ vào hồ_sơ , chứng_từ thanh_lí Tscđ ; đồng_thời ghi vào sổ Tscđ .
+
+4 . Hạch_toán chi_phí và số tiền do Sở Tài_chính chuyển về liên_quan đến bán , thanh_lí Tscđ
+
+Căn_cứ hồ_sơ , chứng từ hợp_lệ , hợp_pháp về chi_phí bán , thanh_lí Tscđ trong phạm_vi dự_toán được duyệt , đối_chiếu với số tiền mà chủ tài_khoản tạm giữ chuyển về , hạch_toán :
+
+Điều 17 . Hạch_toán mở_rộng , sửa_chữa , nâng_cấp Tscđ
+
+1 . Hạch_toán sửa_chữa Tscđ
+
+a ) Sửa_chữa thường_xuyên Tscđ :
+
+- Khi phát_sinh các khoản sửa_chữa thường_xuyên Tscđ , đơn_vị Nhn lập đầy_đủ chứng_từ và hạch_toán :
+
+Nợ Tk 315002 - Tạm_ứng sửa_chữa bảo_dưỡng tài_sản
+
+Có Tk thích_hợp ( 10100201 , 102001 , 602004 , . . . )
+
+- Khi sửa_chữa thường_xuyên Tscđ , căn_cứ chứng từ sửa_chữa Tscđ hợp_pháp , hợp_lệ , hạch_toán :
+
+Nợ Tk 811002 - Bảo_dưỡng và sửa_chữa tài_sản
+
+Có Tk 315002 - Tạm_ứng sửa_chữa bảo_dưỡng tài_sản
+
+b ) Sửa_chữa_lớn Tscđ nhằm khôi_phục trạng_thái hoạt_động ban_đầu :
+
+- Khi phát_sinh sửa_chữa_lớn Tscđ , trong phạm_vi dự_toán được duyệt , đơn_vị Nhn tiến_hành sửa_chữa_lớn Tscđ . Căn_cứ vào chứng từ hợp_pháp , hợp_lệ , hạch_toán :
+
+Nợ Tk 31300201 - Sửa_chữa_lớn Tscđ
+
+Có Tk thích_hợp ( 10100201 , 102001 , . . . )
+
+- Khi quyết_toán chi_phí sửa_chữa_lớn Tscđ , đơn_vị Nhn căn_cứ vào Biên_bản nghiệm_thu và giao_nhận Tscđ sửa_chữa_lớn hoàn_thành , văn_bản quyết_toán được cấp có thẩm_quyền phê_duyệt và hồ_sơ tài_liệu liên_quan , hạch_toán :
+
+Nợ Tk 811002 - Bảo_dưỡng và sửa_chữa tài_sản
+
+Có Tk 31300201 - Sửa_chữa_lớn Tscđ
+
+2 . Hạch_toán mở_rộng , sửa_chữa , nâng_cấp Tscđ
+
+Việc hạch_toán mở_rộng , sửa_chữa , nâng_cấp Tscđ ghi tăng nguyên giá của tài_sản nếu sau khi mở_rộng , sửa_chữa , nâng_cấp , Tscđ được cải_thiện trạng_thái hiện_tại so với trạng_thái tiêu_chuẩn ban_đầu , làm tăng thời_gian sử_dụng hữu_ích , hoặc làm giảm chi_phí hoạt_động , tăng công_suất sử_dụng , của Tscđ đó .
+
+a ) Trường_hợp mở_rộng , sửa_chữa , nâng_cấp Tscđ làm tăng nguyên giá Tscđ mà thời_gian trích khấu_hao không thay_đổi
+
+- Hạch_toán tăng nguyên giá tương_tự như mua_sắm Tscđ theo quy_định tại Điều 9 Thông_tư này .
+
+- Đơn_vị Nhn tính_toán lại mức trích khấu_hao hàng tháng theo công_thức sau :
+
+Mức trích khấu_hao Tscđ hàng tháng được tính bằng hiệu_số giữa nguyên giá của Tscđ sau khi nâng_cấp , mở_rộng , sửa_chữa trừ đi giá_trị hao_mòn luỹ kế của Tscđ chia cho thời_gian trích khấu_hao còn lại của Tscđ tính theo tháng .
+
+- Hạch_toán trích khấu_hao Tscđ theo quy_định tại khoản 1 Điều 18 Thông_tư này .
+
+b ) Trường_hợp nâng_cấp , mở_rộng , sửa_chữa Tscđ làm tăng nguyên giá Tscđ và kéo_dài thời_gian trích khấu_hao
+
+- Hạch_toán tăng nguyên giá tương_tự như mua_sắm Tscđ theo quy_định tại Điều 9 Thông_tư này .
+
+- Đơn_vị Nhn tính_toán lại mức trích khấu_hao hàng tháng theo công_thức sau :
+
+Trong đó , thời_gian trích khấu_hao được xác_định lại sau khi nâng_cấp , mở_rộng , sửa_chữa Tscđ được tính trên cơ_sở thời_gian trích khấu_hao còn lại của Tscđ và thời_gian trích khấu_hao tăng thêm của hồ_sơ kĩ_thuật được cấp có thẩm_quyền phê_duyệt .
+
+- Hạch_toán trích khấu_hao Tscđ theo quy_định tại khoản 1 Điều 18 Thông_tư này .
+
+Điều 18 . Hạch_toán trích khấu_hao Tscđ
+
+1 . Hàng tháng , đơn_vị Nhn kiểm_tra , đối_chiếu số_liệu tính_toán khấu_hao trên phân hệ Fa theo mẫu tại Phụ_lục 10 kèm theo Thông_tư này và hạch_toán số khấu_hao phải trích tại đơn_vị trên phân hệ Gl . Việc tính và trích khấu_hao Tscđ được bắt_đầu_từ thời_điểm Tscđ hoàn_thành , bàn_giao đưa vào sử_dụng , không căn_cứ vào thời_điểm hạch_toán nhập Tscđ .
+
+Căn_cứ vào Bảng kê trích khấu_hao Tscđ đã kiểm_tra đảm_bảo chính_xác , lập chứng_từ hạch_toán :
+
+2 . Điều_chỉnh trích thừa hoặc thiếu khấu_hao Tscđ
+
+a ) Điều_chỉnh mức trích khấu_hao sau khi quyết_toán được phê_duyệt
+
+Sau khi điều_chỉnh nguyên giá Tscđ theo giá_trị quyết_toán được phê_duyệt , đơn_vị Nhn thực_hiện tính_toán giá_trị khấu_hao phải trích theo từng Tscđ và hạch_toán điều_chỉnh trong trường_hợp năm phê_duyệt quyết_toán khác năm tài_chính tạm nhập tài_sản :
+
+( i ) Trường_hợp giá_trị khấu_hao phải trích lớn hơn giá_trị khấu_hao đã trích , đơn_vị Nhn hạch_toán chuyển số trích thiếu đó về Nhn ( Vụ Tài_chính - Kế_toán ) để hạch_toán vào tài_khoản Chênh_lệch thu , chi năm trước :
+
+- Tại đơn_vị Nhn : Căn_cứ vào Bảng kê trích khấu_hao Tscđ , tính_toán số khấu_hao phải điều_chỉnh , đơn_vị Nhn lập chứng từ chuyển Nợ hạch_toán :
+
+- Tại Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản :
+
+Khi nhận được chứng từ chuyển Nợ của đơn_vị Nhn , Nhn chi_nhánh tỉnh , thành_phố xử_lý :
+
+- Tại Vụ Tài_chính - Kế_toán : Khi nhận được chứng từ chuyển Nợ của đơn_vị Nhn hoặc Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản , xử_lý :
+
+( ii ) Trường_hợp giá_trị khấu_hao phải trích nhỏ hơn giá_trị khấu_hao đã trích , đơn_vị Nhn hạch_toán giảm_giá_trị khấu_hao đã trích :
+
+- Tại đơn_vị Nhn : Căn_cứ vào Bảng kê trích khấu_hao Tscđ , tính_toán số khấu_hao phải điều_chỉnh , đơn_vị Nhn lập chứng từ chuyển Có hạch_toán :
+
+- Tại Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản :
+
+Khi nhận được chứng từ chuyển Có của đơn_vị Nhn , Nhn chi_nhánh tỉnh , thành_phố xử_lý :
+
+- Tại Vụ Tài_chính - Kế_toán : Khi nhận được chứng từ chuyển Có của đơn_vị Nhn hoặc Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn mở tài_khoản , xử_lý :
+
+b ) Điều_chỉnh mức trích khấu_hao theo kiến_nghị của Kiểm_toán Nhà_nước , Kiểm_toán nội_bộ
+
+Căn_cứ Báo_cáo kiểm_toán , các đơn_vị Nhn thực_hiện kiểm_tra , rà_soát , tính_toán lại số khấu_hao đã trích thừa / thiếu và thực_hiện điều_chỉnh lại số khấu_hao đã trích đối_với từng Tscđ và xử_lí hạch_toán theo hướng_dẫn của Nhn theo từng trường_hợp cụ_thể .
+
+Chương_iii
+
+Hạch_toán Kế_toán Công_cụ , Dụng_cụ Và Vật_liệu
+
+Điều 19 . Tài_khoản và chứng_từ , sổ kế_toán hạch_toán kế_toán công_cụ , dụng_cụ và vật_liệu
+
+1 . Tài_khoản kế_toán
+
+Kế_toán công_cụ , dụng_cụ và vật_liệu sử_dụng các tài_khoản chủ_yếu sau :
+
+- Tk 305 - Tài_sản khác trong kho
+
+( Tài_khoản thích_hợp theo_dõi công_cụ , dụng_cụ , vật_liệu trong kho )
+
+- Tk 314999 - Các khoản phải thu khách_hàng khác
+
+- Tk 315999 - Các khoản phải thu nội_bộ khác
+
+- Tk 81100302 - Chi về thanh_lí tài_sản khác
+
+- Tk 811004 - Chi về mua_sắm công_cụ , dụng_cụ
+
+- Tk 009002 - Tài_sản thuê ngoài , mở tài_khoản chi_tiết : Công_cụ , dụng_cụ thuê ngoài
+
+- Tk 010 - Công_cụ , dụng_cụ đang sử_dụng
+
+Nội_dung , tính_chất và kết_cấu của các tài_khoản này thực_hiện theo quy_định cụ_thể trong Hệ_thống tài_khoản kế_toán Nhn .
+
+2 . Chứng_từ , sổ kế_toán
+
+Kế_toán công_cụ , dụng_cụ và vật_liệu sử_dụng các chứng_từ , sổ kế_toán chủ_yếu sau :
+
+- Sổ theo_dõi Tscđ và công_cụ , dụng_cụ tại nơi sử_dụng ( Phụ_lục 11 )
+
+- Phiếu hạch_toán Nợ tài_khoản ngoại bảng ( Phụ_lục 12 )
+
+- Phiếu hạch_toán Có tài_khoản ngoại bảng ( Phụ_lục 13 )
+
+- Phiếu_nhập kho ( Phụ_lục 14 )
+
+- Phiếu xuất kho ( Phụ_lục 15 )
+
+- Biên_bản kiểm_nhận công_cụ , dụng_cụ , vật_liệu ( Phụ_lục 16 )
+
+- Biên_bản bàn_giao công_cụ , dụng_cụ , vật_liệu ( Phụ_lục 17 )
+
+- Biên_bản kiểm_kê công_cụ , dụng_cụ đang dùng ( Phụ_lục 18 )
+
+- Biên_bản kiểm_kê công_cụ , dụng_cụ trong kho ( Phụ_lục 19a )
+
+- Biên_bản kiểm_kê vật_liệu trong kho ( Phụ_lục 19b )
+
+- Biên_bản thanh_lí công_cụ , dụng_cụ , vật_liệu ( Phụ_lục 20 )
+
+- Sổ kho / Thẻ kho ( Phụ_lục 21 )
+
+- Sổ chi_tiết công_cụ , dụng_cụ trong kho ( Phụ_lục 22a )
+
+- Sổ chi_tiết vật_liệu trong kho ( Phụ_lục 22b )
+
+- Giấy_báo hỏng , mất_công_cụ , dụng_cụ ( Phụ_lục 23 )
+
+- Bộ hoá_đơn , chứng_từ của nhà cung_cấp .
+
+Điều 20 . Hạch_toán mua_sắm tập_trung công_cụ , dụng_cụ
+
+1 . Tại đơn_vị mua_sắm tập_trung
+
+a ) Khi tạm_ứng cho nhà cung_cấp
+
+Trong phạm_vi dự_toán được duyệt , khi tạm_ứng cho nhà cung_cấp theo thoả_thuận trên hợp_đồng mua_sắm công_cụ , dụng_cụ , hạch_toán :
+
+Nợ Tk 314999 - Các khoản phải thu khách_hàng khác
+
+Có Tk thích_hợp ( 10100201 , 102001 , 602004 , 602999 , . . . )
+
+b ) Khi mua_sắm và thực_hiện giao_nhận , lắp_đặt công_cụ , dụng_cụ cho đơn_vị có nhu_cầu mua_sắm hoặc lắp_đặt công_cụ , dụng_cụ cho chính đơn_vị mua_sắm tập_trung , hạch_toán :
+
+Trường_hợp mua_sắm công_cụ , dụng_cụ cho chính đơn_vị mua_sắm tập_trung , đồng_thời , hạch_toán ngoại bảng , theo_dõi công_cụ , dụng_cụ đưa ra sử_dụng :
+
+c ) Khi quyết_toán công_cụ , dụng_cụ mua_sắm tập_trung
+
+Sau khi hoàn_tất việc giao_nhận công_cụ , dụng_cụ cho đơn_vị có nhu_cầu mua_sắm , căn_cứ hồ_sơ quyết_toán đã được phê_duyệt , danh_mục công_cụ , dụng_cụ mua_sắm tập_trung theo đơn_vị có nhu_cầu mua_sắm , Biên_bản nghiệm_thu và giao_nhận công_cụ , dụng_cụ và hồ_sơ tài_liệu liên_quan , hạch_toán :
+
+( i ) Trường_hợp giá_trị được duyệt quyết_toán bằng giá_trị công_cụ , dụng_cụ đã mua_sắm
+
+Đơn_vị mua_sắm tập_trung_thực_hiện chuyển Nợ về các đơn_vị có nhu_cầu mua_sắm theo quy_định tại điểm c khoản 1 Điều 10 Thông_tư này .
+
+( ii ) Trường_hợp giá_trị được duyệt quyết_toán nhỏ hơn giá_trị công_cụ , dụng_cụ đã mua_sắm :
+
+- Điều_chỉnh giá_trị công_cụ , dụng_cụ đã bàn_giao cho các đơn_vị có nhu_cầu mua_sắm hoặc giá_trị công_cụ , dụng_cụ đã lắp_đặt , đưa vào sử_dụng cho chính đơn_vị mua_sắm tập_trung , hạch_toán :
+
+Đồng_thời , thông_báo cho đơn_vị có nhu_cầu mua_sắm công_cụ , dụng_cụ để đơn_vị được mua_sắm điều_chỉnh giá_trị công_cụ , dụng_cụ đang theo_dõi ngoại bảng ; và tìm mọi biện_pháp đôn_đốc thu_hồi số tiền chênh_lệch giữa số được phê_duyệt quyết_toán với số đã thanh_toán ( nếu có ) .
+
+2 . Tại Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị mua_sắm tập_trung mở tài_khoản
+
+Hạch_toán chuyển giá_trị quyết_toán mua_sắm tập_trung công_cụ , dụng_cụ theo quy_định tại khoản 2 Điều 10 Thông_tư này .
+
+3 . Tại Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị có nhu_cầu mua_sắm mở tài_khoản
+
+Hạch_toán chuyển giá_trị quyết_toán mua_sắm tập_trung công_cụ , dụng_cụ theo quy_định tại khoản 3 Điều 10 Thông_tư này .
+
+4 . Tại đơn_vị có nhu_cầu mua_sắm
+
+a ) Khi nhận công_cụ , dụng_cụ từ đơn_vị mua_sắm tập_trung , căn_cứ Biên_bản nghiệm_thu và giao_nhận công_cụ , dụng_cụ , chứng_từ và hồ_sơ có liên_quan , hạch_toán :
+
+Nợ Tk 010 - Công_cụ , dụng_cụ đang sử_dụng
+
+b ) Khi nhận được quyết_toán công_cụ , dụng_cụ
+
+( i ) Khi nhận được thông_báo và hồ_sơ quyết_toán của đơn_vị mua_sắm tập_trung về điều_chỉnh giá_trị công_cụ , dụng_cụ khi quyết_toán , đơn_vị có nhu_cầu mua_sắm điều_chỉnh giảm_giá_trị công_cụ , dụng_cụ đang theo_dõi ngoại bảng , hạch_toán :
+
+Có Tk 010 - Công_cụ , dụng_cụ đang sử_dụng
+
+( ii ) Khi nhận được Lệnh chuyển nợ về giá_trị công_cụ , dụng_cụ mua_sắm tập_trung , xử_lý :
+
+( iii ) Định_kỳ , các đơn_vị thực_hiện phân_bổ chi_phí mua_sắm công_cụ , dụng_cụ theo quy_định của Nhn ( Vụ Tài_chính - Kế_toán ) về tỉ_lệ phân_bổ ( nếu có ) :
+
+Nợ Tk thích_hợp ( 811004 , . . . )
+
+Có Tk 318999 - Chi_phí khác chờ phân_bổ
+
+Điều 21 . Hạch_toán công_cụ , dụng_cụ và vật_liệu do đơn_vị sử_dụng thực_hiện mua_sắm
+
+1 . Khi tạm_ứng tiền mua_sắm công_cụ , dụng_cụ và vật_liệu
+
+Trong phạm_vi dự_toán được duyệt , đơn_vị Nhn tiến_hành mua_sắm công_cụ , dụng_cụ và vật_liệu .
+
+Khi tạm_ứng tiền mua công_cụ , dụng_cụ và vật_liệu , lập chứng_từ hạch_toán :
+
+Nợ Tk thích_hợp ( 315001 , 314999 , . . . )
+
+Có Tk thích_hợp ( 10100201 , 102001 , 602004 , 602999 , . . . )
+
+2 . Khi hoàn_thành việc mua_sắm công_cụ , dụng_cụ và vật_liệu
+
+a ) Đối_với công_cụ , dụng_cụ và vật_liệu mua về nhập kho , chưa đưa ra sử_dụng ngay
+
+Khi nhập kho : Căn_cứ hoá_đơn chứng từ kèm Biên_bản kiểm_nhận công_cụ , dụng_cụ , vật_liệu ( nếu có ) , cán_bộ kế_toán lập phiếu nhập kho và lập chứng_từ tất toán tạm_ứng , hạch_toán :
+
+Đồng_thời ghi vào sổ chi_tiết công_cụ , dụng_cụ trong kho / Sổ chi_tiết vật_liệu trong kho .
+
+b ) Đối_với công_cụ , dụng_cụ , vật_liệu mua về đưa ra sử_dụng ngay
+
+Căn_cứ hoá_đơn , chứng từ kèm Biên_bản bàn_giao công_cụ , dụng_cụ , vật_liệu và Biên_bản kiểm_nhận công_cụ , dụng_cụ , vật_liệu ( nếu có ) , cán_bộ kế_toán lập chứng_từ tất toán tạm_ứng hoặc trả tiền cho người bán , hạch_toán :
+
+Đồng_thời đối_với công_cụ , dụng_cụ đưa ra sử_dụng , ghi vào_sổ theo_dõi Tscđ và công_cụ , dụng_cụ tại nơi sử_dụng và lập Phiếu hạch_toán Nợ tài_khoản ngoại bảng để theo_dõi giá_trị công_cụ , dụng_cụ đưa ra sử_dụng :
+
+Nợ Tk 010 - Công_cụ , dụng_cụ đang sử_dụng
+
+Điều 22 . Hạch_toán xuất kho công_cụ , dụng_cụ và vật_liệu vào sử_dụng
+
+Khi xuất kho công_cụ , dụng_cụ và vật_liệu đưa ra sử_dụng : Căn_cứ đề_nghị trang_bị công_cụ , dụng_cụ và vật_liệu được duyệt , cán_bộ kế_toán lập phiếu xuất kho và ghi Sổ chi_tiết công_cụ , dụng_cụ trong kho / sổ chi_tiết vật_liệu trong kho , hạch_toán :
+
+Đồng_thời đối_với công_cụ , dụng_cụ xuất dùng , căn_cứ Biên_bản bàn_giao công_cụ , dụng_cụ , vật_liệu ghi vào_sổ theo_dõi Tscđ và công_cụ , dụng_cụ tại nơi sử_dụng và lập Phiếu hạch_toán Nợ tài_khoản ngoại bảng để theo_dõi giá_trị công_cụ , dụng_cụ đưa ra sử_dụng :
+
+Nợ Tk 010 - Công_cụ , dụng_cụ đang sử_dụng
+
+Điều 23 . Hạch_toán thanh_lí công_cụ , dụng_cụ và vật_liệu
+
+Căn_cứ vào phê_duyệt thanh_lí công_cụ , dụng_cụ và vật_liệu tại đơn_vị Nhn của cấp có thẩm_quyền , đơn_vị Nhn tiến_hành bán , thanh_lí công_cụ , dụng_cụ và vật_liệu , hạch_toán :
+
+1 . Đối_với các khoản thu về thanh_lí công_cụ , dụng_cụ và vật_liệu , hạch_toán :
+
+a ) Khi thực_hiện thanh_lí công_cụ , dụng_cụ và vật_liệu :
+
+b ) Khi nộp vào tài_khoản tạm giữ tại Kho_bạc Nhà_nước do Sở Tài_chính làm chủ tài_khoản , hạch_toán :
+
+Nợ Tk 414999 - Các khoản phải trả bên ngoài khác
+
+Có Tk thích_hợp ( 10100201 , 102001 , . . . )
+
+2 . Đối_với các khoản chi về thanh_lí công_cụ , dụng_cụ và vật_liệu , trong phạm_vi dự_toán được duyệt , căn_cứ chứng từ chi hợp_lệ , hợp_pháp , hạch_toán :
+
+Nợ Tk 314999 - Các khoản phải thu khách_hàng khác
+
+Có Tk thích_hợp ( 10100201 , 102001 , . . . )
+
+3 . Ghi giảm công_cụ , dụng_cụ , vật_liệu do thanh_lý , hạch_toán :
+
+a ) Trường_hợp thanh_lí đối_với công_cụ , dụng_cụ đang dùng
+
+- Căn_cứ Biên_bản thanh_lí công_cụ , dụng_cụ , vật_liệu và hồ_sơ có liên_quan , lập Phiếu hạch_toán Có tài_khoản ngoại bảng :
+
+Có Tk 010 - Công_cụ , dụng_cụ đang sử_dụng
+
+Đồng_thời không tiếp_tục theo_dõi công_cụ , dụng_cụ đã thanh_lí trên Sổ theo_dõi Tscđ và công_cụ , dụng_cụ tại nơi sử_dụng .
+
+- Đối_với số tiền mua_sắm công_cụ , dụng_cụ đang theo_dõi trên tài_khoản 318999 - Chi_phí khác chờ phân_bổ , hạch_toán :
+
+Nợ Tk 81100302 - Chi về thanh_lí tài_sản khác
+
+Có Tk 318999 - Chi_phí khác chờ phân_bổ
+
+b ) Trường_hợp thanh_lí đối_với công_cụ , dụng_cụ và vật_liệu trong kho
+
+Căn_cứ vào Biên_bản thanh_lí công_cụ , dụng_cụ , vật_liệu , văn_bản bồi_thường của đơn_vị bảo_hiểm ( nếu có ) và hồ_sơ có liên_quan , hạch_toán :
+
+Đồng_thời không tiếp_tục theo_dõi trên sổ chi_tiết công_cụ , dụng_cụ trong kho / Sổ chi_tiết vật_liệu trong kho .
+
+4 . Hạch_toán chi_phí và số tiền do Sở Tài_chính chuyển về liên_quan đến thanh_lí công_cụ , dụng_cụ , vật_liệu
+
+Căn_cứ hồ_sơ , chứng từ hợp_lệ , hợp_pháp về chi_phí thanh_lí công_cụ , dụng_cụ , vật_liệu , trong phạm_vi dự_toán được duyệt , đối_chiếu với số tiền mà chủ tài_khoản tạm giữ chuyển về , hạch_toán :
+
+Điều 24 . Hạch_toán khi phát_hiện thừa , thiếu , mất_công_cụ , dụng_cụ , vật_liệu và công_cụ , dụng_cụ , vật_liệu bị huỷ_hoại
+
+1 . Trường_hợp phát_hiện thừa công_cụ , dụng_cụ , vật_liệu
+
+Mọi trường_hợp phát_hiện thừa công_cụ , dụng_cụ , vật_liệu đều phải truy_tìm nguyên_nhân . Căn_cứ Biên_bản kiểm_kê công_cụ , dụng_cụ , vật_liệu và kết_luận của Hội_đồng kiểm_kê để hạch_toán kịp_thời , chính_xác theo từng nguyên_nhân cụ_thể .
+
+Hạch_toán tương_tự như trường_hợp phát_hiện thừa Tscđ quy_định tại khoản 1 Điều 12 Thông_tư này .
+
+2 . Trường_hợp phát_hiện thiếu , mất_công_cụ , dụng_cụ , vật_liệu và công_cụ , dụng_cụ , vật_liệu bị huỷ_hoại
+
+Khi phát_hiện thiếu , mất_công_cụ , dụng_cụ , vật_liệu và công_cụ , dụng_cụ , vật_liệu bị huỷ_hoại , đơn_vị Nhn phải xác_định rõ nguyên_nhân , truy_cứu người có trách_nhiệm ( nếu có ) và xử_lí theo quy_định hiện_hành về chế_độ tài_chính của Nhn . Trường_hợp khoản bồi_thường của người gây ra và tiền đền_bù của đơn_vị bảo_hiểm không đủ bù_đắp thì đơn_vị Nhn xử_lí theo quy_định hiện bành của Nhà_nước và Nhn về xử_lí tổn_thất tài_sản . Đơn_vị Nhn hạch_toán :
+
+a ) Ghi giảm_giá_trị công_cụ , dụng_cụ , vật_liệu
+
+( i ) Trường_hợp thiếu , mất_công_cụ , dụng_cụ , vật_liệu trong kho hoặc công_cụ , dụng_cụ , vật_liệu trong kho bị huỷ_hoại
+
+Căn_cứ vào Biên_bản xử_lí thiếu , mất_công_cụ , dụng_cụ , vật_liệu trong kho hoặc công_cụ , dụng_cụ , vật_liệu trong kho bị huỷ_hoại , hạch_toán giảm công_cụ , dụng_cụ , vật_liệu :
+
+Nợ Tk 315004 - Tham_ô , thiếu mất tiền , tài_sản chờ xử_lí
+
+Có Tk 305 - Tài_sản khác trong kho
+
+( ii ) Trường_hợp thiếu , mất_công_cụ , dụng_cụ , vật_liệu đang dùng và công_cụ , dụng_cụ , vật_liệu đang dùng bị huỷ_hoại
+
+- Căn_cứ vào Biên_bản xử_lí thiếu , mất_công_cụ , dụng_cụ , vật_liệu và công_cụ , dụng_cụ , vật_liệu bị huỷ_hoại , ghi giảm công_cụ , dụng_cụ :
+
+Có Tk 010 - Công_cụ , dụng_cụ đang sử_dụng
+
+- Đối_với số tiền mua_sắm công_cụ , dụng_cụ đang theo_dõi trên tài_khoản 318999 - Chi_phí khác chờ phân_bổ , hạch_toán :
+
+Nợ Tk 899999 - Các khoản chi khác
+
+Có Tk 318999 - Chi_phí khác chờ phân_bổ
+
+b ) Hạch_toán số tiền thu được , chi_phí liên_quan đến thiếu , mất_công_cụ , dụng_cụ , vật_liệu hoặc xử_lí công_cụ , dụng_cụ , vật_liệu bị huỷ_hoại
+
+( i ) Khi có Quyết_định xác_định trách_nhiệm bồi_thường và số tiền phải bồi_thường và quyết_định xử_lí tổn_thất ( nếu có ) , hạch_toán :
+
+( ii ) Hạch_toán số tiền thu phế_liệu ( nếu có ) , chi_phí liên_quan đến xử_lí công_cụ , dụng_cụ , vật_liệu bị huỷ_hoại :
+
+( iii ) Hạch_toán số tiền thu_hồi được từ các khoản bồi_thường của cán_bộ , nhân_viên và đơn_vị bảo_hiểm :
+
+Điều 25 . Hạch_toán điều_chuyển công_cụ , dụng_cụ
+
+1 . Trường_hợp điều_chuyển công_cụ , dụng_cụ đang dùng
+
+a ) Tại đơn_vị điều_chuyển :
+
+Căn_cứ vào Quyết_định điều_chuyển công_cụ , dụng_cụ của Thống_đốc Nhn và Biên_bản nghiệm_thu và giao_nhận công_cụ , dụng_cụ , lập Phiếu hạch_toán Có tài_khoản ngoại bảng :
+
+Có Tk 010 - Công_cụ , dụng_cụ đang sử_dụng
+
+Đồng_thời không tiếp_tục theo_dõi công_cụ , dụng_cụ đã điều_chuyển trên Sổ theo_dõi Tscđ và công_cụ , dụng_cụ tại nơi sử_dụng .
+
+b ) Tại đơn_vị nhận điều_chuyển :
+
+Căn_cứ vào Quyết_định điều_chuyển công_cụ , dụng_cụ của Thống_đốc Nhn và Biên_bản nghiệm_thu và giao_nhận công_cụ , dụng_cụ , lập Phiếu hạch_toán Nợ tài_khoản ngoại bảng :
+
+Nợ Tk 010 - Công_cụ , dụng_cụ đang sử_dụng
+
+Đồng_thời , theo_dõi công_cụ , dụng_cụ nhận điều_chuyển trên sổ theo_dõi Tscđ và công_cụ , dụng_cụ tại nơi sử_dụng .
+
+2 . Trường_hợp điều_chuyển công_cụ , dụng_cụ trong kho
+
+a ) Tại đơn_vị điều_chuyển : Căn_cứ vào Quyết_định điều_chuyển công_cụ , dụng_cụ của Thống_đốc Nhn và Biên_bản nghiệm_thu và giao_nhận công_cụ , dụng_cụ , lập Lệnh chuyển Nợ gửi đơn_vị nhận điều_chuyển , xử_lý :
+
+b ) Tại Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn điều_chuyển mở tài_khoản
+
+Hạch_toán tương_tự điều_chuyển nguyên giá Tscđ quy_định tại điểm b khoản 1 Điều 14 Thông_tư này .
+
+c ) Tại Nhn chi_nhánh tỉnh , thành_phố nơi đơn_vị Nhn nhận điều_chuyển Tscđ mở tài_khoản
+
+Hạch_toán tương_tự điều_chuyển nguyên giá Tscđ quy_định tại điểm c khoản 1 Điều 14 Thông_tư này .
+
+d ) Tại đơn_vị nhận điều_chuyển : Khi nhận được công_cụ , dụng_cụ từ đơn_vị điều_chuyển , thực_hiện đối_chiếu khớp đúng với Quyết_định điều_chuyển công_cụ , dụng_cụ của Thống_đốc Nhn , đơn_vị nhận điều_chuyển phải làm đầy_đủ các thủ_tục nhận công_cụ , dụng_cụ và xử_lí như sau :
+
+Căn_cứ vào Lệnh chuyển Nợ của đơn_vị điều_chuyển , đơn_vị nhận điều_chuyển đối_chiếu khớp đúng với Biên_bản nghiệm_thu và giao_nhận công_cụ , dụng_cụ và xử_lý :
+
+Điều 26 . Hạch_toán thuê công_cụ , dụng_cụ
+
+Chi_phí thuê công_cụ , dụng_cụ được ghi_nhận vào chi_phí tại đơn_vị và được phân_bổ theo phương_pháp đường_thẳng trong suốt thời_hạn thuê .
+
+1 . Hạch_toán giá_trị công_cụ , dụng_cụ thuê ngoài
+
+Ngay sau khi nhận được công_cụ , dụng_cụ thuê ngoài , căn_cứ Hợp_đồng thuê công_cụ , dụng_cụ đã kí_kết , lập Phiếu hạch_toán Nợ tài_khoản ngoại bảng để hạch_toán giá_trị công_cụ , dụng_cụ thuê ngoài :
+
+Đồng_thời mở Sổ chi_tiết theo_dõi công_cụ , dụng_cụ thuê ngoài theo từng tổ_chức , cá_nhân cho thuê và theo từng loại công_cụ , dụng_cụ .
+
+2 . Hạch_toán chi_trả tiền thuê công_cụ , dụng_cụ
+
+- Trường_hợp trả tiền thuê công_cụ , dụng_cụ theo định_kì tháng : Khi trả tiền thuê , hạch_toán :
+
+- Trường_hợp trả trước tiền thuê công_cụ , dụng_cụ cho nhiều kỳ , hạch_toán :
+
+Định_kì hàng tháng , phân_bổ dần số tiền thuê công_cụ , dụng_cụ đã trả trước vào chi_phí :
+
+- Trường_hợp trả tiền thuê công_cụ , dụng_cụ sau ( trả tiền sau theo định_kì hoặc trả tiền 1 lần khi kết_thúc Hợp_đồng ) :
+
+Hàng tháng , tính và hạch_toán số tiền thuê công_cụ , dụng_cụ phải trả vào chi_phí :
+
+Khi chi_trả tiền thuê công_cụ , dụng_cụ , hạch_toán :
+
+3 . Hạch_toán khi kết_thúc Hợp_đồng thuê công_cụ , dụng_cụ : Căn_cứ vào Hợp_đồng thuê công_cụ , dụng_cụ , lập Phiếu hạch_toán Có tài_khoản ngoại bảng để hạch_toán tất toán giá_trị công_cụ , dụng_cụ thuê ngoài và xuất công_cụ , dụng_cụ trả lại bên cho thuê :
+
+Có Tk 009002 - Tài_sản thuê ngoài
+
+( tài_khoản chi_tiết : Công_cụ , dụng_cụ thuê ngoài )
+
+Điều 27 . Hạch_toán công_cụ , dụng_cụ được cấp , biếu , tặng
+
+Tại đơn_vị Nhn được cấp , biếu , tặng công_cụ , dụng_cụ
+
+Căn_cứ Biên_bản nghiệm_thu và giao_nhận công_cụ , dụng_cụ , Biên_bản đánh_giá lại công_cụ , dụng_cụ được cấp , biếu , tặng và Quyết_định tiếp_nhận công_cụ , dụng_cụ được cấp , biếu , tặng của cấp có thẩm_quyền , đơn_vị Nhn_nhập kho hoặc đưa vào sử_dụng ngay , hạch_toán :
+
+Trường_hợp xuất dùng ngay , đồng_thời , lập Phiếu hạch_toán Nợ tài_khoản ngoại bảng :
+
+Nợ Tk 010 - Công_cụ , dụng_cụ đang sử_dụng
+
+Chương_iv
+
+Trách_nhiệm Thực_hiện Và Điều_khoản Thi_hành
+
+Điều 28 . Trách_nhiệm của các đơn_vị Nhn
+
+1 . Cục Công_nghệ thông_tin tổ_chức nâng_cấp , chỉnh_sửa hệ_thống phần_mềm ngân_hàng lõi , kế_toán , lập ngân_sách đáp_ứng theo quy_định tại Thông_tư này .
+
+2 . Vụ Tài_chính - Kế_toán làm đầu_mối xử_lí các vấn_đề vướng_mắc liên_quan đến việc triển_khai thực_hiện Thông_tư này .
+
+3 . Vụ Kiểm_toán nội_bộ có trách_nhiệm kiểm_tra , giám_sát việc thực_hiện Thông_tư này .
+
+4 . Các đơn_vị Nhn có trách_nhiệm tuân_thủ quy_định tại Thông_tư này và các quy_định pháp_luật có liên_quan .
+
+Điều 29 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 03 năm 2020 .
+
+2 . Quyết_định số 32/2008/QĐ-NHNN ngày 03/12/2008 của Thống_đốc Nhn ban_hành Chế_độ hạch_toán kế_toán tài_sản cố_định , công_cụ , dụng_cụ và vật_liệu của Nhn hết hiệu_lực từ ngày Thông_tư này có hiệu_lực thi_hành .
+
+Điều 30 . Tổ_chức thực_hiện
+
+Chánh Văn_phòng , Vụ_trưởng Vụ Tài_chính - Kế_toán , Thủ_trưởng các đơn_vị liên_quan thuộc Ngân_hàng Nhà_nước , Giám_đốc Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm tổ_chức thực_hiện Thông_tư này . / .
+
+Danh_mục Các Phụ_lục
+
+( kèm theo Thông_tư số 35/2019/TT-NHNN)

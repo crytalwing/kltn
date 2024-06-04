@@ -1,0 +1,189 @@
+Thông_tư số 02/2019/tt-bnv ngày 24 tháng 01 năm 2019 của bộ nội_vụ
+
+Căn_cứ <LT rel="CC"> Luật Lưu_trữ ngày 11 tháng 11 năm 2011 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 34/2017/NĐ-CP ngày 03 tháng 4 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Nội_vụ ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 01/2013/NĐ-CP ngày 03 tháng 01 năm 2013 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Lưu_trữ ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định số 28/2018/QĐ-Ttg ngày 12 tháng 7 năm 2018 </QĐ> của Thủ_tướng Chính_phủ về việc gửi , nhận văn_bản điện_tử giữa các cơ_quan trong hệ_thống hành_chính nhà_nước ;
+
+Theo đề_nghị của Cục_trưởng Cục Văn_thư và Lưu_trữ nhà_nước ;
+
+Bộ_trưởng Bộ Nội_vụ ban_hành Thông_tư quy_định tiêu_chuẩn dữ_liệu thông_tin đầu_vào và yêu_cầu bảo_quản tài_liệu lưu_trữ điện_tử .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định tiêu_chuẩn dữ_liệu thông_tin đầu_vào và yêu_cầu bảo_quản tài_liệu lưu_trữ điện_tử , dữ_liệu đặc_tả của tài_liệu lưu_trữ ( sau đây gọi là cơ_sở dữ_liệu tài_liệu lưu_trữ ) hình_thành trong quá_trình hoạt_động của cơ_quan , tổ_chức .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Thông_tư này áp_dụng đối_với cơ_quan nhà_nước , doanh_nghiệp nhà_nước theo quy_định của <LT rel="DC"> Luật Doanh_nghiệp năm 2014 </LT> ( sau đây gọi chung là cơ_quan , tổ_chức ) .
+
+2 . Khuyến_khích các cơ_quan , tổ_chức không thuộc Khoản 1 Điều này và cá_nhân áp_dụng các quy_định tại Thông_tư này .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Cơ_sở dữ_liệu tài_liệu lưu_trữ là tập_hợp các dữ_liệu bao_gồm tài_liệu lưu_trữ điện_tử và dữ_liệu đặc_tả của tài_liệu lưu_trữ được sắp_xếp thông_qua phương_tiện điện_tử để truy_cập , khai_thác , quản_lí và cập_nhật .
+
+2 . Hệ_thống quản_lí tài_liệu lưu_trữ điện_tử là hệ_thống tin_học_hoá các quy_trình nghiệp_vụ về công_tác lưu_trữ , bao_gồm công_tác thu_thập , bảo_quản và sử_dụng tài_liệu lưu_trữ .
+
+3 . Sự_cố tin_học là hiện_tượng hệ_thống tin_học trong quá_trình hoạt_động xảy ra những trường_hợp bất_thường như : bị hỏng , hoạt_động không bình_thường ; dữ_liệu , phần_mềm bị thay_đổi , sửa , xoá , sao_chép , truy_cập trái_phép bởi phần_mềm bất_hợp_pháp ; có chứa mã độc , có chứa phần_mềm gián_điệp , . . . hoặc người sử_dụng thực_hiện chưa đúng quy_trình .
+
+4 . Phương_tiện lưu_trữ là thiết_bị vật_lí được sử_dụng để lưu_trữ cơ_sở dữ_liệu tài_liệu lưu_trữ , phần_mềm ( gồm ổ_cứng , thẻ_nhớ , băng_từ , đĩa_quang , . . . ) .
+
+5 . Sao lưu là việc tạo ra bản_sao cơ_sở dữ_liệu tài_liệu lưu_trữ , phần_mềm .
+
+6 . Chuyển_đổi phương_tiện lưu_trữ là việc sao lưu cơ_sở dữ_liệu tài_liệu lưu_trữ , phần_mềm từ phương_tiện lưu_trữ này sang phương_tiện lưu_trữ độc_lập khác .
+
+7 . Phương_thức sao lưu gia_tăng là việc sao lưu tất_cả các thông_tin có sự thay_đổi hoặc cập_nhật so với lần sao lưu gần nhất trước đó .
+
+8 . Phương_thức sao lưu đầy_đủ là việc sao lưu tất_cả các thông_tin được chọn , không phụ_thuộc vào thời_điểm lưu_trữ và các lần sao lưu trước đó .
+
+9 . Tài_liệu lưu_trữ số_hoá là tài_liệu điện_tử được tạo_lập từ việc số_hoá đầy_đủ , chính_xác nội_dung của tài_liệu lưu_trữ và được kí số bởi cơ_quan , tổ_chức quản_lí tài_liệu lưu_trữ được số_hoá .
+
+Chương_ii
+
+Tiêu_chuẩn Dữ_liệu Thông_tin Đầu_vào Của Cơ_sở Dữ_liệu Tài_liệu Lưu_trữ
+
+Điều 4 . Nguyên_tắc thiết_kế cấu_trúc dữ_liệu thông_tin đầu_vào
+
+1 . Bảo_đảm thống_nhất với tiêu_chuẩn thông_tin đầu_vào của Hệ_thống quản_lí tài_liệu điện_tử của các cơ_quan , tổ_chức .
+
+2 . Phù_hợp với quy_chuẩn kĩ_thuật quốc_gia về cấu_trúc mã định_danh và định_dạng dữ_liệu gói tin phục_vụ kết_nối các hệ_thống quản_lí văn_bản và điều_hành quy_định tại <TT rel="DC"> Thông_tư số 10/2016/TT-BTTTT ngày 01 tháng 4 năm 2016 </TT> và tiêu_chuẩn kĩ_thuật về ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước quy_định tại <TT rel="DC"> Thông_tư số 39/2017/TT-BTTTT ngày 15 tháng 12 năm 2017 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông .
+
+3 . Bảo_đảm việc trao_đổi dữ_liệu giữa Hệ_thống quản_lí tài_liệu lưu_trữ điện_tử của Lưu_trữ lịch_sử với Hệ_thống quản_lí tài_liệu điện_tử của Lưu_trữ cơ_quan .
+
+Điều 5 . Yêu_cầu biên mục nội_dung dữ_liệu đặc_tả của tài_liệu lưu_trữ
+
+1 . Biên mục nội_dung dữ_liệu đặc_tả phải bảo_đảm cô_đọng , rõ nghĩa đối_với nội_dung tài_liệu cần mô_tả .
+
+2 . Trong trường_hợp thuộc_tính nội_dung có nhiều giá_trị khác nhau , thì phân_biệt các thuộc_tính nội_dung bằng dấu_chấm_phẩy ( ; ) .
+
+3 . Cơ_quan , tổ_chức có trách_nhiệm cập_nhật , bổ_sung khi nội_dung dữ_liệu đặc_tả của tài_liệu lưu_trữ có sự thay_đổi .
+
+Điều 6 . Tiêu_chuẩn dữ_liệu thông_tin đầu_vào của cơ_sở dữ_liệu tài_liệu lưu_trữ
+
+1 . Tài_liệu lưu_trữ điện_tử được số_hoá từ tài_liệu lưu_trữ nền giấy
+
+a ) Định_dạng Portable Document_format ( . pdf ) , phiên_bản 1 . 4 trở lên ;
+
+b ) Ảnh màu ;
+
+c ) Độ phân_giải tối_thiểu : 200 dpi ;
+
+d ) Tỷ_lệ số_hoá : 100 % ;
+
+đ ) Hình_thức chữ_kí số của cơ_quan , tổ_chức quản_lí tài_liệu lưu_trữ số_hoá
+
+- Vị_trí : Góc trên , bên phải , trang đầu tài_liệu ;
+
+- Hình_ảnh : Dấu của cơ_quan , tổ_chức , màu đỏ , kích_thước bằng kích_thước thực_tế của dấu , định_dạng Portable Network_graphics ( . png ) ;
+
+- Thông_tin : Tên cơ_quan , tổ_chức , thời_gian kí ( ngày , tháng , năm ; giờ , phút , giây ; múi_giờ Việt_nam theo Tiêu_chuẩn Iso 8601 ) .
+
+e ) Tên file : gồm mã hồ_sơ và số thứ tự văn_bản trong hồ_sơ , cách nhau bởi dấu_chấm .
+
+2 . Tài_liệu ảnh
+
+a ) Định_dạng : Jpeg ;
+
+b ) Độ phân_giải tối_thiểu : 200 dpi .
+
+3 . Tài_liệu phim_ảnh
+
+a ) Định_dạng : Mpeg - 4 , . avi , . wmv ;
+
+b ) Bit rate tối_thiểu : 1500 kbps .
+
+4 . Tài_liệu âm_thanh
+
+a ) Định_dạng : Mp3 , . wma ;
+
+b ) Bit rate tối_thiểu : 128 kbps .
+
+5 . Dữ_liệu thông_tin đầu_vào của cơ_sở dữ_liệu tài_liệu lưu_trữ hình_thành từ Hệ_thống quản_lí tài_liệu điện_tử của các cơ_quan , tổ_chức nộp lưu vào Lưu_trữ lịch_sử được đóng_gói theo tiêu_chuẩn kĩ_thuật về ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước quy_định tại <TT rel="DC"> Thông_tư số 39/2017/TT-BTTTT ngày 15 tháng 12 năm 2017 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông .
+
+6 . Dữ_liệu đặc_tả của tài_liệu lưu_trữ quy_định tại Phụ_lục I Thông_tư này .
+
+7 . Biên mục , cập_nhật nội_dung dữ_liệu đặc_tả của tài_liệu lưu_trữ quy_định tại Phụ_lục Ii Thông_tư này .
+
+Chương_iii
+
+Bảo_quản_cơ_sở Dữ_liệu Tài_liệu Lưu_trữ
+
+Điều 7 . Nguyên_tắc
+
+1 . Bảo_đảm cơ_sở dữ_liệu tài_liệu lưu_trữ được bảo_quản an_toàn , xác_thực , bảo_mật trên các phương_tiện lưu_trữ .
+
+2 . Bảo_đảm khả_năng truy_cập , quản_lý , tìm_kiếm , cập_nhật cơ_sở dữ_liệu tài_liệu lưu_trữ .
+
+Điều 8 . Yêu_cầu
+
+1 . Không_lưu cơ_sở dữ_liệu tài_liệu lưu_trữ có chứa thông_tin thuộc phạm_vi bí_mật nhà_nước trên các thiết_bị kết_nối với mạng Internet , mạng máy_tính , mạng viễn_thông .
+
+2 . Không chuyển mục_đích sử_dụng các thiết_bị đã lưu cơ_sở dữ_liệu tài_liệu lưu_trữ có chứa thông_tin thuộc phạm_vi bí_mật nhà_nước khi chưa loại_bỏ triệt_để cơ_sở dữ_liệu tài_liệu lưu_trữ .
+
+3 . Cơ_sở dữ_liệu tài_liệu lưu_trữ phải được sao lưu ít_nhất 02 bộ , mỗi bộ trên 01 phương_tiện lưu_trữ độc_lập . Việc sao lưu phải bảo_đảm đầy_đủ , chính_xác , kịp_thời , an_toàn .
+
+4 . Bảo_đảm thống_nhất quy_trình kiểm_tra , sao lưu , phục_hồi dữ_liệu .
+
+5 . Người được giao quản_lí cơ_sở dữ_liệu tài_liệu lưu_trữ của cơ_quan , tổ_chức có trách_nhiệm kiểm_tra , bảo_quản , sao lưu , phục_hồi .
+
+Điều 9 . Kiểm_tra cơ_sở dữ_liệu tài_liệu lưu_trữ
+
+1 . Thời_gian kiểm_tra : Định_kì hàng năm .
+
+2 . Quy_trình kiểm_tra quy_định tại Phụ_lục Iii Thông_tư này .
+
+3 . Biên_bản kiểm_tra quy_định tại Phụ_lục Iv Thông_tư này .
+
+Điều 10 . Sao lưu phần_mềm và cơ_sở dữ_liệu tài_liệu lưu_trữ
+
+1 . Thời_gian và phương_thức sao lưu
+
+a ) Cơ_sở dữ_liệu tài_liệu lưu_trữ phải sao lưu hàng ngày theo phương_thức sao lưu gia_tăng , ngày đầu_tiên hàng tháng phải sao lưu theo phương_thức sao lưu đầy_đủ .
+
+b ) Chuyển_đổi phương_tiện lưu_trữ
+
+Cơ_sở dữ_liệu tài_liệu lưu_trữ , phần_mềm phải chuyển_đổi phương_tiện lưu_trữ 03 năm / 01 lần theo phương_thức sao lưu đầy_đủ ; Dữ_liệu đặc_tả của tài_liệu lưu_trữ được sao lưu và lưu_trữ bằng định_dạng file Xml ( eXtensible Markup_language ) .
+
+2 . Quy_trình sao lưu quy_định tại Phụ_lục V Thông_tư này .
+
+3 . Nhật_kí sao lưu quy_định tại Phụ_lục Vi Thông_tư này .
+
+4 . Biên_bản_sao lưu quy_định tại Phụ_lục Vii Thông_tư này .
+
+Điều 11 . Phục_hồi cơ_sở dữ_liệu tài_liệu lưu_trữ
+
+1 . Quy_trình và nội_dung phục_hồi cơ_sở dữ_liệu tài_liệu lưu_trữ quy_định tại Phụ_lục Viii Thông_tư này .
+
+2 . Biên_bản phục_hồi cơ_sở dữ_liệu tài_liệu lưu_trữ quy_định tại Phụ_lục Ix Thông_tư này .
+
+Điều 12 . Bảo_đảm an_toàn cơ_sở dữ_liệu tài_liệu lưu_trữ
+
+1 . Cơ_sở dữ_liệu tài_liệu lưu_trữ được bảo_đảm an_toàn thông_tin theo cấp_độ được quy_định tại <NĐ rel="DC"> Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 </NĐ> của Chính_phủ và <TT rel="DC"> Thông_tư số 03/2017/TT-BTTTT ngày 24 tháng 4 năm 2017 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông .
+
+2 . Việc tiêu_huỷ thiết_bị , phương_tiện lưu_trữ cơ_sở dữ_liệu tài_liệu lưu_trữ bảo_đảm yêu_cầu bảo_mật thông_tin theo cấp_độ được quy_định .
+
+3 . Không được mang thiết_bị , phương_tiện lưu_trữ cơ_sở dữ_liệu tài_liệu lưu_trữ ra khỏi Lưu_trữ cơ_quan , Lưu_trữ lịch_sử khi chưa được sự đồng_ý của người có thẩm_quyền .
+
+Chương_iv
+
+Điều_khoản Thi_hành
+
+Điều 13 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 10 tháng 3 năm 2019 .
+
+Điều 14 . Tổ_chức thực_hiện
+
+1 . Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương và các cơ_quan , tổ_chức có liên_quan chịu trách_nhiệm thực_hiện Thông_tư này .
+
+2 . Trong quá_trình triển_khai thực_hiện , nếu có vướng_mắc đề_nghị các cơ_quan , tổ_chức , cá_nhân phản_ánh về Bộ Nội_vụ để nghiên_cứu , sửa_đổi , bổ_sung cho phù_hợp . / .

@@ -1,0 +1,723 @@
+Thông_tư số 63/2017/tt-btnmt ngày 22 tháng 12 năm 2017 của bộ tài_nguyên và môi_trường
+
+Căn_cứ Luật biển Việt_nam ngày 21 tháng 6 năm 2012 ;
+
+Căn_cứ Luật tài_nguyên , môi_trường và hải_đảo ngày 25 tháng 6 năm 2015 ;
+
+Căn_cứ Nghị_định số 40/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật tài_nguyên , môi_trường biển và hải_đảo ;
+
+Căn_cứ Nghị_định số 45/2015/NĐ-CP ngày 06 tháng 5 năm 2015 của Chính_phủ về hoạt_động đo_đạc và bản_đồ ;
+
+Căn_cứ Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Tổng_cục_trưởng Tổng_cục Biển và Hải_đảo Việt_nam , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư Quy_định kĩ_thuật đo vẽ bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định các yêu_cầu kĩ_thuật trong đo vẽ trực_tiếp , biên vẽ từ các nguồn tư_liệu đã có ( được cơ_quan nhà_nước có thẩm_quyền công_bố hoặc được cơ_quan có thẩm_quyền xuất_bản ) để phục_vụ_việc thành_lập bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 trên vùng_biển Việt_nam . Độ sâu khu_vực đo vẽ giới_hạn đến 100m nước ( tính theo mặt chuẩn_độ cao trong Hệ toạ_độ Vn - 2000 ) .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với các tổ_chức , cá_nhân có hoạt_động đo vẽ bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ sau đây được hiểu như sau :
+
+1 . Lưới khống_chế cơ_sở là lưới khống_chế toạ_độ , độ cao , được phát_triển từ lưới toạ_độ , độ cao quốc_gia phục_vụ lập lưới khống_chế đo vẽ và lập các trạm tĩnh khi cần_thiết .
+
+2 . Lưới khống_chế đo vẽ là lưới khống_chế toạ_độ , độ cao được phát_triển từ lưới khống_chế cơ_sở , từ cặp điểm kiểm_tra thiết_bị đo biển gần nhất phục_vụ cho đo sâu bằng sào .
+
+3 . Điểm kiểm_tra thiết_bị đo biển là điểm dùng để kiểm_nghiệm các máy , thiết_bị đo biển ở khu_vực đo vẽ . Điểm kiểm_tra thiết_bị đo biển được đo nối toạ_độ , độ cao từ các điểm thuộc lưới toạ_độ , lưới độ cao quốc_gia .
+
+4 . Điểm nghiệm triều là điểm có gắn thước_đo mực nước . Điểm 0 của điểm nghiệm triều được đo nối độ cao từ các điểm kiểm_tra thiết_bị đo biển gần nhất , từ các điểm độ cao nghiệm triều gần nhất hoặc từ các điểm thuộc lưới độ cao quốc_gia gần nhất . Điểm 0 của điểm nghiệm triều là điểm trùng với vạch 0 của thước_đo mực nước .
+
+5 . Điểm độ cao nghiệm triều là điểm được đo nối độ cao từ các điểm độ cao quốc_gia và được sử_dụng làm điểm quá_độ để đo nối thuỷ chuẩn kĩ_thuật vào điểm 0 của điểm nghiệm triều .
+
+6 . Công_nghệ Gns ( Global Navigation Satellite_system ) , công_nghệ Dgns ( Difference Global Navigation Satellite_system ) là các công_nghệ định_vị , dẫn đường bằng hệ_thống vệ_tinh toàn_cầu .
+
+7 . Trạm Dgps ( Difference Global Positioning_system ) : Trạm mặt_đất cố_định nằm trong Hệ_thống định_vị toàn_cầu vi sai .
+
+8 . Sbes ( Single Beam_echo - sounder ) : Máy_đo sâu hồi_âm đơn tia .
+
+9 . Mbes ( Multi Beam_echo - sounder ) : Máy_đo sâu hồi_âm đa tia .
+
+10 . Khu_vực đo sâu bằng máy là khu_vực biển có độ sâu khoảng từ 3m trở lên và sử_dụng các Sbes , Mbes để đo sâu địa_hình đáy biển . Khu_vực đo sâu bằng sào là khu_vực biển có độ sâu < 3m .
+
+11 . Đo sâu địa_hình đáy biển bằng Sbes là đo theo tuyến , trên mỗi tuyến đo chỉ thu được một hàng điểm độ sâu .
+
+12 . Đo sâu địa_hình đáy biển bằng Mbes đo theo dải là tàu chạy theo tuyến và dữ_liệu độ sâu thu được là một dải dữ_liệu độ sâu , độ rộng của dải dữ_liệu độ sâu này tuỳ_thuộc vào khả_năng của từng loại máy đo sâu hồi_âm đa tia và độ sâu trung_bình của tia trung_tâm .
+
+13 . Quét địa_hình đáy biển bằng Mbes là quét kín bề_mặt địa_hình đáy biển .
+
+14 . Công_nghệ Real Time_kinematic ( rtk ) là công_nghệ Gns đo động thời_gian thực : xác_định được cả toạ_độ và độ cao ( hoặc độ sâu ) của điểm cần đo .
+
+15 . Ký_hiệu 1 : 5000 là tập_hợp các kí_hiệu biểu_thị trên bản_đồ địa_hình tỉ_lệ 1 : 5000 và bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 ( ban_hành kèm theo Quyết_định số 1125/ĐĐBĐ ngày 19 tháng 11 năm 1994 của Tổng_cục_trưởng Tổng_cục Địa_chính ) .
+
+16 . Lưu_trữ các số_liệu , dữ_liệu trên Dvd là việc lưu_trữ để phục_vụ công_tác giao_nhận sản_phẩm , các tài_liệu liên_quan đến sản_phẩm giữa đơn_vị thi_công và đơn_vị lưu_trữ theo quy_định .
+
+17 . Tkt - Dt : Thiết_kế kĩ_thuật - Dự_toán .
+
+Điều 4 . Các quy_định kĩ_thuật chung trong đo vẽ , thành_lập bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000
+
+1 . Bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 là bản_đồ địa_hình tỉ_lệ lớn , là phần tiếp nối ( kéo_dài ) của bản_đồ địa_hình tỉ_lệ 1 : 5000 phần đất_liền .
+
+2 . Bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 được thành_lập trong hệ quy chiếu và phép chia mảnh thống_nhất với bản_đồ địa_hình tỉ_lệ 1 : 5000 phần đất_liền .
+
+3 . Bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 thuộc hệ_thống bản_đồ địa_hình quốc_gia , phục_vụ an_ninh , quốc_phòng và công_tác nghiên_cứu biển ; làm cơ_sở dữ_liệu để biên vẽ bản_đồ địa_hình đáy biển các tỉ_lệ nhỏ hơn , xây_dựng hệ_thống thông_tin địa_lý , biên_tập các bản_đồ chuyên_đề .
+
+4 . Bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 được đo vẽ trực_tiếp ở thực_địa hoặc được biên vẽ từ bản_đồ địa_hình đáy biển tỉ_lệ lớn hơn và được thành_lập bằng công_nghệ bản_đồ số .
+
+5 . Bản_đồ gốc số địa_hình đáy biển tỉ_lệ 1 : 5000 được lưu_trữ theo các tệp dữ_liệu , phân_chia theo nhóm , lớp theo quy_định kĩ_thuật hiện_hành . Bản_đồ gốc số được lưu_trữ trên đĩa Dvd .
+
+6 . Mỗi mảnh bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 có một lí_lịch bản_đồ . Lý_lịch bản_đồ được lập dưới dạng số . Tệp lí_lịch bản_đồ được lưu trên đĩa Dvd cùng với bản_đồ gốc số .
+
+7 . Đối_với mảnh bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 có phần đất_liền , phần đảo phải thể_hiện theo nguyên_tắc sau :
+
+a ) Trường_hợp_phần đất_liền , phần đảo đã có bản_đồ xuất_bản ở tỉ_lệ 1 : 5000 thì phần địa_hình đáy biển mới đo vẽ phải được ghép_nối với bản_đồ của phần đất_liền , phần đảo đó ;
+
+b ) Trường_hợp_phần đất_liền , phần đảo không có bản_đồ xuất_bản ở tỉ_lệ 1 : 5000 nhưng có bản_đồ xuất_bản ở tỉ_lệ lớn hơn tỉ_lệ 1 : 5000 thì phải biên vẽ bản_đồ tỉ_lệ lớn hơn đó về tỉ_lệ 1 : 5000 và ghép_nối với phần địa_hình đáy biển mới được đo vẽ ;
+
+c ) Trường_hợp_phần đất_liền , phần đảo chưa có bản_đồ địa_hình tỉ_lệ 1 : 5000 thì phải thực_hiện đo vẽ phần đất_liền và phần đảo đó . Việc đo vẽ phần đất_liền và phần đảo thực_hiện theo quy_định kĩ_thuật hiện_hành trong đo vẽ bản_đồ địa_hình tỉ_lệ 1 : 5000 phần đất_liền ;
+
+d ) Trường_hợp không đo vẽ được phần đất_liền , phần đảo thì được sử_dụng các loại bản_đồ , hải_đồ có tỉ_lệ nhỏ hơn tỉ_lệ 1 : 5000 để biên_tập phần nội_dung địa_hình , địa_vật trên phần đất_liền , trên phần đảo . Trường_hợp này phải được nêu cụ_thể trong Tkt - Dt .
+
+8 . Phần địa_hình đáy biển được đo vẽ trực_tiếp bằng các phương_pháp sau :
+
+a ) Phần địa_hình đáy biển được đo vẽ trực_tiếp ở thực_địa bằng cách sử_dụng các Sbes , Mbes với đầy_đủ các máy phụ_trợ tạo thành hệ_thống_thiết_bị Sbes , Mbes và công_nghệ định_vị , dẫn đường bằng hệ_thống vệ_tinh toàn_cầu ;
+
+b ) Phần diện_tích biển sát bờ , chân đảo , bãi cạn lúc chìm lúc nổi , bãi ngầm không_thể đo vẽ trực_tiếp bằng Sbes , Mbes thì phải đo sâu bằng sào : sử_dụng máy toàn đạc điện_tử , Gns_rtk để đo vẽ chi_tiết địa_hình , địa_vật hoặc sử_dụng thiết_bị Gns để xác_định vị_trí điểm đo sâu và độ sâu được xác_định bằng sào đo sâu .
+
+9 . Biên tự_do của bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 phải đo vẽ chờm ra ngoài khung một dải không nhỏ hơn 1cm trên bản_đồ . Phần đo vẽ chờm ra ngoài khung chỉ thể_hiện trên bản_đồ gốc số mà không_thể_hiện trên bản_đồ khi xuất_bản .
+
+10 . Cơ_sở để thi_công , kiểm_tra , nghiệm_thu việc đo vẽ trực_tiếp , biên vẽ từ các nguồn tư_liệu đã có để phục_vụ_việc thành_lập bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 là các tiêu_chuẩn , quy_chuẩn , quy_định kĩ_thuật và Tkt - Dt đã được cấp có thẩm_quyền phê_duyệt . Trước khi lập Tkt - Dt phải khảo_sát thực_địa , thu_thập tư_liệu , tài_liệu , thông_tin liên_quan .
+
+11 . Các máy_móc , thiết_bị sử_dụng trong đo vẽ bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 phải đáp_ứng yêu_cầu độ chính_xác của bản_đồ và được kiểm_tra , kiểm_nghiệm hoặc kiểm_định theo quy_định hiện_hành . Các tài_liệu kiểm_nghiệm hoặc kiểm_định máy , thiết_bị phải được nộp kèm sản_phẩm .
+
+12 . Khi đo sâu bằng Sbes , chỉ được phép tiến_hành đo sâu khi độ cao của sóng không vượt quá 0 , 3m . Khi độ cao sóng lớn hơn 0 , 3m phải sử_dụng máy cải_chính sóng ( máy cảm_biến sóng ) .
+
+13 . Khi đo sâu bằng Mbes bắt_buộc phải trang_bị máy cải_chính sóng , máy la_bàn và máy đo tốc_độ âm bề_mặt .
+
+Chương_ii
+
+Cơ_sở Toán_học , Độ Chính_xác Và Nội_dung Của Bản_đồ Địa_hình Đáy_biển Tỷ_lệ 1 : 5000
+
+Điều 5 . Cơ_sở toán_học
+
+1 . Bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 được thành_lập trong hệ toạ_độ Vn - 2000 , hệ độ cao quốc_gia , múi chiếu 30 , với kinh_tuyến trục : 1020 , 1050 , 1080 , 1110 , 1140 , 1170 .
+
+2 . Cơ_sở khống_chế mặt_phẳng và độ cao bảo_đảm việc thành_lập bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 bao_gồm lưới toạ_độ quốc_gia hạng I , Ii , Iii và lưới độ cao quốc_gia hạng I , Ii , Iii , Iv .
+
+3 . Trên mảnh bản_đồ gốc số và bản_đồ in trên giấy phải biểu_thị lưới ki_lô mét trong hệ toạ_độ vuông_góc phẳng dạng lưới chữ_thập theo quy_định của Ký_hiệu 1 : 5000 .
+
+4 . Việc chia mảnh , đánh_số phiên_hiệu mảnh bản_đồ thực_hiện theo quy_định tại Thông_tư số 973/2001/TT-TCĐC ngày 20 tháng 6 năm 2001 của Tổng_cục Địa_chính về hướng_dẫn áp_dụng hệ quy chiếu và hệ toạ_độ quốc_gia Vn - 2000 .
+
+5 . Quy_cách trình_bày khung bản_đồ thực_hiện theo mẫu trình_bày khung và nội_dung ngoài khung theo Ký_hiệu 1 : 5000 . Trường_hợp đo vẽ vượt khung phải quy_định cụ_thể trong Tkt - Dt .
+
+6 . Bản_đồ gốc số phải thể_hiện đầy_đủ các nội_dung theo quy_định của Ký_hiệu 1 : 5000 ; phải ghi rõ tài_liệu sử_dụng , phương_pháp thành_lập và tên cơ_quan thành_lập bản_đồ gốc số .
+
+7 . Tên gọi của mảnh bản_đồ được quy_định như sau :
+
+a ) Khi đã có bản_đồ địa_hình tỉ_lệ 1 : 5000 phần đất_liền , phần đảo thì lấy theo tên gọi của bản_đồ địa_hình tỉ_lệ 1 : 5000 đã xuất_bản ;
+
+b ) Khi chưa có bản_đồ địa_hình tỉ_lệ 1 : 5000 phần đất_liền , phần đảo thì ưu_tiên lấy tên điểm dân_cư , tên địa_danh có trên mảnh bản_đồ làm tên của mảnh bản_đồ . Trường_hợp một đảo nằm trên nhiều mảnh bản_đồ thì tên đảo được lấy làm tên của mảnh bản_đồ có phần diện_tích lớn nhất của đảo đó , các mảnh bản_đồ có phần diện_tích của đảo đó nhỏ hơn thì lựa_chọn các tên khác làm tên của mảnh bản_đồ . Trường_hợp mảnh chỉ toàn_diện_tích biển thì chỉ cần ghi phiên_hiệu của mảnh bản_đồ .
+
+8 . Bản_đồ gốc số lưu trong đĩa Dvd ghi đầy_đủ các nội_dung như bản_đồ gốc in trên giấy .
+
+Điều 6 . Độ chính_xác của bản_đồ
+
+1 . Sai_số trung phương độ cao_điểm 0 điểm nghiệm triều so với độ cao_điểm kiểm_tra thiết_bị đo biển gần nhất , điểm độ cao nghiệm triều gần nhất không vượt quá 0 , 10m . Độ cao_điểm 0 của điểm nghiệm triều được đo nối thuỷ chuẩn hình_học với độ chính_xác của thuỷ chuẩn kĩ_thuật từ các điểm kiểm_tra thiết_bị đo biển gần nhất hoặc từ các điểm độ cao nghiệm triều gần nhất .
+
+2 . Sai_số trung phương vị_trí mặt_phẳng của điểm ghi_chú độ sâu , điểm ghi_chú chất đáy so với toạ_độ điểm tại trạm định_vị Dgps ven biển hoặc điểm kiểm_tra thiết_bị đo biển gần nhất không được vượt quá 3m ( tương_ứng 0 , 6mm trên bản_đồ ) .
+
+3 . Sai_số trung phương vị_trí mặt_phẳng khi đo vẽ các địa_vật nổi cố_định trên biển so với điểm kiểm_tra thiết_bị đo biển gần nhất không được vượt quá 3 , 5m ( tương_ứng 0 , 7mm trên bản_đồ ) . Đối_với địa_vật có độ di_động thì sai_số trên được cộng thêm phạm_vi di_động . Đối_với các địa_vật chìm cố_định dưới biển sai_số cho phép là 7 , 5m ( tương_ứng 1 , 5mm trên bản_đồ ) .
+
+4 . Sai_số trung phương độ sâu của điểm ghi_chú độ sâu sau khi đã quy_đổi về hệ độ cao quốc_gia so với độ cao của điểm nghiệm triều gần nhất không vượt quá :
+
+0 , 30m khi độ sâu đến 50m ;
+
+0 , 45m khi độ sâu từ trên 50m đến 100m .
+
+5 . Sai_số trung phương độ sâu đường đẳng sâu so với độ cao của điểm nghiệm triều gần nhất không vượt quá :
+
+0 , 40m khi độ sâu đến 50m ;
+
+0 , 50m khi độ sâu từ trên 50m đến 100m .
+
+6 . Sai_số trung phương độ sâu được xác_định bằng công_thức :
+
+Trong đó :
+
+- Khi sử_dụng Sbes , là số chênh độ sâu tại giao_điểm giữa tuyến đo sâu và tuyến đo sâu kiểm_tra ; độ sâu tại giao_điểm này được nội suy từ 2 điểm độ sâu gần nhất trước và sau giao_điểm trên tuyến đo sâu , tuyến đo sâu kiểm_tra ; n là số_lượng giao_điểm ;
+
+- Khi sử_dụng Mbes , là số chênh độ sâu của điểm nằm trong diện_tích phủ giữa hai dải quét liền kề ; độ sâu của các điểm nằm trong diện_tích phủ được xuất ra theo mắt lưới ô vuông có cạnh dài từ 5-10m ở thực_địa ; n là số_lượng điểm trong mắt lưới ô vuông .
+
+7 . Chênh_lệch độ sâu giữa điểm đo sâu và điểm đo sâu kiểm_tra không vượt quá 1 , 5 lần so với quy_định tại Khoản 4 Điều này và không mang tính hệ_thống .
+
+8 . Giá_trị_số chênh cao giới_hạn của các điểm đo sâu và điểm đo sâu kiểm_tra không vượt quá 02 lần so với quy_định tại Khoản 7 Điều này và tổng_số điểm kiểm_tra có số chênh từ 1 , 7 đến 2 , 0 lần so với quy_định không được vượt quá 10 % tổng_số điểm đo sâu kiểm_tra .
+
+9 . Sai_số tiếp biên phần địa_hình đáy biển trên bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 ( khác khu_vực đo vẽ ) được phép lớn hơn tối_đa là 1 , 3 lần so với các quy_định tiếp biên_bản_đồ địa_hình tỉ_lệ 1 : 5000 phần đất_liền .
+
+10 . Độ chính_xác các yếu_tố địa_hình , địa_vật phần đất_liền hoặc phần đảo của mảnh bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 thực_hiện theo quy_định kĩ_thuật hiện_hành về đo vẽ và thành_lập bản_đồ địa_hình tỉ_lệ 1 : 5000 phần đất_liền .
+
+11 . Các quy_định về số_hoá diện_tích phần đất_liền , phần đảo từ bản_đồ , hải_đồ cũ theo quy_định kĩ_thuật hiện_hành .
+
+12 . Độ chính_xác của biên vẽ diện_tích phần đất_liền , phần đảo , phần biển từ tài_liệu đã có sẵn trên khu_vực cần thành_lập bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 phải đảm_bảo độ chính_xác của bản_đồ địa_hình tỉ_lệ 1 : 5000 .
+
+Điều 7 . Nội_dung của bản_đồ địa_hình đáy biển
+
+1 . Nội_dung bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 đối_với phần trên đất_liền và phần trên đảo tuân_thủ quy_định kĩ_thuật hiện_hành trong đo vẽ và thành_lập bản_đồ địa_hình tỉ_lệ 1 : 5000 phần đất_liền và Ký_hiệu 1 : 5000 . Khoảng cao đều cơ_bản của đường bình độ , số điểm ghi_chú độ cao phần đất_liền , phần đảo lấy theo bản_đồ địa_hình tỉ_lệ 1 : 5000 đã có trên khu_vực đo vẽ . Trường_hợp không có bản_đồ địa_hình tỉ_lệ 1 : 5000 thì phải nêu cụ_thể việc sử_dụng các bản_đồ địa_hình , hải_đồ tỉ_lệ nhỏ hơn hoặc lớn hơn để biên_tập nội_dung địa_hình , địa_vật phần diện_tích trên phần đất_liền , trên phần đảo trong Tkt - Dt .
+
+2 . Nội_dung bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 đối_với phần biển bao_gồm các yếu_tố sau :
+
+a ) Địa_hình đáy biển ;
+
+b ) Chất đáy ;
+
+c ) Đường bờ và đường mép nước ; đường triều_cường , triều_kiệt ( nếu có ) ;
+
+d ) Các loại bãi cạn lúc chìm lúc nổi , bãi ngầm ;
+
+đ ) Các địa_vật , công_trình nhân_tạo trên biển ;
+
+e ) Các địa_vật , công_trình nhân_tạo tại đáy biển ;
+
+g ) Các địa_vật tự_nhiên tại đáy biển ;
+
+h ) Các yếu_tố hàng_hải , hải_văn ;
+
+i ) Các vùng nguy_hiểm hàng_hải , vùng cấm ;
+
+k ) Thực_vật ;
+
+l ) Ghi_chú địa_danh và các ghi_chú cần_thiết khác ;
+
+m ) Các đường phân_chia trên biển ;
+
+n ) Các điểm kiểm_tra thiết_bị đo biển ;
+
+o ) Khung và ghi_chú ngoài khung .
+
+3 . Các yếu_tố nội_dung khác ( nếu có ) trên phần biển được thể_hiện trên bản_đồ bằng kí_hiệu tương_ứng và phải được nêu cụ_thể trong Tkt - Dt theo những nguyên_tắc sau :
+
+a ) Các địa_vật có kích_thước thể_hiện được theo tỉ_lệ bản_đồ và các địa_vật hình tuyến có độ rộng từ 3m trở lên ( ở thực_địa ) phải vẽ theo tỉ_lệ bản_đồ ; trường_hợp địa_vật có kí_hiệu qui_ước nếu kích_thước địa_vật vẽ theo tỉ_lệ bản_đồ có diện_tích lớn hơn diện_tích của kí_hiệu qui_ước trên bản_đồ từ 2 , 0 lần trở lên thì phải vẽ thêm kí_hiệu qui_ước vào bên trong kích_thước của địa_vật đó , tâm của kí_hiệu qui_ước phải trùng với tâm của địa_vật ;
+
+b ) Các địa_vật có kích_thước không_thể_hiện được theo tỉ_lệ bản_đồ hoặc có diện_tích vẽ theo tỉ_lệ bản_đồ nhỏ hơn 2 , 0 lần diện_tích của kí_hiệu qui_ước trên bản_đồ thì chỉ dùng kí_hiệu qui_ước để thể_hiện , tâm của kí_hiệu qui_ước phải trùng với tâm của địa_vật . Các địa_vật hình tuyến có độ rộng nhỏ hơn 2 , 5m thể_hiện trên bản_đồ bằng kí_hiệu vẽ theo nửa tỉ_lệ , trục của kí_hiệu hình tuyến phải trùng với trục của địa_vật hình tuyến đó ;
+
+c ) Các địa_vật có kích_thước vẽ được theo tỉ_lệ bản_đồ nhưng không có kí_hiệu qui_ước thì thể_hiện đồ hình bằng kí_hiệu tương_ứng và dùng ghi_chú để thể_hiện loại địa_vật và tên_riêng của địa_vật đó ( nếu có ) ;
+
+d ) Các yếu_tố nội_dung bản_đồ có diện_tích lớn thì thể_hiện bằng chấm ranh_giới theo diện_tích_phân_bố trên thực_tế kèm theo kí_hiệu qui_ước và ghi_chú ngoài khung bản_đồ . Nếu các yếu_tố nội_dung khác cần biểu_thị trên bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 mà chưa có trong Ký_hiệu 1 : 5000 , thì sử_dụng các kí_hiệu được bổ_sung theo quy_định tại Phụ_lục 1 ban_hành kèm theo Thông_tư này .
+
+Điều 8 . Mức_độ thể_hiện địa_hình đáy biển
+
+1 . Khoảng sâu đều cơ_bản của đường đẳng sâu :
+
+a ) Vùng_biển có độ dốc < 20 , khoảng sâu đều là 0 , 5m ;
+
+b ) Vùng_biển có độ dốc từ 20 đến 60 , khoảng sâu đều là 1 , 0m ;
+
+c ) Vùng_biển có độ dốc trên 60 , khoảng sâu đều là 2 , 5m ;
+
+d ) Trên một khu_vực đo vẽ chỉ thể_hiện địa_hình đáy biển bằng một khoảng sâu đều cơ_bản . Trường_hợp đặc_biệt được phép sử_dụng hai khoảng sâu đều cơ_bản , song phải được quy_định cụ_thể trong Tkt - Dt .
+
+2 . Khi các đường đẳng sâu cơ_bản chưa mô_tả hết được đặc_trưng của địa_hình đáy biển , hoặc khi khoảng_cách giữa hai đường đẳng sâu cơ_bản lớn hơn 5cm trên bản_đồ thì phải thể_hiện đường đẳng sâu nửa khoảng sâu đều cơ_bản .
+
+3 . Địa_hình đáy biển được thể_hiện bằng các đường đẳng sâu và các điểm ghi_chú độ sâu . Mật_độ điểm ghi_chú độ sâu trung_bình từ 20 điểm đến 25 điểm trên 1dm2 bản_đồ . Đối_với vùng địa_hình đáy biển bằng_phẳng thì mật_độ điểm ghi_chú độ sâu không ít hơn 25 điểm trên 1dm2 bản_đồ và phải phân_bố đều . Ở những nơi địa_hình phức_tạp , đường đẳng sâu không_thể_hiện rõ được địa_hình có_thể tăng mật_độ điểm ghi_chú độ sâu lên từ 1 , 3 đến 1 , 5 lần nhưng phải đảm_bảo cho việc nhận_biết địa_hình được dễ_dàng và phù_hợp với việc thể_hiện đường đẳng sâu trên bản_đồ .
+
+4 . Điểm ghi_chú độ sâu thể_hiện trên bản_đồ ghi_chú đến 0 , 1m .
+
+5 . Đối_với các bãi đá , bãi san_hô lớn , các thảm thực_vật mà địa_hình quá phức_tạp , không có khả_năng đo vẽ trực_tiếp để thể_hiện dáng địa_hình thì các đường đẳng sâu được phép dừng tại ranh_giới bãi , ranh_giới thảm thực_vật .
+
+6 . Đối_với khu_vực có địa_hình thay_đổi đột_ngột , có độ dốc lớn không_thể_hiện được bằng đường đẳng sâu thì dùng kí_hiệu để thể_hiện , các đường đẳng sâu được phép dừng tại vị_trí kí_hiệu đó .
+
+7 . Trên mỗi mảnh bản_đồ phải thể_hiện vị_trí sâu nhất đo được trên diện_tích phần biển của mảnh bản_đồ đó .
+
+Chương_iii
+
+Lưới Khống_chế Cơ_sở Và Lưới Khống_chế Đo_vẽ
+
+Điều 9 . Lưới khống_chế cơ_sở
+
+1 . Lưới khống_chế cơ_sở trong đo vẽ bản_đồ địa_hình đáy biển bao_gồm các điểm khống_chế để phát_triển lưới khống_chế đo vẽ phục_vụ đo sâu bằng sào và trạm tĩnh ( trạm gốc , trạm Base ) khi sử_dụng công_nghệ Rtk .
+
+2 . Mật_độ điểm khống_chế cơ_sở phụ_thuộc vào diện_tích cần đo sâu bằng sào và mức_độ che_khuất của thực_phủ , mức_độ xây_dựng của khu_vực lân_cận . Trong mọi trường_hợp , mật_độ điểm khống_chế cơ_sở phải đảm_bảo từ 3km2 đến 5km2 có một điểm . Khi sử_dụng công_nghệ Rtk để đo sâu bằng máy đo sâu hồi_âm thì khoảng_cách từ trạm tĩnh đến điểm đo không vượt quá 10km .
+
+3 . Các điểm khống_chế cơ_sở được chọn ở vị_trí có nền đất ổn_định , được đóng cọc ( có đinh mũ ) hoặc đánh_dấu trên các vật kiến_trúc ở thực_địa và phải tồn_tại trong suốt quá_trình thi_công , kiểm_tra , nghiệm_thu các cấp . Quy_định về đánh_số_hiệu điểm , tên điểm phải được trình_bày cụ_thể trong Tkt - Dt .
+
+4 . Các quy_định về xây_dựng lưới khống_chế cơ_sở , phương_pháp bố_trí lưới khống_chế cơ_sở , các quy_định về đo và tính_toán bình_sai , các mẫu sổ đo tuân theo quy_định kĩ_thuật hiện_hành .
+
+5 . Tất_cả các tệp số_liệu đo , sổ đo , sơ_đồ đo nối , kết_quả tính_toán bình_sai liên_quan đến lưới khống_chế cơ_sở phải được nộp kèm thành_quả .
+
+Điều 10 . Lưới khống_chế đo vẽ
+
+1 . Lưới khống_chế đo vẽ được thành_lập nhằm tăng dày điểm khống_chế phục_vụ cho việc đo vẽ địa_hình , địa_vật ở khu_vực đo sâu bằng sào . Lưới khống_chế đo vẽ chỉ xây_dựng 1 cấp .
+
+2 . Các điểm thuộc lưới khống_chế đo vẽ được chọn ở vị_trí có nền đất ổn_định , được đóng cọc ( có đinh mũ ) ở thực_địa và phải tồn_tại trong suốt quá_trình thi_công , kiểm_tra , nghiệm_thu các cấp . Quy_định về đánh_số_hiệu điểm , tên điểm phải được trình_bày cụ_thể trong Tkt - Dt .
+
+3 . Các quy_định về xây_dựng lưới khống_chế đo vẽ , phương_pháp bố_trí lưới khống_chế đo vẽ , các quy_định về đo và tính_toán bình_sai , các mẫu sổ đo tuân theo quy_định kĩ_thuật hiện_hành .
+
+4 . Tất_cả các tệp số_liệu đo , sổ đo , sơ_đồ đo nối , kết_quả tính_toán bình_sai liên_quan đến lưới khống_chế đo vẽ phải được nộp kèm thành_quả .
+
+Chương_iv
+
+Điểm Kiểm_tra_thiết_bị Đo Biển , Điểm Nghiệm_triều Và Điểm Độ Cao_nghiệm_triều
+
+Điều 11 . Điểm kiểm_tra thiết_bị đo biển
+
+1 . Điểm kiểm_tra thiết_bị đo biển được chọn điểm , chôn mốc và xây tường vây bảo_vệ ở thực_địa theo Quy_chuẩn kĩ_thuật quốc_gia về xây_dựng lưới toạ_độ . Trường_hợp khó_khăn thì được phép gắn mốc vào các vật kiến_trúc cố_định , ổn_định ở thực_địa . Điểm kiểm_tra thiết_bị đo biển thường được thiết_kế thành từng cặp ( hai ) điểm ở gần khu_vực bố_trí điểm nghiệm triều . Khoảng_cách giữa hai điểm phải lớn hơn 100m ở thực_địa .
+
+2 . Vị_trí cặp điểm kiểm_tra thiết_bị đo biển phải đảm_bảo thông hướng với nhau , thuận_tiện cho việc kiểm_nghiệm thiết_bị đo biển . Tên điểm , số_hiệu điểm kiểm_tra thiết_bị đo biển được quy_định cụ_thể trong Tkt - Dt .
+
+3 . Điểm kiểm_tra thiết_bị đo biển được đo nối toạ_độ , độ cao bằng công_nghệ Gns_tĩnh theo Quy_chuẩn kĩ_thuật quốc_gia về xây_dựng lưới toạ_độ , Quy_chuẩn kĩ_thuật quốc_gia về xây_dựng lưới độ cao . Việc đo nối toạ_độ , độ cao quốc_gia vào điểm kiểm_tra thiết_bị đo biển và tính_toán bình_sai toạ_độ , độ cao phải được nêu cụ_thể trong Tkt - Dt .
+
+Điều 12 . Điểm nghiệm triều
+
+1 . Điểm nghiệm triều được bố_trí ở nơi kín gió , ít chịu ảnh_hưởng của sóng biển , nước dâng do lũ hoặc gió và thuận_tiện trong cả quá_trình quan_trắc mực nước . Quy_cách của điểm nghiệm triều phải được nêu cụ_thể trong Tkt - Dt . Thước_đo mực nước có vạch chia đến cm , độ dài thước không được vượt quá 4m ( khi dùng mia địa_hình ) và không vượt quá 5m ( khi dùng thước tráng men ) .
+
+2 . Mật_độ điểm nghiệm triều phụ_thuộc vào diện_tích đo vẽ bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 của từng khu_vực đo vẽ . Mật_độ điểm nghiệm triều đảm_bảo nguyên_tắc mỗi điểm nghiệm triều có_thể phục_vụ cho cải_chính kết_quả đo sâu trên một khu_vực biển có bán_kính tối_đa là 12 , 5 km ; đối_với khu_vực biển cần đo vẽ có biên_độ dao_động của thuỷ_triều nhỏ thì cho phép một điểm nghiệm triều phục_vụ cải_chính kết_quả đo sâu cho một khu_vực biển có bán_kính tối_đa là 15km ; đối_với những khu_vực biển cần đo vẽ có sự dao_động thuỷ_triều phức_tạp , thì phải tăng mật_độ điểm nghiệm triều . Trong Tkt - Dt phải nêu cụ_thể số_lượng điểm nghiệm triều , vị_trí điểm và phương_án sử_dụng kết_quả quan_trắc mực nước để cải_chính cho từng mảnh bản_đồ .
+
+3 . Khu_vực biển có mức_độ dao_động thuỷ_triều lớn , cần phải bố_trí số vị_trí đặt thước_đo mực nước từ 02 vị_trí trở lên và phải được nêu rõ trong Tkt - Dt .
+
+4 . Độ cao_điểm 0 của điểm nghiệm triều được đo nối bằng đo cao hình_học với độ chính_xác của thuỷ chuẩn kĩ_thuật từ cặp điểm kiểm_tra thiết_bị đo biển gần nhất hoặc từ cặp điểm độ cao nghiệm triều gần nhất theo hình_thức tuyến đơn ( tuyến phù_hợp ) .
+
+Được đo đi và đo về từ 01 điểm kiểm_tra thiết_bị đo biển hoặc từ 01 điểm độ cao nghiệm triều gần nhất trong trường_hợp đặc_biệt .
+
+5 . Các quy_định trong đo nối thuỷ chuẩn kĩ_thuật vào điểm 0 của điểm nghiệm triều tuân_thủ quy_định kĩ_thuật hiện_hành . Kết_quả tính_toán thuỷ chuẩn kĩ_thuật phải đóng thành tập nộp kèm thành_quả .
+
+Điều 13 . Điểm độ cao nghiệm triều
+
+1 . Điểm nghiệm triều bố_trí ở ngoài đảo cần phải thiết_kế 02 điểm độ cao nghiệm triều ( khoảng_cách giữa 02 điểm độ cao nghiệm triều càng lớn càng tốt nhưng phải thuận_lợi cho việc đo nối độ cao thuỷ chuẩn kĩ_thuật sau_này ) .
+
+2 . Các điểm nghiệm triều trong bờ ( khi không bố_trí các điểm kiểm_tra thiết_bị đo biển ở gần ) thì chỉ cần bố_trí 01 điểm độ cao nghiệm triều .
+
+3 . Điểm độ cao nghiệm triều được đánh_dấu trên địa_vật kiến_trúc ổn_định hoặc được đóng cọc chắc_chắn ở thực_địa ( chỉ tồn_tại ở thực_địa trong suốt thời_gian thi_công và kiểm_tra , nghiệm_thu các cấp ) .
+
+4 . Độ cao của điểm độ cao nghiệm triều được xác_định bằng công_nghệ Gns_tĩnh từ ít_nhất 02 điểm thuộc lưới độ cao quốc_gia . Các điểm độ cao quốc_gia được dùng đo nối độ cao vào điểm độ cao nghiệm triều cố_gắng lựa_chọn sao cho đồ hình đo nối có dạng tam_giác_đều . Đối_với điểm độ cao nghiệm triều trong bờ , khi thuận_tiện , có_thể thiết_kế đo nối độ cao bằng đo cao hình_học từ hai điểm thuộc lưới độ cao quốc_gia gần nhất .
+
+5 . Các quy_định về đo và tính độ cao của điểm độ cao nghiệm triều tuân_thủ theo Quy_chuẩn kĩ_thuật quốc_gia về xây_dựng lưới toạ_độ , Quy_chuẩn kĩ_thuật quốc_gia về xây_dựng lưới độ cao và phải được nêu cụ_thể trong Tkt - Dt . Thành_quả đo và tính điểm độ cao nghiệm triều phải được nộp kèm thành_quả .
+
+Điều 14 . Triều kí_tự_động
+
+1 . Đối_với khu_vực đo vẽ sử_dụng thiết_bị triều kí_tự_động để xác_định mức_độ biến_thiên hàng ngày của thuỷ_triều thì trong Tkt - Dt phải quy_định chi_tiết các nội_dung liên_quan đến phương_án kĩ_thuật sử_dụng triều kí_tự_động .
+
+2 . Độ chính_xác ghi mực nước của triều kí_tự_động phải 5cm .
+
+Chương V
+
+Thiết_bị Đo Biển Và Kiểm_nghiệm_thiết_bị Đo_biển
+
+Điều 15 . Thiết_bị đo biển
+
+1 . Máy_gps / gns hoặc Rtk : độ chính_xác mặt_bằng 3m , độ chính_xác độ cao ( khi xác_định độ cao bằng công_nghệ Rtk ) 0 , 10m .
+
+2 . Sbes : độ phân_giải đo sâu 3cm , độ chính_xác đo sâu ( 10cm + 0 , 1 % h ) . Trong đó : h là độ sâu tính bằng m .
+
+3 . Mbes : độ phân_giải đo sâu 3cm , độ chính_xác đo sâu ( 10cm + 0 , 1 % h ) . Trong đó : h là độ sâu tính bằng m . Góc tia đảm_bảo được vệt quét tại đáy biển phân_biệt được vật có kích_thước 2 , 5m .
+
+4 . Máy cảm_biến sóng : độ chính_xác đo sóng 5cm , dải_đo sóng 5m , độ chính_xác góc nghiêng 0 , 250 , dải_đo góc nghiêng 300 .
+
+5 . Máy_đo tốc_độ âm_thanh : khoảng đo từ 1350m / s đến 1900m / s , độ chính_xác 0 , 25m / s .
+
+6 . Máy_đo tốc_độ âm_thanh bề_mặt ( khi sử_dụng Mbes ) ;
+
+7 . La_bàn : độ chính_xác đo hướng 0 , 20 .
+
+8 . Máy_tính chuyên_dụng : cấu_hình tối_thiểu phải thoả_mãn các yêu_cầu của phần_mềm khảo_sát , có đủ số cổng để kết_nối thiết_bị .
+
+9 . Phần_mềm chuyên_dụng .
+
+10 . Các thiết_bị phụ_trợ liên_quan :
+
+a ) Máy định_vị vệ_tinh dùng đo Gns_tĩnh ;
+
+b ) Máy định_vị vệ_tinh dùng đo Gns_động ;
+
+c ) Bộ thiết_bị Rtk dùng đo Gns động thời_gian thực ;
+
+d ) Máy và mia thuỷ chuẩn ;
+
+đ ) Máy toàn đạc điện_tử ;
+
+e ) Sào đo sâu .
+
+Điều 16 . Kiểm_nghiệm thiết_bị đo biển
+
+1 . Tất_cả các máy nêu từ Khoản 1 đến Khoản 7 và các máy , mia nêu tại Điểm a , b , c , d , đ Khoản 10 Điều 15 Thông_tư này đều phải được kiểm_nghiệm hoặc được cơ_quan cấp phép kiểm_định thiết_bị đo_đạc thực_hiện đầy_đủ các hạng_mục theo quy_định của từng loại máy trước khi sử_dụng . Kết_quả kiểm_nghiệm của từng loại máy phải nhỏ hơn sai_số quy_định tại Điều 15 Thông_tư này mới được đưa máy vào sử_dụng .
+
+2 . Các máy nêu từ Khoản 1 đến Khoản 7 Điều 15 Thông_tư này được kiểm_nghiệm theo quy_định tại Thông_tư số 27/2011/TT-BTNMT ngày 20 tháng 7 năm 2011 của Bộ Tài_nguyên và Môi_trường quy_định về kiểm_nghiệm và hiệu_chỉnh một_số thiết_bị đo_đạc bản_đồ biển .
+
+3 . Các máy , mia quy_định tại Điểm a , b , c , d , đ Khoản 10 Điều 15 Thông_tư này được kiểm_nghiệm hoặc kiểm_định theo quy_định của nhà sản_xuất theo hướng_dẫn sử_dụng của từng loại máy .
+
+4 . Quy_định về lắp_đặt hệ_thống_thiết_bị đo biển :
+
+a ) Đầu biến_âm có_thể lắp ở mũi tàu , cạnh thân tàu hay chính giữa thân tàu tuỳ_thuộc vào từng loại Sbes , Mbes và tàu chuyên_dụng hay tàu thuê ; trong quá_trình kiểm_nghiệm , quá_trình đo sâu phải thường_xuyên kiểm_tra bề_mặt của đầu biến_âm để tránh các vật bám , dính gây nhiễu_loạn tín_hiệu ;
+
+b ) Khi sử_dụng Mbes : máy xác_định tốc_độ âm bề_mặt bắt_buộc phải được lắp_đặt bên cạnh đầu biến_âm ;
+
+c ) Trường_hợp tâm ăng ten máy định_vị không trùng với tâm của bộ biến_âm ( theo phương dây_dọi ) thì phải xác_định giá_trị lệch tâm để nhập vào phần_mềm khi đo sâu bằng Sbes , Mbes . Khi xác_định giá_trị lệch tâm phải chọn thời_điểm lặng sóng , tàu phải được cột - neo chắc_chắn .
+
+5 . Sau khi lắp_đặt các máy thành một hệ_thống_thiết_bị đo biển trên tàu phải tiến_hành kiểm_nghiệm sự hoạt_động của hệ_thống_thiết_bị đo biển . Việc kiểm_nghiệm hệ_thống_thiết_bị đo biển thực_hiện theo quy_định tại Thông_tư số 27/2011/TT-BTNMT ngày 20 tháng 7 năm 2011 của Bộ Tài_nguyên và Môi_trường quy_định về kiểm_nghiệm và hiệu_chỉnh một_số thiết_bị đo_đạc bản_đồ biển .
+
+6 . Các quy_định khác về kiểm_nghiệm máy , thiết_bị đo biển :
+
+a ) Các Sbes , Mbes , máy xác_định tốc_độ âm , máy định_vị vệ_tinh ( đo Gns_động ) phải kiểm_nghiệm thêm một lần ngay sau khi kết_thúc đo sâu . Kết_quả kiểm_nghiệm này phải đóng kèm thành_quả theo trình_tự thời_gian kiểm_nghiệm trong cùng một sổ kiểm_nghiệm đối_với từng máy ;
+
+b ) Nếu thời_gian ngừng thi_công kéo_dài , dẫn tới việc phải tháo_dỡ máy_móc , thiết_bị khỏi tàu thì trước khi tiếp_tục thi_công phải tiến_hành kiểm_nghiệm lại toàn_bộ các máy và hệ_thống_thiết_bị theo quy_định tại Khoản 1 , Khoản 2 Điều này ;
+
+c ) Việc kiểm_nghiệm các máy , mia và hệ_thống_thiết_bị đo biển phải được ghi vào_sổ kiểm_nghiệm tại thực_địa của từng hạng_mục kiểm_nghiệm theo quy_định ; kết_quả tính_toán phải chính_xác , điền viết đầy_đủ vào_sổ kiểm_nghiệm của từng loại máy . Mẫu sổ kiểm_nghiệm các Sbes , Mbes , máy xác_định tốc_độ âm , kiểm_nghiệm hệ_thống_thiết_bị đo biển theo quy_định tại Phụ_lục 2 ban_hành kèm theo Thông_tư này ;
+
+d ) Việc kiểm_nghiệm hệ_thống Mbes phải tiến_hành trong khu_vực đo vẽ , nếu khu_vực đo vẽ không đảm_bảo quy_định về kiểm_nghiệm và hiệu_chỉnh một_số thiết_bị đo_đạc bản_đồ biển thì phải chọn khu_vực kiểm_nghiệm ở gần khu đo vẽ nhất ;
+
+đ ) Các máy có sử_dụng phần_mềm để kiểm_nghiệm thì phải nộp kèm tệp số_liệu gốc theo định_dạng của phần_mềm sử_dụng ;
+
+e ) Tất_cả các sổ kiểm_nghiệm phải được thủ_trưởng đơn_vị thi_công kí xác_nhận và đóng_dấu của đơn_vị .
+
+Chương_vi
+
+Quy_định Đo Vẽ Nội_dung Bản_đồ Địa_hình Đáy_biển
+
+Điều 17 . Quan_trắc mực nước phục_vụ cải_chính kết_quả đo sâu
+
+1 . Thời_điểm quan_trắc mực nước phải diễn ra trước thời_điểm bắt_đầu đo sâu , đo sâu kiểm_tra và thời_điểm kết_thúc quan_trắc mực nước phải sau thời_điểm kết_thúc đo sâu , đo sâu kiểm_tra của mỗi ngày đo , mỗi đợt đo .
+
+2 . Cứ 10 phút phải đọc số trên thước_đo mực nước một lần vào các thời_điểm chẵn giờ , chẵn 10 phút . Mỗi thời_điểm đọc số trên thước_đo mực nước phải đọc số 2 lần , số đọc đến cm . Số đọc trên thước_đo mực nước phải được ghi vào sổ quan_trắc mực nước . Mẫu sổ quan_trắc mực nước theo quy_định tại Phụ_lục 3 ban_hành kèm Thông_tư này .
+
+3 . Trường_hợp phải chuyển việc đọc số từ thước_đo mực nước này sang thước_đo mực nước khác ( của cùng một điểm nghiệm triều ) thì phải đọc số trên cả 2 thước ít_nhất 01 lần vào cùng thời_điểm , độ lệch giữa 2 thước_đo mực nước tính ra không được vượt quá 1cm .
+
+4 . Sử_dụng phần_mềm Excel để vẽ đồ_thị biểu_diễn sự_biến_thiên mực nước_hàng ngày . Đồ_thị biểu_diễn sự_biến_thiên mực nước_hàng ngày được đóng thành tập , phải được thủ_trưởng đơn_vị thi_công kí xác_nhận và đóng_dấu của đơn_vị , nộp kèm thành_quả .
+
+Điều 18 . Quan_trắc mực nước phục_vụ tính triều_cường , triều_kiệt
+
+Đối_với các dự_án , nhiệm_vụ chuyên_môn có nhu_cầu biểu_thị đường triều_cường , triều_kiệt trên bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 thì phải tiến_hành quan_trắc mực nước tại các điểm nghiệm triều liên_tục 24/24 giờ trong vòng ít_nhất 30 ngày / đêm liên_tục . Các quy_định về thời_điểm đọc số trên thước_đo mực nước , số lần đọc mực nước , độ chính_xác theo quy_định tại Điều 17 Thông_tư này .
+
+Điều 19 . Xác_định vị_trí điểm đo sâu khi đo sâu bằng Sbes , Mbes
+
+1 . Vị_trí điểm đo sâu được xác_định bằng định_vị vệ_tinh toàn_cầu ( gns , Dgns ) có cải_chính vi sai từ tín_hiệu của các trạm Dgps ven biển .
+
+2 . Vị_trí điểm đo sâu được xác_định bằng định_vị vệ_tinh toàn_cầu ( gns , Dgns ) có cải_chính vi sai từ tín_hiệu thuê_bao vệ_tinh ( đối_với các khu_vực không thu được tín_hiệu của các trạm Dgps ven biển ) .
+
+3 . Vị_trí điểm đo sâu được xác_định bằng Gns_rtk .
+
+Trong Tkt - Dt phải trình_bày cụ_thể phương_án xác_định vị_trí điểm đo sâu .
+
+Điều 20 . Đo sâu địa_hình đáy biển bằng Sbes
+
+1 . Thiết_kế tuyến đo sâu , tuyến đo sâu kiểm_tra :
+
+a ) Các tuyến đo sâu thiết_kế theo hướng Đông - Tây hoặc theo hướng song_song với hướng dốc của địa_hình đáy biển , khoảng_cách giữa 2 tuyến đo sâu liên_tiếp ở thực_địa là 50m . Khoảng_cách giữa 2 điểm xác_định độ sâu liên_tiếp trên cùng một tuyến đo sâu là 10m ở thực_địa ;
+
+b ) Các tuyến đo sâu kiểm_tra thiết_kế theo hướng vuông_góc với tuyến đo sâu . Khoảng_cách giữa 2 tuyến đo sâu kiểm_tra liên_tiếp ở thực_địa là 400m . Khi thi_công phải đảm_bảo nguyên_tắc tổng chiều dài các tuyến đo sâu kiểm_tra không được nhỏ hơn 10 % tổng chiều dài các tuyến đo sâu . Các tuyến đo sâu kiểm_tra phải phân_bố tương_đối đều trên khu_vực đo vẽ . Khoảng_cách giữa 2 điểm xác_định độ sâu liên_tiếp trên cùng một tuyến đo sâu kiểm_tra không quá 10m ở thực_địa ;
+
+c ) Thiết_kế tuyến đo sâu , tuyến đo sâu kiểm_tra trên hệ toạ_độ Vn - 2000 hoặc Wgs - 84 phục_vụ cho việc dẫn đường . Nếu thiết_kế trên hệ toạ_độ Vn - 2000 thì phải nhập 07 tham_số chuyển_đổi hệ toạ_độ theo Quyết_định số 05/2007/QĐ-BTNMT ngày 27 tháng 02 năm 2007 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường về sử_dụng hệ_thống tham_số tính chuyển giữa Hệ toạ_độ quốc_tế Wgs - 84 và Hệ toạ_độ quốc_gia Vn - 2000 vào phần_mềm dẫn đường ;
+
+d ) Số_hiệu các tuyến đo sâu được đánh_số từ 01 cho đến hết ở mỗi khu_vực đo vẽ theo chiều tăng dần từ Bắc xuống Nam ;
+
+đ ) Số_hiệu các tuyến đo sâu kiểm_tra được đánh_số từ 01 cho đến hết ở mỗi khu_vực đo vẽ theo chiều tăng dần từ Đông sang Tây .
+
+2 . Đo sâu và đo sâu kiểm_tra :
+
+a ) Sử_dụng Sbes có độ chính_xác ( ( 10cm + 0 , 1 % h ) ; h là độ sâu tính bằng m ) trở lên và phần_mềm khảo_sát địa_hình đáy biển chuyên_dụng để tiến_hành đo sâu , đo sâu kiểm_tra ;
+
+b ) Đầu biến_âm của Sbes được lắp vào vị_trí thích_hợp trên tàu , đảm_bảo yêu_cầu kĩ_thuật và an_toàn trong suốt quá_trình đo sâu địa_hình đáy biển . Trước khi đo sâu trong ngày phải xác_định độ ngập_đầu biến_âm với độ chính_xác 1cm và nhập vào máy đo sâu , sau khi kết_thúc ngày đo phải kiểm_tra lại độ ngập của đầu biến_âm . Đối_với các chuyến đo ( kéo_dài nhiều ngày_đêm ) phải thường_xuyên kiểm_tra độ ngập của đầu biến_âm . Khi có thay_đổi trọng_tải của tàu ( tăng , giảm khối_lượng dầu , khối_lượng nước_ngọt ) dẫn tới thay_đổi độ ngập_đầu biến_âm thì phải xác_định lại độ ngập của đầu biến_âm . Nếu sai_lệch độ ngập của đầu biến_âm giữa 2 lần đo liên_tiếp vượt quá 3cm thì phải hiệu_chỉnh độ lệch này vào số_liệu đo sâu bằng cách nội suy theo thời_gian ;
+
+c ) Tuỳ theo phạm_vi đo vẽ , độ sâu của khu_vực đo vẽ , trong Tkt - Dt phải quy_định sử_dụng tốc_độ âm nhập vào máy đo sâu theo một trong hai phương_án sau :
+
+- Dùng máy xác_định tốc_độ âm ở vị_trí sâu nhất của từng khu_vực đo vẽ để hiệu_chỉnh cho kết_quả đo sâu của tất_cả các mảnh bản_đồ trong khu_vực đó ;
+
+- Dùng máy xác_định tốc_độ âm đo được ở vị_trí sâu nhất của mảnh bản_đồ để hiệu_chỉnh kết_quả đo sâu của riêng mảnh bản_đồ đó .
+
+- Tốc_độ âm nhập vào máy đo sâu làm_tròn đến m / s . Tuỳ_thuộc phần_mềm sử_dụng mà quy_định nhập tốc_độ âm vào phần_mềm ở dạng phù_hợp .
+
+d ) Thời_gian trên hệ_thống_thiết_bị đo biển phải đồng_bộ với thời_gian của đồng_hồ dùng để quan_trắc mực nước tại điểm nghiệm triều ;
+
+đ ) Trước khi thực_hiện , đơn_vị thi_công phải liên_hệ với đơn_vị chủ_quản quản_lí và vận_hành các trạm Dgps ven biển để đảm_bảo được tín_hiệu cải_chính hoặc kí hợp_đồng thuê_bao tín_hiệu vệ_tinh khi sử_dụng máy Gns_động để xác_định vị_trí điểm đo sâu ;
+
+e ) Trong quá_trình thi_công , do ảnh_hưởng của các yếu_tố sóng biển , gió . . . các tuyến đo sâu chỉ được phép lệch so với tuyến đã thiết_kế không quá 10m ở thực_địa , tuyến đo kiểm_tra cắt tuyến đo sâu một góc dao_động không quá 300 so với góc thiết_kế ( 900 ) . Trường_hợp lệch quá quy_định trên , phải đo bổ_sung để đảm_bảo đủ số_liệu ;
+
+g ) Trường_hợp tàu đo sâu không_thể vào sát được bờ biển , bờ đảo hoặc mật_độ điểm đo sâu chưa đủ để thể_hiện hết địa_hình ven bờ biển , ven chân đảo thì phải tận_dụng lúc triều_cường đo bổ_sung 01 hoặc nhiều tuyến đo sâu chạy dọc theo chân bờ biển , chạy vòng_quanh chân đảo ;
+
+h ) Trong quá_trình đo sâu , đo sâu kiểm_tra nếu phát_hiện các đảo chìm , các chướng_ngại_vật dưới đáy biển , nguy_hiểm hàng_hải , đá ngầm thì phải tiến_hành đo rà_soát hải_văn và phải ghi_chép , mô_tả rõ_ràng vào_sổ công_tác để nội nghiệp biểu_thị và ghi_chú thuyết_minh ;
+
+i ) Khoảng_cách giữa các tuyến đo rà_soát hải_văn từ 05 đến 10m ở thực_địa ( khu_vực có các chướng_ngại_vật , đá ngầm , nguy_hiểm hàng_hải : khoảng_cách các tuyến là 5m ; khu_vực các bãi ngầm , dị_thường địa_hình thì khoảng_cách các tuyến là 10m ) . Mật_độ điểm xác_định độ sâu liên_tiếp trên các tuyến đo rà_soát hải_văn không được vượt quá 5m ở thực_địa ;
+
+k ) Kết_quả đo sâu , đo sâu kiểm_tra , đo rà_soát hải_văn phải ghi vào_sổ đo sâu và phải được lưu_giữ dưới dạng tệp số_liệu gốc theo định_dạng của phần_mềm đã sử_dụng trên đĩa Dvd . Mẫu sổ đo sâu theo quy_định tại Phụ_lục 3 ban_hành kèm theo Thông_tư này .
+
+3 . Đánh_giá độ chính_xác đo sâu :
+
+a ) Sử_dụng phương_pháp nội suy tuyến_tính tại vị_trí giao nhau giữa 2 cặp điểm gần nhất của tuyến đo sâu và tuyến đo sâu kiểm_tra để tìm ra 2 giá_trị độ sâu tương_ứng , so_sánh 2 giá_trị này . Số chênh độ sâu giữa đo sâu và đo sâu kiểm_tra tính theo công_thức = hđs - hkt .
+
+Trong đó :
+
+- hđs là độ sâu ( thu được từ kết_quả nội suy tuyến_tính của giao_điểm giữa tuyến đo sâu và tuyến đo sâu kiểm_tra ) khi đo sâu ;
+
+- hkt là độ sâu ( thu được từ kết_quả nội suy tuyến_tính của giao_điểm giữa tuyến đo sâu và tuyến đo sâu kiểm_tra ) khi đo sâu kiểm_tra .
+
+b ) Các hạn sai được thực_hiện theo quy_định tại Điều 6 Thông_tư này .
+
+Điều 21 . Đo sâu địa_hình đáy biển bằng Mbes
+
+1 . Thiết_kế tuyến quét địa_hình đáy biển :
+
+a ) Địa_hình đáy biển phải được quét kín diện_tích ( 100 % ) bề_mặt địa_hình ;
+
+b ) Hướng của tuyến quét địa_hình phải song_song với hướng của đường đẳng sâu ( vuông_góc với hướng dốc của địa_hình đáy biển khu_vực cần đo vẽ ) ; số_lượng tuyến quét địa_hình phụ_thuộc vào độ sâu của khu_vực đo vẽ và góc mở của từng máy ( phải nêu cụ_thể trong Tkt - Dt ) ;
+
+c ) Độ_phủ giữa 2 dải quét liền kề không nhỏ hơn 5 % độ rộng của dải quét nhỏ hơn trong 2 dải quét đó . Khi đó không phải thiết_kế tuyến quét kiểm_tra ;
+
+d ) Khi 2 tuyến quét liền kề không phủ lên nhau ( độ phủ 0 % hoặc độ phủ nhỏ hơn 5 % ) thì phải thiết_kế tuyến quét kiểm_tra . Hướng của tuyến quét kiểm_tra phải vuông_góc với hướng của tuyến quét . Tổng_chiều dài của các tuyến quét kiểm_tra không được nhỏ hơn 5 % tổng chiều dài các tuyến quét và phải được phân_bố đều trên khu_vực ;
+
+đ ) Độ rộng của vệt quét phải căn_cứ vào độ sâu trung_bình , chất đáy của khu_vực quét , hồ_sơ kĩ_thuật của Mbes để chọn góc mở tối_ưu nhất ;
+
+e ) Thiết_kế tuyến quét , tuyến quét kiểm_tra trên hệ toạ_độ Vn - 2000 hoặc chuyển toàn_bộ thiết_kế tuyến quét , tuyến quét kiểm_tra sang hệ toạ_độ Wgs - 84 , nhập vào phần_mềm dẫn đường tạo thành các đường chạy ( theo tia trung_tâm ) phục_vụ cho việc dẫn đường khi quét bề_mặt địa_hình đáy biển sao cho không bị hở diện_tích và đảm_bảo độ phủ theo quy_định tại Khoản 1 Điều này . Nếu thiết_kế trên hệ toạ_độ Vn - 2000 thì phải nhập 07 tham_số chuyển_đổi hệ toạ_độ theo Quyết_định số 05/2007/QĐ-BTNMT ngày 27 tháng 02 năm 2007 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường về sử_dụng hệ_thống tham_số tính chuyển giữa Hệ toạ_độ quốc_tế Wgs - 84 và Hệ toạ_độ quốc_gia Vn - 2000 vào phần_mềm dẫn đường ;
+
+g ) Số_hiệu tuyến quét , số_hiệu tuyến quét kiểm_tra của các dải_quét được đánh_số từ 01 cho đến hết đối_với từng loại tuyến trong cùng một khu_vực đo vẽ và phải được quy_định chi_tiết trong Tkt - Dt ;
+
+h ) Đối_với các khu_vực ven các đảo lớn , khu_vực có nhiều đảo , địa_hình phức_tạp thì trong Tkt - Dt phải nêu cụ_thể các quy_định về hướng tuyến quét , độ rộng dải quét dựa trên các quy_định tại các Điểm b , c , d , đ Khoản này .
+
+2 . Quét địa_hình đáy biển :
+
+a ) Sử_dụng các Mbes có độ chính_xác ( ( 10cm + 0 , 1 % h ) ; h là độ sâu tính bằng m ) trở lên và phần_mềm khảo_sát địa_hình đáy biển chuyên_dụng để quét địa_hình đáy biển ;
+
+b ) Sử_dụng máy đo tốc_độ âm đặt tại đầu biến_âm ( svp - sv Profiler hoặc tương_đương ) và kết_nối với Mbes , máy_tính chuyên_dụng , máy cải_chính sóng thành 01 hệ_thống_thiết_bị đồng_bộ để quét địa_hình đáy biển ;
+
+c ) Khi quét địa_hình đáy biển phải tuỳ tình_hình thực_tế độ sâu của tia trung_tâm để điều_khiển tàu chạy sao cho đảm_bảo nguyên_tắc quét kín 100 % bề_mặt địa_hình đáy biển và đảm_bảo độ phủ giữa 2 tuyến liền kề theo quy_định tại Điểm c Khoản 1 Điều này ;
+
+d ) Trong quá_trình quét địa_hình đáy biển nếu phát_hiện các đảo chìm , các chướng_ngại_vật dưới đáy biển , nguy_hiểm hàng_hải , cây ngập nước , đá ngầm phải ghi_chép thuyết_minh trong sổ quét địa_hình đáy biển , nêu trong các báo_cáo , mô_tả rõ_ràng vào_sổ công_tác để nội nghiệp biểu_thị và ghi_chú thuyết_minh . Mẫu sổ quét địa_hình đáy biển theo quy_định tại Phụ_lục 3 ban_hành kèm theo Thông_tư này .
+
+đ ) Các quy_định về xác_định tốc_độ âm , thời_gian đồng_bộ trên hệ_thống_thiết_bị đo biển , tín_hiệu cải_chính phân sai , góc cắt giữa tuyến quét và tuyến quét kiểm_tra , khi hở diện_tích quét chân bờ biển , chân các đảo theo quy_định tại các Điểm c , d , đ , e , g Khoản 2 Điều 20 Thông_tư này ;
+
+e ) Kết_quả quét bề_mặt địa_hình_dạng số phải được lưu_giữ dưới dạng tệp số_liệu gốc theo định_dạng của phần_mềm sử_dụng trên đĩa Dvd .
+
+3 . Đánh_giá độ chính_xác quét địa_hình đáy biển :
+
+a ) Việc đánh_giá kết_quả quét địa_hình đáy biển căn_cứ vào số_liệu thu được trên phần diện_tích phủ nhau giữa 2 dải quét liền kề hoặc số_liệu thu được trên phần diện_tích chồng nhau giữa dải_quét và dải_quét kiểm_tra ;
+
+b ) Khối_lượng điểm đưa vào đánh_giá độ chính_xác theo quy_định tại Khoản 6 Điều 6 Thông_tư này . Trong Tkt - Dt phải quy_định cụ_thể chiều dài cạnh ô vuông của các mắt lưới khi xuất điểm để đánh_giá độ chính_xác ;
+
+c ) Các hạn sai được thực_hiện theo quy_định tại Điều 6 Thông_tư này .
+
+4 . Sử_dụng Mbes để đo sâu theo theo dải :
+
+a ) Khoảng_cách giữa 2 hàng điểm rìa của 2 dải dữ_liệu độ sâu liền kề khi đo sâu theo dải bằng Mbes không được cách nhau quá 1cm trên bản_đồ ( tương_ứng với 50m ở thực_địa ) ;
+
+b ) Hướng tuyến ( tính theo tia trung_tâm ) đo sâu theo dải phải song_song với hướng của đường đẳng sâu , hướng tuyến đo kiểm_tra theo dải phải vuông_góc với hướng tuyến đo sâu . Tổng_chiều dài tuyến đo sâu kiểm_tra theo dải không được ít hơn 10 % tổng chiều dài tuyến đo sâu theo dải và phải được phân_bố đều trên khu_vực ;
+
+c ) Việc thực_hiện đo sâu , đo sâu kiểm_tra , đánh_giá độ chính_xác phải theo các quy_định tại Khoản 1 , 2 , 3 Điều này và phải được nêu cụ_thể trong Tkt - Dt .
+
+Điều 22 . Đo sâu địa_hình đáy biển bằng sào đo sâu
+
+1 . Sử_dụng lưới khống_chế cơ_sở theo quy_định tại Điều 9 và lưới khống_chế đo vẽ theo quy_định tại Điều 10 Thông_tư này để làm điểm trạm đo . Khoảng_cách từ trạm đo tới điểm đo vẽ chi_tiết không vượt quá 500m ( khi sử_dụng máy toàn đạc điện_tử có sai_số_đo góc 30 và sai_số_đo cạnh 0 , 10m ) , không vượt quá 300m ( khi sử_dụng máy kinh vĩ quang_học ) . Vị_trí điểm được xác_định theo phương_pháp toàn đạc , độ sâu của điểm được xác_định theo phương_pháp đo cao lượng_giác ( đo ở 01 vị_trí bàn độ ) . Trung_bình khoảng 20 điểm đo thì phải kiểm_tra lại hướng chuẩn . Kết_quả đo được ghi đầy_đủ vào_sổ đo chi_tiết . Mẫu sổ đo điểm chi_tiết theo quy_định kĩ_thuật hiện_hành .
+
+2 . Mật_độ điểm đo sâu bằng sào trung_bình không được nhỏ hơn 40 điểm / 0 , 1km2 trên thực_địa ; ở những nơi địa_hình đơn_giản , không bị chia_cắt thì mật_độ điểm đo sâu bằng sào có_thể giảm xuống 30 điểm / 0 , 1km2 trên thực_địa ; ở những nơi địa_hình phức_tạp , bị chia_cắt thì mật_độ điểm đo sâu bằng sào phải tăng lên đến 60 điểm / 0 , 1km2 trên thực_địa .
+
+3 . Trường_hợp đo vẽ chi_tiết địa_hình đáy biển ở các khu_vực cần đo sâu bằng sào bằng phương_pháp toàn đạc mà sử_dụng lưới khống_chế đo vẽ đã xác_định độ cao kĩ_thuật theo quy_định thì không cần quan_trắc mực nước .
+
+4 . Trong điều_kiện cho phép , có_thể dùng máy Gns_động để xác_định vị_trí điểm đo sâu bằng sào theo cách xác_định thời_điểm định_vị bằng tay ( manual logging ) và ghi lưu toạ_độ thành tệp riêng theo định_dạng của phần_mềm sử_dụng ; độ sâu của điểm được xác_định bằng sào đo sâu có vạch chia nhỏ nhất đến cm và ghi vào_sổ đo sào . Trường_hợp này phải quan_trắc mực nước theo quy_định tại Điều 17 Thông_tư này . Mẫu sổ đo sâu bằng sào ( khi xác_định vị_trí điểm bằng máy Gns ) theo quy_định tại Phụ_lục 3 ban_hành kèm theo Thông_tư này .
+
+5 . Số_hiệu điểm đo sâu bằng sào đo sâu được đánh_số từ 01 cho đến hết trên cùng một khu_vực đo vẽ . Khi phạm_vi đo sâu bằng sào lớn , trong Tkt - Dt có_thể phân_chia thành các khu_vực đo vẽ nhỏ để quy_định việc đánh_số thứ tự điểm đo sâu bằng sào .
+
+6 . Trên khu_vực đo sâu bằng sào , không phải đo sâu kiểm_tra .
+
+Điều 23 . Đo vẽ chi_tiết bằng công_nghệ Rtk
+
+1 . Phải sử_dụng thiết_bị Rtk do các hãng chuyên_dụng chế_tạo và đã được kiểm_nghiệm để thi_công . Bộ thiết_bị đo bao_gồm các máy thu tín_hiệu vệ_tinh Gns / Dgns loại thu được trị đo Code và trị đo Phase , 1 tần_số hoặc đa tần_số , có sai_số_đo cạnh ( 10mm + 1mm x D ) ( d là chiều dài cạnh đo tính bằng km ) và thiết_bị có chức_năng đo Gns / dgns động thời_gian thực .
+
+2 . Đối_với mỗi trạm đo , sử_dụng một trạm Base ( trạm Base theo quy_định tại Điều 9 Thông_tư này ) , có điều_kiện thông_thoáng bầu_trời cho phép thu được tín_hiệu của tất_cả các vệ_tinh ( trong góc ngưỡng 150 ) có tại mọi thời_điểm đo tại khu_vực trạm Base và các máy di_động ( Rover ) tiếp_cận các điểm cần đo mới .
+
+3 . Khoảng_cách từ trạm Base đến điểm đo không được vượt quá 10km .
+
+4 . Cài_đặt chính_xác số_liệu toạ_độ , độ cao của trạm Base theo đúng các hướng_dẫn kĩ_thuật của từng hệ_thống . Cài_đặt toạ_độ đúng với hệ toạ_độ sử_dụng theo quy_định của từng Tkt - dt đã được phê_duyệt . Hệ toạ_độ đã được cài_đặt trong hệ_thống phải được đặc_biệt lưu_ý trong khi cài_đặt hệ toạ_độ trong các phần_mềm khảo_sát . Các tham_số tính chuyển từ Hệ toạ_độ Wgs - 84 về Hệ toạ_độ quốc_gia Vn - 2000 theo quy_định tại Quyết_định số 05/2007/QĐ-BTNMT ngày 27 tháng 02 năm 2007 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường về sử_dụng hệ_thống tham_số tính chuyển giữa Hệ toạ_độ quốc_tế Wgs - 84 và Hệ toạ_độ quốc_gia Vn - 2000 .
+
+5 . Chiều cao ăng ten của trạm Base được đo chính_xác đến 02mm . Chiều cao ăng ten của máy Rover được đo chính_xác đến 05mm .
+
+6 . Tín_hiệu radio được kiểm_tra trước và trong quá_trình đo . Sai_số định_vị tức_thời phải được theo_dõi liên_tục trong quá_trình đo để đảm_bảo chất_lượng số_liệu đạt chuẩn Rtk . Theo_dõi độ mạnh yếu tín_hiệu thu trên máy Rover để hiệu_chỉnh tín_hiệu radio ở trạm Base .
+
+7 . Việc đo vẽ chi_tiết được thực_hiện theo một trong hai phương_án sau :
+
+a ) Trường_hợp sử_dụng tàu để di_chuyển , người đo sào sẽ ngồi trực_tiếp trên tàu , sào đo sẽ được gióng trùng khớp với vị_trí ăng ten của máy Rover để tiến_hành cắm sào tại các điểm đo khi tàu di_chuyển . Sào đo được cắm xuống mặt đáy biển theo phương thẳng_đứng , ghi lại số_liệu độ cao tương_ứng với ăng ten máy Rover để cho số_liệu đo sâu chính_xác , đồng_thời số_liệu sẽ được xác_định toạ_độ và độ sâu tại điểm đó . Thời_gian cho mỗi điểm đo chi_tiết để đảm_bảo chính_xác có_thể dừng đo từ 2 - 5 giây tuỳ theo chế_độ cài_đặt ;
+
+b ) Trường_hợp không_thể sử_dụng tàu để di_chuyển mà phải di_chuyển bộ , khi đó ăng ten máy Rover sẽ được tháo lắp trực_tiếp trên sào đo , số_liệu đo tại các điểm sẽ được ghi lại trực_tiếp vào máy Rover , độ cao được xác_định theo chiều cao của sào đo . Sào đo được cắm xuống mặt đáy biển theo phương thẳng_đứng , ghi lại số_liệu độ cao tương_ứng với ăng ten định_vị máy Rover . Thời_gian cho mỗi điểm đo chi_tiết để đảm_bảo chính_xác có_thể dừng đo từ 2 - 5 giây tuỳ theo chế_độ cài_đặt .
+
+Khi xác_định độ cao ( độ sâu ) bằng thiết_bị Rtk mà máy Rover_cắm trực_tiếp xuống mặt đáy biển thì không phải quan_trắc mực nước .
+
+Mẫu sổ đo theo công_nghệ Rtk theo quy_định tại Phụ_lục 3 ban_hành kèm theo Thông_tư này .
+
+Điều 24 . Lấy mẫu chất đáy
+
+1 . Đối_với các khu_vực biển có độ sâu đến 30m : khu_vực đo sâu bằng máy đo sâu hồi_âm , mật_độ điểm lấy mẫu chất đáy phân_bố đều trên diện_tích đo vẽ , cứ 01km2 ở thực_địa lấy 08 điểm ; khu_vực đo sâu bằng sào đo sâu phải tăng mật_độ lấy mẫu lên 02 lần ( 16 điểm / km2 ) . Trong Tkt - dt phải trình_bày cụ_thể khoảng_cách giữa các tuyến lấy mẫu chất đáy khu_vực đo sâu bằng máy .
+
+2 . Đối_với các khu_vực biển có độ sâu từ 30m đến 100m : Việc lấy mẫu chất đáy tuỳ_thuộc vào yêu_cầu cụ_thể mà quy_định mật_độ điểm lấy mẫu chất đáy trong Tkt - Dt .
+
+3 . Mẫu chất đáy bề_mặt được lấy bằng gầu chuyên_dụng ( khu_vực biển sâu đến 30m ) , bằng ống_phóng trọng_lực , ống_phóng van đẩy , ống_phóng rung ( khu_vực biển sâu từ 30m đến 100m ) . Mẫu chất đáy có bề dày lớp mặt từ 20 đến 25cm . Mẫu chất đáy được phân_loại ngay ở thực_địa : cát , bùn , bùn pha cát , đá sỏi và ghi vào sổ lấy mẫu chất đáy , không phải lưu lại mẫu . Mẫu sổ lấy mẫu chất đáy theo quy_định tại Phụ_lục 3 ban_hành kèm theo Thông_tư này .
+
+4 . Đối_với các khu_vực bãi đá ngầm , bãi san_hô sẽ không lấy mẫu bằng gầu chuyên_dụng được thì phải điều_tra , thu_thập thông_tin phạm_vi các khu vưc này trong quá_trình đo sâu và sử_dụng một trong các phương_án : phần_mềm xử_lí Backscater của hệ_thống máy đo sâu hồi_âm ; thiết_bị camera ( máy quay ) ngầm ; thiết_bị side scan Sonar ( quét sườn Sonar ) để biểu_thị chất đáy bề_mặt theo ranh_giới của các bãi này .
+
+5 . Các quy_định về xác_định vị_trí của điểm lấy mẫu chất đáy giống quy_định về xác_định vị_trí điểm đo sâu :
+
+a ) Toạ_độ của các điểm lấy mẫu chất đáy khu_vực đo sâu bằng Sbes , Mbes được ghi thành tệp số_liệu với định_dạng của phần_mềm sử_dụng ;
+
+b ) Toạ_độ của các điểm lấy mẫu chất đáy khu_vực đo sào khi xác_định bằng toàn đạc điện_tử phải được ghi trong sổ đo điểm chi_tiết ;
+
+c ) Toạ_độ của các điểm lấy mẫu chất đáy khu_vực đo sâu bằng sào khi xác_định vị_trí bằng Gns / dgns thì được ghi thành tệp số_liệu với định_dạng của phần_mềm sử_dụng ;
+
+d ) Toạ_độ của các điểm lấy mẫu chất đáy khi xác_định bằng công_nghệ Rtk thì được ghi thành tệp số_liệu theo định_dạng của phần_mềm sử_dụng .
+
+Điều 25 . Các quy_định đo vẽ khác
+
+1 . Đường bờ nước ( là giới_hạn lòng chứa nước cao nhất của mặt_nước ) và đường mép nước ( được xác_định tại thời_điểm đo vẽ ) được xác_định theo quy_định kĩ_thuật đo vẽ và thành_lập bản_đồ địa_hình tỉ_lệ 1 : 5000 phần đất_liền . Phạm_vi đo vẽ phần biển được tính từ_đường mép nước trở xuống :
+
+a ) Đối_với khu_vực đo vẽ đã có bản_đồ địa_hình tỉ_lệ 1 : 5000 ( hoặc tỉ_lệ lớn hơn ) thì đường mép nước được lấy theo bản_đồ địa_hình trên phần đất_liền đã xuất_bản ( hoặc được biên vẽ từ bản_đồ địa_hình tỉ_lệ lớn hơn ) ;
+
+b ) Đối_với khu_vực đo vẽ đã có bản_đồ địa_hình tỉ_lệ 1 : 10 000 , hoặc tỉ_lệ nhỏ hơn thì phải xác_định phương_án thể_hiện đường mép nước . Tuỳ từng khu_vực cụ_thể , trên cơ_sở các bản_đồ , hải_đồ đã có sẵn phải nêu rõ giải_pháp xác_định và biểu_thị đường mép nước trong Tkt - Dt ;
+
+c ) Cá_biệt , những khu_vực không_thể xác_định chính_xác đường mép nước tại thời_điểm đo vẽ thì đường mép nước được quy_định là đường đẳng sâu 0 m căn_cứ theo kết_quả đo vẽ địa_hình đáy biển .
+
+2 . Bãi cạn lúc chìm lúc nổi , bãi ngầm được quy_định như sau :
+
+a ) Các bãi có diện_tích nhỏ hơn 15mm2 trên bản_đồ thì không phải thể_hiện ; các bãi có diện_tích từ 15mm2 trở lên trên bản_đồ thì phải thể_hiện ranh_giới bãi và kí_hiệu loại bãi ; các bãi có diện_tích từ 200mm2 trở lên trên bản_đồ phải thể_hiện điểm_cao nhất của bãi bằng ghi_chú độ cao hoặc độ sâu tại vị_trí tương_ứng ;
+
+b ) Các bãi ngầm và phần ngập nước của các bãi cạn lúc chìm lúc nổi nếu thể_hiện được bằng đường đẳng sâu thì phải vẽ đường đẳng sâu và ghi_chú độ sâu ; phần nổi trên mặt_nước của các bãi nếu thể_hiện được bằng đường bình độ thì phải vẽ đường bình độ theo quy_định đối_với bản_đồ địa_hình tỉ_lệ 1 : 5000 trên đất_liền và ghi_chú độ cao .
+
+3 . Các địa_vật , công_trình nhân_tạo trên biển :
+
+a ) Các công_trình kĩ_thuật gồm các giàn khoan , nhà giàn , cầu_cảng , vách bờ xây công_trình , kè đá ven biển , âu_thuyền tránh bão ;
+
+b ) Các công_trình xây_dựng trên biển gồm các trạm nghiên_cứu biển , phao luồng tàu , đăng tiêu , chập tiêu ;
+
+c ) Các vùng nuôi hải_sản trên biển gồm đầm , phá , khoang , lồng , bè nuôi hải_sản cố_định trên biển ; vùng đăng , chắn đánh_bắt cá cố_định trên biển . Các vùng nuôi hải_sản trên biển thể_hiện trên bản_đồ theo nguyên_tắc :
+
+- Đối_với các khoang , lồng , bè nuôi hải_sản cố_định đứng đơn_lẻ được thể_hiện trên bản_đồ theo tỉ_lệ hoặc bằng kí_hiệu , phụ_thuộc vào độ lớn theo quy_định tại Điều 7 Thông_tư này ;
+
+- Đối_với các khoang , lồng , bè nuôi hải_sản tập_trung , tạo thành các khu_vực , thì thể_hiện trên bản_đồ theo nguyên_tắc vẽ ranh_giới ngoài cùng của toàn_bộ khu_vực và lựa_chọn để thể_hiện ghi_chú tên loại hải_sản chính ; ranh_giới ngoài cùng lấy theo hồ_sơ được cấp phép giao các khu_vực biển nhất_định cho các tổ_chức , cá_nhân sử_dụng tài_nguyên biển ;
+
+- Đối_với các khoang , lồng , bè nuôi hải_sản không được cấp phép thì thể_hiện trên bản_đồ theo phạm_vi đo vẽ thực_tế ở thực_địa và lựa_chọn để thể_hiện ghi_chú tên loại hải_sản chính ;
+
+- Đối_với đầm , phá có nuôi hải_sản phải khoanh vẽ khu_vực nuôi hải_sản và ghi_chú tên loại hải_sản chính ;
+
+- Đối_với các khu_vực đăng , chắn đánh_bắt hải_sản cố_định thì không_thể_hiện chi_tiết số_lượng , chủng_loại phương_tiện đánh_bắt chỉ thể_hiện kí_hiệu và đường bao khu_vực .
+
+d ) Các công_trình , địa_vật nhân_tạo trên biển thể_hiện theo quy_định tại Điều 7 Thông_tư này . Các công_trình , địa_vật có tên_riêng thì phải ghi_chú tên .
+
+4 . Các địa_vật , công_trình nhân_tạo tại đáy biển phải thể_hiện trên bản_đồ , gồm xác tàu đắm , ống dẫn dầu , ống dẫn khí , cáp tải_điện , cáp viễn_thông :
+
+a ) Nếu có thông_tin chi_tiết , xác tàu đắm được thể_hiện bằng kí_hiệu , đặt tại vị_trí có xác tàu tại đáy biển , trường_hợp khu_vực tàu đắm thuộc đối_tượng nguy_hiểm hàng_hải thì phải khoanh bao khu_vực nguy_hiểm và thể_hiện theo quy_định kèm ghi_chú . Nếu xác tàu đắm được khảo_sát bằng hệ_thống quét sườn Sonar thì hình_dáng tàu được thể_hiện theo tỉ_lệ , kí_hiệu tàu đắm được vẽ tại vị_trí tâm tàu ;
+
+b ) Các đường_ống dẫn dầu , ống dẫn khí , cáp tải_điện , cáp viễn_thông được thể_hiện bằng các kí_hiệu hình tuyến tương_ứng , bảo_đảm đúng vị_trí ; trường_hợp không có điều_kiện đo vẽ thực_địa thì phải căn_cứ theo tài_liệu thiết_kế và bản_vẽ hoàn_công được lưu_trữ tại các cơ_quan liên_quan để thể_hiện lên bản_đồ .
+
+5 . Các địa_vật tự_nhiên tại đáy biển :
+
+a ) Các địa_vật tự_nhiên trên biển và tại đáy biển gồm các mỏm đá , khối đá đứng độc_lập hoặc tạo thành cụm , khối nổi trên mặt_nước hoặc chìm dưới nước ;
+
+b ) Các địa_vật tự_nhiên trên biển và tại đáy biển phải được thể_hiện trên bản_đồ bằng kí_hiệu . Khi thể_hiện các mỏm đá , khối đá ngoài kí_hiệu cần ghi_chú rõ độ cao hoặc độ sâu , điểm_cao nhất của mỏm đá ; trường_hợp các mỏm đá có tên_riêng thì phải ghi_chú tên ; trường_hợp địa_vật thuộc đối_tượng nguy_hiểm hàng_hải thì phải khoanh bao khu_vực nguy_hiểm và thể_hiện theo quy_định tại Khoản 7 Điều này .
+
+6 . Các yếu_tố hàng_hải , hải_văn :
+
+a ) Các yếu_tố hàng_hải , hải_văn phải thể_hiện trên bản_đồ gồm luồng tàu_thuyền ra vào cảng , luồng tàu_thuyền ra vào khu_vực cửa_sông , phao_tiêu , đèn_biển , phao luồng , đèn luồng , phao neo thuyền , bến cảng , nơi neo đậu tàu_thuyền tránh bão , trạm quan_trắc hải_văn , các thước_đo mực nước thuỷ_triều hoặc triều kí_tự_động ;
+
+b ) Luồng tàu_thuyền ra vào cảng , luồng tàu_thuyền ra vào khu_vực cửa_sông thể_hiện bằng ranh_giới luồng , mật_độ điểm ghi_chú độ sâu tại khu_vực thuộc ranh_giới luồng và luồng phải lớn hơn 1 , 5 lần theo quy_định tại Điều 8 Thông_tư này , phải ghi_chú tên luồng ( nếu có ) , ghi_chú_trọng_tải tàu_thuyền lớn nhất có_thể ra vào luồng ;
+
+c ) Các bến cảng , nơi neo đậu tàu_thuyền tránh bão , các trạm quan_trắc hải_văn , đèn_biển , phao_tiêu , phao luồng , đèn luồng , phao neo thuyền thể_hiện bằng kí_hiệu tương_ứng trên bản_đồ và phải ghi_chú tên nếu có tên_riêng ; đối_với nơi neo đậu tàu_thuyền tránh bão thì mật_độ điểm ghi_chú độ sâu phải bảo_đảm mật_độ lớn hơn 1 , 5 lần theo quy_định tại Điều 8 Thông_tư này .
+
+7 . Vùng nguy_hiểm hàng_hải , vùng cấm :
+
+a ) Trên bản_đồ phải thể_hiện ranh_giới vùng nguy_hiểm hàng_hải và các vùng cấm theo quy_định của pháp_luật về hàng_hải ;
+
+b ) Vùng nguy_hiểm hàng_hải gồm các khu_vực nước xoáy , bãi đá ngầm , xác tàu đắm , các địa_vật ngầm hoặc nổi có khả_năng gây nguy_hiểm cho giao_thông hàng_hải phải thể_hiện bằng khoanh bao ranh_giới khu_vực nguy_hiểm và ghi_chú chữ nguy_hiểm tại vị_trí tương_ứng . Vùng cấm phải thể_hiện bằng khoanh bao ranh_giới vùng cấm kèm theo ghi_chú chữ vùng cấm .
+
+8 . Thực_vật :
+
+a ) Thực_vật_thể_hiện trên bản_đồ gồm các vùng cây ngập_mặn trên biển , các vùng thực_phủ tại đáy biển ;
+
+b ) Các vùng cây ngập_mặn ven biển , ven đảo thể_hiện theo quy_định đối_với phần thực_vật , quy_định tại quy_phạm và quy_định kĩ_thuật đo vẽ bản_đồ địa_hình tỉ_lệ 1 : 5000 và Ký_hiệu 1 : 5000 phần đất_liền ;
+
+c ) Các vùng thực_vật tại đáy biển chỉ thể_hiện trên bản_đồ khi có đầy_đủ các thông_tin về phạm_vi , loại thực_vật thông_qua công_tác khảo_sát thực_địa , thu_thập tư_liệu hoặc có thiết_bị phụ_trợ để phát_hiện trong quá_trình đo sâu , lấy mẫu chất đáy và phải được quy_định cụ_thể trong Tkt - Dt .
+
+9 . Ghi_chú địa_danh và các ghi_chú cần_thiết khác :
+
+a ) Các địa_danh gồm tên biển , tên vũng , vịnh , cửa_sông , tên đảo , quần_đảo , mũi_đất , cồn , bãi , tên các luồng , lạch , đầm , phá ven biển , tên các bến cảng , đèn_biển , tên các địa_vật tự_nhiên và nhân_tạo khác phải được thể_hiện trên bản_đồ bằng kiểu , cỡ chữ tương_ứng . Địa_danh ghi_chú trên bản_đồ phải là địa_danh được ghi trong Thông_tư của Bộ Tài_nguyên và Môi_trường ban_hành Danh_mục địa_danh dân_cư , sơn văn , thuỷ_văn , kinh_tế - xã_hội phục_vụ công_tác thành_lập bản_đồ của từng tỉnh , thành_phố trực_thuộc Trung_ương . Trường_hợp chưa có thông_tư về địa_danh thì phải lấy theo tên địa_danh được các cơ_quan hành_chính nhà_nước công_bố ; khi một đối_tượng có nhiều tên gọi khác nhau , phải nghiên_cứu để xác_định tên chính_thức , trường_hợp khó_khăn phải báo_cáo cơ_quan quản_lí nhà_nước về đo_đạc bản_đồ quyết_định ;
+
+b ) Các ghi_chú cần_thiết khác gồm ghi_chú bằng chữ để giải_thích tính_chất , thuộc_tính của địa_vật , ghi_chú các tham_số kĩ_thuật của chúng phải được thể_hiện trên bản_đồ bằng kí_hiệu và kiểu cỡ chữ tương_ứng với từng loại địa_vật ;
+
+c ) Kiểu , cỡ chữ ghi_chú địa_danh và các ghi_chú cần_thiết khác lựa_chọn theo quy_định của Ký_hiệu 1 : 5000 phần đất_liền .
+
+10 . Các đường phân_chia trên biển
+
+a ) Các đường phân_chia trên biển gồm đường cơ_sở lãnh_hải ; đường_biên_giới trên biển ; ranh_giới vùng đặc_quyền kinh_tế trên biển ; đường phân_chia ranh_giới trên biển giữa các quốc_gia ; ranh_giới thềm lục_địa ; đường địa_giới hành_chính các cấp ;
+
+b ) Các đường phân_chia trên biển đã có đủ cơ_sở pháp_lí phải được thể_hiện đầy_đủ trên bản_đồ ; các đường phân_chia trên biển chưa đủ cơ_sở pháp_lí được thể_hiện bằng đường vẽ nháp ; phương_pháp thể_hiện phải được nêu cụ_thể trong Tkt - Dt .
+
+11 . Các điểm kiểm_tra thiết_bị đo biển phải được thể_hiện chính_xác trên bản_đồ theo kết_quả tính_toán bình_sai các điểm kiểm_tra thiết_bị đo biển bằng kí_hiệu tương_ứng của điểm toạ_độ nhà_nước và ghi_chú liên_quan .
+
+12 . Sử_dụng máy Gns / dgns hoặc máy toàn đạc điện_tử để xác_định ranh_giới các bãi cạn lúc chìm lúc nổi , bãi ngầm , các công_trình , các địa_vật tự_nhiên , nhân_tạo ở trên biển , ở dưới đáy biển với độ chính_xác theo quy_định tại Điều 6 Thông_tư này . Chiều cao của địa_vật xác_định bằng thước_dây hoặc đo cao lượng_giác . Vị_trí của các yếu_tố hàng_hải , hải_văn : đèn_biển , phao_tiêu , phao luồng , đèn luồng được xác_định tại tâm của địa_vật .
+
+Chương_vii
+
+Thành_lập Bản_đồ_gốc
+
+Điều 26 . Biên vẽ bản_đồ từ tài_liệu cũ
+
+1 . Các khu_vực biển đã có bản_đồ địa_hình đáy biển tỉ_lệ lớn hơn tỉ_lệ bản_đồ cần thành_lập , qua đánh_giá độ chính_xác , tính đầy_đủ , mức_độ biến_động địa_hình , địa_vật không nhiều thì không nhất_thiết phải đo vẽ mới khu_vực biển đó . Tiến_hành biên vẽ diện_tích phần biển đã có bản_đồ địa_hình tỉ_lệ lớn về tỉ_lệ 1 : 5000 theo nguyên_tắc chung trong biên vẽ bản_đồ địa_hình phần đất_liền .
+
+2 . Các khu_vực trên phần đất_liền , trên phần đảo đã có bản_đồ địa_hình tỉ_lệ lớn hơn tỉ_lệ bản_đồ cần thành_lập thì thực_hiện việc lấy bỏ tổng_hợp các yếu_tố địa_vật , địa_hình theo nguyên_tắc chung trong biên vẽ bản_đồ địa_hình phần đất_liền .
+
+3 . Trường_hợp không đo vẽ được phần đất_liền , phần đảo theo quy_định tại Điểm d Khoản 7 Điều 4 Thông_tư này thì được biên vẽ phần địa_hình , địa_vật trên phần đất_liền , trên phần đảo từ bản_đồ địa_hình , từ hải_đồ tỉ_lệ nhỏ hơn bản_đồ cần thành_lập . Trong Tkt - Dt phải nêu cụ_thể phương_án kĩ_thuật ( mức_độ cập_nhật bổ_sung sự_biến_động các địa_vật , việc định_vị diện_tích các đảo , xác_định đường bờ nước ) .
+
+Điều 27 . Biểu_thị các yếu_tố địa_hình , địa_vật trên phần đất_liền , trên phần đảo
+
+Việc biểu_thị các yếu_tố địa_hình , địa_vật trên phần đất_liền , trên phần đảo tuân_thủ các quy_định hiện_hành trong đo vẽ và thành_lập bản_đồ địa_hình cùng tỉ_lệ phần đất_liền .
+
+Điều 28 . Biểu_thị các yếu_tố địa_hình , địa_vật trên phần biển
+
+1 . Việc thành_lập bản_đồ gốc đối_với bản_đồ địa_hình đáy biển được thực_hiện theo quy_định chung đối_với bản_đồ địa_hình phần đất_liền và Quy_định kĩ_thuật_số_hoá bản_đồ địa_hình tỉ_lệ 1 : 10 000 , 1 : 25 000 , 1 : 50 000 và 1 : 100 000 ban_hành kèm theo Quyết_định số 70/2000/QĐ-ĐC ngày 25 tháng 2 năm 2000 của Tổng_cục_trưởng Tổng_cục Địa_chính .
+
+2 . Việc ghép_nối phần diện_tích bản_đồ địa_hình đáy biển tỉ_lệ 1 : 5000 với bản_đồ địa_hình trên phần đất_liền hoặc trên phần đảo tỉ_lệ 1 : 5000 được thực_hiện tiếp biên theo quy_định chung đối_với bản_đồ địa_hình phần đất_liền .
+
+3 . Tên và ghi_chú của các yếu_tố nội_dung bản_đồ địa_hình đáy biển đã ghi trong sổ nhật_kí đo được đưa vào bản_đồ theo toạ_độ và thể_hiện bằng kí_hiệu tương_ứng .
+
+4 . Nội_dung các nhóm , lớp của bản_đồ địa_hình đáy biển được điều_chỉnh so với nội_dung các nhóm lớp của bản_đồ bản_đồ địa_hình phần đất_liền như sau :
+
+a ) Nhóm lớp địa_hình được bổ_sung , sửa_đổi các lớp sau :
+
+b ) Nhóm lớp giao_thông được bổ_sung các lớp sau :
+
+c ) Nhóm lớp thuỷ hệ được bỏ các lớp sau :
+
+- Lớp 5 ( đường đẳng sâu ) ;
+
+- Lớp 6 ( ghi_chú đường đẳng sâu ) .
+
+5 . Độ cao đường bờ nước , đường mép nước trên bản_đồ địa_hình đáy biển được xác_định như sau :
+
+a ) Trường_hợp đường bờ nước , đường mép nước được xác_định trong quá_trình đo ngoại nghiệp thì độ cao các đường này lấy theo trị đo ngoại_nghiệp ;
+
+b ) Trường_hợp đường bờ nước , đường mép nước đã được xác_định trên bản_đồ địa_hình phần đất_liền hoặc phần đảo tỉ_lệ 1 : 5000 thì độ cao của các đường này lấy theo độ cao của bản_đồ địa_hình trên phần đất_liền hoặc trên phần đảo .
+
+6 . Trong quá_trình thành_lập bản_đồ gốc số , nếu gặp những đối_tượng cần biểu_thị trên bản_đồ , nhưng chưa được nêu trong Ký_hiệu 1 : 5000 và Thông_tư này thì đơn_vị thi_công chủ_động đề_xuất kí_hiệu biểu_thị và phải nêu rõ trong Báo_cáo tổng_kết kĩ_thuật và Báo_cáo kiểm_tra chất_lượng , khối_lượng công_trình sản_phẩm và Báo_cáo nghiệm_thu của cấp có thẩm_quyền .
+
+Điều 29 . Lý_lịch bản_đồ
+
+1 . Đơn_vị thi_công ở ngoại nghiệp phải điền đầy_đủ các thông_tin có liên_quan đến quá_trình đo ở ngoại nghiệp vào tệp lí_lịch bản_đồ theo quy_định .
+
+2 . Đơn_vị thi_công ở nội nghiệp tiếp_nhận tệp lí_lịch bản_đồ từ đơn_vị thi_công ngoại_nghiệp và có nhiệm_vụ điền thêm đầy_đủ các thông_tin có liên_quan đến quá_trình biên vẽ , thành_lập bản_đồ gốc số ở nội nghiệp .
+
+3 . Mẫu lí_lịch bản_đồ gốc dạng số theo quy_định tại Phụ_lục 4 ban_hành kèm theo Thông_tư này .
+
+Chương_ix
+
+Điều_khoản Thi_hành
+
+Điều 30 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 02 năm 2018 .
+
+Điều 31 . Tổ_chức thực_hiện
+
+Tổng_cục Biển và Hải_đảo Việt_nam có trách_nhiệm hướng_dẫn và kiểm_tra việc thực_hiện Thông_tư này .
+
+Trong quá_trình thực_hiện , nếu có vướng_mắc thì cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , giải_quyết . / .

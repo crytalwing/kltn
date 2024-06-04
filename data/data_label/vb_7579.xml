@@ -1,0 +1,341 @@
+Thông_tư số 13/2018/tt-btnmt ngày 18 tháng 10 năm 2018 của bộ tài_nguyên và môi_trường
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định số 81/2010/QĐ-Ttg ngày 13 tháng 12 năm 2010 </QĐ> của Thủ_tướng Chính_phủ quy_định về thu_nhận , lưu_trữ , xử_lý , khai_thác và sử_dụng dữ_liệu viễn_thám quốc_gia và <QĐ rel="None"> Quyết_định số 76/2014/QĐ-Ttg ngày 24 tháng 12 năm 2014 </QĐ> sửa_đổi , bổ_sung một_số điều của <QĐ rel="None"> Quyết_định số 81/2010/QĐ-Ttg </QĐ> của Thủ_tướng Chính_phủ quy_định về thu_nhận , lưu_trữ , xử_lý , khai_thác và sử_dụng dữ_liệu viễn_thám quốc_gia ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định số 83/2000/QĐ-Ttg ngày 12 tháng 7 năm 2000 </QĐ> của Thủ_tướng Chính_phủ về sử_dụng Hệ quy chiếu và Hệ toạ_độ quốc_gia Việt_nam ;
+
+Theo đề_nghị của Cục_trưởng Cục Viễn_thám quốc_gia , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư quy_định kĩ_thuật thành_lập bản_đồ nhiệt_độ bề_mặt_nước biển và bản_đồ hàm_lượng diệp_lục bề_mặt_nước biển tỉ_lệ 1 : 500 . 000 , 1 : 1 . 000 . 000 bằng dữ_liệu viễn_thám quang_học độ phân_giải thấp .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định kĩ_thuật cho việc thành_lập bản_đồ nhiệt_độ bề_mặt_nước biển và bản_đồ hàm_lượng diệp_lục bề_mặt_nước biển tỉ_lệ 1 : 500 . 000 , 1 : 1 . 000 . 000 bằng dữ_liệu viễn_thám quang_học độ phân_giải thấp .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng với các cơ_quan quản_lí Nhà_nước và các tổ_chức , cá_nhân có liên_quan đến hoạt_động xây_dựng , thành_lập bản_đồ nhiệt_độ bề_mặt_nước biển và bản_đồ hàm_lượng diệp_lục bề_mặt_nước biển tỉ_lệ 1 : 500 . 000 , 1 : 1 . 000 . 000 bằng dữ_liệu viễn_thám quang_học độ phân_giải thấp .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Dữ_liệu viễn thảm quang_học độ phân_giải thấp là dữ_liệu ảnh viễn_thám quang_học có kích_thước của một ( 01 ) điểm_ảnh ( pixel ) chiếu trên mặt_đất lớn hơn 100m .
+
+2 . Bề_mặt_nước biển là bề_mặt_nước của đại_dương có độ dày trong khoảng xấp_xỉ 1mm .
+
+3 . Bản_đồ hàm_lượng diệp_lục bề_mặt_nước biển là bản_đồ chuyên_đề thể_hiện nội_dung thông_tin về phân_bố hàm_lượng chất diệp_lục nhóm a ( chlorophyll - a ) có trong thực_vật trên bề_mặt_nước biển .
+
+4 . Bản_đồ nhiệt_độ bề_mặt_nước biển là bản_đồ chuyên_đề thể_hiện nội_dung thông_tin về trường nhiệt_độ của bề_mặt_nước biển .
+
+Điều 4 . Cơ_sở toán_học
+
+1 . Bản_đồ nhiệt_độ bề_mặt_nước biển và bản_đồ hàm_lượng diệp_lục bề_mặt_nước biển tỉ_lệ 1 : 500 . 000 , 1 : 1 . 000 . 000 được thành_lập ở Hệ quy chiếu và Hệ toạ_độ địa_hình quốc_gia dùng để xây_dựng bản_đồ nền theo quy_định tại <QĐ rel="DC"> Quyết_định số 83/2000/QĐ-Ttg ngày 12 tháng 7 năm 2000 </QĐ> của Thủ_tướng Chính_phủ về sử_dụng Hệ quy chiếu và Hệ toạ_độ quốc_gia Việt_nam .
+
+2 . Hệ quy chiếu và Hệ toạ_độ của bản_đồ chuyên_đề theo quy_định tại <TT rel="DC"> Thông_tư số 10/2017/TT-BTNMT ngày 06 tháng 6 năm 2017 </TT> của Bộ Tài_nguyên và Môi_trường quy_định quy_trình thành_lập bản_đồ chuyên_đề bằng ảnh viễn_thám tỉ_lệ 1 : 5 . 000 , 1 : 10 . 000 , 1 : 500 . 000 , 1 : 1 . 000 . 000 ( sau đây gọi là <TT rel="DC"> Thông_tư số 10/2017/TT-BTNMT </TT>).
+
+Điều 5 . Hình_thức thể_hiện bản_đồ chuyên_đề
+
+1 . Tên bản_đồ chuyên_đề gồm : tên chuyên_đề , tên vùng thành_lập bản_đồ và số thứ tự mảnh ( nếu bản_đồ gồm nhiều mảnh ) .
+
+2 . Tỷ_lệ của bản_đồ chuyên_đề được xác_định căn_cứ vào diện_tích , hình_dáng , kích_thước và mức_độ chi_tiết của phạm_vi vùng thành_lập bản_đồ .
+
+3 . Bản_đồ chuyên_đề gồm nhiều mảnh thì thể_hiện sơ_đồ ghép mảnh ở góc phía trên bên phải của khung bản_đồ .
+
+4 . Bản_đồ chuyên_đề thể_hiện cả 2 hệ_thống lưới kinh - vĩ_tuyến và lưới ki - lô - mét . Lưới kinh - vĩ_tuyến trên bản_đồ thể_hiện bằng các đường kinh - vĩ_tuyến với mật_độ 1 . Lưới ki - lô - mét trên bản_đồ thể_hiện bằng các mắt lưới với mật_độ cách nhau 10cm tính theo tỉ_lệ bản_đồ .
+
+5 . Bảng chú giải của bản_đồ đặt ở phía bên phải của khung bản_đồ , trong trường_hợp có_thể bố_trí được ở bên trong khung thì đặt bảng chú giải vào vị_trí thích_hợp .
+
+6 . Các vùng nhiệt_độ được thể_hiện trên bản_đồ chuyên_đề theo thang màu cam . Các đường đẳng_nhiệt và ghi_chú giá_trị được thể_hiện trên bản_đồ bằng màu đen .
+
+7 . Các vùng hàm_lượng diệp_lục bề_mặt_nước biển được thể_hiện trên bản_đồ chuyên_đề theo thang màu xanh lục . Các đường bao vùng hàm_lượng diệp_lục và ghi_chú giá_trị được thể_hiện trên bản_đồ bằng màu đen .
+
+Điều 6 . Kỹ_thuật thể_hiện bản_đồ chuyên_đề
+
+1 . Các nội_dung chuyên_đề về nhiệt_độ hoặc hàm_lượng diệp_lục bề_mặt_nước biển thể_hiện trên bản_đồ được tính_toán và chiết_xuất từ dữ_liệu viễn_thám quang_học độ phân_giải thấp theo mô_hình cùng các tham_số của mô_hình .
+
+2 . Thể_hiện trên bản_đồ các đối_tượng dạng có diện_tích 4mm2 và các đối_tượng dạng đường có độ dài 2cm .
+
+Điều 7 . Các yếu_tố nội_dung bản_đồ nền
+
+1 . Bản_đồ nền được thành_lập theo quy_định tại Điều 9 của <TT rel="DC"> Thông_tư số 10/2017/TT-BTNMT </TT>.
+
+2 . Các nhóm lớp dữ_liệu bản_đồ nền :
+
+a ) Nhóm lớp cơ_sở toán_học bao_gồm các yếu_tố : tên bản_đồ , trình_bày khung bản_đồ , lưới ki - lô - mét , lưới toạ_độ địa_lý , ghi_chú về hệ toạ_độ , lưới chiếu , kinh_tuyến trục , tỉ_lệ bản_đồ , phương_pháp thành_lập , chú giải và các đối_tượng liên_quan khác ;
+
+b ) Nhóm lớp thuỷ hệ bao_gồm các loại đối_tượng thuỷ_văn cơ_bản để làm căn_cứ để biểu_thị vị_trí , hình_dạng , kích_thước các nội_dung chuyên_đề : đường bờ biển , rạn san_hô , sông_ngòi , đê_biển ;
+
+c ) Nhóm lớp giao_thông bao_gồm các loại đối_tượng : đường_sắt , đường_cao_tốc , đường quốc_lộ , các tuyến giao_thông thuỷ , bến cảng ;
+
+d ) Nhóm lớp dân_cư bao_gồm các điểm dân_cư mang tính định_hướng : trụ_sở Ủy_ban nhân_dân , các địa_vật độc_lập quan_trọng và các công_trình kinh_tế , văn_hoá - xã_hội có tính định_hướng ;
+
+đ ) Nhóm lớp địa_hình bao_gồm các đường đẳng sâu , điểm độ sâu được thể_hiện đầy_đủ như bản_đồ địa_hình cùng tỉ_lệ . Đối_với phần địa_hình ven bờ ( nếu có ) cần phải được tiếp biên đầy_đủ ;
+
+e ) Nhóm lớp địa_giới hành_chính được biểu_thị đến cấp tỉnh đối_với khu_vực đất_liền , thể_hiện đến cấp xã đối_với khu_vực các đảo ;
+
+g ) Ghi_chú địa_danh và các ghi_chú thuyết_minh .
+
+3 . Các địa_danh biển , hải_đảo và địa_giới hành_chính phải được cập_nhật theo tài_liệu mới nhất do Bộ Tài_nguyên và Môi_trường ban_hành .
+
+Điều 8 . Các yếu_tố nội_dung của lớp dữ_liệu chuyên_đề về nhiệt_độ bề_mặt_nước biển
+
+1 . Vùng không có dữ_liệu .
+
+2 . Đối_với nhiệt_độ bề_mặt_nước biển phân_vùng với khoảng giá_trị nhỏ nhất là 0 , 5 C .
+
+3 . Đường đẳng_nhiệt .
+
+4 . Ghi_chú giá_trị các đường đẳng_nhiệt .
+
+Điều 9 . Các yếu_tố nội_dung của lớp dữ_liệu chuyên_đề về hàm_lượng diệp_lục bề_mặt_nước biển
+
+1 . Vùng không có dữ_liệu .
+
+2 . Đối_với hàm_lượng diệp_lục bề_mặt_nước biển phân_vùng với khoảng giá_trị nhỏ nhất là 0 , 1mg / m3 .
+
+3 . Đường bao các vùng hàm_lượng diệp_lục .
+
+4 . Ghi_chú giá_trị các đường phân_vùng hàm_lượng diệp_lục .
+
+Chương_ii
+
+Quy_định Kỹ_thuật
+
+Điều 10 . Công_tác chuẩn_bị
+
+1 . Công_tác chuẩn_bị thực_hiện theo quy_định tại Điều 6 của <TT rel="DC"> Thông_tư số 10/2017/TT-BTNMT </TT>.
+
+2 . Thu_thập , phân_tích đánh_giá các tài_liệu gồm : Ảnh viễn_thám , bản_đồ , các số_liệu thống_kê , các thông_tin có liên_quan đến chuyên_đề bản_đồ cần thành_lập .
+
+3 . Thu_thập số_liệu đo_đạc trực_tiếp nhiệt_độ bề_mặt_nước biển ( nếu có ) , hàm_lượng chất diệp_lục tại thực_địa ( nếu có ) .
+
+4 . Xác_định loại dữ_liệu viễn_thám và chu_kì thu_nhận để phục_vụ thành_lập bản_đồ chuyên_đề .
+
+Điều 11 . Biên_tập khoa_học
+
+1 . Biên_tập khoa_học thực_hiện theo quy_định tại Điều 7 của <TT rel="DC"> Thông_tư số 10/2017/TT-BTNMT </TT>.
+
+2 . Xác_định tên , tỉ_lệ , chia mảnh bản_đồ ( số thứ tự mảnh được đánh_số bằng chữ_số La_mã lần_lượt từ trái sang phải , từ trên xuống dưới ) ; thể_hiện khung , lưới kinh - vĩ_tuyến và các trình_bày ngoài khung bản_đồ .
+
+3 . Xác_định các chỉ_tiêu thể_hiện nội_dung , bố_cục nội_dung , định_dạng bản_đồ sản_phẩm .
+
+4 . Xác_định giai_đoạn thành_lập bản_đồ , tính_toán số chu_kì và thời_điểm bắt_đầu , kết_thúc của các chu_kỳ .
+
+5 . Viết kế_hoạch biên_tập chi_tiết .
+
+6 . Thiết_kế , tạo_lập thư_viện kí_hiệu .
+
+7 . Tổ_chức thư_mục lưu_trữ dữ_liệu .
+
+Điều 12 . Biên_tập bản_đồ nền
+
+1 . Quét , nắn trong trường_hợp bản_đồ tài_liệu dùng để xây_dựng bản_đồ nền ở dạng bản_đồ giấy .
+
+2 . Nắn chuyển hệ toạ_độ nếu cần .
+
+3 . Ghép dữ_liệu và cắt dữ_liệu theo phạm_vi thành_lập bản_đồ chuyên_đề .
+
+4 . Biên_tập , tổng_quát hoá và chọn_lọc đối_tượng theo kế_hoạch biên_tập chi_tiết .
+
+Điều 13 . Thu_nhận , xử_lí dữ_liệu viễn_thám
+
+1 . Thu_nhận dữ_liệu viễn_thám theo các chu_kì trong giai_đoạn thành_lập bản_đồ bao_gồm : các dữ_liệu ảnh viễn_thám và dữ_liệu bổ_trợ .
+
+2 . Các bước xử_lí dữ_liệu viễn_thám
+
+a ) Chuyển_đổi hệ quy chiếu của dữ_liệu viễn_thám ;
+
+b ) Loại_bỏ tất_cả các điểm_ảnh được nhận_dạng là mây , không có giá_trị hoặc đất_liền ;
+
+c ) Định_chuẩn ảnh : tính chuyển giá_trị độ xám của ảnh sang giá_trị phản_xạ phổ tại đỉnh khí_quyển ;
+
+d ) Hiệu_chỉnh nhiễu đa tán_xạ do sol khí ;
+
+đ ) Hiệu_chỉnh bức_xạ bị hấp_thụ của sol khí ;
+
+e ) Hiệu_chỉnh phân_bổ năng_suất phản_xạ hai chiều ;
+
+g ) Hiệu_chỉnh hiệu_ứng loá của ánh_sáng mặt_trời .
+
+3 . Độ chính_xác vị_trí của ảnh sau khi xử_lí không vượt quá một ( 01 ) điểm_ảnh .
+
+Điều 14 . Chiết_xuất nội_dung chuyên_đề nhiệt_độ bề_mặt_nước biển
+
+1 . Lựa_chọn mô_hình cùng các tham_số của mô_hình : xác_định trên cơ_sở loại ảnh viễn_thám được sử_dụng .
+
+2 . Lựa_chọn kênh ảnh : Các kênh ảnh được lựa_chọn để tính giá_trị nhiệt_độ nằm trong dải_sóng nhiệt từ 11 - 14 m .
+
+3 . Tính_toán giá_trị nhiệt_độ bề_mặt_nước biển tại thời_điểm chụp ảnh dựa trên mô_hình và các kênh ảnh đã được lựa_chọn .
+
+4 . Tạo ảnh nhiệt_độ bề_mặt_nước biển theo chu_kì
+
+Tuỳ theo yêu_cầu của bản_đồ cần thành_lập để lựa_chọn các bước sau :
+
+a ) Tạo ảnh theo ngày ;
+
+b ) Tạo ảnh theo tuần ( tổ_hợp các ảnh của bảy ngày trong một tuần ) . Ảnh nhiệt_độ bề_mặt_nước biển theo tuần được tính là giá_trị trung_bình của các ảnh trong tuần ;
+
+c ) Tạo ảnh theo tháng ( tổ_hợp các ảnh của các ngày trong một tháng ) . Ảnh nhiệt_độ bề_mặt_nước biển theo tháng được tính là giá_trị trung_bình của các ảnh trong tháng ;
+
+d ) Tạo ảnh theo quý ( tổ_hợp các ảnh của các ngày / tháng trong một quý ) . Ảnh nhiệt_độ bề_mặt_nước biển theo quý được tính là giá_trị trung_bình của các ngày hoặc các tháng trong quý ;
+
+đ ) Tạo ảnh theo năm ( tổ_hợp các ảnh của các ngày / tháng / quý trong một năm ) . Ảnh nhiệt_độ bề_mặt_nước biển theo năm được tính là giá_trị trung_bình của các ngày , các tháng hoặc các quý trong năm ;
+
+e ) Tạo ảnh theo một giai_đoạn ( tổ_hợp các ảnh của các ngày trong giai_đoạn ) . Ảnh nhiệt_độ bề_mặt_nước biển theo giai_đoạn được tính là giá_trị trung_bình của các ảnh trong giai_đoạn .
+
+5 . Nội suy đường đẳng_nhiệt và phân_vùng ảnh_nhiệt
+
+a ) Nội suy đường đẳng_nhiệt từ tập giá_trị điểm_ảnh của ảnh nhiệt_độ bề_mặt_nước biển theo chu_kỳ ;
+
+b ) Phân_vùng ảnh nhiệt với khoảng phân_vùng nhỏ nhất là 0 , 5 C ;
+
+c ) Chuyển_đổi vùng phân_chia nhiệt_độ từ dạng ảnh ( raster ) sang dạng véc - tơ ( vecto ) .
+
+Điều 15 . Chiết_xuất nội_dung chuyên_đề hàm_lượng diệp_lục bề_mặt_nước biển
+
+1 . Lựa_chọn mô_hình và thuật_toán : xác_định trên cơ_sở loại ảnh viễn_thám được sử_dụng .
+
+2 . Lựa_chọn kênh ảnh : Các kênh ảnh được lựa_chọn để tính giá_trị hàm_lượng diệp_lục bề_mặt_nước biển nằm trong dải_sóng từ 443 - 565nm .
+
+3 . Tính_toán giá_trị hàm_lượng diệp_lục bề_mặt_nước biển tại thời_điểm chụp ảnh dựa trên mô_hình , kênh ảnh và thuật_toán đã chọn .
+
+4 . Tạo ảnh hàm_lượng diệp_lục bề_mặt_nước biển theo chu_kì
+
+Tuỳ theo yêu_cầu của bản_đồ cần thành_lập để lựa_chọn các bước sau :
+
+a ) Tạo ảnh theo ngày ;
+
+b ) Tạo ảnh theo tuần ( tổ_hợp các ảnh của bảy ngày trong một tuần ) . Ảnh hàm_lượng diệp_lục bề_mặt_nước biển theo tuần được tính là giá_trị trung_bình của các ảnh trong tuần ;
+
+c ) Tạo ảnh theo tháng ( tổ_hợp các ảnh của các ngày trong một tháng ) . Ảnh hàm_lượng diệp_lục bề_mặt_nước biển theo tháng được tính là giá_trị trung_bình của các ảnh trong tháng ;
+
+d ) Tạo ảnh theo quý ( tổ_hợp các ảnh của các ngày / tháng trong một quý ) . Ảnh hàm_lượng diệp_lục bề_mặt_nước biển theo quý được tính là giá_trị trung_bình của các ngày hoặc các tháng trong quý ;
+
+đ ) Tạo ảnh theo năm ( tổ_hợp các ảnh của các ngày / tháng / quý trong một năm ) . Ảnh hàm_lượng diệp_lục bề_mặt_nước biển theo năm được tính là giá_trị trung_bình của các ngày , các tháng hoặc các quý trong năm ;
+
+e ) Tạo ảnh theo một giai_đoạn ( tổ_hợp các ảnh của các ngày trong giai_đoạn ) . Ảnh hàm_lượng diệp_lục bề_mặt_nước biển theo giai_đoạn được tính là giá_trị trung_bình của các ảnh trong giai_đoạn .
+
+5 . Phân_vùng ảnh hàm_lượng diệp_lục
+
+a ) Tính_toán giá_trị hàm_lượng diệp_lục bề_mặt_nước biển và chia thành các vùng có giá_trị với khoảng chia nhỏ nhất là 0 , 1mg / m3 ;
+
+b ) Chuyển_đổi vùng chia hàm_lượng diệp_lục từ dạng ảnh ( raster ) sang dạng véc - tơ ( vecto ) .
+
+Điều 16 . Chuẩn_hoá dữ_liệu dẫn_xuất , tích_hợp , phân_tích , xử_lí tổng_hợp dữ_liệu và biên_tập , trình_bày bản_đồ chuyên_đề
+
+1 . Chuẩn_hoá dữ_liệu dẫn_xuất , tích_hợp , phân_tích , xử_lí tổng_hợp dữ_liệu và biên_tập , trình_bày bản_đồ chuyên_đề thực_hiện theo các Điều 13 , 14 , 15 của <TT rel="DC"> Thông_tư số 10/2017/TT-BTNMT </TT>.
+
+2 . Nội_dung xây_dựng kế_hoạch biên_tập chi_tiết
+
+a ) Xây_dựng hướng_dẫn biên_tập gồm các nội_dung : xác_định chỉ_tiêu thể_hiện và yêu_cầu về mức_độ đầy_đủ của các yếu_tố nội_dung , phương_pháp thể_hiện , quy_định về phân lớp các yếu_tố nội_dung , kiểu , màu_sắc , kích_thước kí_hiệu , các yêu_cầu về độ chính_xác ;
+
+b ) Tạo_lập thư_viện kí_hiệu trên máy_tính và lập các mẫu tác_giả , mẫu kí_hiệu , mẫu bảng chú giải trong phần_mềm dùng để biên_tập bản_gốc tác_giả ;
+
+c ) Thiết_kế thang màu phân tầng nhiệt_độ và hàm_lượng diệp_lục bề_mặt_nước biển ;
+
+d ) Xác_định công_nghệ thành_lập bản_đồ và phương_án đưa lên mạng Internet .
+
+3 . Nội_dung biên_tập bản_gốc tác_giả_dạng số
+
+a ) Biên_tập các yếu_tố nền địa_lý : biên_tập , tổng_quát hoá và chọn_lọc đối_tượng phù_hợp với các nội_dung về nhiệt_độ bề_mặt_nước biển và nội_dung về hàm_lượng diệp_lục bề_mặt_nước biển theo kế_hoạch biên_tập chi_tiết ;
+
+b ) Biên_tập các yếu_tố nội_dung theo chuyên_đề : chỉnh hợp các yếu_tố chuyên_đề trên bản_đồ nền để đảm_bảo tương_quan vị_trí địa_lí giữa các yếu_tố chuyên_đề và yếu_tố nền ; biểu_thị các yếu_tố chuyên_đề bằng hệ_thống các kí_hiệu đã thiết_kế trong kế_hoạch biên_tập chi_tiết .
+
+4 . Nội_dung xây_dựng lí_lịch bản_đồ chuyên_đề
+
+a ) Mỗi_một bản_đồ chuyên_đề đều phải có một tệp_tin về lí_lịch kèm theo ;
+
+b ) Tệp_tin lí_lịch của bản_đồ chuyên_đề phải bao_gồm các thông_tin sau : Tên cơ_quan , cá_nhân thành_lập bản_đồ ; Thời_gian , phương_pháp , phạm_vi thành_lập bản_đồ ; Cơ_sở toán_học của bản_đồ : hệ toạ_độ , lưới chiếu , kinh_tuyến trung_ương , tỉ_lệ bản_đồ ; Nguồn dữ_liệu được sử_dụng để thành_lập bản_đồ ; Các vấn_đề kĩ_thuật phát_sinh trong quá_trình thành_lập bản_đồ và phương_án xử_lý ; Cơ_quan kiểm_tra , nghiệm_thu bản_đồ ;
+
+c ) Tệp_tin lí_lịch của bản_đồ chuyên_đề được lưu dưới dạng * . doc hoặc * . txt .
+
+5 . Đối_với bản_đồ chuyên_đề in trên giấy : công_việc biên_tập phục_vụ in bản_đồ phải tuân_thủ các nguyên_tắc chung về biên_tập bản_đồ chuyên_đề in trên giấy và theo đúng quy_định trong thiết_kế kĩ_thuật - dự_toán của bản_đồ chuyên_đề .
+
+6 . Các bước thực_hiện đối_với bản_đồ chuyên_đề dạng điện_tử trên Cd - rom và trên mạng Internet
+
+a ) Thiết_kế giao_diện ;
+
+b ) Xác_định và lập_trình các công_cụ tương_tác trên bản_đồ ;
+
+c ) Lập_trình hiển_thị bản_đồ tác_giả_dạng số đã biên_tập và liên_kết các thành_phần bản_đồ ;
+
+d ) Đóng_gói Cd - rom hoặc phát_hành bản_đồ lên mạng Internet .
+
+Điều 17 . Xây_dựng báo_cáo thuyết_minh bản_đồ chuyên_đề
+
+Công_tác xây_dựng báo_cáo thuyết_minh của bản_đồ nhiệt_độ bề_mặt_nước biển và bản_đồ hàm_lượng diệp_lục bề_mặt_nước biển được thực_hiện theo các nội_dung quy_định tại Điều 16 của <TT rel="DC"> Thông_tư số 10/2017/TT-BTNMT </TT>.
+
+Điều 18 . Kiểm_tra nghiệm_thu sản_phẩm
+
+1 . Cơ_sở để kiểm_tra là Thiết_kế kĩ_thuật - dự_toán thành_lập bản_đồ chuyên_đề đã được cấp có thẩm_quyền phê_duyệt .
+
+2 . Các công_đoạn kiểm_tra , nghiệm_thu sản_phẩm
+
+a ) Kiểm_tra , nghiệm_thu cấp đơn_vị thi_công ;
+
+b ) Kiểm_tra , nghiệm_thu cấp chủ đầu_tư ;
+
+c ) Thẩm_định , nghiệm_thu hồ_sơ chất_lượng , khối_lượng sản_phẩm .
+
+3 . Các nội_dung kiểm_tra
+
+a ) Độ chính_xác và mức_độ đầy_đủ của các yếu_tố cơ_sở toán_học , các yếu_tố nền địa_lý , các yếu_tố chuyên_môn theo thiết_kế kĩ_thuật - dự_toán và mức_độ đúng , đủ và sự phù_hợp tương_quan địa_lí giữa các yếu_tố chuyên_đề với các yếu_tố địa_lý ;
+
+b ) Mức_độ đúng , đủ và sự phù_hợp của bảng chú giải ;
+
+c ) Mức_độ đúng , đủ của việc phân_loại , phân lớp các đối_tượng là các yếu_tố nội_dung bản_đồ trên các tệp_tin bản_đồ ;
+
+d ) Tính đúng và đầy_đủ trong việc biểu_thị các yếu_tố nội_dung bản_đồ bằng hệ_thống kí_hiệu đã thiết_kế ;
+
+đ ) Tính hợp_lí về trình_bày bố_cục của bản_đồ chuyên_đề .
+
+4 . Các loại sản_phẩm cần kiểm_tra
+
+a ) Bản_đồ giấy : kiểm_tra trên bản in phun ;
+
+b ) Bản_đồ dạng số : kiểm_tra các tệp_tin bản_đồ trên máy_tính ;
+
+c ) Các loại dữ_liệu ảnh viễn_thám , bản_đồ trên Cd - rom và trên Internet phải kiểm_tra trên máy_tính . Bản_đồ trên Internet phải kiểm_tra trực_tiếp trong môi_trường Internet để kiểm_nghiệm đường_dẫn , tốc_độ đường truyền .
+
+Điều 19 . Giao_nộp và lưu_trữ sản_phẩm
+
+1 . Sản_phẩm giao_nộp
+
+a ) Sản_phẩm giao_nộp là sản_phẩm đã được kiểm_tra kĩ_thuật và đã được nghiệm_thu ở các cấp theo quy_định của Bộ Tài_nguyên và Môi_trường ;
+
+b ) Các loại dữ_liệu được sử_dụng để thành_lập bản_đồ chuyên_đề : Dữ_liệu gốc dùng để thành_lập bản_đồ nền , dữ_liệu viễn_thám được sử_dụng để thành_lập bản_đồ , ảnh nhiệt_độ bề_mặt_nước biển , ảnh hàm_lượng chất diệp_lục bề_mặt_nước biển ;
+
+c ) Bản_đồ chuyên_đề in trên giấy : số_lượng 03 ( ba ) bộ ;
+
+d ) Bản_đồ dạng số lưu trên vật_mang tin và bản_đồ trên internet phải lưu toàn_bộ các bản_đồ tác_giả_dạng số , thư_viện kí_hiệu , lí_lịch của bản_đồ , các tệp_tin hình_ảnh , bài viết , mã nguồn của phần giao_diện và đóng_gói sản_phẩm . Bộ sản_phẩm số phải có nhãn thể_hiện rõ các thông_tin : Vùng thành_lập bản_đồ , tên bản_đồ , tỉ_lệ bản_đồ , cơ_quan thành_lập , thời_gian thành_lập . Số_lượng giao_nộp 03 ( ba ) bộ ;
+
+đ ) Báo_cáo thuyết_minh bản_đồ chuyên_đề : số_lượng 03 ( ba ) bộ ;
+
+e ) Hồ_sơ kiểm_tra , nghiệm_thu sản_phẩm .
+
+2 . Các sản_phẩm bản_đồ chuyên_đề phải được lưu_trữ ít_nhất tại : Cơ_quan thành_lập bản_đồ chuyên_đề và Trung_tâm Thông_tin và dữ_liệu viễn_thám trực_thuộc Cục Viễn_thám quốc_gia .
+
+Chương_iii
+
+Điều_khoản Thi_hành
+
+Điều 20 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 03 tháng 11 năm 2018 .
+
+Điều 21 . Tổ_chức thực_hiện
+
+1 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Cục Viễn_thám quốc_gia có trách_nhiệm hướng_dẫn , kiểm_tra việc thực_hiện Thông_tư này .
+
+3 . Trường_hợp các văn_bản quy_phạm_pháp_luật dẫn chiếu áp_dụng tại Thông_tư này được sửa_đổi , bổ_sung hoặc thay_thế_thì thực_hiện theo quy_định tại văn_bản mới .
+
+4 . Trong quá_trình thực_hiện Thông_tư nếu có vướng_mắc , các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , quyết_định . / .

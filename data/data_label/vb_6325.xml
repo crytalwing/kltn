@@ -1,0 +1,849 @@
+Thông_tư số 25/2020/tt-nhnn ngày 31 tháng 12 năm 2020 của ngân_hàng nhà_nước việt_nam
+
+Căn_cứ <LT rel="CC"> Luật Ngân_hàng Nhà_nước Việt_nam ngày 16 tháng 6 năm 2010 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Kế_toán ngày 20 tháng 11 năm 2015 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Giao_dịch điện_tử ngày 29 tháng 11 năm 2005 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 35/2007/NĐ-CP ngày 8 tháng 3 năm 2007 </NĐ> của Chính_phủ về giao_dịch điện_tử trong hoạt_động ngân_hàng ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 16/2017/NĐ-CP ngày 17 tháng 02 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Ngân_hàng Nhà_nước Việt_nam ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 </NĐ> của Chính_phủ quy_định chi_tiết về chữ_kí số và chứng_thư số ; việc quản_lý , cung_cấp và sử_dụng chữ_kí số , chứng_thư số và dịch_vụ chứng_thực chữ_kí số ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định số 08/2013/QĐ-TTg ngày 24 tháng 01 năm 2013 </QĐ> của Thủ_tướng Chính_phủ về chế_độ kế_toán áp_dụng đối_với Ngân_hàng Nhà_nước Việt_nam ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Tài_chính - Kế_toán ;
+
+Thống_đốc Ngân_hàng Nhà_nước Việt_nam ban_hành Thông_tư quy_định Quy_trình luân_chuyển , kiểm_soát , đối_chiếu và tập_hợp chứng từ kế_toán trong hệ_thống Ngân_hàng lõi , kế_toán , lập ngân_sách và tích_hợp hệ_thống tại Ngân_hàng Nhà_nước Việt_nam .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định Quy_trình luân_chuyển , kiểm_soát , đối_chiếu và tập_hợp chứng từ kế_toán trong hệ_thống Ngân_hàng lõi , kế_toán , lập ngân_sách và tích_hợp hệ_thống tại các đơn_vị có tổ_chức bộ_máy kế_toán thuộc Ngân_hàng Nhà_nước Việt_nam ( sau đây gọi tắt là Nhn ) .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Các đơn_vị có tổ_chức bộ_máy kế_toán , bao_gồm : Vụ Tài_chính - Kế_toán , Sở Giao_dịch , Cục Quản_trị , Cục Công_nghệ thông_tin , Cục Phát_hành và kho_quỹ , Chi_cục Quản_trị , Chi_cục Công_nghệ thông_tin , Chi_cục Phát_hành và Kho_quỹ , Cơ_quan Thanh_tra , giám_sát ngân_hàng , Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố trực_thuộc Trung_ương , các đơn_vị khác thuộc Nhn có tổ_chức bộ_máy kế_toán ( sau đây gọi tắt là đơn_vị kế_toán Nhn ) .
+
+2 . Cá_nhân , tổ_chức có liên_quan .
+
+3 . Thông_tư này không áp_dụng đối_với các đơn_vị sự_nghiệp và các Ban quản_lí dự_án thuộc Nhn có tổ_chức bộ_máy kế_toán độc_lập .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Hệ_thống Ngân_hàng lõi , kế_toán , lập ngân_sách và tích_hợp hệ_thống : là hệ_thống được tạo_lập để gửi , nhận , lưu_trữ , hiển_thị , thực_hiện các xử_lí nhằm mục_đích quản_lí và hạch_toán kế_toán các nghiệp_vụ kinh_tế , tài_chính của Nhn ( sau đây gọi tắt là hệ_thống phần_mềm kế_toán ) , bao_gồm : phần_mềm Erp , phần_mềm T24 , phần_mềm Csd , phần_mềm Aom , phần_mềm Cdp .
+
+a ) Phần_mềm Erp ( Enterprise Resource_planning ) : Là hệ_thống quản_lí và hạch_toán kế_toán các nghiệp_vụ kinh_tế , tài_chính của Nhn , bao_gồm các phân hệ nghiệp_vụ sau :
+
+- Phân hệ Quản_lí Sổ cái ( General_ledger ) , viết tắt là Gl ;
+
+- Phân hệ Quản_lí Tài_sản ( Fixed_assets ) , viết tắt là Fa ;
+
+- Phân hệ Quản_lí Phải thu , phải trả ( Account_receivable , Account_payable ) viết tắt là Ar , Ap ;
+
+- Phân hệ Công_cụ kế_toán ( Financial Accounting_hub ) , viết tắt là Fah ;
+
+- Phân hệ quản_lí Ngân_sách ( Budgeting ) , viết tắt là Bg ;
+
+b ) Phần_mềm T24 ( Temenos T24 ) : Là hệ_thống ngân_hàng lõi ( Core banking ) của Nhn để quản_lí và theo_dõi các nghiệp_vụ kinh_tế , tài_chính cơ_bản của Nhn bao_gồm các phân hệ nghiệp_vụ sau :
+
+- Phân hệ Cho vay và Huy_động vốn ( Lending and Deposit ) , viết tắt là Ld ;
+
+- Phân hệ Mua_bán ngoại_tệ liên ngân_hàng và quốc_tế ( Interbank and International Foreign_exchange ) , viết tắt là Fx ;
+
+- Phân hệ Quản_lí các nghiệp_vụ phái_sinh ( Derivatives ) , viết tắt là Dx ;
+
+- Phân hệ Chuyển tiền ( Fund_transfer ) , viết tắt là Ft ;
+
+- Phân hệ Mua_bán chứng_khoán ( Securities ) , viết tắt là Sc ;
+
+- Phân hệ Quản_lí khách_hàng ( Customer ) , viết tắt là Cus ;
+
+- Phân hệ Thị_trường tiền_tệ ( Money_market ) , viết tắt là Mm ;
+
+- Phân hệ Quản_lí tài_khoản khách_hàng ( Account ) , viết tắt là Ac ;
+
+- Phân hệ Quản_lí hạn_mức ( Limit ) , viết tắt là Li ;
+
+- Phân hệ Quản_lí nợ quá hạn ( Loans Past_dues ) , viết tắt là Pd ;
+
+- Phân hệ Quản_lí quỹ giao_dịch ( Teller ) , viết tắt là Tt ;
+
+- Phân hệ Quản_lí dự_trữ bắt_buộc ( Cash Reserve_ratio ) , viết tắt là Cr ;
+
+- Phân hệ Kế_toán tài_chính ( Data_capture ) , viết tắt là Dc ;
+
+c ) Phần_mềm Cdp - tt01 ( Central Desk_portal ) : là hệ_thống quản_lí các nghiệp_vụ dự_trữ ngoại_hối nhà_nước ;
+
+d ) Phần_mềm Csd ( Central Securities_depository ) : là hệ_thống của Nhn để quản_lí các nghiệp_vụ phát_sinh liên_quan đến lưu kí giấy_tờ có_giá ;
+
+đ ) Phần_mềm Aom ( Auction / Open Market_operation ) : là hệ_thống quản_lí các nghiệp_vụ đấu_thầu vàng , nghiệp_vụ thị_trường mở , nghiệp_vụ phát_hành tín_phiếu Nhn , trái_phiếu chính_phủ , trái_phiếu đặc_biệt .
+
+2 . Hệ_thống Cmo ( Currency Management_optimization ) : là hệ_thống quản_lí và phát_hành kho_quỹ tập_trung của Nhn .
+
+3 . Quy_trình luân_chuyển , kiểm_soát , đối_chiếu và tập_hợp chứng_từ : là việc chứng từ kế_toán lần_lượt đi đến các bộ_phận có liên_quan để thực_hiện một trình_tự , bắt_đầu_từ khâu lập , tiếp_nhận , kiểm_tra xử_lí chứng_từ ; phân_loại , và ghi sổ kế_toán ; kiểm_soát , đối_chiếu chứng_từ cho đến khâu tập_hợp , sắp_xếp chứng_từ .
+
+4 . Giao_dịch_hạch_toán tự_động : là giao_dịch được phần_mềm kế_toán tự_động hạch_toán và không có sự can_thiệp từ bên ngoài . Các giao_dịch này được hạch_toán trên cơ_sở các thông_tin do hệ_thống phần_mềm kế_toán tạo ra từ nguồn dữ_liệu có sẵn trong hệ_thống ( ví_dụ như các giao_dịch_hạch_toán lãi dồn tích ) .
+
+5 . Thành_viên tham_gia quy_trình : là các cán_bộ chịu trách_nhiệm thực_hiện từng khâu trong Quy_trình luân_chuyển , kiểm_soát , đối_chiếu và tập_hợp chứng_từ , bao_gồm : cán_bộ nghiệp_vụ , cán_bộ kế_toán , cán_bộ kiểm_soát , cán_bộ thực_hiện công_tác hậu kiểm và tập_hợp chứng_từ , Trưởng_phòng kế_toán hoặc người được Trưởng_phòng kế_toán uỷ_quyền ( sau đây gọi tắt là Trưởng_phòng kế_toán ) ; Thủ_trưởng đơn_vị kế_toán Nhn hoặc người được Thủ_trưởng đơn_vị kế_toán Nhn uỷ_quyền ( sau đây gọi tắt là Thủ_trưởng đơn_vị kế_toán Nhn ) .
+
+6 . Bộ_phận kế_toán : là bộ_phận bao_gồm tất_cả các cán_bộ kế_toán . Trong đó , cán_bộ kế_toán là người trực_tiếp tiếp_nhận , xử_lý , kiểm_tra các chứng từ kế_toán , thực_hiện các giao_dịch kế_toán trên hệ_thống phần_mềm kế_toán ( sau đây gọi tắt là kế_toán viên ) theo phân_công , phân_nhiệm của Thủ_trưởng đơn_vị kế_toán Nhn .
+
+7 . Bộ_phận kiểm_soát : là bộ_phận bao_gồm tất_cả các cán_bộ kiểm_soát . Trong đó , cán_bộ kiểm_soát là người được giao nhiệm_vụ kiểm_soát giao_dịch kế_toán , giao_dịch nghiệp_vụ và có thẩm_quyền duyệt các giao_dịch do cán_bộ nghiệp_vụ , kế_toán viên thực_hiện trên hệ_thống phần_mềm kế_toán .
+
+8 . Bộ_phận nghiệp_vụ : là bộ_phận bao_gồm tất_cả các cán_bộ nghiệp_vụ , bao_gồm bộ_phận kho_quỹ và bộ_phận nghiệp_vụ khác . Trong đó , cán_bộ nghiệp_vụ là người trực_tiếp tiếp_nhận , xử_lý , kiểm_tra các tài_liệu nghiệp_vụ và thao_tác các bước thực_hiện nghiệp_vụ trên hệ_thống phần_mềm kế_toán theo phân_công , phân_nhiệm của Thủ_trưởng đơn_vị .
+
+9 . Bộ_phận kho_quỹ : bao_gồm cán_bộ làm nghiệp_vụ kho_quỹ , người được giao nhiệm_vụ kiểm_soát và có thẩm_quyền phê_duyệt các giao_dịch xuất , nhập kho , quỹ được thực_hiện trên hệ_thống Cmo .
+
+10 . Bộ_phận hậu kiểm : là bộ_phận thuộc phòng kế_toán , bao_gồm tất_cả các cán_bộ thực_hiện công_việc hậu kiểm và tập_hợp chứng_từ ( sau đây gọi tắt là cán_bộ hậu kiểm ) . Trong đó , cán_bộ hậu kiểm là cán_bộ thực_hiện tiếp_nhận , tập_hợp chứng_từ , tài_liệu do các cán_bộ nghiệp_vụ , kế_toán viên đã xử_lý , hạch_toán ; thực_hiện kiểm_soát lại các giao_dịch của cán_bộ nghiệp_vụ , kế_toán viên , các giao_dịch_hạch_toán tự_động trên cơ_sở chứng_từ , tài_liệu liên_quan ; và tập_hợp chứng từ kế_toán của toàn đơn_vị kế_toán Nhn và lưu_trữ theo quy_định .
+
+11 . Thời_điểm kết_thúc ngày làm_việc : là thời_điểm kết_thúc một chu_trình làm_việc trên hệ_thống phần_mềm kế_toán , các thao_tác khoá_sổ kế_toán ngày đã được thực_hiện . Sau thời_điểm này không còn nghiệp_vụ kinh_tế , tài_chính nào được xử_lý , hạch_toán vào sổ kế_toán của ngày làm_việc đó , trừ trường_hợp giao_dịch điều_chỉnh sai_sót theo quy_định .
+
+12 . Mã người dùng : là mã_số định_danh người dùng trên hệ_thống phần_mềm kế_toán dùng để đăng_nhập hệ_thống và thực_hiện các nghiệp_vụ . Mã người dùng bao_gồm mã_số định_danh người dùng được Cục Công_nghệ thông_tin cấp theo đề_nghị của các đơn_vị kế_toán Nhn và mã_số định_danh được tạo sẵn trong hệ_thống phần_mềm kế_toán để tích_hợp giao_dịch giữa các phần_mềm trong hệ_thống phần_mềm kế_toán ( sau đây gọi tắt là mã người dùng hệ_thống ) . Mã người dùng được cấp cho cán_bộ nghiệp_vụ , kế_toán viên tại mỗi đơn_vị kế_toán Nhn và do hệ_thống tự tạo_lập theo đơn_vị kế_toán Nhn .
+
+13 . Cơ_chế , quy_trình nghiệp_vụ : là hệ_thống văn_bản hướng_dẫn , quy_trình quy_định về việc thực_hiện các nghiệp_vụ kinh_tế , tài_chính thuộc hoạt_động của Nhn nhằm đảm_bảo các nghiệp_vụ kinh_tế , tài_chính phát_sinh được kiểm_soát chặt_chẽ đúng bản_chất và tuân_thủ đúng quy_định pháp_luật hiện_hành .
+
+Điều 4 . Nguyên_tắc luân_chuyển , kiểm_soát , đối_chiếu và tập_hợp chứng từ kế_toán
+
+1 . Nguyên_tắc luân_chuyển chứng từ kế_toán
+
+a ) Tất_cả các chứng từ kế_toán do đơn_vị kế_toán Nhn lập hoặc tiếp_nhận từ khách_hàng chuyển đến phải được kiểm_tra , kiểm_soát tính hợp_lệ , hợp_pháp của chứng_từ trước khi sử_dụng chứng từ đó để ghi sổ kế_toán ;
+
+b ) Đối_với chứng_từ liên_quan đến việc nộp và lĩnh tiền_mặt : nếu là chứng_từ nộp tiền_mặt thì sau khi bộ_phận kho_quỹ thu đủ tiền , kế_toán viên mới ghi sổ kế_toán ; nếu là chứng_từ lĩnh tiền_mặt thì kế_toán viên phải ghi sổ kế_toán trước sau đó mới chuyển sang bộ_phận kho_quỹ chi_trả tiền ;
+
+c ) Đối_với các chứng từ dùng trong thanh_toán không dùng tiền_mặt ( chuyển_khoản ) thì chỉ ghi Có vào tài_khoản của bên thụ_hưởng khi đã trích nợ tài_khoản của bên trả tiền ( trừ trường_hợp pháp_luật có quy_định khác ) ;
+
+d ) Chứng_từ luân_chuyển giữa các bộ_phận trong đơn_vị kế_toán Nhn phải do cán_bộ trong đơn_vị đó thực_hiện , không được chuyển qua tay khách_hàng . Chứng_từ thanh_toán ra ngoài đơn_vị kế_toán Nhn như chuyển tiền , thanh_toán bù_trừ thì luân_chuyển qua mạng nội_bộ , mạng liên ngân_hàng , bưu_điện hoặc thực_hiện giao_nhận chứng_từ trực_tiếp giữa các đơn_vị kế_toán Nhn có liên_quan .
+
+2 . Nguyên_tắc kiểm_soát , đối_chiếu chứng từ kế_toán
+
+a ) Tất_cả các chứng từ kế_toán ngân_hàng phải được kiểm_tra tính hợp_pháp , hợp_lệ và kiểm_soát chặt_chẽ trước khi thực_hiện các nghiệp_vụ ( hạch_toán , thanh_toán , thu , chi ) , nội_dung của việc kiểm_tra , kiểm_soát chứng từ kế_toán ngân_hàng gồm :
+
+- Đối_với chứng từ giấy
+
++ Kiểm_tra tính rõ_ràng , đầy_đủ , chính_xác của các chỉ_tiêu , số_liệu , các yếu_tố ghi_chép trên chứng từ kế_toán ;
+
++ Kiểm_soát nội_dung của nghiệp_vụ kinh_tế , tài_chính phát_sinh đã ghi trên chứng từ kế_toán đảm_bảo đúng quy_định tại Luật Kế_toán , đối_chiếu đảm_bảo khớp đúng các nội_dung trên chứng từ kế_toán với các chứng_từ , hồ_sơ khác có liên_quan ;
+
++ Kiểm_soát kí_hiệu mật ( khm ) đối_với các chứng_từ quy_định có Khm ;
+
++ Kiểm_soát việc chấp_hành quy_trình tại Thông_tư này của người lập , kiểm_tra , xét_duyệt đối_với từng loại nghiệp_vụ kinh_tế , tài_chính phát_sinh ;
+
++ Kiểm_tra , đối_chiếu dấu ( nếu có ) và chữ_kí trên chứng_từ ( gồm chữ_kí của khách_hàng và chữ_kí của các cán_bộ có liên_quan trong đơn_vị kế_toán Nhn ) đảm_bảo dấu và chữ_kí trên chứng_từ đúng với mẫu dấu và chữ_kí đã đăng_kí tại đơn_vị kế_toán Nhn .
+
+- Đối_với chứng_từ điện_tử
+
+Việc kiểm_soát chứng_từ điện_tử được chia thành hai bước , phần kĩ_thuật thông_tin phải được kiểm_soát trước , sau đó mới tiến_hành kiểm_soát phần nội_dung nghiệp_vụ .
+
+Bước 1 : Kiểm_soát kĩ_thuật thông_tin , bao_gồm :
+
++ Kiểm_tra chữ_kí số của người lập và người kiểm_soát tại khâu trước , Khm và các mã khoá bảo_mật ( mã nhận_biết ) trên chứng_từ phải đúng với mã định_dạng đã quy_định ; các mật_mã trên chứng_từ phải đúng với mật_mã quy_định ;
+
++ Tên tập_tin phải được lập đúng tên , mẫu thông_tin quy_định ;
+
+Bước 2 : Kiểm_soát phần nội_dung nghiệp_vụ :
+
++ Kiểm_tra nội_dung chứng_từ ;
+
++ Kiểm_tra tên , số_hiệu tài_khoản , ngày giá_trị trên chứng_từ và các nội_dung khác trên chứng_từ ;
+
++ Kiểm_tra số_dư tài_khoản tiền gửi đảm_bảo đủ để chi_trả số tiền trên chứng_từ ;
+
+b ) Cán_bộ hậu kiểm không được thực_hiện kiểm_soát lại các giao_dịch do chính mình đã kiểm_soát hoặc đã thực_hiện xử_lí trên hệ_thống phần_mềm kế_toán ;
+
+c ) Việc kiểm_tra , đối_chiếu chứng_từ với các báo_cáo kiểm_soát ( sau đây gọi tắt là báo_cáo ) của ngày giao_dịch phải hoàn_thành ngay trong ngày làm_việc tiếp_theo .
+
+3 . Điều_kiện tập_hợp , lưu_trữ các báo_cáo bằng phương_tiện điện_tử
+
+a ) Nội_dung của thông_điệp dữ_liệu đó có_thể truy_cập , tra_cứu và sử_dụng được để tham_chiếu khi cần_thiết ;
+
+b ) Nội_dung của thông_điệp dữ_liệu đó được lưu trong chính khuôn_dạng mà nó được khởi tạo , gửi , nhận hoặc trong khuôn_dạng cho phép thể_hiện chính_xác nội_dung dữ_liệu đó ;
+
+c ) Thông_điệp dữ_liệu đó được lưu_trữ theo một cách_thức nhất_định cho phép xác_định nguồn_gốc khởi tạo , nơi đến , ngày_giờ gửi hoặc nhận thông_điệp dữ_liệu .
+
+4 . Áp_dụng chữ_kí số đối_với các báo_cáo kiểm_soát
+
+a ) Chữ_kí số phải gắn kèm các báo_cáo nhằm phục_vụ công_tác kiểm_soát , đối_chiếu chứng_từ sau khi kí số . Các báo_cáo được kí số phải đảm_bảo tính xác_thực , tính toàn_vẹn trong suốt quá_trình trao_đổi qua mạng máy_tính , xử_lí và lưu_trữ các báo_cáo được kí số ;
+
+b ) Thủ_trưởng đơn_vị kế_toán Nhn kí số có trách_nhiệm bảo_quản an_toàn khoá bí_mật và thiết_bị lưu_trữ khoá bí_mật của chứng_thư số cá_nhân ;
+
+c ) Cán_bộ nghiệp_vụ , kế_toán viên , cán_bộ kiểm_soát , cán_bộ hậu kiểm có trách_nhiệm kí trên các báo_cáo phải kí bằng chữ_kí số lên các báo_cáo kiểm_soát ngay sau khi hoàn_thành_phần việc được giao .
+
+5 . Quy_trình kí số các báo_cáo
+
+Khi việc ứng_dụng công_nghệ thông_tin đủ đáp_ứng các điều_kiện để lưu_trữ các báo_cáo theo quy_định tại Khoản 3 Điều này , cán_bộ nghiệp_vụ , kế_toán viên , kiểm_soát viên , cán_bộ hậu kiểm không phải in các mẫu báo_cáo thành bản giấy , mà thực_hiện kí số trên từng báo_cáo tuân_thủ theo nguyên_tắc thứ_tự từng khâu trong Quy_trình luân_chuyển , kiểm_soát , đối_chiếu chứng_từ như luân_chuyển , kiểm_soát , đối_chiếu chứng từ giấy .
+
+6 . Nguyên_tắc tập_hợp sắp_xếp chứng_từ
+
+Chứng_từ kế_toán trong ngày được tập_hợp đầy_đủ , sắp_xếp đảm_bảo khoa_học , thuận_tiện cho việc tra_cứu , lưu_trữ .
+
+a ) Các chứng_từ của một ( 01 ) giao_dịch_hạch_toán phải được sắp_xếp theo thứ_tự : Chứng_từ ghi sổ ; Chứng_từ gốc và các chứng từ kèm theo khác ( Chứng_từ kèm theo khác được sắp_xếp theo thứ tự_phát_sinh chứng_từ ) .
+
+Chứng_từ của giao_dịch điều_chỉnh được sắp_xếp theo thứ_tự : Chứng_từ điều_chỉnh trong đó ghi rõ điều_chỉnh từ giao_dịch nào hoặc bản_sao chứng từ gốc ( trường_hợp chứng từ gốc không được lưu cùng tập chứng_từ ) ;
+
+b ) Trường_hợp một ( 01 ) chứng từ gốc liên_quan đến hai ( 02 ) hay nhiều giao_dịch_hạch_toán khác nhau nhưng không được xếp liền nhau tại cùng một ( 01 ) tập chứng_từ , kế_toán viên thực_hiện :
+
+- Nếu các giao_dịch thuộc cùng một ( 01 ) tập chứng_từ : Chứng_từ gốc được sắp_xếp tại tập chứng_từ của giao_dịch_hạch_toán nghiệp_vụ đầu_tiên . Trên chứng_từ hạch_toán của nghiệp_vụ tiếp_theo ghi rõ chứng từ gốc được lưu tại chứng_từ số . . . hoặc trên chứng từ gốc ghi rõ chứng từ gốc của chứng_từ số . . . ;
+
+- Nếu các giao_dịch thuộc các tập chứng_từ khác nhau của cùng một ngày làm_việc : chứng từ gốc được sắp_xếp tại tập chứng_từ của giao_dịch_hạch_toán nghiệp_vụ đầu_tiên . Tại nghiệp_vụ tiếp_theo , tuỳ theo yêu_cầu sử_dụng thông_tin của từng giao_dịch , có_thể thực_hiện : Trên chứng_từ hạch_toán của tập chứng_từ ghi rõ chứng từ gốc lưu tại bộ chứng_từ . . . chứng_từ số . . . ; Hoặc tại giao_dịch_hạch_toán nghiệp_vụ tiếp_theo lưu liên 2 hoặc bản_sao_chụp chứng từ gốc ( có ghi rõ chứng từ gốc lưu tại bộ chứng_từ . . . chứng_từ số . . . ) ;
+
+- Nếu các giao_dịch_hạch_toán tại các ngày giao_dịch khác nhau : Chứng_từ gốc được sắp_xếp tại bộ chứng_từ của ngày thực_hiện giao_dịch đầu_tiên , tại bộ chứng_từ của các ngày giao_dịch tiếp_theo thực_hiện lưu liên 2 hoặc bản_sao_chụp chứng từ gốc ( có ghi rõ chứng từ gốc lưu tại ngày . . . tập chứng_từ . . . chứng_từ số . . . ) .
+
+7 . Nguyên_tắc xử_lí khi phát_hiện sai_sót trong quá_trình luân_chuyển , kiểm_soát , đối_chiếu chứng_từ
+
+a ) Khi kiểm_soát chứng từ kế_toán nếu phát_hiện có hành_vi vi_phạm các quy_định của pháp_luật liên_quan thì cán_bộ nghiệp_vụ , kế_toán viên phải từ_chối việc thực_hiện ( thanh_toán , xuất quỹ , xuất kho ) , đồng_thời báo_cáo ngay cho Thủ_trưởng đơn_vị kế_toán Nhn biết để có biện_pháp xử_lí kịp_thời theo đúng quy_định của pháp_luật hiện_hành ;
+
+b ) Những tài_liệu nghiệp_vụ , chứng từ kế_toán lập không đảm_bảo tính hợp_lệ , hợp_pháp thì phải trả lại khách_hàng hoặc báo cho người lập chứng từ biết để lập lại hoặc điều_chỉnh cho đúng , sau đó mới dùng làm căn_cứ ghi sổ kế_toán ;
+
+c ) Việc thực_hiện xử_lí sai_sót phải tuân_thủ theo đúng cơ_chế , quy_trình nghiệp_vụ , hướng dẫn thao_tác trên phần_mềm kế_toán , quy_định pháp_luật kế_toán và các quy_định của pháp_luật liên_quan .
+
+Điều 5 . Trách_nhiệm các thành_viên tham_gia quy_trình
+
+1 . Đối_với Thủ_trưởng đơn_vị kế_toán Nhn
+
+a ) Tổ_chức , phân_công , chỉ_đạo và giám_sát việc thực_hiện theo quy_định tại Thông_tư này ;
+
+b ) Phối_hợp với các đơn_vị kế_toán Nhn có liên_quan khắc_phục kịp_thời các sai_sót được phát_hiện ;
+
+c ) Chịu trách_nhiệm trước Thống_đốc Nhn và pháp_luật khi để xảy ra các sai_sót do đơn_vị mình không thực_hiện đúng các nội_dung quy_định tại Thông_tư này và các quy_định pháp_luật kế_toán có liên_quan .
+
+2 . Đối_với Trưởng_phòng kế_toán
+
+a ) Tham_mưu Thủ_trưởng đơn_vị kế_toán Nhn về việc tổ_chức triển_khai thực_hiện , hướng_dẫn các bộ_phận , cán_bộ liên_quan thực_hiện theo đúng quy_định tại Thông_tư này ;
+
+b ) Trực_tiếp giám_sát việc tuân_thủ quy_trình và thực_hiện chế_độ chứng_từ tại đơn_vị kế_toán Nhn ;
+
+c ) Phân_công , chỉ_đạo các cán_bộ thuộc Phòng kế_toán thực_hiện theo quy_trình quy_định tại Thông_tư này ;
+
+d ) Kiểm_tra , kiểm_soát Báo_cáo tổng_hợp tài_khoản ngày , Bảng cân_đối tài_khoản kế_toán ngày , các tài_liệu kế_toán chi_tiết khi có dấu_hiệu nghi_vấn hoặc sai_sót và các báo_cáo kế_toán tháng , quý , năm ; chịu trách_nhiệm về tính kịp_thời , chính_xác , đầy_đủ , trung_thực về số_liệu trên báo_cáo ;
+
+đ ) Báo_cáo kịp_thời Thủ_trưởng đơn_vị kế_toán Nhn các trường_hợp sai_sót , vi_phạm các quy_định trong xử_lí giao_dịch làm sai_lệch bản_chất nghiệp_vụ kinh_tế , tài_chính phát_sinh ;
+
+e ) Tham_mưu hoặc trực_tiếp ra quyết_định các biện_pháp khắc_phục sai_sót trong phạm_vi được phân_công của Thủ_trưởng đơn_vị kế_toán Nhn .
+
+3 . Đối_với cán_bộ nghiệp_vụ
+
+a ) Chịu trách_nhiệm kiểm_tra , kiểm_soát , đảm_bảo tính chính_xác , hợp_lệ , hợp_pháp của các chứng_từ , tài_liệu sử_dụng để nhập các dữ_liệu liên_quan trên hệ_thống phần_mềm kế_toán ;
+
+b ) Nhập dữ_liệu vào hệ_thống phần_mềm kế_toán chính_xác với nội_dung các tài_liệu , hồ_sơ , chứng_từ được sử_dụng theo quy_định ;
+
+c ) Phối_hợp với kế_toán viên kiểm_tra , đối_chiếu số_liệu , bổ_sung ( nếu thiếu ) hồ_sơ chứng_từ liên_quan đến giao_dịch thực_hiện trên hệ_thống phần_mềm kế_toán .
+
+4 . Đối_với kế_toán_viên
+
+a ) Kiểm_tra tính chính_xác , hợp_lệ , hợp_pháp của các chứng từ kế_toán . Đối_với các chứng_từ phải được Thủ_trưởng đơn_vị kế_toán Nhn kí duyệt trước khi thực_hiện , kế_toán viên trình Trưởng_phòng kế_toán ký ; Sau đó , trình Thủ_trưởng đơn_vị kế_toán Nhn kí duyệt trước khi thực_hiện trên hệ_thống phần_mềm kế_toán ;
+
+b ) Nhập chính_xác , đầy_đủ các dữ_liệu của nghiệp_vụ kinh_tế , tài_chính phát_sinh vào hệ_thống phần_mềm kế_toán theo đúng các yếu_tố trên chứng_từ và cơ_chế , quy_trình nghiệp_vụ của từng phân hệ nghiệp_vụ ;
+
+c ) Hạch_toán kế_toán nghiệp_vụ kinh_tế , tài_chính phát_sinh theo đúng quy_định hiện_hành ;
+
+d ) Kiểm_tra , đối_chiếu và đảm_bảo tính khớp đúng nội_dung giao_dịch trên Bảng liệt_kê giao_dịch với chứng từ kế_toán do mình xử_lí trên hệ_thống phần_mềm kế_toán trong ngày ;
+
+đ ) Trực_tiếp xử_lí các sai_sót phát_sinh sau khi báo_cáo và được Thủ_trưởng đơn_vị kế_toán Nhn hoặc trưởng_phòng kế_toán cho phép thực_hiện ;
+
+e ) Trường_hợp được giao thực_hiện từng phần hoặc toàn_bộ công_việc hậu kiểm thì thực_hiện theo quy_định tại Khoản 6 Điều này .
+
+5 . Đối_với cán_bộ kiểm_soát
+
+a ) Kiểm_tra lại tính hợp_lệ , hợp_pháp của các chứng từ kế_toán , tài_liệu nghiệp_vụ đã được kế_toán viên , cán_bộ nghiệp_vụ xử_lí và nhập dữ_liệu vào hệ_thống phần_mềm kế_toán ;
+
+b ) Kiểm_soát tính chính_xác của các giao_dịch do kế_toán viên , cán_bộ nghiệp_vụ đã nhập vào hệ_thống phần_mềm kế_toán , đảm_bảo khớp đúng với chứng từ kế_toán , tài_liệu chứng_minh liên_quan đến nghiệp_vụ kinh_tế , tài_chính phát_sinh ; thực_hiện duyệt giao_dịch , kí kiểm_soát và chịu trách_nhiệm về các sai_sót của mình trong quy_trình kiểm_soát , duyệt giao_dịch ;
+
+c ) Cán_bộ kiểm_soát không được phép nhập dữ_liệu vào hệ_thống phần_mềm kế_toán , nếu phát_hiện có sai_sót thì phải chuyển trả chứng_từ , tài_liệu cho kế_toán viên , cán_bộ nghiệp_vụ để xử_lý .
+
+6 . Đối_với cán_bộ hậu_kiểm
+
+a ) Tập_hợp , kiểm_tra , đảm_bảo đầy_đủ số_lượng chứng từ kế_toán của các nghiệp_vụ kinh_tế , tài_chính được thực_hiện trong ngày của toàn đơn_vị kế_toán Nhn ;
+
+b ) Kiểm_tra lại tính chính_xác của các giao_dịch thực_hiện được cập_nhật dữ_liệu hệ_thống và các tài_khoản kế_toán tổng_hợp ( bao_gồm cả các giao_dịch_hạch_toán tự_động ) ;
+
+c ) Kiểm_tra tính chính_xác của Bảng liệt_kê giao_dịch_hạch_toán tự_động , phát_hiện kịp_thời sai_sót do việc xử_lí của hệ_thống và báo_cáo kịp_thời cho cán_bộ kiểm_soát để báo_cáo Thủ_trưởng đơn_vị kế_toán Nhn ;
+
+d ) Kiểm_soát , đối_chiếu khớp đúng số_liệu giữa các báo_cáo kế_toán , phát_hiện kịp_thời_sự chênh_lệch về số_liệu và báo_cáo kịp_thời cho cán_bộ kiểm_soát để báo_cáo Thủ_trưởng đơn_vị kế_toán Nhn ra quyết_định xử_lý ;
+
+đ ) Phối_hợp với các thành_viên trong quy_trình , bộ_phận nghiệp_vụ khác trong việc xác_định nguyên_nhân các sai_sót , đề_xuất biện_pháp khắc_phục khi phát_hiện có sự chênh_lệch giữa phân hệ nghiệp_vụ và tài_khoản kế_toán tổng_hợp ;
+
+e ) Tập_hợp , đóng chứng_từ để lưu_trữ theo quy_định về lưu_trữ chứng từ kế_toán .
+
+Chương_ii
+
+Quy_định Cụ_thể
+
+Mục 1 . Luân_chuyển , Kiểm_soát , Đối_chiếu Và Tập_hợp Chứng_từ Tại Đơn_vị Kế_toán_nhn
+
+Điều 6 . Tại bộ_phận nghiệp_vụ
+
+1 . Tại bộ_phận kho_quỹ
+
+a ) Khi tiếp_nhận chứng_từ , xử_lí giao_dịch
+
+- Thực_hiện giao_dịch theo cơ_chế , quy_trình nghiệp_vụ
+
++ Đối_với giao_dịch nhập kho , thu tiền :
+
+Khi tiếp_nhận chứng_từ , tài_liệu nhập kho , thu tiền ( Lệnh điều_chuyển , chứng_từ nộp tiền do khách_hàng lập , . . . ) , cán_bộ nghiệp_vụ thuộc bộ_phận kho_quỹ kiểm_tra tính hợp_lệ , hợp_pháp của chứng_từ , thực_hiện thủ_tục nhập kho , thu tiền , ghi_nhận số_liệu về loại tiền , mệnh_giá , số_lượng theo đúng cơ_chế , quy_trình nghiệp_vụ và hướng dẫn thao_tác trên hệ_thống Cmo ;
+
++ Đối_với giao_dịch xuất kho , chi tiền :
+
+Khi tiếp_nhận bộ chứng_từ do kế_toán viên đã thực_hiện trích nợ tài_khoản của khách_hàng , chứng_từ xuất kho và tài_liệu có liên_quan , cán_bộ thuộc bộ_phận kho_quỹ kiểm_tra đảm_bảo tính hợp_lệ , hợp_pháp của chứng_từ , thực_hiện thủ_tục xuất kho , chi tiền , ghi_nhận số_liệu về loại tiền , mệnh_giá , số_lượng theo đúng cơ_chế , quy_trình nghiệp_vụ và hướng dẫn thao_tác trên hệ_thống Cmo ;
+
+- In , kí chứng_từ và kiểm_tra giao_dịch
+
+Cán_bộ nghiệp_vụ thuộc bộ_phận kho_quỹ thực_hiện in chứng_từ trên hệ_thống Cmo theo trình_tự quy_định tại cơ_chế , quy_trình nghiệp_vụ ; Thực_hiện kiểm_tra tính chính_xác của chứng từ in từ hệ_thống Cmo với chứng từ gốc . Cán_bộ nghiệp_vụ phải kí xác_nhận trên chứng_từ , chuyển cán_bộ kiểm_soát phê_duyệt theo đúng quy_định cơ_chế , quy_trình nghiệp_vụ , sau đó , cán_bộ nghiệp_vụ chuyển cho kế_toán viên chứng từ tài_liệu đã có đầy_đủ chữ_ký , đảm_bảo hợp_lệ , hợp_pháp để xử_lí tiếp_theo quy_định ;
+
+b ) In các báo_cáo cuối ngày và thực_hiện kiểm_tra , đối_chiếu
+
+Sau thời_điểm kết_thúc ngày làm_việc , cán_bộ nghiệp_vụ thuộc bộ_phận kho_quỹ thực_hiện in các báo_cáo tại hệ_thống Cmo để thực_hiện kiểm_tra , đối_chiếu theo đúng quy_định tại cơ_chế , quy_trình nghiệp_vụ và hướng dẫn thao_tác trên hệ_thống Cmo đảm_bảo các nghiệp_vụ kinh_tế , tài_chính phát_sinh được hạch_toán đầy_đủ , chính_xác vào hệ_thống Cmo ; đảm_bảo số hiện_vật quản_lí trong kho khớp đúng với số_liệu hạch_toán , theo_dõi trên hệ_thống phần_mềm kế_toán .
+
+Đồng_thời chuyển bộ_phận kế_toán một ( 01 ) bản báo_cáo để làm cơ_sở kiểm_tra đối_chiếu khớp đúng giữa số_liệu hiện_vật quản_lí trong kho của bộ_phận kho_quỹ và số_liệu kế_toán của bộ_phận kế_toán ;
+
+c ) Tập_hợp , sắp_xếp , lưu_trữ chứng_từ và báo_cáo
+
+Việc tập_hợp , sắp_xếp , lưu_trữ chứng_từ tại bộ_phận kho_quỹ được thực_hiện theo cơ_chế , quy_trình nghiệp_vụ quản_lí kho_quỹ trên hệ_thống Cmo và quy_định tại Khoản 6 Điều 4 Thông_tư này .
+
+2 . Tại các bộ_phận nghiệp_vụ khác
+
+a ) Khi tiếp_nhận chứng_từ , xử_lí giao_dịch
+
+Khi tiếp_nhận chứng_từ , tài_liệu để giao_dịch trên hệ_thống phần_mềm kế_toán , cán_bộ nghiệp_vụ kiểm_tra đảm_bảo tính hợp_lệ , hợp_pháp và đầy_đủ của chứng_từ , tài_liệu liên_quan , thực_hiện giao_dịch trên hệ_thống phần_mềm kế_toán theo đúng cơ_chế , quy_trình nghiệp_vụ .
+
+Cán_bộ nghiệp_vụ phải kí xác_nhận trên chứng_từ , chuyển cán_bộ kiểm_soát phê_duyệt theo đúng quy_định cơ_chế , quy_trình nghiệp_vụ , sau đó , cán_bộ nghiệp_vụ chuyển cho kế_toán viên chứng từ tài_liệu đã có đầy_đủ chữ_ký , đảm_bảo hợp_lệ , hợp_pháp để xử_lí tiếp_theo quy_định ;
+
+b ) In các báo_cáo sau thời_điểm kết_thúc ngày làm_việc và thực_hiện kiểm_tra , đối_chiếu
+
+Sau thời_điểm kết_thúc ngày làm_việc , cán_bộ nghiệp_vụ thực_hiện in các báo_cáo tại phần_mềm / phân hệ nghiệp_vụ để thực_hiện kiểm_tra , đối_chiếu theo đúng quy_định tại cơ_chế , quy_trình nghiệp_vụ và hướng dẫn thao_tác trên phần_mềm / phân hệ nghiệp_vụ đảm_bảo các nghiệp_vụ kinh_tế , tài_chính phát_sinh được hạch_toán đầy_đủ , chính_xác vào hệ_thống phần_mềm kế_toán ;
+
+c ) Tập_hợp , sắp_xếp , lưu_trữ chứng_từ và báo_cáo
+
+Việc tập_hợp , sắp_xếp , lưu_trữ chứng_từ tại bộ_phận nghiệp_vụ được thực_hiện theo cơ_chế , quy_trình nghiệp_vụ trên hệ_thống phần_mềm kế_toán và quy_định tại Khoản 6 Điều 4 Thông_tư này .
+
+Điều 7 . Tại bộ_phận kế_toán
+
+Căn_cứ chứng từ kế_toán theo quy_định hiện_hành , kế_toán viên thực_hiện giao_dịch trên hệ_thống phần_mềm kế_toán đảm_bảo nguyên_tắc ghi Nợ trước ghi Có sau , cụ_thể :
+
+1 . Khi tiếp_nhận chứng_từ , xử_lí giao_dịch
+
+a ) Kiểm_tra tính đầy_đủ , hợp_lệ , hợp_pháp của các chứng_từ theo quy_định .
+
+b ) Xác_định , thực_hiện đúng theo cơ_chế , quy_trình nghiệp_vụ và hướng dẫn thao_tác trên hệ_thống phần_mềm kế_toán nhằm đảm_bảo tính chính_xác , đầy_đủ thông_tin , dữ_liệu của các nghiệp_vụ kinh_tế , tài_chính phát_sinh được ghi_nhận vào hệ_thống phần_mềm kế_toán trên cơ_sở hồ_sơ , chứng từ gốc ;
+
+c ) Kế_toán viên kiểm_tra đảm_bảo khớp đúng giao_dịch_hạch_toán trên hệ_thống phần_mềm kế_toán với chứng từ gốc , chuyển chứng_từ cho cán_bộ kiểm_soát thực_hiện kiểm_tra và duyệt giao_dịch theo quy_định tại Khoản 1 Điều 8 Thông_tư này . Trường_hợp phát_hiện ra sai_sót , kế_toán viên thực_hiện xử_lí theo Khoản 7 Điều 4 và Điều 11 Thông_tư này .
+
+2 . In các báo_cáo và thực_hiện kiểm_tra , đối_chiếu
+
+Sau thời_điểm kết_thúc ngày làm_việc , kế_toán viên thực_hiện in các báo_cáo tại các phần_mềm / phân hệ nghiệp_vụ để phục_vụ cho công_tác kiểm_tra , đối_chiếu như sau :
+
+a ) Tại từng phần_mềm / phân hệ nghiệp_vụ
+
+- Kiểm_tra , đối_chiếu theo đúng quy_định tại cơ_chế , quy_trình nghiệp_vụ và hướng_dẫn theo từng phần_mềm / phân hệ nghiệp_vụ đảm_bảo các nghiệp_vụ kinh_tế , tài_chính phát_sinh được hạch_toán đầy_đủ , chính_xác vào hệ_thống phần_mềm kế_toán ;
+
+- Kiểm_tra tình_trạng giao_dịch của kế_toán viên đã nhập vào hệ_thống phần_mềm kế_toán đảm_bảo :
+
++ Trên phần_mềm Erp : Tại các phân hệ Apr , phân hệ Fa , tất_cả các giao_dịch trong ngày có trạng_thái Đã hạch_toán ( Posted ) ; Đồng_thời , kiểm_tra các giao_dịch này có trạng_thái Đã hạch_toán ( Posted ) trên phân hệ Gl ;
+
++ Trên phần_mềm T24 , tất_cả các giao_dịch trong ngày có trạng_thái Đã duyệt ( Authorised ) ;
+
+- Kiểm_tra , đối_chiếu đảm_bảo khớp đúng giữa các giao_dịch_nhập / xuất giấy_tờ có_giá trên phần_mềm Csd với phân hệ Gl , các giao_dịch về đặt_cọc , thanh_toán mua , bán , đấu_thầu giấy_tờ có_giá , vàng trên phần_mềm T24 và trên phần_mềm Csd , Aom ;
+
+- Đối_với các giao_dịch_hạch_toán tự_động từ các nghiệp_vụ được giao quản_lý , theo_dõi ( nếu có ) như hợp_đồng_tiền gửi , tiền vay , . . . , kế_toán viên thực_hiện kiểm_tra , đối_chiếu sau thời_điểm kết_thúc ngày làm_việc ;
+
+- Đối_với phân hệ Ft , kế_toán viên thực_hiện kiểm_tra bổ_sung các nội_dung sau :
+
++ Kiểm_tra , đối_chiếu khớp đúng giữa các giao_dịch thanh_toán liên ngân_hàng đi / đến qua hệ_thống Thanh_toán điện_tử liên ngân_hàng ( citad ) đã hạch_toán trên phần_mềm T24 trong ngày ( mẫu_số Dc 01 và mẫu_số Dc 02 ) với các báo_cáo về các giao_dịch thanh_toán đã thực_hiện thành_công trên hệ_thống Citad ;
+
++ Kiểm_tra , đối_chiếu khớp đúng các giao_dịch thanh_toán liên_chi_nhánh ( Inter - branch ) đi / đến trong ngày ( mẫu_số Dc 03 và mẫu_số Dc 04 ) với Bảng liệt_kê giao_dịch ( mẫu_số Bclc 01 ) ;
+
+b ) Tại phân hệ Gl phần_mềm Erp
+
+Sau thời_điểm kết_thúc ngày làm_việc , để đảm_bảo việc phản_ánh chính_xác , đầy_đủ , kịp_thời các nghiệp_vụ kinh_tế , tài_chính phát_sinh vào sổ kế_toán và tuân_thủ chế_độ chứng từ kế_toán , các kế_toán viên phải tập_hợp chứng_từ đã xử_lí hạch_toán trong ngày , in Bảng liệt_kê giao_dịch ( mẫu_số Bclc 01 ) để thực_hiện kiểm_tra , đối_chiếu , cụ_thể :
+
+- Kiểm_tra tình_trạng giao_dịch của kế_toán viên đã nhập vào hệ_thống phần_mềm kế_toán , đảm_bảo tất_cả các giao_dịch có trạng_thái Đã hạch_toán ( Posted ) trên phân hệ Gl . Đối_với những giao_dịch có trạng_thái khác , kế_toán viên phải phối_hợp với cán_bộ kiểm_soát để xử_lí theo đúng hướng dẫn thao_tác trên hệ_thống phần_mềm kế_toán và pháp_luật kế_toán ;
+
+- Kiểm_tra lại tính đầy_đủ , khớp đúng của các yếu_tố trên chứng_từ ( số tiền giao_dịch , loại tiền_tệ , đối_tượng hạch_toán chi_tiết , tên giao_dịch , tài_khoản hạch_toán , ) với Bảng liệt_kê giao_dịch ( mẫu_số Bclc 01 ) ;
+
+- Kiểm_tra lại đảm_bảo tính pháp_lí của chứng từ kế_toán theo từng loại nghiệp_vụ như mẫu dấu , chữ_kí khách_hàng , chữ_kí kế_toán viên , chữ_kí cán_bộ kiểm_soát và chữ_kí phê_duyệt của cấp có thẩm_quyền , đóng_dấu , . . . ;
+
+- Kiểm_tra lại các giao_dịch đã được nhập theo đúng chức_năng của hệ_thống phần_mềm kế_toán , đảm_bảo đầy_đủ , đúng nghiệp_vụ , tránh việc trùng_lặp trong thực_hiện giao_dịch ;
+
+- Kiểm_tra , đối_chiếu đảm_bảo khớp đúng về tổng_số giao_dịch và tổng_doanh_số phát_sinh giữa Báo_cáo liệt_kê giao_dịch chi_tiết ( mục 1 , mẫu_số Bclc 01 ) với Báo_cáo liệt_kê theo tài_khoản kế_toán ( mục 2 , mẫu_số Bclc 01 ) ;
+
+- Kiểm_tra , đối_chiếu đảm_bảo số_liệu về tổng_số giao_dịch_hạch_toán Nợ , tổng_số giao_dịch_hạch_toán Có và doanh_số phát_sinh Nợ , Có của từng tài_khoản tổng_hợp hạch_toán các nghiệp_vụ kinh_tế , tài_chính phát_sinh trên Báo_cáo liệt_kê theo tài_khoản ( mục 2 , mẫu_số Bclc 01 ) đã được cập_nhật đầy_đủ , chính_xác theo Báo_cáo liệt_kê giao_dịch chi_tiết ( mục 1 , mẫu_số Bclc 01 ) ;
+
+- Trường_hợp các giao_dịch có sử_dụng các tài_khoản trung_gian hệ_thống , kế_toán viên phải kiểm_tra lại tính đúng_đắn của việc hạch_toán vào các tài_khoản trung_gian này . Trường_hợp có sai_sót , kế_toán viên phải phối_hợp với cán_bộ kiểm_soát , cán_bộ kĩ_thuật để xử_lí theo đúng hướng dẫn thao_tác trên hệ_thống phần_mềm kế_toán và pháp_luật kế_toán .
+
+3 . Ký xác_nhận , sắp_xếp , giao_nộp chứng_từ
+
+a ) Trên_cơ_sở việc kiểm_tra , đối_chiếu khớp đúng các nội_dung quy_định tại Khoản 2 Điều này , kế_toán viên thực_hiện kí xác_nhận trên Bảng liệt_kê giao_dịch và chuyển toàn_bộ chứng từ kèm Bảng liệt_kê giao_dịch cho cán_bộ kiểm_soát . Việc giao_nộp chứng_từ phải bảo_đảm các thủ_tục kí nhận giữa 2 bên ;
+
+b ) Các chứng_từ phải được tập_hợp , sắp_xếp theo quy_định tại Khoản 6 Điều 4 Thông_tư này , theo thứ tự giao_dịch trên Bảng liệt_kê giao_dịch ( mẫu_số Bclc 01 ) và được kiểm_tra đảm_bảo khớp đúng với Bảng liệt_kê giao_dịch .
+
+Trường_hợp đơn_vị kế_toán Nhn trong ngày có số_lượng lớn các giao_dịch có cùng tính_chất như giao_dịch thu phí tiền_mặt , phí thanh_toán từng lần , phí thanh_toán điện_tử liên ngân_hàng giá_trị cao và giá_trị thấp ; . . . được hạch_toán đẩy từ các phân hệ nghiệp_vụ sang Gl thì Thủ_trưởng đơn_vị kế_toán Nhn quyết_định việc lựa_chọn sắp_xếp chứng_từ theo loại giao_dịch , đảm_bảo thống_nhất trong toàn đơn_vị kế_toán Nhn ;
+
+c ) Chứng_từ và báo_cáo sau khi được sắp_xếp thành tập phải được đánh_số trong tập . Kế_toán viên đánh_số chứng_từ bằng bút mực xanh và phải ghi rõ số_lượng tờ trên góc phải tờ đầu_tiên của tập chứng_từ , đảm_bảo thuận_tiện cho công_tác hậu kiểm và tra_cứu chứng_từ khi đưa vào lưu_trữ .
+
+Điều 8 . Tại bộ_phận kiểm_soát
+
+1 . Kiểm_tra và duyệt giao_dịch trong ngày
+
+Cán_bộ kiểm_soát nhận tài_liệu nghiệp_vụ , chứng từ kế_toán từ cán_bộ nghiệp_vụ , kế_toán viên theo quy_định tại điểm a Khoản 1 , Khoản 2 Điều 6 , Khoản 1 Điều 7 Thông_tư này , thực_hiện kiểm_tra tính hợp_lệ , hợp_pháp của tài_liệu nghiệp_vụ , chứng từ kế_toán theo quy_định và đối_chiếu đảm_bảo khớp đúng với giao_dịch cán_bộ nghiệp_vụ , kế_toán viên đã nhập , hạch_toán trên hệ_thống phần_mềm kế_toán , thực_hiện duyệt giao_dịch và kí kiểm_soát trên chứng từ kế_toán ; chuyển cho Thủ_trưởng đơn_vị kế_toán Nhn đối_với chứng_từ phải được kí duyệt trước khi thực_hiện trên hệ_thống phần_mềm kế_toán . Sau đó , cán_bộ kiểm_soát chuyển trở_lại bộ chứng_từ cho cán_bộ nghiệp_vụ , kế_toán viên thực_hiện xử_lí tiếp_theo quy_định tại điểm b Khoản 1 , Khoản 2 Điều 6 và Khoản 2 Điều 7 Thông_tư này .
+
+Cán_bộ kiểm_soát phải nắm rõ quy_trình , thao_tác xử_lí và hạch_toán giao_dịch của từng phân hệ nhằm kịp_thời phát_hiện sai_sót trong khâu_nhập liệu , đảm_bảo mọi giao_dịch đều được hạch_toán đầy_đủ , chính_xác , kịp_thời ( đặc_biệt lưu_ý đối_với các giao_dịch phức_tạp , giao_dịch có mức_độ rủi_ro cao như giao_dịch thanh_toán đi , thanh_toán đến ) .
+
+Trường_hợp phát_hiện sai_sót , cán_bộ kiểm_soát chuyển trả lại cho cán_bộ nghiệp_vụ , kế_toán viên thực_hiện xử_lí điều_chỉnh kịp_thời theo Khoản 7 Điều 4 và Điều 11 Thông_tư này .
+
+2 . Nhận , tập_hợp chứng_từ và kiểm_soát sau thời_điểm kết_thúc ngày làm_việc
+
+a ) Nhận Bảng liệt_kê giao_dịch kèm toàn_bộ chứng_từ đã được sắp_xếp theo quy_định tại điểm c Khoản 1 , điểm c Khoản 2 Điều 6 và Khoản 3 Điều 7 Thông_tư này từ các cán_bộ nghiệp_vụ , kế_toán viên được phân_công phụ_trách ;
+
+b ) Thực_hiện kiểm_tra lại toàn_bộ chứng_từ và Bảng liệt_kê giao_dịch đã nhận theo điểm a Khoản này ; đối_chiếu chứng_từ , Bảng liệt_kê giao_dịch do cán_bộ nghiệp_vụ , kế_toán viên chuyển tới khớp đúng với Bảng liệt_kê giao_dịch của cán_bộ nghiệp_vụ , kế_toán viên đó trên hệ_thống sau thời_điểm kết_thúc ngày làm_việc nhằm đảm_bảo tính pháp_lí của chứng từ kế_toán đã hạch_toán và đảm_bảo tất_cả giao_dịch đã được cập_nhật trên hệ_thống chính_xác và đầy_đủ theo chứng từ gốc . Trường_hợp có sai_sót , cán_bộ kiểm_soát thông_báo cho cán_bộ nghiệp_vụ , kế_toán viên kiểm_tra lại và thực_hiện điều_chỉnh , bổ_sung theo đúng quy_định tại Khoản 7 Điều 4 và Điều 11 Thông_tư này và quy_định của pháp_luật liên_quan ;
+
+c ) Cuối ngày làm_việc sau khi đã hết các giao_dịch phát_sinh , cán_bộ kiểm_soát thực_hiện kiểm_tra Báo_cáo liệt_kê giao_dịch chưa hoàn_thành ( mẫu_số Bclc 02 ) , Báo_cáo liệt_kê giao_dịch lỗi chi_tiết ( mẫu_số Bclc 03 ) , Báo_cáo kiểm_soát lỗi tự_động ( mẫu_số Bclc 09 ) theo nhiệm_vụ được giao , xác_định nguyên_nhân lỗi của từng giao_dịch , phối_hợp với cán_bộ nghiệp_vụ , kế_toán viên và cán_bộ kĩ_thuật để xử_lí kịp_thời theo đúng cơ_chế , quy_trình nghiệp_vụ và hướng_dẫn xử_lí sai_sót trên hệ_thống phần_mềm kế_toán và quy_định của pháp_luật kế_toán để kịp_thời phát_hiện và xử_lí các sai_sót ngay trong ngày làm_việc .
+
+Trường_hợp cuối ngày làm_việc sau khi đã hết các giao_dịch phát_sinh , sau khi cán_bộ kiểm_soát kiểm_tra các báo_cáo mẫu_số Bclc 02 , Bclc 03 , Bclc 09 không có phát_sinh thì không phải in các mẫu báo_cáo này .
+
+3 . Ký xác_nhận và giao_nộp chứng_từ
+
+Sau khi kiểm_tra theo quy_định tại Khoản 2 Điều này đảm_bảo chính_xác , cán_bộ kiểm_soát thực_hiện kí xác_nhận trên các báo_cáo mẫu_số Bclc 01 , Bclc 02 , Bclc 03 , Bclc 09 ( nếu có phát_sinh ) và chuyển toàn_bộ chứng_từ , các Bảng liệt_kê đã kí theo thẩm_quyền cho cán_bộ hậu kiểm xử_lí tiếp .
+
+Việc giao_nộp chứng_từ phải bảo_đảm các thủ_tục kí nhận giữa 2 bên .
+
+Điều 9 . Tại bộ_phận hậu_kiểm
+
+1 . Tiếp_nhận chứng_từ và báo_cáo
+
+Bộ_phận hậu kiểm khi tiếp_nhận bộ chứng_từ và báo_cáo từ cán_bộ kiểm_soát chuyển nộp , thực_hiện :
+
+a ) Kiểm_tra số_lượng chứng_từ của từng kế_toán viên thực_hiện trong ngày , nếu khớp đúng ghi ngày nhận và kí nhận giữa 2 bên . Mọi trường_hợp thiếu chứng_từ đều phải ghi rõ nguyên_nhân và có xác_nhận của cán_bộ kiểm_soát đã thực_hiện kiểm_soát ;
+
+b ) Kiểm_tra tính đầy_đủ , chính_xác của các chữ_kí quy_định trên chứng_từ , trường_hợp thiếu phải đề_nghị cán_bộ nghiệp_vụ , kế_toán viên bổ_sung đầy_đủ các chữ_ký ;
+
+c ) Kiểm_tra việc đánh_số và sắp_xếp tập chứng_từ của kế_toán viên ;
+
+d ) Kiểm_tra chữ_kí của cán_bộ nghiệp_vụ , kế_toán viên , cán_bộ kiểm_soát kí trên báo_cáo đảm khớp đúng với mẫu chữ_kí đã đăng_ký ;
+
+đ ) Kiểm_tra việc tập_hợp đủ số_lượng tập chứng_từ của tất_cả người dùng tham_gia giao_dịch trong ngày của toàn đơn_vị kế_toán Nhn đảm_bảo khớp đúng với Báo_cáo tổng_hợp giao_dịch in ra từ hệ_thống phần_mềm kế_toán và kí xác_nhận trên báo_cáo này .
+
+2 . In và kiểm_soát chứng_từ , báo_cáo sau thời_điểm kết_thúc ngày làm_việc
+
+a ) In báo_cáo :
+
+- Bảng liệt_kê giao_dịch ( mẫu_số Bclc 01 ) của mã người dùng hệ_thống và của các cán_bộ nghiệp_vụ , kế_toán viên của các đơn_vị kế_toán Nhn khác ;
+
+- Báo_cáo liệt_kê giao_dịch chưa hoàn_thành ( mẫu_số Bclc 02 ) ;
+
+- Báo_cáo liệt_kê lỗi chi_tiết ( mẫu_số Bclc 03 ) ;
+
+- Báo_cáo liệt_kê các giao_dịch_hạch_toán đảo ( mẫu_số Bclc 04 ) ;
+
+- Báo_cáo liệt_kê các giao_dịch_hạch_toán điều_chỉnh ngày hạch_toán ( mẫu_số Bclc 05 ) ;
+
+- Báo_cáo tổng_hợp giao_dịch ( mẫu_số Bclc 06 ) ;
+
+- Báo_cáo tổng_hợp theo tài_khoản kế_toán ( mẫu_số Bclc 07 ) ;
+
+- Báo_cáo đối_chiếu dữ_liệu tích_hợp ( mẫu_số Bclc 08 ) ;
+
+- Báo_cáo kiểm_soát lỗi tự_động ( mẫu_số Bclc 09 ) ;
+
+- Bảng cân_đối tài_khoản kế_toán ngày ( mẫu_số Bclc 10 ) .
+
+Trường_hợp các báo_cáo mẫu_số Bclc 02 , Bclc 03 , Bclc 04 , Bclc 09 không có phát_sinh thì không phải in các mẫu báo_cáo này ;
+
+b ) Kiểm_tra , kiểm_soát chứng_từ và Bảng liệt_kê giao_dịch
+
+- Kiểm_soát , đối_chiếu đảm_bảo khớp đúng giữa chứng từ kế_toán với Báo_cáo liệt_kê giao_dịch chi_tiết ( mục 1 , mẫu_số Bclc 01 ) và việc tuân_thủ quy_định pháp_luật về chứng từ kế_toán ; đối_chiếu giữa mã người dùng thực_hiện , cán_bộ kiểm_soát duyệt giao_dịch trên hệ_thống phần_mềm kế_toán với chữ_kí của cán_bộ nghiệp_vụ , kế_toán viên , cán_bộ kiểm_soát trên tập chứng từ giấy đảm_bảo người kí chịu trách_nhiệm trên chứng từ giấy thống_nhất với người thực_hiện trên hệ_thống phần_mềm kế_toán ; kiểm_soát sự phù_hợp giữa chứng_từ với các giao_dịch trên Báo_cáo liệt_kê giao_dịch chi_tiết ( mục 1 , mẫu_số Bclc 01 ) về tính_chất nghiệp_vụ , phân hệ nghiệp_vụ .
+
+Đối_với những giao_dịch , cán_bộ hậu kiểm thấy có dấu_hiệu nghi_vấn như số tiền giao_dịch quá lớn , thời_gian thực_hiện giao_dịch không hợp_lí ( như giao_dịch vào ngày nghỉ , . . . ) , hạch_toán không đúng phân hệ nghiệp_vụ ( như giao_dịch cho vay không ghi_nhận , theo_dõi ở phân hệ Ld , . . . ) , . . . , cán_bộ hậu kiểm phải kiểm_tra lại , đối_chiếu với chứng từ kế_toán và tài_liệu liên_quan để xác_minh . Trường_hợp phát_hiện sai_sót , xử_lí theo quy_định tại Khoản 7 Điều 4 và Điều 11 Thông_tư này .
+
+- Kiểm_soát , đối_chiếu đảm_bảo khớp đúng về tổng_số giao_dịch_hạch_toán Nợ , tổng_số giao_dịch_hạch_toán Có , tổng_doanh_số phát_sinh Nợ , tổng_doanh_số phát_sinh Có của từng tài_khoản tổng_hợp giữa Báo_cáo liệt_kê giao_dịch chi_tiết ( mục 1 , mẫu_số Bclc 01 ) với Báo_cáo liệt_kê theo tài_khoản kế_toán ( mục 2 , mẫu_số Bclc 01 ) ;
+
+c ) Kiểm_soát giao_dịch_hạch_toán tự_động
+
+- Căn_cứ các tài_khoản tổng_hợp hạch_toán trên Báo_cáo liệt_kê giao_dịch chi_tiết của các giao_dịch_hạch_toán tự_động ( mục 1 , mẫu_số Bclc 01 ) , cán_bộ hậu kiểm kiểm_tra lại số_liệu về số giao_dịch_hạch_toán Nợ , số giao_dịch_hạch_toán Có tương_ứng doanh_số phát_sinh Nợ , doanh_số phát_sinh Có để đảm_bảo số_liệu phát_sinh các tài_khoản đã được cập_nhật đầy_đủ , chính_xác theo từng nghiệp_vụ kinh_tế , tài_chính phát_sinh trên Báo_cáo liệt_kê theo tài_khoản kế_toán ( mục 2 , mẫu_số Bclc 01 ) .
+
+Thực_hiện chọn mẫu để kiểm_tra lại số_liệu trên hệ_thống phần_mềm kế_toán với chứng từ tài_liệu gốc như hợp_đồng_tiền gửi , tiền vay , . . . ( tối_thiểu 10 % số_lượng giao_dịch_hạch_toán tự_động trong ngày , trong đó tập_trung vào các giao_dịch có số tiền lớn , giao_dịch có tính rủi_ro cao , giao_dịch nghi_ngờ , . . . ) .
+
+- Kiểm_tra tính khớp đúng số_liệu về tổng_số giao_dịch , tổng_doanh_số phát_sinh Nợ , tổng_doanh_số phát_sinh Có của các giao_dịch_hạch_toán tự_động giữa Bảng liệt_kê giao_dịch của các giao_dịch_hạch_toán tự_động ( mẫu_số Bclc 01 ) và Báo_cáo tổng_hợp giao_dịch ( mẫu_số Bclc 06 ) ;
+
+d ) Kiểm_tra các giao_dịch chưa hoàn_thành và xử_lí đối_với các giao_dịch lỗi chi_tiết
+
+Cán_bộ hậu kiểm kiểm_tra Báo_cáo liệt_kê các giao_dịch chưa hoàn_thành ( mẫu_số Bclc 02 ) , xác_định nguyên_nhân của từng giao_dịch .
+
+- Trường_hợp giao_dịch chưa được duyệt , cán_bộ hậu kiểm yêu_cầu cán_bộ kiểm_soát xử_lí theo đúng quy_trình của phần_mềm / phân hệ nghiệp_vụ .
+
+- Trường_hợp giao_dịch bị lỗi , căn_cứ Báo_cáo liệt_kê giao_dịch lỗi chi_tiết ( mẫu_số Bclc 03 ) , cán_bộ hậu kiểm báo_cáo cấp thẩm_quyền và phối_hợp với Cục Công_nghệ thông_tin / Chi_cục Công_nghệ thông_tin , các đơn_vị có liên_quan để kiểm_tra , xử_lí các giao_dịch lỗi ;
+
+đ ) Kiểm_soát các giao_dịch_hạch_toán đảo , giao_dịch_hạch_toán điều_chỉnh ngày hạch_toán
+
+Kiểm_tra , xác_minh đối_với các giao_dịch_hạch_toán đảo ( reversed ) ( mẫu_số Bclc 04 ) ; các giao_dịch_hạch_toán điều_chỉnh ngày hạch_toán ( backdate ) ( mẫu_số Bclc 05 ) đảm_bảo tính đúng_đắn , hợp_lệ , hợp_pháp của giao_dịch ;
+
+e ) Kiểm_soát báo_cáo tổng_hợp theo từng mã người dùng và theo từng tài_khoản tổng_hợp
+
+- Kiểm_tra tính khớp đúng số_liệu về tổng_số giao_dịch , tổng_doanh_số phát_sinh Nợ , tổng_doanh_số phát_sinh Có của Báo_cáo liệt_kê giao_dịch chi_tiết theo từng kế_toán viên ( mục 1 , mẫu_số Bclc 01 ) với Báo_cáo tổng_hợp giao_dịch ( mẫu_số Bclc 06 ) ;
+
+- Kiểm_tra tính khớp đúng số_liệu về tổng_số giao_dịch , tổng_doanh_số phát_sinh Nợ , tổng_doanh_số phát_sinh Có của Báo_cáo liệt_kê chi_tiết theo tài_khoản của từng mã người dùng ( mục 2 , mẫu_số Bclc 01 ) với Báo_cáo tổng_hợp theo tài_khoản ( mẫu_số Bclc 07 ) ;
+
+- Kiểm_soát số_dư đầu kỳ , doanh_số phát_sinh trong kỳ , số_dư cuối kì của Báo_cáo tổng_hợp theo tài_khoản kế_toán ( mẫu_số Bclc 07 ) với Bảng cân_đối tài_khoản kế_toán ( mẫu_số Bclc 10 ) tương_ứng của từng tài_khoản tổng_hợp ;
+
+- Kiểm_tra , đối_chiếu số_dư các tài_khoản trung_gian : Cán_bộ hậu kiểm phải kiểm_tra lại tính đúng_đắn của việc hạch_toán vào các tài_khoản trung_gian này ( bao_gồm cả các tài_khoản trung_gian hệ_thống ) đảm_bảo tài_khoản trung_gian quy_định tại Hệ_thống tài_khoản kế_toán áp_dụng đối_với Nhn đúng nội_dung , tính_chất tài_khoản ; các tài_khoản trung_gian hệ_thống không còn số_dư . Trường_hợp có sai_sót , cán_bộ nghiệp_vụ , kế_toán viên phải phối_hợp với cán_bộ kiểm_soát , cán_bộ kĩ_thuật để xử_lí theo đúng hướng dẫn thao_tác trên hệ_thống phần_mềm kế_toán và pháp_luật kế_toán ;
+
+g ) Kiểm_soát dữ_liệu tích_hợp của hệ_thống phần_mềm kế_toán
+
+Cán_bộ hậu kiểm thực_hiện kiểm_soát Báo_cáo đối_chiếu dữ_liệu tích_hợp ( mẫu_số Bclc 08 ) đảm_bảo tất_cả các giao_dịch từ các phần_mềm / phân hệ nghiệp_vụ đã cập_nhật đúng và đầy_đủ vào phân hệ sổ cái ( gl ) .
+
+Trường_hợp phát_sinh chênh_lệch số_liệu về số giao_dịch , giá_trị hạch_toán giữa dữ_liệu nguồn và phân hệ Gl , cán_bộ hậu kiểm báo_cáo Trưởng_phòng kế_toán để báo_cáo Thủ_trưởng đơn_vị kế_toán Nhn , phối_hợp với Cục Công_nghệ thông_tin / Chi_cục Công_nghệ thông_tin , các đơn_vị có liên_quan để kiểm_tra , xác_định nguyên_nhân , xử_lí các giao_dịch lỗi ;
+
+h ) Đối_chiếu , kiểm_tra , kiểm_soát các tài_khoản kế_toán tổng_hợp
+
+Sau thời_điểm kết_thúc ngày làm_việc , cán_bộ hậu kiểm thực_hiện đối_chiếu đảm_bảo :
+
+- Số_dư tiền tại Quỹ dự_trữ phát_hành , Quỹ nghiệp_vụ phát_hành khớp đúng với số_dư tồn_quỹ trên báo_cáo tại hệ_thống Cmo ( Sổ tổng_hợp Quỹ dự_trữ phát_hành ( mẫu_số Dc 05 ) , Sổ tổng_hợp Quỹ nghiệp_vụ phát_hành ( mẫu_số Dc 06 ) và sổ quỹ tại phần_mềm T24 ; đối_với các đơn_vị kế_toán Nhn không quản_lí Quỹ nghiệp_vụ phát_hành phải đảm_bảo khớp đúng giữa số_dư tài_khoản tiền_mặt tại quỹ ( Nhật_kí_quỹ ( mẫu_số Dc 07 ) ) với sổ quỹ tại phần_mềm Erp ;
+
+- Số_dư các tài_khoản ngoài bảng : Tiền cotton , tiền polymer và tiền kim_loại , giấy_tờ có_giá mẫu , giấy_tờ có_giá , chứng_từ có giá_trị khác đang bảo_quản , . . . trên phân hệ Gl khớp đúng với số_liệu của từng loại tiền , giấy_tờ có_giá tương_ứng được quản_lý , theo_dõi trên hệ_thống Cmo , phần_mềm Csd ;
+
+i ) Kiểm_soát Bảng cân_đối tài_khoản kế_toán ngày
+
+- Kiểm_soát các tài_khoản tổng_hợp đảm_bảo hạch_toán đúng tính_chất , loại tiền_tệ thông_qua Báo_cáo kiểm_soát lỗi tự_động ( mẫu_số Bclc 09 ) ;
+
+- Kiểm_soát Bảng cân_đối tài_khoản kế_toán ngày ( mẫu_số Bclc 10 ) ;
+
+- Số_dư đầu kì này khớp đúng với số_dư cuối kì trước .
+
++ Đối_chiếu tổng Nợ bằng ( = ) tổng Có của số_dư đầu kỳ , doanh_số phát_sinh trong kì và số_dư cuối kì của các tài_khoản trong Bảng cân_đối kế_toán ;
+
++ Đối_chiếu và xử_lí đối_với từng tài_khoản tổng_hợp không cân theo chiều ngang : Số_dư đầu kì cộng ( + ) doanh_số phát_sinh tăng trừ ( - ) doanh_số phát_sinh giảm khác với số_dư cuối kỳ ;
+
++ Đối_chiếu , xử_lí các tài_khoản có số_dư không đúng tính_chất ( nếu có ) ;
+
+k ) Sau khi kiểm_tra theo quy_định tại Khoản 2 Điều 9 Thông_tư này đảm_bảo chính_xác , cán_bộ hậu kiểm thực_hiện kí xác_nhận trên các báo_cáo mẫu_số Bclc 02 , Bclc 03 , Bclc 04 , Bclc 05 , Bclc 06 , Bclc 07 , Bclc 08 , Bclc 09 , Bclc 10 .
+
+Đối_với các báo_cáo mẫu_số Bclc 06 , Bclc 07 , Bclc 10 , cán_bộ hậu kiểm chuyển cho Trưởng_phòng kế_toán để kiểm_tra lại và kí xác_nhận .
+
+3 . Đối_với ngày cuối tháng , ngoài việc thực_hiện theo quy_định tại Khoản 2 Điều này , cán_bộ hậu kiểm phối_hợp với các bộ_phận liên_quan thực_hiện đối_chiếu , kiểm_soát đảm_bảo :
+
+a ) Tổng_số_dư các tài_khoản tiền gửi , tiền vay theo từng đối_tượng hạch_toán chi_tiết trên tài_khoản hoạt_động như số_dư , loại tiền , hợp_đồng , đối_tác , được quản_lý , theo_dõi trên các phân hệ của phần_mềm T24 ( Bảng kê tiền gửi mẫu_số Dc 08 , Bảng kê cho vay mẫu_số Dc 09 ) khớp đúng số_dư tài_khoản tổng_hợp tương_ứng trên phân hệ Gl ;
+
+b ) Tổng_số_dư các tài_khoản phải thu , phải trả theo từng đối_tượng hạch_toán chi_tiết như đơn_vị , cá_nhân có quan_hệ thanh_toán , trên phân hệ Ar , Ap ; T24 ( mẫu_số Dc 10 , Dc 11 ) khớp đúng số_dư tài_khoản tổng_hợp tương_ứng trên phân hệ Gl đảm_bảo không còn chênh_lệch ở cột ( 8 ) , ( 9 ) mẫu_số Dc 10 và Dc 11 ;
+
+c ) Tổng_số_dư tài_khoản tài_sản cố_định , tài_sản khác trong kho theo từng nhóm , loại tài_sản cố_định , công_cụ dụng_cụ và vật_liệu trên phân hệ Fa ( mẫu_số Dc 12 ) khớp đúng số_dư tài_khoản tổng_hợp tương_ứng trên phân hệ Gl đảm_bảo không còn chênh_lệch ở cột ( 8 ) , ( 9 ) mẫu_số Dc 12 .
+
+4 . Đối_với báo_cáo kế_toán tháng , quý , năm , đơn_vị kế_toán Nhn thực_hiện theo quy_định hiện_hành .
+
+Điều 10 . Tập_hợp , sắp_xếp chứng_từ , báo_cáo của toàn đơn_vị kế_toán Nhn
+
+1 . Tập_hợp chứng_từ
+
+Toàn_bộ chứng từ kế_toán trong ngày được tập_hợp theo tập chứng_từ . Một tập chứng từ kế_toán bao_gồm : Bảng liệt_kê giao_dịch theo từng mã người dùng kèm theo toàn_bộ các chứng từ kế_toán .
+
+2 . Sắp_xếp , đánh_số tập chứng_từ
+
+a ) Sắp_xếp chứng_từ
+
+- Đối_với các mã người dùng không phải là cán_bộ nghiệp_vụ , kế_toán viên của đơn_vị kế_toán Nhn , cán_bộ hậu kiểm thực_hiện theo quy_định tại Khoản 6 Điều 4 Thông_tư này .
+
+- Cán_bộ hậu kiểm sắp_xếp chứng_từ theo thứ tự mã người dùng kèm toàn_bộ chứng_từ theo Bảng liệt_kê giao_dịch , đóng thành tập và quản_lí ngay sau khi hoàn_thành kiểm_tra , kiểm_soát , đối_chiếu đầy_đủ theo quy_định tại Khoản 6 Điều 4 Thông_tư này ;
+
+b ) Đánh_số chứng_từ
+
+Chứng_từ trong quyển nhật_kí chứng_từ phải được đánh_số thứ tự bằng bút mực đỏ vào góc phía trên , bên phải của từng tờ chứng_từ theo thứ_tự liên_tục từ một ( 01 ) đến hết nhằm đảm_bảo_quản_lí và kiểm_soát được đầy_đủ số_lượng chứng từ kế_toán phát_sinh trong ngày ;
+
+c ) Đóng Nhật_kí chứng_từ
+
+Chứng_từ kế_toán sau khi sắp_xếp thành từng tập , các tập chứng_từ được sắp_xếp theo kế_toán viên thực_hiện để đóng thành các quyển nhật_kí chứng_từ . Tuỳ theo số_lượng chứng_từ của đơn_vị kế_toán Nhn để phân_chia thành các quyển nhật_kí chứng_từ cho phù_hợp với việc lưu_trữ , bảo_quản và tra_cứu khi cần_thiết .
+
+Bìa tập nhật_kí chứng_từ ghi cụ_thể tên đơn_vị kế_toán Nhn , ngày_tháng , số lưu_trữ , tập số chứng_từ / Tổng_số tập trong ngày , tổng_số trang đã đánh_số từ đến , chữ_kí và tên của cán_bộ hậu kiểm .
+
+Việc sắp_xếp thứ_tự của tập Nhật_kí chứng_từ được thực_hiện như sau :
+
+- Báo_cáo tổng_hợp theo tài_khoản kế_toán ( mẫu_số Bclc 07 ) ;
+
+- Báo_cáo tổng_hợp giao_dịch ( mẫu_số Bclc 06 ) ;
+
+- Bảng liệt_kê giao_dịch theo từng mã người dùng ( mẫu_số Bclc 01 ) đính kèm chứng từ kế_toán theo giao_dịch ;
+
+d ) Đánh_số quyển Nhật_kí chứng_từ
+
+Các quyển nhật_kí chứng_từ sẽ được đánh_số lưu_trữ theo thứ_tự từ ngày 01/01 đến ngày 31/12 hàng năm và lưu_trữ theo quy_định hiện_hành về thời_hạn bảo_quản hồ_sơ , tài_liệu lưu_trữ trong ngành Ngân_hàng .
+
+3 . Các sổ và báo_cáo kế_toán ( bao_gồm cả Bảng cân_đối tài_khoản kế_toán theo ngày ( mẫu_số Bclc10 ) ) phải được đóng thành từng loại riêng , theo từng kì báo_cáo ngay sau khi kiểm_soát , kí xác_nhận để thực_hiện lưu_trữ theo quy_định .
+
+Điều 11 . Xử_lí sai_sót trong quá_trình luân_chuyển , kiểm_soát , đối_chiếu chứng_từ
+
+1 . Tại bộ_phận nghiệp_vụ
+
+Khi phát_hiện có sai_sót phát_sinh từ tài_liệu nghiệp_vụ hoặc do việc thực_hiện giao_dịch tại các phân hệ nghiệp_vụ , phần_mềm , cán_bộ nghiệp_vụ báo_cáo cán_bộ kiểm_soát , Trưởng_phòng nghiệp_vụ và phối_hợp với các đơn_vị liên_quan xử_lí sai_sót tuân_thủ cơ_chế , quy_trình nghiệp_vụ .
+
+2 . Tại bộ_phận kế_toán
+
+a ) Khi phát_hiện có sai_sót phát_sinh từ các chứng từ kế_toán hoặc do thực_hiện giao_dịch tại các phân hệ nghiệp_vụ , phần_mềm , kế_toán viên báo_cáo cán_bộ kiểm_soát , Trưởng_phòng Kế_toán và phối_hợp với các cán_bộ , bộ_phận liên_quan xử_lí sai_sót tuân_thủ cơ_chế , quy_trình nghiệp_vụ , pháp_luật kế_toán và pháp_luật có liên_quan khác ;
+
+b ) Trường_hợp giao_dịch sai_sót có liên_quan đến các bộ_phận nghiệp_vụ đặc_biệt là các giao_dịch_chuyển tiền , giao_dịch tiền_mặt thì ngay lập_tức kế_toán viên phải báo_cáo Trưởng_phòng Kế_toán và phải thông_báo cho các bộ_phận có liên_quan để lập đề_nghị điều_chỉnh kịp_thời có biện_pháp khắc_phục đảm_bảo_an_toàn tài_sản .
+
+3 . Tại bộ_phận kiểm_soát
+
+a ) Xử_lí sai_sót liên_quan đến tài_liệu nghiệp_vụ , chứng_từ
+
+Khi phát_hiện có sai_sót phát_sinh từ tài_liệu nghiệp_vụ , chứng_từ do cán_bộ nghiệp_vụ , kế_toán viên chuyển đến , cán_bộ kiểm_soát phải chuyển trả chứng_từ , tài_liệu cho cán_bộ nghiệp_vụ , kế_toán viên để xử_lí theo quy_định .
+
+Trường_hợp cán_bộ kiểm_soát kiểm_tra , kiểm_soát phát_hiện sai_sót liên_quan đến chứng_từ , báo_cáo như : thiếu các yếu_tố trên chứng_từ ; thiếu chứng_từ ; chứng_từ chưa đảm_bảo quy_định về tính hợp_pháp , hợp_lệ , cán_bộ kiểm_soát phải yêu_cầu cán_bộ có liên_quan có trách_nhiệm bổ_sung , hoàn_thiện bộ chứng_từ đảm_bảo tuân_thủ quy_định pháp_luật hiện_hành ;
+
+b ) Xử_lí sai_sót liên_quan đến thực_hiện giao_dịch tại các phân hệ nghiệp_vụ , phần_mềm
+
+Trường_hợp nguyên_nhân sai_sót do xử_lí hạch_toán kế_toán , cán_bộ kiểm_soát báo_cáo Trưởng_phòng kế_toán để xác_định nguyên_nhân sai_sót , yêu_cầu cán_bộ nghiệp_vụ , kế_toán viên gây sai_sót thực_hiện khắc_phục sai_sót theo nguyên_tắc sai_sót thuộc các phân hệ nghiệp_vụ , phần_mềm nào thì thực_hiện giao_dịch điều_chỉnh tại phân hệ nghiệp_vụ , phần_mềm đó theo quy_định pháp_luật về điều_chỉnh sai_sót , báo_cáo Thủ_trưởng đơn_vị kế_toán Nhn .
+
+Trường_hợp nguyên_nhân sai_sót do khai_báo thông_tin của các giao_dịch_hạch_toán tự_động , cán_bộ nghiệp_vụ , kế_toán viên gây sai_sót báo_cáo Trưởng_phòng Kế_toán để xử_lí khắc_phục theo quy_trình hướng_dẫn xử_lí trên hệ_thống phần_mềm kế_toán , báo_cáo Thủ_trưởng đơn_vị kế_toán Nhn .
+
+4 . Tại bộ_phận hậu_kiểm
+
+a ) Khi phát_hiện sai_sót , căn_cứ nội_dung_sai_sót , bộ_phận hậu kiểm xác_định và thông_báo ngay cho bộ_phận gây ra sai_sót .
+
+Trường_hợp xử_lí sai_sót trên hệ_thống phần_mềm và không làm thay_đổi số_lượng , nội_dung chứng_từ , bộ_phận nghiệp_vụ chủ_động phối_hợp với bộ_phận hậu kiểm , các bộ_phận liên_quan xác_định nguyên_nhân , biện_pháp điều_chỉnh và thực_hiện điều_chỉnh kịp_thời ngay trong ngày tìm ra nguyên_nhân nhằm đảm_bảo_an_toàn tài_sản .
+
+Trường_hợp xử_lí sai_sót làm thay_đổi số_lượng , nội_dung chứng_từ , bộ_phận hậu kiểm lập biên_bản bàn_giao trước và sau khi hoàn_thành xử_lí sai_sót . Biên_bản phải được lập giữa bộ_phận hậu kiểm và cán_bộ kiểm_soát , ghi rõ thời_gian bàn_giao , nguyên_nhân và kết_quả xử_lí sai_sót ;
+
+b ) Cán_bộ hậu kiểm không được phép sửa_chữa sai_sót của cán_bộ nghiệp_vụ , kế_toán viên trên hệ_thống phần_mềm kế_toán , nếu phát_hiện có sai_sót thì phải chuyển trả chứng_từ , tài_liệu cho kế_toán viên , cán_bộ nghiệp_vụ để xử_lý ;
+
+c ) Bộ_phận hậu kiểm thực_hiện tổng_hợp báo_cáo Thủ_trưởng đơn_vị kế_toán Nhn kịp_thời sai_sót phát_hiện_tại bộ_phận hậu kiểm ;
+
+d ) Xử_lí sai_sót liên_quan đến tài_liệu nghiệp_vụ , chứng_từ và liên_quan đến thực_hiện giao_dịch tại các phân hệ nghiệp_vụ , phần_mềm
+
+Trường_hợp bộ_phận hậu kiểm kiểm_tra , kiểm_soát phát_hiện sai_sót liên_quan đến tài_liệu nghiệp_vụ , chứng_từ và liên_quan đến thực_hiện giao_dịch tại các phân hệ nghiệp_vụ , phần_mềm , cán_bộ hậu kiểm thực_hiện tương_tự như quy_định tại Khoản 2 Điều này .
+
+Trong quá_trình hậu kiểm , nếu phát_hiện các trường_hợp bất_thường , nghi_ngờ tính xác_thực của giao_dịch , . . . , bộ_phận hậu kiểm báo_cáo Trưởng_phòng Kế_toán , Thủ_trưởng đơn_vị kế_toán Nhn kịp_thời và chủ_động phối_hợp với các bộ_phận có liên_quan để xác_nhận giao_dịch bảo_đảm an_toàn tài_sản ;
+
+đ ) Xử_lí sai_sót liên_quan đến xử_lí tự_động của hệ_thống
+
+Bộ_phận hậu kiểm báo_cáo Trưởng_phòng kế_toán phối_hợp với bộ_phận liên_quan xác_định nguyên_nhân , báo_cáo Thủ_trưởng đơn_vị kế_toán Nhn , lập văn_bản thông_báo lỗi gửi Cục Công_nghệ thông_tin / Chi_cục Công_nghệ thông_tin để phối_hợp với các bên liên_quan xử_lí kịp_thời ;
+
+e ) Theo_dõi , đôn_đốc việc khắc_phục , chỉnh_sửa_sai_sót
+
+Bộ_phận hậu kiểm tổng_hợp , theo_dõi các sai_sót để đôn_đốc việc khắc_phục , chỉnh_sửa_sai_sót của kế_toán viên , cán_bộ nghiệp_vụ và các bộ_phận có liên_quan theo quy_định .
+
+Điều 12 . Luân_chuyển , kiểm_soát , đối_chiếu và tập_hợp chứng_từ tại Sở Giao_dịch
+
+Sở Giao_dịch với vai_trò vừa là Trung_tâm thanh_toán , vừa là đơn_vị kế_toán Nhn , theo đó , Sở Giao_dịch được ban_hành Quy_định nội_bộ về luân_chuyển , kiểm_soát , đối_chiếu tập_hợp , sắp_xếp , đóng chứng_từ phù_hợp với đặc_điểm hoạt_động và tổ_chức công_tác kế_toán theo nguyên_tắc sau :
+
+1 . Luân_chuyển , kiểm_soát , đối_chiếu chứng_từ tuân_thủ quy_định tại Điều 4 Thông_tư này ; đảm_bảo khớp đúng từ kế_toán chi_tiết đến kế_toán tổng_hợp .
+
+2 . Tập_hợp , sắp_xếp , đóng chứng_từ đảm_bảo thuận_tiện cho công_tác hậu kiểm , tra_cứu chứng_từ khi đưa vào lưu_trữ và tránh thất_lạc chứng_từ .
+
+Điều 13 . Luân_chuyển , kiểm_soát , đối_chiếu và tập_hợp chứng_từ tại Vụ Tài_chính - Kế_toán
+
+Vụ Tài_chính - Kế_toán , với tư_cách là một đơn_vị kế_toán Nhn thực_hiện quy_trình luân_chuyển , kiểm_soát và tập_hợp chứng_từ theo nội_dung quy_định tại Điều 7 đến Điều 11 Thông_tư này .
+
+Mục 2 . Kiểm_soát , Đối_chiếu Báo_cáo Kế_toán Toàn Hệ_thống Nhn Tại Vụ Tài_chính - Kế_toán
+
+Điều 14 . Kiểm_soát , đối_chiếu báo_cáo kế_toán toàn hệ_thống Nhn
+
+1 . Kiểm_tra số_liệu trên Bảng cân_đối tài_khoản kế_toán toàn hệ_thống Nhn hàng ngày
+
+Hàng ngày , vào đầu ngày làm_việc kế_tiếp , Vụ Tài_chính - Kế_toán kiểm_tra tính đúng_đắn của báo_cáo về mặt_số_học , tính_chất số_dư các tài_khoản theo quy_định tại Hệ_thống tài_khoản kế_toán áp_dụng đối_với Nhn trên Bảng cân_đối tài_khoản kế_toán .
+
+Trường_hợp trong quá_trình kiểm_tra phát_hiện dấu_hiệu nghi_vấn về số_liệu , tài_khoản , , Vụ Tài_chính - Kế_toán phải phối_hợp với các đơn_vị kế_toán Nhn liên_quan xác_minh , làm rõ nguyên_nhân . Trường_hợp phát_hiện có sai_sót thì Vụ Tài_chính - Kế_toán yêu_cầu đơn_vị kế_toán Nhn gây ra sai_sót xử_lí theo quy_định tại Điều 11 Thông_tư này và quy_định của pháp_luật liên_quan .
+
+2 . Kiểm_tra , đối_chiếu Bảng cân_đối tài_khoản kế_toán toàn hệ_thống Nhn và các báo_cáo định_kì tháng , quý , năm .
+
+Vụ Tài_chính - Kế_toán thực_hiện kiểm_tra , đối_chiếu số_liệu Bảng cân_đối tài_khoản kế_toán của toàn hệ_thống Nhn và các báo_cáo định_kì tháng , quý , năm theo quy_định hiện_hành của Nhn .
+
+3 . Xác_nhận số_liệu toàn hệ_thống Nhn , đóng , mở kì kế_toán
+
+a ) Sau khi hoàn_thành kiểm_tra , Vụ Tài_chính - Kế_toán thực_hiện xác_nhận số_liệu toàn hệ_thống Nhn ;
+
+b ) Cục Công_nghệ thông_tin là đầu_mối phối_hợp với Vụ Tài_chính - Kế_toán thực_hiện khai_báo các kì của năm tài_chính và thực_hiện đóng , mở kì kế_toán ( tháng , quý , năm ) của toàn hệ_thống trên phần_mềm Erp .
+
+Điều 15 . Xử_lí sai_sót phát_hiện do kiểm_soát , đối_chiếu báo_cáo kế_toán toàn hệ_thống Nhn
+
+1 . Trường_hợp sau khi thực_hiện quy_định tại điểm b Khoản 2 Điều này , Vụ Tài_chính - Kế_toán phát_hiện sai_sót tại đơn_vị kế_toán Nhn , đối_với sai_sót làm ảnh_hưởng trọng_yếu đến báo_cáo tài_chính , Vụ Tài_chính - Kế_toán trình Thống_đốc Nhn xem_xét , quyết_định thời_điểm thực_hiện điều_chỉnh giao_dịch sai_sót ; đối_với các sai_sót khác , Vụ Tài_chính - Kế_toán xem_xét , quyết_định thời_điểm thực_hiện điều_chỉnh giao_dịch sai_sót .
+
+2 . Trường_hợp quyết_định điều_chỉnh sai_sót vào ngày làm_việc tiếp_theo , Vụ Tài_chính - Kế_toán thông_báo với đơn_vị kế_toán Nhn xảy ra sai_sót để thực_hiện xử_lí điều_chỉnh ngay . Đơn_vị kế_toán Nhn có giao_dịch sai_sót thực_hiện quy_trình luân_chuyển và kiểm_soát đối_với giao_dịch điều_chỉnh tương_tự như giao_dịch phát_sinh quy_định tại Điều 7 Thông_tư này .
+
+3 . Trường_hợp quyết_định điều_chỉnh sai_sót vào ngày làm_việc có sai_sót ( giao_dịch backdate ) , các đơn_vị kế_toán Nhn gửi đề_nghị về Vụ Tài_chính - Kế_toán và Cục Công_nghệ thông_tin ( bản cứng và email ) nêu rõ lí_do , ngày điều_chỉnh , phân hệ thực_hiện điều_chỉnh , danh_sách các cán_bộ thực_hiện điều_chỉnh giao_dịch sai_sót , Trên_cơ_sở đó , Vụ Tài_chính - Kế_toán phối_hợp với Cục Công_nghệ thông_tin thực_hiện cho phép đơn_vị kế_toán Nhn thực_hiện điều_chỉnh giao_dịch sai_sót đảm_bảo tuân_thủ quy_định của pháp_luật kế_toán và hướng_dẫn của Nhn ( Vụ Tài_chính - Kế_toán ) .
+
+Chương_iii
+
+Điều_khoản Thi_hành
+
+Điều 16 . Trách_nhiệm của các đơn_vị kế_toán Nhn
+
+1 . Các đơn_vị kế_toán Nhn
+
+a ) Thực_hiện phân_cấp , phân_quyền người sử_dụng hệ_thống phần_mềm kế_toán tại đơn_vị kế_toán Nhn và thông_báo bằng văn_bản về Nhn ( qua Cục Công_nghệ thông_tin ) ;
+
+b ) Thông_tin kịp_thời về Nhn ( qua Vụ Tài_chính - Kế_toán đối_với các vấn_đề vướng_mắc phát_sinh về nghiệp_vụ ; Cục Công_nghệ thông_tin đối_với các vấn_đề vướng_mắc phát_sinh về kĩ_thuật ) trong quá_trình thực_hiện Thông_tư này ;
+
+c ) Thực_hiện xác_nhận việc hoàn_thành số_liệu hàng tháng , quý , năm ( đặc_biệt phân hệ Fa ) theo cơ_chế , quy_trình nghiệp_vụ làm cơ_sở để Cục Công_nghệ thông_tin thực_hiện mở , đóng kì kế_toán .
+
+2 . Vụ Tài_chính - Kế_toán
+
+a ) Chủ_trì và phối_hợp với các đơn_vị liên_quan hướng_dẫn , triển_khai , giám_sát , kiểm_tra các đơn_vị kế_toán Nhn thực_hiện tuân_thủ quy_định tại Thông_tư này ;
+
+b ) Phối_hợp với các đơn_vị liên_quan trong việc phân_cấp , phân_quyền người sử_dụng hệ_thống phần_mềm kế_toán ;
+
+c ) Là đơn_vị đầu_mối trong việc tiếp_nhận các kiến_nghị bằng văn_bản về thực_hiện Thông_tư này , phối_hợp với các đơn_vị liên_quan để xử_lí kiến_nghị cho đơn_vị có ý_kiến ;
+
+d ) Phối_hợp với các đơn_vị liên_quan xác_định sai_sót trong quá_trình kiểm_soát , đối_chiếu chứng_từ , đề_xuất và hướng_dẫn xử_lí khắc_phục sai_sót theo quy_định .
+
+3 . Cục Công_nghệ thông_tin
+
+a ) Thực_hiện mở , đóng kì kế_toán theo quy_định ;
+
+b ) Thực_hiện việc khai_báo các kì của năm tài_chính mới trên phần_mềm Erp ;
+
+c ) Phối_hợp với các đơn_vị liên_quan xác_định nguyên_nhân và xử_lí sai_sót do lỗi kĩ_thuật của hệ_thống phần_mềm kế_toán ;
+
+d ) Thiết_lập các nguyên_tắc kiểm_soát dữ_liệu tích_hợp từ các phần_mềm , phân hệ , nguyên_tắc kiểm_soát lỗi theo quy_định tại điểm d , điểm g Khoản 2 Điều 9 Thông_tư này ;
+
+đ ) Là đầu_mối tiếp_nhận các yêu_cầu thêm mới , tạm dừng và dừng người sử_dụng trên hệ_thống phần_mềm kế_toán ; Thực_hiện tạo mới , tạm dừng , dừng , phân_quyền người sử_dụng trên hệ_thống phần_mềm kế_toán ; Tổ_chức giám_sát các truy_cập vào hệ_thống phần_mềm kế_toán ; Ngăn_chặn các truy_cập , giao_dịch bất_hợp_pháp đảm_bảo_an_ninh bảo_mật cho hệ_thống phần_mềm kế_toán ;
+
+e ) Chủ_trì phối_hợp với các đơn_vị liên_quan xử_lí các sự_cố về kĩ_thuật . Trường_hợp xảy ra sự_cố đường truyền dữ_liệu của Nhn , phải thông_báo kịp_thời cho các đơn_vị kế_toán Nhn và thực_hiện ngay biện_pháp để khắc_phục sự_cố ;
+
+g ) Cài_đặt và hướng_dẫn vận_hành hệ_thống phần_mềm cho các đơn_vị kế_toán Nhn để truyền , nhận , theo_dõi , tổng_hợp , khai_thác , tra soát , kiểm_soát thông_tin , số_liệu , chỉ_tiêu , mẫu biểu báo_cáo qua đường truyền dữ_liệu của Nhn ;
+
+h ) Chủ_trì phối_hợp với Vụ Tài_chính - Kế_toán phân_quyền theo mã đơn_vị kế_toán Nhn , mã người giao_dịch trong việc xử_lí sai_sót theo quy_định tại Khoản 2 Điều 10 Thông_tư này ;
+
+i ) Quản_trị , vận_hành việc cung_cấp dịch_vụ chữ_kí số của Nhn và hướng_dẫn các đơn_vị kế_toán Nhn kí số các báo_cáo kiểm_soát đảm_bảo quy_định tại Khoản 4 Điều 4 Thông_tư này .
+
+4 . Vụ Kiểm_toán nội_bộ
+
+Vụ Kiểm_toán nội_bộ có trách_nhiệm kiểm_tra việc chấp_hành Thông_tư này của các đơn_vị kế_toán Nhn .
+
+Điều 17 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 03 năm 2021 .
+
+2 . Bãi_bỏ Công_văn số 9164/NHNN-TCKT ngày 01/12/2015 của Nhn quy_định tạm_thời Quy_trình luân_chuyển , kiểm_soát , đối_chiếu và tập_hợp chứng từ kế_toán trong hệ_thống Ngân_hàng lõi , kế_toán , lập ngân_sách và tích_hợp hệ_thống tại Nhn .
+
+Điều 18 . Tổ_chức thực_hiện
+
+Chánh văn_phòng , Vụ_trưởng Vụ Tài_chính - Kế_toán , Vụ_trưởng Vụ Kiểm_toán nội_bộ , Cục_trưởng Cục Công_nghệ thông_tin , Thủ_trưởng các đơn_vị kế_toán Nhn chịu trách_nhiệm tổ_chức thi_hành Thông_tư này . / .
+
+Danh_mục Các Biểu_mẫu
+
+( kèm theo <TT rel="DC"> Thông_tư số 25/2020/TT-NHNN </TT>)
+
+Bảng Liệt_kê Giao_dịch
+
+Ngày : . / . / .
+
+Mã người dùng : Họ và tên người dùng :
+
+1 . Báo_cáo liệt_kê giao_dịch chi_tiết
+
+2 . Báo_cáo liệt_kê theo tài_khoản kế_toán
+
+Báo_cáo Liệt_kê Các Giao_dịch Chưa Hoàn_thành
+
+Ngày : . / . / .
+
+Lưu_ý :
+
+( 8 ) - Trạng_thái giao_dịch : - E : Lỗi giao_dịch không_thể duyệt ; - U : Chưa được duyệt .
+
+Báo_cáo Liệt_kê Giao_dịch Lỗi Chi_tiết
+
+Ngày : . / . / .
+
+Báo_cáo Liệt_kê Giao_dịch_hạch_toán_đảo
+
+Ngày : / /
+
+Báo_cáo Liệt_kê Giao_dịch_hạch_toán Điều_chỉnh Ngày Hạch_toán
+
+Ngày : / /
+
+Báo_cáo Tổng_hợp Giao_dịch
+
+Ngày : . / . / .
+
+Báo_cáo Tổng_hợp Theo Tài_khoản Kế_toán
+
+Ngày : . / . / .
+
+Loại tiền_tệ :
+
+Báo_cáo Đối_chiếu Dữ_liệu Tích_hợp
+
+Ngày : / /
+
+Báo_cáo Kiểm_soát Lỗi Tự_động
+
+Ngày : / /
+
+Bảng Cân_đối Tài_khoản Kế_toán
+
+Ngày : . / . / .
+
+Loại tiền_tệ :
+
+A - Các Tài_khoản Trong Bảng Cân_đối_kế_toán
+
+B - Các Tài_khoản Ngoài Bảng Cân_đối_kế_toán
+
+Lệnh Thanh_toán Liên Ngân_hàng Đi
+
+Ngày : . . . / / . .
+
+Lệnh Thanh_toán Liên Ngân_hàng Đến
+
+Ngày : . . . / / . .
+
+Lệnh Thanh_toán Liên_chi_nhánh Đi
+
+Ngày : . . . / / . .
+
+Lệnh Thanh_toán Liên_chi_nhánh Đến
+
+Ngày : . . . / / . .
+
+Sổ Tổng_hợp Quỹ Dự_trữ Phát_hành
+
+Ngày : / /
+
+Số tồn_quỹ bằng chữ :
+
+Sổ Tổng_hợp_quỹ Nghiệp_vụ Phát_hành
+
+Ngày : / /
+
+Số tồn_quỹ bằng chữ :
+
+Nhật_ký_quỹ
+
+Ngày : / /
+
+Tên tài_khoản : Số_hiệu tài_khoản :
+
+Số tồn_quỹ bằng chữ :
+
+Bảng Kê Tiền Gửi Có Kỳ_hạn Tại Ngân_hàng Quốc_tế , Ngân_hàng Nước_ngoài , Tổ_chức Quốc_tế Khác
+
+Tháng : . / .
+
+Bảng Kê Cho Vay Tổ_chức Tín_dụng Trong Nước , Cho Vay Trên Thị_trường Quốc_tế
+
+Tháng : . / .
+
+Bảng Đối_chiếu Tài_khoản Phải Thu , Phải Trả Giữa Apr Và Gl
+
+Tháng : . / .
+
+Đơn_vị : đồng
+
+Bảng Đối_chiếu Tài_khoản Phải Thu , Phải Trả Giữa T24 Và Gl
+
+Tháng : . / .
+
+Đơn_vị : đồng
+
+Bảng Đối_chiếu Tài_khoản Giữa Fa Và Gl
+
+Tháng : . / .
+
+Đơn_vị : đồng

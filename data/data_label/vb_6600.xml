@@ -1,0 +1,187 @@
+Thông_tư số 22/2020/tt-btttt ngày 07 tháng 09 năm 2020 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật giao_dịch điện_tử ngày 29 tháng 11 năm 2005 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành <LT rel="CC"> Luật giao_dịch điện_tử về chữ_kí số và dịch_vụ chứng_thực chữ_kí số </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Giám_đốc Trung_tâm Chứng_thực điện_tử quốc_gia ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định về yêu_cầu kĩ_thuật đối_với phần_mềm kí số , phần_mềm kiểm_tra chữ_kí số .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+1 . Thông_tư này quy_định yêu_cầu kĩ_thuật đối_với phần_mềm kí số , phần_mềm kiểm_tra chữ_kí số .
+
+2 . Yêu_cầu kĩ_thuật đối_với phần_mềm kí số , phần_mềm kiểm_tra chữ_kí số cho văn_bản điện_tử trong cơ_quan nhà_nước không thuộc phạm_vi điều_chỉnh của Thông_tư này .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Thông_tư này áp_dụng đối_với cơ_quan , tổ_chức , cá_nhân lựa_chọn sử_dụng phần_mềm kí số , phần_mềm kiểm_tra chữ_kí số trong giao_dịch điện_tử ; các tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số ; các tổ_chức , cá_nhân phát_triển ứng_dụng , sử_dụng chữ_kí số .
+
+2 . Thông_tư này không áp_dụng đối_với tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ .
+
+Điều 3 . Giải_thích từ_ngữ
+
+1 . " Chứng_thư số tổ_chức " là một dạng chứng_thư điện_tử do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số cấp nhằm cung_cấp thông_tin định_danh cho khoá công_khai của một cơ_quan , tổ_chức từ đó xác_nhận cơ_quan , tổ_chức là người kí chữ_kí số bằng việc sử_dụng khoá bí_mật tương_ứng .
+
+2 . " Chứng_thư số cá_nhân " là một dạng chứng_thư điện_tử do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số cấp nhằm cung_cấp thông_tin định_danh cho khoá công_khai của một cá_nhân , từ đó xác_nhận cá_nhân là người kí chữ_kí số bằng việc sử_dụng khoá bí_mật tương_ứng .
+
+3 . " Khoá bí_mật tổ_chức " là khoá bí_mật tương_ứng với chứng_thư số tổ_chức .
+
+4 . " Khoá bí_mật cá_nhân " là khoá bí_mật tương_ứng với chứng_thư số cá_nhân .
+
+5 . " Phần_mềm kí số " là chương_trình phần_mềm độc_lập hoặc một thành_phần ( module ) phần_mềm hoặc giải_pháp có chức_năng kí số vào thông_điệp dữ_liệu .
+
+6 . " Phần_mềm kiểm_tra chữ_kí số " là chương_trình phần_mềm độc_lập hoặc một thành_phần ( module ) phần_mềm hoặc giải_pháp có chức_năng kiểm_tra tính hợp_lệ của chữ_kí số trên thông_điệp dữ_liệu kí số .
+
+7 . " Đường_dẫn tin_tưởng của chứng_thư số " là thông_tin đường_dẫn địa_chỉ internet trên chứng_thư số cho biết tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số đã cấp_phát ra chứng_thư số đó .
+
+Chương_ii
+
+Yêu_cầu Kỹ_thuật Đối_với Phần_mềm Ký_số , Phần_mềm Kiểm_tra Chữ_ký_số
+
+Mục 1 - Phần_mềm kí số
+
+Điều 4 . Yêu_cầu chung
+
+Tuân_thủ các tiêu_chuẩn kĩ_thuật về chữ_kí số trên thông_điệp dữ_liệu tại Phụ_lục Danh_mục_tiêu_chuẩn kĩ_thuật về chữ_kí số trên thông_điệp dữ_liệu kèm theo Thông_tư này .
+
+Điều 5 . Yêu_cầu chức_năng
+
+1 . Chức_năng kí số :
+
+a ) Trường_hợp người kí số trên thông_điệp dữ_liệu là cá_nhân , cho phép người kí số sử_dụng khoá bí_mật cá_nhân để thực_hiện việc kí số vào thông_điệp dữ_liệu ;
+
+b ) Trường_hợp người kí số trên thông_điệp dữ_liệu là tổ_chức , cho phép người kí số sử_dụng khoá bí_mật tổ_chức để thực_hiện việc kí số vào thông_điệp dữ_liệu .
+
+2 . Chức_năng kiểm_tra hiệu_lực của chứng_thư số :
+
+a ) Cho phép việc kiểm_tra chứng_thư số của người kí số trên thông_điệp dữ_liệu phải kiểm_tra theo đường_dẫn tin_tưởng trên chứng_thư số và phải thực_hiện đến tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia .
+
+b ) Nội_dung kiểm_tra hiệu_lực của chứng_thư số tại thời_điểm kí số :
+
+- Thời_gian có hiệu_lực của chứng_thư số ;
+
+- Trạng_thái chứng_thư số qua danh_sách chứng_thư số thu_hồi ( crl ) được công_bố tại thời_điểm kí số hoặc bằng phương_pháp kiểm_tra trạng_thái chứng_thư số trực_tuyến ( ocsp ) ở chế_độ trực_tuyến trong trường_hợp tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số có cung_cấp dịch_vụ Ocsp ;
+
+- Thuật_toán mật_mã trên chứng_thư số ;
+
+- Mục_đích , phạm_vi sử_dụng của chứng_thư số .
+
+c ) Hiệu_lực của chứng_thư số khi đáp_ứng tất_cả các tiêu_chí sau :
+
+- Thời_gian trên chứng_thư số còn hiệu_lực tại thời_điểm kí số ;
+
+- Các thuật_toán mật_mã trên chứng_thư số tuân_thủ theo quy_định về quy_chuẩn , tiêu_chuẩn kĩ_thuật bắt_buộc áp_dụng về chữ_kí số và dịch_vụ chứng_thực chữ_kí số đang có hiệu_lực ;
+
+- Trạng_thái của chứng_thư số còn hoạt_động tại thời_điểm kí số ;
+
+- Chứng_thư số được sử_dụng đúng mục_đích , phạm_vi sử_dụng .
+
+3 . Chức_năng lưu_trữ và huỷ_bỏ các thông_tin sau kèm theo thông_điệp dữ_liệu kí số :
+
+a ) Chứng_thư số tương_ứng với khoá bí_mật mà người kí số sử_dụng để kí thông_điệp dữ_liệu tại thời_điểm kí số ;
+
+b ) Danh_sách chứng_thư số thu_hồi tại thời_điểm kí của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số đã cấp chứng_thư số để kí số tương_ứng với chữ_kí số trên thông_điệp dữ_liệu đi ;
+
+c ) Quy_chế chứng_thực của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số đã cấp chứng_thư số tương_ứng với chữ_kí số trên thông_điệp dữ_liệu đi ;
+
+d ) Kết_quả kiểm_tra trạng_thái chứng_thư số tương_ứng với chữ_kí số trên thông_điệp dữ_liệu được gửi đến .
+
+4 . Chức_năng thay_đổi ( thêm , bớt ) chứng_thư số của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số .
+
+5 . Chức_năng thông_báo ( bằng chữ / bằng kí_hiệu ) cho người kí số biết việc kí số vào thông_điệp dữ_liệu thành_công hay không thành_công .
+
+Mục 2-Phần mềm kiểm_tra chữ_kí số
+
+Điều 6 . Yêu_cầu chung
+
+Tuân_thủ các tiêu_chuẩn kĩ_thuật về chữ_kí số trên thông_điệp dữ_liệu tại Phụ_lục Danh_mục_tiêu_chuẩn về chữ_kí số trên thông_điệp dữ_liệu kèm theo Thông_tư này .
+
+Điều 7 . Yêu_cầu chức_năng
+
+1 . Chức_năng kiểm_tra tính hợp_lệ của chữ_kí số trên thông_điệp dữ_liệu :
+
+a ) Cho phép xác_minh chữ_kí số trên thông_điệp dữ_liệu theo nguyên_tắc chữ_kí số được tạo ra đúng với khoá bí_mật tương_ứng với khoá công_khai trên chứng_thư số ;
+
+b ) Cho phép việc kiểm_tra chứng_thư số của người kí số trên thông_điệp dữ_liệu phải kiểm_tra theo đường_dẫn tin_tưởng trên chứng_thư số và phải thực_hiện đến tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia .
+
+c ) Cho phép kiểm_tra , xác_thực thông_tin của người kí số trên thông_điệp dữ_liệu thực_hiện tất_cả các nội_dung dưới đây :
+
+- Thời_gian có hiệu_lực của chứng_thư số ;
+
+- Trạng_thái chứng_thư số qua danh_sách chứng_thư số thu_hồi ( crl ) được công_bố tại thời_điểm kí số hoặc bằng phương_pháp kiểm_tra trạng_thái chứng_thư số trực_tuyến ( ocsp ) ở chế_độ trực_tuyến trong trường_hợp tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số có cung_cấp dịch_vụ Ocsp ;
+
+- Thuật_toán mật_mã trên chứng_thư số ;
+
+- Mục_đích , phạm_vi sử_dụng của chứng_thư số .
+
+d ) Hiệu_lực của chứng_thư số khi đáp_ứng tất_cả các tiêu_chí sau :
+
+- Thời_gian trên chứng_thư số còn hiệu_lực tại thời_điểm kí số ;
+
+- Các thuật_toán mật_mã trên chứng_thư số tuân_thủ theo quy_định về quy_chuẩn , tiêu_chuẩn kĩ_thuật bắt_buộc áp_dụng về chữ_kí số và dịch_vụ chứng_thực chữ_kí số đang có hiệu_lực ;
+
+- Trạng_thái của chứng_thư số còn hoạt_động tại thời_điểm kí số ;
+
+- Chứng_thư số được sử_dụng đúng mục_đích , phạm_vi sử_dụng .
+
+đ ) Cho phép kiểm_tra tính toàn_vẹn của thông_điệp dữ_liệu kí số :
+
+- Giải_mã chữ_kí số trên thông_điệp dữ_liệu để có thông_tin về mã băm ;
+
+- Sử_dụng thuật_toán hàm băm an_toàn đã tạo ra mã băm trên chữ_kí số để thực_hiện tạo mã băm cho thông_điệp dữ_liệu ;
+
+- So_sánh sự trùng khớp của hai mã băm để kiểm_tra tính toàn_vẹn của thông_điệp dữ_liệu kí số .
+
+e ) Chữ_kí số trên thông_điệp dữ_liệu là hợp_lệ khi :
+
+- Việc kiểm_tra , xác_thực được đúng thông_tin người kí số ;
+
+- Chứng_thư số của người kí số tại thời_điểm kí còn hiệu_lực ;
+
+- Xác_minh chữ_kí số trên thông_điệp dữ_liệu đúng với khoá bí_mật tương_ứng với khoá công_khai trên chứng_thư số và thông_điệp dữ_liệu đảm_bảo tính toàn_vẹn .
+
+2 . Chức_năng lưu_trữ và huỷ_bỏ các thông_tin sau kèm theo thông_điệp dữ_liệu kí số :
+
+a ) Các chứng_thư số tương_ứng với các chữ_kí số trên thông_điệp dữ_liệu kí số được gửi đến ;
+
+b ) Các danh_sách chứng_thư số thu_hồi tại thời_điểm kí của tổ_chức cung_cấp chứng_thực chữ_kí số tương_ứng với chữ_kí số trên thông_điệp dữ_liệu được gửi đến ;
+
+c ) Quy_chế chứng_thực của các tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số cấp_phát chứng_thư số tương_ứng với các chữ_kí số trên thông_điệp dữ_liệu được gửi đến ;
+
+d ) Kết_quả kiểm_tra trạng_thái chứng_thư số tương_ứng với chữ_kí số trên thông_điệp dữ_liệu được gửi đến .
+
+3 . Chức_năng thay_đổi ( thêm , bớt ) chứng_thư số của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số .
+
+4 . Chức_năng thông_báo ( bằng chữ / bằng kí_hiệu ) việc kiểm_tra tính hợp_lệ của chữ_kí số là hợp_lệ hay không hợp_lệ .
+
+Chương_iii
+
+Điều_khoản Thi_hành
+
+Điều 8 . Tổ_chức thực_hiện
+
+1 . Trung_tâm Chứng_thực điện_tử quốc_gia có trách_nhiệm hướng_dẫn thực_hiện các nội_dung của Thông_tư này .
+
+2 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng của cơ_quan , tổ_chức công_bố các đặc_tả kĩ_thuật ( tài_liệu và bộ công_cụ ) , chứng_thư số liên_quan đến tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số và các tiêu_chuẩn chữ_kí số trên trang tin điện_tử của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số .
+
+3 . Tổ_chức , cá_nhân phát_triển ứng_dụng , sử_dụng chữ_kí số có trách_nhiệm tuân_thủ các quy_định về yêu_cầu kĩ_thuật , hướng_dẫn sử_dụng đối_với phần_mềm kí số , phần_mềm kiểm_tra chữ_kí số .
+
+Điều 9 . Điều_khoản chuyển_tiếp
+
+Các cơ_quan , tổ_chức , cá_nhân đang sử_dụng phần_mềm kí số , phần_mềm kiểm_tra chữ_kí số trước thời_điểm Thông_tư này có hiệu_lực tiếp_tục sử_dụng cho đến khi thay_đổi , nâng_cấp hoặc thay_thế phần_mềm mới , tuân_thủ quy_định Thông_tư này .
+
+Điều 10 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 11 năm 2020 .
+
+2 . Chánh Văn_phòng , Giám_đốc Trung_tâm Chứng_thực điện_tử quốc_gia , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương , tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+3 . Trong quá_trình thực_hiện , nếu có khó_khăn , vướng_mắc , cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Thông_tin và Truyền_thông ( Trung_tâm Chứng_thực điện_tử quốc_gia ) để xem_xét , giải_quyết . / .

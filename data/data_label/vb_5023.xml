@@ -1,0 +1,217 @@
+Thông_tư số 12/2023/tt-btnmt ngày 12 tháng 10 năm 2023 của bộ tài_nguyên và môi_trường
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 03/2019/NĐ-CP ngày 04 tháng 01 năm 2019 </NĐ> của Chính_phủ về hoạt_động viễn_thám ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 68/2022/NĐ-CP ngày 22 tháng 9 năm 2022 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Cục_trưởng Cục Viễn_thám quốc_gia , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư quy_định kĩ_thuật giám_sát ngập_lụt bằng công_nghệ viễn_thám .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định kĩ_thuật giám_sát ngập_lụt bằng công_nghệ viễn_thám .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với các cơ_quan , tổ_chức , cá_nhân tham_gia hoạt_động giám_sát ngập_lụt bằng công_nghệ viễn_thám .
+
+Điều 3 . Giải_thích từ_ngữ và chữ_viết tắt
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Ảnh viễn_thám ra - đa là thông_tin , hình_ảnh đối_tượng địa_lí được thu_nhận từ vệ_tinh viễn_thám sử_dụng sóng siêu cao_tần có bước_sóng từ 1 mm - 1 m .
+
+2 . Bản_đồ giám_sát ngập_lụt bằng công_nghệ viễn_thám là bản_đồ chuyên_đề được thành_lập bằng tư_liệu ảnh viễn_thám giám_sát khu_vực bị ảnh_hưởng của lũ_lụt tại các thời_điểm trước , trong và sau khi xảy ra ngập_lụt .
+
+3 . Lọc nhiễu là công_tác loại_bỏ tất_cả hoặc một phần các thông_tin làm ảnh_hưởng đến chất_lượng hình_ảnh .
+
+4 . Phân_cực Hh là kiểu phát phân_cực ngang , thu_phân_cực ngang sóng điện_từ .
+
+5 . Phân_cực Vh là kiểu phát phân_cực đứng , thu_phân_cực ngang sóng điện_từ .
+
+6 . Phân_cực Hv là kiểu phát phân_cực ngang , thu_phân_cực đứng sóng điện_từ .
+
+7 . Phân_cực Vv là kiểu phát phân_cực đứng , thu_phân_cực đứng sóng điện_từ .
+
+8 . Tăng_cường chất_lượng ảnh là việc hiệu_chỉnh bức_xạ ảnh nhằm nâng cao khả_năng thông_tin của ảnh .
+
+Điều 4 . Cơ_sở toán_học của bản_đồ giám_sát ngập_lụt bằng công_nghệ viễn_thám
+
+1 . Hệ quy chiếu và hệ toạ_độ thực_hiện theo <QĐ rel="DC"> Quyết_định số 83/2000/QĐ </QĐ>- Tg ngày 12 tháng 7 năm 2000 của Thủ_tướng Chính_phủ về sử_dụng Hệ quy chiếu và Hệ toạ_độ quốc_gia Việt_nam . Cụ_thể :
+
+Sử_dụng Hệ quy chiếu và Hệ toạ_độ Quốc_gia Vn - 2000 để thể_hiện Bản_đồ giám_sát ngập_lụt . Các thông_số gồm : lưới chiếu Utm , ê - líp - xô - ít Wgs84 , múi chiếu 6 , hệ_số điều_chỉnh tỉ_lệ biến_dạng chiều dài k0 = 0 , 9996 .
+
+2 . Các hợp_phần khác : bảng chắp ( nếu có ) , bảng chú giải , tỉ_lệ bản_đồ và thước tỉ_lệ .
+
+Khung bản_đồ giám_sát ngập_lụt bằng công_nghệ viễn_thám được quy_định tại Mẫu_số 01 Phụ_lục kèm theo Thông_tư này .
+
+Điều 5 . Các nội_dung công_việc
+
+1 . Công_tác chuẩn_bị .
+
+2 . Xử_lí ảnh viễn_thám .
+
+3 . Trích_xuất dữ_liệu nền giám_sát ngập_lụt từ cơ_sở dữ_liệu nền địa_lí quốc_gia .
+
+4 . Chiết_xuất thông_tin ngập_lụt .
+
+5 . Biên_tập lớp thông_tin ngập_lụt .
+
+6 . Thành_lập bản_đồ giám_sát ngập_lụt .
+
+7 . Kiểm_tra , đánh_giá độ tin_cậy của bản_đồ giám_sát ngập_lụt .
+
+8 . Xây_dựng báo_cáo giám_sát ngập_lụt .
+
+9 . Giao_nộp sản_phẩm .
+
+Chương_ii
+
+Quy_định Kỹ_thuật Giám_sát Ngập_lụt Bằng Công_nghệ_viễn_thám
+
+Điều 6 . Công_tác chuẩn_bị
+
+1 . Thu_thập , tổng_hợp thông_tin thiên_tai , bao_gồm :
+
+a ) Thông_tin dự_báo về lượng mưa , thời_gian mưa và khu_vực mưa ;
+
+b ) Thông_tin dự_báo bão bao_gồm cấp_độ bão , hướng di_chuyển , thời_gian và phạm_vi khu_vực ảnh_hưởng ;
+
+c ) Thu_thập , tổng_hợp thông_tin dự_báo , cảnh_báo khí_tượng thuỷ_văn khác thuộc hệ_thống dự_báo , cảnh_báo khí_tượng thuỷ_văn quốc_gia .
+
+2 . Thu_thập thông_tin của các vệ_tinh viễn_thám đi qua lãnh_thổ Việt_nam , bao_gồm :
+
+a ) Thông_tin về cơ_quan quản_lí vệ_tinh ;
+
+b ) Thông_tin về thời_gian và phạm_vi chụp ;
+
+c ) Thông_số kĩ_thuật của loại ảnh cần thu_nhận .
+
+3 . Đặt chụp ảnh viễn_thám giám_sát ngập_lụt :
+
+a ) Xác_định vị_trí , phạm_vi chụp ảnh ;
+
+b ) Thời_điểm chụp ảnh ;
+
+c ) Tần_suất chụp ảnh ;
+
+d ) Gửi yêu_cầu chụp ảnh đến cơ_quan cung_cấp dữ_liệu ảnh viễn_thám .
+
+4 . Thu_nhận dữ_liệu ảnh viễn_thám trước , trong và sau ngập_lụt .
+
+5 . Thu_thập bản_đồ và các thông_tin có liên_quan đến khu_vực giám_sát , bao_gồm :
+
+a ) Dữ_liệu giám_sát ngập_lụt từ các tổ_chức trong nước , quốc_tế ;
+
+b ) Dữ_liệu nền địa_lý ;
+
+c ) Mô_hình số độ cao .
+
+Điều 7 . Xử_lí ảnh viễn_thám
+
+1 . Nhập dữ_liệu đầu_vào
+
+a ) Ảnh viễn_thám sau khi kiểm_tra chất_lượng được nhập vào phần_mềm xử_lí ảnh viễn_thám ;
+
+b ) Chuyển_đổi giá_trị độ xám của ảnh ( dn ) về giá_trị bức_xạ của ảnh ( dB ) .
+
+2 . Tăng_cường chất_lượng ảnh
+
+a ) Xử_lí tái_tạo mô_hình_ảnh viễn_thám ra - đa ( sar Simulation ) ;
+
+b ) Hiệu_chỉnh ảnh_hưởng của địa_hình tới chất_lượng ảnh ;
+
+c ) Lọc nhiễu : Loại_bỏ nhiễu tần_số cao mà vẫn bảo_toàn được các đặc_trưng của ảnh ; kích_thước của phép lọc là 5x5 điểm_ảnh hoặc 7x7 điểm_ảnh để đảm_bảo kết_quả tốt nhất .
+
+3 . Chuyển_đổi về Hệ quy chiếu và Hệ toạ_độ Quốc_gia Vn - 2000 .
+
+4 . Ghép , cắt ảnh , xuất bình_đồ ảnh theo khu_vực giám_sát .
+
+Điều 8 . Trích_xuất dữ_liệu nền giám_sát ngập_lụt từ cơ_sở dữ_liệu nền địa_lí quốc_gia
+
+1 . Đường_biên_giới quốc_gia trên đất_liền , đường địa_giới hành_chính .
+
+2 . Trụ_sở uỷ_ban nhân_dân cấp tỉnh , trụ_sở uỷ_ban nhân_dân cấp huyện , trụ_sở uỷ_ban nhân_dân cấp xã .
+
+3 . Đường_sắt quốc_gia , đường_cao_tốc , đường quốc_lộ , đường tỉnh , đường huyện , cảng hàng_không .
+
+4 . Các đối_tượng thuỷ_văn dạng vùng có diện_tích lớn hơn 15 mm2 theo tỉ_lệ bản_đồ cần thành_lập ; các đối_tượng dạng đường có chiều dài lớn hơn 2 cm theo tỉ_lệ bản_đồ cần thành_lập .
+
+Điều 9 . Chiết_xuất thông_tin ngập_lụt
+
+1 . Lựa_chọn phân_cực ảnh theo thứ tự ưu_tiên sau : phân_cực Hh , phân_cực Vh , phân_cực Hv , phân_cực Vv .
+
+2 . Xác_định ngưỡng giá_trị bức_xạ của đối_tượng nước trên ảnh .
+
+3 . Phân_tách vùng ngập nước .
+
+4 . Xuất ranh_giới vùng ngập nước ra dạng véc - tơ .
+
+Điều 10 . Biên_tập lớp thông_tin ngập_lụt
+
+1 . Hiệu_chỉnh kết_quả thông_tin ngập_lụt :
+
+a ) Hiệu_chỉnh ảnh_hưởng của địa_hình tới kết_quả chiết tách vùng ngập nước ;
+
+b ) Lọc_bỏ , tổng_hợp những vùng ngập nước có diện_tích nhỏ hơn 15 mm2 trên bản_đồ .
+
+2 . Biên_tập làm trơn đường bao vùng ngập_lụt : thông_số làm trơn đường là 0 , 1 mm trên bản_đồ .
+
+3 . Lọc bỏ các vùng ngập nước thường_xuyên .
+
+4 . Tính diện_tích vùng ngập_lụt theo đơn_vị hành_chính tỉnh , huyện , xã .
+
+Bảng thống_kê diện_tích ngập_lụt được quy_định tại Mẫu_số 02 Phụ_lục kèm theo Thông_tư này .
+
+Điều 11 . Thành_lập bản_đồ giám_sát ngập_lụt
+
+1 . Bản_đồ giám_sát ngập_lụt bằng công_nghệ viễn_thám được xác_định tỉ_lệ theo phạm_vi ảnh_hưởng và độ phân_giải của dữ_liệu ảnh sử_dụng .
+
+2 . Sửa_chữa , biên_tập bản_đồ giám_sát ngập_lụt theo quy_định của bản_đồ chuyên_đề .
+
+3 . Thiết_kế kí_hiệu bổ_sung .
+
+4 . Trình_bày bản_đồ giám_sát ngập_lụt .
+
+Điều 12 . Kiểm_tra , đánh_giá độ tin_cậy của bản_đồ giám_sát ngập_lụt
+
+1 . Lấy tối_thiểu 10 mẫu trên dữ_liệu ảnh viễn_thám khu_vực bị ảnh_hưởng bởi lũ_lụt phục_vụ kiểm_tra .
+
+2 . So_sánh bản_đồ giám_sát ngập_lụt với mẫu .
+
+3 . Độ tin_cậy của bản_đồ giám_sát ngập_lụt phải đạt trên 90 % .
+
+4 . Sửa_chữa bản_đồ giám_sát ngập_lụt sau kiểm_tra ( nếu có ) .
+
+Điều 13 . Xây_dựng báo_cáo giám_sát ngập_lụt
+
+1 . Xây_dựng báo_cáo giám_sát ngập_lụt bằng công_nghệ viễn_thám theo quy_định tại Mẫu_số 03 Phụ_lục kèm theo Thông_tư này .
+
+2 . Xây_dựng báo_cáo tổng_hợp kết_quả giám_sát ngập_lụt bằng công_nghệ viễn_thám hàng năm theo quy_định tại Mẫu_số 04 Phụ_lục kèm theo Thông_tư này .
+
+Điều 14 . Giao_nộp sản_phẩm
+
+1 . Giao_nộp bản_đồ giám_sát ngập_lụt và báo_cáo ngập_lụt cho cơ_quan chủ_quản , cơ_quan sử_dụng dữ_liệu không quá 05 ngày sau khi kết_thúc đợt thiên_tai .
+
+2 . Giao_nộp báo_cáo tổng_hợp kết_quả giám_sát ngập_lụt bằng công_nghệ viễn_thám trước ngày 25 tháng 12 hàng năm .
+
+Chương_iii
+
+Điều_khoản Thi_hành
+
+Điều 15 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 12 năm 2023 .
+
+Điều 16 . Tổ_chức thực_hiện
+
+1 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Cục_trưởng Cục Viễn_thám quốc_gia có trách_nhiệm tổ_chức phổ_biến , kiểm_tra việc thực_hiện Thông_tư này .
+
+3 . Trong quá_trình thực_hiện , nếu có khó_khăn , vướng_mắc thì các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , quyết_định . / .

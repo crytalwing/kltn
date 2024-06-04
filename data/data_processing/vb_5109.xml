@@ -1,0 +1,331 @@
+Thông_tư số 48/2023/tt-btc ngày 12 tháng 07 năm 2023 của bộ tài_chính
+
+Căn_cứ Luật Quản_lý , sử_dụng tài_sản công ngày 21 tháng 6 năm 2017 ;
+
+Căn_cứ Nghị_định số 151/2017/NĐ-CP ngày 26 tháng 12 năm 2017 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Quản_lý , sử_dụng tài_sản công ;
+
+Căn_cứ Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+
+Căn_cứ Nghị_định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính_phủ quy_định chi_tiết thi_hành Luật Giao_dịch điện_tử về chữ_kí số và dịch_vụ chứng_thực chữ_kí số ;
+
+Căn_cứ Nghị_định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính_phủ về quản_lý , kết_nối và chia_sẻ dữ_liệu số của cơ_quan nhà_nước ;
+
+Căn_cứ Nghị_định số 14/2023/NĐ-CP ngày 20 tháng 4 năm 2023 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+
+Theo đề_nghị của Cục_trưởng Cục Quản_lí công sản ,
+
+Bộ_trưởng Bộ Tài_chính ban_hành Thông_tư hướng_dẫn việc quản_lý , sử_dụng , khai_thác Phần_mềm Quản_lí tài_sản công .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+1 . Thông_tư này quy_định về việc quản_lý , sử_dụng , khai_thác Phần_mềm Quản_lí tài_sản công ( sau đây gọi là Phần_mềm ) .
+
+Tài_sản công cập_nhật thông_tin vào Phần_mềm gồm :
+
+a ) Tài_sản công tại cơ_quan nhà_nước , đơn_vị sự_nghiệp công_lập , cơ_quan Đảng Cộng_sản Việt_nam , Mặt_trận Tổ_quốc Việt_nam , tổ_chức chính_trị - xã_hội , tổ_chức chính_trị xã_hội - nghề_nghiệp , tổ_chức xã_hội , tổ_chức xã_hội - nghề_nghiệp , tổ_chức khác được thành_lập theo quy_định của pháp_luật về hội ( sau đây gọi là cơ_quan , tổ_chức , đơn_vị ) .
+
+b ) Tài_sản phục_vụ hoạt_động của các dự_án sử_dụng vốn nhà_nước .
+
+c ) Tài_sản được xác_lập quyền sở_hữu toàn dân .
+
+2 . Việc quản_lý , sử_dụng , khai_thác Phần_mềm theo quy_định tại Thông_tư này không áp_dụng đối_với tài_sản công của cơ_quan Việt_nam ở nước_ngoài ; tài_sản công tại đơn_vị lực_lượng vũ_trang nhân_dân .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Văn_phòng Trung_ương Đảng , Văn_phòng Chủ_tịch nước , Văn_phòng Quốc_hội , Kiểm_toán nhà_nước , Toà_án nhân_dân tối_cao , Viện_kiểm_sát_nhân_dân tối_cao , Ủy_ban Trung_ương Mặt_trận Tổ_quốc Việt_nam , cơ_quan trung_ương của các tổ_chức ( tổ_chức chính_trị - xã_hội , tổ_chức chính_trị xã_hội - nghề_nghiệp , tổ_chức xã_hội , tổ_chức xã_hội - nghề_nghiệp , tổ_chức khác được thành_lập theo quy_định của pháp_luật về hội ) , Đại_học Quốc_gia Hà_nội , Đại_học Quốc_gia Thành_phố Hồ_chí_minh ( sau đây gọi là Bộ , cơ_quan trung_ương ) ; Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương ( sau đây gọi là Ủy_ban nhân_dân cấp tỉnh ) .
+
+2 . Cơ_quan được giao nhiệm_vụ quản_lí tài_sản công của Bộ , cơ_quan trung_ương ( sau đây gọi là cơ_quan_tài_chính các Bộ , cơ_quan trung_ương ) ; Sở Tài_chính tỉnh , thành_phố trực_thuộc trung_ương ( sau đây gọi là Sở Tài_chính ) .
+
+3 . Cơ_quan , tổ_chức , đơn_vị thuộc Bộ , cơ_quan trung_ương ; Sở , ban , ngành và các tổ_chức tương_đương thuộc tỉnh ; Phòng Tài_chính - Kế_hoạch thuộc Ủy_ban nhân_dân quận , huyện , thị_xã , thành_phố trực_thuộc tỉnh , thành_phố trực_thuộc trung_ương ( sau đây gọi là Phòng Tài_chính - Kế_hoạch cấp huyện ) .
+
+4 . Cơ_quan , đơn_vị được giao nhiệm_vụ quản_lí công_nghệ thông_tin hoặc cơ_quan có chức_năng về quản_lí công_nghệ thông_tin ( sau đây gọi là cơ_quan quản_lí công_nghệ thông_tin ) của Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh .
+
+5 . Các cơ_quan , tổ_chức , đơn_vị , cá_nhân khác có liên_quan đến việc quản_lý , sử_dụng , khai_thác Phần_mềm .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Tài_sản công tại cơ_quan , tổ_chức , đơn_vị , tài_sản phục_vụ hoạt_động của các dự_án sử_dụng vốn nhà_nước được xác_định theo quy_định tại Luật Quản_lý , sử_dụng tài_sản công , Nghị_định số 151/2017/NĐ-CP ngày 26 tháng 12 năm 2017 của Chính_phủ quy_định chi_tiết một_số điều của Luật Quản_lý , sử_dụng tài_sản công và văn_bản sửa_đổi , bổ_sung ( nếu có ) .
+
+2 . Tài_sản được xác_lập quyền sở_hữu toàn dân được xác_định theo quy_định tại Luật Quản_lý , sử_dụng tài_sản công và Nghị_định của Chính_phủ quy_định trình_tự , thủ_tục xác_lập quyền sở_hữu toàn dân về tài_sản và xử_lí đối_với tài_sản được xác_lập quyền sở_hữu toàn dân .
+
+3 . Phần_mềm Quản_lí tài_sản công là phần_mềm do Bộ Tài_chính xây_dựng nhằm ứng_dụng công_nghệ thông_tin hỗ_trợ Bộ Tài_chính , các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh thực_hiện các nhiệm_vụ sau :
+
+a ) Tin_học_hoá quá_trình_báo_cáo kê_khai tài_sản công gồm : tài_sản công tại cơ_quan , tổ_chức , đơn_vị , tài_sản phục_vụ hoạt_động của các dự_án sử_dụng vốn nhà_nước , tài_sản được xác_lập quyền sở_hữu toàn dân theo quy_định của pháp_luật về quản_lý , sử_dụng tài_sản công ( sau đây gọi là tài_sản công ) .
+
+b ) Theo_dõi tình_hình biến_động ( tăng , giảm , thay_đổi thông_tin ) , tình_hình khai_thác , xử_lí các loại tài_sản công phải báo_cáo kê_khai vào Phần_mềm .
+
+c ) Kết xuất Báo_cáo về tài_sản công theo quy_định của pháp_luật .
+
+d ) Tổng_hợp tình_hình quản_lý , sử_dụng tài_sản công trong phạm_vi cả nước , từng Bộ , cơ_quan trung_ương , tỉnh , thành_phố trực_thuộc trung_ương , từng cơ_quan , tổ_chức , đơn_vị , ban quản_lí dự_án , đơn_vị chủ_trì quản_lí tài_sản được xác_lập quyền sở_hữu toàn dân để hình_thành Cơ_sở dữ_liệu quốc_gia về tài_sản công theo quy_định của pháp_luật về quản_lý , sử_dụng tài_sản công .
+
+4 . Cán_bộ quản_lý , sử_dụng Phần_mềm ( sau đây gọi là cán_bộ quản_lý ) là công_chức , viên_chức , người lao_động của Bộ Tài_chính , cơ_quan_tài_chính các Bộ , cơ_quan trung_ương và Sở Tài_chính được Thủ_trưởng đơn_vị giao nhiệm_vụ quản_lý , sử_dụng Phần_mềm . Việc giao nhiệm_vụ quản_lý , sử_dụng Phần_mềm cho người lao_động chỉ áp_dụng đối_với các tổ_chức không có công_chức , viên_chức .
+
+5 . Cán_bộ sử_dụng Phần_mềm ( sau đây gọi là cán_bộ sử_dụng ) là công_chức , viên_chức , người lao_động của các cơ_quan , tổ_chức , đơn_vị , ban quản_lí dự_án , đơn_vị chủ_trì quản_lí tài_sản được xác_lập quyền sở_hữu toàn dân thuộc các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh , đơn_vị được phân_cấp nhập dữ_liệu quy_định tại điểm b , điểm c khoản 1 Điều 8 Thông_tư này được Thủ_trưởng đơn_vị giao nhiệm_vụ sử_dụng Phần_mềm để nhập , chuẩn_hoá dữ_liệu trong Phần_mềm .
+
+6 . Thông_điệp dữ_liệu là thông_tin được tạo ra , được gửi đi , được nhận và lưu_trữ bằng phương_tiện điện_tử .
+
+7 . Định_dạng thành_phần chứa dữ_liệu là các thông_tin bên trong phần chứa dữ_liệu của thông_điệp dữ_liệu .
+
+8 . Kết_nối dữ_liệu là việc Cơ_sở dữ_liệu về tài_sản công tại cơ_quan , tổ_chức , đơn_vị của các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh gửi dữ_liệu đến Phần_mềm .
+
+9 . RESTful Api là tiêu_chuẩn kĩ_thuật thuộc Danh_mục_tiêu_chuẩn kĩ_thuật về ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước được Bộ Thông_tin và Truyền_thông ban_hành và hướng_dẫn tại các quy_định hiện_hành .
+
+Điều 4 . Điều_kiện sử_dụng Phần_mềm
+
+1 . Máy_vi_tính phải được kết_nối Internet , cập_nhật các bản vá lỗi hệ điều_hành về an_ninh ; được cài_đặt chương_trình phần_mềm diệt virus , cập_nhật thường_xuyên các bản nhận_dạng mẫu virus mới .
+
+2 . Thông_tin nhập vào Phần_mềm phải sử_dụng phông_chữ Unicode Tcvn 6909 : 2001 gõ dấu tiếng Việt . Các văn_bản dùng hệ phông_chữ khác với Unicode Tcvn 6909 : 2001 phải được chuyển_đổi sang định_dạng phông_chữ Unicode Tcvn 6909 : 2001 trước khi tải vào Phần_mềm .
+
+3 . Mỗi đơn_vị nhập dữ_liệu quy_định tại điểm a khoản 1 Điều 8 Thông_tư này được Bộ Tài_chính ( Cục Quản_lí công sản ) cấp một tài_khoản ( bao_gồm : tên đăng_nhập và mật_khẩu ) và phân_quyền quản_lý , sử_dụng để truy_cập vào Phần_mềm .
+
+4 . Mỗi đơn_vị nhập dữ_liệu quy_định tại điểm b , điểm c khoản 1 Điều 8 Thông_tư này được cán_bộ quản_lí tạo một tài_khoản ( bao_gồm : tên đăng_nhập và mật_khẩu ) và phân_quyền sử_dụng để truy_cập vào Phần_mềm . Tài_khoản của cán_bộ sử_dụng do Bộ Tài_chính ( Cục Quản_lí công sản ) duyệt .
+
+5 . Để đảm_bảo chất_lượng truy_cập Phần_mềm , khuyến_nghị máy_vi_tính cần đáp_ứng các điều_kiện sau :
+
+a ) Cấu_hình máy_vi_tính : Bộ vi xử_lí tối_thiểu 2 nhân , tốc_độ tối_thiểu 2 GHz ; bộ_nhớ Ram tối_thiểu 8gb .
+
+b ) Trình_duyệt Mozilla Firefox 100 + , Google Chrome 100 + , Safari 13 + trở lên .
+
+c ) Hệ điều_hành Windows 10 hoặc các hệ điều_hành tương_đương trở lên .
+
+Chương_ii
+
+Quy_định Cụ_thể
+
+Điều 5 . Quản_lí về kĩ_thuật
+
+1 . Bộ Tài_chính ( Cục Tin_học và Thống_kê tài_chính ) có trách_nhiệm :
+
+a ) Đảm_bảo hạ_tầng kĩ_thuật về máy_chủ , đường truyền , sao lưu dữ_liệu cho hoạt_động thông_suốt của hệ_thống và về kết_nối hạ_tầng của Bộ Tài_chính ; phối_hợp với Bộ Tài_chính ( Cục Quản_lí công sản ) tiếp_nhận , giải_quyết các vướng_mắc kĩ_thuật trong quá_trình triển_khai kết_nối hạ_tầng của Bộ Tài_chính .
+
+b ) Đảm_bảo_an_ninh , an_toàn về kĩ_thuật , lưu_trữ và bảo_mật dữ_liệu tài_sản công được cài_đặt tại Bộ Tài_chính .
+
+c ) Xử_lí các vấn_đề về kĩ_thuật liên_quan đến hạ_tầng kĩ_thuật về máy_chủ , đường truyền , sao lưu dữ_liệu ; thông_báo cho các bên liên_quan khi có sự thay_đổi các thông_tin về hạ_tầng của Bộ Tài_chính .
+
+d ) Đảm_bảo việc đồng_bộ dữ_liệu danh_mục từ Cơ_sở dữ_liệu Danh_mục dùng chung Bộ Tài_chính sang Cơ_sở dữ_liệu quốc_gia về tài_sản công .
+
+đ ) Phối_hợp với Bộ Thông_tin và Truyền_thông hướng_dẫn các đơn_vị thực_hiện kết_nối dữ_liệu thông_qua Nền_tảng tích_hợp chia_sẻ dữ_liệu quốc_gia .
+
+2 . Cơ_quan quản_lí công_nghệ thông_tin của các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh có trách_nhiệm :
+
+a ) Đảm_bảo các điều_kiện sử_dụng Phần_mềm theo quy_định tại khoản 1 , khoản 2 Điều 4 Thông_tư này .
+
+b ) Thực_hiện các quy_định về kết_nối và bảo_đảm an_toàn thông_tin , an_ninh mạng được quy_định tại Thông_tư này và các quy_định của pháp_luật có liên_quan .
+
+c ) Tuân_thủ các quy_định về kết_nối dữ_liệu vào Phần_mềm tại Điều 11 và Phụ_lục I , Phụ_lục Ii , Phụ_lục Iii ban_hành kèm theo Thông_tư này .
+
+d ) Thông_báo , phản_ánh về tình_hình kết_nối , khai_thác Phần_mềm với Bộ Tài_chính ( Cục Quản_lí công sản và Cục Tin_học và Thống_kê tài_chính ) .
+
+Điều 6 . Quản_lí về nghiệp_vụ
+
+1 . Bộ Tài_chính ( Cục Quản_lí công sản ) có trách_nhiệm :
+
+a ) Xây_dựng yêu_cầu về nghiệp_vụ báo_cáo kê_khai tài_sản công phù_hợp với quy_định của pháp_luật về quản_lý , sử_dụng tài_sản công trong từng thời_kì làm cơ_sở để xây_dựng , nâng_cấp Phần_mềm .
+
+b ) Tạo_lập , duyệt tài_khoản của đơn_vị quy_định tại điểm a khoản 1 Điều 8 Thông_tư này ; duyệt tài_khoản của đơn_vị được phân_cấp nhập dữ_liệu quy_định tại điểm b , điểm c khoản 1 Điều 8 Thông_tư này trên cơ_sở đề_nghị bằng văn_bản của cơ_quan_tài_chính các Bộ , cơ_quan trung_ương , Sở Tài_chính .
+
+c ) Tổ_chức tập_huấn , hỗ_trợ cơ_quan_tài_chính các Bộ , cơ_quan trung_ương , Sở Tài_chính thực_hiện nhập , duyệt , chuẩn_hoá dữ_liệu trong Phần_mềm ; khai_thác , sử_dụng thông_tin trong Phần_mềm và các nghiệp_vụ liên_quan khác .
+
+d ) Hướng_dẫn , kiểm_tra , đôn_đốc cơ_quan_tài_chính các Bộ , cơ_quan trung_ương , Sở Tài_chính thực_hiện việc nhập , duyệt , chuẩn_hoá dữ_liệu trong Phần_mềm .
+
+đ ) Phối_hợp với các cơ_quan có liên_quan xử_lí các vấn_đề liên_quan trong trường_hợp phát_sinh thay_đổi chỉ_tiêu quản_lí tài_sản công trong Phụ_lục I , Phụ_lục Ii ban_hành kèm theo Thông_tư này .
+
+e ) Tiếp_nhận , xử_lí nhu_cầu kết_nối của các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh .
+
+g ) Hướng_dẫn các yêu_cầu nghiệp_vụ phát_sinh trong quá_trình kết_nối dữ_liệu để báo_cáo cấp có thẩm_quyền Quyết_định việc kết_nối dữ_liệu của Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh vào Phần_mềm .
+
+2 . Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh chỉ_đạo việc nhập , duyệt , chuẩn_hoá dữ_liệu tài_sản công thuộc phạm_vi quản_lý ; đảm_bảo và chịu trách_nhiệm về tính logic , thống_nhất , đầy_đủ , kịp_thời , bảo_mật của dữ_liệu tài_sản công của Bộ , cơ_quan trung_ương , tỉnh , thành_phố trực_thuộc trung_ương trong Phần_mềm .
+
+3 . Cơ_quan_tài_chính các Bộ , cơ_quan trung_ương , Sở Tài_chính có trách_nhiệm :
+
+a ) Nhập , duyệt , chuẩn_hoá dữ_liệu trong Phần_mềm theo quy_định của Thông_tư này , pháp_luật về quản_lý , sử_dụng tài_sản công và hướng_dẫn của Bộ Tài_chính ( nếu có ) , đảm_bảo và chịu trách_nhiệm về tính logic , thống_nhất , đầy_đủ , kịp_thời , bảo_mật của dữ_liệu tài_sản công của Bộ , cơ_quan trung_ương , tỉnh , thành_phố trực_thuộc trung_ương trong Phần_mềm .
+
+b ) Tạo tài_khoản nhập dữ_liệu của đơn_vị được phân_cấp nhập dữ_liệu theo quy_định tại điểm b khoản 1 Điều 8 Thông_tư này ; đồng_thời có văn_bản kèm theo danh_sách tài_khoản và văn_bản phê_duyệt của Bộ_trưởng , Thủ_trưởng cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh gửi Bộ Tài_chính để duyệt tài_khoản .
+
+c ) Tạo tài_khoản nhập dữ_liệu của đơn_vị được phân_cấp nhập dữ_liệu theo quy_định tại điểm c khoản 1 Điều 8 Thông_tư này trong trường_hợp được Bộ Tài_chính đồng_ý cho phân_cấp nhập dữ_liệu và có văn_bản kèm theo danh_sách tài_khoản gửi Bộ Tài_chính để duyệt tài_khoản .
+
+d ) Tổ_chức tập_huấn , hỗ_trợ , hướng_dẫn , kiểm_tra , đôn_đốc các đơn_vị được phân_cấp nhập dữ_liệu thuộc phạm_vi quản_lí thực_hiện nhập dữ_liệu , chuẩn_hoá dữ_liệu trong Phần_mềm ; khai_thác , sử_dụng thông_tin trong Phần_mềm và các nghiệp_vụ liên_quan khác .
+
+4 . Đơn_vị được phân_cấp nhập dữ_liệu của Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh có trách_nhiệm thực_hiện việc nhập , chuẩn_hoá dữ_liệu trong Phần_mềm ; đảm_bảo và chịu trách_nhiệm về tính logic , thống_nhất , đầy_đủ , kịp_thời , bảo_mật của dữ_liệu tài_sản công thuộc phạm_vi quản_lí trong Phần_mềm .
+
+5 . Cơ_quan , tổ_chức , đơn_vị ; ban quản_lí dự_án ; đơn_vị chủ_trì quản_lí tài_sản được xác_lập quyền sở_hữu toàn dân có trách_nhiệm lập báo_cáo kê_khai tài_sản thuộc phạm_vi quản_lí theo quy_định tại Điều 127 Nghị_định số 151/2017/NĐ-CP, Nghị_định của Chính_phủ quy_định trình_tự , thủ_tục xác_lập quyền sở_hữu toàn dân về tài_sản và xử_lí đối_với tài_sản được xác_lập quyền sở_hữu toàn dân , văn_bản sửa_đổi , bổ_sung ( nếu có ) và Thông_tư này .
+
+Điều 7 . Định_danh mã đơn_vị đăng_kí tài_sản trong Phần_mềm
+
+1 . Bộ mã đơn_vị đăng_kí tài_sản ( sau đây gọi là mã đơn_vị Đkts ) là bộ mã của các đơn_vị có tài_sản công phải kê_khai vào Phần_mềm . Bộ mã đơn_vị Đkts được thiết_lập trong Phần_mềm bao_gồm các mã đơn_vị Đkts được quy_định tại khoản 2 , khoản 3 Điều này .
+
+2 . Trường_hợp đơn_vị có mã quan_hệ với ngân_sách nhà_nước ( sau đây gọi là mã Qhns ) thuộc Danh_mục dùng chung của Bộ Tài_chính thì căn_cứ màn_hình chuyển mã Qhns trong Phần_mềm , cơ_quan_tài_chính các Bộ , cơ_quan trung_ương , Sở Tài_chính thực_hiện chuyển mã Qhns của tất_cả các đơn_vị có quan_hệ với ngân_sách nhà_nước sang mã đơn_vị Đkts được định_danh trong Phần_mềm , đảm_bảo tính chính_xác và đầy_đủ các thông_tin của đơn_vị .
+
+3 . Trường_hợp đơn_vị có tài_sản công phải kê_khai vào Phần_mềm theo quy_định nhưng không có mã Qhns thì cơ_quan_tài_chính của các Bộ , cơ_quan trung_ương , Sở Tài_chính có trách_nhiệm định_danh mã đơn_vị Đkts của đơn_vị đó vào Phần_mềm để thực_hiện kê_khai .
+
+4 . Việc định_danh mã đơn_vị Đkts trong Phần_mềm thực_hiện theo Tài_liệu hướng_dẫn sử_dụng Phần_mềm được đăng_tải trên Phần_mềm theo đường_dẫn truy_cập là htps : / / qltsc . mof . gov . vn .
+
+Mã đơn_vị Đkts trong Phần_mềm gồm có Đơn_vị tổng_hợp ( là đơn_vị không trực_tiếp kê_khai tài_sản ) và Đơn_vị đăng_kí ( là đơn_vị trực_tiếp kê_khai tài_sản ) . Việc gán mã đơn_vị Đkts được thực_hiện theo nguyên_tắc sau :
+
+a ) Mã đơn_vị Đkts bậc 1 gồm 3 kí_tự : Dùng để quy_định cho các đơn_vị là Bộ , cơ_quan trung_ương hoặc Ủy_ban nhân_dân cấp tỉnh . Mã đơn_vị Đkts bậc 1 được Bộ Tài_chính gán cố_định trong Phần_mềm theo quy_định tại Phụ_lục Iii ban_hành kèm theo Thông_tư này . Ví_dụ : Mã đơn_vị Đkts của Ủy_ban nhân_dân thành_phố Hà_nội là T01 ; Mã đơn_vị Đkts của Bộ Tài_chính là 018 .
+
+b ) Mã đơn_vị Đkts bậc 2 gồm 6 kí_tự : Trong đó 3 kí_tự đầu là mã đơn_vị Đkts bậc 1 ; 3 kí_tự tiếp_theo được gán tăng dần , bắt_đầu_từ 001 đến 999 để quy_định cho các đơn_vị trực_thuộc trực_tiếp Bộ , cơ_quan trung_ương ( như : Văn_phòng Bộ , Tổng_cục , Cục thuộc Bộ ) ; các đơn_vị trực_thuộc trực_tiếp cấp tỉnh ( như : Văn_phòng Ủy_ban nhân_dân cấp tỉnh , các Sở , ban , ngành cấp tỉnh ) ; Ủy_ban nhân_dân cấp huyện .
+
+c ) Mã đơn_vị Đkts bậc 3 gồm 9 kí_tự : Trong đó 6 kí_tự đầu là mã đơn_vị Đkts bậc 2 ; 3 kí_tự tiếp_theo được gán tăng dần , bắt_đầu_từ 001 đến 999 để quy_định cho các đơn_vị trực_thuộc trực_tiếp các đơn_vị được định_danh mã đơn_vị Đkts bậc 2 như : Văn_phòng Tổng_cục , các Cục thuộc Tổng_cục hoặc các đơn_vị trực_thuộc trực_tiếp các Sở , ban , ngành cấp tỉnh ( như : Văn_phòng Sở ; Bệnh_viện thuộc Sở Y_tế ) ; các đơn_vị trực_thuộc trực_tiếp quận / huyện / thị_xã / thành_phố trực_thuộc tỉnh ( như : Văn_phòng Ủy_ban nhân_dân cấp huyện ) ; các phòng , ban trực_thuộc huyện ( như : Phòng Giáo_dục và Đào_tạo ) ; các xã / phường / thị_trấn .
+
+d ) Mã đơn_vị Đkts bậc 4 gồm 12 kí_tự : Trong đó 9 kí_tự đầu là mã đơn_vị Đkts bậc 3 ; 3 kí_tự tiếp_theo được gán tăng dần , bắt_đầu_từ 001 đến 999 để quy_định cho các đơn_vị trực_thuộc trực_tiếp các đơn_vị được định_danh mã đơn_vị Đkts bậc 3 như : Văn_phòng các Cục thuộc Tổng_cục , các Chi_cục thuộc Cục thuộc Tổng_cục hoặc các đơn_vị trực_thuộc trực_tiếp các Phòng , ban trực_thuộc huyện ( như : Trường Trung_học cơ_sở , Trường Tiểu_học trực_thuộc trực_tiếp Phòng Giáo_dục và Đào_tạo ) .
+
+đ ) Mã đơn_vị Đkts bậc 5 ( nếu cần quy_định ) gồm 15 kí_tự : Việc gán mã đơn_vị Đkts bậc 5 được thực_hiện theo nguyên_tắc nêu trên .
+
+5 . Cơ_quan_tài_chính của Bộ , cơ_quan trung_ương , Sở Tài_chính có trách_nhiệm thường_xuyên kiểm_tra , rà_soát mã đơn_vị Đkts để tránh bị trùng_lặp , kịp_thời cập_nhật thông_tin đơn_vị nếu có Quyết_định chấm_dứt hoạt_động , giải_thể , chia tách , sáp_nhập , hợp_nhất , đổi tên đơn_vị .
+
+Điều 8 . Đơn_vị nhập dữ_liệu và tạo tài_khoản đơn_vị nhập dữ_liệu
+
+1 . Đơn_vị nhập dữ_liệu
+
+a ) Cơ_quan_tài_chính của Bộ , cơ_quan trung_ương , Sở Tài_chính .
+
+b ) Cơ_quan , tổ_chức , đơn_vị trực_thuộc Bộ , cơ_quan trung_ương ; sở , ban , ngành và các tổ_chức tương_đương cấp tỉnh , Phòng Tài_chính - Kế_hoạch cấp huyện . Căn_cứ tình_hình thực_tế , Bộ_trưởng , Thủ_trưởng cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh xem_xét , phê_duyệt danh_sách cụ_thể đơn_vị được phân_cấp nhập dữ_liệu thuộc phạm_vi quản_lí theo đề_nghị của cơ_quan_tài_chính các Bộ , cơ_quan trung_ương , Sở Tài_chính .
+
+c ) Trường_hợp cần_thiết phân_cấp nhập dữ_liệu cho các đơn_vị ngoài quy_định tại điểm b khoản này , Bộ Tài_chính xem_xét , Quyết_định trên cơ_sở đề_nghị bằng văn_bản của Bộ_trưởng , Thủ_trưởng cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh kèm theo thuyết_minh cụ_thể về sự cần_thiết của việc phân_cấp nhập dữ_liệu .
+
+2 . Tạo tài_khoản đơn_vị được phân_cấp nhập dữ_liệu
+
+a ) Nguyên_tắc tạo tài_khoản đơn_vị nhập dữ_liệu quy_định tại điểm b khoản 1 Điều này : Tên đăng_nhập gồm 04 kí_tự bắt_buộc , trong đó 03 kí_tự đầu_tiên là mã đơn_vị Đkts bậc 1 được định_danh trong Phần_mềm , kí_tự 4 là kí_tự đặc_biệt _ ; các kí_tự tiếp_theo là kí_tự chữ hoặc số do cán_bộ quản_lí quy_định để dễ phân_biệt các đơn_vị ( Ví_dụ : T01 _ sythn , trong đó T01 là mã định_danh của Thành_phố Hà_nội trong Phần_mềm , _ là kí_tự đặc_biệt , sythn là Sở Y_tế Hà_nội ) . Mật_khẩu đăng_nhập gồm tối_thiểu 8 kí_tự , trong đó bao_gồm chữ_cái in hoa , chữ_cái in thường , số và kí_tự đặc_biệt .
+
+b ) Nguyên_tắc tạo tài_khoản đơn_vị nhập dữ_liệu quy_định tại điểm c khoản 1 Điều này : Tên đăng_nhập gồm 07 kí_tự bắt_buộc , trong đó 06 kí_tự đầu_tiên là mã đơn_vị Đkts bậc 2 được định_danh trong Phần_mềm , kí_tự 7 là kí_tự đặc_biệt _ ; các kí_tự tiếp_theo là kí_tự chữ hoặc số do cán_bộ quản_lí quy_định để dễ phân_biệt các đơn_vị ( Ví_dụ : T01017 _ bvxanhpon , trong đó T01017 là mã của Sở Y_tế thành_phố Hà_nội được định_danh trong Phần_mềm ) , _ là kí_tự đặc_biệt , bvxanhpon là kí_tự viết tắt của Bệnh_viện Xanh Pôn ) . Mật_khẩu đăng_nhập gồm tối_thiểu 8 kí_tự , trong đó bao_gồm chữ_cái in hoa , chữ_cái in thường , số và kí_tự đặc_biệt .
+
+Điều 9 . Nhập dữ_liệu tài_sản vào Phần_mềm
+
+1 . Thông_tin dữ_liệu tài_sản công cập_nhật vào Phần_mềm là thông_tin tại báo_cáo kê_khai của cơ_quan , tổ_chức , đơn_vị , ban quản_lí dự_án , đơn_vị chủ_trì quản_lí tài_sản xác_lập quyền sở_hữu toàn dân theo quy_định của pháp_luật về quản_lý , sử_dụng tài_sản công .
+
+2 . Thông_tin dữ_liệu tài_sản công cập_nhật vào Phần_mềm bao_gồm :
+
+a ) Thông_tin báo_cáo kê_khai lần đầu , báo_cáo kê_khai bổ_sung , báo_cáo kê_khai tài_sản sử_dụng chung , báo_cáo kê_khai sử_dụng tài_sản công vào các mục_đích cho thuê , kinh_doanh , liên_doanh , liên_kết , khai_thác theo hình_thức khác , báo_cáo kê_khai thay_đổi thông_tin , báo_cáo kê_khai_thông_tin xử_lí tài_sản công tại cơ_quan , tổ_chức , đơn_vị thực_hiện theo các Mẫu_số : 04a - ĐK / TSC , 04b - ĐK / TSC , 04c - ĐK / TSC , 04d - ĐK / TSC , 04đ - ĐK / TSC , 04e - ĐK / TSC , 04g - ĐK / TSC , 04h - ĐK / TSC , 04i - ĐK / TSC , 06a - ĐK / TSC , 06b - ĐK / TSC , 06c - ĐK / TSC , 06d - ĐK / TSC , 07-ĐK/TSC ban_hành kèm theo Thông_tư này .
+
+b ) Thông_tin báo_cáo kê_khai , báo_cáo thay_đổi thông_tin , báo_cáo kê_khai_thông_tin xử_lí của tài_sản phục_vụ hoạt_động của các dự_án sử_dụng vốn nhà_nước thực_hiện theo các Mẫu_số : 05a - ĐK / TS DA , 05b - ĐK / TS DA , 05c - ĐK / TS DA , 06a - ĐK / TSC , 06b - ĐK / TSC , 06c - ĐK / TSC , 06d - ĐK / TSC , 07-ĐK/TSC ban_hành kèm theo Thông_tư này .
+
+c ) Thông_tin báo_cáo kê_khai tài_sản được xác_lập quyền sở_hữu toàn dân thực_hiện theo các Mẫu_số : 01-KK/TSXL,  02-PAXL/TSXL,  03-KQXL/TSXL,  04-KQTC/TSXL ban_hành kèm theo Thông_tư này .
+
+d ) Trình_tự , hồ_sơ báo_cáo kê_khai tài_sản tại các điểm a , b và c khoản này thực_hiện theo quy_định tại Nghị_định số 151/2017/NĐ-CP , Nghị_định của Chính_phủ quy_định trình_tự , thủ_tục xác_lập quyền sở_hữu toàn dân về tài_sản và xử_lí đối_với tài_sản được xác_lập quyền sở_hữu toàn dân và văn_bản sửa_đổi , bổ_sung ( nếu có ) .
+
+3 . Nhập dữ_liệu
+
+Căn_cứ báo_cáo kê_khai tại khoản 2 Điều này , các hồ_sơ kèm theo hoặc File dữ_liệu ( scan bản_gốc ) , chậm nhất là 30 ngày , kể từ ngày nhận được báo_cáo kê_khai của cơ_quan , tổ_chức , đơn_vị , ban quản_lí dự_án , đơn_vị chủ_trì quản_lí tài_sản xác_lập quyền sở_hữu toàn dân , cán_bộ sử_dụng thực_hiện nhập dữ_liệu tài_sản vào Phần_mềm đảm_bảo tính logic , thống_nhất , đầy_đủ , kịp_thời , bảo_mật của dữ_liệu , đồng_thời thực_hiện việc kiểm_tra , chuẩn_hoá thường_xuyên hoặc theo yêu_cầu của cơ_quan có thẩm_quyền . Trường_hợp dữ_liệu tại báo_cáo kê_khai chưa đầy_đủ , chưa chính_xác hoặc không logic thì đơn_vị nhập dữ_liệu yêu_cầu cơ_quan , tổ_chức , đơn_vị , ban quản_lí dự_án , đơn_vị chủ_trì quản_lí tài_sản được xác_lập quyền sở_hữu toàn dân rà_soát , chỉnh_lí và gửi lại báo_cáo kê_khai để thực_hiện nhập dữ_liệu vào Phần_mềm .
+
+Điều 10 . Duyệt dữ_liệu tài_sản trên Phần_mềm
+
+1 . Chậm nhất là 07 ngày làm_việc , kể từ ngày dữ_liệu được nhập vào Phần_mềm và cơ_quan_tài_chính các Bộ , cơ_quan trung_ương , Sở Tài_chính nhận được báo_cáo kê_khai của cơ_quan , tổ_chức , đơn_vị , ban quản_lí dự_án , đơn_vị chủ_trì quản_lí tài_sản xác_lập quyền sở_hữu toàn dân , cán_bộ quản_lí có trách_nhiệm kiểm_tra , đối_chiếu dữ_liệu giữa báo_cáo kê_khai và dữ_liệu đã nhập vào Phần_mềm để thực_hiện duyệt dữ_liệu đối_với :
+
+a ) Tài_sản tại cơ_quan , tổ_chức , đơn_vị , ban quản_lí dự_án là đất , nhà , xe ô_tô hoặc tài_sản cố_định khác có nguyên giá từ 500 triệu đồng trở lên / 1 đơn_vị tài_sản .
+
+b ) Các tài_sản trong từng Quyết_định tịch_thu hoặc Quyết_định xác_lập quyền sở_hữu toàn dân .
+
+2 . Đối_với tài_sản không thuộc phạm_vi quy_định tại khoản 1 Điều này , sau khi cán_bộ sử_dụng nhập dữ_liệu vào Phần_mềm thành_công thì mọi thông_tin về tài_sản là dữ_liệu chính_thức , không phải thực_hiện duyệt dữ_liệu đối_với các tài_sản này .
+
+Điều 11 . Kết_nối vào Phần_mềm
+
+1 . Phạm_vi kết_nối
+
+Kết_nối dữ_liệu về tài_sản công tại cơ_quan , tổ_chức , đơn_vị của các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh vào Phần_mềm .
+
+2 . Đối_tượng tham_gia kết_nối
+
+Các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh đã xây_dựng được riêng Cơ_sở dữ_liệu về tài_sản công tại cơ_quan , tổ_chức , đơn_vị thuộc phạm_vi quản_lý .
+
+3 . Nguyên_tắc kết_nối
+
+a ) Tuân_thủ các quy_định tại Điều 7 , Điều 13 Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước và Nghị_định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính_phủ về quản_lý , kết_nối và chia_sẻ dữ_liệu số của cơ_quan Nhà_nước .
+
+b ) Việc kết_nối dữ_liệu phải tuân_thủ Khung Kiến_trúc Chính_phủ điện_tử Việt_nam , Kiến_trúc Chính_phủ điện_tử Bộ Tài_chính và Kiến_trúc Chính_phủ điện_tử cấp_bộ , Kiến_trúc Chính_quyền điện_tử cấp tỉnh . Kết_nối dữ_liệu giữa Bộ Tài_chính với các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh thông_qua Nền_tảng tích_hợp chia_sẻ dữ_liệu quốc_gia ; kết_nối dữ_liệu giữa các hệ_thống thông_tin , cơ_sở dữ_liệu trong phạm_vi Bộ Tài_chính thông_qua Nền_tảng tích_hợp dữ_liệu dùng chung của Bộ Tài_chính .
+
+c ) Bảo_đảm quyền được tiếp_cận , khai_thác , sử_dụng dữ_liệu hợp_pháp theo quy_định của pháp_luật ; bảo_đảm việc tìm_kiếm , khai_thác thông_tin được thuận_tiện , không làm hạn_chế quyền khai_thác , sử_dụng Phần_mềm của các cơ_quan nhà_nước , tổ_chức , cá_nhân do yếu_tố kĩ_thuật .
+
+d ) Cơ_sở dữ_liệu về tài_sản công tại cơ_quan , tổ_chức , đơn_vị của các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh phải đảm_bảo khả_năng kết_nối , tích_hợp với Phần_mềm đặt tại Bộ Tài_chính thông_qua Nền_tảng tích_hợp chia_sẻ dữ_liệu quốc_gia .
+
+đ ) Tuân_thủ các quy_định về bảo_vệ bí_mật nhà_nước , tuân_thủ các quy_định của pháp_luật về an_toàn thông_tin mạng , các quy_định về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ đối_với Phần_mềm và các hệ_thống thông_tin kết_nối với Phần_mềm .
+
+4 . Danh_sách dữ_liệu , thông_điệp dữ_liệu phục_vụ kết_nối
+
+a ) Dữ_liệu trao_đổi với Phần_mềm phải sử_dụng mã đơn_vị Đkts định_danh trong Phần_mềm và các Danh_mục sử_dụng trong Phần_mềm tại Phụ_lục Ii ban_hành kèm theo Thông_tư này .
+
+b ) Danh_sách dữ_liệu , nội_dung , cấu_trúc kết_nối vào Phần_mềm được quy_định tại Phụ_lục I ban_hành kèm theo Thông_tư này .
+
+Thông_tin quy_định tại Phụ_lục I , Phụ_lục Ii , Phụ_lục Iii ban_hành kèm theo Thông_tư này được Bộ_trưởng Bộ Tài_chính Quyết_định cập_nhật , điều_chỉnh khi có sự thay_đổi các quy_định về quản_lý , sử_dụng tài_sản công .
+
+5 . Quy_định về việc kết_nối
+
+a ) Phương_thức kết_nối và định_dạng dữ_liệu trao_đổi : Sử_dụng dịch_vụ web dạng RESTful Api ; Cấu_trúc , định_dạng dữ_liệu sử_dụng Json .
+
+b ) Giao_thức truy_cập dịch_vụ web : Sử_dụng giao_thức Htps .
+
+c ) Chuẩn kí_tự : Sử_dụng Bộ kí_tự và mã_hoá cho Tiếng Việt : áp_dụng Tcvn 6909 : 2001 .
+
+d ) Kỹ_thuật xác_thực khi kết_nối , tích_hợp dữ_liệu qua Nền_tảng tích_hợp chia_sẻ dữ_liệu quốc_gia : Thực_hiện theo hướng_dẫn của Bộ Thông_tin và Truyền_thông tại thời_điểm kết_nối .
+
+6 . Mỗi Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh có nhu_cầu kết_nối dữ_liệu và đáp_ứng các quy_định tại Điều này thì có văn_bản gửi Bộ Tài_chính để xem_xét thống_nhất trước khi thực_hiện .
+
+7 . Sau khi đề_nghị của Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh về việc kết_nối dữ_liệu được Bộ Tài_chính_thống_nhất theo quy_định tại khoản 6 Điều này thì mỗi Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh được cấp 01 tài_khoản để được kết_nối dữ_liệu vào Phần_mềm .
+
+Trách_nhiệm của các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh khi thực_hiện kết_nối dữ_liệu :
+
+a ) Sau khi thực_hiện kết_nối lần đầu , Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh phải thực_hiện kết_nối dữ_liệu định_kì hàng tháng ( trước ngày 05 của tháng tiếp_theo ) .
+
+b ) Trường_hợp sau khi kết_nối dữ_liệu , Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh ngừng việc thực_hiện kết_nối dữ_liệu thì các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh có văn_bản gửi về Bộ Tài_chính ; đồng_thời chỉ_đạo các cơ_quan , tổ_chức , đơn_vị thuộc phạm_vi quản_lí thực_hiện cập_nhật trực_tiếp các biến_động tài_sản vào Phần_mềm .
+
+c ) Thường_xuyên thực_hiện kiểm_tra , đối_chiếu dữ_liệu trong Phần_mềm sau khi kết_nối với Cơ_sở dữ_liệu về tài_sản công tại cơ_quan , tổ_chức , đơn_vị của các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh và chịu trách_nhiệm về tính logic , thống_nhất , đầy_đủ , kịp_thời , bảo_mật của dữ_liệu tài_sản công của Bộ , cơ_quan trung_ương , tỉnh , thành_phố trực_thuộc trung_ương trong Phần_mềm .
+
+d ) Phản_ánh kịp_thời các vướng_mắc về kĩ_thuật trong việc kết_nối dữ_liệu với Phần_mềm .
+
+8 . Dữ_liệu về tài_sản công tại cơ_quan , tổ_chức , đơn_vị sau khi được kết_nối vào Phần_mềm là dữ_liệu tài_sản đã được duyệt . Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh chịu trách_nhiệm trước pháp_luật về tính logic , thống_nhất , đầy_đủ , kịp_thời , bảo_mật của dữ_liệu tài_sản công của Bộ , cơ_quan trung_ương , tỉnh , thành_phố trực_thuộc trung_ương trong Phần_mềm .
+
+Điều 12 . Khai_thác , sử_dụng thông_tin
+
+1 . Việc khai_thác , sử_dụng thông_tin trong Phần_mềm thực_hiện theo quy_định tại Điều 114 Nghị_định số 151/2017/NĐ-CP và văn_bản sửa_đổi , bổ_sung ( nếu có ) .
+
+2 . Bộ Tài_chính có quyền khai_thác , sử_dụng thông_tin về tài_sản công trên phạm_vi cả nước trong Phần_mềm .
+
+3 . Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh , các đơn_vị được phân_cấp nhập dữ_liệu có quyền khai_thác , sử_dụng thông_tin về tài_sản công thuộc phạm_vi quản_lí trong Phần_mềm .
+
+4 . Thông_tin khai_thác từ Phần_mềm được sử_dụng để :
+
+a ) Phục_vụ công_tác lập kế_hoạch ( ngắn_hạn , dài_hạn ) , công_tác chỉ_đạo , điều_hành , báo_cáo , phân_tích dự_báo của Chính_phủ , của Bộ Tài_chính và cơ_quan nhà_nước có thẩm_quyền .
+
+b ) Thực_hiện báo_cáo tình_hình quản_lý , sử_dụng tài_sản công theo quy_định của pháp_luật về quản_lý , sử_dụng tài_sản công .
+
+c ) Làm căn_cứ để lập dự_toán , xét_duyệt quyết_toán , Quyết_định , kiểm_tra , kiểm_toán , thanh_tra , giám_sát việc giao đầu_tư xây_dựng , mua_sắm , thuê , khoán kinh_phí sử_dụng tài_sản công , nâng_cấp , cải_tạo , sửa_chữa , khai_thác , xử_lí tài_sản công .
+
+5 . Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh Quyết_định việc phối_hợp cung_cấp thông_tin để kiểm_tra , đối_chiếu kết_quả đăng_nhập dữ_liệu tài_sản công vào Phần_mềm và sử_dụng thông_tin lưu_giữ trong Phần_mềm vào các mục_đích được quy_định tại khoản 4 Điều này .
+
+Điều 13 . Báo_cáo điện_tử
+
+Hình_thức báo_cáo tình_hình quản_lí sử_dụng tài_sản công thực_hiện theo quy_định tại khoản 4 Điều 130 Nghị_định số 151/2017/NĐ-CP và văn_bản sửa_đổi , bổ_sung ( nếu có ) .
+
+Điều 14 . Kinh_phí đảm_bảo việc quản_lý , khai_thác Phần_mềm
+
+Kinh_phí chi cho việc xây_dựng , nâng_cấp , duy_trì nhằm đảm_bảo việc quản_lý , khai_thác Phần_mềm được bố_trí trong dự_toán ngân_sách nhà_nước_hàng năm của Bộ Tài_chính .
+
+Chương_iii
+
+Tổ_chức Thực_hiện
+
+Điều 15 . Quy_định chuyển_tiếp
+
+Tài_khoản của các đơn_vị nhập dữ_liệu đã được tạo trong Phần_mềm trước ngày Thông_tư này có hiệu_lực thi_hành thì tiếp_tục sử_dụng tài_khoản đó để nhập dữ_liệu . Việc tạo tài_khoản nhập dữ_liệu từ ngày Thông_tư này có hiệu_lực thi_hành thi thực_hiện theo quy_định tại Thông_tư này .
+
+Điều 16 . Hiệu_lực thi_hành và tổ_chức thực_hiện
+
+1 . Thông_tư này có hiệu_lực thi_hành từ ngày 27 tháng 8 năm 2023 .
+
+2 . Thông_tư này thay_thế Thông_tư số 184/2014/TT-BTC ngày 01 tháng 12 năm 2014 của Bộ Tài_chính hướng_dẫn việc quản_lý , sử_dụng , khai_thác Phần_mềm Quản_lí đăng_kí tài_sản nhà_nước .
+
+3 . Bãi_bỏ khoản 1 , khoản 3 , khoản 4 Điều 9 Thông_tư số 144/2017/TT-BTC và các Mẫu biểu số : 04a - ĐK / TSC , 04b - ĐK / TSC , 04c - ĐK / TSC , 05a - ĐK / TS DA , 05b - ĐK / TS DA , 05c - ĐK / TS DA , 06a - ĐK / TSC , 06b - ĐK / TSC , 06c - ĐK / TSC , 06d - ĐK / TSC , 07-ĐK/TSC ban_hành kèm theo Thông_tư số 144/2017/TT-BTC ngày 29 tháng 12 năm 2017 của Bộ Tài_chính hướng_dẫn một_số nội_dung của Nghị_định số 151/2017/NĐ-CP ngày 26 tháng 12 năm 2017 của Chính_phủ quy_định chi_tiết một_số điều của Luật Quản_lý , sử_dụng tài_sản công .
+
+4 . Trong trường_hợp các văn_bản dẫn chiếu tại Thông_tư này được sửa_đổi , bổ_sung , thay_thế_thì thực_hiện theo quy_định tương_ứng tại văn_bản sửa_đổi , bổ_sung , thay_thế đó .
+
+5 . Các Bộ , cơ_quan trung_ương , Ủy_ban nhân_dân cấp tỉnh có trách_nhiệm chỉ_đạo các cơ_quan , tổ_chức , đơn_vị có liên_quan thực_hiện theo quy_định tại Thông_tư này .
+
+6 . Các cơ_quan , tổ_chức , đơn_vị , cá_nhân có hành_vi vi_phạm_pháp_luật trong việc đăng_nhập hoặc sử_dụng số_liệu về tài_sản công trong Phần_mềm thì tuỳ theo tính_chất , mức_độ vi_phạm mà bị xử_lí kỉ_luật , xử_phạt vi_phạm hành_chính hoặc truy_cứu trách_nhiệm hình_sự theo quy_định của pháp_luật .
+
+7 . Trong quá_trình thực_hiện nếu phát_sinh vướng_mắc , đề_nghị các cơ_quan , tổ_chức , đơn_vị phản_ánh kịp_thời về Bộ Tài_chính để phối_hợp xử_lý . / .

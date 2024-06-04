@@ -1,0 +1,79 @@
+Thông_tư số 20/2020/tt-nhnn ngày 31 tháng 12 năm 2020 của ngân_hàng nhà_nước việt_nam
+
+Căn_cứ <LT rel="CC"> Luật Ngân_hàng Nhà_nước Việt_nam ngày 16 tháng 6 năm 2010 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Các tổ_chức tín_dụng ngày 16 tháng 6 năm 2010 </LT> ; Luật sửa_đổi , bổ_sung một_số điều của <LT rel="None"> Luật Các tổ_chức tín_dụng ngày 20 tháng 11 năm 2017 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật giao_dịch điện_tử ngày 29 tháng 11 năm 2005 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 35/2007/NĐ-CP ngày 08 tháng 3 năm 2007 </NĐ> của Chính_phủ về giao_dịch điện_tử trong hoạt_động ngân_hàng ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 101/2012/NĐ-CP ngày 22 tháng 11 năm 2012 </NĐ> của Chính_phủ về thanh_toán không dùng tiền_mặt ; <NĐ rel="None"> Nghị_định số 80/2016/NĐ-CP ngày 01 tháng 7 năm 2016 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của <NĐ rel="CC"> Nghị_định số 101/2012/NĐ-CP ngày 22 tháng 11 năm 2012 </NĐ> của Chính_phủ về thanh_toán không dùng tiền_mặt ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 16/2017/NĐ-CP ngày 17 tháng 02 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Ngân_hàng Nhà_nước Việt_nam ;
+
+Theo đề_nghị của Cục_trưởng Cục Công_nghệ thông_tin ;
+
+Thống_đốc Ngân_hàng Nhà_nước Việt_nam ban_hành Thông_tư sửa_đổi , bổ_sung một_số điều của <TT rel="None"> Thông_tư số 47/2014/TT-NHNN ngày 31 tháng 12 năm 2014 </TT> của Thống_đốc Ngân_hàng Nhà_nước Việt_nam quy_định các yêu_cầu kĩ_thuật về an_toàn bảo_mật đối_với trang thiết_bị phục_vụ thanh_toán thẻ ngân_hàng ( sau đây gọi tắt là Thông_tư 47/2014/TT-NHNN).
+
+Điều 1 . Sửa_đổi , bổ_sung một_số điều của Thông_tư 47/2014/TT-NHNN
+
+1 . Khoản 9 Điều 2 được sửa_đổi , bổ_sung như sau :
+
+9 . Mã_hoá mạnh là phương_pháp mã_hoá dựa trên các thuật_toán đã được kiểm_tra , chấp_nhận rộng_rãi trên thế_giới cùng với độ dài khoá tối_thiểu 112 ( một trăm mười hai ) bit và kĩ_thuật quản_lí khoá phù_hợp . Các thuật_toán tối_thiểu bao_gồm : Aes ( 256 bit ) ; Tdes ( 168 bit ) ; Rsa ( 2048 bit ) ; Ec ( 224 bit ) ; ElGamal ( 2048 bit ) . .
+
+2 . Điểm d khoản 1 Điều 3 được sửa_đổi , bổ_sung như sau :
+
+d ) Không cung_cấp địa_chỉ mạng ( địa_chỉ Ip ) nội_bộ và thông_tin định_tuyến cho các tổ_chức khác khi chưa được người có thẩm_quyền phê_duyệt . Có biện_pháp che_giấu địa_chỉ mạng nội_bộ và các thông_tin về bảng định_tuyến nội_bộ khi kết_nối với các bên thứ ba ; .
+
+3 . Điểm c khoản 3 Điều 3 được sửa_đổi , bổ_sung như sau :
+
+c ) Các truy_cập từ môi_trường dữ_liệu chủ thẻ ra ngoài Internet phải được người có thẩm_quyền phê_duyệt và được kiểm_soát chặt_chẽ . .
+
+4 . Bổ_sung khoản 5 vào Điều 4 như sau :
+
+5 . Mã_hoá tất_cả các kết_nối truy_cập quản_trị từ xa bằng phương_pháp mã_hoá mạnh . .
+
+5 . Bổ_sung khoản 8 vào Điều 5 như sau :
+
+8 . Thường_xuyên rà_soát bảo_đảm các trang thiết_bị phần_cứng , phần_mềm được hỗ_trợ kĩ_thuật từ nhà sản_xuất . .
+
+6 . Khoản 1 Điều 6 được sửa_đổi , bổ_sung như sau :
+
+1 . Việc truy_cập vào tất_cả thành_phần hệ_thống thông_tin phục_vụ thanh_toán thẻ phải được xác_thực bằng ít_nhất một trong các phương_thức sau : mã khoá bí_mật ; thiết_bị , thẻ xác_thực ; sinh trắc học . .
+
+7 . Điểm c khoản 4 Điều 6 được sửa_đổi , bổ_sung như sau :
+
+e ) Thu_hồi hoặc vô_hiệu_hoá các tài_khoản không_kích_hoạt sử_dụng , hết hạn sử_dụng , không hoạt_động trong khoảng thời_gian tối_đa 90 ngày kể từ lần truy_cập gần nhất ; .
+
+8 . Khoản 3 Điều 10 được sửa_đổi , bổ_sung như sau :
+
+3 . Trên tất_cả các máy Pos phải có số điện_thoại liên_hệ của Tct . .
+
+9 . Điểm c khoản 1 Điều 14 được sửa_đổi , bổ_sung như sau :
+
+c ) Số thẻ phải được che_giấu phù_hợp khi hiển_thị ( chỉ hiển_thị tối_đa 6 số đầu và 4 số cuối ) và chỉ được hiển_thị đầy_đủ cho : chủ thẻ , cơ_quan nhà_nước có thẩm_quyền theo quy_định của pháp_luật , một_số nhân_viên theo yêu_cầu công_việc được người có thẩm_quyền phê_duyệt ; .
+
+10 . Khoản 1 Điều 15 được sửa_đổi , bổ_sung như sau :
+
+1 . Sử_dụng các phương_pháp mã_hoá mạnh và các giao_thức bảo_mật thích_hợp để bảo_vệ dữ_liệu xác_thực thẻ trong quá_trình truyền_thông_tin qua mạng kết_nối với bên ngoài ( mạng Internet , mạng không dây , mạng truyền_thông di_động và các mạng khác ) . .
+
+11 . Điểm b khoản 1 Điều 17 được sửa_đổi , bổ_sung như sau :
+
+b ) Sử_dụng camera hoặc biện_pháp giám_sát phù_hợp khác để giám_sát việc vào , ra các khu_vực phòng máy_chủ , khu_vực in_ấn phát_hành , nơi lưu_trữ , xử_lí dữ_liệu chủ thẻ . Các dữ_liệu giám_sát phải được lưu_trữ , bảo_vệ an_toàn và sẵn_sàng truy_cập tối_thiểu 03 tháng . .
+
+12 . Bổ_sung điểm y vào khoản 1 Điều 18 như sau :
+
+i ) Ban_hành chính_sách , quy_trình thực_hiện giám_sát tất_cả các truy_cập tới tài_nguyên mạng , dữ_liệu chủ thẻ và phổ_biến cho tất_cả các cá_nhân , bộ_phận liên_quan đến nghiệp_vụ thẻ của tổ_chức . .
+
+Điều 2 .
+
+Thay_đổi cụm từ Cục Công_nghệ tin_học thành cụm từ Cục Công_nghệ thông_tin tại các Điều 20 , 22 và 23 Thông_tư 47/2014/TT-NHNN.
+
+Điều 3 . Trách_nhiệm tổ_chức thực_hiện
+
+Chánh Văn_phòng , Cục_trưởng Cục Công_nghệ thông_tin , Thủ_trưởng các đơn_vị thuộc Ngân_hàng Nhà_nước , Giám_đốc Ngân_hàng Nhà_nước chi_nhánh các tỉnh , thành_phố trực_thuộc Trung_ương , các tổ_chức hoạt_động thẻ có trách_nhiệm tổ_chức thực_hiện Thông_tư này .
+
+Điều 4 . Điều_khoản thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 02 năm 2021 . / .

@@ -1,0 +1,239 @@
+Thông_tư số 10/2017/tt-btnmt ngày 06 tháng 06 năm 2017 của bộ tài_nguyên và môi_trường
+
+Căn_cứ Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Căn_cứ Quyết_định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 của Thủ_tướng Chính_phủ quy_định về thu_nhận , lưu_trữ , xử_lý , khai_thác và sử_dụng dữ_liệu viễn_thám quốc_gia ; Quyết_định số 76/2014/QĐ-TTg ngày 24 tháng 12 năm 2014 của Thủ_tướng Chính_phủ sửa_đổi , bổ_sung một_số điều của Quyết_định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 của Thủ_tướng Chính_phủ quy_định về thu_nhận , lưu_trữ , xử_lý , khai_thác và sử_dụng dữ_liệu viễn_thám quốc_gia ;
+
+Căn_cứ Quyết_định số 83/2000/QĐ-TTg ngày 12 tháng 7 năm 2000 của Thủ_tướng Chính_phủ về sử_dụng Hệ quy chiếu và Hệ toạ_độ quốc_gia Việt_nam ;
+
+Theo đề_nghị của Cục_trưởng Cục Viễn_thám quốc_gia , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư quy_định quy_trình thành_lập bản_đồ chuyên_đề bằng ảnh viễn_thám tỉ_lệ 1 : 5 . 000 , 1 : 10 . 000 , 1 : 500 . 000 , 1 : 1 . 000 . 000 .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh và đối_tượng áp_dụng
+
+1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định nội_dung , trình_tự các bước thành_lập bản_đồ chuyên_đề bằng ảnh viễn_thám tỉ_lệ 1 : 5 . 000 , 1 : 10 . 000 , 1 : 500 . 000 , 1 : 1 . 000 . 000 .
+
+2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với các cơ_quan , tổ_chức và cá_nhân có liên_quan đến việc thành_lập bản_đồ chuyên_đề bằng ảnh viễn_thám tỉ_lệ 1 : 5 . 000 , 1 : 10 . 000 , 1 : 500 . 000 , 1 : 1 . 000 . 000 .
+
+Điều 2 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Bản_đồ chuyên_đề : là một loại bản_đồ thể_hiện một chủ_đề riêng của một vùng địa_lí cụ_thể về tài_nguyên , môi_trường . Bản_đồ chuyên_đề được thành_lập bằng tư_liệu ảnh viễn_thám được phân thành 2 nhóm cơ_bản là nhóm bản_đồ hiện_trạng và nhóm bản_đồ tổng_hợp , biến_động .
+
+2 . Bản_đồ hiện_trạng : là một loại bản_đồ chuyên_đề được thành_lập bằng tư_liệu ảnh viễn_thám tại một thời_điểm hoặc một giai_đoạn nhất_định để khai_thác thông_tin phục_vụ thành_lập bản_đồ hiện_trạng của thời_điểm đó .
+
+3 . Bản_đồ tổng_hợp , biến_động : là một loại bản_đồ chuyên_đề được thành_lập bằng tư_liệu ảnh viễn_thám của một giai_đoạn hoặc nhiều giai_đoạn khác nhau để khai_thác thông_tin phục_vụ thành_lập các bản_đồ dẫn_xuất theo từng thời_điểm và xử_lí tổng_hợp_thành bản_đồ tổng_hợp , biến_động .
+
+4 . Bản_đồ dẫn_xuất : là bản_đồ trung_gian được thành_lập tại các thời_điểm khác nhau để tích_hợp , chồng ghép thành bản_đồ tổng_hợp , biến_động .
+
+Điều 3 . Cơ_sở toán_học của bản_đồ chuyên_đề
+
+1 . Hệ quy chiếu và hệ toạ_độ .
+
+a ) Sử_dụng Hệ quy chiếu và Hệ toạ_độ Quốc_gia Vn2000 để thể_hiện Bản_đồ chuyên_đề tỉ_lệ 1 : 5 . 000 , 1 : 10 . 000 và 1 : 500 . 000 . Các thông_số gồm :
+
+Lưới chiếu Utm , Ellipsoid_wgs84 ;
+
+Múi chiếu 3 , hệ_số điều_chỉnh tỉ_lệ biến_dạng chiều dài k0 = 0 , 9999 cho bản_đồ tỉ_lệ 1 : 5 . 000 , 1 : 10 . 000 ;
+
+Múi chiếu 6 , hệ_số điều_chỉnh tỉ_lệ biến_dạng chiều dài k0 = 0 , 9996 cho bản_đồ tỉ_lệ 1 : 500 . 000 .
+
+b ) Sử_dụng lưới chiếu hình_nón đồng góc với 2 vĩ_tuyến chuẩn 11 và 21 để thể_hiện bản_đồ chuyên_đề tỉ_lệ 1 : 1 . 000 . 000 .
+
+2 . Tên bản_đồ : Bao_gồm tên chuyên_đề , tên đơn_vị hành_chính ( hoặc vùng ) và số thứ tự mảnh .
+
+3 . Các hợp_phần khác : Bảng chắp ( nếu có ) , bảng chú giải , tỉ_lệ bản_đồ và thước tỉ_lệ .
+
+Điều 4 . Nội_dung của bản_đồ chuyên_đề
+
+Nội_dung bản_đồ chuyên_đề bao_gồm các lớp dữ_liệu nền và lớp dữ_liệu chuyên_đề :
+
+1 . Các lớp dữ_liệu nền được tổng_hợp , lược bỏ từ bản_đồ địa_hình hoặc cơ_sở dữ_liệu nền địa_lí ở tỉ_lệ tương_đương hoặc lớn hơn .
+
+2 . Các lớp dữ_liệu chuyên_đề được thành_lập từ ảnh viễn_thám theo yêu_cầu nội_dung chuyên_đề .
+
+Chương_ii
+
+Quy_trình Thành_lập Bản_đồ Chuyên_đề Tỷ_lệ 1 : 5 . 000 , 1 : 10 . 000 , 1 : 500 . 000 , 1 : 1 . 000 . 000
+
+Điều 5 . Sơ_đồ quy_trình thành_lập bản_đồ chuyên_đề tỉ_lệ 1 : 5 . 000 , 1 : 10 . 000 , 1 : 500 . 000 , 1 : 1 . 000 . 000
+
+Điều 6 . Công_tác chuẩn_bị
+
+Khảo_sát tổng_quan , phân_tích đặc_điểm địa_lí khu_vực cần thành_lập bản_đồ ; khảo_sát , đánh_giá các tài_liệu : Ảnh viễn_thám , bản_đồ , các số_liệu thống_kê , các thông_tin có liên_quan đến chuyên_đề bản_đồ cần thành_lập ; phân_tích đánh_giá khả_năng sử_dụng của từng tài_liệu .
+
+Điều 7 . Biên_tập khoa_học
+
+1 . Xác_định vùng thành_lập bản_đồ ( lập sơ_đồ , vị_trí khu_vực thi_công , sơ_đồ bảng chắp và các yếu_tố khác ) .
+
+2 . Xác_định chủ_đề của bản_đồ , tỉ_lệ , đặt tên bản_đồ , các chỉ_tiêu thể_hiện nội_dung , bố_cục nội_dung , định_dạng bản_đồ sản_phẩm .
+
+3 . Xác_định các nguồn tư_liệu sử_dụng để thành_lập bản_đồ .
+
+4 . Xây_dựng thiết_kế kĩ_thuật , dự_toán .
+
+Điều 8 . Thành_lập bình_đồ ảnh viễn_thám
+
+1 . Thu_thập , đặt chụp ảnh viễn_thám .
+
+2 . Đo khống_chế ảnh ( chỉ áp_dụng cho bản_đồ chuyên_đề tỉ_lệ 1 : 5 . 000 , 1 : 10 . 000 ) .
+
+3 . Thành_lập mô_hình số độ cao ( chỉ áp_dụng cho bản_đồ chuyên_đề tỉ_lệ 1 : 5 . 000 ) .
+
+4 . Nhập dữ_liệu đầu_vào .
+
+5 . Tăng dày khối ảnh viễn_thám .
+
+6 . Nắn chỉnh_hình_học ảnh viễn_thám .
+
+7 . Xử_lý , tăng_cường chất_lượng ảnh .
+
+8 . Nắn , ghép ảnh , cắt mảnh bình_đồ ảnh viễn_thám .
+
+9 . Dựng khung , lưới toạ_độ , chú giải và phần ngoài khung bình_đồ ảnh viễn_thám .
+
+Điều 9 . Thành_lập bản_đồ nền
+
+1 . Thu_thập bản_đồ địa_hình hoặc dữ_liệu nền địa_lí cùng tỉ_lệ bản_đồ bản_đồ chuyên_đề cần thành_lập .
+
+2 . Nắn chuyển về Hệ quy chiếu và Hệ toạ_độ Quốc_gia Vn - 2000 ( nếu khác hệ toạ_độ ) , ghép dữ_liệu và cắt dữ_liệu theo phạm_vi thành_lập bản_đồ .
+
+3 . Xây_dựng các lớp dữ_liệu nền thông_qua việc tổng_hợp , lược bỏ nội_dung dữ_liệu bản_đồ địa_hình hoặc dữ_liệu nền địa_lý .
+
+4 . Cập_nhật bổ_sung hiện chỉnh yếu_tố nền theo ảnh viễn_thám .
+
+5 . Biên_tập các lớp dữ_liệu nền .
+
+Điều 10 . Đo_phổ / Lấy mẫu_phổ
+
+Tuỳ theo yêu_cầu của bản_đồ chuyên_đề cần thành_lập và dữ_liệu ảnh sử_dụng cần tiến_hành đo phổ hoặc lấy mẫu theo các bước sau :
+
+1 . Đo_phổ :
+
+a ) Xây_dựng kế_hoạch ;
+
+b ) Chuẩn_bị , kiểm_định máy đo phổ , thiết_kế chọn vị_trí , sơ_đồ điểm đo phổ ngoài thực_địa ;
+
+c ) Đo_phổ phản_xạ tại thực_địa : Lựa_chọn các đối_tượng cần lập trong thư_viện phổ . Tiến_hành đo phổ phản_xạ ngoài thực_địa của các đối_tượng đã lựa_chọn ;
+
+d ) Tính_toán giá_trị phản_xạ từ giá_trị phổ đo ngoài thực_địa : Các mẫu phổ đo ngoài thực_địa là các giá_trị gốc và cần phải chuyển thành các giá_trị phản_xạ ;
+
+đ ) Tái_mẫu phổ : Đưa giá_trị phổ phản_xạ của đối_tượng thực_địa về cùng độ phân_giải_phổ của ảnh viễn_thám ;
+
+e ) Kiểm_tra , so_sánh giá_trị phổ : Giá_trị phổ phản_xạ của các đối_tượng được tiến_hành kiểm_tra loại_trừ khả_năng nhầm_lẫn , những đối_tượng không phù_hợp sẽ loại_bỏ . Những giá_trị đúng được so_sánh với nhau để xác_định mức_độ khác_biệt hoặc tương_đồng ;
+
+g ) Phân_loại mẫu phổ : Các mẫu phổ được xác_định là phù_hợp sẽ được phân_loại và gộp nhóm trong thư_viện phổ tuỳ theo mục_đích sử_dụng .
+
+2 . Lấy mẫu phổ :
+
+a ) Xây_dựng kế_hoạch , chuẩn_bị các bản_đồ , sơ_đồ , thông_tin chung về khu_vực định lấy mẫu ;
+
+b ) Chuẩn_bị , kiểm_định máy_móc , và các thiết_bị phụ_trợ gồm thiết_bị vệ_tinh ( gps ) , máy_ảnh , máy bộ_đàm , máy_tính ;
+
+c ) Xác_định vị_trí lấy mẫu và tiến_hành lấy mẫu ;
+
+d ) Xử_lí_số_liệu : Kiểm_tra số_liệu và tính_toán kết_quả lấy mẫu ;
+
+đ ) Lập báo_cáo kết_quả .
+
+Điều 11 . Chiết_xuất nội_dung chuyên_đề từ ảnh viễn_thám
+
+1 . Lấy mẫu ( trong trường_hợp không đo phổ ) trên ảnh hoặc nhập mẫu phổ đo ngoài thực_địa .
+
+2 . Phân_loại ảnh .
+
+3 . Đánh_giá độ chính_xác sau phân_loại ảnh .
+
+4 . Biên_tập dữ_liệu phân_loại .
+
+5 . Lập sơ_đồ điều_tra bổ_sung ngoại nghiệp .
+
+6 . Kiểm_tra , hoàn_thiện kết_quả .
+
+Điều 12 . Điều_tra bổ_sung ngoại_nghiệp
+
+Công_tác điều_tra bổ_sung ngoại nghiệp chỉ áp_dụng đối_với việc thành_lập bản_đồ chuyên_đề tỉ_lệ 1 : 5 . 000 , 1 : 10 . 000
+
+1 . Thiết_kế các tuyến khảo_sát ngoại_nghiệp ; lập danh_sách các nội_dung đi điều_tra thực_địa .
+
+2 . Điều_tra , điều vẽ bổ_sung các yếu_tố nội_dung chuyên_môn và yếu_tố nền có biến_động .
+
+3 . Đo vẽ bổ_sung các yếu_tố chuyên_môn hoặc theo yêu_cầu kĩ_thuật chuyên_ngành ( đối_với ảnh bị mây và ảnh cũ so với thời_điểm thành_lập bản_đồ ) .
+
+4 . Tiếp_biên , sửa_chữa , hoàn_thiện kết_quả . Hoàn_thiện hệ_thống các bảng thống_kê , các sơ_đồ , các tài_liệu chỉ_dẫn bổ_sung .
+
+5 . Chuyển vẽ các thông_tin điều_tra bổ_sung ngoại nghiệp lên bản_đồ .
+
+Điều 13 . Chuẩn_hoá dữ_liệu dẫn_xuất
+
+1 . Rà_soát , xử_lí các vấn_đề về dữ_liệu trước khi tổng_hợp .
+
+2 . Thu_nhận , chuẩn_hoá cơ_sở dữ_liệu dẫn_xuất .
+
+3 . Kiểm_tra xử_lý , tổng_hợp cơ_sở dữ_liệu dẫn_xuất .
+
+Điều 14 . Tích_hợp , phân_tích , xử_lí tổng_hợp dữ_liệu
+
+1 . Tích_hợp các dữ_liệu chuyên_môn từ bản_đồ dẫn_xuất và các tài_liệu liên_quan cần_thiết .
+
+2 . Phân_tích , xử_lí tổng_hợp các dữ_liệu .
+
+Điều 15 . Biên_tập , trình_bày bản_đồ chuyên_đề
+
+1 . Biên_tập , trình_bày bản_đồ theo thiết_kế kĩ_thuật chi_tiết của bản_đồ chuyên_đề .
+
+2 . In , kiểm_tra , sửa_chữa , hoàn_thiện sản_phẩm .
+
+3 . Xây_dựng lí_lịch bản_đồ .
+
+Điều 16 . Xây_dựng báo_cáo thuyết_minh bản_đồ chuyên_đề
+
+1 . Xây_dựng báo_cáo từng chuyên_đề .
+
+2 . Nêu rõ căn_cứ pháp_lý , sự cần_thiết và mục_đích , yêu_cầu của việc thành_lập bản_đồ , phạm_vi thực_hiện .
+
+3 . Thu_thập , phân_tích thông_tin phương_pháp công_nghệ thành_lập bản_đồ , nói rõ cụ_thể_loại ảnh , thời_gian ảnh chụp sử_dụng để thành_lập bản_đồ .
+
+4 . Phân_tích nội_dung của bản_đồ chuyên_đề gồm khối_lượng công_việc thực_hiện ; mức_độ đầy_đủ , chi_tiết và độ chính_xác của các yếu_tố nội_dung ; số_liệu tổng_hợp , đánh_giá theo yêu_cầu của mục_đích thành_lập bản_đồ .
+
+5 . Xây_dựng báo_cáo thuyết_minh tổng_hợp .
+
+Điều 17 . Kiểm_tra , nghiệm_thu
+
+Công_tác kiểm_tra kĩ_thuật , nghiệm_thu sản_phẩm bao_gồm các công_đoạn sau :
+
+1 . Kiểm_tra , nghiệm_thu cấp đơn_vị thi_công .
+
+2 . Kiểm_tra , nghiệm_thu cấp chủ đầu_tư .
+
+3 . Thẩm_định , nghiệm_thu hồ_sơ chất_lượng , khối_lượng sản_phẩm .
+
+Điều 18 . Giao_nộp sản_phẩm
+
+Sản_phẩm được giao_nộp sau khi đã được kiểm_tra kĩ_thuật , đánh_giá chất_lượng và nghiệm_thu cấp chủ đầu_tư .
+
+Chương_iii
+
+Điều_khoản Thi_hành
+
+Điều 19 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 24 tháng 07 năm 2017 .
+
+Điều 20 . Tổ_chức thực_hiện
+
+1 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Cục Viễn_thám quốc_gia có trách_nhiệm hướng_dẫn , kiểm_tra việc thực_hiện Thông_tư này .
+
+3 . Trong quá_trình thực_hiện Thông_tư nếu có vướng_mắc , đề_nghị các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , quyết_định . / .

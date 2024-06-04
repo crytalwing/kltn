@@ -1,0 +1,205 @@
+Thông_tư số 15/2022/tt-btnmt ngày 27 tháng 10 năm 2022 của bộ tài_nguyên và môi_trường
+
+Căn_cứ Luật Khí_tượng thuỷ_văn ngày 23 tháng 11 năm 2015 ;
+
+Căn_cứ Nghị_định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính_phủ quy_định chi_tiết một_số điều của Luật Khí_tượng thuỷ_văn ; Nghị_định số 48/2020/NĐ-CP ngày 15 tháng 4 năm 2020 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính_phủ quy_định chi_tiết một_số điều của Luật Khí_tượng thuỷ_văn ;
+
+Căn_cứ Nghị_định số 68/2022/NĐ-CP ngày 22 tháng 9 năm 2022 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Tổng_cục_trưởng Tổng_cục Khí_tượng Thuỷ_văn , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư quy_định kĩ_thuật về quan_trắc ra đa thời_tiết và ô - dôn - bức_xạ cực tím .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định kĩ_thuật về quan_trắc ra đa thời_tiết và ô - dôn - bức_xạ cực tím .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với cơ_quan , tổ_chức , cá_nhân liên_quan đến hoạt_động quan_trắc ra đa thời_tiết và ô - dôn - bức_xạ cực tím .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Ra đa thời_tiết thông_thường là ra đa chỉ đo cường_độ phản_hồi vô_tuyến , không đo được tốc_độ di_chuyển của mục_tiêu qua một lần đo .
+
+2 . Ra đa thời_tiết đốp - le là ra đa đo cường_độ phản_hồi vô_tuyến và sử_dụng nguyên_lí đốp - le để đo tốc_độ di_chuyển của vật mục_tiêu , gió hướng_tâm .
+
+3 . Ra đa thời_tiết phân_cực đôi là ra đa phát năng_lượng theo cả phương ngang và phương thẳng_đứng .
+
+4 . Ra đa thời_tiết băng sóng S là ra đa hoạt_động ở dải bước_sóng từ 7 , 5 cm đến 15 cm , tần_số từ 2 GHz đến 4 GHz .
+
+5 . Ra đa thời_tiết băng sóng C là ra đa hoạt_động ở dải bước_sóng từ 3 , 75 cm đến 7 , 5 cm , tần_số từ 4 GHz đến 8 GHz .
+
+6 . Ra đa thời_tiết băng sóng X là ra đa hoạt_động ở dải bước_sóng từ 2 , 5 cm đến 3 , 75 cm , tần_số từ 8 GHz đến 12 GHz .
+
+7 . Ra đa thời_tiết cố_định là hệ_thống_thiết_bị ra đa thời_tiết được lắp_đặt cố_định tại một vị_trí để thực_hiện quan_trắc , thu_thập dữ_liệu .
+
+8 . Ra đa thời_tiết di_động là hệ_thống_thiết_bị ra đa thời_tiết được lắp_đặt trên xe chuyên_dụng di_chuyển tới các địa_điểm khác nhau để thực_hiện quan_trắc , thu_thập dữ_liệu .
+
+9 . Chế_độ quét tròn ( 360 độ ) với góc nâng cố_định ( pi ) là chế_độ quét tại một góc nâng ăng ten do người dùng lựa_chọn .
+
+10 . Chế_độ quét thẳng_đứng ở một góc phương vị cố_định ( rhi ) là chế_độ quét theo chiều thẳng_đứng tại một góc phương vị của ăng ten do người dùng lựa_chọn .
+
+11 . Chế_độ quét khối là thực_hiện nhiều chế_độ quét tròn liên_tiếp với nhiều góc nâng cố_định khác nhau .
+
+12 . Sản_phẩm quét khối là sản_phẩm được tạo ra từ chế_độ quét khối khi thực_hiện quan_trắc .
+
+13 . Sản_phẩm dẫn_xuất là sản_phẩm được tạo ra thông_qua phần_mềm của nhà sản_xuất ra đa từ sản_phẩm quét khối .
+
+14 . Gió đốp - le là gió thành_phần xuyên tâm được xác_định thông_qua độ lệch giữa tần_số phát và thu hoặc sự_biến_đổi về độ lệch pha giữa các tín_hiệu - hiệu_ứng đốp - le .
+
+15 . Tổng_lượng ô - dôn khí_quyển là toàn_bộ lượng ô - dôn có trong cột thẳng_đứng của khí_quyển tính từ mặt_đất đến giới_hạn trên của khí_quyển có tiết_diện ngang 0 , 0001 m2 ( 10 - 4 m2 ) ở điều_kiện nhiệt_độ và khí_áp tiêu_chuẩn .
+
+16 . Bức_xạ cực tím ( còn có tên gọi khác là bức_xạ tử_ngoại ) là bức_xạ sóng cực ngắn của mặt_trời trong dải quang_phổ từ 5 nm đến 400 nm , bức_xạ cực tím ở mặt_đất được đo từ bước_sóng 100 nm trở lên , được chia thành 3 loại : bức_xạ cực tím dải A ( uv - A ) 315 nm - 400 nm , bức_xạ cực tím dải B ( uv - B ) 280 nm - 315 nm và bức_xạ cực tím dải C ( uv - C ) 100 nm - 280 nm .
+
+Chương_ii
+
+Quan_trắc Ra_đa Thời_tiết
+
+Điều 4 . Vị_trí , công_trình quan_trắc
+
+1 . Ra đa thời_tiết cố_định
+
+Vị_trí , công_trình quan_trắc thực_hiện theo quy_định tại nội_dung 4 . 4 và 5 . 4 của Tcvn 12635 - 4 : 2021 , Phần 4 : Vị_trí , công_trình quan_trắc đối_với trạm khí_tượng trên cao , ô - dôn - bức_xạ cực tím và ra đa thời_tiết .
+
+2 . Ra đa thời_tiết di_động
+
+Vị_trí quan_trắc có diện_tích phù_hợp với kích_thước ra đa di_động ; bề_mặt bằng_phẳng ; kết_cấu chắc_chắn , đảm_bảo cho công_tác triển_khai lắp_đặt và quan_trắc theo mục_đích , yêu_cầu .
+
+Điều 5 . Yếu_tố , đơn_vị đo và sai_số
+
+1 . Ra đa thời_tiết thông_thường
+
+2 . Ra đa thời_tiết đốp - le
+
+3 . Ra đa thời_tiết phân_cực đôi
+
+Điều 6 . Quan_trắc và cung_cấp số_liệu
+
+1 . Thông_số kĩ_thuật thiết_lập lịch_trình quan_trắc :
+
+a ) Chế_độ quét khối
+
+Bảng 1 . Chế_độ quét khối của ra đa thời_tiết băng sóng S
+
+Bảng 2 . Chế_độ quét khối của ra đa thời_tiết băng sóng C
+
+Bảng 3 . Chế_độ quét khối của ra đa thời_tiết băng sóng X
+
+b ) Chế_độ quét thẳng_đứng
+
+Bảng 4 . Chế_độ quét thẳng_đứng
+
+c ) Chế_độ quét tròn theo cung cố_định
+
+Các thông_số lấy theo chế_độ quét khối và bổ_sung thêm thông_số góc bắt_đầu và kết_thúc của cung tròn cần quan_trắc . Thông_số góc bắt_đầu và kết_thúc trong khoảng từ 0 đến 360 độ .
+
+2 . Các bước thực_hiện quan_trắc :
+
+a ) Lắp_đặt hệ_thống ;
+
+b ) Cấp điện cho hệ_thống ;
+
+c ) Khởi_động hệ_thống ra đa thời_tiết và các thiết_bị phụ_trợ ;
+
+d ) Tạo chế_độ quan_trắc , lập lịch quan_trắc và truyền số_liệu ;
+
+e ) Chạy chương_trình quan_trắc theo lịch đã thiết_lập ;
+
+g ) Hiển_thị số_liệu , sản_phẩm quan_trắc ;
+
+h ) Tháo_dỡ , đóng_gói thiết_bị ;
+
+i ) Trường_hợp ra đa thời_tiết cố_định , không thực_hiện điểm a và điểm h khoản 2 Điều này ;
+
+k ) Chi_tiết các bước thực_hiện quan_trắc theo tài_liệu kĩ_thuật của từng chủng_loại , hãng sản_xuất ra đa thời_tiết .
+
+3 . Trình_tự quan_trắc :
+
+a ) Thực_hiện chế_độ quét khối : lịch_trình được thiết_lập sẵn . Trong lịch_trình quét khối , đặt chế_độ quan_trắc cường_độ phản_hồi vô_tuyến trước . Sau khi hoàn_thành chế_độ quan_trắc cường_độ phản_hồi vô_tuyến thì chuyển sang chế_độ quan_trắc gió đốp - le ;
+
+b ) Thực_hiện chế_độ quét thẳng_đứng : căn_cứ theo nhu_cầu , mục_đích quan_trắc , chế_độ quét thẳng_đứng được thực_hiện theo lịch_trình được thiết_lập sẵn hoặc lịch_trình được thiết_lập theo yêu_cầu chuyên_môn . Lịch chế_độ quét thẳng_đứng được thực_hiện xen_kẽ trong thời_gian dừng nghỉ giữa 2 lịch_trình quét khối ;
+
+c ) Thực_hiện chế_độ quét tròn theo cung cố_định : căn_cứ nhu_cầu , mục_đích , Quyết_định quan_trắc phù_hợp .
+
+4 . Chế_độ hoạt_động và quan_trắc :
+
+a ) Chế_độ hoạt_động : liên_tục 24/24 giờ , ngoại_trừ thời_gian bảo_trì , bảo_dưỡng , kiểm chuẩn thực_hiện theo quy_định tại Thông_tư số 57/2014/TT-BTNMT ngày 10 tháng 10 năm 2014 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định kĩ_thuật về hiệu chuẩn , kiểm_tra , bảo_dưỡng , bảo_quản định_kì thiết_bị khí_tượng cao không và định mức kinh_tế - kĩ_thuật công_tác bảo_dưỡng , kiểm_tra định_kì thiết_bị khí_tượng cao không ;
+
+b ) Chế_độ quan_trắc quét khối : tần_suất tối_đa 10 phút / lần quan_trắc vào các phút tròn chục ( 0 phút , 10 phút , 20 phút . . . 50 phút ) . Các chế_độ quét thẳng_đứng và quét tròn theo cung cố_định sẽ tuỳ_thuộc nhu_cầu , mục_đích , được lựa_chọn quan_trắc với chế_độ phù_hợp .
+
+5 . Cung_cấp số_liệu
+
+Số_liệu quét ở các chế_độ quét ( quét khối , quét thẳng_đứng hoặc quét tròn theo cung cố_định nếu có ) được cung_cấp ngay sau khi quan_trắc . Trong trường_hợp đường truyền gặp sự_cố , phải cung_cấp bổ_sung khi sự_cố được khắc_phục .
+
+Điều 7 . Giao_nộp kết_quả quan_trắc và báo_cáo hoạt_động
+
+1 . Kết_quả quan_trắc của từng tháng được kiểm_soát , lưu trên vật_mang tin_học và gửi về đơn_vị quản_lí trước ngày 05 của tháng kế_tiếp .
+
+2 . Báo_cáo :
+
+a ) Báo_cáo định_kỳ : hàng tháng trạm lập báo_cáo theo mẫu quy_định tại Phụ_lục I Thông_tư này và gửi về đơn_vị quản_lí trước ngày 05 của tháng kế_tiếp ;
+
+b ) Báo_cáo đột_xuất : trường_hợp có sự_cố kĩ_thuật hoặc sau khi kết_thúc đợt quan_trắc hiện_tượng thời_tiết nguy_hiểm , trạm phải báo_cáo ngay đơn_vị quản_lí bằng điện_thoại hoặc các phương_tiện truyền tin khác ; trong thời_hạn 3 ngày , gửi báo_cáo bằng văn_bản đến đơn_vị trên .
+
+3 . Đối_với trạm thuộc mạng_lưới trạm khí_tượng thuỷ_văn chuyên_dùng : thực_hiện theo Quy_định về quan_trắc và cung_cấp thông_tin , dữ_liệu khí_tượng thuỷ_văn đối_với trạm khí_tượng thuỷ_văn chuyên_dùng .
+
+Chương_iii
+
+Quan_trắc_ô - dôn - Bức_xạ Cực_tím
+
+Điều 8 . Vị_trí , công_trình quan_trắc
+
+Thực_hiện theo quy_định tại nội_dung 4 . 3 và 5 . 3 của Tcvn 12635 - 4 : 2021 , Phần 4 : Vị_trí , công_trình quan_trắc đối_với trạm khí_tượng trên cao , ô - dôn - bức_xạ cực tím và ra đa thời_tiết .
+
+Điều 9 . Yếu_tố , đơn_vị đo và sai_số
+
+1 . Yếu_tố , đơn_vị đo :
+
+a ) Tổng_lượng ô - dôn khí_quyển : đơn_vị đo Du ( Dobson ) .
+
+Đơn_vị Dobson là đơn_vị đo_lường ô - dôn trong khí_quyển , đặc_biệt là trong tầng bình lưu . Một đơn_vị Dobson bằng 2 , 69 x 1016 phân_tử ô - dôn trên một xen - ti - mét_vuông hay 2 , 69 1020 phân_tử ô - dôn trên một mét_vuông , tương_đương với một lớp ô - dôn dày 10-5 m trong điều_kiện nhiệt_độ và khí_áp tiêu_chuẩn ( 0 C và 100 kPa ) ;
+
+b ) Cường_độ bức_xạ cực tím : đơn_vị đo mW / m2 .
+
+2 . Sai_số cho phép
+
+Thực_hiện theo điểm 7 . 1 , Tcvn 12636 - 5 : 2020 , Phần 5 - Quan_trắc tổng_lượng ô - dôn khí_quyển và bức_xạ cực tím .
+
+Điều 10 . Quan_trắc và cung_cấp số_liệu
+
+Thiết_bị quan_trắc tổng_lượng ô - dôn khí_quyển và cường_độ bức_xạ cực tím hoạt_động 24/24 giờ , thực_hiện quan_trắc từ khi mặt_trời mọc đến khi mặt_trời lặn . Số_liệu cung_cấp trực_tuyến về địa_chỉ quy_định .
+
+Điều 11 . Giao_nộp kết_quả quan_trắc và báo_cáo hoạt_động
+
+1 . Số_liệu cung_cấp theo quy_định ngay sau khi quan_trắc ; kết_quả quan_trắc của từng tháng được kiểm_soát , tổng_hợp và gửi về đơn_vị quản_lí trước ngày 03 của tháng kế_tiếp .
+
+2 . Báo_cáo :
+
+a ) Báo_cáo định_kỳ : hàng tháng trạm lập báo_cáo theo mẫu quy_định tại Phụ_lục Ii Thông_tư này và gửi về đơn_vị quản_lí trước ngày 03 của tháng kế_tiếp ;
+
+b ) Báo_cáo đột_xuất : trường_hợp có sự_cố kĩ_thuật hoặc sự_cố khi quan_trắc , trạm phải báo_cáo ngay đơn_vị quản_lí bằng điện_thoại hoặc các phương_tiện truyền tin khác ; trong thời_hạn 3 ngày , gửi báo_cáo bằng văn_bản đến đơn_vị quản_lí trực_tiếp để xử_lý .
+
+3 . Đối_với trạm thuộc mạng_lưới trạm khí_tượng thuỷ_văn chuyên_dùng : thực_hiện theo Quy_định về quan_trắc và cung_cấp thông_tin , dữ_liệu khí_tượng thuỷ_văn đối_với trạm khí_tượng thuỷ_văn chuyên_dùng .
+
+Chương_iv
+
+Tổ_chức Thực_hiện
+
+Điều 12 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành từ ngày 12 tháng 12 năm 2022 .
+
+2 . Thông_tư này thay_thế Thông_tư số 44/2017/TT-BTNMT ngày 23 tháng 10 năm 2017 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định kĩ_thuật về quan_trắc ra đa thời_tiết và ô dôn - bức_xạ cực tím .
+
+Điều 13 . Trách_nhiệm thi_hành
+
+1 . Tổng_cục_trưởng Tổng_cục Khí_tượng Thuỷ_văn có trách_nhiệm kiểm_tra , hướng_dẫn việc thực_hiện Thông_tư này .
+
+2 . Các Bộ , cơ_quan ngang Bộ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương , Sở Tài_nguyên và Môi_trường tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thực_hiện Thông_tư này . / .

@@ -1,0 +1,519 @@
+Thông_tư số 27/2020/tt-btttt ngày 30 tháng 09 năm 2020 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều Luật tiêu_chuẩn và quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về tín_hiệu truyền_hình cáp tương_tự_tại điếm kết_nối thuê_bao .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về tín_hiệu truyền_hình cáp tương_tự_tại điếm kết_nối thuê_bao ( qcvn 87 : 2020 / bt ) .
+
+Điều 2 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 4 năm 2021 .
+
+2 . Thông_tư số 08/2015/TT-BTTTT ngày 25 tháng 3 năm 2015 của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_chuẩn kĩ_thuật quốc_gia về tín_hiệu truyền_hình cáp tương_tự_tại điểm kết_nối thuê_bao hết hiệu_lực thi_hành kể từ ngày 01 tháng 4 năm 2021 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công nghê Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 87 : 2020 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Tín_hiệu_truyền_hình_cáp Tương_tự_tại Điểm Kết_nối Thuê_bao
+
+National technical regulation on analogue cable television signal at subscriber connection point
+
+Lời_nói_đầu
+
+Qcvn 87 : 2020 / bt thay_thế Qcvn 87 : 2015 / bt .
+
+Qcvn 87 : 2020 / bt do Cục Phát_thanh , truyền_hình và thông_tin điện_tử biên_soạn , Vụ Khoa_học và Công_nghệ trình_duyệt , Bộ Khoa_học và Công_nghệ thẩm_định , Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành kèm theo Thông_tư số 27/2020/TT-BTTTT ngày 30 tháng 9 năm 2020 .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Tín_hiệu_truyền_hình_cáp Tương_tự_tại Điểm Kết_nối Thuê_bao
+
+National technical regulation on analogue cable television signal at subscriber connection point
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn kĩ_thuật quốc_gia này quy_định các yêu_cầu kĩ_thuật về chất_lượng tín_hiệu truyền_hình cáp tại điểm kết_nối thuê_bao , sử_dụng công_nghệ tương_tự , hệ màu Pal B / g và Pal D / k .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn này áp_dụng đối_với các cơ_quan quản_lí nhà_nước , các doanh_nghiệp cung_cấp dịch_vụ truyền_hình cáp tương_tự_tại Việt_nam .
+
+1 . 3 . Tài_liệu viện_dẫn
+
+Tcvn 5830 : 1999 , Truyền_hình - Các thông_số cơ_bản .
+
+Tcvn 5831 : 1999 , Máy_phát hình - Các thông_số cơ_bản và phương_pháp đo .
+
+Iec 60728 - 1 ( 2014 - 05 ) , Cable networks for television signals , sound signals and interactive services - Part 1 : System performance of forward paths .
+
+Iec 60728 - 5 ( 2007 ) , Headend equipment .
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 4 . 1 . Truyền_hình cáp tương_tự ( analogue cable television )
+
+Loại truyền_hình sử_dụng phương_tiện truyền_dẫn trên mạng cáp , sử_dụng điều_chế bằng kĩ_thuật tương_tự để cung_cấp các kênh chương_trình phát_thanh , truyền_hình đến người sử_dụng dịch_vụ .
+
+1 . 4 . 2 . Tín_hiệu truyền_hình cáp tương_tự ( analogue cable television signal )
+
+Tín_hiệu cao_tần ( rf ) tổng_hợp của tín_hiệu hình và tín_hiệu tiếng đi kèm được điều_chế bằng kĩ_thuật tương_tự và được truyền_dẫn trên mạng cáp đến thiết_bị thu_hình tương_tự của thuê_bao .
+
+1 . 4 . 3 . Thuê_bao truyền_hình cáp tương_tự ( analogue cable television subscriber )
+
+Tổ_chức , cá_nhân Việt_nam hoặc nước_ngoài sử_dụng dịch_vụ truyền_hình cáp tương_tự trên lãnh_thổ Việt_nam , sau đây gọi tắt là thuê_bao .
+
+1 . 4 . 4 . Dịch_vụ truyền_hình cáp tương_tự ( analogue cable television service )
+
+Dịch_vụ ứng_dụng viễn_thông đề truyền_dẫn , phân_phối các kênh chương_trình , chương_trình truyền_hình và các dịch_vụ giá_trị gia_tăng trên hạ_tầng kĩ_thuật cung_cấp dịch_vụ truyền_hình cáp tương_tự đến thuê_bao .
+
+1 . 4 . 5 . Hạ_tầng kĩ_thuật cung_cấp dịch_vụ truyền_hình cáp tương_tự ( technical infrastructure providing analogue cable television service )
+
+Hạ_tầng mạng viễn_thông có tính_năng kĩ_thuật đáp_ứng yêu_cầu kĩ_thuật cung_cấp dịch_vụ truyền_hình cáp tương_tự .
+
+1 . 4 . 6 . Doanh_nghiệp cung_cấp dịch_vụ truyền_hình cáp tương_tự ( company providing analogue cable television service )
+
+Doanh_nghiệp cung_cấp dịch_vụ truyền_hình cáp tương_tự được hoạt_động theo các quy_định của pháp_luật Việt_nam và của Bộ Thông_tin và Truyền_thông .
+
+1 . 4 . 7 . Điểm kết_nối thuê_bao truyền_hình cáp tương_tự ( the connection point for analogue cable television subscriber )
+
+Điểm cấp tín_hiệu truyền_hình cáp tương_tự_tại vị_trí thuê_bao đăng_kí dịch_vụ truyền_hình cáp tương_tự , sau đây gọi tắt là điểm kết_nối thuê_bao .
+
+1 . 4 . 8 . Điểm tập_trung thuê_bao truyền_hình cáp tương_tự ( the focus point for analogue cable television subscriber )
+
+Điểm chuyển_đổi tín_hiệu từ hệ_thống cáp đường_trục vào hệ_thống cáp phân_phối ( Hub ) hoặc vào trung_tâm xử_lí và chuyển_tiếp tín_hiệu ( Sub_headend ) , sau đây gọi tắt là điểm tập_trung thuê_bao .
+
+1 . 4 . 9 . Thiết_bị đầu_cuối thuê_bao truyền_hình cáp tương_tự ( terminal equipment for analogue cable television subscriber )
+
+Thiết_bị mà thuê_bao sử_dụng để kết_nối với điểm kết cuối của hạ_tầng kĩ_thuật truyền_hình cáp tương_tự để nhận tín_hiệu của doanh_nghiệp cung_cấp dịch_vụ .
+
+1 . 4 . 10 . Mức tín_hiệu cao_tần ( carrier levels )
+
+Mức biên_độ của tín_hiệu cao_tần hình sin sau điều_chế tại mỗi kênh truyền_hình cáp tương_tự đo được tại điểm kết_nối thuê_bao ( đơn_vị tính bằng dBpV ) .
+
+1 . 4 . 11 . Đáp tuyến biên_độ tần_số ( frequency amplitude response )
+
+Đường biểu_diễn ( theo thang logarit ) sự_biến_thiên của giá_trị biên_độ tần_số tín_hiệu ra với biên_độ tần_số tín_hiệu vào ( đơn_vị tính bằng dB ) .
+
+1 . 4 . 12 . Trễ nhóm ( group delay )
+
+Giới_hạn trễ nhóm tần_số cho phép trong kênh truyền_hình bất_kì ( đơn_vị tính bằng s ) .
+
+1 . 4 . 13 . Độ sai_lệch tần_số cao_tần ( carrier frequency deviation )
+
+Giá_trị cho phép sai_lệch tối_đa so với giá_trị tần_số trung_tâm của mỗi kênh ( đơn_vị tính bằng Hz ) .
+
+1 . 4 . 14 . Độ ổn_định tần_số ( frequency stability )
+
+Tỷ_số giữa độ lệch tần_số cực_đại và tần_số máy phát trong khoảng thời_gian xác_định trước .
+
+1 . 4 . 15 . Tỷ_số sóng mang trên tạp_âm C / n ( carrier - to - noise ratio )
+
+Tỷ_số giữa mức công_suất sóng mang trên mức công_suất tạp_âm ( đơn_vị tính bằng dB ) .
+
+1 . 4 . 16 . Độ sâu điều_chế ( depth of modulation )
+
+Tỷ_số giữa biên_độ tín_hiệu tin_tức trên tín_hiệu điều_chế .
+
+1 . 4 . 17 . Mức xung đồng_bộ sau giải điều_chế ( sync pulse level after demodulation )
+
+Giá_trị của mức xung đồng_bộ sau giải điều_chế .
+
+1 . 4 . 18 . Méo khuếch_đại_vi sai ( differential amplifier distortion )
+
+Tỷ_số giữa mức chênh_lệch biên_độ tải màu trên tổng biên_độ tải màu lớn nhất và nhỏ nhất .
+
+1 . 4 . 19 . Méo pha vi sai ( differential phase distortion )
+
+Tỷ_số giữa giá_trị đỉnh - đỉnh của sự thay_đổi pha của các tín_hiệu sóng mang màu trên tín_hiệu bậc thang lồng tín_hiệu sóng mang màu .
+
+1 . 4 . 20 . Tỷ_số tín_hiệu trên tạp_âm - S / n ( signal - to - noise ratio )
+
+Tỷ_số biểu_thị cường_độ tương_đối của tín_hiệu so với nhiễu nền trong kênh .
+
+1 . 4 . 21 . Sai_lệch đáp tuyến biên_độ tần_số tín_hiệu hình ( frequency deviation amplitude response for video signal )
+
+Chỉ_tiêu đánh_giá độ sai_lệch đáp tuyến biên_độ tần_số tín_hiệu hình trên toàn băng_thông .
+
+1 . 4 . 22 . Khoảng_cách giữa tần_số sóng mang hình với tần_số sóng mang_tiếng ( space between vision carrier frequency to audio carrier frequency )
+
+Khoảng_cách từ tần_số sóng mang hình đến tần_số sóng mang_tiếng của mỗi kênh truyền_hình cáp tương_tự ( đơn_vị tính bằng MHz ) .
+
+1 . 4 . 23 . Tỷ_lệ sóng mang tín_hiệu hình và tiếng - V / a ( Vision carrier to Audio carrier ratio )
+
+Giá_trị chênh_lệch cho phép giữa công_suất sóng mang tín_hiệu hình với công_suất sóng mang tín_hiệu tiếng của mỗi kênh truyền_hình cáp tương_tự .
+
+1 . 4 . 24 . Băng_thông của mỗi kênh ( bandwidth per channel )
+
+Độ rộng phổ tần_số cho phép của mỗi kênh ( đơn_vị tính bằng MHz ) .
+
+1 . 4 . 25 . Độ_di_tần tiếng ( audio frequency deviation )
+
+Độ sai_lệch cho phép giữa tần_số tín_hiệu tiếng và tần_số sóng mang_tiếng của tín_hiệu truyền_hình cáp tương_tự sau khi điều_chế .
+
+1 . 4 . 26 . Sai_lệch đáp tuyến biên_độ tần_số_âm_thanh ( frequency deviation amplitude response for sound signal )
+
+Tỷ_số biểu_thị cường_độ tương_đối của tín_hiệu âm_thanh so với nhiễu nền trong kênh
+
+1 . 4 . 27 . Thiết_bị thu đo chuyên_dùng
+
+Thiết_bị đo có tính_năng đo các chỉ_tiêu kĩ_thuật tương_ứng và được kiểm_định bởi cơ_quan , tổ_chức có thẩm_quyền .
+
+1 . 4 . 28 . Trung_tâm thu phát tập_trung kênh chương_trình ( Headend )
+
+Địa_điểm doanh_nghiệp thiết_lập để tiếp_nhận , xử_lí và cung_cấp kênh chương_trình từ đơn_vị cung_cấp nội_dung tới trung_tâm thu phát địa_phương và thuê_bao .
+
+1 . 4 . 28 . Trung_tâm thu phát tập địa_phương ( Sub - Headend )
+
+Địa_điểm doanh_nghiệp thiết_lập đề tiếp_nhận , xử_lí và cung_cấp kênh chương_trình từ trung_tâm thu phát tập_trung kênh chương_trình vả kênh chương_trình địa_phương ( nếu có ) tới thuê_bao .
+
+1 . 5 . Chữ_viết tắt
+
+1 . 8 . Điểm đo và số_lượng mẫu đo
+
+Điểm đo tín_hiệu truyền_hình cáp tương_tự được xác_định là tại điểm kết_nối thuê_bao .
+
+Số_lượng mẫu đo : 01 mẫu / điểm tập_trung thuê_bao .
+
+Trường_hợp cơ_quan quản_lí nhà_nước thực_hiện đo kiểm phục_vụ_việc kiểm_tra , giám_sát theo quy_định , số_lượng mẫu đo tại điểm tập_trung thuê_bao có_thể nhiều hơn nhưng không quá số_lượng thuê_bao có trong điểm tập_trung thuê_bao .
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Băng tần hoạt_động
+
+Băng tần Vhf , Uhf .
+
+2 . 2 . Mức tín_hiệu cao_tần
+
+2 . 2 . 1 . Chỉ_tiêu
+
+Tại dải_tần_số Vhf , Uhf mức tín_hiệu cao_tần phải nằm trong khoảng từ 60 dB V 80 dB 3v .
+
+2 . 2 . 2 . Phương_pháp xác_định
+
+Sử_dụng thiết_bị đo chuyên_dùng đề xác_định_mức tín_hiệu cao_tần của tín_hiệu thu được tại điểm kết_nối thuê_bao .
+
+Sơ_đồ đo như Hình 1 .
+
+Hình 1 - Sơ_đồ đo tín_hiệu cao_tần
+
+2 . 3 . Đáp tuyến tần_số trong một kênh truyền_hình
+
+2 . 3 . 1 . Đáp tuyến biên_độ
+
+2 . 3 . 1 . 1 . Chỉ_tiêu
+
+Đáp tuyến biên_độ thay_đổi trong kênh truyền_hình bất_kì không vượt quá giá_trị trong Bảng 1 .
+
+Bảng 1 - Sự thay đồi đáp tuyến biên_độ tần_số
+
+2 . 3 . 1 . 2 . Phương_pháp xác_định
+
+Sử_dụng máy đo chuyên_dùng để xác_định đáp tuyến biên_độ tần_số trong một kênh truyền_hình thu được tại điểm kết_nối thuê_bao . Giá_trị đáp tuyến biên_độ trong một kênh tần_số đọc trực_tiếp trên máy đo .
+
+Sơ_đồ đo như Hình 2 .
+
+Hình 2 - Sơ_đồ đo đáp tuyến tần_số trong một kênh truyền_hình
+
+2 . 3 . 2 . Trễ nhóm
+
+2 . 3 . 2 . 1 . Chỉ_tiêu
+
+Trễ nhóm trong mức giới_hạn ( 500 x 10-9) s .
+
+2 . 3 . 2 . 2 . Phương_pháp xác_định
+
+Sử_dụng máy đo chuyên_dùng để xác_định trễ nhóm tần_số trong mỗi kênh truyền_hình cáp thu được tại điểm kết_nối thuê_bao .
+
+Tín_hiệu cần đo
+
+Sơ_đồ đo như Hình 3 .
+
+Hình 3 - Sơ_đồ đo trễ nhóm
+
+2 . 4 . Độ sai_lệch tần_số cao_tần
+
+2 . 4 . 1 . Chỉ_tiêu
+
+Dải_tần_số Vhf / uhf : 30 kHz .
+
+2 . 4 . 2 . Phương_pháp xác_định
+
+Sử_dụng máy đo chuyên_dùng để xác_định độ sai_lệch tần_số cao_tần tại điểm kết_nối thuê_bao .
+
+Giá_trị tần_số đọc trên máy đo tần_số , số lần đo không ít hơn 5 .
+
+Độ sai_lệch tần_số được tính theo công_thức sau :
+
+trong đó :
+
+fCT : Tần_số công_tác của máy phát .
+
+fTB : Tần_số trung_bình của các lần đo .
+
+Sơ_đồ đo như Hình 4 .
+
+Hình 4 - Sơ_đồ đo sai_lệch tần_số cao_tần
+
+2 . 5 . Độ ổn_định tần_số cao_tần
+
+2 . 5 . 1 . Chỉ_tiêu
+
+Độ ổn_định tần_số 10-6.
+
+2 . 5 . 2 . Phương_pháp xác_định
+
+Sử_dụng máy đo như trong 2 . 4 . 2 để đo độ ổn_định tần_số cao_tần , số lần đo không ít hơn 5 .
+
+Độ ổn_định tần_số ( s ) được xác_định theo công_thức sau :
+
+trong đó :
+
+fCT : Tần_số công_tác của máy phát .
+
+( fmax là tần_số lớn nhất và fmin là tần_số bé nhất của các tần_số_đo được )
+
+Sơ_đồ đo như Hình 4 .
+
+2 . 6 . Tỷ_số công_suất sóng mang hình trên tạp_âm
+
+2 . 6 . 1 . Chỉ_tiêu
+
+C / n 43 dB
+
+2 . 6 . 2 . Phương_pháp xác_định
+
+Sử_dụng máy đo chuyên_dùng để đo tỉ_số C / n . Điều_chỉnh máy đo ( máy phân_tích phổ ) về kênh cần đo , lựa_chọn tần_số trung_tâm và cài_đặt mức để có_thể hiển_thị toàn_bộ băng tần . Thiết_lập mức phân_giải của máy phân_tích phổ tới 100 kHz và thiết_lập băng tần video đến 100 Hz .
+
+Đo mức đỉnh của tín_hiệu cần đo , đơn_vị dB ( V ) .
+
+Ngắt tín_hiệu cần đo , điều_chỉnh cồng đầu_vào với điện_trở phù_hợp . Đo mức công_suất tạp_âm N , đơn_vị đo là dB ( V ) .
+
+Tính tỉ_lệ công_suất sóng mang hình trên công_suất tạp_âm qua công_thức :
+
+C / n = C - N
+
+Sơ_đồ đo như Hình 5 .
+
+Hình 5 - Sơ_đồ đo tỉ_số C / n
+
+2 . 7 . Yêu_cầu tín_hiệu hình
+
+2 . 7 . 1 . Độ sâu điều_chế
+
+2 . 7 . 1 . 1 . Chỉ_tiêu
+
+Mức giới_hạn ( 87 , 5 2 ) % của biên_độ tín_hiệu đỉnh - đỉnh xung đồng_bộ .
+
+2 . 7 . 1 . 2 . Phương_pháp xác_định
+
+Sử_dụng máy đo chuyên_dùng để đo độ sâu điều_chế tín_hiệu truyền_hình cáp tại điểm kết_nối thuê_bao .
+
+Độ sâu điều_chế ( m ) tính bằng phần_trăm theo công_thức sau :
+
+trong đó :
+
+Us : Biên_độ tín_hiệu
+
+Usđc : Biên_độ tín_hiệu điều_chế
+
+Sơ_đồ đo như Hình 6 .
+
+Hình 6 - Sơ_đồ đo độ sâu điều_chế và mức xung đồng_bộ
+
+2 . 7 . 2 . Mức xung đồng_bộ sau giải điều_chế
+
+2 . 7 . 2 . 1 . Chỉ_tiêu
+
+Trong mức giới_hạn ( 300 15 ) mV .
+
+2 . 7 . 2 . 2 . Phương_pháp xác_định
+
+Sử_dụng máy đo chuyên_dùng để đo mức xung đồng_bộ sau giải điều_chế tín_hiệu truyền_hình tại điểm kết_nối thuê_bao .
+
+Giá_trị mức xung đồng_bộ sạu giải điều_chế đọc trực_tiếp trên máy đo .
+
+Sơ_đồ đo như Hình 6 .
+
+2 . 7 . 3 . Méo khuếch_đại_vi sai
+
+2 . 7 . 3 . 1 . Chỉ_tiêu
+
+Trong mức giới_hạn 7 % so với giá_trị chuẩn biên_độ tín_hiệu sóng mang màu .
+
+2 . 7 . 3 . 2 . Phương_pháp xác_định
+
+Sử_dụng máy đo hiện sóng để đo méo khuếch_đại_vi sai tín_hiệu truyền_hình cáp tại điểm kết_nối thuê_bao .
+
+Điều_chỉnh máy hiện sóng ở thang đo 10 s / vạch chia ; 0 , 1 V / vạch chia .
+
+Đo xác_định biên_độ lớn nhất Amax và Amin .
+
+Méo khuếch_đại_vi sai ( dg ) tính bằng phần_trăm theo công_thức sau :
+
+Sơ_đồ đo như Hình 7 .
+
+Hình 7 - Sơ_đồ đo méo khuếch_đại_vi sai
+
+2 . 7 . 4 . Méo pha vi sai
+
+2 . 7 . 4 . 1 . Chỉ_tiêu
+
+Trong mức giới_hạn 5 độ so với giá_trị chuẩn pha tín_hiệu sóng mang màu .
+
+2 . 7 . 4 . 2 . Phương_pháp xác_định
+
+Sử_dụng máy đo chuyên_dùng đề đo méo pha vi sai tín_hiệu truyền_hình cáp tại điểm kết_nối thuê_bao .
+
+Giá_trị kết_quả đo méo pha vi sai đọc trực_tiếp trên máy đo .
+
+Sơ_đồ đo như Hình 8 .
+
+Hình 8 - Sơ_đồ đo méo pha vi sai
+
+2 . 7 . 5 . Tỷ_số tín_hiệu trên tạp_âm
+
+2 . 7 . 5 . 1 . Chỉ_tiêu
+
+S / n 45dB .
+
+2 . 7 . 5 . 2 . Phương_pháp xác_định
+
+Sử_dụng máy đo chuyên_dùng để đo Tỷ_số tín_hiệu trên tạp_âm ( s / n ) của các kênh truyền_hình cáp thu được tại điểm kết_nối thuê_bao .
+
+Tỷ_số tín_hiệu trên tạp_âm được tính theo công_thức :
+
+trong đó :
+
+So : Biên_độ của mức chói 700 mV
+
+No : Biên_độ tạp_âm
+
+Tỷ_số tín_hiệu trên tạp_âm tổng_hợp ( s / n ) : Biên_độ tạp_âm lấy giá_trị đỉnh - đỉnh và được đo trong toàn dải_tín_hiệu video ( 0 - 5 MHz ) .
+
+Sơ_đồ đo như Hình 9 .
+
+Hình 9 - Sơ_đồ đo tỉ_số S / n
+
+2 . 7 . 6 . Sai_lệch đáp tuyến biên_độ tần_số hình
+
+2 . 7 . 6 . 1 . Chỉ_tiêu
+
+Mức giới_hạn 2 dB trong dải_tần 0 MHz đến 5 MHz .
+
+2 . 7 . 6 . 2 . Phương_pháp xác_định
+
+Sử_dụng máy đo chuyên_dùng để xác_định đáp tuyến biên_độ của tín_hiệu hình trong băng_thông kênh truyền tại điểm kết_nối thuê_bao .
+
+Giá_trị độ sai_lệch đáp tuyến biên_độ tần_số hình đọc trực_tiếp trên máy đo
+
+Sơ_đồ đo như Hình 10 .
+
+Hình 10 - Sơ_đồ đo sai_lệch đáp tuyến biên_độ tần_số hình
+
+2 . 8 . Khoảng_cách giữa tần_số sóng mang hình với tần_số sóng mang_tiếng
+
+2 . 8 . 1 . Chỉ_tiêu
+
+- Hệ màu Pal B / g là 5 , 5 MHz ;
+
+- Hệ màu Pal D / k là 6 , 5 MHz .
+
+2 . 8 . 2 . Phương_pháp xác_định
+
+Sử_dụng máy chuyên_dùng để xác_định khoảng_cách giữa tần_số sóng mang hình và sóng mang_tiếng của mỗi kênh truyền_hình cáp tại điểm kết_nối thuê_bao .
+
+Sơ_đồ đo như Hình 6 .
+
+2 . 9 . Tỷ_lệ công_suất sóng mang tín_hiệu hình và tiếng
+
+2 . 9 . 1 . Chỉ_tiêu
+
+Giới_hạn trong khoảng 13 dB 16 dB .
+
+2 . 9 . 2 . Phương_pháp xác_định
+
+Sử_dụng thiết_bị chuyên_dùng để xác_định tỉ_lệ công_suất sóng mang hình và tiếng của các kênh truyền_hình cáp tại điểm kết_nối thuê_bao .
+
+Sơ_đồ đo như Hình 11 .
+
+Hình 11 - Sơ_đồ đo tỉ_số công_suất tín_hiệu sóng mang hình và tiếng
+
+2 . 10 . Băng_thông của mỗi kênh
+
+2 . 10 . 1 . Chỉ_tiêu
+
+- Với hệ màu Pal B là 7 MHz ;
+
+- Với hệ màu Pal G là 8 MHz ;
+
+- Với hệ màu Pal D / k là 8 MHz .
+
+2 . 10 . 2 . Phương_pháp xác_định
+
+Sử_dụng thiết_bị đo chuyên_dùng xác_định băng_thông của mỗi kênh truyền_hình cáp thu được tại điểm kết_nối thuê_bao .
+
+Sơ_đồ đo như Hình 12 .
+
+Hình 12 - Sơ_đồ đo băng_thông của mỗi kếnh
+
+2 . 11 . Độ_di_tần tiếng
+
+2 . 11 . 1 . Chỉ_tiêu
+
+Độ_di_tần tối_đa cho phép là 50 kHz .
+
+2 . 11 . 2 . Phương_pháp xác_định
+
+Sử_dụng thiết_bị đo chuyên_dùng để xác_định độ di_tần tiếng của mỗi kênh thu được tại điểm kết_nối thuê_bao .
+
+Sơ_đồ đo như Hình 13 .
+
+Hình 13 - Sơ_đồ đo độ di_tần tiếng
+
+2 . 12 . Sai_lệch đáp tuyến biên_độ tần_số_âm_thanh
+
+2 . 12 . 1 . Chỉ_tiêu
+
+Mức giới_hạn 1 , 5 dB đối_với biên_độ tần_số_âm_thanh từ 30 Hz đến 15 000 Hz .
+
+2 . 12 . 2 . Phương_pháp xác_định
+
+Sử_dụng thiết_bị đo chuyên_dùng xác_định độ sai_lệch đáp tuyến biên_độ tần_số_âm_thanh của mỗi kênh thu được tại điềm kết_nối thuê_bao .
+
+Sơ_đồ đo như Hình 14 .
+
+Hình 14 - Sơ_đồ đo sai_lệch đáp tuyến biên_độ tần_số_âm_thanh
+
+3 . Quy_định Về Quản_lý
+
+Tín_hiệu truyền_hình cáp tương_tự thuộc phạm_vi điều_chỉnh quy_định tại 1 . 1 phải tuân_thủ các quy_định trong Quy_chuẩn này .
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+4 . 1 . Doanh_nghiệp cung_cấp dịch_vụ truyền_hình cáp tương_tự trên lãnh_thổ Việt_nam có trách_nhiệm đảm_bảo tín_hiệu truyền_hình cáp tương_tự tuân_thủ Quy_chuẩn này .
+
+4 . 2 . Doanh_nghiệp cung_cấp dịch_vụ truyền_hình cáp tương_tự có trách_nhiệm thực_hiện công_bố chất_lượng về tín_hiệu truyền_hình cáp tương_tự theo Quy_chuẩn này và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo quy_định .
+
+4 . 3 . Trách_nhiệm của doanh_nghiệp cung_cấp dịch_vụ truyền_hình cáp tương_tự thực_hiện_tại Thông_tư số 24/2016/TT-BTTTT ngày 15 tháng 11 năm 2016 của Bộ_trưởng Bộ Thông_tin và Truyền_thông quy_định về quản_lí chất_lượng dịch_vụ phát_thanh , truyền_hình .
+
+5 . Tổ_chức Thực_hiện
+
+5 . 1 . Cục Phát_thanh , truyền_hình và thông_tin điện_tử , Cục Viễn_thông , các Sở Thông_tin và Truyền_thông có trách_nhiệm tổ_chức , hướng_dẫn , kiểm_tra các doanh_nghiệp cung_cấp dịch_vụ truyền_hình cáp tương_tự thực_hiện Quy_chuẩn này .
+
+5 . 2 . Quy_chuẩn này thay_thế cho Qcvn 87 : 2015 / bt Quy_chuẩn kĩ_thuật quốc_gia về tín_hiệu truyền_hình cáp tương_tự_tại điểm kết_nối thuê_bao .
+
+5 . 3 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện_tại văn_bản mới .
+
+5 . 4 . Trong quá_trình triển_khai thực_hiện Quy_chuẩn , nếu có vấn_đề phát_sinh , vướng_mắc , các tổ_chức và cá_nhân phản_ánh bằng văn_bản về Bộ Thông_tin và Truyền_thông ( Vụ Khoa_học và Công_nghệ ) để được hướng_dẫn , giải_quyết . / .

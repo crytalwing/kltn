@@ -1,0 +1,263 @@
+Thông_tư số 41/2017/tt-btttt ngày 19 tháng 12 năm 2017 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Giao_dịch điện_tử ngày 29 tháng 11 năm 2005 ;
+
+Căn_cứ Luật Công_nghệ thông_tin ngày 29 tháng 06 năm 2006 ;
+
+Căn_cứ Nghị_định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành Luật Giao_dịch điện_tử về chữ_kí số và dịch_vụ chứng_thực chữ_kí số ; Nghị_định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 sửa_đổi , bổ_sung một_số điều của Nghị_định số 26/2007/NĐ-CP của Chính_phủ ngày 15 tháng 02 năm 2007 ; Nghị_định số 170/2013/NĐ-CP ngày 13 tháng 11 năm 2013 sửa_đổi , bổ_sung một_số điều của Nghị_định số 26/2007/NĐ-CP ngày 15 tháng 02 năm 2007 và Nghị_định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 của Chính_phủ ;
+
+Căn_cứ Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+
+Căn_cứ Nghị_định số 01/2013/NĐ-CP ngày 03 tháng 01 năm 2013 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Lưu_trữ ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định sử_dụng chữ_kí số cho văn_bản điện_tử trong cơ_quan nhà_nước .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+1 . Thông_tư này quy_định về kí số , kiểm_tra chữ_kí số trên văn_bản điện_tử ; yêu_cầu kĩ_thuật và chức_năng của phần_mềm kí số , phần_mềm kiểm_tra chữ_kí số cho văn_bản điện_tử trong cơ_quan nhà_nước .
+
+2 . Thông_tư này không quy_định việc sử_dụng chữ_kí số cho văn_bản điện_tử chứa thông_tin thuộc danh_mục bí_mật nhà_nước .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Thông_tư này được áp_dụng đối_với các cơ_quan , tổ_chức ( bao_gồm : các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các cấp , các đơn_vị sự_nghiệp sử_dụng ngân_sách nhà_nước ) và tổ_chức , cá_nhân liên_quan sử_dụng chữ_kí số cho văn_bản điện_tử của cơ_quan nhà_nước .
+
+2 . Khuyến_khích các cơ_quan , tổ_chức khác áp_dụng .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . " Chứng_thư số cơ_quan , tổ_chức " là chứng_thư số do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số cấp cho người đứng đầu_cơ_quan , tổ_chức theo quy_định của pháp_luật .
+
+2 . " Chứng_thư số cá_nhân " là chứng_thư số do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số cấp cho các chức_danh nhà_nước , người có thẩm_quyền của cơ_quan , tổ_chức theo quy_định của pháp_luật về quản_lí và sử_dụng con_dấu .
+
+3 . " Khoá bí_mật con_dấu " là khoá bí_mật tương_ứng với chứng_thư số cơ_quan , tổ_chức .
+
+4 . " Khoá bí_mật cá_nhân " là khoá bí_mật tương_ứng với chứng_thư số cá_nhân .
+
+5 . " Chữ_kí số cơ_quan , tổ_chức " là chữ_kí số được tạo ra khi sử_dụng khoá bí_mật con_dấu .
+
+6 . " Chữ_kí số cá_nhân " là chữ_kí số được tạo ra khi sử_dụng khoá bí_mật cá_nhân .
+
+7 . " Phần_mềm kí số " là chương_trình phần_mềm có chức_năng kí số vào văn_bản điện_tử .
+
+8 . " Phần_mềm kiểm_tra chữ_kí số " là chương_trình phần_mềm có chức_năng kiểm_tra tính hợp_lệ của chữ_kí số trên văn_bản điện_tử .
+
+9 . " Tính xác_thực của văn_bản điện_tử kí số " là văn_bản điện_tử thông_qua chữ_kí số được kí số gắn với văn_bản điện_tử xác_định được người kí số hoặc cơ_quan , tổ_chức kí số vào văn_bản điện_tử .
+
+10 . " Tính toàn_vẹn của văn_bản điện_tử kí số " là văn_bản điện_tử sau khi được kí số nội_dung không bị thay_đổi trong suốt quá_trình trao_đổi , xử_lí và lưu_trữ .
+
+11 . " Hệ_thống kiểm_tra trạng_thái chứng_thư số trực_tuyến " ( ocsp ) là hệ_thống cung_cấp dịch_vụ cho phép xác_định trạng_thái hiện_thời của chứng_thư số .
+
+12 . " Thiết_bị lưu khoá bí_mật " là thiết_bị vật_lí chứa khoá bí_mật và chứng_thư số của thuê_bao .
+
+Điều 4 . Nguyên_tắc sử_dụng chữ_kí số cho văn_bản điện_tử
+
+1 . Chữ_kí số phải gắn kèm văn_bản điện_tử sau khi kí số .
+
+2 . Văn_bản điện_tử được kí số phải đảm_bảo tính xác_thực , tính toàn_vẹn xuyên suốt quá_trình trao_đổi , xử_lí và lưu_trữ văn_bản điện_tử được kí số .
+
+Điều 5 . Quản_lí khoá bí_mật cá_nhân và khoá bí_mật con_dấu
+
+1 . Người có thẩm_quyền kí số có trách_nhiệm bảo_quản an_toàn khoá bí_mật cá_nhân .
+
+2 . Người đứng đầu_cơ_quan , tổ_chức có trách_nhiệm giao cho nhân_viên văn_thư quản_lý , sử_dụng khoá bí_mật con_dấu theo quy_định .
+
+3 . Thiết_bị lưu khoá bí_mật con_dấu phải được cất_giữ an_toàn tại trụ_sở cơ_quan , tổ_chức .
+
+Chương_ii
+
+Quy_định Về Ký_số , Kiểm_tra Chữ_ký Số Trên Văn_bản Điện_tử Trong Cơ_quan Nhà_nước
+
+Điều 6 . Ký số trên văn_bản điện_tử
+
+1 . Việc kí số được thực_hiện thông_qua phần_mềm kí số ; việc kí số vào văn_bản điện_tử thành_công hoặc không thành_công phải được thông_báo thông_qua phần_mềm .
+
+2 . Ký số trên văn_bản điện_tử
+
+a ) Trường_hợp quy_định người có thẩm_quyền kí số trên văn_bản điện_tử , thông_qua phần_mềm kí số , người có thẩm_quyền sử_dụng khoá bí_mật cá_nhân để thực_hiện việc kí số vào văn_bản điện_tử ;
+
+b ) Trường_hợp quy_định cơ_quan , tổ_chức kí số trên văn_bản điện_tử , thông_qua phần_mềm kí số , văn_thư được giao sử_dụng khoá bí_mật con_dấu của cơ_quan , tổ_chức để thực_hiện việc kí số vào văn_bản điện_tử ;
+
+3 . Hiển_thị thông_tin về chữ_kí số của người có thẩm_quyền và chữ_kí số của cơ_quan , tổ_chức trên văn_bản điện_tử thực_hiện theo quy_định của Bộ Nội_vụ .
+
+4 . Thông_tin về người có thẩm_quyền kí số , cơ_quan , tổ_chức kí số phải được quản_lí trong cơ_sở dữ_liệu đi kèm phần_mềm kí số . Nội_dung thông_tin quản_lí quy_định tại khoản 4 , Điều 1 , Nghị_định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 của Chính_phủ .
+
+Điều 7 . Kiểm_tra chữ_kí số trên văn_bản điện_tử
+
+1 . Kiểm_tra chữ_kí số trên văn_bản điện_tử thực_hiện như sau :
+
+a ) Giải_mã chữ_kí số bằng khoá công_khai tương_ứng ;
+
+b ) Kiểm_tra , xác_thực thông_tin của người kí số trên chứng_thư số gắn kèm văn_bản điện_tử ; việc kiểm_tra , xác_thực thông_tin người kí số được thực_hiện theo Điều 8 Thông_tư này ;
+
+c ) Kiểm_tra tính toàn_vẹn của văn_bản điện_tử kí số .
+
+2 . Chữ_kí số trên văn_bản điện_tử là hợp_lệ khi việc kiểm_tra , xác_thực thông_tin về chứng_thư số của người kí số tại thời_điểm kí còn hiệu_lực , chữ_kí số được tạo ra đúng bởi khoá bí_mật tương_ứng với khoá công_khai trên chứng_thư số và văn_bản điện_tử đảm_bảo tính toàn_vẹn .
+
+3 . Thông_tin về người kí số ; cơ_quan , tổ_chức kí số trên văn_bản điện_tử phải được quản_lí trong cơ_sở dữ_liệu đi kèm phần_mềm kiểm_tra chữ_kí số . Nội_dung thông_tin quản_lí quy_định tại khoản 4 , Điều 1 , Nghị_định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 của Chính_phủ .
+
+Điều 8 . Kiểm_tra hiệu_lực của chứng_thư số
+
+1 . Thực_hiện kiểm_tra hiệu_lực của chứng_thư số tại thời_điểm kí số thực_hiện theo các bước sau :
+
+a ) Kiểm_tra hiệu_lực chứng_thư số qua danh_sách chứng_thư số bị thu_hồi ( crl ) được công_bố tại thời_điểm kí số hoặc kiểm_tra hiệu_lực chứng_thư số bằng phương_pháp kiểm_tra trạng_thái chứng_thư số trực_tuyến ( ocsp ) ở chế_độ trực_tuyến ;
+
+b ) Việc kiểm_tra chứng_thư số của người kí số trên văn_bản điện_tử phải kiểm_tra đến tận tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số gốc ( Root_ca ) .
+
+2 . Chứng_thư số có hiệu_lực khi đáp_ứng tất_cả các tiêu_chí sau :
+
+a ) Có hiệu_lực tại thời_điểm ký ;
+
+b ) Phù_hợp phạm_vi sử_dụng của chứng_thư số và trách_nhiệm pháp_lí của người ký ;
+
+c ) Trạng_thái của chứng_thư số còn hoạt_động tại thời_điểm kí số .
+
+3 . Chứng_thư số không có hiệu_lực khi không đáp_ứng một trong các tiêu_chí tại khoản 2 Điều này .
+
+Điều 9 . Thông_tin lưu_trữ kèm theo văn_bản điện_tử kí số
+
+1 . Thông_tin lưu_trữ kèm theo văn_bản điện_tử kí số , bao_gồm :
+
+a ) Đối_với văn_bản gửi đi :
+
+- Chứng_thư số của người kí số tại thời_điểm ký ;
+
+- Danh_sách chứng_thư số thu_hồi tại thời_điểm kí của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số ;
+
+- Quy_chế chứng_thực của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số vào thời_điểm ký ;
+
+- Thông_tin về trách_nhiệm của người ký ;
+
+- Chứng_thực dấu thời_gian hợp_lệ vào thời_điểm ký .
+
+b ) Đối_với văn_bản đến :
+
+- Các chứng_thư số tương_ứng với các chữ_kí số trên văn_bản điện_tử đến ;
+
+- Danh_sách thu_hồi chứng_thư số vào thời_điểm kí của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số ;
+
+- Quy_chế chứng_thực của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số vào thời_điểm ký ;
+
+- Thông_tin về trách_nhiệm của người ký ;
+
+- Chứng_thực dấu thời_gian hợp_lệ vào thời_điểm nhận .
+
+3 . Thông_tin lưu_trữ kèm theo văn_bản điện_tử được quản_lí bằng phần_mềm kí số , phần_mềm kiểm_tra chữ_kí số phù_hợp_thời_gian lưu_trữ của văn_bản điện_tử theo quy_định .
+
+Điều 10 . Huỷ_bỏ thông_tin lưu_trữ kèm theo văn_bản điện_tử kí số
+
+1 . Thông_tin lưu_trữ kèm theo văn_bản điện_tử bị huỷ_bỏ đồng_thời với văn_bản điện_tử .
+
+2 . Việc huỷ_bỏ thông_tin lưu_trữ kèm theo văn_bản điện_tử kí số không được làm ảnh_hưởng đến các văn_bản điện_tử khác và đảm_bảo sự hoạt_động bình_thường của hệ_thống .
+
+3 . Huỷ_bỏ thông_tin lưu_trữ kèm theo văn_bản điện_tử kí số được thực_hiện bằng phần_mềm .
+
+Chương_iii
+
+Yêu_cầu Kỹ_thuật Và Chức_năng Đối_với Phần_mềm Ký_số , Kiểm_tra Chữ_ký_số
+
+Điều 11 . Yêu_cầu kĩ_thuật và chức_năng đối_với phần_mềm kí số
+
+Phần_mềm kí số_là phần_mềm độc_lập hoặc một thành_phần ( module ) phần_mềm đáp_ứng các yêu_cầu sau :
+
+1 . Đáp_ứng các tiêu_chuẩn , quy_chuẩn kĩ_thuật quy_định tại phụ_lục kèm theo Thông_tư này ;
+
+2 . Có các chức_năng kí số trên văn_bản điện_tử đáp_ứng quy_định tại khoản 2 , 3 và 4 Điều 6 Thông_tư này ;
+
+3 . Có chức_năng kiểm_tra hiệu_lực chứng_thư số quy_định tại Điều 8 Thông_tư này ;
+
+4 . Có chức_năng quản_lí thông_tin lưu_trữ kèm theo văn_bản điện_tử kí số quy_định tại Điều 9 Thông_tư này ;
+
+5 . Có chức_năng huỷ_bỏ thông_tin lưu_trữ kèm theo văn_bản điện_tử kí số quy_định tại Điều 10 Thông_tư này ;
+
+6 . Có chức_năng thông_báo ( bằng chữ / bằng kí_hiệu ) cho người kí số biết việc kí số vào văn_bản điện_tử thành_công hay không thành_công ;
+
+7 . Hỗ_trợ cài_đặt , tích_hợp chứng_thư số gốc của tổ_chức chứng_thực chữ_kí số cấp chứng_thư số để kí số văn_bản điện_tử vào phần_mềm kí số để kiểm_tra hiệu_lực chứng_thư số trên văn_bản điện_tử ;
+
+8 . Đóng_dấu thời_gian tại thời_điểm kí số .
+
+Điều 12 . Yêu_cầu kĩ_thuật và chức_năng đối_với phần_mềm kiểm_tra chữ_kí số
+
+Phần_mềm kiểm_tra chữ_kí số_là phần_mềm độc_lập hoặc một thành_phần ( module ) phần_mềm có các chức_năng kiểm_tra chữ_kí số trên văn_bản điện_tử đáp_ứng các yêu_cầu sau :
+
+1 . Đáp_ứng các tiêu_chuẩn , quy_chuẩn kĩ_thuật quy_định tại phụ_lục kèm theo Thông_tư này ;
+
+2 . Có chức_năng kiểm_tra chữ_kí số trên văn_bản điện_tử quy_định tại khoản 1 , 2 và 3 Điều 7 Thông_tư này ;
+
+3 . Có chức_năng quản_lí thông_tin lưu_trữ kèm theo văn_bản điện_tử kí số quy_định tại Điều 9 Thông_tư này ;
+
+4 . Có chức_năng huỷ_bỏ thông_tin kèm theo văn_bản điện_tử kí số quy_định tại Điều 10 Thông_tư này ;
+
+5 . Hỗ_trợ cài_đặt , tích_hợp chứng_thư số gốc của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số cấp chứng_thư số để kí số văn_bản điện_tử vào phần_mềm kiểm_tra chữ_kí số để kiểm_tra chữ_kí số trên văn_bản điện_tử ;
+
+6 . Có chức_năng thông_báo kết_quả kiểm_tra chữ_kí số là hợp_lệ hoặc không hợp_lệ cho người kiểm_tra biết ;
+
+7 . Đóng_dấu thời_gian tại thời_điểm tiếp_nhận văn_bản đến .
+
+Chương_iv
+
+Tổ_chức Thực_hiện
+
+Điều 13 . Trách_nhiệm của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số
+
+1 . Lưu_trữ đầy_đủ , chính_xác , cập_nhật , công_bố toàn_bộ các thông_tin sau đây trên trang tin điện_tử ( website ) của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số và trang tin điện_tử phải đảm_bảo hoạt_động 24 giờ trong ngày và 7 ngày trong tuần ( để hỗ_trợ xác_định_tính hợp_lệ của chữ_kí số trên văn_bản điện_tử )
+
+a ) Thông_tin liên_quan đến hoạt_động tạm dừng , thu_hồi chứng_thư số và các chứng_thư số bị thu_hồi của thuê_bao ;
+
+b ) Thông_tin liên_quan đến chứng_thư số của thuê_bao , danh_sách các chứng_thư số có hiệu_lực hoặc đã hết hiệu_lực ;
+
+c ) Quy_chế chứng_thực của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số .
+
+2 . Công_bố các đặc_tả kĩ_thuật ( cả tài_liệu và bộ công_cụ ) liên_quan đến tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số và các tiêu_chuẩn chữ_kí số ; cung_cấp chứng_thư số gốc của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số cho các nhà phát_triển phần_mềm để tích_hợp vào phần_mềm kiểm_tra chữ_kí số .
+
+3 . Khuyến_khích tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số cung_cấp dịch_vụ kiểm_tra trạng_thái chứng_thư số trực_tuyến ( ocsp ) .
+
+4 . Cung_cấp dịch_vụ cấp dấu thời_gian .
+
+Điều 14 . Trách_nhiệm của cơ_quan , tổ_chức sử_dụng chữ_kí số cho văn_bản điện_tử .
+
+1 . Ứng_dụng phần_mềm kí số , phần_mềm kiểm_tra chữ_kí số quy_định tại các Điều 11 và 12 Thông_tư này .
+
+2 . Triển_khai kết_nối_mạng theo quy_định tại khoản 3 , Điều 8 , Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính_phủ đảm_bảo_an_toàn , bảo_mật và tính sẵn_sàng cao .
+
+3 . Tổ_chức quản_lí các sản_phẩm phần_mềm ( theo phiên_bản ) có chức_năng kí số , kiểm_tra chữ_kí số , lưu_trữ thông_tin kèm theo văn_bản điện_tử kí số tương_ứng với tiêu_chuẩn , quy_chuẩn kĩ_thuật về chữ_kí số mà phần_mềm hỗ_trợ nhằm đảm_bảo tính sẵn_sàng , tương_thích và an_toàn bảo_mật trong quá_trình sử_dụng văn_bản điện_tử kí số đã lưu_trữ .
+
+Điều 15 . Trách_nhiệm của người đứng đầu_cơ_quan , tổ_chức sử_dụng chữ_kí số
+
+1 . Thực_hiện trách_nhiệm của người đứng đầu quy_định tại khoản 1 , Điều 8 , Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính_phủ .
+
+2 . Thường_xuyên kiểm_tra nhằm đảm_bảo việc quản_lý , sử_dụng chữ_kí số , chứng_thư số tại cơ_quan , tổ_chức mình được thực_hiện theo Thông_tư này và các quy_định khác có liên_quan .
+
+3 . Căn_cứ vào yêu_cầu tổ_chức , nghiệp_vụ và đảm_bảo_an_toàn thông_tin trong giao_dịch điện_tử đề_xuất cấp , thu_hồi , tạm dừng chứng_thư số cá_nhân và chứng_thư số cơ_quan , tổ_chức thuộc quyền quản_lý .
+
+4 . Khi có yêu_cầu chuyển_đổi văn_bản điện_tử kí số đang được lưu_trữ sang định_dạng tệp văn_bản mới ( vì nguyên_nhân an_toàn thông_tin hoặc vì sự lỗi_thời của phần_cứng , phần_mềm ) , phải xây_dựng phương_án và được phê_duyệt bởi cơ_quan chuyên_trách về công_nghệ thông_tin , đảm_bảo khả_năng tương_thích và xác_thực hiệu_lực của chữ_kí số .
+
+Điều 16 . Điều_khoản chuyển_tiếp
+
+Chậm nhất sau 12 tháng kể từ ngày Thông_tư có hiệu_lực thi_hành , các cơ_quan , tổ_chức đang sử_dụng các phần_mềm có chức_năng kí số , kiểm_tra chữ_kí số chưa đáp_ứng yêu_cầu kĩ_thuật và chức_năng quy_định tại Thông_tư này thực_hiện việc nâng_cấp , bổ_sung phần_mềm kí số , phần_mềm kiểm_tra chữ_kí số để đáp_ứng quy_định .
+
+Điều 17 . Điều_khoản thi_hành
+
+1 . Trung_tâm Chứng_thực điện_tử quốc_gia có trách_nhiệm chủ_trì , phối_hợp với Vụ Pháp_chế và các đơn_vị có liên_quan hướng_dẫn , hỗ_trợ kĩ_thuật việc thực_hiện các nội_dung của Thông_tư này .
+
+2 . Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương , các đơn_vị chuyên_trách về công_nghệ thông_tin các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ có trách_nhiệm :
+
+a ) Phổ_biến việc thực_hiện các quy_định của Thông_tư này ;
+
+b ) Hàng năm báo_cáo Bộ Thông_tin và Truyền_thông ( Trung_tâm Chứng_thực điện_tử quốc_gia ) về tình_hình sử_dụng chữ_kí số cho văn_bản điện_tử tại cơ_quan , tổ_chức .
+
+Điều 18 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 05 tháng 02 năm 2018 .
+
+2 . Chánh Văn_phòng , Giám_đốc Trung_tâm Chứng_thực điện_tử quốc_gia , cơ_quan , tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+4 . Trong quá_trình thực_hiện , nếu có khó_khăn , vướng_mắc , các cơ_quan , tổ_chức và cá_nhân phản_ánh kịp_thời về Bộ Thông_tin và Truyền_thông ( Trung_tâm Chứng_thực điện_tử quốc_gia ) để xem_xét , giải_quyết . / .

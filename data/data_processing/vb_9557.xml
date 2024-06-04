@@ -1,0 +1,499 @@
+Thông_tư số 36/2015/tt-btttt ngày 23 tháng 12 năm 2015 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 132/2013/NĐ-CP ngày 16 tháng 10 năm 2013 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị Adsl2 và Adsl2 + .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị Adsl2 và Adsl2 + ( qcvn 98 : 2015 / bt ) .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2016 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 98 : 2015 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Thiết_bị Đầu_cuối Adsl2 Và Adsl2 +
+
+National technical regulation on Adsl2 and Adsl2 + transceiver
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Các yêu_cầu chung
+
+2 . 2 . Yêu_cầu đối_với thiết_bị đầu_cuối Adsl ( atu - r ) - loại Adsl2
+
+2 . 3 . Yêu_cầu đối_với thiết_bị đầu_cuối Adsl ( atu - r ) - loại Adsl2 +
+
+3 . Phương_pháp_đo
+
+3 . 1 . Đáp_ứng băng_thông
+
+3 . 2 . Tổng_công_suất phát
+
+3 . 3 . Điện_trở một_chiều
+
+3 . 4 . Trở_kháng
+
+3 . 5 . Cân_bằng dọc
+
+3 . 6 . Suy_hao xen và méo suy hao xen
+
+3 . 7 . Tốc_độ truyền_dẫn hướng lên ( hoặc tốc_độ truyền_dẫn hướng xuống )
+
+3 . 8 . Mặt_nạ Psd
+
+4 . Quy_định Về Quản_lý
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+6 . Tổ_chức Thực_hiện
+
+Thư_mục_tài_liệu Tham_khảo
+
+Lời_nói_đầu
+
+Qcvn 98 : 2015 / bt được xây_dựng trên cơ_sở Tcvn 8077 : 2009 Thiết_bị thu phát trên đường_dây thuê_bao số không đối_xứng ( adsl ) 2 và 2 + - Yêu_cầu kĩ_thuật .
+
+Các quy_định kĩ_thuật và phương_pháp đo phù_hợp với các Khuyến_nghị G . 992 . 3 ( 04 - 2009 ) và G . 992 . 5 ( 01 - 2009 ) của Liên_minh viễn_thông quốc_tế ( itu ) và Etsi Ts 101 388 V1 . 4 . 1 của Viện Tiêu_chuẩn viễn_thông châu Âu ( etsi ) .
+
+Qcvn 98 : 2015 / bt do Viện Khoa_học Kỹ_thuật Bưu_điện biên_soạn , Vụ Khoa_học và Công_nghệ thẩm_định và trình_duyệt , Bộ Thông_tin và Truyền_thông ban_hành kèm theo Thông_tư số 36/2015/TT-BTTTT ngày 23 tháng 12 năm 2015 .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Thiết_bị Đầu_cuối Adsl2 Và Adsl2 +
+
+National technical regulation on Adsl2 and Adsl2 + transceiver
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn này quy_định các yêu_cầu kĩ_thuật đối_với thiết_bị đầu_cuối Adsl loại Adsl2 và Adsl2 + hỗ_trợ truyền_tải đồng_thời các dịch_vụ thoại và các kênh tải tin trên nền Pots trên một đôi dây kim_loại , ghép song công , phân_chia theo tần_số ( fdd ) .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn này được áp_dụng đối_với các tổ_chức , cá_nhân Việt_nam và nước_ngoài có hoạt_động_sản_xuất , kinh_doanh các thiết_bị thuộc phạm_vi điều_chỉnh của Quy_chuẩn này trên lãnh_thổ Việt_nam .
+
+1 . 3 . Tài_liệu viện_dẫn
+
+Qcvn 22 : 2010 / bt : Quy_chuẩn kĩ_thuật quốc_gia về an_toàn điện cho các thiết_bị đầu_cuối viễn_thông .
+
+Tcvn 7189 : 2009 : Thiết_bị công_nghệ thông_tin - Đặc_tính nhiễu tần_số vô_tuyến - Giới_hạn và phương_pháp đo .
+
+Itu - t G992 . 1 : 1999 Asymmetric digital subscriber line ( adsl ) .
+
+Itu - t G996 . 1 : 2001 Test procedures for digital subscriber line ( dsl ) transceivers .
+
+Itu - t O . 42 : 1988 Equipment to measure non - linear distortion using the 4-tone intermodulation method .
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 4 . 1 . Đường_dây Adsl
+
+Đường_dây Adsl được đặc_trưng bằng một đường_dây truyền_dẫn kim_loại sử_dụng thuật_toán mã_hoá tương_tự . Thuật_toán mã_hoá này cho phép giám_sát việc truyền_dẫn tín_hiệu_số và tín_hiệu tương_tự trên toàn_bộ đường_dây . Đường_dây Adsl được giới_hạn bởi hai điểm đầu_cuối , chúng được gọi là các điểm kết cuối đường_dây . Các điểm kết cuối đường_dây Adsl là các điểm mà ở đó việc sử_dụng thuật_toán mã_hoá tương_tự kết_thúc và tín_hiệu_số sau đó được giám_sát để đảm_bảo tính toàn_vẹn . Đường_dây Adsl được xác_định giữa điểm tham_chiếu a và b ( xem Hình 1 ) .
+
+1 . 4 . 2 . Hướng lên
+
+Hướng truyền_tải dữ_liệu từ Atu - r đến Atu - c ( xem Hình 1 ) .
+
+1 . 4 . 3 . Hướng xuống
+
+Hướng truyền_tải dữ_liệu từ Atu - c đến Atu - r ( xem Hình 1 ) .
+
+1 . 4 . 4 . Tip và Ring
+
+Tip và Ring là 2 phần của đầu cắm điện_thoại . Tip là đầu có khấc và ring là phần hình ống tròn .
+
+1 . 4 . 5 . Tốc_độ truyền_dẫn thực
+
+Tổng_tốc_độ dữ_liệu truyền trên toàn_bộ kênh tải tin qua tất_cả các tuyến truyền_dẫn theo một hướng nào đó .
+
+1 . 4 . 6 . Trạng_thái truyền_dẫn
+
+Trạng_thái của Atu - c hoặc Atu - r đạt được sau khi tất_cả các quá_trình khởi tạo và chạy thử được hoàn_tất . Ở trạng_thái này , dữ_liệu được truyền trên các kênh tải tin .
+
+Hình 1 - Mô_hình chức_năng của Atu
+
+Hình 2 - Mô_hình tham_chiếu đối_với trường_hợp dùng bộ chia ở đầu xa
+
+Hình 3 - Mô_hình tham_chiếu đối_với trường_hợp không dùng bộ chia ở đầu xa
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Các yêu_cầu chung
+
+Các thiết_bị đầu_cuối Adsl2 và Adsl2 + phải :
+
++ Hỗ_trợ cấu_hình Wan_ipv6 ;
+
++ Hỗ_trợ các giao_thức quản_lí Sn mp và Tr069 .
+
+2 . 1 . 1 . Yêu_cầu chung đối_với thiết_bị đầu_cuối Adsl2
+
+Thiết_bị đầu_cuối Adsl2 phải hỗ_trợ hoạt_động với các dải_phổ không chồng_lấn ( nghĩa_là ghép song công phân_chia theo tần_số - Fdd ) .
+
+Thiết_bị đầu_cuối Adsl2 phải hỗ_trợ tốc_độ truyền_dẫn thực tối_thiểu 8 Mbit / s đối_với hướng xuống và 800 kb it / s đối_với hướng lên .
+
+Thiết_bị đầu_cuối Adsl2 phải hỗ_trợ đồng_thời Adsl theo cả hai khuyến_nghị G . 992 . 1 và G . 992 . 3 .
+
+2 . 1 . 2 . Yêu_cầu chung đối_với thiết_bị đầu_cuối Adsl2 +
+
+Thiết_bị đầu_cuối Adsl2 + phải hỗ_trợ các yêu_cầu thiết_bị đầu_cuối Adsl2 và đáp_ứng các yêu_cầu sau :
+
+- Thiết_bị đầu_cuối Adsl2 + phải hỗ_trợ tốc_độ truyền_dẫn thực tối_thiểu 16 Mbit / s đối_với hướng xuống và 800 kb it / s đối_với hướng lên .
+
+- Thiết_bị đầu_cuối Adsl2 + phải hỗ_trợ đồng_thời Adsl theo cả hai khuyến_nghị G . 992 . 3 và G . 992 . 5 .
+
+2 . 1 . 3 . Yêu_cầu về an_toàn điện
+
+Thiết_bị phải tuân theo các qui_định trong Qcvn 22 : 2010 / bt : Quy_chuẩn kĩ_thuật quốc_gia về an_toàn điện cho các thiết_bị đầu_cuối viễn_thông .
+
+2 . 1 . 4 . Yêu_cầu về tương_thích điện_từ
+
+Thiết_bị cần tuân theo các yêu_cầu về tương_thích điện từ được qui_định trong tiêu_chuẩn Tcvn 7189 : 2009 : Thiết_bị công_nghệ thông_tin - Đặc_tính nhiễu tần_số vô_tuyến - Giới_hạn và phương_pháp đo .
+
+2 . 2 . Yêu_cầu đối_với thiết_bị đầu_cuối Adsl ( atu - r ) - loại Adsl2
+
+2 . 2 . 1 . Các đặc_tính chức_năng của thiết_bị đầu_cuối Adsl
+
+2 . 2 . 1 . 1 . Mặt_nạ phổ tần_số phát hướng lên của thiết_bị đầu_cuối Adsl
+
+Băng_thông được xác_định là dải từ 25 , 875 đến 138 kHz và là băng tần rộng nhất có_thể được sử_dụng . Các giới_hạn được xác_định trong băng_thông này cũng áp_dụng cho các băng hẹp hơn được sử_dụng .
+
+Hình 1 là mặt_nạ phổ giới_hạn đối_với tín_hiệu phát . Băng chặn tần_số thấp là dải_tần_số thấp hơn 25 , 875 kHz và băng tần Pots , băng tần_số cao là các tần_số cao hơn 138 kHz .
+
+Hình 4 - Mặt_nạ Psd_phát của thiết_bị đầu_cuối Adsl
+
+Phương_pháp đo : theo mục 3 . 8 của quy_chuẩn này .
+
+2 . 2 . 1 . 2 . Đáp_ứng và Psd trong băng_thông
+
+Có 3 mặt_nạ Psd đối_với tín_hiệu phát của thiết_bị đầu_cuối Adsl , phụ_thuộc vào loại tín_hiệu được phát . Mức Psd không được lớn hơn mức Psd băng_thông phát cực_đại trong toàn dải băng_thông , được xác_định như sau :
+
+- NOMPSDus + 1 dB , đối_với các tín_hiệu khởi tạo đến pha khôi_phục kênh ;
+
+- REFPSDus + 1 dB , trong quá_trình còn lại của khởi tạo , bắt_đầu_từ pha chạy thử thiết_bị thu phát ;
+
+- MAXNOMPSDus - PCBus + 3 , 5 dB , ở trạng_thái truyền_dẫn .
+
+Bảng 1 - Các thông_số điều_khiển của thiết_bị đầu_cuối Adsl
+
+Thay_đổi trễ nhóm trong băng_thông không lớn hơn 50 ms .
+
+Mức Psd băng_thông phát cực_đại cho phép đối_với các hiệu_ứng của bộ lọc không lí_tưởng là 1 dB .
+
+Phương_pháp đo : theo mục 3 . 1 của quy_chuẩn này .
+
+2 . 2 . 1 . 3 . Tổng_công_suất phát
+
+Có 3 mặt_nạ Psd khác nhau đối_với tín_hiệu phát của thiết_bị đầu_cuối Adsl , phụ_thuộc vào loại tín_hiệu được phát ( xem 2 . 2 . 1 . 1 ) . Trong tất_cả các trường_hợp :
+
+- Tổng_công_suất phát trong băng thoại , được đo tại giao_diện U - r , và được phát đến giao_diện mạng Pstn không được lớn hơn + 15 dBm ( phương_pháp đo theo Itu - t Rec . G . 996 . 1 ) ;
+
+- Tổng_công_suất phát trong toàn dải băng_thông không được lớn hơn 0 , 5 dB so với ( MAXNOMATPus - PCBus ) để dự_trù các sai_lệch trong triển_khai , và không được lớn hơn 13 , 0 dBm .
+
+- Tổng_công_suất phát trong dải_tần từ 0 đến 11 , 040 MHz không được lớn hơn 0 , 8 dB so với ( MAXNOMATPus - PCBus ) để dự_trù công_suất phát dư trong các băng và các sai_lệch trong triển_khai .
+
+Phương_pháp đo : theo mục 3 . 2 của quy_chuẩn này .
+
+2 . 2 . 2 . Các đặc_tính điện
+
+2 . 2 . 2 . 1 . Xác_định các trạng_thái trở_kháng
+
+Các trở_kháng nguồn và tải của thiết_bị đầu_cuối Adsl phải tuân theo các qui_định sau , trong đó Zs và Zl là các trở_kháng nguồn và tải ở trạng_thái hoạt_động ; ZS - hi và ZL - hi là các trở_kháng nguồn và tải ở trạng_thái trở_kháng cao phải lớn hơn các trở_kháng Zs và Zl tương_ứng . Các nhà cung_cấp_thiết_bị phải lựa_chọn các trở_kháng ZS - hi và ZL - hi lớn hơn các trở_kháng Zs và Zl một giá_trị xác_định .
+
+Các yêu_cầu đối_với thiết_bị đầu_cuối Adsl sau đây cho phép việc lắp_đặt nhiều thiết_bị đầu_cuối Adsl trên cùng một đôi dây mặc_dù chỉ cho phép một thiết_bị đầu_cuối Adsl được hoạt_động tại một thời_điểm . Các thông_số và các thủ_tục đo được qui_định trong mục 2 . 2 . 2 . 4 .
+
+Ở mỗi trạng_thái trở_kháng được qui_định trong Bảng 2 , khối phát thiết_bị đầu_cuối Adsl phải thoả_mãn mặt_nạ Psd_phát của thiết_bị đầu_cuối Adsl được qui_định trong mục 2 . 2 . 1 . 1 .
+
+Bảng 2 - Các trạng_thái trở_kháng của thiết_bị đầu_cuối Adsl
+
+Phương_pháp đo : theo mục 3 . 4 của quy_chuẩn này .
+
+2 . 2 . 2 . 2 . Quy_định đối_với điện_áp và dòng_điện của Pots
+
+Các đặc_tính điện phải thoả_mãn khi dòng_điện mạch vòng của Pots có giá_trị từ 0 mA đến 100 mA , và điện_áp mạch vòng như sau :
+
+- Điện_áp Dc có giá_trị từ 0 V đến - 60 V .
+
+- Các tín_hiệu chuông không lớn hơn 103 V rms tại một tần_số nào đó trong dải từ 20 đến 30 Hz với thành_phần Dc có giá_trị trong dải từ 0 V đến - 60 V .
+
+2 . 2 . 2 . 3 . Các đặc_tính điện đối_với thiết_bị đầu_cuối Adsl ở trạng_thái hoạt_động
+
+2 . 2 . 2 . 3 . 1 . Các đặc_tính Dc
+
+Trở_kháng Dc đầu_vào của thiết_bị đầu_cuối Adsl tại giao_diện U - r phải lớn hơn hoặc bằng 5 Mw .
+
+Chú_thích - Cách lắp_đặt các bộ lọc của bộ chia phổ_biến nhất là kết_nối các bộ lọc thông thấp và thông cao song_song tại cổng U - r . Trong sơ_đồ này , bộ lọc thông cao sẽ ngăn thành_phần Dc bằng các tụ_điện .
+
+2 . 2 . 2 . 3 . 2 . Đặc_tính trong băng tần thoại - Trở_kháng lối vào
+
+Thành_phần ảo của trở_kháng đầu_vào thiết_bị đầu_cuối Adsl , khi được đo tại giao_diện U - r , ở dải_tần_số từ 0 kHz đến 4 kHz cần có giá_trị tương_đương với một tụ_điện có giá_trị từ 20 nF đến 34 nF ( xấp_xỉ trở_kháng từ 1 , 1 kW đến 2 , 0 kW tại tần_số 4 kHz ) đối_với thiết_bị đầu_cuối Adsl có tích_hợp bộ chia có lọc thông cao ( tức_là các tụ_điện chặn dòng Dc có giá_trị 120 nF được tích_hợp với Atu - r ) .
+
+2 . 2 . 2 . 3 . 3 . Đặc_tính trong băng tần Adsl - Cân_bằng dọc
+
+Cân_bằng dọc tại giao_diện U - r phải lớn hơn 50 dB trong dải_tần_số từ 30 kHz đến 11 104 kHz .
+
+Nếu phần Hpf của bộ chia Pots được tích_hợp trong Atu , phép đo cân_bằng dọc trong dải_tần qui_định cần được thực_hiện như Hình 5 . Khi cả phần Lpf và Hpf của bộ chia Pots được tích_hợp trong Atu , phép đo cân_bằng dọc trong dải_tần qui_định phải cần được thực_hiện với các giao_diện Pots được kết cuối với trở_kháng Ztr , như trong Hình 6 .
+
+Hình 5 - Phương_pháp đo cân_bằng dọc trong dải_tần lớn hơn 30 kHz ( hpf được tích_hợp trong Atu )
+
+Hình 6 - Phương_pháp đo cân_bằng dọc trong dải_tần lớn hơn 30 kHz ( hpf và Lpf được tích_hợp trong Atu )
+
+Mức cân_bằng này cần được đo cả khi có và không có điện_áp nền Dc với thiết_bị cần đo đã được cấp nguồn , ở trạng_thái hoạt_động và trạng_thái chờ . Trong một_số trường_hợp , điện_áp nền có_thể lớn hơn hoặc nhỏ hơn một giá_trị nào đó , tuy_nhiên nó phải đủ lớn để nhận ra khi có những vấn_đề cân_bằng liên_quan đến điện_áp nền Dc . Điện_áp nền này phải được kết_nối bằng các cuộn cảm có phối_hợp trở_kháng tốt . Trở_kháng của các cuộn cảm này phải 5 000 jW trong dải_tần_số qui_định . Các điện_trở 200 W cần được ghép thêm để đảm_bảo_an_toàn .
+
+Các tụ_điện được ghép trong sơ_đồ đo để chặn dòng Dc lớn qua các điện_trở 50 W . Trở_kháng của các tụ_điện phải | - 0 , 5j W | trên dải_tần_số qui_định .
+
+Các cuộn cảm và tụ_điện trong sơ_đồ đo cần được phối_hợp trở_kháng sao cho không ảnh_hưởng đến kết_quả đo . Khi tỉ_lệ giữa trở_kháng của cuộn cảm và tụ_điện đối_với điện_trở 50 W được sử_dụng lớn thì việc phối_hợp trở_kháng yêu_cầu thấp hơn .
+
+Việc phối_hợp trở_kháng của cuộn cảm thường đạt được dễ_dàng hơn khi sử_dụng một cuộn dây hai sợi trên một lõi đơn để tạo ra một đôi dây phối_hợp trở_kháng . Cần phải đảm_bảo không có cộng_hưởng xảy ra trong dải_tần_số_đo . Có_thể phải sử_dụng hai cuộn cảm ( có kích_cỡ khác nhau ) mắc nối_tiếp để đáp_ứng yêu_cầu này khi phép đo là phép đo trong dải_băng rộng . Điều quan_trọng là phải đảm_bảo trong các phép đo có dòng Dc , không có hiện_tượng bão_hoà xảy ra trong các cuộn cảm . Đồng_thời , cũng phải chú_ý rằng một_số loại tụ_điện có giá_trị thay_đổi theo điện_áp đưa vào , nói_chung các loại nhựa có chất_lượng cao là thích_hợp .
+
+Cân_bằng dọc ( LBal ) được xác_định bằng công_thức :
+
+( 1 )
+
+Trong đó :
+
+e1 = điện_áp dọc đưa vào ( so với đất của trạm hoặc đất của Atu ) ;
+
+em = điện_áp đo được trên điện_trở_kết cuối .
+
+Mạch đo phải có mức cân_bằng cao hơn mức cân_bằng của thiết_bị cần đo là 20 dB ( khi mức cân_bằng thấp hơn , trong phép đo sẽ xuất_hiện các lỗi lớn hơn ) . Để đảm_bảo điều này , cần thay_thế thiết_bị cần đo bằng hai điện_trở 50 W và các tụ_điện thích_hợp như trong Hình 7 . Mạch đo được cân_bằng thích_hợp nếu mức cân_bằng lớn hơn mức yêu_cầu 20 dB khi các điểm Tip và Ring được kết_nối trong mỗi cấu_hình đo ( Tip với A và Ring với B , và Tip với B và Ring với A ) với trở_kháng hiệu chuẩn . Việc không đạt được cân_bằng cho thấy sự mất cân_bằng trong mạch đo hoặc trở_kháng hiệu chuẩn . Cần có một điện_trở bổ_sung trong mạch hiệu chuẩn khi thiết_bị cần đo có tích_hợp Hpf và Lpf như trong Hình 6 . Điện_trở này tạo ra một đường Dc nhờ đó các cuộn cảm không bị bão_hoà bởi các dòng_điện Dc ở các điều_kiện đo kiểm .
+
+Hình 7 - Mạch hiệu chuẩn
+
+2 . 2 . 2 . 4 . Các đặc_tính điện của thiết_bị đầu_cuối Adsl ở trạng_thái trở_kháng cao
+
+Trạng_thái trở_kháng cao bao_gồm các trạng_thái trở_kháng chưa cấp nguồn , không hoạt_động và các trạng_thái trở_kháng không hoạt_động như quy_định trong Bảng 1 .
+
+Chú_thích - Các đặc_tính điện của thiết_bị đầu_cuối Adsl ở trạng_thái trở_kháng cao được qui_định đối_với một thiết_bị đầu_cuối Adsl_đơn cũng có khả_năng áp_dụng cho tối_đa 3 thiết_bị đầu_cuối Adsl ở trạng_thái trở_kháng cao được nối song_song và đối_với một thiết_bị đầu_cuối Adsl ở trạng_thái hoạt_động tại một thời_điểm xác_định .
+
+2 . 2 . 2 . 4 . 1 . Các đặc_tính Dc
+
+Điện_trở Dc đầu_vào của thiết_bị đầu_cuối Adsl tại giao_diện U - r cần lớn hơn hoặc bằng 5 Mw .
+
+Phương_pháp đo : theo mục 3 . 3 của quy_chuẩn này .
+
+2 . 2 . 2 . 4 . 2 . Các đặc_tính trong băng tần thoại
+
+a ) Suy_hao xen
+
+Suy_hao xen của thiết_bị đầu_cuối Adsl ở trạng_thái trở_kháng cao cần nhỏ hơn 0 , 33 dB tại 3 , 4 kHz , và phải nhỏ hơn 1 dB tại 12 kHz và 16 kHz . Suy_hao xen của 3 thiết_bị đầu_cuối Adsl trên cùng một đường_dây nhỏ hơn 1 dB tại 3 , 4 kHz , và nhỏ hơn 3 dB tại 12 kHz và 16 kHz .
+
+b ) Méo suy hao xen
+
+Méo suy hao xen của thiết_bị đầu_cuối Adsl trong trạng_thái trở_kháng cao , khi được so với suy hao xen tại 3 , 4 kHz , cần nhỏ hơn 0 , 33 dB trong dải_tần từ 200 Hz đến 4 000 Hz . Méo suy hao xen của 3 thiết_bị đầu_cuối Adsl trong dải_tần_số từ 200 Hz đến 4 000 Hz nhỏ hơn 1dB .
+
+c ) Méo xuyên điều_chế
+
+Tập 4-tone, như qui_định trong Khuyến_nghị Itu - t O . 42 , ở mức - 9 dBm , khi được đưa tới thiết_bị đầu_cuối Adsl ở trạng_thái trở_kháng cao , cần tạo ra các thành_phần méo xuyên điều_chế bậc 2 và bậc 3 nhỏ hơn mức tín_hiệu thu được ít_nhất tương_ứng là 80 dB và 85 dB .
+
+Phương_pháp đo : theo mục 3 . 6 của quy_chuẩn này .
+
+2 . 2 . 2 . 4 . 3 . Các đặc_tính trong băng tần Adsl
+
+a ) Suy_hao xen
+
+Suy_hao xen của thiết_bị đầu_cuối Adsl ở trạng_thái trở_kháng cao , đối_với tín_hiệu thu được bởi Atu - c đang hoạt_động , cần nhỏ hơn 0 , 33 dB tại 100 kHz ( một tần_số trong dải_băng tần phát của thiết_bị đầu_cuối Adsl đang hoạt_động ) .
+
+Suy_hao xen của thiết_bị đầu_cuối Adsl ở trạng_thái trở_kháng cao , đối_với tín_hiệu thu được bởi thiết_bị đầu_cuối Adsl đang hoạt_động , cần nhỏ hơn 0 , 33 dB tại 500 kHz ( một tần_số trong dải_băng tần thu của thiết_bị đầu_cuối Adsl đang hoạt_động ) .
+
+b ) Méo suy hao xen
+
+Méo suy hao xen của thiết_bị đầu_cuối Adsl trong trạng_thái trở_kháng cao đối_với tín_hiệu được thiết_bị đầu_cuối Adsl đang hoạt_động phát cần nhỏ hơn 0 , 33 dB trong dải_tần_số từ 25 đến 1 104 kHz .
+
+Phương_pháp đo : theo mục 3 . 6 của quy_chuẩn này .
+
+2 . 2 . 2 . 4 . 4 . Các đặc_tính ngoài băng tần Adsl
+
+a ) Suy_hao xen
+
+Suy_hao xen của thiết_bị đầu_cuối Adsl ở trạng_thái trở_kháng cao cần nhỏ hơn 0 , 33 dB tại 5 MHz và tại 9 MHz .
+
+b ) Méo suy hao xen
+
+Méo suy hao xen của thiết_bị đầu_cuối Adsl cần nhỏ hơn 0 , 33 dB trong dải_tần từ 4 Mhz đến 10 MHz .
+
+Phương_pháp đo : theo mục 3 . 6 của quy_chuẩn này .
+
+2 . 3 . Yêu_cầu đối_với thiết_bị đầu_cuối Adsl ( atu - r ) - loại Adsl2 +
+
+Các thiết_bị loại Adsl2 + cần thoả_mãn tất_cả các yêu_cầu trong mục 2 . 2 và trừ các yêu_cầu được qui_định trong mục 2 . 3 . 1 và 2 . 3 . 2 .
+
+2 . 3 . 1 . Các đặc_tính chức_năng của thiết_bị đầu_cuối Adsl
+
+2 . 3 . 1 . 1 . Mặt_nạ phổ tần_số phát hướng lên của thiết_bị đầu_cuối Adsl
+
+Băng_thông là băng tần từ 25 , 875 kHz đến 138 kHz và là băng tần rộng nhất có_thể được sử_dụng . Các giới_hạn được xác_định trong băng_thông này cũng áp_dụng cho các băng hẹp hơn được sử_dụng .
+
+Hình 8 là mặt_nạ phổ giới_hạn đối_với tín_hiệu phát . Băng chặn tần_số thấp là các tần_số thấp hơn 25 , 875 kHz và bao_gồm cả băng tần Pots , băng tần_số cao là các tần_số cao hơn 138 kHz .
+
+Hình 8 - Mặt_nạ Psd_phát của thiết_bị đầu_cuối Adsl
+
+Phương_pháp đo : theo mục 3 . 8 của quy_chuẩn này .
+
+2 . 3 . 1 . 2 . Đáp_ứng và Psd trong băng_thông
+
+Có 3 mặt_nạ Psd khác nhau đối_với tín_hiệu phát của thiết_bị đầu_cuối Adsl , tuỳ_thuộc vào loại tín_hiệu được phát . Trên toàn băng_thông , mức Psd_phát không được lớn hơn mức Psd băng_thông cực_đại , được xác_định như sau :
+
+- NOMPSDus + 1 dB , đối_với các tín_hiệu khởi tạo đến pha khôi_phục kênh ;
+
+- REFPSDus + 1 dB , trong quá_trình khởi tạo còn lại , kể từ pha chạy thử thiết_bị thu phát ;
+
+- MAXNOMPSDus - PCBus + 3 , 5 dB , trong trạng_thái truyền_dẫn .
+
+Bảng 3 - Các thông_số điều_khiển của thiết_bị đầu_cuối Adsl
+
+Thay_đổi trễ nhóm trong băng_thông không được lớn hơn 50 ms .
+
+Mức Psd băng_thông phát cực_đại cho phép đối_với các hiệu_ứng của bộ lọc không lí_tưởng là 1 dB .
+
+Phương_pháp đo : theo mục 3 . 1 của quy_chuẩn này .
+
+2 . 3 . 1 . 3 . Tổng_công_suất phát
+
+Có 3 mặt_nạ Psd khác nhau đối_với tín_hiệu phát của thiết_bị đầu_cuối Adsl , tuỳ_thuộc vào loại tín_hiệu được phát ( mục 2 . 3 . 1 . 1 ) . Trong tất_cả các trường_hợp :
+
+- Tổng_công_suất phát trong băng thoại , được đo tại giao_diện U - r và được phát đến giao_diện Pots không được lớn hơn + 15 dBm ( phương_pháp đo theo Itu - t Rec . G . 996 . 1 ) .
+
+- Tổng_công_suất phát trong toàn dải băng_thông không được lớn hơn 0 , 5 dB so với ( MAXNOMATPus - PCBus ) để dự_trù các sai_lệch trong triển_khai và không được lớn hơn 13 , 0 dBm .
+
+- Tổng_công_suất phát trong dải_tần từ 0 đến 12 MHz không được lớn hơn 0 , 8 dB so với ( MAXNOMATPus - PCBus ) để dự_trù công_suất phát dư trong các băng tần và các sai_lệch trong triển_khai .
+
+Phương_pháp đo : theo mục 3 . 2 của quy_chuẩn này .
+
+2 . 3 . 2 . Các đặc_tính điện
+
+Theo các yêu_cầu trong mục 2 . 2 . 3 ( trừ thông_số suy hao biến_đổi dọc ) áp_dụng trong dải_băng tần tới 1 104 kHz phải thoả_mãn trong dải_băng tần tới 2 208 kHz .
+
+Thiết_bị đầu_cuối Adsl phải có suy hao biến_đổi dọc ( lcl ) tối_thiểu là 50 dB trong dải_tần_số từ 30 kHz đến 1 104 kHz
+
+Thiết_bị đầu_cuối Adsl phải có suy hao biến_đổi dọc ( lcl ) tối_thiểu là 40 dB trong dải_tần_số từ 1 104 kHz đến 2 208 kHz .
+
+3 . Phương_pháp_đo
+
+3 . 1 . Đáp_ứng băng_thông
+
+Hình 9 - Cấu_hình đo đáp_ứng phổ tần_số phát
+
+Kết_nối thiết_bị như Hình 9 .
+
+Đặt máy phân_tích phổ để thu tín_hiệu trong băng_thông với độ rộng băng phân_giải là 10 kHz và độ rộng băng_video là 100 Hz . Điện_trở R = 100 W .
+
+Đánh_giá tín_hiệu phù_hợp với mặt_nạ Psd_phát
+
+3 . 2 . Tổng_công_suất phát
+
+Kết_nối thiết_bị như Hình 10 .
+
+Đặt máy phân_tích phổ để thu tín_hiệu trong băng_thông với độ rộng băng phân_giải là 1 kHz và độ rộng băng_video là 100 Hz .
+
+Ghi giá_trị tần_số tại hai điểm tương_ứng với công_suất danh định giảm 3 dB . Băng_thông được tính bằng hiệu_số giữa hai giá_trị tần_số .
+
+Kết_nối thiết_bị như Hình 10 .
+
+Sử_dụng bộ lọc thông có băng_thông bằng giá_trị đã tính ở bước trên .
+
+Đo và ghi giá_trị tổng_công_suất tín_hiệu với trở_kháng kết cuối R = 100 W
+
+Hình 10 - Cấu_hình đo tổng_công_suất phát
+
+3 . 3 . Điện_trở một_chiều
+
+Hình 11 - Cấu_hình đo điện_trở một_chiều
+
+Kết_nối thiết_bị như Hình 11 .
+
+Đo điện_trở một_chiều khi chưa cấp nguồn cho thiết_bị cần đo / khi cấp nguồn nhưng thiết_bị thu và phát chưa hoạt_động / khi cấp nguồn nhưng thiết_bị phát chưa hoạt_động và thiết_bị thu đang hoạt_động để phát_hiện tín_hiệu C - TONES / khi cấp nguồn với thiết_bị thu và phát đang hoạt_động và đang khởi tạo hoặc trong trạng_thái truyền_dẫn .
+
+3 . 4 . Trở_kháng
+
+Kết_nối thiết_bị như Hình 12 .
+
+Đo trở_kháng khi cấp nguồn với thiết_bị thu , phát đang hoạt_động và đang khởi tạo hoặc trong trạng_thái truyền_dẫn .
+
+Hình 12 - Cấu_hình đo trở_kháng
+
+3 . 5 . Cân_bằng dọc
+
+Xem mục 2 . 2 . 2 . 3 . 3 .
+
+3 . 6 . Suy_hao xen và méo suy hao xen
+
+3 . 6 . 1 . Suy_hao xen và méo suy hao xen trong băng tần thoại
+
+Kết_nối thiết_bị như Hình 13 .
+
+Đo suy hao xen / méo suy hao xen tại trong dải_tần_số từ 0 , 2 đến 4 kHz ; tại các tần_số 12 và 16 KHz khi chưa cấp nguồn cho thiết_bị cần đo / Khi cấp nguồn nhưng thiết_bị thu và phát chưa hoạt_động / khi cấp nguồn nhưng thiết_bị phát chưa hoạt_động và thiết_bị thu đang hoạt_động để phát_hiện tín_hiệu C - tones .
+
+( a ) Hpf và Lpf được tích_hợp
+
+( b ) Chỉ Hpf được tích_hợp
+
+Hình 13 - Cấu_hình đo suy hao xen và méo suy hao xen trong băng tần thoại
+
+3 . 6 . 2 . Suy_hao xen và méo suy hao xen trong băng tần Adsl và ngoài băng tần Adsl
+
+Kết_nối thiết_bị như Hình 14 .
+
+Đo suy hao xen / méo suy hao xen tại trong dải_tần_số từ 25 đến 1104 kHz ; và từ 4 đến 10 MHz khi chưa cấp nguồn cho thiết_bị cần đo / khi cấp nguồn nhưng thiết_bị thu và phát chưa hoạt_động / khi cấp nguồn nhưng thiết_bị phát chưa hoạt_động và thiết_bị thu đang hoạt_động để phát_hiện tín_hiệu C - tones .
+
+( a ) Hpf và Lpf được tích_hợp
+
+( b ) Chỉ Hpf được tích_hợp
+
+Hình 14 - Cấu_hình đo suy hao xen và méo suy hao xen trong băng tần Adsl và ngoài băng tần Adsl
+
+3 . 7 . Tốc_độ truyền_dẫn hướng lên ( hoặc tốc_độ truyền_dẫn hướng xuống )
+
+Hình 15 - Cấu_hình đo tốc_độ truyền_dẫn hướng lên ( hoặc tốc_độ truyền_dẫn hướng xuống ) và mặt_nạ Psd
+
+Kết_nối thiết_bị như Hình 15 .
+
+Thiết_lập máy đo mô_phỏng tại chế_độ mô_phỏng Atu - c để đo tốc_độ hướng lên ( hoặc tốc_độ hướng xuống ) .
+
+3 . 8 . Mặt_nạ Psd
+
+Kết_nối thiết_bị như Hình 15 .
+
+Thiết_lập máy đo mô_phỏng ở chế_độ mô_phỏng Atu - c để đo mặt_nạ Psd .
+
+4 . Quy_định Về Quản_lý
+
+Các thiết_bị đầu_cuối Adsl loại Adsl2 và Adsl2 + thuộc phạm_vi điều_chỉnh nêu tại mục 1 . 1 phải tuân_thủ các yêu_cầu kĩ_thuật quy_định trong Quy_chuẩn này .
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+Các tổ_chức , cá_nhân liên_quan có trách_nhiệm thực_hiện chứng_nhận hợp quy và công_bố hợp quy các thiết_bị đầu_cuối Adsl loại Adsl2 và Adsl2 + và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành .
+
+6 . Tổ_chức Thực_hiện
+
+6 . 1 . Cục Viễn_thông và các Sở Thông_tin và Truyền_thông có trách_nhiệm tổ_chức hướng_dẫn , triển_khai quản_lí các thiết_bị đầu_cuối Adsl loại Adsl2 và Adsl2 + theo Quy_chuẩn này .
+
+6 . 2 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới . / .
+
+Thư_mục_tài_liệu Tham_khảo
+
+[ 1 ] Itu - t Recommendation G . 992 . 3 ( 04 / 2009 ) , Asymmetric digital subscriber line transceivers 2 ( adsl2 ) .
+
+[ 2 ] Itu - t Recommendation G . 992 . 5 ( 01 / 2009 ) , Asymmetric digital subscriber line transceivers - Extended bandwidth Adsl2 ( adsl2 + ) .

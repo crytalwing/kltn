@@ -1,0 +1,919 @@
+Thông_tư số 28/2022/tt-bct ngày 31 tháng 10 năm 2022 của bộ công_thương
+
+Bộ_trưởng Bộ Công_thương
+
+Căn_cứ <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Chất_lượng sản_phẩm , hàng_hoá ngày 21 tháng 11 năm 2007 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 98/2017/NĐ-CP ngày 18 tháng 8 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_thương ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ; <LT rel="None"> Luật Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 </LT> của Chính_phủ sửa_đổi , bổ_sung một_số điều <NĐ rel="None"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều Chất_lượng sản_phẩm , hàng_hoá ; <LT rel="None"> Luật Nghị_định số 74/2018/NĐ-CP ngày 15 tháng 5 năm 2018 </LT> của Chính_phủ sửa_đổi , bổ_sung một_số điều <NĐ rel="None"> Nghị_định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều <LT rel="CC"> Luật Chất_lượng sản_phẩm , hàng_hoá </LT> ;
+
+Theo đề_nghị của Cục_trưởng Cục Kỹ_thuật an_toàn và Môi_trường công_nghiệp ;
+
+Bộ_trưởng Bộ Công_thương ban_hành Quy_chuẩn kĩ_thuật quốc_gia về an_toàn đối_với tủ phân_phối điện_áp 6 kV phòng nổ sử_dụng trong mỏ hầm_lò .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về an_toàn đối_với tủ phân_phối điện_áp 6 kV phòng nổ sử_dụng trong mỏ hầm_lò .
+
+Ký_hiệu : Qcvn 17 : 2022/BCT.
+
+Điều 2 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực từ ngày 01 tháng 7 năm 2023 .
+
+Điều 3 . Tổ_chức thực_hiện
+
+Chánh Văn_phòng Bộ , Cục_trưởng Cục Kỹ_thuật an_toàn và Môi_trường công_nghiệp ; Thủ_trưởng các cơ_quan , tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 17 : 2022 / bct
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về An_toàn Đối_với Tủ Phân_phối Điện_áp 6 Kv_phòng Nổ Sử_dụng Trong Mỏ Hầm_lò
+
+National technical regulation on safety for high voltage 6kV distribution equipment explosion - proof used in underground mine
+
+Lời_nói_đầu
+
+Qcvn 17 : 2022 / bct do Tổ_soạn_thảo Quy_chuẩn kĩ_thuật Quốc_gia về an_toàn đối_với tủ phân_phối điện_áp 6 kV phòng nổ sử_dụng trong mỏ hầm_lò biên_soạn , Cục Kỹ_thuật an_toàn và Môi_trường công_nghiệp - Bộ Công_thương trình_duyệt , Bộ Khoa_học và Công_nghệ thẩm_định , Bộ_trưởng Bộ Công_thương ban_hành theo <TT rel="DC"> Thông_tư số 28/2022/TT-BCT ngày 31 tháng 10 năm 2022 </TT> .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về An_toàn Đối_với Tủ Phân_phối Điện_áp 6 Kv_phòng Nổ Sử_dụng Trong Mỏ Hầm_lò
+
+National technical regulation on safety for high voltage 6kV distribution equipment explosion - proof used in underground mine
+
+I . Quy_định Chung
+
+1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn kĩ_thuật này quy_định các yêu_cầu kĩ_thuật an_toàn và quản_lí đối_với tủ phân_phối điện_áp 6 kV phòng nổ trong mạng điện cao_áp xoay chiều ba pha trung_tính_cách_li sử_dụng trong mỏ hầm_lò có khí cháy và bụi nổ ( sau đây gọi là tủ phân_phối 6 kV phòng nổ ) , có mã Hs 8537 . 20 . 90 .
+
+2 . Đối_tượng áp_dụng
+
+Quy_chuẩn kĩ_thuật này áp_dụng đối_với các tổ_chức , cá_nhân sản_xuất , nhập_khẩu , thử_nghiệm , kiểm_định , chứng_nhận , giám_định , sử_dụng và các cá_nhân khác có liên_quan đến tủ phân_phối 6 kV phòng nổ trong mỏ hầm_lò trên lãnh_thổ Việt_nam .
+
+3 . Giải_thích từ_ngữ
+
+3 . 1 . Khí_quyển nổ là hỗn_hợp của các chất dễ cháy ở dạng khí , hơi , bụi , sợi hoặc vật bay với không_khí , trong điều_kiện khí_quyển mà sau khi bắt cháy , cho phép ngọn lửa lan_truyền tự duy_trì .
+
+3 . 2 . Tủ phân_phối 6 kV là thiết_bị đóng cắt có khả_năng đóng và cắt mạng điện trong điều_kiện bình_thường , cũng như tự_động cắt điện trong điều_kiện không bình_thường và sự_cố sử_dụng trong lưới_điện cao_áp .
+
+3 . 3 . Mạch chính của tủ phân_phối 6 kV phòng nổ là toàn_bộ phần mang điện trong mạch được dùng để truyền năng_lượng điện cho phụ_tải .
+
+3 . 4 . Mạch phụ của tủ phân_phối 6 kV phòng nổ là toàn_bộ phần mang điện ( không phải mạch chính ) có trong các mạch điều_khiển , bảo_vệ , đo_lường , tín_hiệu .
+
+3 . 5 . Tủ phân_phối 6 kV phòng nổ là tủ phân_phối 6 kV được chế_tạo để sử_dụng trong môi_trường có khí cháy và bụi nổ .
+
+3 . 6 . Cổ cáp vào , ra là bộ_phận dùng để nhận và bảo_vệ các đầu cáp , làm kín các ruột dẫn và vật_liệu cách_điện của cáp bằng một hợp_chất làm đầy hoặc vòng bịt kín được gắn vào vỏ thiết_bị bằng ren hoặc bu_lông .
+
+3 . 7 . Vỏ không xuyên nổ dạng " d là kết_cấu trong đó chứa các bộ_phận có_thể làm bốc cháy hỗn_hợp khí_nổ và có_thể chịu được áp_lực xuất_hiện trong vụ nổ bên trong của hỗn_hợp khí_nổ đó và ngàn ngừa sự lan_truyền vụ nổ ra khí_quyển nổ xung_quanh vỏ .
+
+3 . 8 . Dạng bảo_vệ an_toàn tia lửa i " là dạng bảo_vệ mà năng_lượng điện của thiết_bị và các thành_phần đầu nối khi đặt trong khí_quyển nổ được hạn_chế thấp hơn mức có_thể gây cháy hỗn_hợp nổ bằng các hiệu_ứng tia lửa hoặc hiệu_ứng nhiệt .
+
+Ii . Quy_định Về Kỹ_thuật An_toàn
+
+4 . Tài_liệu viện_dẫn
+
+4 . 1 . Qcvn_qtđ - 5 : 2009 / bct Quy_chuẩn kĩ_thuật quốc_gia về kĩ_thuật điện - Tập 5 Kiểm_định trang thiết_bị hệ_thống điện .
+
+4 . 2 . Qcvn 01 : 2011 / bct Quy_chuẩn kĩ_thuật quốc_gia về an_toàn trong khai_thác than hầm_lò .
+
+4 . 3 . Qcvn 04 : 2017 / bct Quy_chuẩn kĩ_thuật quốc_gia về an_toàn trong khai_thác quặng hầm_lò .
+
+4 . 4 . Tcvn 4255 : 2008 ( iec 60529 : 2001 ) cấp bảo_vệ bằng vỏ ngoài ( mã Ip ) .
+
+4 . 5 . Tcvn 6099-1-2007 ( iec 60060 - 1 : 1989 ) Kỹ_thuật thử_nghiệm điện_áp cao - Phần 1 : Định_nghĩa chung và yêu_cầu thử_nghiệm .
+
+4 . 6 . Tcvn 6592-1:2009 ( iec 60947 - 1 : 2007 ) Thiết_bị đóng cắt và điều_khiển hạ_áp - Phần 1 : Quy_tắc chung .
+
+4 . 7 . Tcvn 8096-200-2010 ( iec 62271 - 200 : 2003 ) Tủ đóng cắt và điều_khiển cao_áp - Phần 200 : Tủ điện đóng cắt và điều_khiển xoay chiều có vỏ bọc bằng kim_loại dùng cho điện_áp danh định lớn hơn 1 kV đến và bằng 52 kV .
+
+4 . 8 . Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) Khí_quyển nổ - Phần 0 : Thiết_bị - Yêu_cầu chung .
+
+4 . 9 . Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) Khí_quyển nổ - Phần 1 : Bảo_vệ thiết_bị bằng vỏ không xuyên nổ d .
+
+4 . 10 . Tcvn 7079-7:2002 Thiết_bị dùng trong mỏ hầm_lò - Phần 7 : An_toàn tăng cao - dạng bảo_vệ e " .
+
+4 . 11 . Tcvn 7079-11:2002 Thiết_bị điện dùng trong mỏ hầm_lò - Phần 11 : An_toàn tia_lửa - dạng bảo_vệ " i " .
+
+4 . 12 . Tcvn 7079-17:2003 Thiết_bị điện dùng trong mỏ hầm_lò - Phần 17 : Kiểm_tra và bảo_dưỡng thiết_bị .
+
+4 . 13 . Iec 60079 - 7 : 2015 Explosive atmospheres - Part 7 : Equipment protection bi increased safety " e " ( Khí_quyển nổ - Phần 7 : Bảo_vệ thiết_bị bằng an_toàn tăng cao e " ) .
+
+4 . 14 . Iec 60079 - 11 : 2011 Explosive atmospheres - Part 11 : Equipment protection bi intrinsic safety " i " ( Khí_quyển nổ - Phần 11 : Bảo_vệ thiết_bị bằng an_toàn tia lửa y ) .
+
+4 . 15 . Iec 60079 - 17 : 2013 Explosive atmospheres - Part 17 : Electrical installations inspection and maintenance ( Khí_quyển nổ - Phần 17 : Kiểm_tra và bảo_dưỡng lắp_đặt điện ) .
+
+4 . 16 . Iec 62271 - 1 : 2017 và Sửa_đổi 1 : 2021 High - voltage switchgear and controlgear - Part 1 : Common specifications ( Thiết_bị đóng cắt và điều_khiển cao_áp - Phần 1 : Đặc_tính kĩ_thuật chung )
+
+5 . Yêu_cầu chung
+
+5 . 1 . Tủ phân_phối 6 kV phòng nổ dùng trong mỏ hầm_lò phải đảm_bảo các yêu_cầu kĩ_thuật an_toàn đối_với tủ phân_phối 6 kV thông_thường sử_dụng trong môi_trường không có khí cháy và bụi nổ .
+
+5 . 2 . Tủ phân_phối 6 kV phòng nổ sử_dụng trong mỏ hầm_lò phải có một trong các dạng bảo_vệ nổ sau : Ex d I Mb , Ex d [ ia ] I Mb , Ex d [ ib ] I Mb theo kí_hiệu tại 29 . 4 Tcvn 10888 - 0 : 2015 .
+
+5 . 3 . Phân_loại tủ phân_phối 6 kV phòng nổ
+
+5 . 3 . 1 . Phân_loại theo cơ_cấu đóng - cắt :
+
+5 . 3 . 1 . 1 . Tủ đóng cắt bằng cơ_cấu lò_xo ;
+
+5 . 3 . 1 . 2 . Tủ đóng cắt bằng cơ_cấu nam_châm điện .
+
+5 . 3 . 2 . Phân_loại theo chức_năng :
+
+5 . 3 . 2 . 1 . Tủ đầu_vào ;
+
+5 . 3 . 2 . 2 . Tủ phân_đoạn ;
+
+5 . 3 . 2 . 3 . Tủ đầu_ra ;
+
+5 . 3 . 2 . 4 . Tủ cách_li
+
+5 . 4 . Yêu_cầu về điều_kiện vận_hành
+
+5 . 4 . 1 . Tần_số danh định : 50 Hz .
+
+5 . 4 . 2 . Chế_độ làm_việc : Liên_tục , hoạt_động ổn_định trong phạm_vi ( từ 85 đến 115 ) % điện_áp danh định .
+
+5 . 4 . 3 . Nhiệt_độ môi_trường :
+
+5 . 4 . 3 . 1 . Nhiệt_độ môi_trường từ - 20 C đến + 40 C ; giá_trị của độ_ẩm tương_đối đến ( 98 2 ) % ở nhiệt_độ 35 C ;
+
+5 . 4 . 3 . 2 . Môi_trường nguy_hiểm có khí cháy và bụi nổ , hàm_lượng bụi không vượt quá 1200 mg / m3 .
+
+5 . 5 . Yêu_cầu về vị_trí lắp_đặt
+
+5 . 5 . 1 . Độ nghiêng không quá 15 về mọi phía so với trục thẳng_đứng và ở những khám , trạm và đường lò có kết_cấu chống_giữ đảm_bảo_an_toàn .
+
+5 . 5 . 2 . Khô_ráo và được thông gió đảm_bảo theo quy_định tại Điều 42 Qcvn 01 : 2011 / bct đối_với mỏ than , Điều 43 Qcvn 04 : 2017 / bct đối_với mỏ quặng .
+
+5 . 5 . 3 . Không có tác_động của hơi hoặc các chất_khí ăn_mòn và làm hỏng cách_điện .
+
+5 . 5 4 Độ cao không quá 1000 m so với mực nước biển ;
+
+5 . 6 . Yêu_cầu về kết_cấu
+
+5 . 6 . 1 . Yêu_cầu về bộ_phận nối đất
+
+5 . 6 . 1 . 1 . Các yêu_cầu về nối đất phải tuân_thủ theo các yêu_cầu tại Điều 5 . 3 Tcvn 8096-200:2010 ( iec 62271 - 200 : 2003 ) , khoản 20 Điều 102 Qcvn 01 : 2011 / bct và các Điều 5 . 1 , Điều 5 . 2 , Điều 5 . 4 và Điều 5 . 5 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) .
+
+5 . 6 . 1 . 2 . Trong các khoang đầu cáp phải có cơ_cấu để bắt chặt dây tiếp đất và được hàn vào vỏ ; các cổ cáp phải có cơ_cấu để bắt chặt dây tiếp đất .
+
+5 . 6 . 2 . Tủ phân_phối 6 kV phòng nổ sử_dụng trong mỏ hầm_lò phải có_giá đỡ lắp ở phần dưới của vỏ và các móc phía trên để thuận_tiện trong quá_trình lắp_đặt , di_chuyển và vận_hành .
+
+5 . 6 . 3 . Cơ_cấu liên động của tủ phải tuân_thủ theo quy_định tại Điều 5 . 11 Tcvn 8096-200:2010 ( iec 62271 - 200 : 2003 ) , Điều 10 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) .
+
+5 . 6 . 4 . Tất_cả các nắp mở chậm phải được bắt chặt bằng các vít hoặc bu_lông và có dấu_hiệu cảnh_báo nguy_hiểm " Cấm mở khi có điện .
+
+5 . 6 . 5 . Các vị_trí nút bấm , cơ_cấu điều_khiển , thao_tác của tủ phân_phối 6 kV phòng nổ phải có kí_hiệu thao_tác tương_ứng rõ_ràng , không_thể tẩy_xoá được .
+
+5 . 6 . 6 . Các bộ_phận điện thường_xuyên điều_chỉnh trong quá_trình vận_hành phải được đặt trong khoang có nắp mở nhanh ; các đầu nối cáp và thanh cái kết_nối của các đầu_vào , ra được đặt trong các khoang có nắp mở chậm .
+
+5 . 6 . 7 . Cơ_cấu liên động_cơ_khí phải tuân_thủ theo quy_định tại Điều 5 . 6 . 3 Quy_chuẩn kĩ_thuật này và phải đáp_ứng các yêu_cầu sau :
+
+5 . 6 . 7 . 1 . Nắp mở nhanh chỉ có_thể mở được khi :
+
+5 . 6 . 7 . 1 . 1 . Tay đóng - cắt đã ở trạng_thái cắt ;
+
+5 . 6 . 7 . 1 . 2 . Bộ tiếp_điểm cách_li mạch chính đã mở ;
+
+5 . 6 . 7 . 1 . 3 . Cơ_cấu khoá liên động được giải_phóng ;
+
+5 . 6 . 7 . 1 . 4 . Thiết_bị phóng_điện_dung được nối đất tin_cậy .
+
+5 . 6 . 7 . 2 . Khi nắp mở nhanh ở vị_trí mở , bộ tiếp_điểm cách_li mạch chính không_thể đóng được .
+
+5 . 6 . 7 . 3 . Khi máy cắt ở vị_trí đóng thì không thể_thao_tác được bộ tiếp_điểm cách_li mạch chính .
+
+5 . 6 . 7 . 4 . Khi máy cắt ở vị_trí đóng cơ_cấu tích_trữ năng_lượng lò_xo không_thể_tích_trữ năng_lượng đề thực_hiện thao_tác đóng
+
+5 . 6 . 8 . Tủ phân_phối 6 kV phòng nổ phải được trang_bị cửa xuyên sáng để quan_sát các thông_số vận_hành ; chỉ báo cơ_học_vị_trí đóng , cắt của tay đóng - cắt ; vị_trí đóng và mở của bộ tiếp_điểm cách_li mạch chính .
+
+5 . 6 . 9 . Sơ_đồ nguyên_lý , sơ_đồ đấu nối mạch điện phải được bắt chặt vào thành tủ và ở vị_trí dễ quan_sát .
+
+5 . 6 . 10 . Các mạch điện để điều_khiển từ xa của tủ phân_phối 6 kV phòng nổ phải là mạch an_toàn tia lửa dạng y với mức_độ an_toàn ia hoặc ib theo các Điều 3 . 7 và Điều 3 . 8 Tcvn 7079-11:2002.
+
+5 . 6 . 11 . Các khối chức_năng điều_khiển và bảo_vệ phải có chế_độ loại_trừ việc lắp_đặt sai .
+
+5 . 6 . 12 . Các kết_nối hạ_áp bên trong và các kết_nối cao_áp đầu_vào , ra mạch chính của tủ phân_phối 6 kV phòng nổ phải tuân_thủ theo quy_định tại Điếu 5 . 4 . 5 . 2 Iec 62271 - 1 : 2017 và Sửa_đổi 1 : 2021 .
+
+5 . 6 . 12 . 1 . Các đầu nối dây phải duy_trì áp_lực tiếp_xúc cần_thiết và có chi_tiết chống tự nới lỏng , tương_ứng với thông_số dòng_điện và dòng_điện ngắn mạch của mạch điện .
+
+5 . 6 . 13 . Cấp bảo_vệ vỏ ngoài của các khối thiết_bị điều_khiển từ xa , khoá liên động điện , bảo_vệ được tích_hợp trong tủ phân_phối 6 kV phòng nổ phải được chế_tạo với mức_độ bảo_vệ không thấp hơn Ip54 theo hướng_dẫn tại Điều 5 . 2 Tcvn 4255 : 2008 .
+
+5 . 6 . 14 . Vỏ của tủ phân_phối 6 kV phòng nổ phải có kết_cấu lắp các đầu_vào , ra cao_áp để tủ có_thể vận_hành độc_lập hoặc ghép_nối với nhau tạo thành trạm phân_phối cao_áp đảm_bảo các tính_năng kĩ_thuật và phòng nổ .
+
+6 . Yêu_cầu đối_với các cấu_trúc phòng nổ của tử phân_phối 6 kV phòng nổ
+
+Tủ phân_phối 6 kV phòng nổ sử_dụng trong mỏ hầm_lò có khí cháy và bụi nổ phải được thiết_kế , chế_tạo , thử_nghiệm tuân_thủ theo các tiêu_chuẩn Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) , Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) ; tiêu_chuẩn Tcvn 7079-7 ( iec 60079 - 7 ) , Tcvn 7079-11 ( iec 60079 - 11 ) tương_ứng với các dạng bảo_vệ nổ và các quy_định tại Quy_chuẩn kĩ_thuật này .
+
+6 . 1 . Các bộ_phận chính của bảo_vệ vỏ không xuyên nổ dạng " d gồm :
+
+6 . 1 . 1 . Khoang_đấu cáp
+
+6 . 1 . 2 . Cổ cáp đầu_vào và cổ cáp đầu_ra , các phễu cáp .
+
+6 . 1 . 3 . Sứ xuyên qua thành và vách của vỏ phòng nổ .
+
+6 . 1 . 4 . Phần_tử xuyên sáng .
+
+6 . 1 . 5 . Nút bấm điều_khiển , khoá chuyển mạch .
+
+6 . 1 . 6 . Cơ_cấu điều_khiển truyền chuyển_động quay hoặc tịnh_tiến .
+
+6 . 1 . 7 . Chốt , lỗ liên_quan và các phần_tử trống .
+
+6 . 1 . 8 . Cơ_cấu bắt chặt đặc_biệt .
+
+6 . 1 . 9 . Cơ_cấu liên động .
+
+6 . 1 . 10 . Nắp mở nhanh .
+
+6 . 1 . 11 . Các khoang chứa các thiết_bị điện .
+
+6 . 2 . Yêu_cầu đối_với vỏ không xuyên nổ dạng d
+
+6 . 2 . 1 . Các dạng mối ghép phòng nổ
+
+Các mối ghép phòng nổ phải tuân theo Điều 5 , Điều 6 , Điều 7 và Điều 8 Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) và theo các quy_định tại Quy_chuẩn kĩ_thuật chuẩn này .
+
+6 . 2 . 1 . 1 . Mối ghép phòng nổ dạng ống , hình_trụ không có lỗ bắt bu_lông như Hình 1 .
+
+Chú_dẫn :
+
+c - Bề rộng mối ghép phòng nổ phần mặt_phẳng , mm .
+
+d - Bề rộng mối ghép phòng nổ phần hình_trụ , mm .
+
+F - Khoảng hở của mép vát , mm .
+
+L - Bề rộng nhỏ nhất của mối ghép phòng nổ , mm ; L = c + d với điều_kiện : c 3 , 0 mm , f 1 , 0 mm .
+
+T - Phía bên trong của vỏ thiết_bị .
+
+Hình 1 . Mối ghép phòng nổ dạng ống , hình_trụ không có lỗ bắt bu_lông
+
+6 . 2 . 1 . 2 . Mối ghép phòng nổ dạng ống , hình_trụ có lỗ bắt bu_lông như Hình 2 .
+
+Chú_dẫn :
+
+a - Bề rộng mối ghép phần hình_trụ , mm .
+
+b - Bề rộng mối ghép phần mặt_phẳng đến lỗ bu_lông , mm .
+
+y - Khe_hở của mối ghép hình_trụ , mm .
+
+l Khoảng_cách nhỏ nhất từ bên trong thiết_bị đến lỗ bu_lông , mm ; I = a + b nếu y 0 , 2 mm .
+
+L - Bề rộng nhỏ nhất của mối ghép phòng nổ , mm .
+
+T - Phía bên trong của vỏ thiết_bị .
+
+Hình 2 . Mối ghép phòng nổ dạng ống , hình_trụ có lỗ bắt bu_lông
+
+6 . 2 . 1 . 3 . Mối ghép phòng nổ dạng mặt bích phẳng như Hình 3 .
+
+Chú_dẫn :
+
+l - Khoảng_cách nhỏ nhất từ bên trong thiết_bị đến lỗ bu_lông , mm .
+
+L - Bề rộng nhỏ nhất của mối ghép phòng nổ , mm .
+
+T - Phía bên trong của vỏ thiết_bị .
+
+Hình 3 . Mối ghép phòng nổ dạng mặt bích phẳng
+
+6 . 2 . 1 . 4 . Khoảng_cách nhỏ nhất từ bên trong thiết_bị đến lỗ bu_lông phải đảm_bảo theo quy_định tại Bảng 1 Quy_chuẩn kĩ_thuật này .
+
+Bảng 1 . Khoảng_cách nhỏ nhất từ bên trong thiết_bị đến lỗ bu_lông .
+
+6 . 2 . 1 . 5 . Mối ghép phòng nổ dạng mặt bích có gioăng đệm như Hình 4 .
+
+Chú_dẫn :
+
+G - Gioăng đệm .
+
+L - Bề rộng nhỏ nhất của mặt bích phòng nổ , mm .
+
+T - Phía bên trong của vỏ thiết_bị .
+
+Hình 4 . Mối ghép phòng nổ mặt bích có gioăng đệm
+
+6 . 2 . 1 . 6 . Mối ghép phòng nổ dạng trục xoay hoặc tịnh_tiến như Hình 5 .
+
+Chú_dẫn :
+
+L - Bề rộng nhỏ nhất của mối ghép phòng nổ , mm .
+
+Trường_hợp cần thao_tác đi qua thành của vỏ không xuyên nổ , chiều rộng của mối ghép phải tuân_thủ theo Điều 7 Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) .
+
+Hình 5 . Mối ghép phòng nổ dạng trục xoay
+
+6 . 2 . 1 . 7 . Mối ghép phòng nổ dạng trục xoay có bạc_lót như Hình 6 .
+
+Chú_dẫn :
+
+L - Bề rộng nhỏ nhất của mối ghép phòng nổ , mm .
+
+Hình 6 . Mối ghép phòng nổ dạng trục xoay có bạc_lót
+
+6 . 2 . 1 . 8 . Mối ghép phòng nổ dạng ren vít tuân_thủ theo các Điều 5 . 2 . 8 và Điều 5 . 3 Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 ) , như Hình 7 .
+
+Chú_dẫn :
+
+T - Bước ren .
+
+Y - Chiều dài ăn_khớp của ren , mm .
+
+- Góc đỉnh ren , độ ,
+
+Hình 7 . Mối ghép phòng nổ dạng ren , vít
+
+6 . 2 . 2 . Chiều rộng và khe hở nhỏ nhất của mối ghép phòng nổ :
+
+6 . 2 . 2 . 1 . Đối_với các mối ghép dạng : Ống , hình_trụ , mặt bích , trục xoay , theo quy_định tại Bảng 2 Quy_chuẩn kĩ_thuật này , độ nhấp_nhô của bề_mặt ( độ nhám ) Ra không được lớn hơn 63 m .
+
+Bảng 2 . Chiều rộng và khe hở nhỏ nhất của mối ghép phòng nổ
+
+6 . 2 . 2 . 2 . Đối_với mối ghép dạng ren , vít tuân_thủ theo các yêu_cầu sau :
+
+6 . 2 . 2 . 2 . 1 . Ít_nhất năm ren được ăn_khớp với nhau .
+
+6 . 2 . 2 . 2 2 . Bước ren 0 , 7 mm .
+
+6 . 2 . 2 . 2 3 . Góc đỉnh răng bằng 60 ( 5 ) .
+
+6 . 2 . 2 . 2 . 4 . Chiều dài ăn_khớp của ren 5 mm với V 100 cm3 .
+
+6 . 2 . 2 . 2 . 5 . Chiều dài ăn_khớp của ren 8 mm với V > 100 cm3 .
+
+6 . 2 . 3 . Cơ_cấu bắt chặt đặc_biệt
+
+6 . 2 . 3 . 1 . Cơ_cấu bắt chặt phải tuân_thủ theo Điều 9 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) .
+
+6 2 . 3 . 2 . Đối_với cơ_cấu bắt chặt dạng bảo_vệ không xuyên nổ d phải tuân_thủ quy_định tại khoản 2 . 3 . 1 Điều này và Điều 11 Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) .
+
+6 . 2 . 3 . 3 . Tất_cả các mốt ghép phòng nổ sử_dụng bu_lông bắt chặt phải có các vòng_đệm vềnh chống trôi và chỉ mở được khi sử_dụng các dụng_cụ .
+
+6 . 2 . 4 . Nắp mở nhanh phải có cơ_cấu khoá liên động : chỉ mở được sau khi đã cắt điện và cơ_cấu khoá liên động đã được giải_phóng .
+
+6 . 2 . 5 . Cổ cáp vào thiết_bị
+
+Các đầu_vào dẫn cáp đến khoang_đấu cáp của tủ phân_phối 6 kV phòng nổ phải tuân_thủ theo Điều 16 và Phụ_lục A_Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) , Điều 13 Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) và các yêu_cầu sau :
+
+6 . 2 . 5 . 1 . Được bắt chặt vào vỏ thiết_bị và có đầy_đủ các chi_tiết để làm kín và kẹp chặt cáp , một trong các loại cổ cáp như Hình 8 .
+
+Chú_dẫn :
+
+1 - Vòng cao_su bịt kín cáp .
+
+2 - Cáp điện cao_su .
+
+3 - Chi_tiết kẹp cáp .
+
+4 - Chi_tiết vào cáp để ép chặt gioăng đệm cao_su
+
+5 - Vỏ_thiết_bị .
+
+d - Đường_kính ngoài của cáp điện cao_su , mm .
+
+D1 - Đường_kính trong của cổ cáp , mm .
+
+D2 , D3 - Đường_kính ngoài , trong của gioăng đệm cao_su , mm .
+
+Hình 8 . Cổ_cáp khi được đấu nối
+
+6 . 2 . 5 . 2 . Khoảng_cách giữa cổ cáp , gioăng đệm và cáp điện cao_su theo quy_định tại Bảng 3 Quy_chuẩn kĩ_thuật này .
+
+Bảng 3 . Khoảng_cách giữa cổ cáp , gioăng đệm và cáp điện cao_su
+
+6 . 2 . 5 . 3 . Các chi_tiết của cổ cáp phải được vặn chặt đề đảm_bảo tính_năng làm kín .
+
+6 . 2 . 5 . 4 . Vòng bịt kín cao_su phải đảm_bảo không bị nứt , đàn_hồi tốt , cáp điện không bị kéo căng hoặc bẻ gập trong quá_trình lắp_ráp và vận_hành .
+
+6 . 2 . 5 . 5 . Ở cổ cáp cao_áp có sử_dụng vật_liệu điền đầy cách_điện , khối điền đầy khi đông cứng phải đảm_bảo không có vết nứt .
+
+6 . 2 . 6 . Cổ_cáp chưa được đấu nối phải được bịt kín như Hình 9 hoặc cách khác với sự làm kín tương_tự .
+
+Chú_dẫn :
+
+1 - Nút bịt kín .
+
+2 - Vòng cao_su bịt kín .
+
+3 - Chi_tiết cổ cáp vào , ra để ép kín .
+
+4 - Chi_tiết kẹp cáp .
+
+Hình 9 . Cổ_cáp chưa được đấu nối
+
+6 . 3 . Phần_tử xuyên sáng
+
+Phần_tử xuyên sáng phải tuân_thủ theo Điều 9 Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 } và Điều 26 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) .
+
+6 . 4 . Vật_liệu chế_tạo vỏ
+
+6 . 4 . 1 . Vật_liệu chế_tạo phi_kim_loại
+
+Vật_liệu phi_kim_loại được dùng để chế_tạo các chi_tiết , thành_phần và các bộ_phận của vỏ tủ phân_phối 6 kV phòng nổ phải tuân_thủ theo quy_định tại Điều 7 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) .
+
+6 . 4 . 2 . Vật_liệu chế_tạo kim_loại
+
+Vật_liệu kim_loại được dùng để chế_tạo các chi_tiết và các bộ_phận của vỏ tủ phân_phối 6 kV phòng nố phải tuân_thủ theo quy_định tại Điều 8 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 ) .
+
+6 . 5 . Các ống lót ( sứ xuyên ) , cọc đấu dây_dẫn_điện qua các thành và vách của vỏ tủ phải tuân_thủ theo quy_định tại Điều 11 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) và đảm_bảo không bị hư_hỏng trong quá_trình đấu nối các dây_dẫn_điện .
+
+6 . 6 . Các phương_tiện đấu nối và các khoang_đấu cáp phải tuân_thủ theo quy_định tại Điều 14 và Điều 15 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) .
+
+6 . 7 . Chỉ_số phóng_điện tương_đối của vật_liệu cách_điện rắn sử_dụng trong tủ phân_phối 6 kV phòng nổ phải tuân_thủ theo quy_định tại Điều 4 . 1 Iec 60079 - 7 : 2015 , chỉ_số phòng điện tương_đối của vật_liệu cách_điện rắn ( CTl ) theo quy_định tại Bảng 4 Quy_chuẩn kĩ_thuật này .
+
+Bảng 4 . Chỉ_số phóng_điện tương_đối của vật_liệu cách_điện rắn
+
+Vật_liệu cách_điện rắn được sử_dụng trong các mạch điện làm_việc ở điện_áp vượt quá 250 V hoặc mang dòng_điện lớn hơn 16 A phải có chỉ_số Cti không nhỏ hơn 400 .
+
+6 . 8 . Các yêu_cầu khe hở và chiều dài đường rò
+
+Các yêu_cầu về khe hở trong không_khí giữa hai phần mang điện và chiều dài đường rò dọc theo bề_mặt của vật_liệu cách_điện giữa hai phần dẫn_điện tuân_thủ theo quy_định tại Điều 4 . 3 và Điều 4 . 4 Iec 60079 - 7 : 2015 và theo quy_định tại Bảng 5 Quy_chuẩn kĩ_thuật này .
+
+Bảng 5 . Khe_hở và chiều dài đường rò
+
+6 . 9 . Yêu_cầu đối_với bộ_phận có dạng bảo_vệ an_toàn tia lửa y của tủ phân_phối 6 kV phòng nổ phải tuân_thủ theo Tcvn 7079-11:2002 và đảm_bảo các yêu_cầu sau :
+
+6 . 9 . 1 . Cấp bảo_vệ vỏ ngoài của bộ_phận an_toàn tia_lửa ( mã Ip ) phải lớn hơn hoặc bằng mức Ip54 được quy_định tại Tcvn 4255 : 2008 ( iec 60529 : 2001 ) .
+
+6 . 9 . 2 . Các thông_số R , L & C của mạch điện phải đảm_bảo khi mạch được thử_nghiệm , đánh_giá không làm bốc cháy hỗn_hợp khí thử_nghiệm bởi tia lửa .
+
+6 . 9 . 3 . Các hiệu_ứng về nhiệt_độ_sinh ra trong các mạch an_toàn tia lửa ở bất_cứ trường_hợp nào phải đảm_bảo không làm bốc cháy hỗn_hợp khí do nóng bề_mặt gây ra .
+
+6 . 9 . 4 . Các mạch điện an_toàn tia lửa phải được cách_li với nhau và cách_li với các mạch không an_toàn tia lửa .
+
+7 . Các yêu_cầu kĩ_thuật đối_với tủ phân_phối 6 kV phòng nổ sử_dụng trong mỏ hầm_lò
+
+7 . 1 . Các thông_số cơ_bản
+
+7 . 1 . 1 . Điện_áp danh định ( Ur ) : 6 kV .
+
+7 . 1 . 2 . Dòng_điện danh định ( Ir ) là một giá_trị trong dãy sau : 50 A , 100 A , , 200 A , 315 A , 400 A , 500 A , 630 A , 800 A , 1 000 A , 1 250 A .
+
+7 . 1 . 3 . Dòng_điện cắt ngắn mạch danh định ( / k ) là một giá_trị trong dãy sau : 6 , 3 kA , 8 kA , 12 , 5 kA , 16 kA , 20 kA , 25 kA , 31 , 5 kA .
+
+7 . 1 . 4 . Dòng_điện đóng ngắn mạch danh định ( Ip ) lớn nhất bằng 2 , 5 lần giá_trị hiệu_dụng của thánh phần xoay chiều của dòng_điện cắt ngắn mạch danh định .
+
+7 . 1 . 5 . Thời_gian ngắn mạch danh định ( tk ) : 2 s .
+
+7 . 1 . 6 . Phạm_vi điện_áp làm_việc của thiết_bị phụ ( điều_khiển , bảo_vệ , giám_sát , tín_hiệu và truyền_thông điện_tử ) là 75 % đến 120 % . Điện_áp nguồn danh định của cơ_cấu đóng - cắt và mạch phụ ( Ua ) .
+
+7 . 1 . 6 . 1 . Đối_với điện_áp một chiều : 24 Vdc , 48 Vdc , 60 Vdc , 110 Vdc , 220 V và không lớn hơn 250 Vdc ;
+
+7 . 1 . 6 . 2 . Đối_với điện_áp xoay chiều : 120 Vac , 230 Vac .
+
+7 . 2 . Yêu_cầu với kết_cấu và sơ_đồ điện
+
+7 . 2 . 1 . Yêu_cầu về chức_năng hoạt_động và bảo_vệ :
+
+7 . 2 . 1 . 1 . Hoạt_động bình_thường_khi điện_áp lưới dao_động trong phạm_vi ( từ 85 đến 115 ) % điện_áp danh định ;
+
+7 . 2 . 1 . 2 . Bảo_vệ quá dòng_điện ;
+
+7 . 2 . 1 . 3 . Bảo_vệ quá dòng có thời_gian tác_động trễ xác_định ;
+
+7 . 2 . 1 . 4 . Bảo_vệ quá dòng có thời_gian tác_động trễ nghịch_đảo ( bảo_vệ quá_tải ) ;
+
+7 . 2 . 1 . 5 . Bảo_vệ dòng ngắn mạch ;
+
+7 . 2 . 1 . 6 . Bảo_vệ chạm đất ( rò điện ) ;
+
+7 . 2 . 1 . 7 . Bảo_vệ điện_áp_thấp ;
+
+7 . 2 . 1 . 8 . Bảo_vệ quá điện_áp .
+
+7 . 2 . 2 . Hiển_thị các thông_số trong quá_trình vận_hành , tín_hiệu trạng_thái làm_việc của tủ : đóng - cắt ; tác_động của các loại bảo_vệ và liên động .
+
+7 . 2 . 3 . Có chế_độ kiểm_tra hoạt_động và báo lỗi sự_cố của các bộ bảo_vệ .
+
+7 . 3 . Yêu_cầu cách_điện
+
+7 . 3 . 1 . Giá_trị điện_trở cách_điện
+
+7 . 3 . 1 . 1 . Mạch chính 6 kV phải được kiểm_tra theo tài_liệu của nhà chế_tạo hoặc theo quy_định tại Bảng 2-24-1 Điều 28 Qtđ 05 : 2009 / bct , không được nhỏ hơn 200 M ở nhiệt_độ 30 C .
+
+7 . 3 . 1 . 2 . Các mạch phụ ( điều_khiển , bảo_vệ , đo_lường và tín_hiệu ) phải được kiểm_tra , không thấp hơn 2 M theo quy_định tại Điều 32 Qtđ - 05 : 2009 / bct .
+
+7 . 3 . 2 . Mức chịu cách_điện
+
+Cách_điện của tủ phân_phối 6 kV phòng nổ phải chịu được điện_áp thử_nghiệm xoay chiều tần_số 50 Hz với thời_gian 1 phút mà không có sự phóng_điện bề_mặt hoặc đánh thủng cách_điện theo quy_định tại Điều 4 . 2 Iec 62271 - 1 : 2017 và Sửa_đổi 1 : 2021 .
+
+7 . 3 . 2 . 1 . Đối_với mạch điện chính 6 kV
+
+Giá_trị điện_áp thử_nghiệm độ bền cách_điện của mạch chính theo quy_định tại Bảng 6 Quy_chuẩn kĩ_thuật này .
+
+Bảng 6 . Điện_áp thử_nghiệm độ bền cách_điện của mạch chính
+
+7 . 3 . 2 . 2 . Đối_với mạch mạch phụ
+
+7 . 3 . 2 . 2 . 1 . Mức chịu cách_điện của mạch phụ tuân_thủ theo quy_định tại Điều 7 . 2 . 3 Tcvn 6592-1:2009 ( iec 60947 - 1 : 2007 ) . Giá_trị điện_áp thử_nghiệm độ bền cách_điện của mạch phụ theo quy_định tại Bảng 7 Quy_chuẩn kĩ_thuật này .
+
+Bảng 7 . Điện_áp thử_nghiệm độ bền cách_điện của mạch phụ
+
+7 . 3 . 2 . 2 . 2 . Đối_với mạch an_toàn tia lửa phải đáp_ứng các quy_định tại Điều 7 . 3 . 2 . 2 . 1 Quy_chuẩn kĩ_thuật này và Điều 6 . 3 . 13 Iec 60079 - 11 : 2015 .
+
+7 . 4 . Yêu_cầu về đặc_tính bảo_vệ
+
+7 . 4 . 1 . Điện_áp nguồn danh định cho hệ_thống bảo_vệ
+
+Điện_áp nguồn danh định của bảo_vệ rơ_le nằm trong các dải sau : 24 Vdc , 48 Vdc , 60 Vdc , 110 Vdc , 120 Vdc . Tần_số 50 Hz , mức tiêu_thụ công_suất không quá 30 Va và hoạt_động đáng tin_cậy trong phạm_vi từ 75 % đến 120 % điện_áp danh định .
+
+7 . 4 . 2 . Bảo_vệ quá dòng có thời_gian tác_động trễ nghịch_đảo được đặt giá_trị theo thang với 20 % . 30 % , 40 % , 50 % , 60 % . 70 % , 80 % , 90 % , 100 % của giá_trị dòng_điện danh định thứ cấp ( le = 5 A ) của máy biến dòng . Các đặc_tính của bảo_vệ quá dòng có thời_gian nghịch được quy_định tại Bảng 8 Quy_chuẩn kĩ_thuật này .
+
+Bảng 8 . Đặc_tính bảo_vệ quá dòng có thời_gian tác_động trễ nghịch_đảo
+
+7 . 4 . 3 . Bảo_vệ ngắn mạch
+
+7 . 4 . 3 . 1 . Dòng_điện tác_động của bảo_vệ ngắn mạch được thiết_lập theo thang đặt từ 1 đến 9 lần giá_trị dòng_điện danh định thứ cấp của máy biến dòng ( le ) và sai_số của giá_trị cài_đặt không vượt quá 10 % . Khi giá_trị dòng ngắn mạch bằng 1 , 2 lần giá_trị dòng cài_đặt , bảo_vệ ngắn mạch được kích_hoạt với thời_gian tác_động phải nhỏ hơn 0 , 1 s .
+
+7 . 4 . 3 . 2 . Khi ngắn mạch tại cuối nguồn trong hệ_thống phân_phối cao_áp với dòng_điện vượt quá 4 lần dòng_điện danh định ( lr ) của máy biến dòng , nguồn dòng_điện cung_cấp để bảo_vệ ngắn mạch phải đáp_ứng các yêu_cầu sau :
+
+7 . 4 . 3 . 3 . Cuộn dây nguồn dòng thứ cấp của biến dòng ( ct ) phải tạo ra_công_suất 25 Va với điện_trở_tải 25 D và cắt máy cắt một_cách đáng tin_cậy .
+
+7 . 4 . 3 . 4 . Thiết_bị bảo_vệ phải duy_trì thời_gian làm_việc bình_thường ít_nhất là 5 s để máy cắt - đóng mở tin_cậy và đảm_bảo việc lưu_trữ , truyền_tải thông_tin hoạt_động của tủ phân_phối 6 kV phòng nổ .
+
+7 . 4 . 4 . Bảo_vệ điện_áp
+
+7 . 4 . 4 . 1 . Bảo_vệ điện_áp_thấp
+
+Bộ nhả thấp điện_áp phải hoạt_động để mở thiết_bị đóng - cắt khi điện_áp ở các đầu cực của bộ nhả giảm xuống dưới 35 % điện_áp danh định . Thời_gian tác_động trễ trong khoảng ( từ 0 đến 5 ) s .
+
+7 . 4 . 4 . 2 . Bảo_vệ quá áp
+
+Khi lưới_điện có điện_áp tăng cao hơn giá_trị định mức 115 % thì bộ bảo_vệ phải tác_động . Thời_gian tác_động trễ trong khoảng ( từ 0 đến 5 ) s .
+
+7 . 4 . 5 . Bảo_vệ giám_sát cách_điện
+
+Các tủ phân_phối 6 kV phòng nổ phải có bảo_vệ giám_sát cách_điện của cáp ra phụ_tải , thông_số hoạt_động theo quy_định tại Bảng 9 Quy_chuẩn kĩ_thuật này .
+
+Bảng 9 . Thông_số hoạt_động của bộ bảo_vệ giám_sát cách_điện
+
+7 . 4 . 6 . Bảo_vệ chạm đất
+
+7 . 4 . 6 . 1 . Bảo_vệ chạm đất có hướng ( nguồn điện thứ tự không tác_động theo dòng 3u0 và áp 3l0 ) theo quy_định tại Bảng 10 Quy_chuẩn kĩ_thuật này .
+
+Bảng 10 . Thông_số hoạt_động của bảo_vệ chạm đất có hướng
+
+7 . 4 . 6 . 2 . Bảo_vệ chạm đất không có hướng ( tác_động theo dòng 3l0 ) , dòng_điện thứ tự không sơ_cấp được chia thành các thang đặt 0 , 5 A , 1 , 0 A , 2 , 0 A , 4 , 0 A , 6 , 0 A , thời_gian tác_động là 0 , 1 s và giá_trị sai_số không lớn hơn 10 % .
+
+7 . 4 . 7 . Bảo_vệ quá điện_áp trong quá_trình vận_hành
+
+Đầu_ra của tủ phân_phối 6 kV phòng nổ phải có bảo_vệ chống quá xung_điện_áp trong quá_trình vận_hành bằng các phần_tử Varistor có điện_áp phù_hợp với lưới_điện cao_áp vận_hành .
+
+7 . 5 . Đối_với các tủ lộ ra có bảo_vệ khoá rò điện thì giá_trị điện_trở_tác_động của bộ bảo_vệ khoá rò điện không được nhỏ hơn 360 k .
+
+7 . 6 . Mạch tự kiểm_tra
+
+Các bộ bảo_vệ sử_dụng kĩ_thuật_số phải có mạch tự kiểm_tra của thiết_bị bảo_vệ rơ_le và có chức_năng hiển_thị trạng_thái làm_việc của thiết_bị .
+
+7 . 7 . Điện_trở tiếp_xúc mạch chính
+
+Điện_trở tiếp_xúc của mạch chính bao_gồm : Điện_trở tiếp_xúc của tiếp_điểm mạch chính của máy cắt , điện_trở tiếp_xúc của bộ tiếp_điểm cách_li cao_áp . Các điện_trở tiếp_xúc do nhà sản_xuất quy_định trong tài_liệu kĩ_thuật .
+
+7 . 8 . Đặc_tính phóng_điện của tụ_điện
+
+Đối_với tủ phân_phối 6 kV phòng nổ có tụ_điện_tích_hợp trong các mạch phụ thì thời_gian phóng của tụ_điện phải đáp_ứng các quy_định tại Điều 6 . 3 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) .
+
+7 . 9 . Độ tăng nhiệt_độ
+
+Khi nhiệt_độ không_khí xung_quanh không vượt quá 40 C , Độ tăng nhiệt của bất_kì bộ_phận nào của tủ phân_phối 6 kV phòng nổ không được vượt quá giới_hạn độ tăng nhiệt được quy_định trong Bảng 11 Quy_chuẩn kĩ_thuật này .
+
+Bảng 11 . Độ tăng nhiệt_độ cho phép của các bộ_phận
+
+7 . 10 . Nhiệt_độ tối_đa trên bề_mặt của tủ phân_phối 6 kV phòng nổ tuân_thủ theo các Điều 5 . 3 , Điều 26 . 5 Tcvn 10888 - 0 : 2015 và không vượt quá quy_định dưới đây :
+
+7 . 10 . 1 . Đối_với bề_mặt có bụi nổ bám : 150 C ;
+
+7 . 10 . 2 . Đối_với bề_mặt không có bụi nổ bám : 450 C .
+
+8 . Các yêu_cầu và phương_pháp kiểm_tra thử_nghiệm
+
+8 . 1 . Yêu_cầu về môi_trường :
+
+8 . 1 . 1 . Nhiệt_độ môi_trường từ - 20 C đến + 40 C ;
+
+8 . 1 . 2 . Giá_trị độ_ẩm tương_đối đến ( 98 2 ) % ở nhiệt_độ 35 C ;
+
+8 . 1 . 3 . Hàm_lượng ôxy là 21 % về thể_tích ;
+
+8 . 1 . 4 . Không có khí chảy , khí độc_hại và hơi ăn_mòn .
+
+8 . 2 . Thiết_bị dụng_cụ thử_nghiệm phải có cấp chính_xác phù_hợp để đo các giá_trị của thông_số cần thử_nghiệm .
+
+8 . 3 . Kiểm_tra , thử_nghiệm các kết_cấu phòng nổ
+
+8 . 3 . 1 . Vỏ tủ phân_phối 6 kV phòng nổ phải có dạng bảo_vệ không xuyên nổ " d
+
+8 . 3 . 1 . 1 . Kiểm_tra các kết_cấu phòng nổ của vỏ gồm :
+
+8 . 3 . 1 . 1 . 1 . Tất_cả các bộ_phận lắp_ráp trên vỏ phòng nổ phải được kiểm_tra phải thoả_mãn các quy_định về phòng nổ của Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) , Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) và Điều 6 Quy_chuẩn kĩ_thuật này .
+
+8 . 3 . 1 . 1 . 2 . Cấu_tạo của bề_mặt mối ghép chống cháy và độ nhám của bề_mặt phải được kiểm_tra lần_lượt bằng thước_đo căn lá , thước_cặp , pan me , thước_đo độ nhám bề_mặt hoặc dụng_cụ thử_nghiệm khác các thông_số phải đảm_bảo theo quy_định tại Điều 6 . 2 . 2 Quy_chuẩn kĩ_thuật này .
+
+8 . 3 . 1 . 1 . 3 . Kiểm_tra khe hở cách_li và chiều dài đường rò giữa các vật dẫn phải được kiểm_tra bằng các loại thước_đo phù_hợp kết_quả phải tuân_thủ theo quy_định tại Điều 6 . 8 Quy_chuẩn kĩ_thuật này .
+
+8 . 3 . 1 . 1 . 4 . Các cơ_cấu khoá liên động phải đảm_bảo nguyên_vẹn , tin_cậy và không_thể mở nắp mở nhanh khi tủ phân_phối đang đóng điện .
+
+8 . 3 . 1 . 1 . 5 . Kiểm_tra các Chỉ_thị cơ_khí về vị_trí công_tác , vị_trí đóng - cắt của máy cát , bộ tiếp_điểm cách_li thông_qua các cửa_sổ quan_sát , các Chỉ_thị phải chính_xác và rõ_ràng .
+
+8 . 3 . 1 . 1 . 6 . Kiểm_tra chức_năng hiển_thị
+
+Khi thiết_bị phân_phối điện có điện , phải hiển_thị điện_áp và dòng_điện làm_việc tương_ứng , đồng_thời hiển_thị trạng_thái đóng , cắt và phải phù_hợp với trạng_thái thực_tế của thiết_bị phân_phối điện . Khi phát_hiện tín_hiệu lỗi thì màn_hình phải hiển_thị .
+
+8 . 3 . 1 . 2 . Thử_nghiệm các kết_cấu phòng nổ của vỏ gồm :
+
+8 . 3 . 1 . 2 . 1 . Thử_nghiệm xác_định nhiệt_độ bề_mặt lớn nhất
+
+Thử_nghiệm xác_định nhiệt_độ làm_việc và nhiệt_độ bề_mặt lớn nhất phải tuân_thủ theo quy_định tại các Điều 26 . 5 . 1 . 2 và Điều 26 . 5 . 1 . 3 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) , nhiệt_độ lớn nhất phải nhỏ hơn 150 C .
+
+8 . 3 . 1 . 2 . 2 . Thử_nghiệm xác_định chỉ_số phòng điện tương_đối ( cti )
+
+Chỉ_số Cti của vật_liệu cách_điện rắn sử_dụng trong tủ phân_phối 6 kV phòng nổ được thử_nghiệm theo tiêu_chuẩn Iec 60112 : 2009 , kết_quả phải đảm_bảo theo quy_định tại Điều 6 . 7 Quy_chuẩn kĩ_thuật này .
+
+8 . 3 . 1 . 2 . 3 . Thử_nghiệm chịu áp_suất của vỏ phòng nổ
+
+8 . 3 . 1 . 2 . 3 . 1 . Thử_nghiệm xác_định áp_suất chuẩn lớn nhất của vụ nổ bên trong vỏ được thực_hiện theo quy_định tại Điều 15 . 2 . 2 Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) ;
+
+8 . 3 . 1 . 2 . 3 . 2 . Thử_nghiệm xác_định quá áp_suất ( độ bền của vỏ ) được thực_hiện theo quy_định tại Điều 15 . 2 . 3 Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) .
+
+8 . 3 . 1 . 2 . 4 . Thử_nghiệm không lan_truyền sự cháy từ bên trong
+
+Thử_nghiệm xác_định sự không lan_truyền cháy của vụ nổ bên trong vỏ phòng nổ ra môi_trường khí_nổ xung_quanh vỏ được thực_hiện theo quy_định tại Điều 15 . 3 Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) .
+
+8 . 3 . 1 . 2 . 5 . Thử_nghiệm xác_định tính_năng của các cổ cáp bao_gồm :
+
+8 . 3 . 1 . 2 . 5 . 1 . Xác_định độ kẹp chặt , thử_nghiệm kẻo , khả_năng chịu va_đập của các cổ cáp thực_hiện theo quy_định tại Điều A3 phụ_lục A_Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) .
+
+8 . 3 . 1 . 2 . 5 . 2 . Độ kín của vòng_đệm làm kín cáp , độ bền cơ của các cổ cáp thực_hiện theo quy_định tại Điều C3 phụ_lục C Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) .
+
+8 . 3 . 1 . 2 . 5 . 3 . Độ bền nhiệt của các gioăng , vòng_đệm kín bằng cao_su thực_hiện theo quy_định tại các Điều 26 . 8 , Điều 26 . 9 , Điều 26 . 16 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) .
+
+8 . 3 . 1 . 2 . 6 . Thử_nghiệm các phần_tử xuyên sáng được lắp_đặt trên vỏ phòng nổ bao_gồm :
+
+8 . 3 . 1 . 2 . 6 . 1 . Va_đập của phần_tử xuyên sáng được thực_hiện theo quy_định tại Điều 26 . 4 . 3 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) kết_quả mẫu thư phải không bị hư_hỏng , nứt và vỡ .
+
+8 . 3 . 1 . 2 . 6 . 2 . Chịu sốc nhiệt thực_hiện theo quy_định tại Điều 26 . 5 . 2 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) kết_quả mẫu thử phải không bị nứt , vỡ hư_hỏng .
+
+8 . 3 . 1 . 2 . 7 . Thử_nghiệm mô men xoắn của các ống luồn cáp và các cực đấu dây được thực_hiện theo quy_định tại Điều 26 . 6 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) .
+
+8 . 3 . 2 . Kiểm_tra các bộ_phận có dạng bảo_vệ an_toàn tia lửa bao_gồm :
+
+8 . 3 . 2 . 1 . Tiết_diện của các dây_dẫn bên trong và bảng mạch in của mạch an_toàn tia lửa kết_quả phải tuân_thủ theo quy_định tại Điều 5 . 6 . 4 Iec 60079 - 11 : 2011 .
+
+8 . 3 . 2 . 2 . Sự cách_li của mạch an_toàn tia lửa thực_hiện theo quy_định tại Điều 6 . 3 Iec 60079 - 11 : 2011 , khoảng_cách giữa các đầu nối dây của mạch an_toàn tia lửa và không an_toàn tia lửa phải tuân_thủ theo quy_định tại Điều 6 . 2 . 1 Iec 60079 - 11 : 2011 và phải lớn hơn 50 mm .
+
+8 . 3 . 2 . 3 . Các mạch an_toàn tia lửa phải được thử_nghiệm đánh lửa bởi tia lửa theo quy_định tại Điều 10 . 1 Iec 60079 - 11 : 2015 , kết_quả không gây cháy hỗn_hợp khí_nổ thử_nghiệm .
+
+8 . 4 . Kiểm_tra , thử_nghiệm các tính_năng kĩ_thuật
+
+8 . 4 . 1 . Kiểm_tra , thử_nghiệm cách_điện .
+
+8 . 4 . 1 . 1 . Kiểm_tra điện_trở cách_điện
+
+Điện_trở cách_điện được kiểm_tra giữa các pha và đất đối_với mạch chính và các mạch phụ , kết_quả đảm_bảo theo quy_định tại Điều 7 . 3 . 1 Quy_chuẩn kĩ_thuật này .
+
+8 . 4 . 1 . 2 . Thử_nghiệm chịu điện_áp tăng cao_tần_số công_nghiệp
+
+Thử_nghiệm độ bền cách_điện bằng điện_áp tăng cao_tần_số công_nghiệp thực_hiện theo Tcvn 6099-1-2007 ( iec 60060 - 1 - 1989 ) giá_trị thử_nghiệm theo quy_định tại Bảng 6 đối_với mạch chính và Bảng 7 đối_với mạch phụ , kết_quả đảm_bảo theo quy_định tại Điều 7 . 3 . 2 Quy_chuẩn kĩ_thuật này .
+
+8 . 4 . 2 . Kiểm_tra thao_tác đóng , cắt
+
+8 . 4 . 2 . 1 . Kiểm_tra thao_tác đóng , cắt bằng tay
+
+Thực_hiện đóng , cắt ba lần bằng tay thao_tác hoặc nút bấm tại hiện_trường , đảm_bảo không có sự bất_thường nào xảy ra trong tủ phân_phối 6 kV phòng nổ .
+
+8 . 4 . 2 . 2 . Kiểm_tra thao_tác đóng , cắt bằng điện
+
+Thực_hiện đóng , cắt ba lần tại điện_áp định mức bằng điều_khiển từ xa đảm_bảo không có sự bất_thường nào xảy ra trong tủ phân_phối 6 kV phòng nổ .
+
+8 . 4 . 2 . 3 . Kiểm_tra cơ_cấu cắt tự_động
+
+Thực_hiện Lệnh cắt đối_với máy cắt đảm_bảo tủ phân_phối 6 kV phòng nổ được cắt ngay lập_tức và không bị đóng lại .
+
+8 . 4 . 3 . Thử_nghiệm xác_định các thông_số đóng , cắt
+
+8 . 4 . 3 . 1 . Xác_định điện_trở tiếp_xúc của tiếp_điểm mạch chính
+
+Điện_trở tiếp_xúc của tiếp_điểm mạch chính được đo bằng phương_pháp Vôn - Am pe sử_dụng dòng_điện dc hoặc sử_dụng các cầu đo điện_trở tiếp_xúc có giá_trị thang đo đến , kết_quả đo phải đáp_ứng theo yêu_cầu thông_số kĩ_thuật của nhà sản_xuất .
+
+8 . 4 . 3 . 2 . Xác_định thời_gian đóng mở tiếp_điểm
+
+Phải đo , kiểm_tra thời_gian đóng mở tiếp_điểm , đảm_bảo các thông_số kĩ_thuật của nhà chế_tạo .
+
+8 . 4 . 3 . 3 . Kiểm_tra sự tiếp_xúc đồng_thời 3 pha
+
+Phải đo , kiểm_tra thời_gian đóng mở không đồng_thời ba pha để đảm_bảo theo thiết_kế của nhà sản_xuất hoặc không lớn hơn 0 , 006 s .
+
+8 . 4 . 4 . Kiểm_tra điện_áp vận_hành tối_thiểu của cơ_cấu đóng mở
+
+Không đặt điện_áp vào mạch chính của tủ , loại_bỏ bộ biến_đổi điện_áp ( pt ) khỏi mạch thử_nghiệm , cấp nguồn điện tương_ứng với sơ_đồ của tủ cho các mạch phụ ( điều_khiển , bảo_vệ , tín_hiệu ) và xác_định điện_áp đóng cắt nhỏ nhất khi tủ phân_phối 6 kV phòng nổ hoàn_thành quá_trình đóng , cắt . Giá_trị nhỏ nhất của điện_áp cho phép theo quy_định tại Bảng 12 Quy_chuẩn kĩ_thuật này .
+
+Bảng 12 . Giá_trị điện_áp vận_hành nhỏ nhất của máy cắt
+
+8 . 4 . 5 . Thử_nghiệm máy biến điện_áp và dòng_điện
+
+8 . 4 . 5 . 1 . Thử_nghiệm máy biến điện_áp ( pt )
+
+Kiểm_tra , thử_nghiệm máy biến điện_áp thực_hiện theo quy_định tại Điều 28 Qcvn_qtđ - 05 : 2009 / bct .
+
+8 . 4 . 5 . 2 . Thử_nghiệm máy biến dòng_điện ( ct )
+
+Kiểm_tra , thử_nghiệm máy biến dòng_điện thực_hiện theo quy_định tại Điều 29 Qcvn_qtđ - 05 : 2009 / bct
+
+8 . 4 . 6 . Thử_nghiệm bảo_vệ điện_áp_thấp
+
+Kiểm_tra , thử_nghiệm bảo_vệ điện_áp_thấp đảm_bảo quy_định tại Điều 7 . 4 . 4 . 1 Quy_chuẩn kĩ_thuật này .
+
+8 . 4 . 7 . Thử_nghiệm bảo_vệ quá dòng_điện
+
+Kiểm_tra , thử_nghiệm bảo_vệ quá dòng_điện đảm_bảo quy_định tại Điều 7 . 4 . 2 Quy_chuẩn kĩ_thuật này .
+
+8 . 4 . 8 . Thử_nghiệm bảo_vệ ngắn mạch
+
+Kiểm_tra , thử_nghiệm bảo_vệ ngắn mạch đảm_bảo quy_định tại Điều 7 . 4 . 3 Quy_chuẩn kĩ_thuật này .
+
+8 . 4 . 9 . Thử_nghiệm mạch bảo_vệ giám_sát cách_điện
+
+Kiểm_tra , thử_nghiệm mạch bảo_vệ giám_sát cách_điện đảm_bảo quy_định tại Điều 7 . 4 . 5 Quy_chuẩn kĩ_thuật này .
+
+8 . 4 . 10 . Thử_nghiệm mạch khoá rò điện phía phụ_tải
+
+Kiểm_tra , thử_nghiệm mạch khoá rò điện phía phụ_tải đảm_bảo quy_định tại Điều 7 . 5 Quy_chuẩn kĩ_thuật này .
+
+Iii . Quy_định Về Quản_lý
+
+9 . Quy_định về nhãn
+
+9 . 1 . Nội_dung ghi trên nhãn
+
+Thông_tin ghi trên nhãn của tủ phân_phối 6 kV phòng nổ sử_dụng trong mỏ hầm_lò phải tuân_thủ theo quy_định tại <NĐ rel="DSD"> Nghị_định số 43/2017/NĐ-CP ngày 14 tháng 4 năm 2017 </NĐ> của Chính_phủ quy_định về nhãn hàng_hoá đã được sửa_đổi , bổ_sung bởi <NĐ rel="DC"> Nghị_định số 111/2021/NĐ-CP ngày 09 tháng 12 năm 2021 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều <NĐ rel="DSD"> Nghị_định số 43/2017/NĐ-CP ngày 14 tháng 4 năm 2017 </NĐ> của Chính_phủ về nhãn hàng_hoá và các bộ_phận của tủ phân_phối 6 kV phòng nổ phải thể_hiện các nội_dung sau :
+
+9 . 1 . 1 . Kiểu , loại ;
+
+9 . 1 . 2 . Điện_áp danh định , V ;
+
+9 . 1 . 3 . Dòng_điện danh định , A ;
+
+9 . 1 . 4 . Giới_hạn dòng_điện cắt , kA ;
+
+9 . 1 . 5 . Tần_số danh định , Hz ;
+
+9 . 1 . 6 . Dạng bảo_vệ nổ ;
+
+9 . 1 . 7 . Cấp bảo_vệ bằng vỏ ngoài ( mã Ip ) ;
+
+9 . 1 . 8 . Số chứng_chỉ phòng nổ ;
+
+9 . 1 . 9 . Số chế_tạo của nhà_máy ;
+
+9 . 1 . 10 . Thông_số của mạch an_toàn tia_lửa ( nếu có ) ;
+
+9 . 1 . 11 . Năm sản_xuất ;
+
+9 . 1 . 12 . Khối_lượng , kg .
+
+9 . 2 . Chất_liệu và vị_trí của nhãn
+
+Nhãn được làm_bằng thép trắng hoặc đồng dày 1 , 5 mm , các thông_tin thể_hiện trong bảng được khắc có chiều sâu không nhỏ hơn 0 , 5 mm , phải được bố_trí ở nơi dễ nhìn và dễ thấy được bắt chặt vào vỏ bằng phương_pháp đinh_tán hoặc vít .
+
+9 . 3 . Tấm sơ_đồ nguyên_lí điện
+
+Sơ_đồ nguyên_lí điện mô_tả nguyên_lí hoạt_động và cách đấu nối của tủ phân_phối 6 kV phòng nổ phải được gắn bên trong thành của vỏ .
+
+10 . Quy_định về hợp quy
+
+10 . 1 . Tủ phân_phối 6 kV phòng nổ thuộc phạm_vi điều_chỉnh của Quy_chuẩn này phải công_bố hợp quy phù_hợp với các quy_định về kĩ_thuật an_toàn tại Phần_ii của Quy_chuẩn kĩ_thuật này , gắn dấu hợp quy ( dấu Cr ) trước khi lưu_thông trên thị_trường .
+
+10 . 2 . Tủ phân_phối 6 kV phòng nổ nhập_khẩu phải thực_hiện đăng_kí kiểm_tra nhà_nước về chất_lượng hàng_hoá nhập_khẩu theo quy_định tại <TT rel="DC"> Thông_tư số 36/2019/TT-BCT ngày 29 tháng 11 năm 2019 </TT> của Bộ Công_thương quy_định quản_lí chất_lượng sản_phẩm , hàng_hoá nhóm 2 thuộc trách_nhiệm quản_lí của Bộ Công_thương .
+
+10 . 3 . Công_bố hợp quy
+
+10 . 3 . 1 . Việc công_bố hợp quy tủ phân_phối 6 kV phòng nổ phải dựa trên kết_quả chứng_nhận của tổ_chức chứng_nhận đã đăng_kí lĩnh_vực hoạt_động theo quy_định tại <NĐ rel="DSD"> Nghị_định 107/2016/NĐ-CP ngày 01 tháng 7 năm 2016 </NĐ> của Chính_phủ quy_định kinh_doanh dịch_vụ đánh_giá sự phù_hợp đã được sửa_đổi , bổ_sung bởi <NĐ rel="DC"> Nghị_định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 </NĐ> của Chính_phủ sửa_đổi , bổ_sung , bãi_bỏ một_số quy_định về điều_kiện đầu_tư , kinh_doanh trong lĩnh_vực quản_lí nhà_nước của Bộ Khoa_học và Công_nghệ và một_số quy_định về kiểm_tra chuyên_ngành ( sau đây viết tắt là <NĐ rel="None"> Nghị_định số 107/2016/NĐ-CP </NĐ>) hoặc được thừa_nhận theo quy_định của <TT rel="DC"> Thông_tư số 27/2007/TT-BKHCN ngày 31 tháng 10 năm 2007 </TT> của Bộ_trưởng Bộ Khoa_học và Công_nghệ hướng_dẫn việc kí_kết và thực_hiện các Hiệp_định và thoả_thuận thừa_nhận lẫn nhau kết_quả đánh_giá sự phù_hợp ( sau đây viết tắt là <TT rel="DC"> Thông_tư số 27/2007/TT-BKHCN </TT>).
+
+10 . 3 . 2 . Chứng_nhận hợp quy
+
+Chứng_nhận hợp quy đối_với tủ phân_phối 6 kV phòng nổ sản_xuất trong nước và nhập_khẩu thực_hiện theo phương_thức 5 Thử_nghiệm mẫu điển_hình và đánh_giá quá_trình sản_xuất ; giám_sát thông_qua thử_nghiệm mẫu lấy tại nơi sản_xuất hoặc trên thị_trường hoặc lô hàng nhập_khẩu kết_hợp với đánh_giá quá_trình sản_xuất " hoặc phương_thức 7 Thử_nghiệm , đánh_giá lô sản_phẩm , hàng_hoá ' tại cơ_sở sản_xuất theo quy_định tại khoản 1 Điều 5 <TT rel="DC"> Thông_tư số 28/2012/TT-BKHCN </TT>.
+
+10 . 3 . 3 . Thử_nghiệm phục_vụ_việc chứng_nhận phải được thực_hiện bởi một trong các tổ_chức sau :
+
+10 . 3 . 3 . 1 . Thử_nghiệm đối_với tủ phân_phối 6 kV phòng nổ sản_xuất trong nước : Tổ_chức thử_nghiệm theo quy_định tại <NĐ rel="DC"> Nghị_định số 107/2016/NĐ-CP </NĐ> hoặc tổ_chức thử_nghiệm được Bộ Công_thương chỉ_định theo quy_định tại <TT rel="DC"> Thông_tư số 36/2019/TT-BCT </TT> hoặc tổ_chức được thừa_nhận theo quy_định của <TT rel="DC"> Thông_tư số 27/2007/TT-BKHCN </TT>.
+
+10 . 3 . 3 . 2 . Thử_nghiệm đối_với tủ phân_phối 6 kV phòng nổ nhập_khẩu : Tổ_chức thử_nghiệm được Bộ Công_thương chỉ_định theo quy_định tại <TT rel="DC"> Thông_tư số 36/2019/TT-BCT </TT> và <NĐ rel="DC"> Nghị_định số 154/2018/NĐ-CP ngày 11 tháng 9 năm 2018 </NĐ> của Chính_phủ hoặc tổ_chức được thừa_nhận theo quy_định của <TT rel="DC"> Thông_tư số 27/2007/TT-BKHCN </TT>.
+
+10 . 3 . 4 . Dấu_hợp quy phải tuân_thủ theo quy_định tại khoản 2 Điều 4 quy_định về chứng_nhận hợp chuẩn , chứng_nhận hợp quy và công_bố hợp chuẩn , công_bố hợp quy ban_hành kèm theo <TT rel="DC"> Thông_tư số 28/2012/TT-BKHCN </TT>.
+
+10 . 3 . 5 . Trình_tự , thủ_tục và hồ_sơ công_bố hợp quy
+
+Trình_tự , thủ_tục và hồ_sơ công_bố hợp quy đối_với tủ phân_phối 6 kV phòng nổ sản_xuất trong nước và nhập_khẩu thực_hiện theo <TT rel="DC"> Thông_tư số 36/2019/TT-BCT ngày 29 tháng 11 năm 2019 </TT> của Bộ_trưởng Bộ Công_thương quy_định quản_lí chất_lượng sản_phẩm , hàng_hoá thuộc trách_nhiệm quản_lí của Bộ Công_thương .
+
+11 . Yêu_cầu về hồ_sơ quản_lí tủ phân_phối 6 kV phòng nổ sử_dụng trong mỏ hầm_lò
+
+11 . 1 . Phải có đầy_đủ các tài_liệu kĩ_thuật của nhà chế_tạo , gồm ; Hướng_dẫn vận_chuyển , sử_dụng , bảo_dưỡng và bảo_quản . Trường_hợp tài_liệu kĩ_thuật tiếng nước_ngoài phải có bản dịch sang tiếng việt
+
+11 . 2 . Tổ_chức , cá_nhân sử_dụng tủ phân_phối 6 kV phòng nổ phải lập hồ_sơ quản_lí từ khi bắt_đầu đưa vào sử_dụng bao_gồm :
+
+11 . 2 . 1 . Thiết_kế hoặc biện_pháp thi_công , lắp_đặt của tủ phân_phối 6 kV phòng nổ được phê_duyệt .
+
+11 . 2 . 2 . Hồ_sơ nghiệm_thu sau lắp_đặt .
+
+11 . 2 . 3 . Hồ_sơ hoàn_công lắp_đặt .
+
+11 . 2 . 4 . Hồ_sơ kiểm_định , thử_nghiệm hiệu_chỉnh .
+
+11 . 2 . 5 . Quy_trình vận_hành .
+
+11 . 2 . 6 . Sổ ghi kết_quả kiểm_tra kĩ_thuật an_toàn và theo_dõi tình_trạng hoạt_động của tủ phân_phối 6 kV phòng nổ sử_dụng trong mỏ hầm_lò .
+
+11 . 2 . 7 . Nội_quy an_toàn , quy_trình trong vận_chuyển , lắp_đặt , kiểm_tra , vận_hành , bảo_dưỡng , sửa_chữa và bảo_quản tủ phân_phối 6 kV phòng nổ sử_dụng trong mỏ hầm_lò .
+
+12 . Yêu_cầu về kiểm_tra trong quá_trình vận_hành
+
+12 . 1 . Tủ phân_phối 6 kV phòng nổ sử_dụng trong mỏ hầm_lò phải được kiểm_tra trong quá_trình vận_hành theo quy_định tại Quy_chuẩn kĩ_thuật này .
+
+12 . 2 . Kiểm_tra bằng trực_quan : Kiểm_tra xác_định , mà không cần sử_dụng tiếp_cận bằng thiết_bị hoặc các dụng_cụ .
+
+12 . 3 . Kiểm_tra trực_tiếp : Kiểm_tra những bộ_phận ở bên ngoài bằng trực_quan và xác_định các khuyết_tật bằng cách sử_dụng dụng_cụ , thiết_bị . Kiểm_tra trực_tiếp không được mở vỏ hoặc cắt điện thiết_bị .
+
+12 . 4 . Kiểm_tra chi_tiết : Kiểm_tra trọng đó bao_gồm những nội_dung của kiểm_tra trực_tiếp và xác_định các khuyết_tật bằng sử_dụng dụng_cụ , thiết_bị . Kiểm_tra chi_tiết phải cắt điện và mở vỏ thiết_bị .
+
+13 . Thời_hạn và nội_dung kiểm_tra
+
+13 . 1 . Trách_nhiệm và tần_suất kiểm_tra :
+
+13 . 1 . 1 . Người vận_hành hoặc thợ_điện thường_trực kiểm_tra hàng ca vào đầu các ca làm_việc .
+
+13 . 1 . 2 . Phó_quản_đốc cơ_điện_phân_xưởng hoặc người được uỷ_quyền kiểm_tra hàng tuần .
+
+13 . 1 . 3 . Trưởng_phòng cơ_điện hoặc người được uỷ_quyền kiểm_tra hàng quý .
+
+13 . 1 . 4 . Phó_giám_đốc cơ_điện hoặc những người được chỉ_định kiểm_tra hàng năm .
+
+13 . 2 . Nội_dung kiểm_tra thực_hiện theo quy_định tại Phụ_lục A Quy_chuẩn kĩ_thuật này .
+
+13 . 3 . Kết_quả kiểm_tra phải được :
+
+13 . 3 . 1 . Ghi vào_sổ kiểm_tra theo quy_định tại Phụ_lục C Quy_chuẩn kĩ_thuật này .
+
+13 . 3 . 2 . Kết_luận về tình_trạng kĩ_thuật an_toàn tủ phân_phối 6 kV phòng nổ sử_dụng trong mỏ hầm_lò và chỉ cho phép đưa vào sử_dụng hoặc tiếp_tục vận_hành khi đảm_bảo kĩ_thuật an_toàn .
+
+13 . 4 . Khi phát_hiện thiết_bị không đảm_bảo_an_toàn , người theo_dõi , vận_hành phải dừng hoạt_động và báo_cáo người có trách_nhiệm để xử_lý .
+
+14 . Yêu_cầu về thử_nghiệm và kiểm_định
+
+14 . 1 . Theo các loại_hình kiểm_định , các phép thử_nghiệm , kiểm_định phải được thực_hiện theo hướng_dẫn kĩ_thuật , phương_pháp thử , quy_trình thử_nghiệm và các thiết_bị thử_nghiệm trong các Tiêu_chuẩn Tcvn 4255 : 2008 ( iec 60529 : 2001 ) , Tcvn 6592-1:2009 ( iec 60947 - 1 : 2007 ) , Tcvn 8096-200:2010 ( iec 62271 - 200 : 2003 ) , Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) , Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) , Tcvn 7079-7:2002, Tcvn 7079-11:2002, Tcvn 7079-17:2003 , Iec 60079 - 7 : 2015 , ( iec 60079 - 11 : 2011 , Iec 60079 - 17 : 2013 , Iec 62271 - 1 - 2011 và các yêu_cầu trong quy_chuẩn này .
+
+14 . 1 . 1 . Các hạng_mục và thông_số cụ_thể của các bước kiểm_định , thử_nghiệm được thực_hiện theo hướng_dẫn của các tiêu_chuẩn kĩ_thuật được áp_dụng và theo tài_liệu hướng_dẫn của nhà chế_tạo .
+
+14 . 1 . 2 . Các phương_tiện đo ( đồng_hồ đo U , l , f phương_tiện đo điện_trở cách_điện , nhiệt_độ , độ_ẩm , khí mê tan ) dùng trong phép kiểm_tra , thử_nghiệm , kiểm_định tại Quy_chuẩn kĩ_thuật này phải được kiểm_định , hiệu chuẩn , thử_nghiệm theo quy_định pháp_luật về đo_lường .
+
+14 . 2 . Báo_cáo , đánh_giá kết_quả thử_nghiệm , kiểm_định
+
+Báo_cáo , đánh_giá kết_quả thử_nghiệm , kiểm_định phải chỉ ra cụ_thể kết_quả kiểm_tra , thử_nghiệm đạt hoặc không đạt các yêu_cầu kĩ_thuật trong các tiêu_chuẩn , Quy_chuẩn kĩ_thuật áp_dụng .
+
+14 . 2 . 1 . Thử_nghiệm , kiểm_định đạt yêu_cầu khi : Đáp_ứng các yêu_cầu kĩ_thuật của các Tiêu_chuẩn , Quy_chuẩn kĩ_thuật được áp_dụng tại Bảng B Phụ_lục B Quy_chuẩn kĩ_thuật này .
+
+14 . 2 . 2 . Thử_nghiệm , kiểm_định không đạt yêu_cầu khi : Không đáp_ứng một trong các yêu_cầu kĩ_thuật của các Tiêu_chuẩn , Quy_chuẩn kĩ_thuật được áp_dụng tại Bảng B Phụ_lục B Quy_chuẩn kĩ_thuật này .
+
+Iv . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+15 . Trách_nhiệm của tổ_chức , cá_nhân
+
+15 . 1 . Các tổ_chức , cá_nhân có liên_quan đến sản_xuất , nhập_khẩu , thử_nghiệm , kiểm_định , chứng_nhận , giám_định , sử_dụng và các cá_nhân khác có liên_quan đến tủ phân_phối 6 kV phòng nổ trong mỏ hầm_lò phải tuân_thủ theo các quy_định của Quy_chuẩn kĩ_thuật này .
+
+15 . 2 . Tổ_chức , cá_nhân sử_dụng tủ phân_phối 6 kV phòng nổ sử_dụng trong mỏ hầm_lò phải :
+
+15 . 2 . 1 . Thường_xuyên kiểm_tra tủ phân_phối 6 kV phòng nổ theo quy_định , kịp_thời báo_cáo , xử_lí khi phát_hiện sự_cố , biểu_hiện mất an_toàn trong quá_trình vận_hành .
+
+15 . 2 . 2 . Sửa_chữa , bảo_dưỡng , thử_nghiệm , kiểm_định tủ phân_phối 6 kV phòng nổ theo quy_định tại Quy_chuẩn kĩ_thuật này và các yêu_cầu của văn_bản pháp_luật khác có liên_quan .
+
+15 . 2 . 3 . Lập hồ_sơ theo_dõi , quản_lí và sử_dụng an_toàn tủ phân_phối 6 kV phòng nổ sử_dụng trong mỏ hầm_lò theo quy_định tại Điều 11 Quy_chuẩn kĩ_thuật này .
+
+15 . 3 . Các tổ_chức thử_nghiệm , kiểm_định
+
+Tổ_chức thử_nghiệm , kiểm_định phải thực_hiện các nội_dung quy_định tại Quy_chuẩn kĩ_thuật này và phải chịu trách_nhiệm về các kết_quả thử_nghiệm , kiểm_định theo quy_định hiện_hành .
+
+V . Tổ_chức Thực_hiện
+
+16 . Tổ_chức thực_hiện
+
+16 . 1 . Cục Kỹ_thuật an_toàn và Môi_trường công_nghiệp , Bộ Công_thương có trách_nhiệm :
+
+16 . 1 . 1 . Hướng_dẫn , tổ_chức triển_khai thực_hiện các quy_định tại Quy_chuẩn kĩ_thuật này .
+
+16 . 1 . 2 . Thanh_tra , kiểm_tra việc thực_hiện các nội_dung được quy_định tại Quy_chuẩn kĩ_thuật này đối_với các tổ_chức có liên_quan tới tủ phân_phối 6 kV phòng nổ sử_dụng trong hầm_lò .
+
+16 . 2 . Sở Công_thương các tỉnh , thành_phố theo chức_năng , quyền_hạn tổ_chức thanh_tra , kiểm_tra việc thực_hiện các nội_dung được quy_định tại Quy_chuẩn kĩ_thuật này .
+
+17 . Hiệu_lực thi_hành
+
+17 . 1 . Quy_chuẩn kĩ_thuật này có hiệu_lực thi_hành kể từ ngày 01 tháng 07 năm 2023 .
+
+17 . 2 . Trong trường_hợp các văn_bản quy_phạm_pháp_luật , quy_chuẩn , tiêu_chuẩn được dẫn chiếu tại Quy_chuẩn kĩ_thuật này được sửa_đổi , bổ_sung , thay_thế_thì áp_dụng theo các quy_định của văn_bản mới_đó .
+
+17 . 3 . Tổ_chức , cá_nhân trong quá_trình thực_hiện Quy_chuẩn kĩ_thuật này , trường_hợp có phát_sinh khó_khăn , vướng_mắc trong quá_trình thực_hiện đề_nghị phản_ánh về Bộ Công_thương để xem_xét , giải_quyết . / .

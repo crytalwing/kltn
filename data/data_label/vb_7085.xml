@@ -1,0 +1,217 @@
+Thông_tư số 17/2019/tt-btnmt ngày 30 tháng 09 năm 2019 của bộ tài_nguyên và môi_trường
+
+Căn_cứ <LT rel="CC"> Luật Đo_đạc và bản_đồ ngày 14 tháng 6 năm 2018 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 27/2019/NĐ-CP ngày 13 tháng 3 năm 2019 </NĐ> của Chính_phủ quy_định chi_tiết một_số điều của <LT rel="CC"> Luật Đo_đạc và bản_đồ </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Cục_trưởng Cục Đo_đạc , Bản_đồ và Thông_tin địa_lí Việt_nam , Viện_trưởng Viện Khoa_học Đo_đạc và Bản_đồ , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành <TT rel="None"> Thông_tư quy_định kĩ_thuật </TT> thành_lập mô_hình số độ cao bằng công_nghệ quét LiDAR mặt_đất trên trạm cố_định ,
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định các yêu_cầu kĩ_thuật trong việc thành_lập mô_hình số độ cao bằng công_nghệ quét LiDAR mặt_đất trên trạm cố_định .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với các cơ_quan quản_lí nhà_nước về đo_đạc và bản_đồ ; tổ_chức , cá_nhân hoạt_động trong lĩnh_vực đo_đạc và bản_đồ .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Tin ( Triangular Irregular_network ) : là định_dạng đặc_biệt dùng để lưu_trữ mô_hình số độ cao ở dạng lưới tam_giác không đều .
+
+2 . GeoTIFF : là định_dạng đặc_biệt dùng để lưu_trữ dữ_liệu ảnh số kèm theo các thông_tin định_vị địa_lí của tấm ảnh ; dữ_liệu Dem và Dsm ở dạng raster .
+
+3 . Điểm trạm máy : là điểm đặt thiết_bị quét LiDAR được xác_định toạ_độ , độ cao có độ chính_xác tương_đương với lưới cơ_sở cấp 1 .
+
+4 . Điểm tiêu đo : là điểm đặt các tiêu đo nhằm liên_kết dữ_liệu quét của các trạm máy liền kề .
+
+5 . Quét LiDAR mặt_đất trên trạm cố_định : là phương_pháp sử_dụng các thiết_bị quét LiDAR đặt trên chân máy để tạo ra mô_hình 3d của các bề_mặt và vật_thể .
+
+Chương_ii
+
+Quy_định Kỹ_thuật
+
+Điều 4 . Cơ_sở toán_học
+
+1 . Mô_hình số độ cao được thành_lập theo Hệ quy chiếu và Hệ toạ_độ quốc_gia Vn - 2000 , múi chiếu , kinh_tuyến trục thực_hiện theo quy_định tại <TT rel="DC"> Thông_tư số 973/2001/TT-TCĐC ngày 20 tháng 6 năm 2001 </TT> của Tổng_cục Địa_chính hướng_dẫn áp_dụng hệ quy chiếu và hệ toạ_độ quốc_gia Vn - 2000 .
+
+2 . Hệ_độ cao sử_dụng trong việc xây_dựng mô_hình số độ cao là hệ độ cao quốc_gia .
+
+Điều 5 . Quy_định về độ chính_xác của mô_hình số độ cao
+
+Mô_hình số độ cao được thành_lập với các yêu_cầu độ chính_xác được quy_định tại Bảng 1 như sau :
+
+Bảng 1
+
+Điều 6 . Quy_trình thành_lập mô_hình số độ cao bằng công_nghệ quét LiDAR mặt_đất trên trạm cố_định
+
+Quy_trình thành_lập mô_hình số độ cao bằng công_nghệ quét LiDAR mặt_đất trên trạm cố_định gồm các bước công_việc chính như sau :
+
+Bước 1 . Công_tác chuẩn_bị ;
+
+Bước 2 . Khảo_sát khu_vực thi_công ;
+
+Bước 3 . Lập thiết_kế quét LiDAR mặt_đất ;
+
+Bước 4 . Đo nối khống_chế ;
+
+Bước 5 . Thu_nhận dữ_liệu LiDAR ;
+
+Bước 6 . Xử_lí dữ_liệu ;
+
+Bước 7 . Điều_tra , đối soát ngoại_nghiệp và đo_đạc bổ_sung ;
+
+Bước 8 . Thành_lập mô_hình số độ cao ;
+
+Bước 9 . Kiểm_tra , thẩm_định , nghiệm_thu chất_lượng sản_phẩm ;
+
+Bước 10 . Giao_nộp sản_phẩm .
+
+Điều 7 . Công_tác chuẩn_bị
+
+1 . Thu_thập tài_liệu , dữ_liệu : bản_đồ địa_hình , địa_chính thu_thập các điểm khống_chế toạ_độ , độ cao quốc_gia , mô_hình Geoid ( nếu có ) trong khu_vực thi_công .
+
+2 . Lập_phương_án sơ_bộ trong phòng : xác_định giới_hạn thu_nhận dữ_liệu của một trạm máy và mật_độ điểm quét , lập sơ_đồ vị_trí các điểm đặt trạm máy trên nền bản_đồ địa_hình .
+
+3 . Chuẩn_bị máy_tính và các phần_mềm tính_toán bình_sai Ss , thuỷ chuẩn xử_lí dữ_liệu LiDAR .
+
+4 . Kiểm_nghiệm các trang thiết_bị cần_thiết phục_vụ cho quá_trình thi_công : thiết_bị quét LiDAR mặt_đất trên trạm cố_định , máy Gns , máy toàn đạc điện_tử , máy thuỷ chuẩn và các phụ_kiện kèm theo .
+
+Điều 8 . Khảo_sát khu_vực thi_công
+
+1 . Giao_nhận khu_vực thi_công ngoài thực_địa .
+
+2 . Khảo_sát địa_hình , địa_vật khu_vực thi_công : mô_tả đặc_trưng địa_hình , địa_vật như mức_độ chênh cao , chia_cắt địa_hình , mật_độ địa_vật nhằm điều_chỉnh thiết_kế sơ_bộ phục_vụ thiết_kế chi_tiết .
+
+3 . Tìm điểm toạ_độ , độ cao quốc_gia phục_vụ đo nối lưới khống_chế toạ_độ , độ cao .
+
+Điều 9 . Lập thiết_kế quét LiDAR mặt_đất
+
+1 . Thiết_kế các trạm máy LiDAR theo nguyên_tắc : các trạm liền kề phải thông hướng ; phạm_vi quét phủ kín khu_vực thi_công ; đảm_bảo độ chính_xác và tiết_kiệm kinh_phí nhất . Mật_độ điểm trạm quét được xác_định trên 1km2 . Giới_hạn thu_nhận dữ_liệu của một trạm quét và mật_độ điểm trạm quét trên được quy_định tại Bảng 2 như sau :
+
+Bảng 2
+
+( * ) - đối_với yêu_cầu thành_lập mô_hình số độ cao ( dem ) có độ chính_xác 0 , 10 m và 0 , 20 m khoảng_cách giữa các trạm liền kề không vượt quá 400 m .
+
+2 . Thiết_kế các điểm tiêu đo theo nguyên_tắc sau :
+
+a ) Giữa hai trạm máy liền kề phải bố_trí ít_nhất 05 điểm tiêu đo chung , các điểm tiêu đo không nằm trên một đường_thẳng ;
+
+b ) Tiêu đo được thiết_kế ở dạng hình_tròn hoặc hình_vuông kích_thước không nhỏ hơn 15 cm được phủ lớp sơn phản_quang nhằm tăng độ phản_xạ bề_mặt cho tia laser .
+
+Điều 10 . Đo nối khống_chế
+
+1 . Lưới khống_chế phục_vụ quét LiDAR mặt_đất trên trạm cố_định được thành_lập bằng các công_nghệ đo_đạc đảm_bảo độ chính_xác tương_đương với lưới cơ_sở cấp 1 cho điểm trạm máy .
+
+2 . Độ chính_xác điểm trạm máy được quy_định như sau :
+
+a ) Toạ_độ của điểm trạm máy được xác_định với độ chính_xác tương_đương lưới cơ_sở cấp 1 ;
+
+b ) Độ chính_xác độ cao_điểm trạm máy được xác_định tương_đương lưới độ cao kĩ_thuật .
+
+3 . Thiết_kế mốc điểm trạm máy và đo nối toạ_độ , độ cao các điểm trạm máy
+
+a ) Quy_cách , kích_thước của mốc đặt trạm máy theo quy_định mốc lưới đo vẽ cấp 2 tại phụ_lục 01 của <TT rel="DC"> Thông_tư số 68/2015/TT-BTNMT ngày 22 tháng 12 năm 2015 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định kĩ_thuật đo_đạc trực_tiếp địa_hình phục_vụ thành_lập bản_đồ địa_hình và cơ_sở dữ_liệu nền địa_lí tỉ_lệ 1 : 500 , 1 : 1000 , 1 : 2000 , 1 : 5000 ( sau đây gọi là <TT rel="DC"> Thông_tư số 68/2015/TT-BTNMT </TT>);
+
+b ) Lưới cơ_sở cấp 1 và lưới độ cao kĩ_thuật được quy_định tại <TT rel="DC"> Thông_tư số 68/2015/TT-BTNMT </TT> .
+
+Điều 11 . Thu_nhận dữ_liệu LiDAR
+
+1 . Thiết_bị quét LiDAR phải được định_tâm và cân_bằng chính_xác , đo chiều cao máy 2 lần vào đầu và cuối ca đo , đọc số đến mi - li - mét .
+
+2 . Tại các điểm trạm máy liền kề phải đặt tiêu đo được định_tâm , cân_bằng chính_xác bằng giá ba chân . Đo chiều cao tiêu đo , đọc số đến mi - li - mét .
+
+3 . Thiết_lập tham_số của một trạm máy : số_hiệu điểm , toạ_độ , độ cao của điểm trạm máy , chiều cao máy ; số_hiệu , toạ_độ , độ cao của tiêu đo tại các điểm trạm máy liền kề .
+
+4 . Yêu_cầu trong quá_trình quét tại thực_địa :
+
+a ) Trong quá_trình quét phải luôn theo_dõi hoạt_động của các thiết_bị ;
+
+b ) Tại mỗi trạm máy phải ghi nhật_ký : thời_gian quét , chế_độ quét , vẽ sơ_đồ trạm máy gồm các thông_tin về vị_trí , số_hiệu điểm trạm máy , số_hiệu điểm tiêu đo tại các điểm trạm máy liền kề theo quy_định tại Phụ_lục ban_hành kèm theo Thông_tư này ;
+
+c ) Số_lượng điểm quét tối_thiểu khi thu_nhận dữ_liệu phải là 100 điểm trên 1 m2 ;
+
+d ) Kết_thúc mỗi một trạm máy phải kiểm_tra dữ_liệu được ghi đầy_đủ trong bộ_nhớ của máy_quét .
+
+Điều 12 . Xử_lí dữ_liệu
+
+Quá_trình xử_lí dữ_liệu quét LiDAR mặt_đất trên trạm cố_định gồm những công_đoạn chính như sau :
+
+1 . Trút dữ_liệu vào máy_tính .
+
+2 . Lọc các điểm vượt quá giới_hạn thu_nhận dữ_liệu của một trạm máy .
+
+3 . Ghép dữ_liệu đám mây điểm của các trạm máy đơn và tiến_hành kiểm_tra độ lệch tương_đối tại các điểm tiêu đo cùng tên giữa các trạm máy liền kề . Độ lệch tương_đối giữa các điểm tiêu đo cùng tên được quy_định không vượt quá hai lần sai_số cho phép của điểm quét quy_định tại Bảng 1 .
+
+4 . Ghép và bình_sai dữ_liệu đám mây điểm tại các trạm máy đơn thành một khối thống_nhất theo các tham_số là toạ_độ , độ cao của các điểm trạm máy .
+
+5 . Loại_bỏ các điểm không thuộc đối_tượng cần thu_nhận .
+
+6 . Phân_loại dữ_liệu đám mây điểm phục_vụ thành_lập mô_hình số bề_mặt và mô_hình số độ cao .
+
+Điều 13 . Điều_tra , đối soát ngoại_nghiệp và đo_đạc bổ_sung
+
+1 . Xác_định các khu_vực còn thiếu dữ_liệu quét phục_vụ thành_lập mô_hình số độ cao do che_khuất , tín_hiệu yếu , nhiễu , khu_vực ngập nước .
+
+2 . Tiến_hành đo bổ_sung bằng các phương_pháp : toàn đạc điện_tử , Gns và các phương_pháp khác có độ chính_xác tương_đương . Mật_độ điểm , độ chính_xác các điểm đo bổ_sung theo quy_định tại Điều 30 <TT rel="DC"> Thông_tư số 68/2015/TT-BTNMT </TT> .
+
+3 . Xử_lý , tích_hợp dữ_liệu đo bổ_sung với dữ_liệu quét LiDAR .
+
+Điều 14 . Thành_lập mô_hình số độ cao
+
+1 . Mô_hình số độ cao được tạo ra từ nhóm dữ_liệu mô_hình số độ cao .
+
+2 . Mô_hình số độ cao được thể_hiện dưới dạng Tin , Grid hoặc GeoTIFF .
+
+3 . Yêu_cầu độ chính_xác của mô_hình số độ cao cần thành_lập như sau :
+
+a ) Sai_số tiếp biên giữa các khu đo không được vượt quá 1 , 5 lần sai_số cho phép của mô_hình số độ cao ;
+
+b ) Sai_số tuyệt_đối của mô_hình số độ cao được đánh_giá thông_qua các điểm đo kiểm_tra ở thực_địa . Sai_số trung phương về độ cao của tập_hợp điểm kiểm_tra giữa độ cao đo so với độ cao mô_hình số độ cao không được vượt quá yêu_cầu độ chính_xác quy_định tại Bảng 1 . Sai_số giới_hạn không được vượt quá 2 lần sai_số trung phương và không được vượt quá 10 % .
+
+Điều 15 . Kiểm_tra , thẩm_định , nghiệm_thu chất_lượng sản_phẩm
+
+Công_tác kiểm_tra , thẩm_định , nghiệm_thu chất_lượng sản_phẩm được thực_hiện theo quy_định tại <TT rel="DC"> Thông_tư số 24/2018/TT-BT </TT> Mt ngày 15 tháng 11 năm 2018 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định về kiểm_tra , thẩm_định , nghiệm_thu chất_lượng sản_phẩm đo_đạc và bản_đồ .
+
+Điều 16 . Giao_nộp dữ_liệu , sản_phẩm
+
+Các sản_phẩm giao_nộp gồm :
+
+1 . Toàn_bộ số_liệu gốc từ thiết_bị quét LiDAR .
+
+2 . Tệp dữ_liệu liệu đám mây điểm định_dạng Las ( Las format ) .
+
+3 . Ảnh cường_độ xám .
+
+4 . Mô_hình số bề_mặt được lưu_trữ ở 2 định_dạng Grid nhị_phân và Asci .
+
+5 . Mô_hình số độ cao được lưu_trữ ở 3 định_dạng Grid nhị_phân , định_dạng GeoTIFF và Asci kèm theo siêu dữ_liệu hoặc ở các định_dạng khác nếu có yêu_cầu .
+
+6 . Kết_quả đo ngoại nghiệp : lưới khống_chế toạ_độ , độ cao của khu đo , đo bổ_sung ( nếu có ) .
+
+7 . Báo_cáo tổng_kết kĩ_thuật : nêu chi_tiết thông_tin về trang thiết_bị sử_dụng , phần_mềm xử_lí sơ_đồ , kết_quả tính_toán bình_sai lưới khống_chế ; các thông_số quét LiDAR , kết_quả lọc phân_loại điểm , đánh_giá sai_số của các bước xử_lý , các thông_số kĩ_thuật của mô_hình số độ cao .
+
+Chương_iii
+
+Điều_khoản Thi_hành
+
+Điều 17 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 11 năm 2019 .
+
+2 . Khi văn_bản dẫn chiếu trong Thông_tư này được sửa_đổi , bổ_sung hoặc thay_thế_thì được áp_dụng theo văn_bản mới ban_hành .
+
+Điều 18 . Trách_nhiệm thi_hành
+
+1 . Các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Trong quá_trình thực_hiện , nếu có vướng_mắc , các cơ_quan , tổ_chức , cá_nhân phản_ánh về Bộ Tài_nguyên và Môi_trường để xem_xét , Quyết_định . / .

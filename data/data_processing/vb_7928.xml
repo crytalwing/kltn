@@ -1,0 +1,1063 @@
+Thông_tư số 06/2018/tt-bgtvt ngày 07 tháng 02 năm 2018 của bộ giao_thông vận_tải
+
+Căn_cứ Nghị_định số 12/2017/NĐ-CP ngày 10 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Giao_thông vận_tải ;
+
+Căn_cứ Nghị_định số 170/2016/NĐ-CP ngày 27 tháng 12 năm 2016 của Chính_phủ quy_định về việc công_bố , tiếp_nhận , xử_lí và truyền phát thông_tin an_ninh hàng_hải ;
+
+Theo đề_nghị của Cục_trưởng Cục Hàng_hải Việt_nam và Vụ_trưởng Vụ Khoa_học - Công_nghệ ,
+
+Bộ_trưởng Bộ Giao_thông vận_tải ban_hành Thông_tư ban_hành Định_mức kinh_tế - kĩ_thuật vận_hành , khai_thác và bảo_dưỡng hệ_thống báo_động an_ninh tàu_biển .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Định_mức kinh_tế - kĩ_thuật vận_hành , khai_thác và bảo_dưỡng hệ_thống báo_động an_ninh tàu_biển ( sau đây viết tắt là Hệ_thống Ssas ) .
+
+Điều 2 . Thông_tư này có hiệu_lực kể từ ngày 01 tháng 04 năm 2018 .
+
+Điều 3 . Chánh Văn_phòng Bộ , Chánh Thanh_tra Bộ , các Vụ_trưởng , Cục_trưởng Cục Hàng_hải Việt_nam , Thủ_trưởng cơ_quan , tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Định_mức Kinh_tế - Kỹ_thuật
+
+Vận_hành , Khai_thác Và Bảo_dưỡng Hệ_thống Ssas ( Ban_hành kèm theo Thông_tư số 06/2018/TT-BGTVT ngày 07 tháng 02 năm 2018 của Bộ Giao_thông Vận_tải )
+
+Chương 1
+
+Thuyết_minh Và Quy_định Áp_dụng
+
+1 . Giới_thiệu chung
+
+Ssas ( Ship Security Alert_system ) là Hệ_thống báo_động an_ninh tàu_biển được trang_bị cho các tàu theo qui_định của Bộ_luật quốc_tế về an_ninh tàu và cảng biển ( isps code ) . Theo đó Hệ_thống Ssas được yêu_cầu trang_bị cho các tàu Tàu_biển Việt_nam hoạt_động trên tuyến Quốc_tế và tàu_biển nước_ngoài hoạt_động tại vùng nội thuỷ , lãnh_hải của Việt_nam bao_gồm : Tàu khách ; Tàu hàng có tổng_dung_tích từ 500gt trở lên ; Giàn khoan di_động ngoài khơi .
+
+Hệ_thống Ssas tại Trung_tâm Thông_tin an_ninh hàng_hải được thiết_lập để tiếp_nhận các thông_tin an_ninh hàng_hải từ tàu_biển , giàn di_động , cơ_sở cảng hoặc từ cơ_quan có thẩm_quyền của nước_ngoài , hoặc từ tổ_chức , cá_nhân khác và thông_báo kịp_thời cho Bộ Tư_lệnh Cảnh_sát biển , Bộ Công_an và các cơ_quan có liên_quan khác của Việt_nam . Trường_hợp tiếp_nhận thông_tin từ tàu_biển , giàn di_động mang cờ quốc_tịch nước_ngoài phải thông_báo đến cơ_quan có thẩm_quyền của quốc_gia đó .
+
+Khi có nguy_hiểm về an_ninh , Thuyền_trưởng hoặc người có trách_nhiệm được uỷ_quyền chỉ cần nhấn nút báo_động , một bản tin báo_động sẽ được tự_động gửi về Trung_tâm Thông_tin an_ninh hàng_hải . Khi nhận được bản tin báo_động , bằng các nghiệp_vụ , phương_tiện , thiết_bị chuyên_dụng nhân_viên Trực_ban sẽ tiến_hành phân_loại , xử_lí bản tin báo_động an_ninh , sẽ xử_lí nhanh_chóng các hành_động gây mất an_ninh cho tàu theo đúng qui_trình hiện_hành .
+
+Địa_chỉ của Trung_tâm phải được cài_đặt sẵn trong hệ_thống Ssas của tàu . Nội_dung bản tin báo_động bao_gồm ;
+
+- Tên tàu ;
+
+- Số_hiệu Imo ;
+
+- Hô hiệu ;
+
+- Số nhận_dạng ;
+
+- Thời_gian ( ngày , tháng , năm , giờ Utc ) ;
+
+- Hướng và tốc_độ ;
+
+- Vị_trí của tàu ( kinh_độ , vĩ_độ ) .
+
+2 . Cơ_sở pháp_lí xây_dựng định_mức
+
+Bộ_luật Lao_động số 10/2012/QH13 ngày 18/6/2012 của Quốc_hội và các văn_bản hướng_dẫn thi_hành ;
+
+Nghị_định số 170/2016/NĐ-CP ngày 17/12/2016 của Chính_phủ quy_định về việc công_bố , tiếp_nhận , xử_lí và truyền phát thông_tin an_ninh hàng_hải ;
+
+Quyết_định số 1896/QĐ-TTg ngày 04/10/2016 của Thủ_tướng Chính_phủ ban_hành Danh_mục dịch_vụ sự_nghiệp công sử_dụng ngân_sách nhà_nước thuộc lĩnh_vực quản_lí nhà_nước của Bộ Giao_thông vận_tải ;
+
+Thông_tư số 25/2014/TT-BTC ngày 17/02/2014 của Bộ_trưởng Bộ Tài_chính quy_định phương_pháp_định_giá chung đối_với hàng_hoá , dịch_vụ ;
+
+Thông_tư số 26/2015/TT-BLĐTBXH ngày 14/7/2015 của Bộ_trưởng Bộ Lao_động - Thương_binh và Xã_hội hướng_dẫn_xác_định chi_phí tiền_lương trong giá sản_phẩm , dịch_vụ công_ích sử_dụng ngân_sách nhà_nước .
+
+3 . Giải_thích các từ viết tắt
+
+4 . Nội_dung định_mức
+
+- Định_mức Kinh_tế - Kỹ_thuật vận_hành , khai_thác và bảo_dưỡng Hệ_thống Ssas là định_mức về hao_phí lao_động và tiêu_hao nguyên , nhiên vật_liệu , vật_tư , điện_năng , dụng_cụ sản_xuất , kênh truyền , phụ_tùng thay_thế của Hệ_thống Ssas để bảo_đảm hoạt_động cung_cấp Dịch_vụ tiếp_nhận , xử_lí và truyền phát thông_tin an_ninh hàng_hải .
+
+- Định_mức lao_động : là hao_phí nhân_công trực_tiếp cần_thiết để hoàn_thành một khối_lượng hoặc một bước công_nghệ trong quy_trình vận_hành , khai_thác và bảo_dưỡng hệ_thống máy_móc , thiết_bị của Hệ_thống Ssas . Mức hao_phí lao_động được xác_định là số ngày_công của lao_động trực_tiếp thực_hiện khối_lượng công_việc vận_hành , khai_thác và bảo_dưỡng . Cấp_bậc lao_động quy_định trong định_mức là cấp_bậc bình_quân của các lao_động tham_gia thực_hiện công_việc ;
+
+- Mức tiêu_hao điện_năng : là tiêu_hao điện_năng được xác_định dựa vào công_suất thiết_kế , số_lượng , thời_gian hoạt_động theo thống_kê về trạng_thái hoạt_động của từng loại máy_móc , thiết_bị của Hệ_thống Ssas ;
+
+- Mức tiêu_hao nhiên_liệu : là tiêu_hao nhiên_liệu và dầu bôi_trơn được xác_định dựa vào công_suất thiết_kế , số_lượng và mức_độ hoạt_động của các máy phát_điện của Hệ_thống Ssas ;
+
+- Mức tiêu_hao vật_tư phục_vụ vận_hành , khai_thác , bảo_dưỡng : là tiêu_hao về vật_tư , vật_liệu , dụng_cụ phục_vụ quá_trình vận_hành , khai_thác , bảo_dưỡng Hệ_thống Ssas ;
+
+- Mức tiêu_hao dụng_cụ sản_xuất : là tiêu_hao về công_cụ , dụng_cụ phục_vụ quá_trình vận_hành , khai_thác để Hệ_thống Ssas hoạt_động đúng tính_năng , chức_năng theo thiết_kế ;
+
+- Mức kênh truyền : là hao_phí về số_lượng và tốc_độ kênh truyền để kết_nối thiết_bị Ssas trên tàu với Trung_tâm Thông_tin an_ninh hàng_hải và với mạng viễn_thông để cung_cấp dịch_vụ ;
+
+- Mức phụ_tùng thay_thế : là tiêu_hao phụ_tùng thiết_bị dùng để thay_thế cho các máy_móc thiết_bị của Hệ_thống Ssas nhằm đảm_bảo Hệ_thống Ssas hoạt_động ổn_định , liên_tục 24/7.
+
+5 . Quy_định áp_dụng
+
+- Định_mức kinh_tế - kĩ_thuật vận_hành , khai_thác và bảo_dưỡng Hệ_thống Ssas là cơ_sở quản_lý , xây_dựng giá dịch_vụ tiếp_nhận , xử_lí và truyền phát thông_tin an_ninh hàng_hải ;
+
+- Đối_với lao_động vận_hành , khai_thác trong quá_trình thực_hiện công_việc phải mặc đồng_phục ,
+
+- Các mức quy_định trong định mức này là mức cao nhất có_thể áp_dụng để đảm_bảo chất_lượng tuyệt_đối dịch_vụ tiếp_nhận , xử_lí và truyền phát thông_tin an_ninh hàng_hải . Tuy_nhiên , các cơ_quan đơn_vị cần nâng cao năng_suất chất_lượng , tiết_kiệm chi để áp_dụng các mức thấp hơn .
+
+- Việc áp_dụng định mức này để xây_dựng dự_toán , giá dịch_vụ tiếp_nhận , xử_lí và truyền phát thông_tin an_ninh hàng_hải trên nguyên_tắc không được cao hơn dự_toán , giá , kinh_phí cấp hàng năm trước đó trừ các trường_hợp phát_sinh do nguyên_nhân khách_quan , chủ_quan .
+
+Chương 2 .
+
+Định_mức Kinh_tế - Kỹ_thuật Vận_hành , Khai_thác Hệ_thống_ssas
+
+I . Thành_phần Công_việc
+
+1 . Vận_hành Hệ_thống Ssas
+
+1 . 1 . Vận_hành thiết_bị , đường truyền , nguồn điện
+
+- Vận_hành , kiểm_tra hệ_thống Ssas ( máy inmarsat C và các thiết_bị liên_quan ) ;
+
+- Vận_hành , kiểm_tra máy_tính giám_sát , khai_thác ;
+
+- Vận_hành đường truyền vật_lí kết_nối internet và thiết_bị mạng ;
+
+- Vận_hành hệ_thống điện và thiết_bị phụ_trợ ;
+
+- Vệ_sinh công_nghiệp .
+
+1 . 2 . Vận_hành phần_mềm
+
+- Vận_hành hệ điều_hành của máy_tính giám_sát , khai_thác .
+
+2 . Khai_thác thông_tin Ssas
+
+2 . 1 . Tiếp_nhận Thông_tin an_ninh hàng_hải
+
+- Tiếp_nhận các bản tin Ssas , bản tin Test_thiết_bị Ssas từ máy Inmarsat C ;
+
+- Tiếp_nhận các thông_tin an_ninh hàng_hải qua hệ_thống fax , điện_thoại , email , công_văn ;
+
+- Tiếp_nhận các thông_tin an_ninh hàng_hải qua các phương_thức khác .
+
+2 . 2 . Xử_lí Thông_tin an_ninh hàng_hải .
+
+- Tiến_hành phân_loại thông_tin an_ninh hàng_hải nhận được ;
+
+- Xác_minh thông_tin đối_với thông_tin báo_động an_ninh ;
+
+- Xử_lí thông_tin an_ninh hàng_hải đúng quy_trình hiện_hành ;
+
+- Liên_lạc cung_cấp thông_tin , cập_nhật thông_tin với các cơ_quan trong và ngoài nước trong quá_trình giải_quyết các sự_vụ , công_việc mang tính quốc_tế ;
+
+- Ghi sổ Xử_lí_sự_vụ ; Lưu_trữ hồ_sơ .
+
+2 . 3 . Truyền_phát Thông_tin an_ninh hàng_hải
+
+- Truyền_phát thông_tin an_ninh hàng_hải đến các Cảng_vụ hàng_hải ;
+
+- Truyền_phát thông_tin an_ninh hàng_hải đến các Doanh_nghiệp cảng biển ;
+
+- Truyền_phát thông_tin an_ninh hàng_hải đến các cán_bộ an_ninh tàu_biển , công_ti tàu_biển ;
+
+- Truyền_phát thông_tin an_ninh hàng_hải đến tàu_biển , cảng biển , những chỉ_đạo , Chỉ_thị của cấp có thẩm_quyền ;
+
+- Báo_cáo tổng_kết các sự_vụ cụ_thể một_cách kịp_thời cho cấp trên .
+
+3 . Bảo_vệ
+
+- Thực_hiện các công_việc đảm_bảo_an_ninh , an_toàn cho Trung_tâm Thông_tin an_ninh hàng_hải ;
+
+- Phòng_ngừa , phát_hiện và ngăn_chặn những hành_vi vi_phạm_pháp_luật , nội_quy của Trung_tâm ;
+
+- Bảo_vệ tài_sản theo đúng quy_định của Trung_tâm và của Nhà_nước ;
+
+- Thực_hiện các nội_quy về phòng cháy , chữa_cháy , quản_lí vũ_khí thô_sơ , công_cụ hỗ_trợ , vật_liệu nổ độc_hại ;
+
+- Tiếp_đón , hướng_dẫn , kiểm_soát người đến liên_hệ công_tác theo quy_định ;
+
+- Ghi_chép đầy_đủ mọi diễn_biến trong ca trực và bàn_giao chi_tiết cho ca tiếp_theo .
+
+Ii . Định_mức Tiêu_hao
+
+1 . Định_mức lao_động
+
+Căn_cứ thành_phần công_việc nêu tại Chương I Thành_phần công_việc , hao_phí lao_động được xác_định theo Bảng mức 1 . Chức_danh và bậc của người lao_động áp_dụng theo Mục_i . 9 ( c ) và Mục_ii . 1 và Ii . 2 của Phụ_lục ban_hành kèm theo Thông_tư số 26/2015/TT-BLĐTBXH ngày 14 tháng 7 năm 2015 của Bộ_trưởng Bộ Lao_động - Thương_binh và Xã_hội hướng_dẫn_xác_định chi_phí tiền_lương trong giá sản_phẩm , dịch_vụ công_ích sử_dụng vốn ngân_sách nhà_nước .
+
+Định_mức lao_động tối_đa cho Hệ_thống Ssas được xác_định theo Bảng mức 1 dưới đây .
+
+Bảng mức 1
+
+( * ) Theo Thông_tư số 26/2015/TT-BLĐTBXH ngày 14/7/2015 của Bộ_trưởng Bộ Lao_động Thương_binh và Xã_hội hướng_dẫn_xác_định chi_phí tiền_lương trong giá sản_phẩm , dịch_vụ công_ích sử_dụng vốn ngân_sách nhà_nước . Đối_với lao_động trực_tiếp tại mục A tối_đa được áp_dụng hệ_số điều_chỉnh là H = 1 , 2 .
+
+2 . Định_mức tiêu_hao nguyên , nhiên , vật_liệu .
+
+2 . 1 . Định_mức tiêu_hao điện_năng
+
+Định_mức tiêu_hao điện_năng cho Hệ_thống Ssas ( tính cho 01 năm ) được xác_định theo Bảng mức 2 dưới đây .
+
+Bảng mức 2
+
+2 . 2 . Định_mức tiêu_hao nhiêu liệu
+
+Định_mức tiêu_hao nhiên_liệu cho Hệ_thống Ssas ( tính cho 01 giờ ) được xác_định theo Bảng mức 3 dưới đây .
+
+Bảng mức 3
+
+Ghi_chú : Định_mức tiêu_hao dầu bôi_trơn được tính bằng tỉ_lệ % mức tiêu_hao nhiên_liệu .
+
+2 . 3 . Định_mức tiêu_hao vật_tư
+
+Chi_phí vật_tư phục_vụ vận_hành , khai_thác tính bằng 10 % tổng_chi_phí điện_năng và chi_phí nhiên_liệu .
+
+2 . 4 . Định_mức tiêu_hao dụng_cụ sản_xuất
+
+Chi_phí tiêu_hao dụng_cụ sản_xuất tính bằng 7 % tổng_chi_phí nhân_công vận_hành , khác thác và bảo_dưỡng tính theo mức lương cơ_sở .
+
+2 . 5 . Định_mức tiêu_hao chi_phí khác
+
+Các chi_phí tiêu_hao khác , phục_vụ công_tác được tính bằng 5 % tổng_chi_phí nhân_công vận_hành , khác thác và bảo_dưỡng tính theo mức lương cơ_sở .
+
+2 . 6 . Định_mức kênh_truyền
+
+Định_mức kênh truyền để bảo_đảm cho hệ_thống hoạt_động được xác_định theo Bảng mức 4 dưới đây .
+
+Bảng mức 4
+
+2 . 7 . Định_mức thông_tin liên_lạc vệ_tinh ( cước_phí Inmarsat , Isatphone )
+
+- Inmarsat C : Thực_hiện gửi bản tin gửi cho tàu .
+
+- Isatphone : Thực_hiện cuộc gọi thoại cho tàu .
+
+3 . Định_mức phụ_tùng thay_thế
+
+Là số_lượng phụ_tùng thay_thế cần_thiết phải thay_thế cho thiết_bị của Hệ_thống Ssas để đảm_bảo hoạt_động liên_tục và ổn_định 24/7. Định_mức phụ_tùng thay_thế ( tính cho 01 năm ) được xác_định theo Bảng mức 5 dưới đây .
+
+Bảng mức 5
+
+Phụ_tùng thay_thế cho Hệ_thống Ssas có_thể thay_thế bằng các phụ_tùng tương_đương
+
+Chương 3 .
+
+Định_mức Kinh_tế - Kỹ_thuật Bảo_dưỡng Hệ_thống_ssas
+
+I . Thành_phần Công_việc
+
+Căn_cứ các quy_trình công_nghệ , đặc_tính kĩ_thuật và hướng_dẫn bảo_trì , bảo_dưỡng của nhà sản_xuất đối_với các thiết_bị thuộc Hệ_thống Ssas để xác_định thành_phần công_việc bảo_dưỡng . Cụ_thể bao_gồm các bước như sau :
+
+1 . Công_tác chuẩn_bị
+
+- Chuẩn_bị các trang thiết_bị cần_thiết phục_vụ cho công_tác bảo_dưỡng ;
+
+- Tập_hợp các tài_liệu bảo_dưỡng bao_gồm sơ_đồ , catalogue , biểu_mẫu bảo_dưỡng ;
+
+- Chuẩn_bị mặt_bằng và các trang thiết_bị an_toàn phục_vụ công_tác bảo_dưỡng .
+
+2 . Kiểm_tra thiết_bị trước bảo_dưỡng
+
+- Kiểm_tra chức_năng hoạt_động của thiết_bị từ hệ_thống ;
+
+- Chạy các chương_trình Test của thiết_bị để kiểm_tra tình_trạng trước khi bảo_dưỡng ;
+
+- Ghi lại tình_trạng và các thông_số từ kết_quả của các chương_trình Test .
+
+3 . Thực_hiện bảo_dưỡng
+
+- Vệ_sinh , kiểm_tra tình_trạng thiết_bị trong trạng_thái không cấp nguồn ;
+
+- Kiểm_tra , chỉnh định các thông_số kĩ_thuật trong trạng_thái cung_cấp nguồn điện ;
+
+- Thay_thế các linh , phụ_kiện hỏng_hóc ( nếu có ) .
+
+4 . Kiểm_tra hoạt_động sau bảo_dưỡng
+
+- Chạy các chương_trình test của hệ_thống điều_khiển ;
+
+- Kiểm_tra các chức_năng dịch_vụ , tính_năng hoạt_động của thiết_bị thông_qua hoạt_động khai_thác thực_tế của hệ_thống .
+
+5 . Kết_thúc công_việc
+
+- Lắp_ráp lại thiết_bị ;
+
+- Thu_dọn , vệ_sinh khu_vực bảo_dưỡng , cất thiết_bị , thiết_bị đo đúng nơi quy_định ;
+
+- Ghi lại đầy_đủ các nội_dung , kết_quả công_tác bảo_dưỡng vào mẫu bảo_dưỡng , ghi nhật_kí toàn_bộ công_việc và báo_cáo người phụ_trách đơn_vị .
+
+Ii . Định_mức tiêu_hao máy_tính giám_sát , khai_thác
+
+( Chu_kì bảo_dưỡng : 06 tháng )
+
+1 . Thành_phần công_việc
+
+1 . 1 . Công_tác chuẩn_bị
+
+a . Tập_hợp các tài_liệu bảo_dưỡng , mẫu bảo_dưỡng thiết_bị ;
+
+b . Lập kế_hoạch cụ_thể và phân_công các công_việc bảo_dưỡng ;
+
+c . Chuẩn_bị mặt_bằng , các trang thiết_bị , vật_tư như_dụng_cụ tháo mở chuyên_dụng , đồng_hồ vạn_năng , dụng_cụ tháo mở chuyên_dụng , chổi mềm , chất tẩy công_nghiệp , thiết_bị đo chuyên_dụng , máy_tính dự_phòng , ổ_đĩa lưu dữ_liệu lắp ngoài , băng từ phục_vụ bảo_dưỡng .
+
+1 . 2 . Kiểm_tra thiết_bị trước khi bảo_dưỡng
+
+a . Kiểm_tra toàn_bộ_máy_tính , các đèn chỉ báo , hoạt_động của hệ điều_hành ;
+
+b . Bố_trí máy_tính hoạt_động thay_thế tạm_thời trong quá_trình bảo_dưỡng ;
+
+c . Kiểm_tra chức_năng điều_khiển từ xa của máy_tính bằng các thao_tác trên phần_mềm ;
+
+d . Ghi lại toàn_bộ trạng_thái thiết_bị trước khi thực_hiện bảo_dưỡng .
+
+1 . 3 . Thực_hiện bảo_dưỡng
+
+i . Lưu dự_phòng toàn_bộ cấu_hình mềm hệ_thống
+
+a . Sử_dụng phần_mềm Acronis ( hoặc tương_đương ) thực_hiện lưu dự_phòng theo đúng trình_tự ;
+
+b . Lưu dự_phòng file dữ_liệu của toàn_bộ hệ_thống vào bộ_nhớ_ngoài .
+
+ii . Phần_mềm máy_tính
+
+a . Sử_dụng tài_khoản quản_trị để truy_nhập vào hệ_thống , thực_hiện khởi_động lại hệ điều_hành Windows để kiểm_tra có bất_kì lỗi nào xuất_hiện trong quá_trình khởi_động hay không . Nếu có , sử_dụng tính_năng ghi nhật_kí của Windows ( trong mục Administrative Tools > Event_viewer ) để xác_định chi_tiết lỗi và biện_pháp khắc_phục ; nếu thấy không khắc_phục được thì cần tiến_hành cài_đặt lại hệ điều_hành ;
+
+b . Kiểm_tra hoạt_động của các phần_mềm nếu thấy hiệu_năng hoạt_động thấp thì cần tiến_hành cài_đặt lại ứng_dụng ;
+
+c . Truy_cập vào phần_mềm hệ_thống máy_tính điều_khiển từ xa và kiểm_tra , ghi_nhận lại các thông_số thiết_lập toàn_bộ hệ_thống ;
+
+d . Sử_dụng tiện_ích điều_khiển từ xa để gửi các Lệnh tới các thiết_bị kết_nối , thực_hiện kiểm_tra các Lệnh có được thực_thi trên các thiết_bị hay không , kiểm_tra tính_năng cảnh_báo trên hệ_thống khi có sự_cố được ấn_định sẵn trên các thiết_bị điều_khiển từ xa ;
+
+e . Cập_nhật phần_mềm phòng_chống virus và an_toàn an_ninh mạng , thực_hiện quét virut , lỗ_hổng mạng ;
+
+f . Sử_dụng các phần_mềm ứng_dụng dọn_dẹp các file bị lỗi và tối_ưu hoá hệ_thống .
+
+iii . Phần_cứng máy_tính
+
+a . Thiết_bị xử_lí trung_tâm ( cpu ) :
+
++ Đóng các phần_mềm đang chạy và thực_hiện tắt_thiết_bị theo đúng quy_trình ;
+
++ Tháo dây nguồn , các loại cáp tín_hiệu kết_nối với các thiết_bị ngoại_vi khác như máy_in , thiết_bị mạng , loa , bàn_phím , chuột . . . ;
+
++ Sử_dụng bộ tháo mở chuyên_dụng để tháo vỏ bảo_vệ của Cpu , trong quá_trình tháo mở phải thực_hiện đeo vòng tĩnh_điện để tránh làm hỏng các thiết_bị bên trong ;
+
++ Tháo rời bộ nguồn của Cpu kết_nối với bo_mạch chính và thực_hiện quá_trình vệ_sinh công_nghiệp , kiểm_tra quạt làm mát ( thực_hiện thay_thế nếu cần ) , làm sạch bụi bẩn và thay_thế túi đựng hạt chống ẩm , đo điện_áp đầu_ra của bộ nguồn để đảm_bảo mức điện_áp cấp cho bộ mạch chính ;
+
++ Tháo rời ổ_cứng và ổ Cd rom , thực_hiện vệ_sinh các khoang chứa ;
+
++ Vệ_sinh , làm sạch bụi trên bo_mạch chính , kiểm_tra quạt làm mát trên chip Cpu để đảm_bảo quạt không bị trơ . Kiểm_tra , hàn lại hoặc thay_thế các linh_kiện điện_tử nếu phát_hiện hỏng_hóc ;
+
++ Lắp toàn_bộ lại các bộ_phận và kết_nối các dây tín_hiệu trên bo_mạch chính , đóng vỏ bảo_vệ Cpu , cung_cấp nguồn và bật máy_tính . Nếu có tiếng bíp kêu báo lỗi thì cần thực_hiện mở máy và kiểm_tra từng phần thiết_bị riêng và các dây tín_hiệu kết_nối ;
+
+b . Màn_hình Lcd :
+
++ Tắt màn_hình Lcd , tháo dây_cáp nối với nguồn và dây_cáp tín_hiệu . Sử_dụng vải mềm và dung_dịch làm sạch màn_hình chuyên_dụng để vệ_sinh bề_mặt màn_hình ;
+
++ Tháo nắp che phía sau màn_hình Lcd sử_dụng chổi mềm và bình hút khí để hút sạch bụi bên trong ;
+
++ Lắp lại các dây_cáp nguồn và tín_hiệu , bật màn_hình và kiểm_tra hình_ảnh sao cho có chất_lượng hiển_thị tốt .
+
+c . Hoàn_tất việc bảo_dưỡng và ghi nhật_kí lại toàn_bộ công_việc .
+
+1 . 4 . Kiểm_tra hoạt_động sau bảo_dưỡng
+
+d . Chạy các chương_trình_tự kiểm_tra ( self test ) của hệ_thống xử_lí trung_tâm để kiểm_tra tình_trạng thiết_bị sau khi bảo_dưỡng , kiểm_tra tình hoạt_động của hệ điều_hành ;
+
+e . Kiểm_tra tình_trạng tổng_thể của các thiết_bị trước khi được lắp_đặt trở_lại vị_trí ban_đầu .
+
+1 . 5 . Kết_thúc công_việc
+
+f . Kiểm_tra lại các công_việc đã thực_hiện và hoạt_động của các thiết_bị sau bảo_dưỡng ;
+
+g . Đánh_giá kết_quả thiết_bị hoạt_động sau bảo_dưỡng dựa vào bảng kiểm_tra các thông_số chỉ báo của hệ_thống . Ghi_nhận lại kết_quả này và so_sánh với các thông_số ghi_nhận trước khi bảo_dưỡng để phát_hiện sai khác ;
+
+h . Ghi lại đầy_đủ các nội_dung , kết_quả công_tác bảo_dưỡng vào mẫu bảo_dưỡng , báo_cáo người phụ_trách đơn_vị ;
+
+i . Hoàn_tất việc bảo_dưỡng và ghi nhật_kí lại toàn_bộ công_việc ;
+
+j . Thu_dọn , vệ_sinh khu_vực bảo_dưỡng , cất_giữ các thiết_bị đo , tài_liệu đúng nơi quy_định .
+
+2 . Định_mức
+
+2 . 1 . Định_mức lao_động ( công )
+
+2 . 2 . Định_mức tiêu_hao vật_tư
+
+2 . 3 . Chi_phí vật_tư phục_vụ bảo_dưỡng được tính bằng 10 % chi_phí lao_động bảo_dưỡng tính theo mức lương cơ_sở .
+
+Iii . Định_mức tiêu_hao thiết_bị chuyển mạch
+
+( Chu_kì bảo_dưỡng : 06 tháng )
+
+1 . Thành_phần công_việc
+
+1 . 1 . Công_tác chuẩn_bị
+
+a . Nghiên_cứu tài_liệu , sơ_đồ thiết_bị , quy_trình ;
+
+b . Lập kế_hoạch cụ_thể và phân_công các công_việc bảo_dưỡng ;
+
+c . Chuẩn_bị các thiết_bị đo , vật_tư , phụ_tùng , tài_liệu , mặt_bằng và trang thiết_bị an_toàn cần_thiết phục_vụ công_tác bảo_dưỡng ;
+
+d . Chuẩn_bị thiết_bị Switch dự_phòng thay_thế cho Switch đang hoạt_động trong thời_gian thực_hiện bảo_dưỡng .
+
+1 . 2 . Kiểm_tra thiết_bị trước bảo_dưỡng
+
+a . Kiểm_tra trạng_thái thiết_bị trước khi thực_hiện quy_trình bảo_dưỡng ;
+
+b . Sao lưu cấu_hình hiện_tại ra_bộ_nhớ bên ngoài nhằm khôi_phục lại nếu có sự_cố sau quá_trình bảo_dưỡng ;
+
+c . Ghi lại toàn_bộ trạng_thái thiết_bị trước khi thực_hiện bảo_dưỡng .
+
+1 . 3 . Thực_hiện bảo_dưỡng
+
+a . Bố_trí thiết_bị hoạt_động thay_thế tạm_thời trong quá_trình bảo_dưỡng ;
+
+b . Tắt nguồn các thiết_bị , tháo dây nguồn cung_cấp và các cáp kết_nối , tháo thiết_bị ra khỏi Rack và đưa vào vị_trí thực_hiện bảo_dưỡng ;
+
+c . Đánh_dấu các loại cáp đã tháo ra khỏi thiết_bị bằng các tem nhãn để nhận_biết ;
+
+d . Đeo vòng tĩnh_điện và kiểm_tra tiếp mát trước khi thực_hiện tháo rời các linh_kiện bên trong ;
+
+e . Mở_thiết_bị theo trình_tự hướng_dẫn của nhà sản_xuất ;
+
+f . Thực_hiện vệ_sinh vỉ mạch , kiểm_tra sự nới lỏng các giắc cắm , chân linh_kiện , kiểm_tra quạt làm mát , tiến_hành thay_thế sửa_chữa nếu cần_thiết ;
+
+g . Dùng chổi mềm và máy hút_bụi để vệ_sinh các thiết_bị , đặc_biệt phần nguồn của thiết_bị ;
+
+h . Vệ_sinh tất_cả các cổng của Switch ;
+
+i . Lắp lại các cáp kết_nối với Switch như trạng_thái ban_đầu và bật nguồn kiểm_tra các đèn cảnh_báo trên các cổng ;
+
+j . Thử kết_nối thiết_bị vào mạng Ethernet để kiểm_tra đảm_bảo thiết_bị hoạt_động bình_thường và truyền nhận dữ_liệu ;
+
+k . Đưa thiết_bị vào Rack và kết_nối đến các thiết_bị khác ;
+
+l . Sử_dụng cáp kết_nối sẵn ( kèm theo thiết_bị ) kết_nối giữa máy_tính và thiết_bị để kiểm_tra cấu_hình hệ_thống của Switch . Thực_hiện kiểm_tra các thông_số thiết_lập của Switch , cấu_hình các cổng của Switch , các Vlan với các thông_số được lưu trước đó để phát_hiện bất_kì sự thay_đổi nào nếu có ;
+
+m . Hoàn_tất việc bảo_dưỡng và ghi nhật_kí lại toàn_bộ công_việc .
+
+1 . 4 . Kiểm_tra hoạt_động sau bảo_dưỡng
+
+a . Kiểm_tra tình_trạng tổng_thể của thiết_bị trước khi được lắp_đặt trở_lại vị_trí ban_đầu .
+
+1 . 5 . Kết_thúc công_việc
+
+a . Kiểm_tra lại các công_việc đã thực_hiện và hoạt_động của Switch và các thiết_bị khác kết_nối với Switch ;
+
+b . Đánh_giá kết_quả thiết_bị hoạt_động sau bảo_dưỡng dựa vào bảng kiểm_tra các thông_số chỉ báo của hệ_thống . Ghi_nhận lại kết_quả này và so_sánh với các thông_số ghi_nhận trước khi bảo_dưỡng để phát_hiện sai khác ;
+
+c . Ghi lại đầy_đủ các nội_dung , kết_quả công_tác bảo_dưỡng vào mẫu bảo_dưỡng , báo_cáo người phụ_trách đơn_vị ;
+
+d . Hoàn_tất việc bảo_dưỡng và ghi nhật_kí lại toàn_bộ công_việc ;
+
+e . Thu_dọn , vệ_sinh khu_vực bảo_dưỡng , cất_giữ các thiết_bị đo , tài_liệu đúng nơi quy_định .
+
+2 . Định_mức
+
+2 . 1 . Định_mức lao_động ( công )
+
+2 . 2 . Định_mức tiêu_hao vật_tư
+
+Chi_phí vật_tư phục_vụ bảo_dưỡng được tính bằng 10 % chi_phí lao_động bảo_dưỡng tính theo mức lương cơ_sở .
+
+Iv . Định_mức tiêu_hao máy phát_điện 10 kVA
+
+Iv . 1 Chạy thử máy phát_điện
+
+( Chu_kì chạy thử máy phát_điện : 1 tuần / lần )
+
+1 . Thành_phần công_việc
+
+1 . 1 . Công_tác chuẩn_bị
+
+a . Nghiên_cứu tài_liệu , hướng_dẫn sử_dụng , quy_trình vận_hành của thiết_bị ;
+
+b . Chuẩn_bị tải để thử máy phát_điện ( sử_dụng các mô_tơ có_thể điều_chỉnh tốc_độ đa_cấp ) ;
+
+c . Chuẩn_bị nhật_kí chạy máy phát_điện .
+
+1 . 2 . Kiểm_tra thiết_bị trước khi chạy thử
+
+a . Kiểm_tra mức nhiên_liệu , mức dầu_nhờn , nước làm mát động_cơ , chỉ báo trên các đồng_hồ ( nếu có ) và các điều_kiện vận_hành bình_thường của máy phát_điện ;
+
+b . Kiểm_tra bề_mặt bình ắc_quy và tiếp_xúc các đầu cực của ắc_quy ;
+
+c . Kiểm_tra chế_độ làm_việc của các Ats , cầu_dao đóng , ngắt tải .
+
+d . Ngắt toàn_bộ tải sử_dụng ra khỏi đầu_ra máy phát_điện , đấu nối tải để thử vào máy phát_điện ;
+
+e . Kiểm_tra các nguy_cơ gây mất an_toàn khi khởi_động máy phát_điện và xử_lí ngay ( nếu có ) .
+
+1 . 3 . Chạy thử máy phát_điện
+
+a . Đưa Cb của máy phát về vị_trí Off ;
+
+b . Nhấn nút Start để khởi_động máy phát_điện hoặc khởi_động ở chế_độ bằng tay . Chú_ý ngừng máy khẩn_cấp khi phát_hiện có sự_cố bất_thường ;
+
+c . Kiểm_tra các thông_số hiển_thị trên bảng điều_khiển , đồng_hồ ( điện_áp , dòng_điện , tần_số , mức nhiên_liệu , mức dầu_nhớt . . . ) ;
+
+d . Để máy chạy ở chế_độ không tải trong vòng 10 phút , quan_sát các chỉ_số hiển_thị trên bảng điều_khiển , đồng_hồ trong toàn_bộ khoảng thời_gian này ;
+
+e . Đóng Cb của máy phát_điện về vị_trí On để thử tải máy phát_điện ;
+
+f . Thay_đổi tốc_độ mô_tơ ( thay_đổi công_suất tải ) ở các mức khác nhau trong vòng 15 phút để kiểm_tra các thông_số hiển_thị trên bảng điều_khiển , đồng_hồ ;
+
+g . Đưa Cb của máy phát_điện về vị_trí Off để ngắt tải thử , tiếp_tục cho máy phát_điện chạy ở chế_độ không tải 5 phút ;
+
+h . Nhấn nút Stop để dừng máy phát_điện ;
+
+i . Tổng_thời_gian máy chạy : 30 phút ;
+
+1 . 4 . Kết_thúc công_việc
+
+a . Tháo tải thử ra khỏi đầu_ra máy phát_điện , thực_hiện đấu nối tải sử_dụng vào vị_trí ban_đầu theo quy_trình ngược_lại ;
+
+b . Kiểm_tra lại các đấu nối về nguồn điện , vị_trí các Cb và hệ_thống Ats ;
+
+c . Ghi lại nhật_kí chạy thử máy phát_điện .
+
+2 . Định_mức
+
+2 . 1 . Định_mức lao_động ( công )
+
+C / n kĩ_thuật bậc 5/7: 0 , 5
+
+2 . 2 . Định_mức tiêu_hao nhiên_liệu
+
+Tiêu_hao nhiên_liệu cho việc chạy thử được xác_định bằng thời_gian chạy thử nhân mức tiêu_hao nhiên_liệu nêu tại Bảng mức 3 , mục 2 . 2 , Mục_ii - Định_mức tiêu_hao , Chương_lI quyển này .
+
+Iv . 2 Bảo_dưỡng máy phát_điện
+
+( Chu_kì bảo_dưỡng : 1 năm / lần )
+
+1 . Thành_phần công_việc
+
+1 . 1 . Công_tác chuẩn_bị
+
+a . Nghiên_cứu tài_liệu , sơ_đồ thiết_bị , quy_trình ;
+
+b . Lập kế_hoạch cụ_thể và phân_công các công_việc bảo_dưỡng ;
+
+c . Chuẩn_bị các thiết_bị đo , vật_tư , phụ_tùng , biểu_mẫu bảo_dưỡng , mặt_bằng và các trang thiết_bị an_toàn cần_thiết phục_vụ công_tác bảo_dưỡng .
+
+1 . 2 . Kiểm_tra thiết_bị trước bảo_dưỡng
+
+a . Kiểm_tra trạng_thái các đèn hiển_thị trên mặt panel của máy ;
+
+b . Chạy thử máy để kiểm_tra tình_trạng hoạt_động của máy trước khi bảo_dưỡng ;
+
+c . Ghi lại tình_trạng hoạt_động và các thông_số từ kết_quả của chương_trình chạy thử liên_quan đến thiết_bị .
+
+1 . 3 . Thực_hiện bảo_dưỡng
+
+Chuyển máy phát_điện về chế_độ Stop , vệ_sinh sạch thiết_bị , tháo_dỡ các chi_tiết máy để thực_hiện bảo_dưỡng .
+
+i . Bảo_dưỡng phần động_cơ :
+
+a . Kiểm_tra độ sạch ( cặn , nước và các tạp_chất ) và mức của nhớt bôi_trơn động_cơ , nhiên_liệu , nước làm mát động_cơ , thực_hiện thay hoặc bổ_sung nếu cần ;
+
+b . Kiểm_tra và thực_hiện hiệu_chỉnh dây đai máy nạp ắc_quy , các pu - ly truyền động , siết lại các đai_ốc nếu cần ;
+
+c . Kiểm_tra và xiết đai kẹp ống dẫn nước , ống dẫn dầu nhiên_liệu , dầu_nhờn . Nếu phát_hiện có sự rỏ rỉ trên ống dẫn phải lập_tức thay_thế tránh hỏng máy phát_điện ;
+
+d . Kiểm_tra và thay phin lọc dầu_nhờn làm mát , phin lọc dầu nhiên_liệu theo định_kì ( 250 giờ hoặc 06 tháng ) ;
+
+e . Kiểm_tra và vệ_sinh bộ bảo_vệ quá nhiệt , bộ lọc khí , bộ giảm_chấn và thực_hiện hiệu_chỉnh nếu cần ;
+
+f . Kiểm_tra bộ nạp ắc_quy , vệ_sinh sạch_sẽ các tiếp_điểm , đo điện_áp nạp ắc_quy và chỉnh định nếu cần_thiết ;
+
+g . Kiểm_tra , vệ_sinh đầu nối cáp dẫn motor đề , làm vệ_sinh đầu nối từ ắc_quy đến motor đề ;
+
+h . Ghi_chép kết_quả bảo_dưỡng vào mẫu kết_quả bảo_dưỡng thiết_bị .
+
+ii . Bảo_dưỡng phần phát_điện :
+
+a . Kiểm_tra các chức_năng bảng điều_khiển và hiển_thị bằng việc ấn phím Test , xử_lí các sự_cố nếu có ;
+
+b . Sử_dụng đồng_hồ số chuẩn để kiểm_tra và hiệu_chỉnh Avr , bộ kích từ và các cơ_cấu đo_lường ;
+
+c . Đo và xử_lí độ cách_điện giữa các cuộn dây và vỏ theo đúng tiêu_chuẩn kĩ_thuật , thực_hiện tẩm sấy cuộn dây nếu cần ;
+
+d . Vệ_sinh tổng_thể thiết_bị và toàn_bộ nơi đặt máy , sơn chống rỉ và sơn màu thiết_bị , siết chặt các bu_lông và cáp_đấu nối nguồn ;
+
+e . Kiểm_tra , vệ_sinh bảo_dưỡng Rotor và Stator và thực_hiện lắp lại hoàn_chỉnh ;
+
+f . Chạy thử máy , kiểm_tra và hiệu_chỉnh các thông_số nếu cần_thiết ;
+
+g . Kiểm_tra khả_năng chịu_tải của máy phát so với thông_số kĩ_thuật ( ở trạng_thái ngắt_điện_lưới ) ;
+
+h . Ghi_chép kết_quả bảo_dưỡng vào mẫu kết_quả bảo_dưỡng thiết_bị .
+
+iii . Bảo_dưỡng bộ tự_động chuyển_đổi nguồn Ats :
+
+a . Thực cách_li bộ chuyển_đổi nguồn Ats ra khỏi nguồn điện_lưới và máy phát_điện ;
+
+b . Kiểm_tra chức_năng đóng , ngắt tự_động và bằng tay cấp nguồn điện_lưới và điện_máy phát_điện của contactor ;
+
+c . Kiểm_tra , hiệu_chỉnh cơ_cấu hiển_thị , đo_lường của thiết_bị ;
+
+d . Kiểm_tra và vệ_sinh các tiếp_điểm trong hộp đấu dây và toàn_bộ tủ Ats ;
+
+iv . Bảo_dưỡng hệ_thống chứa và cung_cấp nhiên_liệu ;
+
+a . Vệ_sinh , kiểm_tra tổng_thể hệ_thống chứa và cung_cấp nhiên_liệu và xử_lí các sự_cố rò_rỉ , hư_hỏng phát_hiện được ;
+
+b . Mở tất_cả các van dẫn nhiên_liệu đến máy và từ máy về thùng chứa nhiên_liệu để xả khí , cặn bẩn và nước ra khỏi đường_ống .
+
+v . Vệ_sinh phòng đặt máy :
+
+a . Vệ_sinh tổng_thể phòng máy ;
+
+b . Kiểm_tra và xử_lí các sự_cố phát_hiện được của hệ_thống chiếu sáng , hệ_thống chống sét , hệ_thống tiếp đất , hệ_thống Pc .
+
+1 . 4 . Kiểm_tra hoạt_động sau bảo_dưỡng
+
+a . Chạy máy phát_điện ở chế_độ tự_động và nhân_công để kiểm_tra tình_trạng thiết_bị sau khi bảo_dưỡng .
+
+1 . 5 . Kết_thúc công_việc
+
+a . Đóng lại cửa tủ máy phát_điện , thu_dọn , vệ_sinh khu_vực bảo_dưỡng , cất thiết_bị , thiết_bị đo đúng nơi quy_định ;
+
+b . Ghi lại đầy_đủ các nội_dung , kết_quả công_tác bảo_dưỡng vào mẫu bảo_dưỡng , báo_cáo người phụ_trách đơn_vị .
+
+- Hoàn_tất việc bảo_dưỡng và ghi nhật_kí lại toàn_bộ công_việc .
+
+2 - Định_mức
+
+2 . 1 . Định_mức lao_động ( công )
+
+2 . 2 . Định_mức tiêu_hao vật_tư
+
+Chi_phí vật_tư phục_vụ bảo_dưỡng được tính bằng 10 % chi_phí lao_động bảo_dưỡng tính theo mức lương cơ_sở .
+
+Iv . 3 Cột_ăng ten máy lnmarsat C
+
+( Chu_kì bảo_dưỡng : 01 năm )
+
+1 . Thành_phần công_việc
+
+1 . 1 . Công_tác chuẩn_bị
+
+a . Chuẩn_bị các thiết_bị đo , vật_tư , phụ_tùng , tài_liệu , mặt_bằng và trang thiết_bị an_toàn cần_thiết phục_vụ công_tác bảo_dưỡng ;
+
+b . Lập kế_hoạch cụ_thể và phân_công các công_việc bảo_dưỡng .
+
+1 . 2 . Kiểm_tra thiết_bị trước bảo_dưỡng
+
+a . Ghi lại tình_trạng và các thông_số liên_quan đến thiết_bị lắp_đặt trên cột .
+
+1 . 3 . Thực_hiện bảo_dưỡng
+
+a . Vệ_sinh bụi đất bám quanh chân trụ anten cũng như quanh vị_trí các dây néo anten . Tiến_hành vệ_sinh sạch_sẽ xung_quanh các mố chằng ( 03 mố chằng ) ;
+
+b . Đo điện_trở_tiếp đất hệ_thống chống sét của cột anten bằng máy đo điện_trở_đất . Nếu đạt thấp hơn giá_trị 10 ohm là đạt yêu_cầu . Công_việc này phải được đo 3 lần với các vị_trí đo khác nhau .
+
+i . Bảo_dưỡng dây_chằng cột
+
+Tiến_hành bảo_dưỡng lần_lượt các tầng chằng cột theo các bước như sau :
+
+a . Lần_lượt đưa dây_chằng giả lên thay_thế cho dây_chằng chính của cột ( 03 dây_chằng cột ) . Hạ dây_chằng chính của cột xuống ( 03 dây_chằng cột ) ;
+
+b . Kiểm_tra các ốc siết cáp , dùng máy cắt để cắt các ốc siết cáp của dây_chằng bị rỉ sét không tháo được ;
+
+c . Vệ_sinh , đánh rỉ , tra mỡ vào các vị_trí tăng đơ , ốc siết cáp và dây_chằng để tăng_cường chống rỉ sét . Thay_thế các vị_trí tăng đơ , xiết cáp bị rỉ sét , bị hư_hỏng ;
+
+d . Kiểm_tra độ cách_điện của sứ cao_tần , cách_điện của dây_chằng cột và thực_hiện thay_thế nếu điện_trở cách_điện không đạt yêu_cầu ;
+
+e . Tiến_hành lắp lại các dây_chằng cột .
+
+ii . Bảo_dưỡng thân cột anten
+
+a . Vệ_sinh , đánh rỉ và sơn lại các khúc cột , khớp nối , . . . có dấu_hiệu bị ăn_mòn , rỉ sét . Dùng máy cắt , dụng_cụ tháo lắp khác để cắt hoặc tháo lắp các ốc bị rỉ sét không tháo được và tiến_hành thay_thế ;
+
+b . Kiểm_tra sự tiếp_xúc của thân cột anten với dây nối hệ_thống tiếp đất . Tiến_hành làm sạch và lắp chặt lại .
+
+iii . Bảo_dưỡng hệ_thống chống sét cột , các khung_giá anten trên cột
+
+a . Vệ_sinh và kiểm_tra bảo_dưỡng hệ_thống kim chống sét , dây_dẫn , hệ_thống tiếp đất .
+
+iv . Căn_chỉnh lại cột anten .
+
+a . Quan_sát độ nghiêng và độ xoắn của thân cột anten từ các hướng khác nhau bằng dây rọi , cũng như độ căng , chùng của các dây_chằng cột anten .
+
+1 . 4 . Kiểm_tra hoạt_động sau bảo_dưỡng
+
+a . Kiểm_tra lại độ nghiêng , độ xoắn của cột , bôi mỡ vào các tăng đơ sau khi chỉnh định .
+
+1 . 5 . Kết_thúc công_việc
+
+a . Thu_dọn , vệ_sinh khu_vực bảo_dưỡng , cất thiết_bị , thiết_bị đo đúng nơi quy_định ;
+
+b . Ghi lại đầy_đủ các nội_dung , kết_quả công_tác bảo_dưỡng vào mẫu bảo_dưỡng , báo_cáo người phụ_trách đơn_vị .
+
+c . Hoàn_tất việc bảo_dưỡng và ghi nhật_kí lại toàn_bộ công_việc .
+
+2 . Định_mức
+
+2 . 1 . Định_mức lao_động ( công )
+
+2 . 2 . Định_mức tiêu_hao vật_tư
+
+Chi_phí vật_tư phục_vụ bảo_dưỡng được tính bằng 10 % chi_phí lao_động bảo_dưỡng tính theo mức lương cơ_sở .
+
+Iv . 4 Máy lnmarsat C
+
+( Chu_kì bảo_dưỡng : 06 tháng )
+
+1 . Thành_phần công_việc
+
+1 . 1 . Công_tác chuẩn_bị
+
+a . Bố_trí thiết_bị / hệ_thống khác hoạt_động thay_thế trong thời_gian bảo_dưỡng thiết_bị ;
+
+b . Lập kế_hoạch cụ_thể và phân_công các công_việc bảo_dưỡng ;
+
+c . Chuẩn_bị các trang thiết_bị đo , vật_tư , phụ_tùng cần_thiết phục_vụ công_tác bảo_dưỡng ;
+
+d . Tập_hợp các tài_liệu bảo_dưỡng , mẫu bảo_dưỡng thiết_bị ;
+
+e . Chuẩn_bị mặt_bằng và các trang thiết_bị an_toàn phục_vụ công_tác bảo_dưỡng .
+
+1 . 2 . Kiểm_tra thiết_bị trước bảo_dưỡng
+
+a . Kiểm_tra chức_năng hoạt_động của thiết_bị thông_qua hoạt_động khai_thác thông_tin thực_tế ;
+
+b . Chạy các chương_trình test để kiểm_tra tình_trạng thiết_bị trước khi bảo_dưỡng ;
+
+c . Ghi lại tình_trạng và các thông_số .
+
+1 . 3 . Thực_hiện bảo_dưỡng
+
+a . Ngắt nguồn cấp cho thiết_bị . Tháo các cáp kết_nối vào thiết_bị ;
+
+b . Đánh_dấu các loại cáp đã tháo ra khỏi máy_chủ bằng các tem nhãn để nhận_biết ;
+
+c . Tháo_gỡ các cửa phía sau và các panel phía trước của Rack_thiết_bị ( nếu có ) ;
+
+d . Tháo máy Inmarsat C đưa thiết_bị vào vị_trí thực_hiện bảo_dưỡng ;
+
+e . Tháo_gỡ các thành_phần của thiết_bị , vệ_sinh sơ_bộ từng thành_phần .
+
+1 . 4 . Vệ_sinh , kiểm_tra tình_trạng thiết_bị trong trạng_thái không cấp nguồn
+
+a . Vệ_sinh các board mạch , các đầu nối connector của vỉ mạch bằng dầu lau chuyên_dụng ;
+
+b . Vệ_sinh các đầu nối cáp kết_nối anten , cáp kết_nối Rs232 của thiết_bị ;
+
+c . Thay_thế cáp Rs232 trong trường_hợp phát_hiện han rỉ , gãy , hở . . . ;
+
+d . Kiểm_tra phát_hiện các biến_đổi về màu_sắc các linh_kiện , vỉ mạch nếu có .
+
+1 . 5 . Kiểm_tra thông_số trong trạng_thái cấp nguồn
+
+a . Thực_hiện lắp lại các cáp kết_nối vào thiết_bị ;
+
+b . Cấp nguồn cho thiết_bị ;
+
+c . Dùng đồng_hồ vạn_năng kiểm_tra điện_áp trên chân 1 , chân 3 của Ic2 trên board mạch có đạt lần_lượt 5v , 3 . 3v không ;
+
+d . Lắp lại vỏ bảo_vệ của thiết_bị .
+
+1 . 6 . Kiểm_tra hoạt_động sau bảo_dưỡng
+
+a . Test để kiểm_tra tình_trạng thiết_bị sau khi bảo_dưỡng ;
+
+b . Kiểm_tra chức_năng hoạt_động của thiết_bị thông_qua hoạt_động khai_thác thông_tin thực_tế .
+
+1 . 7 . Kết_thúc công_việc
+
+a . Lắp_đặt máy Inmarsat C về vị_trí ban_đầu ;
+
+b . Hoàn_tất việc bảo_dưỡng và ghi nhật_kí lại toàn_bộ công_việc . Ghi lại đầy_đủ các nội_dung , kết_quả bảo_dưỡng vào mẫu bảo_dưỡng và báo_cáo người phụ_trách đơn_vị ;
+
+c . Thu_dọn , vệ_sinh khu_vực bảo_dưỡng , cất_giữ các thiết_bị đo , tài_liệu đúng nơi quy_định .
+
+2 . Định_mức
+
+a . Định_mức lao_động ( công )
+
+b . Định_mức tiêu_hao vật_tư
+
+- Chi_phí vật_tư phục_vụ bảo_dưỡng được tính bằng 10 % chi_phí lao_động bảo_dưỡng tính theo mức lương cơ_sở .
+
+V . Định_mức tiêu_hao điều_hoà nhiệt_độ : 9 . 000 Btu - 24 . 000 Btu
+
+( Chu_kì bảo_dưỡng : 06 tháng )
+
+1 . Thành_phần công_việc
+
+1 . 1 . Công_tác chuẩn_bị
+
+a . Nghiên_cứu tài_liệu , sơ_đồ thiết_bị , quy_trình , mẫu bảo_dưỡng thiết_bị ;
+
+b . Lập kế_hoạch cụ_thể và phân_công các công_việc bảo_dưỡng ;
+
+c . Chuẩn_bị các thiết_bị đo , vật_tư , phụ_tùng , tài_liệu , mặt_bằng và các trang thiết_bị an_toàn cần_thiết phục_vụ công_tác bảo_dưỡng .
+
+1 . 2 . Kiểm_tra thiết_bị trước bảo_dưỡng
+
+a . Chạy thử máy để kiểm_tra tình_trạng hoạt_động của máy trước khi bảo_dưỡng ;
+
+b . Ghi lại tình_trạng hoạt_động và các thông_số từ kết_quả của chương_trình chạy thử liên_quan đến thiết_bị .
+
+1 . 3 . Thực_hiện bảo_dưỡng
+
+a . Bảo_dưỡng khối trong nhà :
+
+- Tháo vỏ máy để kiểm_tra , vệ_sinh sạch vỏ máy , lưới lọc gió , giàn nhiệt , quạt_gió ; Sơn lại các phần rỉ sét nếu có ;
+
+- Kiểm_tra và vệ_sinh vỉ mạch điều_khiển và các đầu cảm_biến ;
+
+- Kiểm_tra và vệ_sinh , tra mỡ vào vòng_bi trục giữa của quạt_gió ;
+
+- Kiểm_tra điện_áp và dòng sử_dụng đồng_hồ số_đo điện_áp 3 pha và dòng của từng pha ;
+
+- Lắp_ráp lại các thành_phần thiết_bị .
+
+b . Bảo_dưỡng khối ngoài_trời :
+
+- Tháo vỏ thiết_bị , kiểm_tra , vệ_sinh sạch các cấu_kiện , sơn lại các phần rỉ sét ;
+
+- Kiểm_tra các đường_ống dẫn gas và các đầu nối để phát_hiện rò_rỉ . Thực_hiện thay_thế nếu cần ;
+
+- Siết chặt nắp chụp khống_chế đường gas ra ;
+
+- Lắp_ráp lại toàn_bộ các thành_phần thiết_bị .
+
+c . Bảo_dưỡng các đường_ống dẫn .
+
+1 . 4 . Kiểm_tra hoạt_động sau bảo_dưỡng
+
+a . Khởi_động máy điều_hoà để kiểm_tra tình_trạng thiết_bị sau khi bảo_dưỡng ;
+
+b . Kiểm_tra chức_năng hoạt_động của thiết_bị từ bảng điều_khiển .
+
+1 . 5 . Kết_thúc công_việc
+
+a . Thu_dọn , vệ_sinh khu_vực bảo_dưỡng , cất thiết_bị , thiết_bị đo đúng nơi quy_định ;
+
+b . Ghi lại đầy_đủ các nội_dung , kết_quả công_tác bảo_dưỡng vào mẫu bảo_dưỡng , báo_cáo người phụ_trách đơn_vị ;
+
+c . Hoàn_tất việc bảo_dưỡng và ghi nhật_kí lại toàn_bộ công_việc .
+
+2 . Định_mức
+
+2 . 1 . Định_mức lao_động ( công )
+
+2 . 2 . Định_mức tiêu_hao vật_tư
+
+Chi_phí vật_tư phục_vụ bảo_dưỡng được tính bằng 10 % chi_phí lao_động bảo_dưỡng tính theo mức lương cơ_sở .
+
+V . Định_mức tiêu_hao bộ chuyển_đổi nguồn Ac / dc220v / 24v - 20a
+
+( Chu_kì bảo_dưỡng : 06 tháng )
+
+1 . Thành_phần công_việc
+
+1 . 1 . Công_tác chuẩn_bị
+
+a . Nghiên_cứu tài_liệu , sơ_đồ thiết_bị , quy_trình , mẫu bảo_dưỡng thiết_bị ;
+
+b . Lập kế_hoạch cụ_thể và phân_công các công_việc bảo_dưỡng ;
+
+c . Chuẩn_bị các thiết_bị đo , vật_tư , phụ_tùng , tài_liệu , mặt_bằng và các trang thiết_bị an_toàn cần_thiết phục_vụ công_tác bảo_dưỡng ;
+
+d . Bố_trí thiết_bị dự_phòng hoạt_động thay_thế trong thời_gian bảo_dưỡng .
+
+1 . 2 . Kiểm_tra thiết_bị trước bảo_dưỡng
+
+a . Kiểm_tra phần chỉ báo các thông_số điện_áp , dòng_điện , các thanh quét , bề_mặt cuộn dây ;
+
+b . Dùng đồng_hồ số_đo điện_áp , am pe kìm đo dòng_điện đầu_vào và đầu_ra từng pha của ổn_áp / nguồn điện ;
+
+c . Gạt cầu_dao đảo chiều sang vị_trí ổn_áp dự_phòng sau đó bật Automat cấp điện cho ổn_áp dự_phòng làm_việc để cấp điện cho hệ_thống ;
+
+d . Kiểm_tra các thanh quét của bộ ổn_áp xem có hoạt_động không để có kế_hoạch bảo_dưỡng . Sau đó ngắt nguồn đầu_vào bộ ổn_áp / nguồn điện để thực_hiện quá_trình bảo_dưỡng ;
+
+e . Ghi lại toàn_bộ trạng_thái thiết_bị trước khi thực_hiện bảo_dưỡng .
+
+1 . 3 . Thực_hiện bảo_dưỡng
+
+a . Vệ_sinh_thiết_bị :
+
+i . Tháo vỏ bộ ổn_áp và vệ_sinh cuộn dây ( sơ_cấp / thứ cấp ) và các thanh quét , vỉ điều_khiển và mô_tơ ;
+
+ii . Tháo , vệ_sinh và kiểm_tra các cặp thanh quét , chổi_than .
+
+a . Đo và điều_chỉnh điện_áp đầu_ra của bộ ổn_áp :
+
+i . Kiểm_tra điện_áp pha với dây trung_tính , nếu điện_áp không đạt 220v thì thực_hiện điều_chỉnh điện_trở để đảm_bảo điện_áp cấp cho Ic điều_khiển ;
+
+ii . Nếu điện_áp đầu_ra khi dùng đồng_hồ số_đo đạt 220v . Nhưng đồng_hồ Chỉ_thị trên mặt Ổn_áp lại chỉ thấp hơn hoặc cao hơn thì điều_chỉnh cơ_khí tại vít chỉnh của đồng_hồ . Nếu không được sẽ thay đồng_hồ khác .
+
+b . Kiểm_tra và thay_thế chổi_than ( các thanh quét ) :
+
+i . Kiểm_tra lò_xo đẩy chổi_than , thực_hiện hiệu_chỉnh lại hoặc thay lò_xo mới nếu thấy lò_xo đẩy yếu ;
+
+ii . Kiểm_tra chổi_than , bề_mặt tiếp_xúc của chổi_than với cuộn dây xem có bị rỗ , mòn có đều không . Thực_hiện thay chổi_than mới hoặc làm mịn lại bề_mặt chổi_than nếu chổi_than quá mòn hoặc bề_mặt rỗ , mòn không đều .
+
+c . Kiểm_tra nguồn cung_cấp cho vỉ điều_khiển :
+
+i . Đo mức điện_áp cấp điện cho mạch điều_khiển và điện_áp điều_khiển đưa vào mạch điều_khiển ;
+
+ii . Hiệu_chỉnh lại nếu giá_trị điện_áp đo được để đảm_bảo điện_áp danh định .
+
+1 . 4 . Kiểm_tra hoạt_động sau bảo_dưỡng
+
+a . Kiểm_tra và vặn chặt lại các ốc bắt điện_áp vào và điện ra đưa đến Contactor tránh gây đánh tia lửa điện khi cấp điện cho tải ;
+
+b . Đóng Automat để cấp điện cho bộ ổn_áp làm_việc , sau đó kiểm_tra lại các mức điện_áp vào , điện_áp ra , kiểm_tra các thanh quét xem hoạt_động có bị vấp không , các quạt , tiếng kêu của ổn_áp có khác lạ không . Sau khi kiểm_tra xong kết_quả tốt cắt Automat để ngắt nguồn cung_cấp cho bộ ổn_áp .
+
+1 . 5 . Kết_thúc công_việc
+
+a . Lắp_ráp lại thiết_bị ;
+
+b . Thu_dọn , vệ_sinh khu_vực bảo_dưỡng , cất thiết_bị , thiết_bị đo đúng nơi quy_định ;
+
+c . Ghi lại đầy_đủ các nội_dung , kết_quả công_tác bảo_dưỡng vào mẫu bảo_dưỡng , báo_cáo người phụ_trách đơn_vị ;
+
+d . Hoàn_tất việc bảo_dưỡng và ghi nhật_kí lại toàn_bộ công_việc .
+
+2 . Định_mức
+
+2 . 1 . Định_mức lao_động ( công )
+
+2 . 2 . Định_mức tiêu_hao vật_tư
+
+Chi_phí vật_tư phục_vụ bảo_dưỡng được tính bằng 10 % chi_phí lao_động bảo_dưỡng tính theo mức lương cơ_sở .
+
+Vi . Định_mức tiêu_hao thiết_bị lưu_điện ( ups ) : 10kva
+
+( Chu_kì bảo_dưỡng : 06 tháng )
+
+1 . Thành_phần công_việc
+
+1 . 1 . Công_tác chuẩn_bị
+
+a . Nghiên_cứu tài_liệu , sơ_đồ thiết_bị , quy_trình , mẫu bảo_dưỡng thiết_bị ;
+
+b . Lập kế_hoạch cụ_thể và phân_công các công_việc bảo_dưỡng ;
+
+c . Chuẩn_bị các thiết_bị đo , vật_tư , phụ_tùng , tài_liệu , mặt_bằng và trang thiết_bị an_toàn cần_thiết phục_vụ công_tác bảo_dưỡng ;
+
+d . Bố_trí bộ lưu_điện ( ups ) dự_phòng khác hoạt_động thay_thế trong thời_gian bảo_dưỡng thiết_bị .
+
+1 . 2 . Kiểm_tra thiết_bị trước bảo_dưỡng
+
+a . Kiểm_tra trạng_thái đang hoạt_động của Ups , nếu Ups không ở chế_độ Normal thì khởi_động về chế_độ Normal ;
+
+b . Thử tải của Ups để kiểm_tra khả_năng dự_phòng cho hệ_thống ;
+
+c . Kiểm_tra các thông_số điện_áp đầu_vào , đầu_ra của Ups , các đèn hiển_thị trên mặt máy và xử_lí nếu có cảnh_báo ( Alarm ) ;
+
+c . Ghi lại tình_trạng và các thông_số liên_quan đến thiết_bị trước khi bảo_dưỡng .
+
+1 . 3 . Thực_hiện bảo_dưỡng
+
+a . Vệ_sinh_thiết_bị :
+
+i . Sử_dụng Ups dự_phòng thay_thế cho Ups bảo_dưỡng ;
+
+ii . Tắt_ups và thực_hiện tháo_gỡ các thành_phần thiết_bị ;
+
+iii . Vệ_sinh vỏ máy , các thành_phần cấu_kiện và quạt làm mát , tra dầu nếu quạt quay không trơn_tru ;
+
+iv . Lắp lại các thành_phần cấu_kiện đảm_bảo đúng vị_trí .
+
+b . Kiểm_tra chất_lượng ắc_quy :
+
+i . Vệ_sinh ắc_quy đồng_thời kiểm_tra vị_trí các vỉ mạch và các giắc cắm đảm_bảo chính_xác trước khi đưa vào làm_việc và thực_hiện đo kiểm ;
+
+ii . Đo_kiểm giá_trị điện_áp các ắc_quy và thay_thế nếu thấy mức điện_áp không đạt chỉ_tiêu kĩ_thuật ;
+
+iii . Sử_dụng tải giả và đồng_hồ đo để xác_định dung_lượng ắc_quy theo thời_gian sử_dụng .
+
+c . Kiểm_tra tình_trạng các vỉ Bypass , vỉ Inverter , Rectifier , đèn cảnh_báo trên mặt máy và thay_thế các linh_kiện hỏng trên các vỉ mạch điều_khiển nếu phát_hiện được ;
+
+d . Kiểm_tra khối nguồn cấp để đảm_bảo mức điện_áp cấp cho các contactor đường bypass , contactor đầu_ra và quạt đồng_thời đo kiểm_tra điện_áp đầu_ra , đầu_vào Ups .
+
+1 . 5 . Kiểm_tra hoạt_động sau bảo_dưỡng
+
+a . Kiểm_tra lại các thông_số điện_áp đầu_vào , đầu_ra , điện_áp ắc_quy và trạng_thái của các đèn tín_hiệu trong các vỉ mạch ;
+
+b . Kiểm_tra đảm_bảo chuyển mạch ắc_quy để ở vị_trí Normal ;
+
+c . Đưa Ups vào hoạt_động trở_lại để kiểm_tra khả_năng chịu_tải của Ups sau bảo_dưỡng .
+
+1 . 6 . Kết_thúc công_việc
+
+a . Lắp_ráp lại thiết_bị ;
+
+b . Thu_dọn , vệ_sinh khu_vực bảo_dưỡng , cất thiết_bị , thiết_bị đo đúng nơi quy_định ;
+
+c . Ghi lại đầy_đủ các nội_dung , kết_quả công_tác bảo_dưỡng vào mẫu bảo_dưỡng , báo_cáo người phụ_trách đơn_vị ;
+
+d . Hoàn_tất việc bảo_dưỡng và ghi nhật_kí lại toàn_bộ công_việc .
+
+2 . Định_mức
+
+2 . 1 . Định_mức lao_động ( công )
+
+2 . 2 . Định_mức tiêu_hao vật_tư
+
+Chi_phí vật_tư phục_vụ bảo_dưỡng được tính bằng 10 % chi_phí lao_động bảo_dưỡng tính theo mức lương cơ_sở .
+
+Vii . Định_mức tiêu_hao hệ_thống Isatphone_pro ( Điện_thoại vệ_tinh )
+
+( Chu_kì bảo_dưỡng : 06 tháng )
+
+1 . Thành_phần công_việc
+
+1 . 1 . Công_tác chuẩn_bị
+
+a . Bố_trí thiết_bị / hệ_thống khác hoạt_động thay_thế trong thời_gian bảo_dưỡng thiết_bị ;
+
+b . Lập kế_hoạch cụ_thể và phân_công các công_việc bảo_dưỡng ;
+
+c . Chuẩn_bị các trang thiết_bị đo , vật_tư , phụ_tùng cần_thiết phục_vụ công_tác bảo_dưỡng ;
+
+d . Tập_hợp các tài_liệu bảo_dưỡng , mẫu bảo_dưỡng thiết_bị ;
+
+e . Chuẩn_bị mặt_bằng và các trang thiết_bị an_toàn phục_vụ công_tác bảo_dưỡng .
+
+1 . 2 . Kiểm_tra thiết_bị trước bảo_dưỡng
+
+a . Kiểm_tra chức_năng hoạt_động của thiết_bị thông_qua hoạt_động khai_thác thông_tin thực_tế ;
+
+b . Kiểm_tra tình_trạng thiết_bị trước khi bảo_dưỡng ;
+
+c . Ghi lại tình_trạng và các thông_số .
+
+1 . 3 . Thực_hiện bảo_dưỡng
+
+a . Ngắt nguồn cấp cho thiết_bị . Tháo các cáp kết_nối vào thiết_bị ;
+
+b . Đánh_dấu các loại cáp đã tháo ra khỏi máy chính bằng các tem nhãn để nhận_biết ;
+
+c . Tháo mở các thành_phần chính của Isatphone_pro ( Điện_thoại vệ_tinh ) , đưa thiết_bị vào vị_trí thực_hiện bảo_dưỡng ;
+
+d . Tháo_gỡ các thành_phần của thiết_bị , vệ_sinh sơ_bộ từng thành_phần .
+
+1 . 4 . Vệ_sinh , kiểm_tra tình_trạng thiết_bị trong trạng_thái không cấp nguồn
+
+a . Vệ_sinh các board mạch , các đầu nối connector của vỉ mạch bằng dầu lau chuyên_dụng ;
+
+b . Vệ_sinh các đầu nối cáp kết_nối anten , cáp kết_nối Rs232 của thiết_bị ;
+
+c . Thay_thế cáp Rs232 trong trường_hợp phát_hiện han rỉ , gãy , hở ;
+
+d . Kiểm_tra phát_hiện các biến_đổi về màu_sắc các linh_kiện , vỉ mạch nếu có .
+
+1 . 5 . Kiểm_tra thông_số trong trạng_thái cấp nguồn
+
+a . Thực_hiện lắp lại các cáp kết_nối vào thiết_bị ;
+
+b . Cấp nguồn cho thiết_bị ;
+
+c . Dùng đồng_hồ vạn_năng kiểm_tra điện_áp có đạt chuẩn không ;
+
+d . Lắp lại vỏ bảo_vệ của thiết_bị .
+
+1 . 6 . Kiểm_tra hoạt_động sau bảo_dưỡng
+
+a . Test để kiểm_tra tình_trạng thiết_bị sau khi bảo_dưỡng ;
+
+b . Kiểm_tra chức_năng hoạt_động của thiết_bị thông_qua hoạt_động khai_thác thông_tin thực_tế .
+
+1 . 7 . Kết_thúc công_việc
+
+a . Lắp_đặt hệ_thống Isatphone_pro ( Điện_thoại vệ_tinh ) về vị_trí ban_đầu ;
+
+b . Hoàn_tất việc bảo_dưỡng và ghi nhật_kí lại toàn_bộ công_việc . Ghi lại đầy_đủ các nội_dung , kết_quả bảo_dưỡng vào mẫu bảo_dưỡng và báo_cáo người phụ_trách đơn_vị ;
+
+c . Thu_dọn , vệ_sinh khu_vực bảo_dưỡng , cất_giữ các thiết_bị đo , tài_liệu đúng nơi quy_định .
+
+2 . Định_mức
+
+2 . 1 . Định_mức lao_động ( công )
+
+2 . 2 . Định_mức tiêu_hao vật_tư
+
+Chi_phí vật_tư phục_vụ bảo_dưỡng được tính bằng 10 % chi_phí lao_động bảo_dưỡng tính theo mức lương cơ_sở .

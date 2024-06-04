@@ -1,0 +1,413 @@
+Thông_tư số 03/2017/tt-btttt ngày 24 tháng 04 năm 2017 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật an_toàn thông_tin mạng ngày 19 tháng 11 năm 2015 ;
+
+Căn_cứ Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính_phủ về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Cục_trưởng Cục An_toàn thông_tin ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định chi_tiết và hướng_dẫn một_số điều của Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+1 . Thông_tư này quy_định chi_tiết và hướng_dẫn bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ , bao_gồm : Hướng_dẫn_xác_định hệ_thống thông_tin và cấp_độ an_toàn hệ_thống thông_tin ; Yêu_cầu bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ ; Kiểm_tra , đánh_giá an_toàn thông_tin ; Tiếp_nhận và thẩm_định hồ_sơ đề_xuất cấp_độ ; Báo_cáo , chia_sẻ thông_tin .
+
+2 . Hệ_thống thông_tin phục_vụ hoạt_động quốc_phòng , an_ninh do Bộ Quốc_phòng , Bộ Công_an quản_lí không thuộc phạm_vi điều_chỉnh của Thông_tư này .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Đối_tượng áp_dụng Thông_tư này được thực_hiện theo quy_định tại Điều 2 Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính_phủ về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ ( sau đây gọi tắt là Nghị_định số 85/2016/NĐ-CP).
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Xác_thực đa nhân_tố là phương_pháp xác_thực không chỉ dựa vào một mà là kết_hợp một_số yếu_tố liên_quan đến người dùng , bao_gồm : những thông_tin mà người dùng biết ( mật_khẩu , mã_số truy_cập , . . . ) , những thông_tin mà người dùng sở_hữu ( chứng_thư số , thẻ thông_minh , . . . ) hoặc những thông_tin về sinh trắc học của người dùng ( vân tay , mống mắt , . . . ) .
+
+2 . Dự_phòng nóng là khả_năng thay_thế chức_năng của thiết_bị khi xảy ra sự_cố mà không làm gián_đoạn hoạt_động của hệ_thống .
+
+3 . Độ phức_tạp cần_thiết của mật_khẩu là việc bảo_đảm mật_khẩu có trên 8 kí_tự , trong đó bao_gồm cả kí_tự chữ_cái hoa , chữ_cái thường , kí_tự đặc_biệt và chữ_số .
+
+4 . Thiết_bị mạng chính hoặc quan_trọng là các thiết_bị khi ngừng một phần hay toàn_bộ hoạt_động mà không có kế_hoạch trước sẽ làm gián_đoạn hoạt_động bình_thường của hệ_thống thông_tin .
+
+Chương_ii
+
+Hướng_dẫn_xác_định Hệ_thống Thông_tin Và Cấp_độ An_toàn Hệ_thống Thông_tin
+
+Điều 4 . Hướng_dẫn_xác_định hệ_thống thông_tin cụ_thể
+
+1 . Việc xác_định hệ_thống thông_tin để xác_định cấp_độ căn_cứ trên nguyên_tắc quy_định tại khoản 1 Điều 5 Nghị_định số 85/2016/NĐ-CP.
+
+2 . Hệ_thống thông_tin được thiết_lập , hình_thành thông_qua một hoặc một_số hình_thức sau : Đầu_tư xây_dựng , thiết_lập mới ; nâng_cấp , mở_rộng , tích_hợp với hệ_thống đã có ; thuê hoặc chuyển_giao hệ_thống .
+
+3 . Hệ_thống thông_tin phục_vụ hoạt_động nội_bộ là hệ_thống chỉ phục_vụ hoạt_động quản_trị , vận_hành nội_bộ của cơ_quan , tổ_chức , bao_gồm :
+
+a ) Hệ_thống thư điện_tử ;
+
+b ) Hệ_thống quản_lí văn_bản và điều_hành ;
+
+c ) Hệ_thống họp , hội_nghị truyền_hình trực_tuyến ;
+
+d ) Hệ_thống quản_lí thông_tin cụ_thể ( nhân_sự , tài_chính , tài_sản hoặc lĩnh_vực chuyên_môn nghiệp_vụ cụ_thể khác ) hoặc hệ_thống quản_lí thông_tin tổng_thể ( tích_hợp quản_lí nhiều chức_năng , nghiệp_vụ khác nhau ) ;
+
+đ ) Hệ_thống xử_lí thông_tin nội_bộ .
+
+4 . Hệ_thống thông_tin phục_vụ người dân , doanh_nghiệp là hệ_thống trực_tiếp hoặc hỗ_trợ cung_cấp dịch_vụ trực_tuyến , bao_gồm dịch_vụ công trực_tuyến và dịch_vụ trực_tuyến khác trong các lĩnh_vực viễn_thông , công_nghệ thông_tin , thương_mại , tài_chính , ngân_hàng , y_tế , giáo_dục và lĩnh_vực chuyên_ngành khác , bao_gồm :
+
+a ) Hệ_thống thư điện_tử ;
+
+b ) Hệ_thống quản_lí văn_bản và điều_hành ;
+
+c ) Hệ_thống một cửa điện_tử ;
+
+d ) Hệ_thống trang , cổng thông_tin điện_tử ;
+
+đ ) Hệ_thống cung_cấp hoặc hỗ_trợ cung_cấp dịch_vụ trực_tuyến ;
+
+e ) Hệ_thống chăm_sóc khách_hàng .
+
+5 . Hệ_thống cơ_sở hạ_tầng thông_tin là tập_hợp trang thiết_bị , đường truyền_dẫn kết_nối phục_vụ chung hoạt_động của nhiều cơ_quan , tổ_chức , bao_gồm :
+
+a ) Mạng nội_bộ , mạng diện_rộng , mạng truyền số_liệu chuyên_dùng ;
+
+b ) Hệ_thống cơ_sở dữ_liệu , trung_tâm dữ_liệu , điện_toán đám mây ;
+
+c ) Hệ_thống xác_thực điện_tử , chứng_thực điện_tử , chữ_kí số ;
+
+d ) Hệ_thống kết_nối liên_thông , trục tích_hợp các hệ_thống thông_tin .
+
+6 . Hệ_thống thông_tin điều_khiển công_nghiệp là hệ_thống có chức_năng giám_sát , thu_thập dữ_liệu , quản_lí và kiểm_soát các hạng_mục quan_trọng phục_vụ điều_khiển , vận_hành hoạt_động bình_thường của các công_trình xây_dựng , bao_gồm :
+
+a ) Hệ_thống điều_khiển lập_trình được ( PLCs ) ;
+
+b ) Hệ_thống điều_khiển phân_tán ( dcs ) ;
+
+c ) Hệ_thống giám_sát và thu_thập dữ_liệu ( scada ) .
+
+7 . Hệ_thống thông_tin khác là hệ_thống thông_tin không thuộc các loại_hình trên , được sử_dụng để trực_tiếp phục_vụ hoặc hỗ_trợ hoạt_động nghiệp_vụ , sản_xuất , kinh_doanh cụ_thể của cơ_quan , tổ_chức theo lĩnh_vực chuyên_ngành .
+
+Điều 5 . Chủ_quản hệ_thống thông_tin
+
+1 . Đối_với cơ_quan , tổ_chức nhà_nước , chủ_quản hệ_thống thông_tin là một trong các trường_hợp sau :
+
+a ) Bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ ;
+
+b ) Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương ;
+
+c ) Cấp có thẩm_quyền Quyết_định đầu_tư dự_án xây_dựng , thiết_lập , nâng_cấp , mở_rộng hệ_thống thông_tin .
+
+2 . Đối_với doanh_nghiệp và tổ_chức khác , chủ_quản hệ_thống thông_tin là cấp có thẩm_quyền Quyết_định đầu_tư dự_án xây_dựng , thiết_lập , nâng_cấp , mở_rộng hệ_thống thông_tin .
+
+3 . Chủ_quản hệ_thống thông_tin có_thể uỷ_quyền cho một tổ_chức thay_mặt mình thực_hiện quyền quản_lí trực_tiếp đối_với hệ_thống thông_tin và trách_nhiệm bảo_đảm an_toàn hệ_thống thông_tin theo quy_định tại khoản 2 Điều 20 Nghị_định số 85/2016/NĐ-CP.
+
+Việc uỷ_quyền phải được thực_hiện bằng văn_bản , trong đó nêu rõ phạm_vi và thời_hạn uỷ_quyền . Tổ_chức được uỷ_quyền phải trực_tiếp thực_hiện quyền và nghĩa_vụ của chủ_quản hệ_thống thông_tin mà không được uỷ_quyền lại cho bên thứ ba .
+
+Điều 6 . Đơn_vị vận_hành hệ_thống thông_tin
+
+1 . Đơn_vị vận_hành hệ_thống thông_tin là cơ_quan , tổ_chức được chủ_quản hệ_thống thông_tin giao nhiệm_vụ vận_hành hệ_thống thông_tin .
+
+2 . Trong trường_hợp hệ_thống thông_tin bao_gồm nhiều hệ_thống thành_phần hoặc phân_tán , có nhiều hơn một đơn_vị vận_hành hệ_thống thông_tin , chủ_quản hệ_thống thông_tin phải có trách_nhiệm chỉ_định một đơn_vị làm đầu_mối để thực_hiện quyền và nghĩa_vụ của đơn_vị vận_hành hệ_thống thông_tin theo quy_định của pháp_luật .
+
+3 . Trong trường_hợp chủ_quản hệ_thống thông_tin thuê ngoài dịch_vụ công_nghệ thông_tin , đơn_vị vận_hành hệ_thống thông_tin là bên cung_cấp dịch_vụ .
+
+Điều 7 . Hướng_dẫn_xác_định và thuyết_minh cấp_độ an_toàn hệ_thống thông_tin
+
+Việc xác_định cấp_độ và thuyết_minh cấp_độ an_toàn hệ_thống thông_tin thực_hiện như sau :
+
+1 . Xác_định và phân_loại hệ_thống thông_tin ; xác_định chủ_quản hệ_thống thông_tin , đơn_vị vận_hành hệ_thống thông_tin căn_cứ theo quy_định tại các Điều 5 , 6 Nghị_định số 85/2016/NĐ-CP và các Điều 4 , 5 , 6 Thông_tư này .
+
+2 . Xác_định loại thông_tin được xử_lí thông_qua hệ_thống thông_tin căn_cứ theo quy_định tại khoản 1 Điều 6 Nghị_định 85/2016/NĐ-CP.
+
+3 . Xác_định cấp_độ căn_cứ theo quy_định tại các điều từ Điều 7 đến Điều 11 Nghị_định số 85/2016/NĐ-CP. Đối_với hệ_thống thông_tin đề_xuất là cấp_độ 4 hoặc cấp_độ 5 , thuyết_minh đề_xuất cấp_độ làm rõ các nội_dung sau đây :
+
+a ) Xác_định các hệ_thống thông_tin khác có liên_quan hoặc có kết_nối đến hoặc có ảnh_hưởng quan_trọng tới hoạt_động bình_thường của hệ_thống thông_tin được đề_xuất ; trong đó , xác_định rõ mức_độ ảnh_hưởng đến hệ_thống thông_tin đang được đề_xuất cấp_độ khi các hệ_thống này bị mất an_toàn thông_tin .
+
+b ) Danh_mục đề_xuất các thành_phần , thiết_bị mạng quan_trọng , các loại thông_tin quan_trọng được xử_lí trong hệ_thống ( nếu có ) ;
+
+c ) Thuyết_minh về mức_độ quan_trọng của các thành_phần , thiết_bị mạng quan_trọng , các loại thông_tin , dữ_liệu được xử_lí hoặc lưu_trữ trên hệ_thống ( nếu có ) ;
+
+d ) Thuyết_minh về các nguy_cơ tấn_công mạng , mất an_toàn thông_tin đối_với hệ_thống , các thành_phần hệ_thống và các thiết_bị mạng quan_trọng ; ảnh_hưởng của các nguy_cơ tấn_công mạng , mất an_toàn thông_tin này đối_với các tiêu_chí xác_định cấp_độ theo Điều 10 , 11 Nghị_định số 85/2016/NĐ-CP;
+
+đ ) Đánh_giá phạm_vi và mức_độ ảnh_hưởng tới lợi_ích công_cộng , trật_tự an_toàn xã_hội hoặc quốc_phòng , an_ninh quốc_gia khi bị tấn_công mạng gây mất an_toàn thông_tin hoặc gián_đoạn hoạt_động của từng hệ_thống đã được xác_định .
+
+Đối_với hệ_thống thông_tin cấp_độ 4 , thuyết_minh yêu_cầu cần phải vận_hành 24/7 và không chấp_nhận ngừng vận_hành mà không có kế_hoạch trước ;
+
+e ) Thuyết_minh khác ( nếu có ) trên cơ_sở thực_tế hoạt_động của hệ_thống thông_tin .
+
+Chương_iii
+
+Yêu_cầu Bảo_đảm An_toàn Hệ_thống Thông_tin Theo Cấp_độ
+
+Điều 8 . Yêu_cầu chung
+
+1 . Việc bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ thực_hiện theo yêu_cầu cơ_bản quy_định tại Thông_tư này ; tiêu_chuẩn , quy_chuẩn kĩ_thuật về an_toàn thông_tin và tiêu_chuẩn , quy_chuẩn kĩ_thuật chuyên_ngành có liên_quan khác .
+
+2 . Yêu_cầu cơ_bản đối_với từng cấp_độ quy_định tại Thông_tư này là yêu_cầu tối_thiểu để bảo_đảm an_toàn hệ_thống thông_tin và không bao_gồm các yêu_cầu bảo_đảm an_toàn vật_lý .
+
+3 . Yêu_cầu cơ_bản bao_gồm :
+
+a ) Yêu_cầu kĩ_thuật : An_toàn hạ_tầng mạng ; an_toàn máy_chủ ; an_toàn ứng_dụng và an_toàn dữ_liệu ;
+
+b ) Yêu_cầu quản_lý : Chính_sách chung ; tổ_chức , nhân_sự ; quản_lí thiết_kế , xây_dựng ; quản_lí vận_hành ; kiểm_tra , đánh_giá và quản_lí rủi_ro .
+
+4 . Việc xây_dựng phương_án bảo_đảm an_toàn thông_tin đáp_ứng yêu_cầu cơ_bản theo từng cấp_độ thực_hiện theo nguyên_tắc quy_định tại khoản 2 Điều 4 Nghị_định số 85/2016/NĐ-CP, cụ_thể như sau :
+
+a ) Đối_với hệ_thống thông_tin cấp_độ 1 , 2 , 3 : Phương_án bảo_đảm an_toàn thông_tin phải xem_xét khả_năng dùng chung giữa các hệ_thống thông_tin đối_với các giải_pháp_bảo_vệ , chia_sẻ tài_nguyên để tối_ưu hiệu_năng , tránh đầu_tư thừa , trùng_lặp , lãng_phí . Trong trường_hợp đầu_tư mới , phải có thuyết_minh về việc giải_pháp đã có không đáp_ứng được yêu_cầu cơ_bản ;
+
+b ) Đối_với hệ_thống thông_tin cấp_độ 4 , 5 : Phương_án bảo_đảm an_toàn thông_tin cần được thiết_kế bảo_đảm tính sẵn_sàng , phân_tách và hạn_chế ảnh_hưởng đến toàn_bộ hệ_thống khi một thành_phần trong hệ_thống hoặc có liên_quan tới hệ_thống bị mất an_toàn thông_tin .
+
+Điều 9 . Yêu_cầu cơ_bản đối_với từng cấp_độ
+
+1 . Phương_án bảo_đảm an_toàn hệ_thống thông_tin cấp_độ 1 phải đáp_ứng yêu_cầu quy_định chi_tiết tại Phụ_lục 1 ban_hành kèm theo Thông_tư này .
+
+2 . Phương_án bảo_đảm an_toàn hệ_thống thông_tin cấp_độ 2 phải đáp_ứng yêu_cầu như đối_với cấp_độ 1 và bổ_sung yêu_cầu quy_định chi_tiết tại Phụ_lục 2 ban_hành kèm theo Thông_tư này .
+
+3 . Phương_án bảo_đảm an_toàn hệ_thống thông_tin cấp_độ 3 phải đáp_ứng yêu_cầu như đối_với cấp_độ 2 và bổ_sung yêu_cầu quy_định chi_tiết tại Phụ_lục 3 ban_hành kèm theo Thông_tư này .
+
+4 . Phương_án bảo_đảm an_toàn hệ_thống thông_tin cấp_độ 4 phải đáp_ứng yêu_cầu như đối_với cấp_độ 3 và bổ_sung yêu_cầu quy_định chi_tiết tại Phụ_lục 4 ban_hành kèm theo Thông_tư này .
+
+5 . Phương_án bảo_đảm an_toàn hệ_thống thông_tin cấp_độ 5 phải đáp_ứng yêu_cầu như đối_với cấp_độ 4 và bổ_sung yêu_cầu quy_định chi_tiết tại Phụ_lục 5 ban_hành kèm theo Thông_tư này .
+
+Chương_iv
+
+Kiểm_tra , Đánh_giá An_toàn Thông_tin
+
+Điều 10 . Nội_dung , hình_thức kiểm_tra , đánh_giá
+
+1 . Nội_dung kiểm_tra , đánh_giá :
+
+a ) Kiểm_tra việc tuân_thủ quy_định của pháp_luật về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ ;
+
+b ) Đánh_giá hiệu_quả của biện_pháp_bảo_đảm an_toàn hệ_thống thông_tin ;
+
+c ) Đánh_giá phát_hiện mã độc , lỗ_hổng , điểm yếu , thử_nghiệm xâm_nhập hệ_thống ;
+
+d ) Kiểm_tra , đánh_giá khác do chủ_quản hệ_thống thông_tin quy_định .
+
+2 . Hình_thức kiểm_tra , đánh_giá :
+
+a ) Kiểm_tra , đánh_giá định_kì theo kế_hoạch của chủ_quản hệ_thống thông_tin ;
+
+b ) Kiểm_tra , đánh_giá đột_xuất theo yêu_cầu của cấp có thẩm_quyền .
+
+3 . Cấp có thẩm_quyền yêu_cầu kiểm_tra , đánh_giá :
+
+a ) Bộ_trưởng Bộ Thông_tin và Truyền_thông ;
+
+b ) Chủ_quản hệ_thống thông_tin đối_với hệ_thống thông_tin thuộc thẩm_quyền quản_lý ;
+
+c ) Đơn_vị chuyên_trách về an_toàn thông_tin của chủ_quản hệ_thống thông_tin đối_với hệ_thống thông_tin do đơn_vị này phê_duyệt hồ_sơ đề_xuất cấp_độ .
+
+4 . Đơn_vị chủ_trì kiểm_tra , đánh_giá là đơn_vị được cấp có thẩm_quyền giao nhiệm_vụ hoặc được lựa_chọn để thực_hiện nhiệm_vụ kiểm_tra , đánh_giá .
+
+5 . Đối_tượng kiểm_tra , đánh_giá là chủ_quản hệ_thống thông_tin hoặc đơn_vị vận_hành hệ_thống thông_tin và các hệ_thống thông_tin có liên_quan .
+
+Điều 11 . Kiểm_tra việc tuân_thủ quy_định của pháp_luật về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ
+
+1 . Kiểm_tra việc tuân_thủ quy_định của pháp_luật về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ bao_gồm :
+
+a ) Kiểm_tra việc tuân_thủ quy_định của pháp_luật về xác_định cấp_độ an_toàn hệ_thống thông_tin ;
+
+b ) Kiểm_tra việc tuân_thủ quy_định của pháp_luật về thực_hiện phương_án bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ .
+
+2 . Đơn_vị chủ_trì kiểm_tra là một trong những đơn_vị sau đây :
+
+a ) Cục An_toàn thông_tin ;
+
+b ) Đơn_vị chuyên_trách về an_toàn thông_tin .
+
+3 . Kế_hoạch kiểm_tra định_kì bao_gồm các nội_dung sau :
+
+a ) Danh_sách các đơn_vị , hệ_thống thông_tin ( nếu có ) sẽ tiến_hành kiểm_tra ;
+
+b ) Phạm_vi và nội_dung kiểm_tra ;
+
+c ) Thời_gian tiến_hành kiểm_tra ;
+
+d ) Đơn_vị phối_hợp kiểm_tra ( nếu có ) .
+
+4 . Quyết_định kiểm_tra được lập sau khi kế_hoạch kiểm_tra định_kì được cấp có thẩm_quyền phê_duyệt hoặc khi có kiểm_tra đột_xuất của cấp có thẩm_quyền .
+
+5 . Đối_với kiểm_tra định_kỳ :
+
+a ) Đơn_vị chủ_trì kiểm_tra lập kế_hoạch kiểm_tra định_kì cho năm sau trình cấp có thẩm_quyền phê_duyệt để làm cơ_sở triển_khai thực_hiện ;
+
+b ) Trường_hợp có thay_đổi so với kế_hoạch kiểm_tra định_kì đã được phê_duyệt , đơn_vị chủ_trì kiểm_tra lập kế_hoạch kiểm_tra định_kì điều_chỉnh trình cấp có thẩm_quyền phê_duyệt điều_chỉnh ;
+
+c ) Kế_hoạch kiểm_tra định_kì được gửi cho đối_tượng kiểm_tra và cơ_quan cấp trên của đối_tượng kiểm_tra trong thời_hạn tối_đa 10 ngày kể từ ngày được phê_duyệt nhưng tối_thiểu 10 ngày trước ngày tiến_hành kiểm_tra .
+
+6 . Đối_với kiểm_tra đột_xuất :
+
+Căn_cứ yêu_cầu kiểm_tra đột_xuất , Quyết_định kiểm_tra , Trưởng_đoàn kiểm_tra quy_định các nội_dung kiểm_tra cho phù_hợp .
+
+7 . Sau khi kết_thúc kiểm_tra trực_tiếp tại cơ_sở , Đoàn kiểm_tra có trách_nhiệm thông_báo cho đối_tượng kiểm_tra biết và bàn_giao tài_liệu , trang thiết_bị sử_dụng ( nếu có ) trong quá_trình kiểm_tra .
+
+Đoàn kiểm_tra có trách_nhiệm dự_thảo Báo_cáo kiểm_tra , gửi cho đối_tượng kiểm_tra để lấy ý_kiến . Trong thời_hạn 05 ngày kể từ ngày nhận được dự_thảo Báo_cáo kiểm_tra , đối_tượng kiểm_tra có trách_nhiệm có ý_kiến đối_với các nội_dung dự_thảo .
+
+8 . Trên_cơ_sở dự_thảo Báo_cáo kiểm_tra , ý_kiến tiếp_thu giải_trình của đối_tượng kiểm_tra , trong thời_hạn 30 ngày kể từ ngày kết_thúc kiểm_tra tại cơ_sở , Đoàn kiểm_tra hoàn_thiện Báo_cáo kiểm_tra và dự_thảo kết_luận kiểm_tra trình cấp có thẩm_quyền yêu_cầu kiểm_tra xem_xét , phê_duyệt .
+
+Kết_luận kiểm_tra phải gửi cho đối_tượng kiểm_tra và cơ_quan quản_lí cấp trên của đối_tượng kiểm_tra ( nếu có ) và các đơn_vị có liên_quan ( nếu cần_thiết ) .
+
+Điều 12 . Đánh_giá hiệu_quả của biện_pháp_bảo_đảm an_toàn thông_tin
+
+1 . Đánh_giá hiệu_quả của biện_pháp_bảo_đảm an_toàn thông_tin là việc rà_soát một_cách tổng_thể , xác_minh mức_độ hiệu_quả của phương_án bảo_đảm an_toàn thông_tin theo từng tiêu_chí , yêu_cầu cơ_bản cụ_thể .
+
+Đánh_giá hiệu_quả của biện_pháp_bảo_đảm an_toàn thông_tin đã được áp_dụng là cơ_sở để tiến_hành điều_chỉnh phương_án bảo_đảm an_toàn thông_tin cho phù_hợp với yêu_cầu thực_tiễn .
+
+2 . Đơn_vị chủ_trì đánh_giá là một trong những tổ_chức sau đây :
+
+a ) Cục An_toàn thông_tin ;
+
+b ) Đơn_vị chuyên_trách về an_toàn thông_tin ;
+
+c ) Tổ_chức sự_nghiệp nhà_nước có chức_năng , nhiệm_vụ phù_hợp ;
+
+d ) Doanh_nghiệp đã được cấp phép cung_cấp dịch_vụ kiểm_tra , đánh_giá an_toàn thông_tin mạng .
+
+3 . Đơn_vị vận_hành hệ_thống thông_tin lập kế_hoạch đánh_giá định_kì cho năm sau trình cấp có thẩm_quyền phê_duyệt để làm cơ_sở triển_khai thực_hiện . Kế_hoạch đánh_giá bao_gồm :
+
+a ) Danh_sách các đơn_vị , hệ_thống thông_tin sẽ tiến_hành đánh_giá ;
+
+b ) Thời_gian tiến_hành đánh_giá ;
+
+c ) Đơn_vị thực_hiện : Tự thực_hiện hoặc do đơn_vị chuyên_trách về an_toàn thông_tin thực_hiện hoặc thuê ngoài theo quy_định của pháp_luật .
+
+4 . Trường_hợp có thay_đổi so với kế_hoạch đánh_giá đã được phê_duyệt , đơn_vị vận_hành hệ_thống thông_tin lập kế_hoạch đánh_giá điều_chỉnh trình cấp có thẩm_quyền phê_duyệt điều_chỉnh .
+
+5 . Sau khi kết_thúc kiểm_tra trực_tiếp tại cơ_sở , đơn_vị chủ_trì đánh_giá có trách_nhiệm thông_báo cho đơn_vị vận_hành hệ_thống thông_tin biết và bàn_giao tài_liệu , trang thiết_bị sử_dụng ( nếu có ) trong quá_trình kiểm_tra .
+
+Đơn_vị chủ_trì đánh_giá có trách_nhiệm dự_thảo Báo_cáo đánh_giá , gửi cho đơn_vị vận_hành hệ_thống thông_tin để lấy ý_kiến . Trong thời_hạn 05 ngày kể từ ngày nhận được dự_thảo Báo_cáo đánh_giá , đơn_vị vận_hành hệ_thống thông_tin có trách_nhiệm có ý_kiến đối_với các nội_dung dự_thảo .
+
+6 . Trên_cơ_sở dự_thảo Báo_cáo đánh_giá , ý_kiến của đơn_vị vận_hành hệ_thống thông_tin , đơn_vị chủ_trì đánh_giá hoàn_thiện Báo_cáo đánh_giá , gửi đơn_vị vận_hành và chủ_quản hệ_thống thông_tin .
+
+Điều 13 . Đánh_giá phát_hiện mã độc , lỗ_hổng , điểm yếu , thử_nghiệm xâm_nhập hệ_thống
+
+1 . Đánh_giá phát_hiện mã độc , lỗ_hổng , điểm yếu , thử_nghiệm xâm_nhập hệ_thống là việc thực_hiện dò quét , phát_hiện lỗ_hổng , điểm yếu của hệ_thống , thử_nghiệm tấn_công xâm_nhập hệ_thống và đánh_giá nguy_cơ , thiệt_hại có_thể có của hệ_thống thông_tin khi bị đối_tượng tấn_công xâm_nhập .
+
+2 . Đơn_vị chủ_trì đánh_giá là một trong những tổ_chức sau đây :
+
+a ) Cục An_toàn thông_tin ;
+
+b ) Đơn_vị chuyên_trách về an_toàn thông_tin ;
+
+c ) Tổ_chức sự_nghiệp nhà_nước có chức_năng , nhiệm_vụ phù_hợp ;
+
+d ) Doanh_nghiệp đã được cấp phép cung_cấp dịch_vụ kiểm_tra , đánh_giá an_toàn thông_tin mạng hoặc tổ_chức khác được chủ_quản hệ_thống thông_tin cho phép thực_hiện đánh_giá phát_hiện mã độc , lỗ_hổng , điểm yếu , thử_nghiệm xâm_nhập hệ_thống .
+
+3 . Đơn_vị chủ_trì đánh_giá phát_hiện mã độc , lỗ_hổng , điểm yếu , thử_nghiệm xâm_nhập hệ_thống có trách_nhiệm :
+
+a ) Thông_báo cho chủ_quản hệ_thống thông_tin về điểm yếu an_toàn thông_tin phát_hiện ra nhằm khắc_phục , phòng_tránh các sự_cố an_toàn thông_tin ;
+
+b ) Thực_hiện công_tác bảo_đảm an_toàn cho dữ_liệu liên_quan đến hệ_thống được đánh_giá , không công_bố dữ_liệu liên_quan khi chưa được sự đồng_ý của chủ_quản hệ_thống thông_tin ;
+
+c ) Việc đánh_giá phát_hiện mã độc , lỗ_hổng , điểm yếu , thử_nghiệm xâm_nhập hệ_thống phải bảo_đảm không ảnh_hưởng đến hoạt_động bình_thường của hệ_thống .
+
+Chương V
+
+Tiếp_nhận Và Thẩm_định Hồ_sơ Đề_xuất Cấp_độ
+
+Điều 14 . Nộp và tiếp_nhận hồ_sơ đề_xuất cấp_độ để thẩm_định
+
+1 . Đối_với hệ_thống thông_tin được đề_xuất cấp_độ 1 , 2 , 3 :
+
+Đơn_vị vận_hành hệ_thống thông_tin gửi 01 bản_chính và 02 bản_sao hợp_lệ hồ_sơ đề_xuất cấp_độ tới đơn_vị chuyên_trách về an_toàn thông_tin để thẩm_định .
+
+2 . Đối_với hệ_thống thông_tin được đề_xuất cấp_độ 4 , 5 :
+
+a ) Chủ_quản hệ_thống thông_tin gửi 01 bản_chính và 04 bản_sao hợp_lệ hồ_sơ đề_xuất cấp_độ về Bộ Thông_tin và Truyền_thông ( Cục An_toàn thông_tin ) để thẩm_định ;
+
+b ) Tổ_chức tiếp_nhận hồ_sơ và địa_chỉ tiếp_nhận hồ_sơ đối_với hệ_thống thông_tin được đề_xuất cấp_độ 4 , 5 :
+
+Bộ Thông_tin và Truyền_thông ( Cục An_toàn thông_tin ) , Tầng 8 , Toà nhà 115 Trần_duy_hưng , Quận Cầu Giấy , Hà_nội .
+
+Trong trường_hợp thay_đổi địa_chỉ tiếp_nhận hồ_sơ , Cục An_toàn thông_tin thông_báo_công_khai việc thay_đổi địa_chỉ theo quy_định .
+
+3 . Trong vòng 05 ngày làm_việc kể từ ngày tiếp_nhận , tổ_chức tiếp_nhận hồ_sơ đề_xuất cấp_độ kiểm_tra tính hợp_lệ của hồ_sơ . Trong trường_hợp hồ_sơ không hợp_lệ , tổ_chức tiếp_nhận hồ_sơ đề_xuất cấp_độ thông_báo bằng văn_bản cho tổ_chức nộp hồ_sơ biết để bổ_sung , hoàn_thiện hồ_sơ .
+
+Điều 15 . Tổ_chức thẩm_định hồ_sơ đề_xuất cấp_độ
+
+1 . Đối_với hệ_thống thông_tin được đề_xuất cấp_độ 1 , 2 , 3 :
+
+Đơn_vị chuyên_trách về an_toàn thông_tin thực_hiện thẩm_định hồ_sơ đề_xuất cấp_độ theo quy_định tại Điều 16 Nghị_định số 85/2016/NĐ-CP.
+
+Trong quá_trình thẩm_định , trong trường_hợp cần_thiết , đơn_vị chuyên_trách về an_toàn thông_tin lấy ý_kiến bằng văn_bản của các đơn_vị liên_quan .
+
+2 . Đối_với hệ_thống thông_tin được đề_xuất cấp_độ 4 , 5 :
+
+Bộ Thông_tin và Truyền_thông thực_hiện thẩm_định hồ_sơ đề_xuất cấp_độ theo quy_định tại Điều 16 Nghị_định số 85/2016/NĐ-CP. Việc tổ_chức thẩm_định hồ_sơ đề_xuất cấp_độ được thực_hiện theo quy_trình sau :
+
+a ) Cục An_toàn thông_tin lấy ý_kiến bằng văn_bản của Vụ Pháp_chế và đơn_vị liên_quan khác thuộc Bộ Thông_tin và Truyền_thông trong trường_hợp cần_thiết theo chức_năng , nhiệm_vụ của các đơn_vị ;
+
+b ) Bộ Thông_tin và Truyền_thông lấy ý_kiến bằng văn_bản của Bộ Quốc_phòng , Bộ Công_an theo quy_định ;
+
+c ) Căn_cứ ý_kiến bằng văn_bản của Bộ Quốc_phòng , Bộ Công_an và các đơn_vị liên_quan , trong trường_hợp cần_thiết , Bộ Thông_tin và Truyền_thông thành_lập Hội_đồng thẩm_định để trao_đổi , thảo_luận , cho ý_kiến cụ_thể . Chủ_tịch Hội_đồng thẩm_định do Bộ_trưởng Bộ Thông_tin và Truyền_thông phân_công , đại_diện Lãnh_đạo Cục An_toàn thông_tin , Vụ Pháp_chế , Trung_tâm Vncert - Bộ Thông_tin và Truyền_thông , đại_diện Lãnh_đạo đơn_vị chức_năng của Bộ Công_an , Bộ Quốc_phòng và một_số chuyên_gia độc_lập ( nếu cần_thiết ) làm thành_viên .
+
+Điều 16 . Cơ_chế phối_hợp thẩm_định
+
+1 . Đơn_vị vận_hành hệ_thống thông_tin có trách_nhiệm phối_hợp với đơn_vị thẩm_định hồ_sơ đề_xuất cấp_độ trong việc xác_định sự phù_hợp của hồ_sơ đề_xuất cấp_độ đối_với yêu_cầu hoạt_động của hệ_thống thông_tin tương_ứng .
+
+2 . Trong trường_hợp cần_thiết , đơn_vị thẩm_định hồ_sơ đề_xuất cấp_độ thực_hiện kiểm_tra , đánh_giá thực_tế các phương_án bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ được đề_xuất . Việc kiểm_tra , đánh_giá bảo_đảm không gây ảnh_hưởng đến hoạt_động bình_thường của hệ_thống thông_tin và có thông_báo cho chủ_quản hệ_thống thông_tin , đơn_vị vận_hành khi phát_hiện các điểm yếu an_toàn thông_tin cần khắc_phục .
+
+Chương_vi
+
+Báo_cáo , Chia_sẻ Thông_tin
+
+Điều 17 . Chế_độ báo_cáo
+
+1 . Chủ_quản hệ_thống thông_tin cấp_độ 1 , 2 chỉ_đạo đơn_vị vận_hành hệ_thống thông_tin thực_hiện chế_độ báo_cáo định_kì hoặc đột_xuất theo quy_định tại khoản 4 Điều 22 Nghị_định số 85/2016/NĐ-CP.
+
+2 . Chủ_quản hệ_thống thông_tin cấp_độ 3 , 4 , 5 thực_hiện chế_độ báo_cáo định_kì hàng năm hoặc báo_cáo đột_xuất theo yêu_cầu của Bộ Thông_tin và Truyền_thông .
+
+3 . Nội_dung báo_cáo :
+
+a ) Tình_hình an_toàn thông_tin của hệ_thống thông_tin trong kì báo_cáo ;
+
+b ) Tiến_độ triển_khai , áp_dụng phương_án bảo_đảm an_toàn hệ_thống thông_tin theo hồ_sơ xác_định cấp_độ đã được phê_duyệt ;
+
+c ) Hiệu_quả áp_dụng phương_án bảo_đảm an_toàn hệ_thống thông_tin theo hồ_sơ xác_định cấp_độ đã được phê_duyệt ;
+
+d ) Đề_xuất thay_đổi cấp_độ , phương_án bảo_đảm an_toàn hệ_thống thông_tin ( nếu có ) ;
+
+đ ) Nội_dung khác phục_vụ công_tác bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ .
+
+4 . Báo_cáo định_kì gửi về Bộ Thông_tin và Truyền_thông ( Cục An_toàn thông_tin ) trước ngày 30 tháng 11 hàng năm .
+
+Điều 18 . Chia_sẻ thông_tin
+
+1 . Chủ_quản hệ_thống thông_tin , đơn_vị vận_hành hệ_thống thông_tin cấp 4 , 5 và chủ_quản hệ_thống thông_tin là cơ_quan , tổ_chức nhà_nước có trách_nhiệm tham_gia chia_sẻ thông_tin với cơ_quan quản_lí nhà_nước về an_toàn thông_tin đối_với công_tác bảo_đảm an_toàn thông_tin . Các chủ_quản hệ_thống thông_tin , đơn_vị vận_hành hệ_thống thông_tin còn lại tham_gia chia_sẻ thông_tin trên tinh_thần tự_nguyện .
+
+2 . Thông_tin được chia_sẻ thông_qua các hình_thức trực_tiếp , thư điện_tử , văn_bản , hệ_thống chia_sẻ thông_tin được vận_hành bởi Bộ Thông_tin và Truyền_thông . Đối_với thông_tin được xác_định là thông_tin bí_mật nhà_nước , việc chia_sẻ thông_tin thực_hiện theo quy_định của pháp_luật về bảo_vệ bí_mật nhà_nước .
+
+3 . Việc chia_sẻ thông_tin dựa trên nguyên_tắc bí_mật , chọn_lọc và bảo_đảm lợi_ích của các bên tham_gia . Đơn_vị nhận thông_tin được chia_sẻ có trách_nhiệm bảo_vệ bí_mật nguồn_gốc , nội_dung thông_tin theo thống_nhất giữa các bên tham_gia chia_sẻ thông_tin .
+
+4 . Việc chia_sẻ thông_tin được thực_hiện ít_nhất mỗi quý một lần và phù_hợp với thực_tế hoạt_động của hệ_thống thông_tin tương_ứng .
+
+5 . Các thông_tin được chia_sẻ bao_gồm :
+
+a ) Thông_tin chưa được phân_tích hoặc đã được phân_tích về nguy_cơ mất an_toàn thông_tin ; thông_tin về các cuộc tấn_công mạng đã xảy ra :
+
+- Các loại_hình tấn_công mạng ghi_nhận được tại hệ_thống ;
+
+- Số_lượng các sự_kiện tấn_công mạng ghi_nhận được tại hệ_thống ;
+
+- Mẫu dữ_liệu tấn_công mạng thu_thập được ;
+
+- Các dữ_liệu khác theo thống_nhất của các bên tham_gia chia_sẻ thông_tin .
+
+b ) Các hoạt_động bảo_đảm an_toàn hệ_thống thông_tin như tuyên_truyền , đào_tạo , diễn_tập và các thông_tin khác .
+
+Chương_vii
+
+Tổ_chức Thực_hiện
+
+Điều 19 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2017 .
+
+2 . Trong quá_trình thực_hiện Thông_tư này , nếu có vướng_mắc , các cơ_quan , đơn_vị liên_hệ với Bộ Thông_tin và Truyền_thông ( Cục An_toàn thông_tin ) để phối_hợp giải_quyết . / .

@@ -1,0 +1,543 @@
+Thông_tư số 42/2017/tt-btnmt ngày 23 tháng 10 năm 2017 của bộ tài_nguyên và môi_trường
+
+Căn_cứ Luật khí_tượng thuỷ_văn ngày 23 tháng 11 năm 2015 ;
+
+Căn_cứ Nghị_định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính_phủ quy_định chi_tiết một_số điều của Luật khí_tượng thuỷ_văn ;
+
+Căn_cứ Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Căn_cứ Quyết_định số 46/2014/QĐ-TTg ngày 15 tháng 8 năm 2014 của Thủ_tướng Chính_phủ quy_định về dự_báo , cảnh_báo và truyền tin thiên_tai ;
+
+Theo đề_nghị của Tổng_cục_trưởng Tổng_cục Khí_tượng Thuỷ_văn , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư quy_định kĩ_thuật đánh_giá chất_lượng dự_báo , cảnh_báo thuỷ_văn .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định kĩ_thuật đánh_giá chất_lượng dự_báo , cảnh_báo thuỷ_văn bao_gồm xác_định sai_số , độ tin_cậy dự_báo , cảnh_báo các yếu_tố , hiện_tượng thuỷ_văn và tính đầy_đủ , tính kịp_thời của bản tin dự_báo , cảnh_báo thuỷ_văn .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Hệ_thống dự_báo , cảnh_báo khí_tượng thuỷ_văn quốc_gia .
+
+2 . Cơ_quan quản_lí nhà_nước về khí_tượng thuỷ_văn ; tổ_chức , cá_nhân được Bộ Tài_nguyên và Môi_trường hoặc Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương cấp giấy_phép hoạt_động dự_báo , cảnh_báo khí_tượng thuỷ_văn .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Yếu_tố , hiện_tượng thuỷ_văn là danh từ hay cụm từ chỉ yếu_tố hoặc hiện_tượng thuỷ_văn sử_dụng trong bản tin dự_báo , cảnh_báo thuỷ_văn bao_gồm : mực nước , lưu_lượng , độ mặn , lũ , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy , hạn_hán , xâm_nhập mặn .
+
+2 . Trị_số_thực đo là giá_trị được quan_trắc của một yếu_tố đo tại một vị_trí ở một thời_điểm hoặc đặc_trưng của yếu_tố đó trong một khoảng thời_gian .
+
+3 . Trị_số dự_báo , cảnh_báo là giá_trị được tính_toán hay được ước_lượng của một yếu_tố tại một vị_trí ở một thời_điểm hoặc đặc_trưng của yếu_tố đó trong một khoảng thời_gian .
+
+4 . Biến phân nhóm là biến không được định_lượng bằng các trị_số mà sử_dụng các khoảng giá_trị để phân_chia thành các nhóm và sử_dụng tên gọi cho các nhóm đó .
+
+5 . Dự_báo , cảnh_báo trị_số là sự tính_toán hay ước_lượng một giá_trị cụ_thể có_thể xảy ra trong tương_lai của yếu_tố , hiện_tượng thuỷ_văn .
+
+6 . Dự_báo , cảnh_báo xác_suất là ước_lượng khả_năng xuất_hiện của một yếu_tố , hiện_tượng thuỷ_văn .
+
+Điều 4 . Nguyên_tắc đánh_giá
+
+1 . Đánh_giá chất_lượng dự_báo , cảnh_báo thuỷ_văn phải dựa trên việc so_sánh thông_tin , dữ_liệu giữa quan_trắc và dự_báo .
+
+2 . Các thời_hạn dự_báo , cảnh_báo phải được đánh_giá riêng_biệt .
+
+3 . Các yếu_tố , hiện_tượng dự_báo , cảnh_báo có trong bản tin phải được đánh_giá .
+
+4 . Các trường_hợp không đánh_giá chất_lượng dự_báo , cảnh_báo :
+
+a ) Không có đầy_đủ thông_tin quan_trắc về cường_độ , mức_độ nguy_hiểm , phạm_vi , thời_điểm xảy ra hoặc không có các thông_tin từ cơ_quan chỉ_đạo , chỉ_huy phòng_chống thiên_tai , tìm_kiếm cứu nạn các cấp đối_với các hiện_tượng thuỷ_văn nguy_hiểm ;
+
+b ) Xảy ra các hiện_tượng vỡ đê , vỡ đập , sự_cố hồ chứa tác_động lớn đến dòng_chảy hạ_lưu mà không_thể dự_báo được .
+
+5 . Các trường_hợp không đánh_giá độ tin_cậy dự_báo , cảnh_báo :
+
+a ) Không có thông_tin hoặc có thông_tin nhưng không chính_xác về thời_điểm dự_kiến đóng / mở_cửa xả của các hồ chứa có ảnh_hưởng tới vị_trí dự_báo , cảnh_báo đối_với các vị_trí dự_báo , cảnh_báo chịu ảnh_hưởng bởi sự điều_tiết của các hồ chứa ;
+
+b ) Sai_số giữa lưu_lượng xả trung_bình thực_tế lớn hơn 20 % lưu_lượng xả trung_bình dự_kiến đối_với các vị_trí dự_báo , cảnh_báo chịu ảnh_hưởng bởi sự điều_tiết của các hồ chứa .
+
+Điều 5 . Quy_định về mức đánh_giá
+
+1 . Đánh_giá độ tin_cậy dự_báo , cảnh_báo các yếu_tố , hiện_tượng thuỷ_văn theo 2 mức " đủ độ tin_cậy " và " không đủ độ tin_cậy " .
+
+2 . Đánh_giá tính đầy_đủ của bản tin dự_báo , cảnh_báo các yếu_tố , hiện_tượng thuỷ_văn theo 2 mức " đầy_đủ " và " không đầy_đủ " .
+
+3 . Đánh_giá tính kịp_thời của bản tin dự_báo , cảnh_báo các yếu_tố , hiện_tượng thuỷ_văn theo 2 mức " kịp_thời " và " không kịp_thời " .
+
+Chương_ii
+
+Quy_định Kỹ_thuật
+
+Mục 1 . Xác_định Các Sai_số
+
+Điều 6 . Xác_định sai_số trị_số dự_báo , cảnh_báo
+
+1 . Xác_định sai_số trị_số dự_báo , cảnh_báo cho một lần dự_báo của yếu_tố thuỷ_văn_bằng cách xác_định khoảng chênh_lệch giữa trị_số dự_báo , cảnh_báo với trị_số_thực đo tương_ứng của yếu_tố thuỷ_văn tại thời_điểm dự_báo .
+
+2 . Xác_định sai_số trị_số dự_báo , cảnh_báo theo thời_gian , trong nhiều lần dự_báo , cảnh_báo và sai_số dự_báo , cảnh_báo của mô_hình :
+
+a ) Sai_số trung_bình ( Bias ) được xác_định theo công_thức :
+
+Bias =
+
+Trong đó : N là số lần phát báo ; fi là trị_số dự_báo , cảnh_báo thứ i ; oi là trị_số_thực đo tương_ứng thứ i .
+
+b ) Sai_số tuyệt_đối trung_bình ( mae ) được xác_định theo công_thức :
+
+Trong đó : N là số lần phát báo ; fi là trị_số dự_báo , cảnh_báo thứ i ; oi là trị_số_thực đo tương_ứng thứ i .
+
+c ) Sai_số bình_phương trung_bình ( rmse ) được xác_định theo công_thức :
+
+Trong đó : N là số lần phát báo ; fi là trị_số dự_báo , cảnh_báo thứ i ; oi là trị_số_thực đo tương_ứng thứ i .
+
+Điều 7 . Xác_định sai_số thời_gian dự_báo , cảnh_báo
+
+1 . Sai_số thời_gian dự_báo , cảnh_báo ( t ) của yếu_tố hoặc hiện_tượng được xác_định theo công_thức :
+
+t = tdự báo - tquan trắc
+
+Trong đó : tdự báo là thời_điểm dự_báo , cảnh_báo xảy ra yếu_tố hoặc hiện_tượng ; tquan trắc là thời_điểm quan_trắc được yếu_tố hoặc hiện_tượng .
+
+2 . Sai_số tuyệt_đối trung_bình thời_gian dự_báo , cảnh_báo ( stdtbtg ) của chuỗi các hiện_tượng / yếu_tố hoặc trong nhiều lần dự_báo , cảnh_báo được xác_định theo công_thức :
+
+Trong đó : N là số lần dự_báo , cảnh_báo ; ti là sai_số thời_gian dự_báo , cảnh_báo thứ i .
+
+3 . Sai_số trung_bình thời_gian dự_báo , cảnh_báo ( stbtg ) của chuỗi các hiện_tượng hoặc yếu_tố hoặc trong nhiều lần dự_báo , cảnh_báo được xác_định theo công_thức :
+
+Trong đó : N là số lần dự_báo , cảnh_báo ; ti là sai_số thời_gian dự_báo , cảnh_báo thứ i .
+
+Điều 8 . Xác_định sai_số dự_báo , cảnh_báo các yếu_tố , hiện_tượng dự_báo , cảnh_báo theo phân nhóm
+
+1 . Xác_định sai_số dự_báo , cảnh_báo đối_với các yếu_tố , hiện_tượng và ít hơn hoặc bằng hai nhóm :
+
+a ) Được áp_dụng đối_với các yếu_tố , hiện_tượng mang tính lưỡng_phân như các dự_báo có / không xuất_hiện yếu_tố , hiện_tượng và được phân_loại chi_tiết trong Bảng 1 .
+
+Bảng 1 . Thống_kê số lần xuất_hiện hiện_tượng trong quan_trắc và dự_báo , cảnh_báo đối_với các yếu_tố , hiện_tượng nhỏ hơn hoặc bằng hai nhóm
+
+b ) Chỉ_số khả_năng phát_hiện hiện_tượng ( pod ) bằng tỉ_số giữa số lần dự_báo , cảnh_báo đúng sự xuất_hiện của các yếu_tố , hiện_tượng với tổng_số lần xuất_hiện của yếu_tố , hiện_tượng quan_trắc được và được xác_định theo công_thức :
+
+Trong đó : a , c được xác_định theo Bảng 1 . Chỉ_số Pod tốt nhất bằng 1 , kém nhất bằng 0 .
+
+c ) Chỉ_số tỉ_lệ dự_báo , cảnh_báo lỗi ( far ) bằng tỉ_số giữa số lần dự_báo , cảnh_báo những yếu_tố , hiện_tượng không xuất_hiện và tổng_số lần dự_báo , cảnh_báo những yếu_tố , hiện_tượng đó và được xác_định theo công_thức :
+
+Trong đó : a , b được xác_định theo Bảng 1 . Chỉ_số Far tốt nhất bằng 0 ; kém nhất bằng 1 .
+
+d ) Chỉ_số sai_số trung_bình ( stb ) bằng tỉ_số giữa số lần dự_báo , cảnh_báo với số lần quan_trắc và được xác_định theo công_thức :
+
+Trong đó : a , b , c được xác_định theo Bảng 1 .
+
+đ ) Chỉ_số phần_trăm dự_báo , cảnh_báo đúng ( pc ) bằng tỉ_số giữa số lần dự_báo đúng chia cho tổng_số lần dự_báo và được xác_định theo công_thức :
+
+Trong đó : a , b , c , d được xác_định theo Bảng 1 .
+
+e ) Chỉ_số thành_công ( csi ) bằng tỉ_số giữa lần dự_báo , cảnh_báo xảy ra yếu_tố , hiện_tượng với tổng_số của số lần dự_báo đúng có xảy ra yếu_tố , hiện_tượng , số lần dự_báo sót và số lần dự_báo khống , được xác_định theo công_thức :
+
+Trong đó : a , b , c được xác_định theo Bảng 1 .
+
+2 . Xác_định sai_số dự_báo , cảnh_báo đối_với các yếu_tố , hiện_tượng lớn hơn hai nhóm :
+
+a ) Được áp_dụng khi dự_báo , cảnh_báo cấp báo_động , khả_năng xảy ra lũ ( nhỏ , vừa , lớn , cực lớn ) và các cấp trị_số dự_báo của yếu_tố . Các nhóm được phân_loại chi_tiết trong Bảng 2 .
+
+Bảng 2 . Thống_kê số lần xuất_hiện nhóm trong quan_trắc và dự_báo đối_với các yếu_tố và hiện_tượng lớn hơn hai nhóm
+
+b ) Sai_số trung_bình cho các yếu_tố , hiện_tượng của từng nhóm ( Bj ) bằng tỉ_số giữa số lần dự_báo , cảnh_báo với tổng_số lần thực_tế xảy ra và được xác_định theo công_thức :
+
+Trong đó : rj * là tổng_số lần thực_tế xảy ra nhóm j ; r * j là tổng_số lần dự_báo , cảnh_báo nhóm j , được xác_định theo công_thức :
+
+c ) Chỉ_số phần_trăm dự_báo , cảnh_báo đúng ( pc ) bằng tỉ_số giữa tổng_số các lần dự_báo đúng ( nằm trên đường_chéo trong bảng 2 ) chia cho tổng_số lần dự_báo , cảnh_báo và được xác_định theo công_thức :
+
+Trong đó : ri là tổng_số lần dự_báo đúng ( nằm trên đường_chéo trong bảng 2 ) ; rij là tổng_số lần dự_báo , cảnh_báo .
+
+Điều 9 . Xác_định sai_số phạm_vi dự_báo , cảnh_báo
+
+1 . Sai_số dự_báo , cảnh_báo phạm_vi ảnh_hưởng của hiện_tượng cho một lần dự_báo , cảnh_báo được xác_định theo công_thức :
+
+Pi =
+
+Trong đó : Pi là sai_số phạm_vi của lần dự_báo , cảnh_báo thứ i ; Nđ úng là số điểm ( tỉnh , huyện , khu_vực , lưu_vực sông , hoặc điểm trạm thuỷ_văn ) chịu ảnh_hưởng của hiện_tượng và dự_báo , cảnh_báo được ; Nkhống là số điểm ( tỉnh , huyện , khu_vực , lưu_vực sông , hoặc điểm trạm thuỷ_văn ) dự_báo , cảnh_báo hiện_tượng nhưng thực_tế hiện_tượng không xảy ra ; Nsót là số điểm chịu ảnh_hưởng của hiện_tượng nhưng không được dự_báo , cảnh_báo .
+
+2 . Sai_số dự_báo phạm_vi ảnh_hưởng của hiện_tượng cho nhiều lần dự_báo , cảnh_báo là trung_bình_sai_số phạm_vi của các lần dự_báo , cảnh_báo và được xác_định theo công_thức :
+
+Trong đó : Pn là sai_số phạm_vi của lần dự_báo , cảnh_báo thứ N ; Pi là sai_số phạm_vi của lần dự_báo , cảnh_báo thứ i ; N là tổng_số lần dự_báo , cảnh_báo .
+
+Điều 10 . Xác_định sai_số trong dự_báo , cảnh_báo xác_suất
+
+1 . Xác_định sai_số dự_báo , cảnh_báo xác_suất có 2 nhóm ( có / không ) :
+
+a ) Chỉ_số sai_số trung_bình ( Bias ) bằng tỉ_số giữa trung_bình của xác_suất dự_báo , cảnh_báo với xác_suất xuất_hiện và được xác_định theo công_thức :
+
+Trong đó : Pi là xác_suất dự_báo , cảnh_báo của hiện_tượng lần thứ i ; oi là xác_suất xuất_hiện hiện_tượng lần thứ i ; N là số lần dự_báo , cảnh_báo .
+
+c ) Chỉ_số Brier ( bs ) bằng sai_số bình_phương trung_bình giữa dự_báo , cảnh_báo và thực đo được , được xác_định theo công_thức :
+
+Trong đó : Pi là xác_suất dự_báo , cảnh_báo của hiện_tượng lần thứ i ; oi là xác_suất xuất_hiện hiện_tượng lần thứ i ; N là số lần dự_báo , cảnh_báo .
+
+2 . Xác_định sai_số dự_báo , cảnh_báo xác_suất có nhiều nhóm :
+
+a ) Sai_số trung_bình của nhóm bằng tỉ_số giữa xác_suất dự_báo , cảnh_báo chia cho xác_suất xuất_hiện và được xác_định theo công_thức :
+
+Trong đó : Biasj là sai_số trung_bình của nhóm j ; pij là xác_suất dự_báo , cảnh_báo của nhóm j ; oij là xác_suất quan_trắc của hiện_tượng ở nhóm j ; N là số lần dự_báo , cảnh_báo .
+
+b ) Chỉ_số xác_suất theo nhóm ( rps ) là chỉ_số tương_đương với sai_số bình_phương trung_bình của xác_suất xuất_hiện pha và được xác_định theo công_thức :
+
+Trong đó : m là số nhóm ; i , j , k là các chỉ_số nhóm . Chỉ_số Rps tốt nhất bằng 1 ; kém nhất bằng 0 .
+
+Điều 11 . Xác_định độ tin_cậy về trị_số dự_báo , cảnh_báo
+
+1 . Xác_định sai_số cho phép của yếu_tố trong trường_hợp có thời_gian dự_kiến :
+
+a ) Công_thức tính sai_số cho phép :
+
+Scf = 0 , 674 1
+
+Trong đó : 1 là độ lệch chuẩn của yếu_tố trong thời_gian dự_kiến ; Yi là biên_độ của yếu_tố trong thời_gian dự_kiến được tính bằng hiệu_số giữa trị_số sau thời_gian dự_kiến ( t + t ) với trị_số tại thời_điểm ( t ) ; là chuẩn của chuỗi số_liệu Yi ; n là số số_hạng trong dãy số tính_toán .
+
+b ) Chuỗi số_liệu dùng để tính sai_số cho phép của trị_số dự_báo , cảnh_báo : Thời_đoạn , thời_gian lấy số_liệu tính_toán lấy theo đúng thời_đoạn dự_báo tương_ứng theo thời_gian dự_kiến ; chuỗi số_liệu thống_kê dùng để tính sai_số cho phép bao_gồm toàn_bộ số_liệu thực đo trong 10 năm gần nhất ; chuỗi số_liệu tính_toán thống_kê phải có ít_nhất 30 trị_số .
+
+2 . Xác_định sai_số cho phép của yếu_tố trong trường_hợp không có thời_gian dự_kiến :
+
+a ) Công_thức tính sai_số cho phép :
+
+Scf = 0 , 674 2
+
+Trong đó : 2 là độ lệch chuẩn của yếu_tố dự_báo ; Yi là trị_số của yếu_tố trong dãy số tính_toán ; là chuẩn của dãy số tính_toán ; n là số số_hạng trong dãy số tính_toán .
+
+b ) Chuỗi số_liệu dùng để tính sai_số cho phép của trị_số dự_báo , cảnh_báo : Thời_đoạn , thời_gian lấy số_liệu tính_toán dùng để tính sai_số cho phép của trị_số dự_báo , cảnh_báo bao_gồm số_liệu thực đo trong 10 năm gần nhất ; chuỗi số_liệu tính_toán thống_kê phải có ít_nhất 30 trị_số .
+
+3 . Xác_định sai_số cho phép của yếu_tố trong trường_hợp không đủ số_liệu xây_dựng sai_số cho phép : Đối_với yếu_tố mực nước , sai_số cho phép được xác_định bằng 50 % biên_độ mực nước thực đo tương_ứng đã quan_trắc được . Đối_với các yếu_tố khác , sai_số cho phép được xác_định bằng 25 % giá_trị thực đo .
+
+4 . Chất_lượng dự_báo , cảnh_báo trị_số được xác_định là " đủ độ tin_cậy " khi sai_số trị_số dự_báo , cảnh_báo nhỏ hơn hoặc bằng sai_số cho phép của yếu_tố dự_báo , cảnh_báo và được xác_định là " không đủ độ tin_cậy " khi sai_số trị_số dự_báo lớn hơn sai_số cho phép của yếu_tố dự_báo , cảnh_báo .
+
+Điều 12 . Xác_định độ tin_cậy về thời_gian dự_báo , cảnh_báo
+
+1 . Đối_với trường_hợp dự_báo , cảnh_báo thời_điểm :
+
+a ) Sai_số cho phép của thời_gian dự_báo , cảnh_báo được xác_định bằng 25 % thời_gian dự_kiến ;
+
+b ) Chất_lượng dự_báo , cảnh_báo thời_gian được xác_định là " đủ độ tin_cậy " khi sai_số thời_gian dự_báo , cảnh_báo nhỏ hơn hoặc bằng sai_số cho phép của thời_gian dự_báo , cảnh_báo và được xác_định là " không đủ độ tin_cậy " khi sai_số thời_gian dự_báo , cảnh_báo lớn hơn sai_số cho phép của thời_gian dự_báo , cảnh_báo .
+
+2 . Đối_với trường_hợp dự_báo , cảnh_báo khoảng thời_gian xuất_hiện yếu_tố , hiện_tượng thuỷ_văn : Chất_lượng dự_báo , cảnh_báo khoảng thời_gian được xác_định là " đủ độ tin_cậy " khi xuất_hiện yếu_tố , hiện_tượng được cảnh_báo trong khoảng thời_gian dự_báo , cảnh_báo và được xác_định là " không đủ độ tin_cậy " khi không xuất_hiện yếu_tố , hiện_tượng được dự_báo , cảnh_báo trong khoảng thời_gian dự_báo , cảnh_báo .
+
+Điều 13 . Xác_định độ tin_cậy về dự_báo , cảnh_báo khả_năng xuất_hiện các hiện_tượng lũ , ngập_lụt , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy
+
+1 . Chất_lượng dự_báo , cảnh_báo khả_năng xuất_hiện được xác_định là " đủ độ tin_cậy " khi hiện_tượng lũ , ngập_lụt , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy xảy ra trong khu_vực cảnh_báo .
+
+2 . Chất_lượng dự_báo , cảnh_báo khả_năng xuất_hiện được xác_định là " không đủ độ tin_cậy " khi không có hiện_tượng lũ , ngập_lụt , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy xảy ra trong khu_vực cảnh_báo hoặc khi xuất_hiện hiện_tượng lũ , ngập_lụt , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy trong phạm_vi quản_lí mà không được cảnh_báo .
+
+Điều 14 . Xác_định độ tin_cậy về phạm_vi dự_báo , cảnh_báo
+
+1 . Lũ , ngập_lụt , hạn_hán , xâm_nhập mặn :
+
+a ) Trường_hợp chỉ dự_báo , cảnh_báo lũ , ngập_lụt , hạn_hán , xâm_nhập mặn từ 01 đến 02 sông hoặc khu_vực : Chất_lượng dự_báo , cảnh_báo phạm_vi được xác_định là " đủ độ tin_cậy " khi ít_nhất 01 sông hoặc 01 khu_vực được dự_báo , cảnh_báo xảy ra lũ , ngập_lụt , hạn_hán , xâm_nhập mặn và được xác_định là " không đủ độ tin_cậy " khi không có sông hoặc khu_vực nào được dự_báo , cảnh_báo xảy ra lũ , ngập_lụt , hạn_hán , xâm_nhập mặn hoặc xuất_hiện hiện_tượng lũ , ngập_lụt , hạn_hán , xâm_nhập mặn trong khu_vực mà không được cảnh_báo ;
+
+b ) Trường_hợp dự_báo , cảnh_báo lũ , ngập_lụt , hạn_hán , xâm_nhập mặn từ 03 sông hoặc 03 khu_vực trở lên : Chất_lượng dự_báo , cảnh_báo phạm_vi được xác_định là " đủ độ tin_cậy " khi trên 50 % số sông hoặc khu_vực được cảnh_báo xảy ra lũ , ngập_lụt , hạn_hán , xâm_nhập mặn và được xác_định là " không đủ độ tin_cậy " khi dưới 50 % số sông hoặc khu_vực được dự_báo , cảnh_báo xảy ra lũ , ngập_lụt , hạn_hán , xâm_nhập mặn hoặc xuất_hiện hiện_tượng lũ , ngập_lụt , hạn_hán , xâm_nhập mặn trong một khu_vực mà không được cảnh_báo .
+
+2 . Lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy :
+
+Chất_lượng dự_báo , cảnh_báo phạm_vi được xác_định là " đủ độ tin_cậy " khi ít_nhất 01 khu_vực được cảnh_báo xảy ra hiện_tượng lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy và được xác_định là " không đủ độ tin_cậy " khi không có khu_vực nào được cảnh_báo xảy ra lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy hoặc xuất_hiện hiện_tượng lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy trong một khu_vực mà không được cảnh_báo .
+
+Mục 2 . Đánh_giá Độ Tin_cậy , Tính Kịp_thời , Tính Đầy_đủ Dự_báo , Cảnh_báo Các Yếu_tố , Hiện_tượng Thủy_văn Trong Điều_kiện Bình_thường
+
+Điều 15 . Dự_báo , cảnh_báo thời_hạn cực ngắn , thời_hạn ngắn
+
+1 . Các yếu_tố , hiện_tượng dự_báo , cảnh_báo :
+
+a ) Trị_số dự_báo , cảnh_báo các yếu_tố thuỷ_văn gồm : Mực nước , lưu_lượng và các yếu_tố thuỷ_văn khác ( nếu có ) ;
+
+b ) Thời_gian dự_báo , cảnh_báo xuất_hiện các hiện_tượng thuỷ_văn ;
+
+c ) Dự_báo , cảnh_báo khả_năng và phạm_vi xuất_hiện các hiện_tượng thuỷ_văn .
+
+2 . Đánh_giá chất_lượng dự_báo , cảnh_báo trị_số :
+
+a ) Sai_số trị_số dự_báo , cảnh_báo được xác_định tại khoản 1 Điều 6 Thông_tư này ;
+
+b ) Chất_lượng dự_báo , cảnh_báo trị_số được xác_định tại khoản 4 Điều 11 Thông_tư này .
+
+3 . Đánh_giá chất_lượng dự_báo , cảnh_báo thời_gian xuất_hiện các hiện_tượng thuỷ_văn :
+
+a ) Sai_số thời_gian dự_báo , cảnh_báo xuất_hiện các hiện_tượng thuỷ_văn được xác_định tại khoản 1 Điều 7 Thông_tư này ;
+
+b ) Chất_lượng dự_báo , cảnh_báo thời_gian xuất_hiện các hiện_tượng thuỷ_văn được xác_định tại Điều 12 Thông_tư này .
+
+4 . Đánh_giá khả_năng và phạm_vi xuất_hiện các hiện_tượng thuỷ_văn :
+
+a ) Chất_lượng dự_báo , cảnh_báo khả_năng xuất_hiện hiện_tượng thuỷ_văn được xác_định tại Điều 13 Thông_tư này ;
+
+b ) Chất_lượng dự_báo , cảnh_báo phạm_vi xuất_hiện hiện_tượng thuỷ_văn được xác_định tại Điều 14 Thông_tư này .
+
+Điều 16 . Dự_báo , cảnh_báo thời_hạn vừa , thời_hạn dài
+
+1 . Các yếu_tố , hiện_tượng dự_báo , cảnh_báo :
+
+a ) Trị_số dự_báo , cảnh_báo các giá_trị đặc_trưng bao_gồm ít_nhất một trong ba giá_trị đặc_trưng ( cao nhất , thấp nhất , trung_bình ) của mực nước , lưu_lượng và các yếu_tố đặc_trưng khác ( nếu có ) ;
+
+b ) Thời_gian xuất_hiện các yếu_tố đặc_trưng / hiện_tượng thuỷ_văn ;
+
+c ) Khả_năng và phạm_vi xuất_hiện các yếu_tố đặc_trưng / hiện_tượng thuỷ_văn .
+
+2 . Đánh_giá chất_lượng dự_báo , cảnh_báo trị_số :
+
+a ) Sai_số trị_số dự_báo , cảnh_báo được xác_định tại khoản 1 Điều 6 Thông_tư này ;
+
+b ) Chất_lượng dự_báo , cảnh_báo trị_số được xác_định tại khoản 4 Điều 11 Thông_tư này .
+
+3 . Đánh_giá chất_lượng dự_báo , cảnh_báo thời_gian xuất_hiện các yếu_tố đặc_trưng / hiện_tượng thuỷ_văn :
+
+a ) Sai_số thời_gian dự_báo , cảnh_báo xuất_hiện các yếu_tố đặc_trưng / hiện_tượng thuỷ_văn được xác_định tại khoản 1 Điều 7 Thông_tư này ;
+
+b ) Chất_lượng dự_báo , cảnh_báo thời_gian xuất_hiện các yếu_tố đặc_trưng / hiện_tượng thuỷ_văn được xác_định tại Điều 12 Thông_tư này .
+
+4 . Đánh_giá khả_năng và phạm_vi xuất_hiện yếu_tố đặc_trưng / hiện_tượng thuỷ_văn :
+
+a ) Chất_lượng dự_báo , cảnh_báo khả_năng xuất_hiện các yếu_tố đặc_trưng / hiện_tượng thuỷ_văn được xác_định tại Điều 13 Thông_tư này ;
+
+b ) Chất_lượng dự_báo , cảnh_báo phạm_vi xuất_hiện các yếu_tố đặc_trưng / hiện_tượng thuỷ_văn được xác_định tại Điều 14 Thông_tư này .
+
+Điều 17 . Dự_báo , cảnh_báo thời_hạn mùa , thời_hạn năm
+
+1 . Các yếu_tố , hiện_tượng dự_báo , cảnh_báo :
+
+a ) Trị_số dự_báo , cảnh_báo các giá_trị đặc_trưng bao_gồm ít_nhất một trong ba giá_trị đặc_trưng ( cao nhất , thấp nhất , trung_bình ) của mực nước , lưu_lượng và các yếu_tố đặc_trưng khác ( nếu có ) ;
+
+b ) Thời_gian xuất_hiện các yếu_tố đặc_trưng / hiện_tượng thuỷ_văn ;
+
+c ) Khả_năng và phạm_vi xuất_hiện các yếu_tố đặc_trưng / hiện_tượng thuỷ_văn .
+
+2 . Đánh_giá chất_lượng dự_báo , cảnh_báo trị_số :
+
+a ) Sai_số trị_số dự_báo , cảnh_báo được xác_định tại khoản 1 Điều 6 Thông_tư này ;
+
+b ) Chất_lượng dự_báo , cảnh_báo trị_số được xác_định tại khoản 4 Điều 11 Thông_tư này .
+
+3 . Đánh_giá chất_lượng dự_báo , cảnh_báo thời_gian xuất_hiện các yếu_tố đặc_trưng / hiện_tượng thuỷ_văn :
+
+a ) Sai_số thời_gian dự_báo , cảnh_báo xuất_hiện các yếu_tố đặc_trưng / hiện_tượng thuỷ_văn được xác_định tại khoản 1 Điều 7 Thông_tư này ;
+
+b ) Đánh_giá chất_lượng dự_báo , cảnh_báo thời_gian xuất_hiện các yếu_tố đặc_trưng / hiện_tượng thuỷ_văn được xác_định tại Điều 12 Thông_tư này .
+
+4 . Đánh_giá khả_năng và phạm_vi xuất_hiện các yếu_tố đặc_trưng / hiện_tượng thuỷ_văn :
+
+a ) Chất_lượng dự_báo , cảnh_báo khả_năng xuất_hiện các yếu_tố đặc_trưng / hiện_tượng thuỷ_văn được xác_định tại Điều 13 Thông_tư này ;
+
+b ) Đánh_giá chất_lượng dự_báo , cảnh_báo phạm_vi xuất_hiện các yếu_tố đặc_trưng / hiện_tượng thuỷ_văn được xác_định tại Điều 14 Thông_tư này .
+
+Điều 18 . Dự_báo , cảnh_báo nguồn nước
+
+1 . Các yếu_tố , hiện_tượng dự_báo , cảnh_báo :
+
+a ) Tổng_lượng nước mưa ;
+
+b ) Lưu_lượng nước trung_bình hoặc tổng_lượng nước .
+
+2 . Đánh_giá chất_lượng dự_báo , cảnh_báo tổng_lượng nước mưa thực_hiện theo quy_định của pháp_luật về đánh_giá chất_lượng dự_báo , cảnh_báo khí_tượng .
+
+3 . Đánh_giá chất_lượng dự_báo , cảnh_báo lưu_lượng nước trung_bình hoặc tổng_lượng nước :
+
+a ) Sai_số dự_báo , cảnh_báo lưu_lượng nước trung_bình hoặc tổng_lượng nước được xác_định tại khoản 1 Điều 6 Thông_tư này ;
+
+b ) Chất_lượng dự_báo , cảnh_báo lưu_lượng nước trung_bình hoặc tổng_lượng nước được xác_định là " đủ độ tin_cậy " khi sai_số dự_báo , cảnh_báo lưu_lượng nước trung_bình hoặc tổng_lượng nước nhỏ hơn hoặc bằng 30 % lưu_lượng nước trung_bình hoặc tổng_lượng nước thực_tế và được xác_định là " không đủ độ tin_cậy " khi sai_số dự_báo , cảnh_báo lưu_lượng nước trung_bình hoặc tổng_lượng nước_lớn hơn 30 % lưu_lượng nước trung_bình hoặc tổng_lượng nước thực_tế .
+
+Điều 19 . Đánh_giá tính đầy_đủ
+
+Bản tin dự_báo , cảnh_báo thuỷ_văn trong điều_kiện bình_thường được đánh_giá là " đầy_đủ " khi thực_hiện đầy_đủ các nội_dung được quy_định tại Thông_tư số 06/2016/TT-BTNMT ngày 16 tháng 5 năm 2016 của Bộ Tài_nguyên và Môi_trường quy_định về loại bản tin và thời_hạn dự_báo , cảnh_báo khí_tượng thuỷ_văn và Thông_tư số 40/2016/TT-BTNMT ngày 19 tháng 12 năm 2016 của Bộ Tài_nguyên và Môi_trường quy_định về quy_trình kĩ_thuật dự_báo , cảnh_báo khí_tượng thuỷ_văn trong điều_kiện bình_thường và được đánh_giá là " không đầy_đủ " khi thực_hiện thiếu một trong các nội_dung được quy_định tại các văn_bản trên .
+
+Điều 20 . Đánh_giá tính kịp_thời
+
+Bản tin dự_báo , cảnh_báo thuỷ_văn trong điều_kiện bình_thường được đánh_giá là " kịp_thời " khi bản tin được cung_cấp đúng giờ hoặc chậm nhất là 15 phút theo quy_định tại Thông_tư số 40/2016/TT-BTNMT ngày 19 tháng 12 năm 2016 của Bộ Tài_nguyên và Môi_trường quy_định về quy_trình kĩ_thuật dự_báo , cảnh_báo khí_tượng thuỷ_văn trong điều_kiện bình_thường hoặc theo quy_định trong các văn_bản thoả_thuận về thời_gian phát tin với địa_phương , người sử_dụng và được đánh_giá là " không kịp_thời " khi bản tin được cung_cấp sau 15 phút so với thời_gian được quy_định tại các văn_bản trên .
+
+Mục 3 . Đánh_giá Độ Tin_cậy , Tính Đầy_đủ , Tính Kịp_thời Dự_báo , Cảnh_báo Các Hiện_tượng Thủy_văn Nguy_hiểm
+
+Điều 21 . Cảnh_báo lũ
+
+1 . Các yếu_tố , hiện_tượng cảnh_báo :
+
+a ) Khả_năng xuất_hiện lũ ;
+
+b ) Đỉnh lũ ;
+
+c ) Mức_độ lũ , biên_độ lũ ;
+
+d ) Thời_gian xuất_hiện lũ , đỉnh lũ ;
+
+đ ) Phạm_vi_cảnh_báo lũ .
+
+2 . Đánh_giá chất_lượng cảnh_báo khả_năng xuất_hiện lũ : Chất_lượng cảnh_báo khả_năng xuất_hiện lũ được xác_định tại Điều 13 Thông_tư này .
+
+3 . Đánh_giá chất_lượng cảnh_báo đỉnh lũ :
+
+a ) Sai_số trị_số cảnh_báo đỉnh lũ được xác_định tại khoản 1 Điều 6 Thông_tư này ;
+
+b ) Chất_lượng cảnh_báo trị_số đỉnh lũ được xác_định tại khoản 4 Điều 11 Thông_tư này .
+
+4 . Đánh_giá chất_lượng cảnh_báo mức_độ lũ và biên_độ lũ :
+
+Chất_lượng cảnh_báo khả_năng xuất_hiện mức_độ lũ và biên_độ lũ được xác_định là " đủ độ tin_cậy " khi thoả_mãn điều_kiện quy_định tại Bảng 3 và ngược_lại được xác_định là " không đủ độ tin_cậy " .
+
+Bảng 3 . Đánh_giá độ tin_cậy cảnh_báo mức lũ và biên_độ lũ
+
+Ghi_chú : Tstđ : Trị_số_thực đo ; Scf : Sai_số cho phép đỉnh lũ .
+
+5 . Đánh_giá chất_lượng cảnh_báo thời_gian xuất_hiện lũ , đỉnh lũ :
+
+a ) Sai_số thời_gian dự_báo , cảnh_báo xuất_hiện lũ , đỉnh lũ được xác_định tại khoản 1 Điều 7 Thông_tư này ;
+
+b ) Chất_lượng cảnh_báo thời_gian xuất_hiện lũ , đỉnh lũ được xác_định tại Điều 12 Thông_tư này .
+
+6 . Đánh_giá phạm_vi_cảnh_báo lũ : Chất_lượng cảnh_báo phạm_vi xuất_hiện lũ được xác_định tại khoản 1 Điều 14 Thông_tư này .
+
+Điều 22 . Dự_báo lũ
+
+1 . Các yếu_tố , hiện_tượng dự_báo :
+
+a ) Trị_số mực nước hoặc lưu_lượng tại các vị_trí dự_báo theo thời_hạn dự_báo ;
+
+b ) Trị_số đỉnh lũ ;
+
+c ) Thời_gian xuất_hiện đỉnh lũ ;
+
+d ) Cảnh_báo khả_năng xảy ra các hiện_tượng thuỷ_văn nguy_hiểm kèm theo .
+
+2 . Đánh_giá chất_lượng dự_báo trị_số mực nước hoặc lưu_lượng :
+
+a ) Sai_số trị_số dự_báo mực nước hoặc lưu_lượng được xác_định tại khoản 1 Điều 6 Thông_tư này ;
+
+b ) Chất_lượng dự_báo trị_số mực nước hoặc lưu_lượng được xác_định tại khoản 4 Điều 11 Thông_tư này .
+
+3 . Đánh_giá chất_lượng dự_báo đỉnh lũ :
+
+a ) Sai_số trị_số dự_báo đỉnh lũ được xác_định tại khoản 1 Điều 6 Thông_tư này ;
+
+b ) Chất_lượng dự_báo trị_số đỉnh lũ được xác_định tại khoản 4 Điều 11 Thông_tư này .
+
+4 . Đánh_giá chất_lượng dự_báo thời_gian xuất_hiện đỉnh lũ :
+
+a ) Sai_số thời_gian dự_báo xuất_hiện đỉnh lũ được xác_định tại khoản 1 Điều 7 Thông_tư này ;
+
+b ) Chất_lượng dự_báo thời_gian xuất_hiện đỉnh lũ được xác_định tại Điều 12 Thông_tư này .
+
+5 . Đánh_giá chất_lượng cảnh_báo khả_năng xảy ra các hiện_tượng thuỷ_văn nguy_hiểm kèm theo được xác_định tại Điều 13 Thông_tư này .
+
+Điều 23 . Dự_báo , cảnh_báo ngập_lụt , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy
+
+1 . Các yếu_tố , hiện_tượng dự_báo , cảnh_báo :
+
+a ) Khả_năng xuất_hiện các hiện_tượng ngập_lụt , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy ;
+
+b ) Phạm_vi_cảnh_báo ngập_lụt , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy ;
+
+c ) Thời_gian xuất_hiện ngập_lụt , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy ;
+
+d ) Mức_độ ngập_lụt .
+
+2 . Đánh_giá chất_lượng dự_báo , cảnh_báo khả_năng xuất_hiện các hiện_tượng ngập_lụt , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy : Chất_lượng dự_báo , cảnh_báo khả_năng xuất_hiện các hiện_tượng ngập_lụt , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy được xác_định tại Điều 13 Thông_tư này .
+
+3 . Đánh_giá chất_lượng dự_báo , cảnh_báo phạm_vi xuất_hiện các hiện_tượng ngập_lụt , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy : Chất_lượng dự_báo , cảnh_báo phạm_vi xuất_hiện các hiện_tượng ngập_lụt , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy được xác_định tại Điều 14 Thông_tư này .
+
+4 . Đánh_giá chất_lượng dự_báo , cảnh_báo thời_gian xuất_hiện ngập_lụt , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy :
+
+a ) Sai_số thời_gian dự_báo , cảnh_báo xuất_hiện ngập_lụt , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy được xác_định tại khoản 1 Điều 7 Thông_tư này ;
+
+b ) Chất_lượng dự_báo , cảnh_báo thời_gian xuất_hiện ngập_lụt , lũ_quét , sạt_lở đất , sụt lún đất do mưa_lũ hoặc dòng_chảy được xác_định tại Điều 12 Thông_tư này .
+
+5 . Chất_lượng dự_báo , cảnh_báo mức_độ ngập_lụt : Chất_lượng dự_báo , cảnh_báo mức_độ ngập_lụt được xác_định là " đủ độ tin_cậy " khi thoả_mãn điều_kiện quy_định tại Bảng 4 , ngược_lại thì được xác_định là " không đủ độ tin_cậy " .
+
+Bảng 4 . Đánh_giá độ tin_cậy dự_báo , cảnh_báo mức_độ ngập_lụt
+
+Điều 24 . Dự_báo , cảnh_báo hạn_hán
+
+1 . Các yếu_tố , hiện_tượng dự_báo , cảnh_báo :
+
+a ) Khả_năng xuất_hiện hạn_hán ;
+
+b ) Tổng_lượng mưa trên khu_vực dự_báo , cảnh_báo ;
+
+c ) Tổng_lượng nước trên khu_vực dự_báo , cảnh_báo ;
+
+d ) Thời_gian xuất_hiện hạn_hán ;
+
+đ ) Phạm_vi xuất_hiện hạn_hán .
+
+2 . Đánh_giá chất_lượng dự_báo , cảnh_báo khả_năng xuất_hiện hạn_hán : Chất_lượng dự_báo , cảnh_báo khả_năng xuất_hiện hạn_hán được xác_định là " đủ độ tin_cậy " khi bảo_đảm các điều_kiện sau :
+
+a ) Khu_vực dự_báo , cảnh_báo xuất_hiện tình_trạng thiếu_hụt tổng_lượng mưa tháng trên 50 % so với trung_bình nhiều năm và kéo_dài từ 2 tháng trở lên ;
+
+b ) Nguồn nước trong khu_vực thiếu_hụt từ trên 20 % so với trung_bình nhiều năm .
+
+3 . Đánh_giá chất_lượng dự_báo , cảnh_báo tổng_lượng nước mưa thực_hiện theo quy_định của pháp_luật về đánh_giá chất_lượng dự_báo , cảnh_báo khí_tượng .
+
+4 . Đánh_giá chất_lượng dự_báo , cảnh_báo tổng_lượng nước trên khu_vực dự_báo , cảnh_báo :
+
+a ) Sai_số dự_báo , cảnh_báo tổng_lượng nước được xác_định tại khoản 1 Điều 6 Thông_tư này ;
+
+b ) Chất_lượng dự_báo , cảnh_báo tổng_lượng nước được xác_định là " đủ độ tin_cậy " khi sai_số dự_báo , cảnh_báo tổng_lượng nước nhỏ hơn hoặc bằng 30 % tổng_lượng nước thực_tế và được xác_định là " không đủ độ tin_cậy " khi sai_số dự_báo , cảnh_báo tổng_lượng nước_lớn hơn 30 % tổng_lượng nước thực_tế .
+
+5 . Đánh_giá chất_lượng dự_báo , cảnh_báo thời_gian xuất_hiện hạn_hán :
+
+a ) Sai_số thời_gian dự_báo , cảnh_báo xuất_hiện hạn_hán được xác_định tại khoản 1 Điều 7 Thông_tư này ;
+
+b ) Chất_lượng dự_báo cảnh_báo thời_gian xuất_hiện hạn_hán được xác_định tại Điều 12 Thông_tư này .
+
+6 . Đánh_giá chất_lượng dự_báo , cảnh_báo phạm_vi xuất_hiện hạn_hán : Chất_lượng dự_báo , cảnh_báo phạm_vi xuất_hiện hạn_hán được xác_định tại khoản 1 Điều 14 Thông_tư này .
+
+Điều 25 . Xâm_nhập mặn
+
+1 . Các yếu_tố , hiện_tượng dự_báo , cảnh_báo :
+
+a ) Khả_năng xuất_hiện xâm_nhập mặn ;
+
+b ) Độ mặn lớn nhất ;
+
+c ) Thời_gian xuất_hiện xâm_nhập mặn ;
+
+d ) Phạm_vi chịu ảnh_hưởng độ mặn .
+
+2 . Chất_lượng dự_báo , cảnh_báo khả_năng xuất_hiện xâm_nhập mặn được xác_định là " đủ độ tin_cậy " khi khu_vực cảnh_báo xuất_hiện độ mặn dự_báo , cảnh_báo .
+
+3 . Chất_lượng dự_báo , cảnh_báo độ mặn lớn nhất :
+
+a ) Sai_số dự_báo , cảnh_báo độ mặn lớn nhất được xác_định tại khoản 1 Điều 6 Thông_tư này ;
+
+b ) Chất_lượng dự_báo , cảnh_báo độ mặn lớn nhất được xác_định là " đủ độ tin_cậy " khi sai_số dự_báo , cảnh_báo độ mặn lớn nhất nhỏ hơn hoặc bằng 30 % độ mặn lớn nhất thực_tế và được xác_định là " không đủ độ tin_cậy " khi sai_số dự_báo , cảnh_báo độ mặn lớn nhất lớn hơn 30 % độ mặn lớn nhất thực_tế .
+
+4 . Đánh_giá chất_lượng dự_báo , cảnh_báo thời_gian xuất_hiện xâm_nhập mặn :
+
+a ) Sai_số thời_gian dự_báo , cảnh_báo xuất_hiện xâm_nhập mặn được xác_định tại khoản 1 Điều 7 Thông_tư này ;
+
+b ) Chất_lượng dự_báo , cảnh_báo thời_gian xuất_hiện xâm_nhập mặn được xác_định tại Điều 12 Thông_tư này .
+
+5 . Đánh_giá chất_lượng dự_báo , cảnh_báo phạm_vi xuất_hiện xâm_nhập mặn :
+
+a ) Trường_hợp dự_báo , cảnh_báo phạm_vi xuất_hiện xâm_nhập mặn theo khu_vực : Chất_lượng dự_báo , cảnh_báo phạm_vi xuất_hiện xâm_nhập mặn được xác_định tại khoản 1 Điều 14 Thông_tư này ;
+
+b ) Trường_hợp dự_báo , cảnh_báo phạm_vi xuất_hiện xâm_nhập mặn theo chiều dài sông : Chất_lượng dự_báo , cảnh_báo phạm_vi xuất_hiện xâm_nhập mặn được xác_định là " đủ độ tin_cậy " khi xuất_hiện độ mặn dự_báo tại các vị_trí cách không quá 25 % so với khoảng_cách dự_báo và được xác_định là " không đủ độ tin_cậy " khi xuất_hiện độ mặn dự_báo tại các vị_trí cách quá 25 % so với khoảng_cách dự_báo .
+
+Điều 26 . Đánh_giá tính đầy_đủ
+
+Bản tin dự_báo , cảnh_báo thuỷ_văn nguy_hiểm được đánh_giá là " đầy_đủ " khi thực_hiện đầy_đủ các nội_dung được quy_định tại Quyết_định số 46/2014/QĐ-TTg ngày 15 tháng 8 năm 2014 của Thủ_tướng Chính_phủ quy_định về dự_báo , cảnh_báo và truyền tin thiên_tai và Thông_tư số 41/2016/TT-BTNMT ngày 21 tháng 12 năm 2016 của Bộ Tài_nguyên và Môi_trường quy_định về quy_trình kĩ_thuật dự_báo , cảnh_báo hiện_tượng khí_tượng thuỷ_văn nguy_hiểm và được đánh_giá là " không đầy_đủ " khi thực_hiện thiếu một trong các nội_dung được quy_định tại các văn_bản trên .
+
+Điều 27 . Đánh_giá tính kịp_thời
+
+Bản tin dự_báo , cảnh_báo thuỷ_văn nguy_hiểm được đánh_giá là " kịp_thời " khi bản tin được cung_cấp đúng giờ hoặc trong thời_gian chậm nhất là 15 phút theo quy_định tại Điều 15 và Điều 25 Quyết_định số 46/2014/QĐ-TTg ngày 15 tháng 8 năm 2014 của Thủ_tướng Chính_phủ quy_định về dự_báo , cảnh_báo và truyền tin thiên_tai và Thông_tư số 41/2016/TT-BTNMT ngày 21 tháng 12 năm 2016 của Bộ Tài_nguyên và Môi_trường quy_định về quy_trình kĩ_thuật dự_báo , cảnh_báo hiện_tượng khí_tượng thuỷ_văn nguy_hiểm hoặc theo quy_định trong các văn_bản thoả_thuận về thời_gian phát tin với địa_phương , người sử_dụng và được đánh_giá là " không kịp_thời " khi bản tin được cung_cấp sau 15 phút so với thời_gian được quy_định tại các văn_bản trên .
+
+Chương_iii
+
+Tổ_chức Thực_hiện
+
+Điều 28 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 08 tháng 12 năm 2017 .
+
+Điều 29 . Trách_nhiệm thi_hành
+
+1 . Chánh Văn_phòng Bộ , Tổng_cục_trưởng Tổng_cục Khí_tượng Thuỷ_văn , Thủ_trưởng các đơn_vị trực_thuộc Bộ , Giám_đốc Sở Tài_nguyên và Môi_trường các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Tổng_cục Khí_tượng Thuỷ_văn có trách_nhiệm kiểm_tra , giám_sát việc thực_hiện Thông_tư này .
+
+3 . Trong quá_trình thực_hiện Thông_tư này , nếu có khó_khăn , vướng_mắc , các cơ_quan , tổ_chức , cá_nhân phản_ánh về Bộ Tài_nguyên và Môi_trường để xem_xét , giải_quyết . / .

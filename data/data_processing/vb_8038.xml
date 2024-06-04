@@ -1,0 +1,205 @@
+Thông_tư số 48/2017/tt-byt ngày 28 tháng 12 năm 2017 của bộ y_tế
+
+Căn_cứ Nghị_định số 75/2017/NĐ-CP ngày 20 tháng 6 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Y_tế ;
+
+Căn_cứ Nghị_định số 166/2016/NĐ-CP ngày 24 tháng 12 năm 2016 của Chính_phủ quy_định về giao_dịch điện_tử trong lĩnh_vực bảo_hiểm xã_hội , bảo_hiểm y_tế và bảo_hiểm_thất_nghiệp ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Bảo_hiểm y_tế ;
+
+Bộ_trưởng Bộ Y_tế ban_hành Thông_tư quy_định trích chuyển dữ_liệu điện_tử trong quản_lí và thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về dữ_liệu điện_tử , định_dạng dữ_liệu điện_tử , trình_tự , phương_thức , thời_điểm chuyển dữ_liệu điện_tử và phản_hồi việc tiếp_nhận dữ_liệu điện_tử phục_vụ quản_lí và giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế .
+
+Điều 2 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Danh_mục dùng chung là thông_tin về dịch_vụ kĩ_thuật , thuốc , vật_tư y_tế , máu và các chế_phẩm , tên bệnh , cơ_sở khám bệnh , chữa bệnh và các thông_tin khác liên_quan đến hoạt_động khám bệnh , chữa bệnh đã được mã_hoá và chia thành các danh_mục ( Bộ mã Danh_mục dùng chung ) theo nhóm do Bộ_trưởng Bộ Y_tế ban_hành , áp_dụng trong các cơ_sở khám bệnh , chữa bệnh bảo_hiểm y_tế và cơ_quan thực_hiện giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế trên phạm_vi toàn_quốc .
+
+2 . Hạ_tầng kĩ_thuật công_nghệ thông_tin là tập_hợp thiết_bị tính_toán ( máy_chủ , máy trạm ) , thiết_bị ngoại_vi , thiết_bị kết_nối_mạng , thiết_bị phụ_trợ , mạng nội_bộ , mạng diện_rộng , các ứng_dụng công_nghệ thông_tin và thiết_bị khác .
+
+3 . Xml là chữ_viết tắt của cụm từ tiếng Anh " eXtensible Markup_language " , có_nghĩa_là ngôn_ngữ đánh_dấu mở_rộng , được tạo ra với mục_đích chia_sẻ dữ_liệu điện_tử giữa các hệ_thống công_nghệ thông_tin khác nhau .
+
+4 . Utf - 8 là định_dạng chuyển_đổi Unicode 8-bit.
+
+Điều 3 . Nguyên_tắc chuyển và tiếp_nhận dữ_liệu điện_tử
+
+1 . Dữ_liệu điện_tử phải bảo_đảm các yêu_cầu theo quy_định tại Thông_tư này .
+
+2 . Việc trích chuyển dữ_liệu điện_tử và tiếp_nhận dữ_liệu điện_tử phải bảo_đảm minh_bạch , trung_thực , bình_đẳng , an_toàn , bảo_mật , hiệu_quả và theo đúng các quy_định của pháp_luật về giao_dịch điện_tử .
+
+Chương_ii
+
+Trích Chuyển Dữ_liệu Điện_tử
+
+Điều 4 . Dữ_liệu đầu_vào và dữ_liệu đầu_ra trong quản_lí và giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế
+
+1 . Dữ_liệu điện_tử sử_dụng trong quản_lí và giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế gồm : dữ_liệu đầu_vào và dữ_liệu đầu_ra .
+
+2 . Dữ_liệu đầu_vào và dữ_liệu đầu_ra được xây_dựng trên cơ_sở và phải thực_hiện đúng quy_định của Bộ mã Danh_mục dùng chung do Bộ_trưởng Bộ Y_tế ban_hành , đáp_ứng được việc kết_nối , liên_thông dữ_liệu điện_tử để phục_vụ quản_lí và giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế .
+
+3 . Định_dạng dữ_liệu điện_tử :
+
+a ) Sử_dụng ngôn_ngữ Xml để định_dạng dữ_liệu điện_tử ; sử_dụng bảng mã Utf - 8 để biểu_diễn các chữ_cái trong bộ kí_tự Unicode .
+
+b ) Mỗi file Xml có_thể chứa một hoặc nhiều hồ_sơ khám bệnh , chữa bệnh bảo_hiểm y_tế , trong đó mỗi hồ_sơ có thông_tin của một đợt khám bệnh , chữa bệnh của người_bệnh , bao_gồm cả trường_hợp người_bệnh có hai thẻ bảo_hiểm_tế trở lên trong một đợt khám bệnh , chữa bệnh .
+
+Điều 5 . Phương_thức chuyển dữ_liệu điện_tử
+
+1 . Phương_thức chuyển dữ_liệu điện_tử gồm :
+
+a ) Phương_thức 1 : Kết_nối bằng web service ;
+
+b ) Phương_thức 2 : Đồng_bộ dữ_liệu điện_tử từ phần_mềm máy trạm :
+
+c ) Phương_thức 3 : Nhập dữ_liệu trực_tiếp ;
+
+d ) Phương_thức 4 : Truyền file Ftp ( File Transfer_protocol ) .
+
+2 . Cơ_sở khám bệnh , chữa bệnh được quyền lựa_chọn một trong các phương_thức chuyển dữ_liệu điện_tử quy_định tại khoản 1 Điều này nhưng phải bảo_đảm tính chính_xác của dữ_liệu và có cùng kết_quả của dữ_liệu đầu_ra .
+
+Điều 6 . Trình_tự gửi dữ_liệu điện_tử và phản_hồi việc tiếp_nhận dữ_liệu điện_tử để phục_vụ quản_lí khám bệnh , chữa bệnh bảo_hiểm y_tế
+
+1 . Thời_điểm gửi dữ_liệu điện_tử để phục_vụ quản_lí khám bệnh , chữa bệnh bảo_hiểm y_tế :
+
+Cơ_sở khám bệnh , chữa bệnh gửi dữ_liệu điện_tử lên Cổng Tiếp_nhận dữ_liệu Hệ_thống Thông_tin giám_định bảo_hiểm y_tế của Bảo_hiểm xã_hội Việt_nam ( sau đây gọi tắt là Cổng Thông_tin giám_định bảo_hiểm y_tế ) ngay sau khi kết_thúc lần khám bệnh hoặc kết_thúc đợt điều_trị ngoại_trú hoặc kết_thúc đợt điều_trị nội_trú đối_với người_bệnh , trừ các trường_hợp quy_định tại Điều 8 Thông_tư này .
+
+2 . Phản_hồi việc tiếp_nhận dữ_liệu điện_tử để phục_vụ quản_lí khám bệnh , chữa bệnh bảo_hiểm y_tế
+
+a ) Ngay khi nhận được thông_tin do cơ_sở khám bệnh , chữa bệnh thực_hiện kiểm_tra tình_trạng , thông_tin thẻ bảo_hiểm y_tế của người đến khám bệnh , chữa bệnh , Cổng Thông_tin giám_định bảo_hiểm y_tế phải phản_hồi thông_tin về tình_trạng , thông_tin thẻ bảo_hiểm y_tế của người đó , đồng_thời cung_cấp đầy_đủ lịch_sử khám bệnh , chữa bệnh của người đó với các thông_tin tối_thiểu , bao_gồm : thời_gian khám bệnh , chữa bệnh , các bệnh chính mắc phải và các bệnh kèm theo ( nếu có ) theo mã bệnh Icd - 10 hoặc mã bệnh y_học cổ_truyền , tình_trạng khám chữa bệnh trong vòng 06 ( sáu ) tháng gần nhất .
+
+b ) Sau khi nhận được dữ_liệu điện_tử thông_tin của cơ_sở khám bệnh , chữa bệnh về việc kết_thúc lần khám bệnh hoặc kết_thúc đợt điều_trị ngoại_trú hoặc kết_thúc đợt điều_trị nội_trú đối_với người_bệnh , Cổng Thông_tin giám_định bảo_hiểm y_tế phải thông_báo để cơ_sở khám bệnh , chữa bệnh biết việc đã tiếp_nhận được dữ_liệu điện_tử đó .
+
+3 . Việc chuyển dữ_liệu điện_tử sau khi kết_thúc lần khám bệnh ngoại_trú hoặc kết_thúc đợt điều_trị ngoại_trú hoặc kết_thúc đợt điều_trị nội_trú của người_bệnh đó đến Cổng Thông_tin giám_định bảo_hiểm y_tế để phục_vụ quản_lí khám bệnh , chữa bệnh bảo_hiểm y_tế không phải thực_hiện xác_thực dữ_liệu điện_tử .
+
+Điều 7 . Trình_tự gửi dữ_liệu điện_tử và phản_hồi việc tiếp_nhận dữ_liệu điện_tử đề_nghị giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế
+
+1 . Trong thời_gian 07 ( bảy ) ngày làm_việc , kể từ ngày kết_thúc việc khám bệnh , chữa bệnh đối_với người_bệnh , cơ_sở khám bệnh , chữa bệnh phải thực_hiện
+
+a ) Kiểm_tra , đối_chiếu để hiệu_chỉnh dữ_liệu điện_tử trong trường_hợp liệu có sai_lệch so với thực_tế và bổ_sung các thông_tin còn thiếu hoặc loại_bỏ thông_tin chưa phù_hợp trước khi gửi dữ_liệu điện_tử đề_nghị thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế ;
+
+b ) Xác_thực dữ_liệu điện_tử đề_nghị giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế trước khi thực_hiện gửi dữ_liệu của người được giao nhiệm_vụ hoặc người được uỷ_quyền .
+
+c ) Gửi dữ_liệu điện_tử đến Cổng Tiếp_nhận dữ_liệu y_tế của Bộ Y_tế và Cổng Thông_tin giám_định bảo_hiểm y_tế , trừ trường_hợp quy_định tại điểm d khoản 1 Điều này .
+
+d ) Gửi dữ_liệu điện_tử đề_nghị giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế phát_sinh vào những ngày cuối tháng của tháng hoặc của quý hoặc của năm đến Cổng Tiếp_nhận dữ_liệu y_tế của Bộ Y_tế và Cổng Thông_tin giám_định bảo_hiểm y_tế trước ngày mùng 05 của tháng kế_tiếp .
+
+2 . Phản_hồi thông_tin từ Cổng Tiếp_nhận dữ_liệu y_tế của Bộ Y_tế :
+
+Ngay sau khi tiếp_nhận dữ_liệu điện_tử do cơ_sở khám bệnh , chữa bệnh chuyển đến , Cổng Tiếp_nhận dữ_liệu y_tế của Bộ Y_tế phải thông_báo để cơ_sở khám bệnh , chữa bệnh biết việc đã tiếp_nhận được dữ_liệu điện_tử đó .
+
+3 . Phản_hồi thông_tin từ Cổng Thông_tin giám_định bảo_hiểm y_tế :
+
+a ) Ngay sau khi nhận được dữ_liệu điện_tử đề_nghị giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế do cơ_sở khám bệnh , chữa bệnh chuyển đến , Cổng Thông_tin giám_định bảo_hiểm y_tế phải phản_hồi để cơ_sở khám bệnh , chữa bệnh biết được kết_quả gửi , tiếp_nhận dữ_liệu điện_tử đó ;
+
+b ) Trong thời_gian 07 ( bảy ) ngày làm_việc , kể từ ngày tiếp_nhận được dữ_liệu điện_tử đề_nghị giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế , Cổng Thông_tin giám_định bảo_hiểm y_tế phải thông_báo chi_tiết kết_quả giám_định dữ_liệu điện_tử đề_nghị giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế đó ;
+
+c ) Trường_hợp dữ_liệu điện_tử đề_nghị giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế bị cảnh_báo hoặc bị từ_chối thanh_toán hoặc vừa bị cảnh_báo vừa bị từ_chối giám_định , thanh_toán thì Cổng Thông_tin giám_định bảo_hiểm y_tế phải thông_báo chi_tiết lỗi cảnh_báo hoặc lỗi bị từ_chối theo từng trường thông_tin của mỗi bảng Xml để cơ_sở khám bệnh , chữa bệnh biết , hoàn_chỉnh kịp_thời .
+
+Điều 8 . Trường_hợp gửi dữ_liệu điện_tử chậm so với thời_gian quy_định
+
+1 . Dữ_liệu điện_tử phục_vụ quản_lí và giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế được phép gửi chậm so với quy_định tại Thông_tư này trong các trường_hợp sau đây :
+
+a ) Do sự_cố khách_quan , bất_khả_kháng gây ra mà hệ_thống hạ_tầng kĩ_thuật công_nghệ thông_tin không đáp_ứng được việc trích chuyển hoặc tiếp_nhận dữ_liệu điện_tử .
+
+b ) Hệ_thống hạ_tầng kĩ_thuật công_nghệ thông_tin không đáp_ứng được việc trích chuyển hoặc tiếp_nhận dữ_liệu điện_tử do không có điện , không có đường truyền Internet .
+
+2 . Khi có sự_cố khách_quan , bất_khả_kháng quy_định tại điểm a khoản 1 Điều này xảy ra từ phía cơ_sở khám bệnh , chữa bệnh gửi dữ_liệu điện_tử hoặc từ phía cơ_quan tiếp_nhận dữ_liệu điện_tử thì bên xảy ra sự_cố có trách_nhiệm thông_báo ngay cho phía bên kia biết nguyên_nhân gây ra sự_cố . Việc thông_báo được thực_hiện bằng điện_thoại hoặc thư điện_tử ( e - mail ) hoặc bằng văn_bản . Dữ_liệu điện_tử tiếp_tục được gửi , nhận ngay sau khi sự_cố đã được sửa_chữa , khắc_phục .
+
+3 . Trường_hợp do các nguyên_nhân như quy_định tại điểm b khoản 1 Điều này thì việc sử_dụng hình_thức , thời_gian gửi dữ_liệu điện_tử do Thủ_trưởng cơ_sở khám bệnh , chữa bệnh và thủ_trưởng cơ_quan Bảo_hiểm xã_hội kí hợp_đồng khám bệnh , chữa bệnh bảo_hiểm y_tế với cơ_sở khám bệnh , chữa bệnh đó Quyết_định và phải được ghi rõ trong hợp_đồng khám bệnh , chữa bệnh bảo_hiểm y_tế , đồng_thời thủ_trưởng cơ_sở khám bệnh , chữa bệnh và thủ_trưởng cơ_quan bảo_hiểm xã_hội có trách_nhiệm báo_cáo bằng văn_bản với cơ_quan quản_lí trực_tiếp .
+
+Điều 9 . Bảo_mật và quản_lí dữ_liệu
+
+1 . Việc gửi , truyền , tiếp_nhận , phản_hồi , trao_đổi và quản_lí dữ_liệu điện_tử quy_định tại Thông_tư này phải được bảo_mật và quản_lí theo các quy_định của pháp_luật về công_nghệ thông_tin , an_toàn thông_tin mạng , khám bệnh , chữa bệnh và các quy_định khác của pháp_luật .
+
+2 . Ngoài việc thực_hiện quy_định tại khoản 1 Điều này , các cơ_quan , chức , cá_nhân tham_gia việc gửi , truyền , tiếp_nhận , phản_hồi , trao_đổi và quản dữ_liệu điện_tử có trách_nhiệm :
+
+a ) Bảo_đảm an_toàn , bảo_mật , chính_xác , toàn_vẹn của dữ_liệu điện_tử và sử_dụng dữ_liệu điện_tử trong phạm_vi chức_năng , nhiệm_vụ , quyền_hạn của mình ; phối_hợp với các cơ_quan , tổ_chức , cá_nhân có liên_quan thực_hiện các biện_pháp kĩ_thuật cần_thiết để bảo_đảm tính xác_thực của dữ_liệu , tính bảo_mật , an_toàn của hệ_thống ;
+
+b ) Tuân_thủ các quy_định của pháp_luật và thủ_tục về bảo_đảm tính riêng_tư của thông_tin y_tế trên môi_trường mạng .
+
+Chương_iii
+
+Trách_nhiệm Thực_hiện
+
+Điều 10 . Trách_nhiệm của Bộ Y_tế
+
+1 . Chỉ_đạo , hướng_dẫn , kiểm_tra việc trích chuyển dữ_liệu điện_tử khám bệnh , chữa bệnh bảo_hiểm y_tế và giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế đối_với các Sở Y_tế , y_tế các Bộ , ngành , các cơ_sở khám bệnh , chữa bệnh bảo_hiểm y_tế và cơ_quan tiếp_nhận , quản_lí dữ_liệu điện_tử .
+
+2 . Chủ_trì , phối_hợp với Bảo_hiểm xã_hội Việt_nam và các cơ_quan , tổ_chức , cá_nhân có liên_quan trong việc :
+
+a ) Xây_dựng , cập_nhật , điều_chỉnh , sửa_đổi , bổ_sung Danh_mục dùng chung , định_dạng và chuẩn dữ_liệu đầu_ra và các quy_định khác liên_quan để tổ_chức triển_khai thực_hiện Thông_tư này ;
+
+b ) Quy_định việc trích chuyển , tiếp_nhận , phản_hồi , giám_định dữ_liệu điện_tử khám bệnh , chữa bệnh bảo_hiểm y_tế của một_số trường_hợp đặc_biệt :
+
+c ) Xây_dựng hệ_thống thông_tin liên_quan đến quản_lí khám bệnh , chữa bệnh bảo_hiểm y_tế và ban_hành các văn_bản hướng_dẫn thực_hiện ;
+
+d ) Tiếp_nhận , giải_quyết các vướng_mắc , phát_sinh trong quá_trình thực_hiện .
+
+3 . Bảo_đảm tiếp_nhận , quản_lý , khai_thác sử_dụng dữ_liệu khám bệnh , chữa bệnh bảo_hiểm Y_tế và các dữ_liệu khác phục_vụ quản_lí nhà_nước tại Cổng Tiếp_nhận dữ_liệu y_tế của Bộ Y_tế .
+
+4 . Phân_công các Vụ , Cục , đơn_vị có liên_quan thuộc , trực_thuộc Bộ Y_tế triển_khai các công_việc để đáp_ứng công_tác quản_lí và giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế .
+
+Điều 11 . Trách_nhiệm của Bảo_hiểm xã_hội Việt_nam
+
+1 . Bảo_đảm nhân_lực , hệ_thống hạ_tầng máy_chủ , máy trạm , đường truyền , hệ_thống các phần_mềm , cơ_sở dữ_liệu thẻ bảo_hiểm y_tế , Cổng Thông_tin giám_định bảo_hiểm y_tế để đáp_ứng yêu_cầu tra_cứu thông_tin khám bệnh , chữa bệnh bảo_hiểm y_tế , quản_lí thông tuyến và tiếp_nhận , phản_hồi , bảo_mật dữ_liệu điện_tử đề_nghị giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế từ cơ_sở khám bệnh , chữa bệnh gửi đến cơ_quan bảo_hiểm xã_hội nhanh_chóng , đầy_đủ , chính_xác .
+
+2 . Áp_dụng đúng , đầy_đủ bộ mã danh_mục dùng chung , quy_định về chuẩn và định_dạng dữ_liệu đầu_ra do Bộ_trưởng Bộ Y_tế ban_hành , đáp_ứng yêu_cầu tiếp_nhận , quản_lí dữ_liệu điện_tử từ các cơ_sở khám bệnh , chữa bệnh gửi đến để giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế .
+
+3 . Cung_cấp danh_mục dùng chung mà Bảo_hiểm xã_hội Việt_nam xây_dựng hoặc đề_xuất xây_dựng , bổ_sung để Bộ_trưởng Bộ Y_tế ban_hành chính_thức .
+
+4 . Xây_dựng , ban_hành và công_bố cơ_sở dữ_liệu thẻ bảo_hiểm y_tế , quy_trình , quy_tắc giám_định điện_tử trên hệ_thống phần_mềm bảo_đảm hệ_thống giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế kết_nối liên_thông với hệ_thống phần_mềm quản_lí khám bệnh , chữa bệnh bảo_hiểm y_tế tại các cơ_sở khám bệnh , chữa bệnh và chịu trách_nhiệm về tình_trạng , tính chính_xác , bảo_mật , an_toàn , an_ninh của cơ_sở dữ_liệu thông_tin thẻ bảo_hiểm y_tế và dữ_liệu điện_tử của người đến khám bệnh , chữa bệnh bảo_hiểm y_tế đã được chuyển lên Cổng Thông_tin giám_định bảo_hiểm y_tế của cơ_quan bảo_hiểm xã_hội .
+
+5 . Chỉ_đạo bảo_hiểm xã_hội các cấp triển_khai thực_hiện Thông_tư này ; thanh_toán kịp_thời , đầy_đủ các chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế cho cơ_sở khám bệnh , chữa bệnh theo quy_định của pháp_luật .
+
+6 . Phối_hợp với Bộ Y_tế trong việc thực_hiện tin_học_hoá khám chữa bệnh bảo_hiểm y_tế và chia_sẻ đầy_đủ các thông_tin cần_thiết phục_vụ công_tác quản_lí nhà_nước của Bộ Y_tế và thực_hiện nhiệm_vụ được giao của Bảo_hiểm xã_hội Việt_nam .
+
+Điều 12 . Trách_nhiệm của Sở Y_tế các tỉnh , thành_phố trực_thuộc trung_ương và y_tế các Bộ , ngành
+
+1 . Tổ_chức triển_khai thực_hiện , chỉ_đạo , hướng_dẫn , kiểm_tra , đôn_đốc việc sử_dụng bộ mã danh_mục dùng chung và chuẩn , định_dạng dữ_liệu đầu_ra do Bộ_trưởng Bộ Y_tế ban_hành , bảo_đảm việc trích chuyển dữ_liệu điện_tử phục_vụ quản_lí khám bệnh , chữa bệnh và giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế tại các cơ_sở khám bệnh , chữa bệnh thuộc quyền quản_lý , bảo_đảm đúng quy_định tại Thông_tư này .
+
+2 . Khai_thác , sử_dụng cơ_sở dữ_liệu điện_tử trên Cổng Thông_tin giám_định bảo_hiểm y_tế và Cổng Tiếp_nhận dữ_liệu y_tế của Bộ Y_tế để phục_vụ công_tác quản_lí theo chức_năng , nhiệm_vụ , phân_cấp được giao . Trong quá_trình khai_thác , sử_dụng cơ_sở dữ_liệu điện_tử phải bảo_đảm_bảo_mật thông_tin , dữ_liệu khám bệnh , chữa bệnh của người_bệnh theo các quy_định của pháp_luật về công_nghệ thông_tin , an_toàn thông_tin mạng , khám bệnh , chữa bệnh và các quy_định khác của pháp_luật .
+
+3 . Chủ_trì , phối_hợp với các cơ_quan liên_quan giải_quyết các vướng_mắc phát_sinh trong quá_trình tổ_chức thực_hiện Thông_tư này . Trường_hợp không giải_quyết được thì kịp_thời báo_cáo cấp có thẩm_quyền xem_xét , giải_quyết .
+
+Điều 13 . Trách_nhiệm của cơ_sở khám bệnh , chữa bệnh
+
+1 . Thực_hiện việc sử_dụng Bộ mã Danh_mục dùng chung ; Chuẩn và định_dạng dữ_liệu đầu_ra ; Xác_thực điện_tử do Bộ_trưởng Bộ Y_tế ban_hành , bảo_đảm việc trích chuyển dữ_liệu điện_tử kịp_thời , đầy_đủ , chính_xác , phản_ánh trung_thực quá_trình khám bệnh , chữa bệnh tại cơ_sở để phục_vụ công_tác quản_lí khám bệnh , chữa bệnh và giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế .
+
+2 . Tra_cứu thông_tin thẻ bảo_hiểm Y_tế của người đến khám bệnh , chữa bệnh bảo_hiểm y_tế để bảo_đảm quyền_lợi của các bên liên_quan theo quy_định của pháp_luật ,
+
+3 . Chịu trách_nhiệm về tính chính_xác của dữ_liệu khám bệnh , chữa bệnh và bảo_mật thông_tin , dữ_liệu khám bệnh , chữa bệnh của người_bệnh theo các quy_định của pháp_luật .
+
+4 . Báo_cáo với cơ_quan quản_lí và cơ_quan bảo_hiểm xã_hội khi có thay_đổi về người được uỷ_quyền quản_lý , xác_thực điện_tử , sử_dụng tài_khoản đã được cấp liên_quan đến trích chuyển dữ_liệu điện_tử phục_vụ quản_lí khám bệnh , chữa bệnh và thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế .
+
+5 . Chấp_hành sự chỉ_đạo , kiểm_tra , thanh_tra , giám_sát của các cơ_quan có thẩm_quyền theo quy_định của pháp_luật .
+
+6 . Ký xác_nhận chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế tại cơ_sở khám bệnh , chữa bệnh trong trường_hợp người_bệnh hoặc người đại_diện của người_bệnh không làm thủ_tục thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế để gửi cơ_quan bảo_hiểm xã_hội . Thủ_trưởng cơ_sở khám bệnh , chữa bệnh chịu trách_nhiệm pháp_lí về việc kí xác_nhận và dữ_liệu điện_tử gửi đi .
+
+7 . Trích chuyển ngay dữ_liệu điện_tử theo quy_định tại Điều 6 , Điều 7 Thông_tư này vào ngày làm_việc hành_chính tiếp_theo liền kề trong trường_hợp cơ_sở khám bệnh , chữa bệnh kết_thúc lần khám bệnh hoặc kết_thúc đợt điều_trị ngoại_trú hoặc kết_thúc đợt điều_trị nội_trú đối_với người_bệnh vào những ngày không tổ_chức khám bệnh , chữa bệnh bảo_hiểm y_tế thông_thường ( vào các ngày nghỉ , ngày lễ , ngày tết ) .
+
+8 . Gửi dữ_liệu điện_tử đề_nghị giám_định , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế được phép thực_hiện đồng_thời cùng thời_điểm gửi dữ_liệu điện_tử để phục_vụ quản_lí khám bệnh , chữa bệnh bảo_hiểm y_tế nếu cơ_sở khám bệnh , chữa bệnh thực_hiện được .
+
+9 . Được phép hiệu_chỉnh dữ_liệu điện_tử đã gửi đề_nghị thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế trong trường_hợp phát_hiện có sự sai_lệch , nhưng phải nêu rõ lí_do và thống_nhất với cơ_quan bảo_hiểm xã_hội .
+
+10 . Quy_định và thực_hiện việc cung_cấp , sử_dụng , lưu_trữ thông_tin y_tế trong các hoạt_động khám bệnh , chữa bệnh , thanh_toán chi_phí khám bệnh , chữa bệnh bảo_hiểm y_tế và các hoạt_động y_tế khác trên môi_trường mạng tại cơ_sở khám bệnh , chữa bệnh nhưng không trái với quy_định của pháp_luật .
+
+Chương_iv
+
+Điều_khoản Thi_hành
+
+Điều 14 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 3 năm 2018 .
+
+Điều 15 . Điều_khoản chuyển_tiếp
+
+Các cơ_sở khám bệnh , chữa bệnh do điều_kiện khách_quan mà chưa thể thực_hiện việc kết_nối với Cổng Tiếp_nhận dữ_liệu y_tế của Bộ Y_tế và Cổng Thông_tin giám_định bảo_hiểm y_tế thì chưa phải áp_dụng quy_định tại Thông_tư này .
+
+Trong quá_trình thực_hiện , nếu có khó_khăn , vướng_mắc , đề_nghị các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Y_tế ( Vụ Bảo_hiểm Y_tế ) để xem_xét , giải_quyết .

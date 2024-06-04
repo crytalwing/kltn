@@ -1,0 +1,535 @@
+Thông_tư số 16/2020/tt-btttt ngày 17 tháng 07 năm 2020 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều <LT rel="CC"> Luật tiêu_chuẩn và quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về chống sét cho các trạm viễn_thông và mạng cáp ngoại_vi viễn_thông .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về chống sét cho các trạm viễn_thông và mạng cáp ngoại_vi viễn_thông ( qcvn 32 : 2020 / bt ) .
+
+Điều 2 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 4 năm 2021 .
+
+2 . Quy_chuẩn kĩ_thuật quốc_gia về chống sét cho các trạm viễn_thông và mạng cáp ngoại_vi viễn_thông , Ký_hiệu Qcvn 32 : 2011 / bt quy_định tại Khoản 10 Điều 1 <TT rel="HHL"> Thông_tư số 10/2011/TT-BTTTT ngày 14 tháng 4 năm 2011 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_chuẩn kĩ_thuật quốc_gia về viễn_thông hết hiệu_lực thi_hành kể từ ngày 01 tháng 4 năm 2021 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 32 : 2020 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Chống Sét Cho Các Trạm Viễn_thông Và Mạng_cáp Ngoại_vi Viễn_thông
+
+National technical regulation on lightning protection for telecommunication stations and outside cable network
+
+Lời_nói_đầu
+
+Qcvn 32 : 2020 / bt thay_thế Qcvn 32 : 2011 / bt
+
+Các yêu_cầu kĩ_thuật và phương_pháp tính trong Qcvn 32 : 2020 / bt được xây_dựng trên cơ_sở tiêu_chuẩn Iec 62305 phần 1 , 2 , 3 ( 2010 ) , và các Khuyến_nghị K . 39 ( 1996 ) , K . 40 ( 2018 ) và K . 47 ( 2012 ) của Itu - t .
+
+Qcvn 32 : 2020 / bt do Viện Khoa_học Kỹ_thuật Bưu_điện biên_soạn , Vụ Khoa_học và Công_nghệ trình_duyệt , Bộ Khoa_học và công_nghệ thẩm_định , Bộ Thông_tin và Truyền_thông ban_hành kèm theo <TT rel="DC"> Thông_tư số 16/2020/TT-BTTTT ngày 17 tháng 7 năm 2020 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Chống Sét Cho Các Trạm Viễn_thông Và Mạng_cáp Ngoại_vi Viễn_thông
+
+National technical regulation on lightning protection for telecommunication stations and outside cable network
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn này được áp_dụng cho các trạm viễn_thông và mạng cáp ngoại_vi viễn_thông nhằm hạn_chế các thiệt_hại do sét gây ra , đảm_bảo_an_toàn cho con_người và khả_năng cung_cấp dịch_vụ viễn_thông và dịch_vụ ứng_dụng viễn_thông .
+
+Trạm viễn_thông trong quy_chuẩn này bao_gồm các công_trình sau :
+
+- Trung_tâm chuyển mạch , truyền_dẫn ;
+
+- Trung_tâm dữ_liệu ;
+
+- Trạm thu phát_sóng vô_tuyến_điện cố_định sử_dụng trong nghiệp_vụ vô_tuyến_điện cố_định , thông_tin di_động , hàng_không , hàng_hải , dẫn đường , định_vị , vệ_tinh , phát chuẩn , nghiệp_dư ;
+
+- Đài_phát_thanh , đài_truyền_hình .
+
+Quy_chuẩn kĩ_thuật quốc_gia này quy_định :
+
+- Rủi_ro thiệt_hại cho phép do sét gây ra đối_với trạm viễn_thông và mạng cáp ngoại_vi viễn_thông ;
+
+- Phương_pháp tính_toán tần_suất thiệt_hại do sét gây ra đối_với trạm viễn_thông và mạng cáp ngoại_vi viễn_thông ;
+
+- Các biện_pháp chống sét bảo_vệ trạm viễn_thông và mạng cáp ngoại_vi viễn_thông .
+
+1 . 2 . Tài_liệu viện_dẫn
+
+Qcvn 9 : 2016 / bt , Quy_chuẩn kĩ_thuật quốc_gia về tiếp đất cho các trạm viễn_thông .
+
+Tcvn 8071 : 2009 , Công_trình viễn_thông - Quy_tắc thực_hành chống sét và tiếp đất .
+
+1 . 3 . Giải_thích từ_ngữ và chữ_viết tắt
+
+1 . 3 . 1 . Diện_tích rủi_ro ( risk area )
+
+Diện_tích của miền bao quanh công_trình viễn_thông , khi sét đánh vào diện_tích này có_thể gây nguy_hiểm cho công_trình viễn_thông .
+
+1 . 3 . 2 . Dòng sét ( lightning current )
+
+Xung dòng_điện dải_tần_số thấp , xuất_hiện không có chu_kì nhất_định , tăng vọt đến giá_trị đỉnh , rồi giảm xuống đến giá_trị không . Các đặc_trưng của dòng sét là :
+
+- Giá_trị đỉnh ( biên_độ ) xung , I ;
+
+- Thời_gian sườn trước đạt giá_trị đỉnh , T1 ;
+
+- Thời_gian sườn sau giảm đến nửa giá_trị đỉnh , T2 ;
+
+- Dạng sóng dòng xung , T1 / t2 ;
+
+Hình 1 trình_bày dạng sóng dòng sét chuẩn và cách xác_định các thông_số dòng sét .
+
+Hình 1 - Dạng sóng dòng sét chuẩn
+
+1 . 3 . 3 . Điện_áp xung ( surge voltage )
+
+Điện_áp xung có các đặc_điểm đặc_trưng theo cách tương_tự như dòng xung . Hình 2 trình_bày dạng sóng điện_áp sét chuẩn và cách xác_định các thông_số điện_áp sét .
+
+Hình 2 - Dạng sóng điện_áp sét chuẩn
+
+1 . 3 . 4 . Dòng gây hư_hỏng ( cho cáp ) ( failure current ( for cable ) )
+
+Dòng sét nhỏ nhất gây hư_hỏng cho cáp viễn_thông , gây ra gián_đoạn dịch_vụ .
+
+1 . 3 . 5 . Dòng đánh thủng vỏ ( cáp ) ( sheath breakdown current ( cable ) )
+
+Dòng_điện nhỏ nhất chạy trong vỏ kim_loại của cáp , gây ra điện_áp đánh xuyên giữa các thành_phần kim_loại trong lõi cáp và vỏ kim_loại cáp , dẫn đến hư_hỏng cáp .
+
+1 . 3 . 6 . Dòng thử ( test current )
+
+Dòng_điện nhỏ nhất chạy trong vỏ kim_loại của cáp , gây ra hư_hỏng cho cáp do các tác_động_cơ hoặc nhiệt .
+
+1 . 3 . 7 . Dòng_điện mối nối ( đối_với cáp_quang ) ( electric current junction )
+
+Dòng_điện nhỏ nhất chạy trong các thành_phần kết_nối của cáp_quang , gây ra hư_hỏng cho cáp do các tác_động của cơ hoặc nhiệt .
+
+1 . 3 . 8 . Điện_áp đánh thủng ( breakdown voltage )
+
+Điện_áp xung đánh thủng giữa các thành_phần kim_loại trong lõi cáp và vỏ kim_loại của cáp .
+
+1 . 3 . 9 . Mạng_cáp ngoại_vi viễn_thông ( outside telecommunication cable network )
+
+Bộ_phận của mạng viễn_thông chủ_yếu nằm bên ngoài trạm viễn_thông , bao_gồm tất_cả các cáp viễn_thông được treo nổi , chôn trực_tiếp , đi trong cống bể , đi trong các đường_hầm .
+
+1 . 3 . 10 . Mật_độ sét ( ground flash density )
+
+Số lần sét đánh xuống một đơn_vị diện_tích mặt_đất trong một năm ( lấy bằng 1 km2 ) .
+
+1 . 3 . 11 . Mức Keraunic ( Keraunic level )
+
+Giá_trị ngày dông trung_bình trong một năm , lấy từ tổng_số ngày dông trong một chu_kì hoạt_động 12 năm liên_tục của mặt_trời , tại một trạm quan_trắc khí_tượng .
+
+1 . 3 . 12 . Ngày dông ( thunderstorm day )
+
+Ngày mà về đặc_trưng khí_tượng , người quan_trắc có_thể nghe rõ tiếng sấm .
+
+1 . 3 . 13 . Sét ( lightning )
+
+Hiện_tượng phóng_điện có tia lửa kèm theo tiếng nổ trong không_khí , nó có_thể xảy ra bên trong đám mây , giữa hai đám mây mang điện_tích trái dấu hoặc giữa đám mây_tích điện với đất . Các công_trình viễn_thông trong quá_trình khai_thác , chịu tác_động của sét như sau :
+
+- Tác_động do sét đánh trực_tiếp : là tác_động của dòng sét đánh trực_tiếp vào công_trình viễn_thông ;
+
+- Tác_động do sét lan_truyền và cảm_ứng : là tác_động thứ cấp của sét do các ảnh_hưởng tĩnh_điện , điện từ , ghép điện từ . . .
+
+1 . 3 . 14 . Tần_suất thiệt_hại ( number of damages due to flashes )
+
+Số lần sét đánh trung_bình hàng năm gây thiệt_hại cho công_trình viễn_thông .
+
+1 . 3 . 15 . Thiết_bị bảo_vệ xung ( surge protective device )
+
+Thiết_bị hạn_chế quá áp đột_biến và rẽ hướng các dòng xung .
+
+1 . 3 . 16 . Trở_kháng truyền_đạt ( trở_kháng ghép ) của vỏ che_chắn kim_loại của cáp ( metal shielded external , communication cables transfer impedance )
+
+Trở_kháng truyền_đạt ( trở_kháng ghép ) của vỏ che_chắn kim_loại của cáp là tỉ_số giữa điện_áp sụt từ mặt trong ra_mặt ngoài vỏ che_chắn kim_loại của cáp trên toàn_bộ dòng_điện chảy trong vỏ che_chắn kim_loại .
+
+1 . 3 . 17 . Vùng chống sét ( lightning protection zone )
+
+Vùng được phân_chia trong một khu_vực trạm viễn_thông , được đặc_trưng bởi mức_độ khắc_nghiệt của trường điện từ và ảnh_hưởng do sét gây nên .
+
+1 . 3 . 18 . Xác_suất thiệt_hại ( damage probability )
+
+Xác_suất một lần sét đánh gây thiệt_hại cho trạm viễn_thông và mạng cáp ngoại_vi viễn_thông .
+
+1 . 3 . 19 . Rủi_ro ( r ) ( Risk )
+
+Giá_trị trung_bình có_thể có của tổn_thất hàng năm ( về con_người và dịch_vụ ) do sét , tương_ứng với tổng giá_trị ( về con_người và dịch_vụ ) của đối_tượng được bảo_vệ .
+
+1 . 3 . 20 . Rủi_ro chấp_nhận được ( rt ) ( tolerable risk of damages )
+
+Giá_trị rủi_ro lớn nhất có_thể chấp_nhận được đối_với đối_tượng được bảo_vệ .
+
+1 . 3 . 21 . Mức bảo_vệ chống sét ( lpl ) ( Lightning Protection_level )
+
+Con_số liên_quan đến một tập_hợp các tham_số dòng sét tương_ứng với xác_suất mà các giá_trị thiết_kế lớn nhất và nhỏ nhất sẽ không bị vượt quá trong hiện_tượng sét đánh tự_nhiên .
+
+1 . 3 . 22 . Các biện_pháp_bảo_vệ ( protective solutions )
+
+Các biện_pháp được áp_dụng với đối_tượng cần bảo_vệ để làm giảm rủi_ro .
+
+1 . 3 . 23 . Hệ_thống bảo_vệ chống sét ( lps ) ( Lightning Protection_system )
+
+Là một hệ_thống hoàn_chỉnh được dùng để làm giảm các thiệt_hại vật_lí_do sét đánh vào trạm viễn_thông và mạng cáp ngoại_vi viễn_thông .
+
+1 . 3 . 24 . Hệ_thống bảo_vệ chống sét bên ngoài ( external lightning protection system )
+
+Phần của hệ_thống bảo_vệ chống sét bao_gồm hệ_thống điện_cực thu sét , hệ_thống dẫn sét xuống và hệ_thống điện_cực tiếp đất .
+
+1 . 3 . 25 . Hệ_thống bảo_vệ chống sét bên trong ( Internal lightning protection system )
+
+Phần của hệ_thống bảo_vệ chống sét bao_gồm các kết_nối đẳng_thế và / hoặc cách_điện với hệ_thống bảo_vệ chống sét bên ngoài .
+
+1 . 3 . 26 . Hệ_thống điện_cực thu sét ( air - termination system )
+
+Một phần của hệ_thống chống sét bên ngoài , sử_dụng các thành_phần kim_loại như thanh , các dây_dẫn dạng lưới nhằm mục_đích thu các tia sét .
+
+1 . 3 . 27 . Hệ_thống dẫn sét xuống ( down - conductor system )
+
+Một phần của hệ_thống chống sét bên ngoài , nhằm mục_đích dẫn dòng sét từ hệ_thống điện_cực thu sét xuống hệ_thống điện_cực tiếp đất .
+
+1 . 3 . 28 . Hệ_thống điện_cực tiếp đất ( earth - termination system )
+
+Một phần của hệ_thống chống sét bên ngoài , nhằm mục_đích dẫn và phân_tán dòng sét vào trong đất .
+
+1 . 3 . 29 . Các bộ_phận dẫn bên ngoài ( external conductive parts )
+
+Các bộ_phận kim_loại đi vào hoặc đi ra trạm viễn_thông và mạng cáp ngoại_vi viễn_thông cần bảo_vệ , như các hệ_thống đường_ống , cáp kim_loại , ống dẫn kim_loại . . . có_thể mang một phần dòng sét .
+
+1 . 3 . 30 . Kết_nối đẳng_thế ( equipotential bonding )
+
+Kết_nối với hệ_thống bảo_vệ chống sét của các bộ_phận kim_loại tách_biệt , bằng các kết_nối trực_tiếp hoặc qua các thiết_bị bảo_vệ xung , để làm giảm chênh_lệch điện_thế do dòng sét gây ra .
+
+1 . 3 . 31 . Dây che_chắn ( shielding wire )
+
+Dây kim_loại dùng để làm giảm thiệt_hại vật_lí_do sét đánh xuống đường_dây viễn_thông .
+
+1 . 3 . 32 . Hệ_thống các biện_pháp_bảo_vệ chống xung_điện từ do sét ( lpms ) ( le mp protection measures system )
+
+Một hệ_thống hoàn_chỉnh của các biện_pháp_bảo_vệ chống lại xung_điện từ do sét ( le mp ) cho các hệ_thống lắp_đặt bên trong công_trình .
+
+1 . 3 . 33 . Trạm viễn_thông ( telecommunication station )
+
+Một khu_vực bao_gồm một hoặc nhiều nhà trạm trong đó chứa các thiết_bị viễn_thông , cột cao ăng ten và các loại trang thiết_bị phụ_trợ để cung_cấp dịch_vụ viễn_thông , dịch_vụ ứng_dụng viễn_thông . Trạm viễn_thông không bao_gồm nhà và các thiết_bị nhà thuê_bao .
+
+1 . 3 . 34 . Công_trình viễn_thông ( telecommunication plant )
+
+Công_trình xây_dựng , bao_gồm hạ_tầng kĩ_thuật viễn_thông thụ_động ( nhà , trạm , cột , cống , bể ) và thiết_bị mạng được lắp_đặt vào đó .
+
+1 . 3 . 35 . Nhà trạm viễn_thông ( telecommunication building )
+
+Nhà trong đó đặt hệ_thống_thiết_bị viễn_thông .
+
+1 . 3 . 36 . Chữ_viết tắt
+
+1 . 4 . Quy_trình quản_lí rủi_ro thiệt_hại do sét
+
+Việc xác_định cần_thiết trang_bị các biện_pháp_bảo_vệ chống sét cho trạm viễn_thông và mạng ngoại_vi viễn_thông phải được thông_qua quy_trình quản_lí rủi_ro như sau :
+
+Hình 3 - Quy_trình quản_lí rủi_ro thiệt_hại do sét
+
+1 . 5 . Tiêu_chí cơ_bản về bảo_vệ chống sét
+
+1 . 5 . 1 . Mức bảo_vệ chống sét
+
+Quy_chuẩn này quy_định 4 mức bảo_vệ chống sét . Với mỗi mức Lpl , một tập_hợp các tham_số dòng sét được ấn_định .
+
+Giá_trị lớn nhất của tham_số dòng sét tương_ứng với mức Lpl I sẽ không bị vượt quá với xác_suất là 99 % .
+
+Giá_trị lớn nhất của tham_số sét tương_ứng với Lpl I sẽ giảm xuống tới 75 % đối_với Lpl_ii và 50 % đối_với các mức Iii và Iv .
+
+Bảng 1 - Giá_trị tham_số dòng sét theo Lpl
+
+Các giá_trị lớn nhất và nhỏ nhất của các tham_số dòng sét đối_với các mức bảo_vệ chống sét khác nhau trong Bảng 1 và được sử_dụng để thiết_kế các thành_phần của hệ_thống bảo_vệ chống sét ( ví_dụ , thiết diện dây_dẫn , độ dày của vỏ kim_loại , khả_năng chịu dòng của Spd , khoảng_cách cách_li để tránh đánh lửa gây nguy_hiểm ) .
+
+Các giá_trị nhỏ nhất của biên_độ dòng sét đối_với các Lpl khác nhau được sử_dụng để xác_định bán_kính quả cầu_lăn để xác_định vùng bảo_vệ Lpz 0b mà sét đánh trực_tiếp không tiếp_cận được ( xem 1 . 5 . 2 và Hình 4 ) . Giá_trị nhỏ nhất của tham_số dòng sét cùng với bán_kính quả cầu_lăn tương_ứng được cho trong Bảng 2 . Các số_liệu này dùng để định_vị hệ_thống điện_cực thu sét và xác_định vùng bảo_vệ chống sét Lpz 0b ( xem 1 . 5 . 2 )
+
+Bảng 2 - Giá_trị nhỏ nhất của dòng sét và bán_kính quả cầu_lăn tương_ứng với Lpl
+
+1 . 5 . 2 . Vùng bảo_vệ chống sét
+
+Các biện_pháp_bảo_vệ như Lps , các dây che_chắn , che_chắn điện từ và Spd sẽ Quyết_định các vùng bảo_vệ chống sét . Việc phân_biệt các vùng bảo_vệ chống sét được đặc_trưng bởi sự chênh_lệch đáng_kể của xung_điện từ do sét tại các vùng bảo_vệ .
+
+Tuỳ theo mức_độ ảnh_hưởng của sét , các vùng bảo_vệ chống sét được định_nghĩa :
+
+Chú_thích 1 : Nói_chung , mức của một Lpz càng cao thì các tham_số môi_trường điện_từ càng thấp .
+
+Nguyên_tắc chung của việc bảo_vệ là , đối_tượng cần bảo_vệ phải nằm trong vùng Lpz có các đặc_tính về điện từ tương_thích với khả_năng của chịu_đựng của đối_tượng với tác_động do sét gây ra thiệt_hại cần phải giảm bớt ( thiệt_hại vật_lý , hư_hỏng các hệ_thống điện và điện_tử do quá áp ) .
+
+Hình 4 - Minh_hoạ phân_vùng chống sét Lpz tại trạm viễn_thông
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Yêu_cầu về rủi_ro do sét gây ra
+
+2 . 1 . 1 . Yêu_cầu đối_với trạm viễn_thông
+
+Trạm viễn_thông phải được trang_bị các biện_pháp_bảo_vệ sao cho giá_trị rủi_ro không được vượt quá giá_trị rủi_ro chấp_nhận được sau :
+
+Bảng 3 - Giá_trị rủi_ro chấp_nhận được đối_với trạm viễn_thông
+
+2 . 1 . 2 . Yêu_cầu đối_với mạng cáp ngoại_vi viễn_thông
+
+Mạng_cáp ngoại_vi viễn_thông phải được trang_bị các biện_pháp_bảo_vệ sao cho giá_trị rủi_ro không được vượt quá giá_trị rủi_ro chấp_nhận được sau :
+
+Bảng 4 - Giá_trị rủi_ro chấp_nhận được đối_với mạng cáp ngoại_vi viễn_thông
+
+Chú_thích : Đối_với các cáp ngoại_vi viễn_thông , không xét đến rủi_ro tổn_thất về con_người .
+
+Phương_pháp tính_toán rủi_ro do sét gây ra đối_với trạm viễn_thông và mạng cáp ngoại_vi viễn_thông được trình_bày trong 2 . 2 .
+
+2 . 2 . Phương_pháp tính_toán rủi_ro do sét
+
+2 . 2 . 1 . Tính_toán rủi_ro do sét gây ra đối_với trạm viễn_thông
+
+Rủi_ro do sét gây ra đối_với trạm viễn_thông được tính theo công_thức sau :
+
+Rinjury = L . pinj Fj . ( 2 . 1 )
+
+Rlos = L_Fi ( 2 . 2 )
+
+Trong đó :
+
+Fi : Tần_suất thiệt_hại do sét gây ra đối_với nhà trạm , do các nguyên_nhân sét đánh trực_tiếp vào nhà trạm , sét đánh vào cột ăng ten kề bên , sét đánh xuống đất gần nhà trạm , sét lan_truyền qua các đường_dây đi vào nhà trạm ; được tính_toán theo 2 . 2 . 1 . 1 .
+
+L : Trọng số tổn_thất , thể_hiện mức_độ tổn_thất trong một lần thiệt_hại do sét gây ra đối_với nhà trạm .
+
+- Với rủi_ro tổn_thất về con_người : L = 1 ;
+
+- Với rủi_ro tổn_thất về dịch_vụ L = 2 . 74 x 10-3.
+
+Pinj : xác_suất giảm nhỏ thiệt_hại cho con_người , do các biện_pháp_bảo_vệ trong Bảng 8 và Bảng 9 .
+
+2 . 2 . 1 . 1 . Tính_toán tần_suất thiệt_hại do sét gây ra đối_với khu_vực trạm viễn_thông
+
+Tần_suất thiệt_hại ( f ) tại một trạm viễn_thông với mật_độ sét của khu_vực đặt trạm ( Ng ) khi xét đến hiệu_quả của các biện_pháp_bảo_vệ vốn có hoặc bổ_sung , được xác_định bằng công_thức :
+
+F = Ng ( Ad . pd + An . pn + As . ps + Aa . pa ) ( 2 . 3 )
+
+Hay :
+
+F = Fd + Fn + Fs + Fa ( 2 . 4 )
+
+Trong đó :
+
+Ng : Mật_độ sét đánh tại khu_vực đặt trạm , được tính tuỳ theo khu_vực địa_lý , xem Bảng E1 , Phụ_lục E .
+
+p : Các hệ_số xác_suất thiệt_hại khác nhau phụ_thuộc vào các biện_pháp_bảo_vệ hiện có nhằm làm giảm tần_suất thiệt_hại ( f ) , xem 2 . 2 . 1 . 2 ;
+
+Fd = Ng . Ad . pd - Tần_suất thiệt_hại do sét đánh trực_tiếp vào nhà trạm ( d ) ;
+
+Fn = Ng . An . pn - Tần_suất thiệt_hại do sét đánh xuống đất gần khu_vực trạm ( n ) ;
+
+Fs = Ng . As . ps - Tần_suất thiệt_hại do sét đánh vào cáp hoặc vùng lân_cận cáp dẫn vào trạm ( s ) ;
+
+Fa = Ng . Aa . pa - Tần_suất thiệt_hại do sét đánh trực_tiếp vào các vật ở gần , ví_dụ cột ăng ten có liên_kết bằng kim_loại với trạm viễn_thông ( a ) .
+
+Ad - Diện_tích rủi_ro sét đánh trực_tiếp vào trạm viễn_thông :
+
+Ad = ( 9 h2 + 6ah + 6bh + ab ) x10 - 6 , km2 ( 2 . 5 )
+
+Trong đó :
+
+a : Chiều rộng của trạm viễn_thông , m ;
+
+b : Chiều_dài của trạm viễn_thông , m ;
+
+h : Chiều cao của nhà trạm , m .
+
+Trong trường_hợp diện_tích rủi_ro sét đánh trực_tiếp vào cột ăng ten che_phủ một phần diện_tích rủi_ro sét đánh trực_tiếp vào nhà trạm , diện_tích Ad được giảm đi phần bị che_phủ đó .
+
+An - Diện_tích rủi_ro do sét đánh xuống đất cạnh nhà trạm viễn_thông làm tăng thế đất ảnh_hưởng đến trạm viên thông . An được tính bằng diện_tích của một vùng tạo bởi một đường cách nhà trạm viễn_thông một khoảng_cách d = 500 m , trừ đi diện_tích rủi_ro do sét đánh trực_tiếp vào nhà trạm Ad .
+
+Nơi nào có các vật ở gần như các công_trình xây_dựng cao khác ( ví_dụ : cột ăng ten , nhà cao_tầng ) và các cáp dẫn vào thì diện_tích An sẽ được giảm đi bởi phần diện_tích rủi_ro che_phủ của các công_trình đó , như minh_hoạ trên Hình 5 .
+
+As - Diện_tích rủi_ro do sét đánh xuống các đường cáp ( thông_tin , điện_lực ) dẫn vào nhà trạm viễn_thông . Trường_hợp tổng_quát , cáp dẫn vào nhà trạm viễn_thông gồm các loại treo và chôn , diện_tích As được tính bằng công_thức :
+
+As = 2 . ( 2 . 6 )
+
+Trong đó :
+
+li : Chiều_dài của mỗi đoạn đường_dây , m ;
+
+di : Khoảng_cách tương_ứng của mỗi đoạn , m ;
+
+- Đối_với cáp treo , di = 1 000 m ;
+
+- Đối_với cáp ngầm , di = 250 m ;
+
+n : Số đoạn đường_dây chôn_ngầm hoặc treo nổi ;
+
+Aa : Diện_tích rủi_ro sét đánh trực_tiếp vào cột ăng ten có liên_kết bằng kim_loại với nhà trạm .
+
+- Đối_với cột ăng ten có dạng tháp , diện_tích Aa được tính tương_tự như Ad ;
+
+- Đối_với cột ăng ten là cột_trụ tròn , cột tam_giác , cột tứ_giác có dây co và kích_thước nhỏ , Aa được tính bằng diện_tích hình_tròn bán_kính 3 h ( h là chiều cao cột ăng ten )
+
+Aa = ( 3h ) 2 .
+
+Diện_tích rủi_ro do sét đánh vào khu_vực trạm viễn_thông được mô_tả theo Hình 5 .
+
+Hình 5 - Mô_tả các diện_tích rủi_ro sét đánh vào khu_vực trạm viễn_thông
+
+2 . 2 . 1 . 2 . Xác_định các hệ_số xác_suất thiệt_hại p
+
+Mỗi hệ_số xác_suất thiệt_hại p thể_hiện khả_năng làm giảm số thiệt_hại do sét của đặc_tính bảo_vệ tự_nhiên của công_trình lắp_đặt ( vật_liệu nhà , mạng cáp treo nổi hoặc ngầm ) và các biện_pháp_bảo_vệ cho nhà hoặc tại các giao_diện cũng như các biện_pháp_bảo_vệ khác cả bên trong và bên ngoài ( các thiết_bị chống sét , lưới che_chắn cáp , kĩ_thuật cách_điện . . . ) . Trong thiết_kế chống sét , khi áp_dụng một biện_pháp_bảo_vệ sẽ giảm nhỏ xác_suất hư_hỏng do sét đánh tương_ứng , thể_hiện qua các hệ_số p .
+
+Nếu áp_dụng một_vài biện_pháp_bảo_vệ cho một đối_tượng thì hệ_số xác_suất thực_sự sẽ bằng tích các giá_trị riêng_rẽ , có_nghĩa_là :
+
+pt = pi , ( với pi 1 ) .
+
+Các giá_trị hệ_số p được trình_bày trong các bảng từ Bảng 5 đến Bảng 9 .
+
+Bảng 5 - Các trị_số p cho các vật_liệu xây_dựng nhà trạm viễn_thông
+
+Bảng 6 - Các trị_số p cho các biện_pháp_bảo_vệ bên ngoài nhà trạm viễn_thông
+
+Chú_thích : pinj là hệ_số xác_suất gây tổn_thương cho con_người
+
+Bảng 7 - Các trị_số p cho các biện_pháp_bảo_vệ trên cáp dẫn vào trạm viễn_thông
+
+Bảng 8 - Các trị_số p cho các biện_pháp_bảo_vệ bên trong nhà trạm viễn_thông
+
+Bảng 9 - Các trị_số p cho các lớp bề_mặt sàn khác nhau để làm giảm điện_áp chạm và điện_áp bước
+
+2 . 2 . 2 . Tính_toán rủi_ro do sét gây ra đối_với mạng cáp ngoại_vi viễn_thông
+
+Xét trường_hợp tổng_quát , tuyến cáp ( cáp kim_loại hoặc cáp_quang có thành_phần kim_loại ) bao_gồm các đoạn chôn_ngầm và treo . Rủi_ro thiệt_hại ( r ) cần xem_xét là rủi_ro tổn_thất dịch_vụ hàng năm do sét đánh trực_tiếp . Rủi_ro thiệt_hại được tính bằng công_thức :
+
+R = Fpa x La + Fpb x Lb + Fps x Ls ( 2 . 7 )
+
+Trong đó :
+
+Fpa : Tần_suất thiệt_hại đối_với đoạn cáp treo ;
+
+Fpb : Tần_suất thiệt_hại đối_với đoạn cáp chôn_ngầm ;
+
+Fps : Tần_suất thiệt_hại do sét đánh trực_tiếp vào kết_cấu nơi cáp đi vào ;
+
+La : Lượng tổn_thất trong một lần thiệt_hại do sét đánh trực_tiếp vào cáp treo ;
+
+Lb : Lượng tổn_thất trong một lần thiệt_hại do sét đánh trực_tiếp vào cáp chôn_ngầm ;
+
+Ls : Lượng tổn_thất trong một lần thiệt_hại do sét đánh trực_tiếp vào kết_cấu mà cáp đi vào .
+
+- Đối_với tuyến cáp kim_loại :
+
+La = 2 x 10-3;
+
+Lb = 3 x 10-3;
+
+Ls = 2 x 10-3.
+
+- Đối_với tuyến cáp_quang :
+
+La = Lb = Ls = 10-3;
+
+2 . 2 . 2 . 1 . Tần_suất thiệt_hại đối_với đoạn cáp treo và chôn_ngầm
+
+Tần_suất thiệt_hại đối_với đoạn cáp treo và chôn_ngầm được tính bằng công_thức :
+
+Fpa = 2 x Ng x [ l - 3 ( Ha + Hb ) ] x D x p ( la ) x Cd_x 10-6, ( thiệt_hại / năm ) ( 2 . 7 )
+
+Fpb = 2 x Ng x [ l - 3 ( Ha + Hb ) ] x D x p ( la ) x Cd x Kd_x 10-6, ( thiệt_hại / năm ) ( 2 . 8 )
+
+Trong đó :
+
+L : Độ dài đường_dây , ( m ) ;
+
+Ha : chiều cao của công_trình nối với đầu a của đường_dây , ( m ) ;
+
+Hb : chiều cao của công_trình nối với đầu b của đường_dây , ( m ) ;
+
+p ( la ) : Hệ_số xác_suất dòng gây hư_hỏng , được tính bằng công_thức :
+
+p ( i ) = 10-2 e ( a - bi ) với y 0
+
+a = 4 , 605 và b = 0 , 0117 với y 20 kA
+
+a = 5 , 063 và b = 0 , 0346 với y > 20 kA
+
+Cd : Hệ_số vị_trí ;
+
+Bảng 10 - Hệ_số vị_trí lắp_đặt
+
+Ng : Mật_độ sét , ( km - 2 . năm - 1 ) ( xem Phụ_lục E ) ;
+
+D : Khoảng_cách sét đánh , ( m ) ;
+
+- Với cáp chôn :
+
+D = 0 , 482 ( p ) 1 / 2 với p 100 . m ;
+
+D = 2 , 91 + 0 , 191 ( p ) 1 / 2 với 100 . m < p < 1000 . m ;
+
+D = 0 , 283 ( p ) 1 / 2 với p > 1000 . m ;
+
+- Với cáp treo :
+
+D = 3 H , ( m ) ; H là độ cao treo cáp ( thường được quy_định giữa 4 m đến 15 m ) ;
+
+la : Dòng gây hư_hỏng , ( kA ) ( xem Phụ_lục C . 1 ) ;
+
+Kd : Hệ_số hiệu_chỉnh thiệt_hại ;
+
+Kd = 2 , 5 với cáp chôn không được che_chắn ;
+
+Kd = 1 , 0 với cáp chôn được che_chắn ;
+
+2 . 2 . 2 . 2 . Tần_suất thiệt_hại do sét đánh trực_tiếp vào công_trình mà cáp đi vào ( Fps )
+
+Tần_suất thiệt_hại do sét đánh trực_tiếp vào công_trình gây ra cho cáp được tính bằng công_thức :
+
+Fps = Ng . Ad . p ( la ) . Cd ( thiệt_hại / năm ) ; ( 2 . 9 )
+
+Trong đó :
+
+Ad : Diện_tích rủi_ro sét đánh vào kết_cấu , được tính bằng công_thức :
+
+Ad = ( 9 h2 + 6ah + 6bh + ab ) 10-6, ( km2 ) ;
+
+Trong đó : a = chiều dài , ( m ) ;
+
+b = chiều rộng , ( m ) ;
+
+c = chiều cao , ( m ) ;
+
+p ( la ) : Xác_suất biên_độ dòng sét đánh vào kết_cấu_tạo ra dòng_điện gây hư_hỏng cáp ;
+
+la : Dòng gây hư_hỏng cáp , xem Phụ_lục C . 2 .
+
+3 . Quy_định Về Quản_lý
+
+Trạm viễn_thông và mạng cáp ngoại_vi viễn_thông_thuộc phạm_vi điều_chỉnh tại điều 1 . 1 phải tuân_thủ các yêu_cầu về quy_định kĩ_thuật tại Quy_chuẩn này .
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+4 . 1 . Các cơ_quan , doanh_nghiệp có trạm viễn_thông và mạng cáp ngoại_vi viễn_thông có trách_nhiệm :
+
+- Đảm_bảo các trạm viễn_thông và mạng cáp ngoại_vi viễn_thông phù_hợp với Quy_chuẩn trong quá_trình thiết_kế , lắp_đặt , vận_hành , bảo_dưỡng .
+
+- Thực_hiện công_bố hợp quy chỉ_tiêu mức rủi_ro do sét gây ra cho trạm viễn_thông phải nhỏ hơn hoặc bằng mức quy_định tương_ứng trong Quy_chuẩn này . Việc công_bố hợp quy thực_hiện theo <TT rel="DC"> Thông_tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 </TT> của Bộ Khoa_học và Công_nghệ và <TT rel="DC"> Thông_tư số 02/2017/TT-BKHCN ngày 31 tháng 3 năm 2017 </TT> sửa_đổi , bổ_sung một_số điều của <TT rel="DC"> Thông_tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 </TT> .
+
+4 . 2 . Cục Viễn_thông có trách_nhiệm tiếp_nhận đăng_kí công_bố hợp quy , thực_hiện quản_lý , hướng_dẫn và kiểm_tra việc công_bố hợp quy .
+
+5 . Tổ_chức Thực_hiện
+
+5 . 1 . Cục Viễn_thông và các Sở Thông_tin và Truyền_thông có trách_nhiệm hướng_dẫn và tổ_chức triển_khai quản_lí các trạm viễn_thông và mạng cáp ngoại_vi viễn_thông theo Quy_chuẩn này .
+
+5 . 2 . Quy_chuẩn này thay_thế cho Qcvn 32 : 2011 / bt Quy_chuẩn kĩ_thuật quốc_gia về chống sét cho các trạm viễn_thông và mạng cáp ngoại_vi viễn_thông .
+
+5 . 3 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới nhất .
+
+5 . 4 . Trong quá_trình triển_khai thực_hiện quy_chuẩn này , nếu có vấn_đề phát_sinh , vướng_mắc , các tổ_chức và cá_nhân có liên_quan phản_ánh bằng văn_bản về Bộ Thông_tin và Truyền_thông ( Vụ Khoa_học và Công_nghệ ) để được hướng_dẫn , giải_quyết . / .

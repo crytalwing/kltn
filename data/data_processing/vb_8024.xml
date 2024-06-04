@@ -1,0 +1,85 @@
+Thông_tư số 54/2017/tt-byt ngày 29 tháng 12 năm 2017 của bộ y_tế
+
+Căn_cứ Nghị_định số 75/2017/NĐ-CP ngày 20 tháng 6 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Y_tế ;
+
+Theo đề_nghị của Cục_trưởng Cục Công_nghệ thông_tin ,
+
+Bộ_trưởng Bộ Y_tế ban_hành Thông_tư ban_hành Bộ tiêu_chí về ứng_dụng công_nghệ thông_tin tại các cơ_sở khám bệnh , chữa bệnh .
+
+Điều 1 . Phạm_vi điều_chỉnh và đối_tượng áp_dụng
+
+1 . Thông_tư này ban_hành Bộ tiêu_chí ứng_dụng công_nghệ thông_tin và hướng_dẫn_xác_định mức ứng_dụng công_nghệ thông_tin tại cơ_sở khám bệnh , chữa bệnh .
+
+2 . Thông_tư này áp_dụng cho cơ_sở khám bệnh , chữa bệnh đã được cấp giấy_phép hoạt_động theo quy_định của Luật Khám bệnh , chữa bệnh .
+
+Điều 2 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . His là chữ_viết tắt của cụm từ tiếng Anh Hospital Information System được dịch sang tiếng Việt là Hệ_thống thông_tin bệnh_viện .
+
+2 . Lis là chữ_viết tắt của cụm từ tiếng Anh Laboratory Information System được dịch sang tiếng Việt là Hệ_thống thông_tin xét_nghiệm .
+
+3 . Ris là chữ_viết tắt của cụm từ tiếng Anh Radiology Information System được dịch sang tiếng Việt là Hệ_thống thông_tin chẩn_đoán hình_ảnh .
+
+4 . Pa cs là chữ_viết tắt của cụm từ tiếng Anh Picture Archiving and Communication System được dịch sang tiếng Việt là Hệ_thống lưu_trữ và truyền_tải hình_ảnh .
+
+5 . Emr là chữ_viết tắt của cụm từ tiếng Anh Electronic Medical Record được dịch sang tiếng Việt là Bệnh_án điện_tử .
+
+6 . Cdr là chữ_viết tắt của cụm từ tiếng Anh Clinical Data Repository được dịch sang tiếng Việt là Kho dữ_liệu lâm_sàng .
+
+7 . Cds là chữ_viết tắt của cụm từ tiếng Anh Clinical Decision Support System được dịch sang tiếng Việt là Hệ_thống hỗ_trợ Quyết_định lâm_sàng .
+
+8 . Tiêu_chuẩn Hl7 là chữ_viết tắt của cụm từ tiếng Anh Health Level 7 Standard là tiêu_chuẩn quốc_tế cung_cấp giao_thức về quản_lý , trao_đổi và tích_hợp thông_tin y_tế điện_tử giữa các hệ_thống thông_tin y_tế .
+
+9 . Tiêu_chuẩn Hl7 Cda chữ_viết tắt của cụm từ tiếng Anh Health Level 7 Clinical Document Architecture là tài_liệu có cấu_trúc dựa trên định_dạng Xml quy_định cấu_trúc và ngữ_nghĩa dữ_liệu lâm_sàng phục_vụ mục_tiêu trao_đổi dữ_liệu giữa các bên liên_quan .
+
+10 . Ccd là chữ_viết tắt của cụm từ tiếng Anh Continuity of Care Document được dịch sang tiếng Việt là tập_tin điện_tử về tài_liệu chăm_sóc sức_khoẻ liên_tục .
+
+11 . Di_com là chữ_viết tắt của cụm từ tiếng Anh Digital Imaging Communication in Medicine là tiêu_chuẩn quốc_tế để truyền_tải , lưu_trữ , truy_xuất , in_ấn , xử_lí và hiển_thị thông_tin hình_ảnh y_khoa .
+
+Điều 3 . Ban_hành Bộ tiêu_chí ứng_dụng công_nghệ thông_tin tại cơ_sở khám bệnh , chữa bệnh
+
+Bộ tiêu_chí ứng_dụng công_nghệ thông_tin tại cơ_sở khám bệnh , chữa bệnh bao_gồm 08 nhóm tiêu_chí về : Hạ_tầng , phần_mềm quản_lí điều_hành , His , Ris - pa cs , Lis , phi chức_năng , bảo_mật và an_toàn thông_tin , Emr được quy_định tại Phụ_lục I Thông_tư này .
+
+Điều 4 . Nguyên_tắc xác_định mức ứng_dụng công_nghệ thông_tin
+
+1 . Mức ứng_dụng công_nghệ thông_tin tại cơ_sở khám bệnh , chữa bệnh được xác_định theo bảng tổng_hợp tiêu_chí để đánh_giá mức ứng_dụng công_nghệ thông_tin tại cơ_sở khám bệnh , chữa bệnh quy_định tại Phụ_lục Ii Thông_tư này .
+
+2 . Bảo_đảm nguyên_tắc khách_quan , chính_xác và trung_thực .
+
+3 . Phải đạt tất_cả tiêu_chí ở mức đánh_giá . Nếu có ít_nhất 01 tiêu_chí không đạt thì xếp ở mức thấp hơn liền kề .
+
+Điều 5 . Hướng_dẫn việc xác_định mức ứng_dụng công_nghệ thông_tin
+
+1 . Căn_cứ vào quy_định tại Điều 3 và Điều 4 Thông_tư này , người đứng đầu_cơ_sở khám bệnh , chữa bệnh Quyết_định đầu_tư theo thẩm_quyền và ban_hành_quyết_định xác_định mức ứng_dụng công_nghệ thông_tin tại cơ_sở phụ_trách . Trong trường_hợp cần_thiết , người đứng đầu_cơ_sở khám bệnh , chữa bệnh thành_lập Hội_đồng chuyên_môn hoặc thuê tổ_chức độc_lập để tư_vấn việc xác_định mức ứng_dụng công_nghệ thông_tin tại cơ_sở phụ_trách .
+
+2 . Quyết_định xác_định mức ứng_dụng công_nghệ thông_tin của cơ_sở khám bệnh , chữa bệnh phải được gửi báo_cáo cơ_quan quản_lí cấp trên trực_tiếp và gửi Cục Công_nghệ thông_tin - Bộ Y_tế .
+
+3 . Người đứng đầu_cơ_sở khám bệnh , chữa bệnh chịu trách_nhiệm trước pháp_luật và cơ_quan quản_lí cấp trên về việc xác_định mức ứng_dụng công_nghệ thông_tin tại cơ_sở phụ_trách ; có trách_nhiệm xác_định lại mức ứng_dụng công_nghệ thông_tin nếu cơ_quan quản_lí y_tế cấp trên kiểm_tra phát_hiện mức ứng_dụng công_nghệ thông_tin tại cơ_sở khám bệnh , chữa bệnh chưa phù_hợp với văn_bản báo_cáo .
+
+Điều 6 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực kể từ ngày 27 tháng 02 năm 2018 .
+
+Điều 7 . Tổ_chức thực_hiện
+
+1 . Các Vụ , Cục , Tổng_cục , Thanh_tra Bộ , Văn_phòng Bộ thuộc Bộ Y_tế có trách_nhiệm :
+
+a ) Cục Công_nghệ thông_tin chủ_trì , phối_hợp với Cục Quản_lí Khám , chữa bệnh chỉ_đạo , hướng_dẫn , thanh_tra và kiểm_tra việc thực_hiện Thông_tư này ; công_bố mức ứng_dụng công_nghệ thông_tin của các cơ_sở khám bệnh , chữa bệnh trên toàn_quốc trên Trang thông_tin điện_tử tổng_hợp của Cục Công_nghệ thông_tin ( htp : / / ehealth . gov . vn ) .
+
+b ) Văn_phòng Bộ , Thanh_tra Bộ , các Vụ , Cục , Tổng_cục thuộc Bộ Y_tế phối_hợp với Cục Công_nghệ thông_tin tham_gia_công_tác quản_lí nhà_nước đối_với hoạt_động ứng_dụng công_nghệ thông_tin theo chức_năng , nhiệm_vụ được giao .
+
+2 . Sở Y_tế và Y_tế Bộ , ngành có trách_nhiệm chỉ_đạo , hướng_dẫn , kiểm_tra , thanh_tra việc thực_hiện Thông_tư này theo thẩm_quyền quản_lý ; định_kì vào tháng 12 hằng năm tổng_hợp báo_cáo Cục Công_nghệ thông_tin - Bộ Y_tế về tình_hình ứng_dụng công_nghệ thông_tin của các đơn_vị thuộc thẩm_quyền quản_lý .
+
+3 . Các cơ_sở khám bệnh , chữa bệnh có trách_nhiệm xác_định mức ứng_dụng công_nghệ thông_tin và có văn_bản báo_cáo ( mẫu quy_định tại Phụ_lục Iii Thông_tư này ) cơ_quan quản_lí y_tế cấp trên trực_tiếp , cụ_thể như sau :
+
+a ) Đối_với cơ_sở khám bệnh , chữa bệnh trực_thuộc Bộ Y_tế : Văn_bản báo_cáo mức ứng_dụng công_nghệ thông_tin gửi về Cục Công_nghệ thông_tin - Bộ Y_tế .
+
+b ) Đối_với cơ_sở khám bệnh , chữa bệnh thuộc thẩm_quyền quản_lí của Bộ Quốc_phòng , văn_bản báo_cáo mức ứng_dụng công_nghệ thông_tin gửi về Cục Quân_y - Bộ Quốc_phòng ; cơ_sở khám bệnh , chữa bệnh thuộc thẩm_quyền quản_lí của Bộ Công_an , văn_bản báo_cáo mức ứng_dụng công_nghệ thông_tin gửi về Cục Y_tế - Bộ Công_an ; cơ_sở khám bệnh , chữa bệnh thuộc thẩm_quyền quản_lí của Bộ Giao_thông vận_tải , văn_bản báo_cáo mức ứng_dụng công_nghệ thông_tin gửi về Cục Y_tế Giao_thông vận_tải - Bộ Giao_thông Vận_tải .
+
+c ) Đối_với cơ_sở khám bệnh , chữa bệnh thuộc thẩm_quyền quản_lí của Sở Y_tế tỉnh , thành_phố trực_thuộc Trung_ương ; cơ_sở khám bệnh , chữa bệnh có trụ_sở_tại tỉnh , thành_phố trực_thuộc Trung_ương ( trừ các cơ_sở khám bệnh , chữa bệnh quy_định tại điểm a và điểm b khoản 3 Điều này ) : Văn_bản báo_cáo mức ứng_dụng công_nghệ thông_tin gửi về Sở Y_tế nơi cơ_sở khám bệnh , chữa bệnh đặt trụ_sở .
+
+d ) Định_kì vào tháng 12 hằng năm báo_cáo cơ_quan quản_lí y_tế cấp trên trực_tiếp về tình_hình ứng_dụng công_nghệ thông_tin .
+
+Trong quá_trình thực_hiện nếu có khó_khăn , vướng_mắc , đề_nghị các tổ_chức , cá_nhân phản_ánh về Bộ Y_tế ( Cục Công_nghệ thông_tin ) để xem_xét , giải_quyết . / .

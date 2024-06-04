@@ -1,0 +1,1131 @@
+Nghị_định số 26/2007/nđ-cp ngày 15 tháng 02 năm 2007 của chính_phủ
+
+Nghị_định
+
+Quy_định Chi_tiết Thi_hành Luật Giao_dịch_điện_tử Về Chữ_ký_số Và Dịch_vụ Chứng_thực_chữ_ký_số
+
+Chính_phủ
+
+Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ; Căn_cứ Luật Giao_dịch điện_tử ngày 29 tháng 11 năm 2005 ; Căn_cứ Pháp_lệnh Xử_lí vi_phạm hành_chính ngày 02 tháng 7 năm 2002 ; Xét đề_nghị của Bộ_trưởng Bộ Bưu_chính , Viễn_thông ,
+
+Nghị_định :
+
+Chương 1 :
+
+Những Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Nghị_định này quy_định chi_tiết về chữ_kí số và chứng_thực số ; việc quản_lý , cung_cấp và sử_dụng dịch_vụ chứng_thực chữ_kí số .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Nghị_định này áp_dụng đối_với cơ_quan , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số và cơ_quan , tổ_chức , cá_nhân lựa_chọn sử_dụng chữ_kí số và dịch_vụ chứng_thực chữ_kí số trong giao_dịch điện_tử .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Nghị_định này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . " Chứng_thư số " là một dạng chứng_thư điện_tử do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số cấp .
+
+2 . " Chứng_thư số nước_ngoài " là chứng_thư số do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số nước_ngoài cấp .
+
+3 . Chứng_thư số có hiệu_lực là chứng_thư số chưa hết hạn , không bị tạm dừng hoặc bị thu_hồi .
+
+4 . " Chữ_kí số " là một dạng chữ_kí điện_tử được tạo ra bằng sự_biến_đổi một thông_điệp dữ_liệu sử_dụng hệ_thống mật_mã không đối_xứng theo đó người có được thông_điệp dữ_liệu ban_đầu và khoá công_khai của người kí có_thể xác_định được chính_xác :
+
+a ) Việc biến_đổi nêu trên được tạo ra bằng đúng khoá bí_mật tương_ứng với khoá công_khai trong cùng một cặp khoá ;
+
+b ) Sự toàn_vẹn nội_dung của thông_điệp dữ_liệu kể từ khi thực_hiện việc biến_đổi nêu trên .
+
+5 . Chữ_kí số nước_ngoài là chữ_kí số do thuê_bao sử_dụng chứng_thư số nước_ngoài tạo ra .
+
+6 . Dịch_vụ chứng_thực chữ_kí số là một loại_hình dịch_vụ chứng_thực chữ_kí điện_tử , do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số cấp . Dịch_vụ chứng_thực chữ_kí số bao_gồm :
+
+a ) Tạo cặp khoá bao_gồm khoá công_khai và khoá bí_mật cho thuê_bao ;
+
+b ) Cấp , gia_hạn , tạm dừng , phục_hồi và thu_hồi chứng_thư số của thuê_bao ;
+
+c ) Duy_trì trực_tuyến cơ_sở dữ_liệu về chứng_thư số ;
+
+d ) Những dịch_vụ khác có liên_quan theo quy_định .
+
+7 . Hệ_thống mật_mã không đối_xứng là hệ_thống mật_mã có khả_năng tạo được cặp khoá bao_gồm khoá bí_mật và khoá công_khai .
+
+8 . Khoá là một chuỗi các số nhị_phân ( 0 và 1 ) dùng trong các hệ_thống mật_mã .
+
+9 . Khoá bí_mật là một khoá trong cặp khoá thuộc hệ_thống mật_mã không đối_xứng , được dùng để tạo chữ_kí số .
+
+10 . Khoá công_khai là một khoá trong cặp khoá thuộc hệ_thống mật_mã không đối_xứng , được sử_dụng để kiểm_tra chữ_kí số được tạo bởi khoá bí_mật tương_ứng trong cặp khoá .
+
+11 . Ký số là việc đưa khoá bí_mật vào một chương_trình phần_mềm để tự_động tạo và gắn chữ_kí số vào thông_điệp dữ_liệu .
+
+12 . Người kí là thuê_bao dùng đúng khoá bí_mật của mình để kí số vào một thông_điệp dữ_liệu dưới tên của mình .
+
+13 . Người nhận là tổ_chức , cá_nhân nhận được thông_điệp dữ_liệu được kí số bởi người ký , sử_dụng chứng_thư số của người kí đó để kiểm_tra chữ_kí số trong thông_điệp dữ_liệu nhận được và tiến_hành các hoạt_động , giao_dịch có liên_quan .
+
+14 . Thuê_bao là tổ_chức , cá_nhân được cấp chứng_thư số , chấp_nhận chứng_thư số và giữ khoá bí_mật tương_ứng với khoá công_khai ghi trên chứng_thư số được cấp đó .
+
+15 . Tạm dừng chứng_thư số là làm mất hiệu_lực của chứng_thư số một_cách tạm_thời từ một thời_điểm xác_định .
+
+16 . Thu_hồi chứng_thư số là làm mất hiệu_lực của chứng_thư số một_cách vĩnh_viễn từ một thời_điểm xác_định .
+
+17 . " Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số " là tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí điện_tử thực_hiện hoạt_động cung_cấp dịch_vụ chứng_thực chữ_kí số . Bổ_sung
+
+Điều 4 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số
+
+Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số bao_gồm :
+
+1 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng là tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số cho cơ_quan , tổ_chức , cá_nhân sử_dụng trong các hoạt_động công_cộng . Hoạt_động của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng là hoạt_động nhằm mục_đích kinh_doanh .
+
+2 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng là tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số cho các cơ_quan , tổ_chức , cá_nhân có cùng tính_chất hoạt_động hoặc mục_đích công_việc và được liên_kết với nhau thông_qua điều_lệ hoạt_động hoặc văn_bản quy_phạm_pháp_luật quy_định cơ_cấu tổ_chức chung hoặc hình_thức liên_kết , hoạt_động chung . Hoạt_động của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng là hoạt_động nhằm phục_vụ nhu_cầu giao_dịch nội_bộ và không nhằm mục_đích kinh_doanh .
+
+3 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia ( Root Certification_authority ) là tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số cho các tổ_chức cung_cấp dịch_vụ chữ_kí số công_cộng . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia là duy_nhất .
+
+Điều 5 . Chính_sách phát_triển dịch_vụ chứng_thực chữ_kí số
+
+1 . Nhà_nước khuyến_khích việc sử_dụng chữ_kí số và dịch_vụ chứng_thực chữ_kí số trong các lĩnh_vực kinh_tế , chính_trị , xã_hội để thúc_đẩy việc trao_đổi thông_tin và các giao_dịch qua mạng nhằm nâng cao năng_suất lao_động ; mở_rộng các hoạt_động thương_mại ; hỗ_trợ cải_cách hành_chính , tăng tiện_ích xã_hội , nâng cao chất_lượng cuộc_sống của nhân_dân và bảo_đảm an_ninh , quốc_phòng .
+
+2 . Nhà_nước thúc_đẩy việc ứng_dụng chữ_kí số và phát_triển dịch_vụ chứng_thực chữ_kí số thông_qua những dự_án trọng_điểm nhằm nâng cao nhận_thức ; phổ_biến pháp_luật ; phát_triển ứng_dụng ; tổ_chức đào_tạo nguồn nhân_lực ; nghiên_cứu , hợp_tác và chuyển_giao công_nghệ liên_quan đến chữ_kí số và dịch_vụ chứng_thực chữ_kí số .
+
+3 . Nhà_nước hỗ_trợ hoạt_động của các tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng thông_qua các chính_sách ưu_đãi về thuế , đất_đai và các ưu_đãi khác .
+
+Điều 6 . Trách_nhiệm quản_lí nhà_nước về dịch_vụ chứng_thực chữ_kí số
+
+1 . Bộ Bưu_chính , Viễn_thông chịu trách_nhiệm trước Chính_phủ trong việc thực_hiện quản_lí nhà_nước về dịch_vụ chứng_thực chữ_kí số , bao_gồm :
+
+a ) Trình Chính_phủ ban_hành hoặc ban_hành theo thẩm_quyền các chính_sách , chiến_lược , quy_hoạch , kế_hoạch phát_triển và quản_lí dịch_vụ chứng_thực chữ_kí số ;
+
+b ) Ban_hành theo thẩm_quyền các văn_bản quy_phạm_pháp_luật về chữ_kí số và dịch_vụ chứng_thực chữ_kí số ;
+
+c ) Chủ_trì , phối_hợp với Bộ Khoa_học và Công_nghệ , Bộ Công_an , Ban Cơ_yếu Chính_phủ xây_dựng và ban_hành các quy_chuẩn kĩ_thuật và tiêu_chuẩn bắt_buộc áp_dụng về chữ_kí số và dịch_vụ chứng_thực chữ_kí số ;
+
+d ) Chủ_trì , phối_hợp với Bộ Công_an , Ban Cơ_yếu Chính_phủ trong việc quản_lí các tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số bao_gồm cấp giấy_phép , giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số , giấy công_nhận chữ_kí số và chứng_thư số nước_ngoài ; thanh_tra , kiểm_tra và xử_lí vi_phạm ; và các hoạt_động cần_thiết khác ;
+
+đ ) Chủ_trì , phối_hợp với Bộ Khoa_học và Công_nghệ , Bộ Công_an , Ban Cơ_yếu Chính_phủ thực_hiện hợp_tác quốc_tế về dịch_vụ chứng_thực chữ_kí số ;
+
+e ) Thành_lập và duy_trì hoạt_động của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia .
+
+2 . Bộ Khoa_học và Công_nghệ , Bộ Công_an , Ban Cơ_yếu Chính_phủ , các Bộ , ngành khác có liên_quan , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương trong phạm_vi quyền_hạn và trách_nhiệm của mình phối_hợp với Bộ Bưu_chính , Viễn_thông để thực_hiện các quy_định tại khoản 1 Điều này .
+
+3 . Bộ Công_an chịu trách_nhiệm chủ_trì trong việc đấu_tranh phòng , chống tội_phạm công_nghệ_cao sử_dụng chữ_kí số và dịch_vụ chứng_thực chữ_kí số .
+
+4 . Ban Cơ_yếu Chính_phủ thành_lập và duy_trì hoạt_động của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng phục_vụ các cơ_quan thuộc hệ_thống chính_trị .
+
+Điều 7 . Các hành_vi bị nghiêm_cấm
+
+1 . Cung_cấp dịch_vụ chứng_thực chữ_kí số và sử_dụng chữ_kí số nhằm chống lại Nhà_nước Cộng_hoà xã_hội chủ_nghĩa Việt_nam , gây_rối an_ninh , trật_tự , an_toàn xã_hội , hoạt_động buôn_lậu hoặc tiến_hành các hoạt_động khác trái với pháp_luật , đạo_đức xã_hội .
+
+2 . Trực_tiếp hoặc gián_tiếp phá_hoại hệ_thống cung_cấp dịch_vụ chứng_thực chữ_kí số của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số ; cản_trở hoạt_động cung_cấp và sử_dụng dịch_vụ chứng_thực chữ_kí số ; làm giả hoặc hướng_dẫn người khác làm giả chứng_thư số .
+
+3 . Trộm_cắp , gian_lận , mạo_nhận , chiếm_đoạt hoặc sử_dụng trái_phép khoá bí_mật của người khác .
+
+4 . Mua_bán , chuyển_nhượng giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng .
+
+Chương 2 :
+
+Chữ_ký_số Và Chứng_thư_số
+
+Điều 8 . Giá_trị pháp_lí của chữ_kí số
+
+1 . Trong trường_hợp pháp_luật quy_định văn_bản cần có chữ_kí thì yêu_cầu đối_với một thông_điệp dữ_liệu được xem là đáp_ứng nếu thông_điệp dữ_liệu đó được kí bằng chữ_kí số .
+
+2 . Trong trường_hợp pháp_luật quy_định văn_bản cần được đóng_dấu của cơ_quan , tổ_chức thì yêu_cầu đó đối_với một thông_điệp dữ_liệu được xem là đáp_ứng nếu thông_điệp dữ_liệu đó được kí bởi chữ_kí số của người có thẩm_quyền theo quy_định của pháp_luật về quản_lí và sử_dụng con_dấu và chữ_kí số đó được đảm_bảo_an_toàn theo quy_định tại Điều 9 Nghị_định này .
+
+3 . Chữ_kí số và chứng_thư số nước_ngoài được công_nhận theo quy_định tại Chương Vii Nghị_định này có giá_trị pháp_lí và hiệu_lực như chữ_kí số và chứng_thư số do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng của Việt_nam cấp . Bổ_sung
+
+Điều 9 . Điều_kiện đảm_bảo_an_toàn cho chữ_kí số
+
+Chữ_kí số được xem là chữ_kí điện_tử an_toàn khi đáp_ứng các điều_kiện sau :
+
+1 . Chữ_kí số được tạo ra trong thời_gian chứng_thư số có hiệu_lực và kiểm_tra được bằng khoá công_khai ghi trên chứng_thư số có hiệu_lực đó .
+
+2 . Chữ_kí số được tạo ra bằng việc sử_dụng khoá bí_mật tương_ứng với khoá công_khai ghi trên chứng_thư số do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng được cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số hoặc tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số nước_ngoài được công_nhận tại Việt_nam cấp .
+
+3 . Khoá bí_mật chỉ thuộc sự kiểm_soát của người kí tại thời_điểm ký .
+
+4 . Khoá bí_mật và nội_dung thông_điệp dữ_liệu chỉ gắn duy_nhất với người kí khi người đó kí số thông_điệp dữ_liệu .
+
+Điều 10 . Nội_dung của chứng_thư số
+
+Chứng_thư số do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng được cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số cấp phải bao_gồm các nội_dung sau :
+
+1 . Tên của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số .
+
+2 . Tên của thuê_bao .
+
+3 . Số_hiệu của chứng_thư số .
+
+4 . Thời_hạn có hiệu_lực của chứng_thư số .
+
+5 . Khoá công_khai của thuê_bao .
+
+6 . Chữ_kí số của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số .
+
+7 . Các hạn_chế về mục_đích , phạm_vi sử_dụng của chứng_thư số .
+
+8 . Các hạn_chế về trách_nhiệm pháp_lí của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số .
+
+9 . Các nội_dung cần_thiết khác theo quy_định của Bộ Bưu_chính , Viễn_thông .
+
+Điều 11 . Chứng_thư số của cơ_quan , tổ_chức
+
+1 . Tất_cả các chức_danh nhà_nước , người có thẩm_quyền của cơ_quan , tổ_chức theo quy_định của pháp_luật về quản_lí và sử_dụng con_dấu đều được quyền cấp chứng_thư số có giá_trị như quy_định tại khoản 2 Điều 8 Nghị_định này .
+
+2 . Chứng_thư số cấp cho chức_danh nhà_nước , người có thẩm_quyền của cơ_quan , tổ_chức phải nêu rõ chức_danh của người đó .
+
+3 . Việc cấp chứng_thư số cho chức_danh nhà_nước , người có thẩm_quyền của cơ_quan , tổ_chức phải căn_cứ vào các tài_liệu sau :
+
+a ) Văn_bản của cơ_quan , tổ_chức đề_nghị cấp chữ_kí số cho người có thẩm_quyền hoặc chức_danh nhà_nước ;
+
+b ) Bản_sao hợp_lệ giấy chứng_nhận đã đăng_kí mẫu con_dấu của cơ_quan , tổ_chức hoặc chức_danh nhà_nước đã được cấp theo quy_định của pháp_luật về quản_lí và sử_dụng con_dấu ;
+
+c ) Bản_sao hợp_lệ văn_bản xác_nhận chức_danh của người có thẩm_quyền của cơ_quan , tổ_chức hoặc chức_danh nhà_nước đó .
+
+Điều 12 . Sử_dụng chữ_kí số và chứng_thư số của cơ_quan , tổ_chức
+
+1 . Chữ_kí số của người được cấp chứng_thư số theo quy_định tại Điều 11 Nghị_định này chỉ được sử_dụng để thực_hiện các giao_dịch theo đúng chức_danh của người đó .
+
+2 . Việc kí thay , kí thừa Lệnh theo quy_định của pháp_luật thực_hiện bởi người có thẩm_quyền sử_dụng chữ_kí số của mình , được hiểu căn_cứ vào chức_danh của người kí ghi trên chứng_thư số .
+
+Chương 3 :
+
+Cấp_phép Cung_cấp Dịch_vụ Chứng_thực_chữ_ký Số Công_cộng
+
+Điều 13 . Điều_kiện hoạt_động
+
+Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số được cung_cấp dịch_vụ cho công_cộng khi đáp_ứng các điều_kiện sau :
+
+1 . Có giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng do Bộ Bưu_chính , Viễn_thông cấp .
+
+2 . Có chứng_thư số do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia cấp .
+
+Điều 14 . Thời_hạn giấy_phép
+
+Giấy_phép cấp cho tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng có thời_hạn không quá 10 năm .
+
+Điều 15 . Điều_kiện cấp phép
+
+1 . Điều_kiện về chủ_thể :
+
+Là doanh_nghiệp thành_lập theo pháp_luật Việt_nam .
+
+2 . Điều_kiện về tài_chính :
+
+a ) Có đủ năng_lực tài_chính để thiết_lập hệ_thống trang thiết_bị kĩ_thuật , tổ_chức và duy_trì hoạt_động phù_hợp với quy_mô cung_cấp dịch_vụ ;
+
+b ) Ký_quỹ tại một ngân_hàng thương_mại hoạt_động tại Việt_nam hoặc có giấy bảo_lãnh của một ngân_hàng thương_mại hoạt_động tại Việt_nam không dưới 5 ( năm ) tỉ đồng , hoặc cam_kết mua bảo_hiểm để giải_quyết các rủi_ro và các khoản đền_bù có_thể xảy ra trong quá_trình cung_cấp dịch_vụ và thanh_toán chi_phí tiếp_nhận và duy_trì cơ_sở dữ_liệu của doanh_nghiệp trong trường_hợp bị thu_hồi giấy_phép .
+
+3 . Điều_kiện về nhân_sự :
+
+a ) Có đội_ngũ nhân_viên kĩ_thuật , nhân_viên quản_lý , điều_hành , nhân_viên quản_lí an_ninh và nhân_viên dịch_vụ khách_hàng đáp_ứng được yêu_cầu về chuyên_môn và quy_mô triển_khai dịch_vụ ; không có tiền_án , tiền_sự ;
+
+b ) Người đại_diện theo pháp_luật hiểu_biết pháp_luật về chữ_kí số và dịch_vụ chứng_thực chữ_kí số .
+
+4 . Điều_kiện về kĩ_thuật :
+
+a ) Thiết_lập hệ_thống_thiết_bị kĩ_thuật đảm_bảo các yêu_cầu sau :
+
+- Lưu_trữ đầy_đủ , chính_xác và cập_nhật thông_tin của thuê_bao phục_vụ cho việc cấp chứng_thư số trong suốt thời_gian chứng_thư số có hiệu_lực ;
+
+- Đảm_bảo tạo cặp khoá chỉ cho phép mỗi cặp khoá được tạo ra ngẫu_nhiên và đúng một lần duy_nhất ; có tính_năng đảm_bảo khoá bí_mật không bị phát_hiện khi có khoá công_khai tương_ứng ;
+
+- Lưu_trữ đầy_đủ , chính_xác , cập_nhật danh_sách các chứng_thư số có hiệu_lực và đã hết hiệu_lực và cho phép người sử_dụng Internet truy_nhập trực_tuyến 24 giờ trong ngày và 7 ngày trong tuần ;
+
+- Có khả_năng phát_hiện , cảnh_báo và ngăn_chặn mọi truy_nhập bất_hợp_pháp , các hình_thức tấn_công trên môi_trường mạng và tuân theo những tiêu_chuẩn đảm_bảo_an_ninh thông_tin ;
+
+- Được thiết_kế theo xu_hướng giảm_thiểu tối_đa_sự tiếp_xúc trực_tiếp với môi_trường Internet ;
+
+- Hệ_thống phân_phối khoá cho thuê_bao phải đảm_bảo sự toàn_vẹn và bảo_mật của cặp khoá . Trong trường_hợp phân_phối khoá thông_qua môi_trường mạng máy_tính thì hệ_thống phân_phối khoá phải sử_dụng các giao_thức bảo_mật đảm_bảo không lộ thông_tin trên đường truyền .
+
+b ) Có phương_án kĩ_thuật và phương_án kinh_doanh khả_thi , phù_hợp với các quy_chuẩn kĩ_thuật và tiêu_chuẩn bắt_buộc áp_dụng ;
+
+c ) Có các phương_án kiểm_soát sự ra vào trụ_sở , quyền truy_nhập hệ_thống , quyền ra vào nơi đặt thiết_bị phục_vụ_việc cung_cấp dịch_vụ chứng_thực chữ_kí số ;
+
+d ) Có các phương_án dự_phòng đảm_bảo duy_trì hoạt_động an_toàn , liên_tục và khắc_phục khi có sự_cố xảy ra ;
+
+đ ) Toàn_bộ hệ_thống_thiết_bị sử_dụng để cung_cấp dịch_vụ đặt tại Việt_nam .
+
+5 . Các điều_kiện khác :
+
+a ) Xây_dựng trụ_sở , nơi đặt máy_móc , thiết_bị phù_hợp với yêu_cầu của pháp_luật về phòng_chống cháy , nổ ; có khả_năng chống chịu lũ_lụt , động_đất , nhiễu điện từ , sự xâm_nhập bất_hợp_pháp của con_người ;
+
+b ) Có quy_chế chứng_thực công_khai theo mẫu của Bộ Bưu_chính , Viễn_thông và có nội_dung phù_hợp với các quy_định tại Nghị_định này .
+
+Điều 16 . Hồ_sơ xin cấp phép
+
+Hồ_sơ xin cấp phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng được lập thành 06 bộ , mỗi bộ hồ_sơ gồm có :
+
+1 . Đơn đề_nghị cấp phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng của doanh_nghiệp .
+
+2 . Giấy chứng_nhận đăng_kí kinh_doanh hoặc giấy chứng_nhận đầu_tư của doanh_nghiệp trong đó ghi rõ ngành_nghề cung_cấp dịch_vụ chứng_thực chữ_kí điện_tử .
+
+3 . Điều_lệ tổ_chức và hoạt_động của doanh_nghiệp .
+
+4 . Văn_bản chứng_minh đáp_ứng được các điều_kiện về tài_chính quy_định tại khoản 2 Điều 15 Nghị_định này .
+
+5 . Đề_án cung_cấp dịch_vụ gồm các nội_dung chính như sau :
+
+- Kế_hoạch kinh_doanh bao_gồm : phạm_vi , đối_tượng cung_cấp dịch_vụ ; tiêu_chuẩn chất_lượng dịch_vụ ; phương_án tài_chính và các thông_tin cần_thiết khác ;
+
+- Kế_hoạch kĩ_thuật nhằm đảm_bảo quy_định tại khoản 4 Điều 15 ;
+
+- Quy_chế chứng_thực ;
+
+- Thông_tin chi_tiết về nhân_thân , trình_độ và bằng_cấp của nhân_sự sẽ trực_tiếp tham_gia các hoạt_động cung_cấp dịch_vụ chứng_thực chữ_kí số của doanh_nghiệp .
+
+Điều 17 . Thẩm_tra và cấp giấy_phép
+
+Trong thời_hạn 60 ngày làm_việc , kể từ ngày nhận được hồ_sơ xin cấp phép hợp_lệ , Bộ Bưu_chính , Viễn_thông chủ_trì , phối_hợp với Bộ Công_an , Ban Cơ_yếu Chính_phủ và các Bộ , ngành có liên_quan thẩm_tra hồ_sơ . Trường_hợp_doanh_nghiệp đáp_ứng đủ các điều_kiện cấp phép tại Điều 15 , Bộ Bưu_chính , Viễn_thông sẽ cấp giấy_phép cho doanh_nghiệp . Trường_hợp từ_chối , Bộ Bưu_chính , Viễn_thông có văn_bản thông_báo và nêu rõ lí_do .
+
+Điều 18 . Thay_đổi nội_dung giấy_phép và cấp lại giấy_phép
+
+1 . Khi có nhu_cầu thay_đổi nội_dung giấy_phép , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng phải gửi hồ_sơ xin thay_đổi nội_dung giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng đến Bộ Bưu_chính , Viễn_thông .
+
+2 . Hồ_sơ xin thay_đổi giấy_phép được lập thành 06 bộ , mỗi bộ hồ_sơ gồm : giấy đề_nghị thay_đổi nội_dung giấy_phép ; bản_sao giấy_phép đang có hiệu_lực ; báo_cáo tình_hình hoạt_động và lí_do thay_đổi nội_dung giấy_phép ; chi_tiết nội_dung đề_nghị sửa_đổi và các tài_liệu cần_thiết khác .
+
+3 . Trong thời_hạn 60 ngày làm_việc , kể từ ngày nhận được hồ_sơ xin thay_đổi nội_dung giấy_phép hợp_lệ , Bộ Bưu_chính , Viễn_thông chủ_trì , phối_hợp với các Bộ , ngành có liên_quan thẩm_tra hồ_sơ và kiểm_tra thực_tế nếu cần_thiết . Trường_hợp_đề_nghị thay_đổi vẫn đáp_ứng đủ các điều_kiện cấp phép quy_định tại Điều 15 , Bộ Bưu_chính , Viễn_thông sẽ cấp giấy_phép mới cho doanh_nghiệp . Trường_hợp_đề_nghị thay_đổi nội_dung giấy_phép không đáp_ứng đủ các điều_kiện cấp phép , Bộ Bưu_chính , Viễn_thông có văn_bản thông_báo và nêu rõ lí_do .
+
+4 . Trong trường_hợp tổ_chức lại , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng phải báo_cáo Bộ Bưu_chính , Viễn_thông để xem_xét việc thay_đổi nội_dung giấy_phép ; thủ_tục thay_đổi tuân theo quy_định tại khoản 2 , khoản 3 Điều này .
+
+5 . Trường_hợp giấy_phép bị mất , bị rách , bị cháy hoặc bị tiêu_huỷ dưới các hình_thức khác , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng được cấp lại giấy_phép . Để được cấp lại giấy_phép , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng phải gửi giấy đề_nghị nêu rõ lí_do xin cấp lại giấy_phép tới Bộ Bưu_chính , Viễn_thông và phải trả phí .
+
+Điều 19 . Gia_hạn giấy_phép
+
+1 . Khi muốn gia_hạn giấy_phép , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng được cấp phép phải gửi hồ_sơ xin gia_hạn giấy_phép 60 ngày trước ngày giấy_phép hết hạn .
+
+2 . Hồ_sơ xin gia_hạn giấy_phép được lập thành 02 bộ , mỗi bộ hồ_sơ gồm : Đơn đề_nghị gia_hạn giấy_phép , bản_sao giấy_phép đang có hiệu_lực , báo_cáo tình_hình hoạt_động và kết_quả kiểm_tra , thanh_tra hoạt_động cung_cấp dịch_vụ trong 3 năm gần nhất .
+
+3 . Trong thời_hạn 60 ngày kể từ ngày nhận được hồ_sơ hợp_lệ , Bộ Bưu_chính , Viễn_thông thẩm_tra và xem_xét việc gia_hạn giấy_phép . Trường_hợp_đồng_ý , Bộ Bưu_chính , Viễn_thông sẽ gia_hạn giấy_phép cho doanh_nghiệp . Trong trường_hợp từ_chối , Bộ Bưu_chính , Viễn_thông có văn_bản thông_báo và nêu rõ lí_do .
+
+4 . Giấy_phép chỉ được gia_hạn 1 lần và thời_gian gia_hạn không quá 1 năm .
+
+Điều 20 . Tạm đình_chỉ hoặc thu_hồi giấy_phép
+
+1 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng bị tạm đình_chỉ giấy_phép khi xảy ra một trong các trường_hợp sau :
+
+a ) Cung_cấp dịch_vụ sai với nội_dung ghi trên giấy_phép ;
+
+b ) Không đáp_ứng được một trong các điều_kiện về cấp phép trong quá_trình hoạt_động cung_cấp dịch_vụ ;
+
+c ) Các điều_kiện khác theo quy_định của pháp_luật .
+
+2 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng bị thu_hồi giấy_phép khi xảy ra một trong các trường_hợp sau :
+
+a ) Không triển_khai cung_cấp dịch_vụ trong thời_hạn 12 tháng , kể từ ngày được cấp phép mà không có_lí_do chính_đáng ;
+
+b ) Bị giải_thể hoặc phá_sản theo quy_định của pháp_luật có liên_quan ;
+
+c ) Giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số cho công_cộng đã hết hạn ;
+
+d ) Không khắc_phục được các điều_kiện tạm đình_chỉ quy_định tại khoản 1 Điều này sau thời_hạn tạm dừng ấn_định bởi cơ_quan nhà_nước .
+
+3 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng bị thu_hồi giấy_phép có trách_nhiệm thoả_thuận để bàn_giao các cơ_sở dữ_liệu có liên_quan đến hoạt_động cung_cấp dịch_vụ của mình cho một tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng khác đang hoạt_động trong thời_hạn không quá 90 ngày , kể từ ngày bị thu_hồi giấy_phép . Trong trường_hợp không thoả_thuận được thì báo_cáo Bộ Bưu_chính , Viễn_thông xem_xét , giải_quyết .
+
+4 . Chi_phí tiếp_nhận và duy_trì cơ_sở dữ_liệu của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng bị thu_hồi giấy_phép lấy từ tiền kí_quỹ hoặc bảo_lãnh hoặc bảo_hiểm của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số đó .
+
+Chương 4 :
+
+Hoạt_động Của Tổ_chức Cung_cấp Dịch_vụ Chứng_thực_chữ_ký Số Công_cộng
+
+Điều 21 . Hồ_sơ xin cấp chứng_thư số
+
+Hồ_sơ xin cấp chứng_thư số bao_gồm :
+
+1 . Đơn xin cấp chứng_thư số theo mẫu của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng .
+
+2 . Giấy_tờ kèm theo bao_gồm :
+
+a ) Đối_với cá_nhân : bản_sao hợp_lệ giấy chứng_minh nhân_dân , hộ_chiếu hoặc chứng_thực cá_nhân hợp_pháp khác ;
+
+b ) Đối_với tổ_chức : bản_sao hợp_lệ Quyết_định thành_lập hoặc giấy chứng_nhận đăng_kí kinh_doanh hoặc tài_liệu tương_đương khác của tổ_chức ; văn_bản uỷ_quyền và bản_sao hợp_lệ giấy chứng_minh nhân_dân , hộ_chiếu hoặc chứng_thực cá_nhân hợp_pháp khác của người đại_diện theo uỷ_quyền của tổ_chức ;
+
+c ) Các giấy_tờ khác theo quy_định trong quy_chế chứng_thực của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng .
+
+Điều 22 . Tạo khoá và phân_phối khoá
+
+1 . Một cặp khoá của tổ_chức , cá_nhân xin cấp chứng_thư số có_thể được tạo ra bởi :
+
+a ) Tổ_chức , cá_nhân xin cấp chứng_thư số ;
+
+b ) Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng căn_cứ theo yêu_cầu bằng văn_bản của tổ_chức , cá_nhân xin cấp chứng_thư số .
+
+2 . Trường_hợp tổ_chức , cá_nhân xin cấp chứng_thư số tự tạo cặp khoá , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng cần đảm_bảo chắc_chắn rằng người đó đã sử_dụng thiết_bị theo đúng tiêu_chuẩn quy_định để tạo ra và lưu_trữ cặp khoá .
+
+3 . Trường_hợp tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng tạo cặp khoá , tổ_chức đó phải đảm_bảo sử_dụng các phương_thức an_toàn để chuyển_giao khoá bí_mật đến tổ_chức , cá_nhân xin cấp chứng_thư số và chỉ được lưu bản_sao của khoá bí_mật khi tổ_chức , cá_nhân xin cấp chứng_thư số có yêu_cầu bằng văn_bản .
+
+Điều 23 . Cấp chứng_thư số
+
+1 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng cấp chứng_thư số khi kiểm_tra được các nội_dung sau đây :
+
+a ) Thông_tin trong hồ_sơ là chính_xác ;
+
+b ) Khoá công_khai trên chứng_thư số sẽ được cấp là duy_nhất và cùng cặp với khoá bí_mật của tổ_chức , cá_nhân xin cấp chứng_thư số .
+
+2 . Chứng_thư số chỉ được cấp cho người xin cấp và phải có đầy_đủ những thông_tin được quy đinh tại Điều 10 Nghị_định này .
+
+3 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng chỉ được công_bố chứng_thư số đã cấp cho thuê_bao trên cơ_sở dữ_liệu về chứng_thư số của mình sau khi có xác_nhận của thuê_bao về tính chính_xác của thông_tin trên chứng_thư số đó ; thời_hạn để công_bố chậm nhất là 24 giờ sau khi đã có xác_nhận của thuê_bao ; trừ trường_hợp có thoả_thuận khác .
+
+4 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng không được từ_chối cấp chứng_thư số cho tổ_chức , cá_nhân xin cấp chứng_thư số nếu không có_lí_do chính_đáng .
+
+Điều 24 . Gia_hạn chứng_thư số
+
+1 . Ít_nhất là 30 ngày trước ngày hết hạn của chứng_thư số , nếu muốn gia_hạn thuê_bao phải có đơn xin gia_hạn chứng_thư số .
+
+2 . Trường_hợp thay_đổi khoá công_khai trên chứng_thư số được gia_hạn , thuê_bao phải ghi rõ trong đơn ; việc tạo khoá , phân_phối khoá và công_bố chứng_thư số được gia_hạn thực_hiện theo các quy_định tại Điều 22 , Điều 23 Nghị_định này .
+
+Điều 25 . Thay_đổi cặp khoá
+
+Trong trường_hợp thuê_bao có nhu_cầu thay_đổi cặp khoá , thuê_bao phải có đơn xin thay_đổi cặp khoá . Việc tạo khoá , phân_phối khoá và công_bố chứng_thư số với khoá công_khai mới thực_hiện theo các quy_định tại Điều 22 , Điều 23 Nghị_định này .
+
+Điều 26 . Tạm dừng chứng_thư số
+
+1 . Chứng_thư số bị tạm dừng khi xảy ra một trong những trường_hợp sau đây :
+
+a ) Khi thuê_bao yêu_cầu bằng văn_bản và yêu_cầu này đã được tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng xác_minh là chính_xác ;
+
+b ) Khi tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng có căn_cứ để khẳng_định rằng chứng_thư số được cấp không tuân theo các quy_định tại Điều 22 , Điều 23 Nghị_định này hoặc khi phát_hiện ra bất_cứ sai_sót nào có ảnh_hưởng đến quyền_lợi của thuê_bao và người nhận ;
+
+c ) Khi có yêu_cầu của cơ_quan tiến_hành tố_tụng , cơ_quan an_ninh hoặc Bộ Bưu_chính , Viễn_thông ;
+
+d ) Theo điều_kiện tạm dừng chứng_thư số đã được quy_định trong hợp_đồng giữa thuê_bao và tổ_chức cung_cấp dịch_vụ .
+
+2 . Khi có căn_cứ tạm dừng chứng_thư số , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng phải tiến_hành tạm dừng , đồng_thời ngay lập_tức thông_báo cho thuê_bao và công_bố trên cơ_sở dữ_liệu về chứng_thư số việc tạm dừng , thời_gian bắt_đầu và kết_thúc việc tạm dừng .
+
+3 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng phải khôi_phục lại chứng_thư số khi không còn căn_cứ để tạm dừng chứng_thư số hoặc thời_hạn tạm dừng theo yêu_cầu đã hết .
+
+Điều 27 . Thu_hồi chứng_thư số
+
+1 . Chứng_thư số bị thu_hồi trong những trường_hợp sau đây :
+
+a ) Khi thuê_bao yêu_cầu bằng văn_bản và yêu_cầu này đã được tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng xác_minh là chính_xác ;
+
+b ) Khi thuê_bao là cá_nhân đã chết hoặc mất_tích theo tuyên_bố của toà_án hoặc thuê_bao là tổ_chức giải_thể hoặc phá_sản theo quy_định của pháp_luật ;
+
+c ) Khi có yêu_cầu của cơ_quan tiến_hành tố_tụng , cơ_quan an_ninh hoặc Bộ Bưu_chính , Viễn_thông ;
+
+d ) Theo điều_kiện thu_hồi chứng_thư số đã được quy_định trong hợp_đồng giữa thuê_bao và tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng .
+
+2 . Khi có căn_cứ thu_hồi chứng_thư số , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng phải tiến_hành thu_hồi chứng_thư số , đồng_thời phải ngay lập_tức thông_báo cho thuê_bao và công_bố trên cơ_sở dữ_liệu về chứng_thư số việc thu_hồi .
+
+Điều 28 . Cấp dấu thời_gian
+
+1 . Cấp dấu thời_gian là việc gắn thông_tin về ngày , tháng , năm và thời_gian vào thông_điệp dữ_liệu .
+
+2 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng được quyền cung_cấp dịch_vụ cấp dấu thời_gian . Việc cung_cấp dịch_vụ cấp dấu thời_gian phải tuân theo các quy_chuẩn kĩ_thuật và tiêu_chuẩn bắt_buộc áp_dụng đối_với dịch_vụ cấp dấu thời_gian .
+
+3 . Ngày , tháng , năm và thời_gian được gắn vào thông_điệp dữ_liệu là ngày , tháng , năm và thời_gian mà tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng nhận được thông_điệp dữ_liệu đó . Ngày , tháng , năm và thời_gian được gắn vào thông_điệp dữ_liệu phải được kí số bởi tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng .
+
+4 . Ngày , tháng , năm và thời_gian được gắn vào thông_điệp dữ_liệu tuân theo các quy_định tại khoản 1 , 2 , 3 Điều này được pháp_luật công_nhận .
+
+Chương 5 :
+
+Quyền Và Nghĩa_vụ Của Các Bên Tham_gia Cung_cấp Và Sử_dụng Dịch_vụ Chứng_thực_chữ_ký Số Công_cộng
+
+Mục 1 : Quyền Và Nghĩa_vụ Của Tổ_chức Cung_cấp Dịch_vụ Chứng_thực_chữ_ký Số Công_cộng
+
+Điều 29 . Nghĩa_vụ trong việc lưu_trữ và sử_dụng thông_tin của tổ_chức , cá_nhân xin cấp chứng_thư số
+
+1 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng có nghĩa_vụ lưu_trữ những thông_tin liên_quan đến nhân_thân của tổ_chức , cá_nhân xin cấp chứng_thư số một_cách bí_mật , an_toàn và chỉ được sử_dụng thông_tin này vào mục_đích liên_quan đến chứng_thư số , trừ trường_hợp thoả_thuận hoặc pháp_luật có quy_định khác .
+
+2 . Bồi_thường cho thuê_bao và người nhận trong trường_hợp sau :
+
+a ) Thiệt_hại xảy ra là hậu_quả của việc để lộ thông_tin của thuê_bao mà mình có nghĩa_vụ lưu_trữ bí_mật ;
+
+b ) Thiệt_hại xảy ra là hậu_quả của việc đưa lên chứng_thư số những thông_tin không chính_xác so với những thông_tin do thuê_bao đã cung_cấp .
+
+Điều 30 . Nghĩa_vụ liên_quan tới cấp chứng_thư số
+
+Để đảm_bảo quyền_lợi hợp_pháp cho các thuê_bao , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng có các nghĩa_vụ sau :
+
+1 . Hướng_dẫn bằng văn_bản cho tổ_chức , cá_nhân xin cấp chứng_thư số trước khi kí hợp_đồng cấp chứng_thư số những thông_tin sau đây :
+
+a ) Phạm_vi , giới_hạn sử_dụng , mức_độ bảo_mật , phí , lệ_phí cho việc cấp và sử_dụng của loại chứng_thư số mà người đó xin cấp và những thông_tin khác có khả_năng ảnh_hưởng đến quyền_lợi của tổ_chức , cá_nhân xin cấp chứng_thư số ;
+
+b ) Những yêu_cầu để đảm_bảo sự an_toàn trong lưu_trữ và sử_dụng khoá bí_mật ;
+
+c ) Thủ_tục khiếu_nại và giải_quyết tranh_chấp ;
+
+d ) Những nội_dung khác do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng tự_quyết_định .
+
+2 . Xây_dựng hợp_đồng mẫu dùng cho hoạt_động cấp chứng_thư số .
+
+3 . Đảm_bảo_an_toàn trong suốt quá_trình tạo và chuyển_giao chứng_thư số cho thuê_bao .
+
+4 . Chịu trách_nhiệm trước thuê_bao và người nhận về tính chính_xác của những thông_tin trên chứng_thư số .
+
+5 . Bồi_thường cho thuê_bao và người nhận khi thiệt_hại xảy ra là hậu_quả của chứng_thư số đã được cấp trái với quy_định của Nghị_định này .
+
+Điều 31 . Nghĩa_vụ liên_quan tới gia_hạn chứng_thư số
+
+1 . Khi nhận được yêu_cầu gia_hạn của thuê_bao theo đúng quy_định tại Điều 24 Nghị_định này , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng có nghĩa_vụ hoàn_thành các thủ_tục gia_hạn chứng_thư số trước khi chứng_thư số của thuê_bao hết hiệu_lực .
+
+2 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng phải có trách_nhiệm bồi_thường thiệt_hại cho thuê_bao và người nhận nếu có bất_cứ thiệt_hại nào xảy ra do vi_phạm khoản 1 Điều này .
+
+Điều 32 . Quyền và nghĩa_vụ liên_quan tới tạm dừng và khôi_phục chứng_thư số
+
+Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng có nghĩa_vụ :
+
+1 . Đảm_bảo kênh thông_tin tiếp_nhận yêu_cầu tạm dừng chứng_thư số hoạt_động 24 giờ trong ngày và 7 ngày trong tuần .
+
+2 . Lưu_trữ toàn_bộ thông_tin liên_quan đến hoạt_động tạm dừng chứng_thư số trong thời_gian ít_nhất 5 năm , kể từ khi chứng_thư số bị tạm dừng .
+
+3 . Trong_suốt thời_gian tạm dừng chứng_thư số , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số vẫn phải thực_hiện các nghĩa_vụ liên_quan đến lưu_trữ bí_mật những thông_tin về nhân_thân và khoá bí_mật của thuê_bao theo quy_định trong Nghị_định này .
+
+4 . Bồi_thường thiệt_hại cho các bên liên_quan trong trường_hợp thiệt_hại xảy ra là hậu_quả của việc không tuân_thủ các quy_định tại khoản 2 , 3 Điều 26 Nghị_định này .
+
+Điều 33 . Nghĩa_vụ liên_quan tới thu_hồi chứng_thư số
+
+Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng có nghĩa_vụ sau :
+
+1 . Phải đảm_bảo kênh thông_tin tiếp_nhận yêu_cầu thu_hồi chứng_thư số hoạt_động 24 giờ trong ngày và 7 ngày trong tuần .
+
+2 . Phải lưu_trữ lại toàn_bộ thông_tin liên_quan đến hoạt_động thu_hồi chứng_thư số và các chứng_thư số bị thu_hồi trong thời_gian ít_nhất 5 năm , kể từ khi chứng_thư số bị thu_hồi .
+
+3 . Đảm_bảo giữ bí_mật khoá bí_mật của thuê_bao trong trường_hợp thuê_bao uỷ_quyền và lưu_trữ các thông_tin liên_quan đến chứng_thư số của thuê_bao trong thời_hạn ít_nhất là 5 năm , kể từ khi chứng_thư số bị thu_hồi .
+
+4 . Bồi_thường thiệt_hại cho các bên liên_quan trong trường_hợp thiệt_hại xảy ra là hậu_quả của việc không tuân_thủ các quy_định tại Điều 27 Nghị_định này .
+
+Điều 34 . Nghĩa_vụ liên_quan tới hoạt_động quản_lí khoá
+
+Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng có nghĩa_vụ sau :
+
+1 . Đảm_bảo giữ bí_mật toàn_bộ quá_trình tạo cặp khoá trong trường_hợp tạo cặp khoá cho tổ_chức , cá_nhân xin cấp chứng_thư số .
+
+2 . Tận_dụng mọi phương_tiện và với nỗ_lực cao nhất để thông_báo cho thuê_bao đồng_thời áp_dụng những biện_pháp ngăn_chặn và khắc_phục kịp_thời trong trường_hợp phát_hiện thấy dấu_hiệu khoá bí_mật của thuê_bao đã bị lộ , không còn toàn_vẹn hoặc bất_cứ sự sai_sót nào khác có nguy_cơ ảnh_hưởng xấu đến quyền_lợi của thuê_bao .
+
+3 . Khuyến_cáo cho thuê_bao việc thay_đổi cặp khoá khi cần_thiết nhằm đảm_bảo tính tin_cậy và an_toàn cao nhất cho cặp khoá .
+
+4 . Bồi_thường thiệt_hại cho thuê_bao và người nhận nếu thiệt_hại xảy ra là hậu_quả của việc để lộ quá_trình tạo khoá , lộ khoá bí_mật của thuê_bao trong quá_trình chuyển_giao , hoặc lưu_trữ khoá bí_mật của thuê_bao trong trường_hợp tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số giữ khoá bí_mật của thuê_bao .
+
+Điều 35 . Nghĩa_vụ tạm dừng cấp chứng_thư số mới
+
+1 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng phải tạm dừng cấp chứng_thư số mới trong các trường_hợp sau :
+
+a ) Khi phát_hiện các sai_sót trong hệ_thống cung_cấp dịch_vụ của mình có_thể làm ảnh_hưởng đến quyền_lợi của thuê_bao và người nhận ;
+
+b ) Khi có yêu_cầu từ cơ_quan nhà_nước có thẩm_quyền .
+
+2 . Khi tạm dừng cấp chứng_thư số mới , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng phải thông_báo_công_khai việc tạm dừng trên trang tin điện_tử của mình và báo_cáo các cơ_quan nhà_nước có thẩm_quyền .
+
+3 . Trong thời_gian tạm dừng cấp chứng_thư số mới , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng có trách_nhiệm duy_trì hệ_thống cơ_sở dữ_liệu liên_quan đến chứng_thư số đã cấp .
+
+Điều 36 . Nghĩa_vụ công_khai_thông_tin
+
+Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng phải công_khai và duy_trì thông_tin 24 giờ trong ngày và 7 ngày trong tuần trên trang tin điện_tử của mình những thông_tin sau :
+
+1 . Quy_chế chứng_thực và chứng_thư số của mình .
+
+2 . Danh_sách chứng_thư số có hiệu_lực , bị tạm dừng , bị thu_hồi của thuê_bao .
+
+3 . Những thông_tin cần_thiết khác .
+
+Điều 37 . Nghĩa_vụ mua bảo_hiểm rủi_ro
+
+Trong trường_hợp không kí_quỹ hoặc không có bảo_lãnh của ngân_hàng theo qui_định tại khoản 2 Điều 15 Nghị_định này , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng phải mua bảo_hiểm để giải_quyết các rủi_ro và các khoản đền_bù có_thể xảy ra cho thuê_bao và người nhận trong trường_hợp thiệt_hại xảy ra do lỗi của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng và thanh_toán chi_phí cho tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng khác để tiếp_nhận và duy_trì cơ_sở dữ_liệu của mình khi mình bị thu_hồi giấy_phép .
+
+Điều 38 . Nghĩa_vụ liên_quan đến việc xin cấp phép và triển_khai giấy_phép
+
+Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng có các nghĩa_vụ sau :
+
+1 . Hoàn_toàn chịu trách_nhiệm trước pháp_luật về tính chính_xác của hồ_sơ xin cấp phép .
+
+2 . Triển_khai và duy_trì các hoạt_động theo đúng nội_dung ghi trong giấy_phép và các cam_kết trong hồ_sơ xin cấp phép .
+
+3 . Nộp phí và lệ_phí cấp phép theo quy_định .
+
+Điều 39 . Quyền và nghĩa_vụ khi bị thu_hồi giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng
+
+1 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng bị thu_hồi giấy_phép có nghĩa_vụ bàn_giao các tài_liệu , cơ_sở dữ_liệu liên_quan đến chứng_thư số và việc cấp chứng_thư số cho tổ_chức tiếp_nhận theo quy_định tại khoản 3 Điều 20 Nghị_định này .
+
+2 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng bị thu_hồi giấy_phép có nghĩa_vụ thông_báo cho thuê_bao về tình_trạng bị thu_hồi giấy_phép của mình và thông_tin về tổ_chức tiếp_nhận cơ_sở dữ_liệu của mình . Trường_hợp việc bị thu_hồi giấy_phép là do doanh_nghiệp không muốn tiếp_tục cung_cấp dịch_vụ , việc thông_báo này phải thực_hiện ít_nhất 3 tháng , trước khi doanh_nghiệp dừng cung_cấp dịch_vụ .
+
+3 . Tổ_chức tiếp_nhận cơ_sở dữ_liệu của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số bị thu_hồi giấy_phép phải thực_hiện các quyền và nghĩa_vụ đối_với các thuê_bao và người nhận của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng bị thu_hồi giấy_phép đó .
+
+4 . Sau thời_hạn 03 năm , kể từ ngày bị thu_hồi giấy_phép , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng bị thu_hồi giấy_phép được quyền xin cấp lại giấy_phép . Điều_kiện và thủ_tục cấp lại thực_hiện theo các quy_định như trường_hợp xin cấp mới .
+
+Điều 40 . Quyền và nghĩa_vụ khác
+
+1 . Báo_cáo định_kì và đột_xuất theo yêu_cầu của các cơ_quan nhà_nước có thẩm_quyền .
+
+2 . Chịu sự kiểm_tra , thanh_tra và xử_lí vi_phạm của các cơ_quan nhà_nước có thẩm_quyền .
+
+3 . Cung_cấp cho cơ_quan tiến_hành tố_tụng hoặc cơ_quan an_ninh những thông_tin cần_thiết nhằm phục_vụ công_tác đảm_bảo_an_ninh thông_tin , điều_tra phòng_chống tội_phạm theo đúng trình_tự , thủ_tục pháp_luật về tố_tụng quy_định .
+
+4 . Trong trường_hợp khẩn_cấp do pháp_luật về tình_trạng khẩn_cấp quy_định hoặc để đảm_bảo_an_ninh quốc_gia , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng có nghĩa_vụ thực_hiện mọi sự hỗ_trợ cần_thiết theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền .
+
+Mục 2 : Quyền Và Nghĩa_vụ Của Thuê_bao Của Tổ_chức Cung_cấp Dịch_vụ Chứng_thực_chữ_ký Số Công_cộng
+
+Điều 41 . Quyền và nghĩa_vụ thuê_bao trong việc cung_cấp thông_tin
+
+Thuê_bao của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng có các quyền và nghĩa_vụ sau :
+
+1 . Nghĩa_vụ cung_cấp thông_tin về nhân_thân của mình một_cách trung_thực , chính_xác và xuất_trình các giấy_tờ phục_vụ cho việc cấp chứng_thư số cho tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng ; tự chịu trách_nhiệm trước pháp_luật và thiệt_hại xảy ra nếu vi_phạm_quy_định này .
+
+2 . Có quyền yêu_cầu tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng cung_cấp bằng văn_bản những thông_tin quy_định tại khoản 1 Điều 30 Nghị_định này .
+
+3 . Cung_cấp khoá bí_mật và những thông_tin cần_thiết cho các cơ_quan tiến_hành tố_tụng , cơ_quan an_ninh để phục_vụ_việc đảm_bảo_an_ninh quốc_gia hoặc điều_tra tội_phạm theo quy_định của pháp_luật .
+
+Điều 42 . Tạo , sử_dụng và quản_lí khoá
+
+Thuê_bao của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng có các quyền và nghĩa_vụ sau :
+
+1 . Trường_hợp tự tạo cặp khoá cho mình , thuê_bao phải đảm_bảo thiết_bị tạo cặp khoá sử_dụng đúng quy_chuẩn kĩ_thuật và tiêu_chuẩn bắt_buộc áp_dụng . Quy_định này không áp_dụng cho trường_hợp thuê_bao thuê thiết_bị tạo cặp khoá của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng .
+
+2 . Lưu_trữ và sử_dụng khoá bí_mật của mình một_cách an_toàn , bí_mật trong suốt thời_gian chứng_thư số của mình có hiệu_lực và bị tạm dừng .
+
+3 . Thông_báo ngay cho tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số của mình nếu phát_hiện thấy dấu_hiệu khoá bí_mật của mình đã bị lộ , bị đánh_cắp hoặc sử_dụng trái_phép để có các biện_pháp xử_lý .
+
+4 . Chịu trách_nhiệm trước pháp_luật về mọi thiệt_hại xảy ra nếu vi_phạm_quy_định tại khoản 1 , 2 , 3 Điều này .
+
+Điều 43 . Nghĩa_vụ pháp_lí
+
+1 . Khi đã đồng_ý để tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng công_khai chứng_thư số của mình theo quy_định tại khoản 3 Điều 23 Nghị_định này hoặc khi đã cung_cấp chứng_thư số đó cho người khác với mục_đích để giao_dịch , thuê_bao được coi là đã cam_kết với người nhận rằng thuê_bao là người nắm giữ hợp_pháp khoá bí_mật tương_ứng với khoá công_khai trên chứng_thư số đó và những thông_tin trên chứng_thư số liên_quan đến thuê_bao là đúng sự_thật , đồng_thời phải thực_hiện các nghĩa_vụ xuất_phát từ chứng_thư số đó .
+
+2 . Có quyền yêu_cầu tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số của mình tạm dừng , thu_hồi lại chứng_thư số đã cấp và tự chịu trách_nhiệm về yêu_cầu đó .
+
+Mục 3 : Nghĩa_vụ Của Người Nhận
+
+Điều 44 . Nghĩa_vụ kiểm_tra thông_tin
+
+1 . Trước khi chấp_nhận chữ_kí số của người ký , người nhận phải kiểm_tra những thông_tin sau :
+
+a ) Hiệu_lực , phạm_vi sử_dụng , giới_hạn trách_nhiệm và những thông_tin khác liên_quan đến chứng_thư số của người ký ;
+
+b ) Chữ_kí số phải được tạo bởi khoá bí_mật tương_ứng với khoá công_khai trên chứng_thư số của người ký .
+
+2 . Người nhận phải chịu mọi thiệt_hại xảy ra trong trường_hợp sau :
+
+a ) Không tuân_thủ các quy_định tại khoản 1 Điều này ;
+
+b ) Đã biết hoặc được thông_báo về sự không còn tin_cậy của chứng_thư số và khoá bí_mật của người ký .
+
+Chương 6 :
+
+Tổ_chức Cung_cấp Dịch_vụ Chứng_thực_chữ_ký Số Chuyên_dùng
+
+Mục 1 : Điều_kiện , Thủ_tục Đăng_ký Hoạt_động Của Tổ_chức Cung_cấp Dịch_vụ Chứng_thực_chữ_ký Số Chuyên_dùng
+
+Điều 45 . Điều_kiện hoạt_động của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng
+
+Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng phải đáp_ứng các điều_kiện sau :
+
+1 . Có đủ nhân_viên kĩ_thuật chuyên_nghiệp và nhân_viên quản_lí phù_hợp với việc cung_cấp dịch_vụ chứng_thực chữ_kí số .
+
+2 . Hệ_thống_thiết_bị cung_cấp dịch_vụ phù_hợp với tiêu_chuẩn an_ninh , an_toàn_quốc_gia .
+
+Điều 46 . Quy_trình , thủ_tục đăng_kí hoạt_động của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng
+
+Trước khi hoạt_động , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng phải đăng_kí với Bộ Bưu_chính , Viễn_thông theo các nội_dung sau :
+
+1 . Tên , địa_chỉ trụ_sở của tổ_chức .
+
+2 . Thông_tin chi_tiết về người đứng đầu và người chịu trách_nhiệm quản_trị hệ_thống_thiết_bị cung_cấp dịch_vụ .
+
+3 . Phạm_vi , đối_tượng cung_cấp dịch_vụ .
+
+4 . Các quy_chuẩn kĩ_thuật và tiêu_chuẩn sẽ áp_dụng .
+
+Điều 47 . Quyền và nghĩa_vụ của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng
+
+Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng có các quyền và nghĩa_vụ sau :
+
+1 . Quy_định hoạt_động cung_cấp dịch_vụ .
+
+2 . Quy_định các quyền và nghĩa_vụ của các bên liên_quan trên cơ_sở không được trái với các quy_định pháp_luật có liên_quan và nguyên_tắc của hệ_thống pháp_luật Việt_nam .
+
+3 . Chịu sự kiểm_tra , thanh_tra và xử_lí vi_phạm của các cơ_quan nhà_nước có thẩm_quyền .
+
+4 . Cung_cấp cho cơ_quan tiến_hành tố_tụng hoặc cơ_quan an_ninh những thông_tin cần_thiết nhằm phục_vụ công_tác đảm_bảo_an_ninh thông_tin , điều_tra phòng_chống tội_phạm theo đúng trình_tự , thủ_tục pháp_luật về tố_tụng quy_định .
+
+5 . Trong trường_hợp khẩn_cấp do pháp_luật về tình_trạng khẩn_cấp quy_định hoặc để đảm_bảo_an_ninh quốc_gia , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng có nghĩa_vụ thực_hiện mọi sự hỗ_trợ cần_thiết theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền .
+
+6 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng có quyền đề_nghị Bộ Bưu_chính , Viễn_thông cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số để đảm_bảo_an_toàn cho chữ_kí số theo quy_định tại Điều 9 Nghị_định này . Điều_kiện , thủ_tục cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số tuân theo các quy_định tại Điều 48 , Điều 49 , Điều 50 Nghị_định này .
+
+Mục 2 : Điều_kiện , Thủ_tục Cấp Giấy Chứng_nhận Đủ Điều_kiện Đảm_bảo_an_toàn Cho Chữ_ký_số
+
+Điều 48 . Điều_kiện cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số
+
+Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng chỉ được cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số khi đáp_ứng các điều_kiện về nhân_sự , kĩ_thuật và các điều_kiện khác quy_định tại khoản 3 , 4 , 5 Điều 15 Nghị_định này .
+
+Điều 49 . Hồ_sơ đề_nghị cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số
+
+Hồ_sơ đề_nghị cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số được lập thành 06 bộ , mỗi bộ hồ_sơ gồm có :
+
+1 . Đơn đề_nghị cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số .
+
+2 . Quyết_định thành_lập và điều_lệ hoạt_động của tổ_chức .
+
+3 . Đề_án cung_cấp dịch_vụ bao_gồm :
+
+a ) Phạm_vi , đối_tượng cung_cấp dịch_vụ và các thông_tin cần_thiết khác ;
+
+b ) Phương_án kĩ_thuật nhằm đảm_bảo quy_định tại Điều 48 Nghị_định này ;
+
+c ) Quy_chế chứng_thực ;
+
+d ) Thông_tin chi_tiết về nhân_thân và trình_độ , bằng_cấp của nhân_sự sẽ trực_tiếp tham_gia các hoạt_động cung_cấp dịch_vụ chứng_thực chữ_kí số của tổ_chức .
+
+Điều 50 . Thẩm_tra hồ_sơ và cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số
+
+Trong thời_hạn 60 ngày làm_việc kể từ ngày nhận được hồ_sơ đề_nghị cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số , Bộ Bưu_chính , Viễn_thông chủ_trì , phối_hợp với Bộ Công_an , Ban Cơ_yếu Chính_phủ và các Bộ , ngành có liên_quan thẩm_tra hồ_sơ và kiểm_tra thực_tế . Trường_hợp đáp_ứng đủ các điều_kiện cung_cấp dịch_vụ quy_định tại Điều 48 , Bộ Bưu_chính , Viễn_thông sẽ cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số cho tổ_chức . Trường_hợp tổ_chức không đáp_ứng đủ các điều_kiện theo quy_định , Bộ Bưu_chính , Viễn_thông có văn_bản thông_báo và nêu rõ lí_do .
+
+Điều 51 . Quyền và nghĩa_vụ của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng được cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số
+
+Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng được cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số có các quyền và nghĩa_vụ sau :
+
+1 . Quy_định hoạt_động , các quyền và nghĩa_vụ của các bên liên_quan trên cơ_sở không trái với các quy_định pháp_luật có liên_quan và nguyên_tắc của hệ_thống pháp_luật Việt_nam .
+
+2 . Báo_cáo định_kì và đột_xuất theo yêu_cầu của các cơ_quan nhà_nước có thẩm_quyền .
+
+3 . Chịu sự kiểm_tra , thanh_tra và xử_lí vi_phạm của các cơ_quan nhà_nước có thẩm_quyền .
+
+4 . Cung_cấp cho cơ_quan tiến_hành tố_tụng hoặc cơ_quan an_ninh những thông_tin cần_thiết nhằm phục_vụ công_tác đảm_bảo_an_ninh thông_tin , điều_tra phòng_chống tội_phạm theo đúng trình_tự , thủ_tục pháp_luật về tố_tụng quy_định .
+
+5 . Trong trường_hợp khẩn_cấp do pháp_luật về tình_trạng khẩn_cấp quy_định hoặc để đảm_bảo_an_ninh quốc_gia , tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng được cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số có nghĩa_vụ thực_hiện mọi sự hỗ_trợ cần_thiết theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền .
+
+Chương 7 :
+
+Công_nhận Chữ_ký_số , Chứng_thư_số Và Hoạt_động Cung_cấp Dịch_vụ Của Tổ_chức Cung_cấp Dịch_vụ Chứng_thực_chữ_ký Số Nước_ngoài
+
+Điều 52 . Công_nhận chữ_kí số và chứng_thư số nước_ngoài
+
+1 . Chữ_kí số và chứng_thư số nước_ngoài được công_nhận khi tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số nước_ngoài cấp chứng_thư số đó được Bộ Bưu_chính Viễn_thông cấp giấy công_nhận chữ_kí số và chứng_thư số nước_ngoài .
+
+2 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số nước_ngoài được cấp giấy công_nhận chữ_kí số và chứng_thư số nước_ngoài khi đáp_ứng các điều_kiện sau :
+
+a ) Quốc_gia mà tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số đó đăng_kí hoạt_động có kí_kết hoặc tham_gia điều_ước quốc_tế có quy_định về việc công_nhận chữ_kí số và chứng_thư số nước_ngoài mà Việt_nam có tham_gia .
+
+b ) Được cơ_quan có thẩm_quyền của nước mình cấp phép hoặc chứng_nhận đủ điều_kiện hoạt_động trong lĩnh_vực cung_cấp dịch_vụ chứng_thực chữ_kí số và đang hoạt_động .
+
+c ) Độ tin_cậy của chữ_kí số và chứng_thư số do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số đó cấp không thấp hơn độ tin_cậy của chữ_kí số và chứng_thư số được cấp bởi tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng của Việt_nam .
+
+d ) Có văn_phòng đại_diện tại Việt_nam để giải_quyết các vấn_đề có liên_quan . Bổ_sung
+
+Điều 53 . Hồ_sơ_cấp giấy công_nhận chữ_kí số và chứng_thư số nước_ngoài
+
+Hồ_sơ đề_nghị cấp giấy công_nhận chữ_kí số và chứng_thư số nước_ngoài được lập thành 06 bộ , mỗi bộ hồ_sơ gồm có :
+
+1 . Đơn đề_nghị công_nhận chữ_kí số và chứng_thư số nước_ngoài của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số nước_ngoài .
+
+2 . Các văn_bản chứng_minh đáp_ứng được đầy_đủ các quy_định tại khoản 1 , 2 , 3 , 4 Điều 52 Nghị_định này .
+
+3 . Biên_lai thu lệ_phí thẩm_tra .
+
+4 . Các nội_dung khác theo yêu_cầu của Bộ Bưu_chính , Viễn_thông . Bổ_sung
+
+Điều 54 . Thẩm_tra hồ_sơ và cấp giấy công_nhận chữ_kí số và chứng_thư số nước_ngoài
+
+Trong thời_hạn 60 ngày làm_việc kể từ ngày nhận được hồ_sơ xin cấp giấy công_nhận chữ_kí số và chứng_thư số nước_ngoài , Bộ Bưu_chính , Viễn_thông chủ_trì , phối_hợp với Bộ Công_an , Ban Cơ_yếu Chính_phủ và các Bộ ngành có liên_quan thẩm_tra . Trường_hợp đáp_ứng đủ các điều_kiện quy_định tại Điều 52 , Bộ Bưu_chính , Viễn_thông sẽ cấp giấy công_nhận chữ_kí số và chứng_thư số nước_ngoài cho tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số nước_ngoài . Trường_hợp không đáp_ứng đủ các điều_kiện theo quy_định , Bộ Bưu_chính , Viễn_thông có văn_bản thông_báo và nêu rõ lí_do . Bổ_sung
+
+Điều 55 . Hoạt_động cung_cấp dịch_vụ của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số nước_ngoài
+
+1 . Việc đầu_tư cung_cấp dịch_vụ của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số nước_ngoài tại Việt_nam thực_hiện theo quy_định của pháp_luật về đầu_tư , các điều_ước quốc_tế về dịch_vụ chứng_thực chữ_kí số mà Việt_nam kí_kết hoặc tham_gia .
+
+2 . Hoạt_động của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số nước_ngoài tại Việt_nam tuân theo các quy_định về điều_kiện hoạt_động , hoạt_động , quyền và nghĩa_vụ như các tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng .
+
+Chương 8 :
+
+Tổ_chức Cung_cấp Dịch_vụ Chứng_thực_chữ_ký Số Quốc_gia
+
+Điều 56 . Thành_lập tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia
+
+1 . Việc thành_lập tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia phải tuân_thủ các quy_định tại khoản 3 , 4 , 5 Điều 15 Nghị_định này .
+
+2 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia tự_cấp chứng_thư số cho mình .
+
+Điều 57 . Hoạt_động cung_cấp dịch_vụ , quyền và nghĩa_vụ của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia
+
+Hoạt_động cấp và quản_lí chứng_thư số của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia , quyền và nghĩa_vụ của các bên có liên_quan phải tuân theo các quy_định tại Chương Iv và Chương V Nghị_định này , theo đó tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia đóng vai_trò như một tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng , các tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng đóng vai_trò như các thuê_bao , với một_số quy_định bổ_sung , sửa_đổi như sau :
+
+1 . Hồ_sơ xin cấp chứng_thư số quy_định tại Điều 21 Nghị_định này bổ_sung giấy_phép của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng do Bộ Bưu_chính , Viễn_thông cấp .
+
+2 . Cặp khoá quy_định tại Điều 22 Nghị_định này do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng tự tạo trên hệ_thống của mình .
+
+3 . Nội_dung cần kiểm_tra trước khi cấp chứng_thư số qui_định tại khoản 1 Điều 23 Nghị_định này bổ_sung kiểm_tra việc tuân_thủ các điều_kiện hoạt_động quy_định tại khoản 4 , khoản 5 Điều 15 Nghị_định này .
+
+4 . Thông_tin công_khai quy_định tại Điều 36 Nghị_định này được công_bố trên trang tin điện_tử của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia hoặc tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng . Bổ_sung
+
+Chương 9 :
+
+Tranh_chấp , Khiếu_nại , Tố_cáo Và Bồi_thường
+
+Điều 58 . Giải_quyết tranh_chấp
+
+Tranh_chấp giữa các bên trong việc cung_cấp và sử_dụng dịch_vụ chứng_thực chữ_kí số cho công_cộng được giải_quyết trên cơ_sở hợp_đồng giữa các bên và các quy_định của pháp_luật có liên_quan .
+
+Điều 59 . Khiếu_nại , tố_cáo
+
+Việc khiếu_nại đối_với Quyết_định hành_chính và hành_vi hành_chính về chữ_kí số và dịch_vụ chứng_thực chữ_kí số ; việc tố_cáo với các cơ_quan nhà_nước có thẩm_quyền về các hành_vi vi_phạm liên_quan đến chữ_kí số và dịch_vụ chứng_thực chữ_kí số được thực_hiện theo quy_định của pháp_luật về khiếu_nại , tố_cáo .
+
+Điều 60 . Bồi_thường thiệt_hại
+
+1 Tổ_chức , cá_nhân gây thiệt_hại cho tổ_chức , cá_nhân khác trong hoạt_động cung_cấp , sử_dụng dịch_vụ chứng_thực chữ_kí số thì phải bồi_thường theo quy_định của pháp_luật .
+
+2 . Bộ Bưu_chính , Viễn_thông quy_định cụ_thể nguyên_tắc và mức bồi_thường thiệt_hại trong hoạt_động cung_cấp , sử_dụng dịch_vụ chứng_thực chữ_kí số .
+
+Chương 10 :
+
+Thanh_tra , Kiểm_tra Và Xử_lý_vi_phạm
+
+Điều 61 . Thanh_tra , kiểm_tra
+
+1 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng và tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng được cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số chịu sự kiểm_tra định_kì hàng năm của Bộ Bưu_chính , Viễn_thông về việc tuân_thủ các quy_định tại Nghị_định này . Kết_quả kiểm_tra phải được công_bố công_khai trên trang tin điện_tử của Bộ Bưu_chính , Viễn_thông .
+
+2 . Các tổ_chức cung_cấp và tổ_chức , cá_nhân sử_dụng dịch_vụ chứng_thực chữ_kí số chịu sự thanh_tra , kiểm_tra của các cơ_quan nhà_nước có thẩm_quyền theo quy_định của pháp_luật .
+
+3 . Việc thanh_tra các tổ_chức và cá_nhân tham_gia hoạt_động quản_lý , cung_cấp và sử_dụng dịch_vụ chứng_thực chữ_kí số được tiến_hành theo quy_định của pháp_luật về thanh_tra .
+
+Điều 62 . Vi_phạm các quy_tắc về điều_kiện hoạt_động
+
+1 . Phạt tiền từ 1 . 000 . 000 đồng đến 2 . 000 . 000 đồng đối_với hành_vi không làm thủ_tục cấp lại khi bị mất hoặc hư_hỏng đến mức không còn rõ nội_dung một trong các loại giấy sau :
+
+a ) Giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng ;
+
+b ) Giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số ;
+
+c ) Giấy công_nhận chữ_kí số và chứng_thư số nước_ngoài .
+
+2 . Phạt tiền từ 4 . 000 . 000 đồng đến 10 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+a ) Làm thủ_tục xin gia_hạn giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng không đảm_bảo thời_gian theo quy_định tại khoản 1 Điều 19 Nghị_định này ;
+
+b ) Gửi hồ_sơ xin gia_hạn giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng khi nhận được thông_báo của Bộ Bưu_chính , Viễn_thông không đảm_bảo thời_gian quy_định tại khoản 1 Điều 19 Nghị_định này ;
+
+c ) Hoạt_động cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng không đáp_ứng các điều_kiện quy_định tại khoản 1 Điều 45 Nghị đinh này .
+
+3 . Phạt tiền từ 10 . 000 . 000 đồng đến 20 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+a ) Tẩy_xoá , sửa_chữa nội_dung giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số ;
+
+b ) Mua , bán , chuyển_nhượng , cho thuê , cho mượn hoặc thuê , mượn giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số ;
+
+c ) Cung_cấp thông_tin , tài_liệu sai sự_thật nhằm mục_đích đăng_kí hoạt_động hoặc xin cấp giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số .
+
+4 . Phạt tiền từ 20 . 000 . 000 đồng đến 40 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+a ) Tẩy_xoá , sửa_chữa nội_dung ghi trong giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng ;
+
+b ) Tẩy_xoá , sửa_chữa nội_dung ghi trong giấy công_nhận chữ_kí số và chứng_thư số nước_ngoài ;
+
+c ) Mua , bán , chuyển_nhượng , cho thuê , cho mượn hoặc thuê , mượn các loại giấy quy_định tại điểm a , b khoản 1 Điều này ;
+
+d ) Cung_cấp thông_tin , tài_liệu sai sự_thật nhằm mục_đích xin cấp , thay_đổi nội_dung , gia_hạn giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng ;
+
+đ ) Cung_cấp thông_tin , tài_liệu sai sự_thật nhằm mục_đích xin cấp giấy công_nhận chữ_kí số và chứng_thư số nước_ngoài ;
+
+e ) Trong quá_trình hoạt_động cung_cấp dịch_vụ chứng_thực chữ_kí số không đáp_ứng điều_kiện về nhân_sự quy_định tại khoản 3 Điều 15 Nghị_định này ;
+
+g ) Lưu bản_sao của khoá bí_mật khi không có yêu_cầu bằng văn_bản của tổ_chức , cá_nhân xin cấp chứng_thư số .
+
+5 . Phạt tiền từ 50 . 000 . 000 đồng đến 70 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+a ) Cung_cấp dịch_vụ chứng_thực chữ_kí số cho công_cộng mà không có giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng do Bộ Bưu_chính , Viễn_thông cấp hoặc chứng_thư số do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia cấp ;
+
+b ) Cung_cấp dịch_vụ chứng_thực chữ_kí số cho công_cộng khi chứng_thư số do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia cấp đã hết hiệu_lực hoặc giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng hết hạn .
+
+6 . Phạt tiền từ 70 . 000 . 000 đồng đến 100 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+a ) Không mua bảo_hiểm trong trường_hợp không kí_quỹ hoặc bảo_lãnh theo quy_định tại Điều 37 Nghị_định này ;
+
+b ) Trong quá_trình hoạt_động cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng không đáp_ứng điều_kiện về tài_chính quy_định tại khoản 2 Điều 15 Nghị_định này ;
+
+c ) Không_lưu_trữ đầy_đủ , chính_xác và cập_nhật thông_tin của thuê_bao phục_vụ cho việc cấp chứng_thư số trong suốt thời_gian chứng_thư số có hiệu_lực .
+
+Điều 63 . Vi_phạm các quy_định về an_toàn , an_ninh
+
+1 . Phạt tiền từ 5 . 000 . 000 đồng đến 10 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+a ) Ngăn_cản trái_phép việc sử_dụng chứng_thư số ;
+
+b ) Lưu_trữ trái_phép khoá bí_mật của người khác ;
+
+c ) Lưu_trữ thông_tin liên_quan đến tổ_chức , cá_nhân xin cấp chứng_thư số không đảm_bảo bí_mật , an_toàn ;
+
+d ) Sử_dụng thông_tin liên_quan đến tổ_chức , cá_nhân xin cấp chứng_thư số không đúng quy_định của pháp_luật ;
+
+đ ) Không đảm_bảo_an_toàn trong quá_trình tạo hoặc chuyển_giao chứng_thư số cho thuê_bao .
+
+2 . Phạt tiền từ 10 . 000 . 000 đồng đến 30 . 000 . 000 đồng đối_với hành_vi sau :
+
+a ) Trộm_cắp , gian_lận , mạo_nhận , chiếm_đoạt khoá bí_mật của người khác ;
+
+b ) Sao_chép , tiết_lộ hoặc cung_cấp khoá bí_mật của thuê_bao trái pháp_luật ;
+
+c ) Truy_nhập , tiết_lộ , sử_dụng trái_phép thông_tin của thuê_bao và tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số ;
+
+d ) Không đảm_bảo bí_mật toàn_bộ quá_trình tạo cặp khoá ;
+
+đ ) Sử_dụng thiết_bị không đúng quy_chuẩn kĩ_thuật và tiêu_chuẩn bắt_buộc áp_dụng để tạo cặp khoá ;
+
+e ) Sử_dụng phương_thức không đảm_bảo_an_toàn để chuyển_giao khoá bí_mật đến tổ_chức , cá_nhân xin cấp chứng_thư số ;
+
+g ) Tạo cặp khoá trái quy_định của pháp_luật ;
+
+h ) Không_lưu_trữ bí_mật những thông_tin về thuê_bao và khoá bí_mật của thuê_bao trong suốt thời_gian tạm dừng chứng_thư số ;
+
+i ) Sửa_đổi trái_phép thông_tin của thuê_bao và tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số ;
+
+k ) Không đảm_bảo giữ bí_mật khoá bí_mật của thuê_bao trong trường_hợp thuê_bao uỷ_quyền .
+
+3 . Phạt tiền từ 30 . 000 . 000 đồng đến 50 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+a ) Sử_dụng phần_mềm máy_tính , thiết_bị kĩ_thuật xâm_nhập trái_phép vào hệ_thống_thiết_bị hoặc cơ_sở dữ_liệu của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số mà chưa đến mức truy_cứu trách_nhiệm hình_sự ;
+
+b ) Tiết_lộ hoặc cung_cấp trái pháp_luật khoá bí_mật của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng ;
+
+c ) Sử_dụng trái_phép khoá bí_mật của người khác ;
+
+d ) Làm giả hoặc hướng_dẫn người khác làm giả chứng_thư số ;
+
+đ ) Tạo chữ_kí số không đảm_bảo một trong các điều_kiện quy_định tại Điều 9 Nghị_định này ;
+
+e ) Sử_dụng hệ_thống_thiết_bị kĩ_thuật không có khả_năng phát_hiện , cảnh_báo những truy_nhập bất_hợp_pháp và những hình_thức tấn_công trên môi_trường mạng ;
+
+g ) Sử_dụng hệ_thống phân_phối khoá cho thuê_bao không đảm_bảo sự toàn_vẹn và bảo_mật của cặp khoá ;
+
+h ) Không triển_khai_phương_án kiểm_soát sự ra vào trụ_sở hoặc nơi đặt thiết_bị phục_vụ_việc cung_cấp dịch_vụ chứng_thực chữ_kí số ;
+
+i ) Không triển_khai_phương_án kiểm_soát quyền truy_nhập hệ_thống cung_cấp dịch_vụ chứng_thực chữ_kí số ;
+
+k ) Sử_dụng trái_phép khoá bí_mật của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng ;
+
+l ) Trộm_cắp khoá bí_mật của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng ;
+
+m ) Vi_phạm các quy_định về an_toàn , an_ninh khác theo quy_định của pháp_luật .
+
+4 . Phạt tiền từ 50 . 000 . 000 đồng đến 70 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+a ) Ngăn_cản trái_phép hoạt_động của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số ;
+
+b ) Sử_dụng trái_phép khoá bí_mật của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng ;
+
+c ) Tiết_lộ hoặc cung_cấp trái pháp_luật khoá bí_mật của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng ;
+
+d ) Trộm_cắp khoá bí_mật của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng .
+
+5 . Phạt tiền từ 70 . 000 . 000 đồng đến 100 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+a ) Không triển_khai hoặc triển_khai không đầy_đủ phương_án dự_phòng để đảm_bảo duy_trì hoạt_động an_toàn , liên_tục và khắc_phục khi có sự_cố xảy ra ;
+
+b ) Trộm_cắp khoá bí_mật của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia ;
+
+c ) Tiết_lộ hoặc cung_cấp khoá bí_mật của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia trái pháp_luật ;
+
+d ) Sử_dụng trái_phép khoá bí_mật của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia ;
+
+đ ) Phá_hoại thiết_bị , cơ_sở dữ_liệu của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số mà chưa đến mức truy_cứu trách_nhiệm hình_sự ;
+
+e ) Không thực_hiện hoặc thực_hiện không đúng yêu_cầu của cơ_quan nhà_nước có thẩm_quyền trong trường_hợp khẩn_cấp theo quy_định của pháp_luật về tình_trạng khẩn_cấp hoặc để đảm_bảo_an_ninh quốc_gia .
+
+Điều 64 . Vi_phạm các quy_định về quy_chuẩn kĩ_thuật và tiêu_chuẩn bắt_buộc áp_dụng
+
+1 . Phạt tiền từ 10 . 000 . 000 đồng đến 30 . 000 . 000 đồng đối_với hành_vi cung_cấp dịch_vụ chứng_thực chữ_kí số của các tổ_chức chứng_thực chữ_kí số chuyên_dùng không đúng tiêu_chuẩn đã đăng_ký .
+
+2 . Phạt tiền từ 30 . 000 . 000 đồng đến 50 . 000 . 000 đồng đối_với hành_vi cung_cấp dịch_vụ chứng_thực chữ_kí số của các tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng không đảm_bảo các tiêu_chuẩn đã đăng_ký .
+
+3 . Phạt tiền từ 50 . 000 . 000 đồng đến 70 . 000 . 000 đồng đối_với một trong những hành_vi sau :
+
+a ) Phương_án kĩ_thuật không phù_hợp với quy_chuẩn kĩ_thuật trong quá_trình hoạt_động ;
+
+b ) Cung_cấp dịch_vụ chứng_thực chữ_kí số không tuân theo các quy_chuẩn kĩ_thuật ; và tiêu_chuẩn bắt_buộc áp_dụng .
+
+Điều 65 . Vi_phạm các quy_định về giá cước , phí , lệ_phí
+
+1 . Đối_với hành_vi vi_phạm về giá cước dịch_vụ trong hoạt_động cung_cấp dịch_vụ chứng_thực chữ_kí số áp_dụng theo quy_định tại Nghị_định số 169/2004/NĐ-CP ngày 22 tháng 9 năm 2004 của Chính_phủ quy_định về xử_phạt vi_phạm hành_chính trong lĩnh_vực giá .
+
+2 . Đối_với hành_vi vi_phạm về phí , lệ_phí trong hoạt_động cung_cấp dịch_vụ chứng_thực chữ_kí số áp_dụng theo quy_định tại Nghị_định số 106/2003/NĐ-CP ngày 23 tháng 9 năm 2003 của Chính_phủ quy_định về việc xử_phạt vi_phạm hành_chính trong lĩnh_vực phí , lệ_phí .
+
+Điều 66 . Vi_phạm các quy_định về cung_cấp dịch_vụ
+
+1 . Phạt tiền từ 1 . 000 . 000 đồng đến 5 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+a ) Hướng_dẫn không đúng hoặc không đầy_đủ những thông_tin quy_định tại khoản 1 Điều 30 Nghị_định này ;
+
+b ) Không hướng_dẫn bằng văn_bản cho tổ_chức , cá_nhân xin cấp chứng_thư số trước khi kí hợp_đồng cấp chứng_thư số ;
+
+c ) Không gia_hạn chứng_thư số của thuê_bao khi được thuê_bao yêu_cầu theo quy_định ;
+
+d ) Không đảm_bảo kênh thông_tin 24 giờ trong ngày và 7 ngày trong tuần để tiếp_nhận yêu_cầu thu_hồi , tạm dừng chứng_thư số ;
+
+đ ) Không_lưu_trữ thông_tin liên_quan đến chứng_thư số trong thời_gian tối_thiểu 5 năm kể từ khi chứng_thư số bị thu_hồi ;
+
+e ) Không cung_cấp bằng văn_bản thông_tin quy_định tại khoản 1 Điều 30 khi có yêu_cầu của thuê_bao .
+
+2 . Phạt tiền từ 5 . 000 . 000 đồng đến 10 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+a ) Không thông_báo cho thuê_bao trong trường_hợp phát_hiện thấy dấu_hiệu khoá bí_mật của thuê_bao đã bị lộ , không còn toàn_vẹn hoặc bất_cứ sự sai_sót nào khác có nguy_cơ ảnh_hưởng xấu đến quyền_lợi của thuê_bao đó ;
+
+b ) Không thông_báo cho thuê_bao về tình_trạng bị thu_hồi giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng của mình và thông_tin về tổ_chức tiếp_nhận cơ_sở dữ_liệu của mình ;
+
+c ) Không thông_báo cho thuê_bao trước khi dừng cung_cấp dịch_vụ đảm_bảo thời_gian quy_định tại khoản 2 Điều 39 Nghị_định này ;
+
+d ) Không thông_báo cho thuê_bao việc tạm dừng , thời_gian bắt_đầu và kết_thúc việc tạm dừng khi có căn_cứ tạm dừng chứng_thư số của thuê_bao đó ;
+
+đ ) Không thông_báo_công_khai việc tạm dừng cấp chứng_thư số mới trên trang tin điện_tử của mình ;
+
+e ) Từ_chối cấp chứng_thư số mà không có_lí_do chính_đáng ;
+
+g ) Quy_chế chứng_thực công_khai không theo mẫu của Bộ Bưu_chính , Viễn_thông hoặc có nội_dung không phù_hợp với các quy_định tại Nghị_định này ;
+
+h ) Không công_khai quy_chế chứng_thực theo mẫu của Bộ Bưu_chính , Viễn_thông ;
+
+i ) Không thông_báo cho thuê_bao việc thu_hồi chứng_thư số của thuê_bao đó ;
+
+k ) Không đăng_kí với Bộ Bưu_chính , Viễn_thông theo quy_định tại Điều 46 Nghị đinh này ;
+
+l ) Không xây_dựng hợp_đồng mẫu dùng cho hoạt_động cung_cấp chứng_thư số ;
+
+m ) Cung_cấp dịch_vụ cấp dấu thời_gian không tuân theo quy_chuẩn kĩ_thuật và tiêu_chuẩn bắt_buộc áp_dụng ;
+
+n ) Không báo_cáo các cơ_quan nhà_nước có thẩm_quyền việc tạm dừng cấp chứng_thư số mới .
+
+3 . Phạt tiền từ 10 . 000 . 000 đồng đến 20 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+a ) Công_bố chứng_thư số đã cấp cho thuê_bao trên cơ_sở dữ_liệu khi chưa có xác_nhận của thuê_bao về tính chính_xác của thông_tin trên chứng_thư số ;
+
+b ) Không công_bố trên trang tin điện_tử chứng_thư số được cấp mới , tạm dừng , thu_hồi , thời_gian bắt_đầu và kết_thúc việc tạm dừng chứng_thư số ;
+
+c ) Không khôi_phục chứng_thư số khi hết thời_hạn tạm dừng ;
+
+d ) Không_lưu_trữ toàn_bộ thông_tin liên_quan đến hoạt_động tạm dừng hoặc thu_hồi chứng_thư số trong thời_gian tối_thiểu 5 năm ;
+
+đ ) Không thoả_thuận để bàn_giao cơ_sở dữ_liệu liên_quan đến hoạt_động cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng khi bị thu_hồi giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng ;
+
+e ) Không báo_cáo Bộ Bưu_chính , Viễn_thông trong trường_hợp không thoả_thuận được việc bàn_giao cơ_sở dữ_liệu liên_quan đến hoạt_động cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng khi bị thu_hồi giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng ;
+
+g ) Thay_đổi cặp khoá khi chưa có yêu_cầu của thuê_bao ;
+
+h ) Không_lưu_trữ thông_tin liên_quan đến tổ_chức , cá_nhân xin cấp chứng_thư số .
+
+4 . Phạt tiền từ 20 . 000 . 000 đồng đến 40 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+a ) Không tạm dừng chứng_thư số theo yêu_cầu của thuê_bao hoặc của cơ_quan nhà_nước có thẩm_quyền ;
+
+b ) Không thu_hồi chứng_thư số theo yêu_cầu của thuê_bao hoặc của cơ_quan nhà_nước có thẩm_quyền ;
+
+c ) Công_bố sai nội_dung chứng_thư số trên cơ_sở dữ_liệu của mình ;
+
+d ) Chứng_thư số không đầy_đủ các nội_dung theo quy_định tại Điều 10 Nghị_định này ;
+
+đ ) Cấp chứng_thư số không đúng với chức_danh thuộc cơ_quan , tổ_chức nhà_nước theo quy_định tại Điều 11 Nghị_định này hoặc không đúng với quy_định pháp_luật ;
+
+e ) Không cho phép người sử_dụng Internet truy_nhập danh_sách các chứng_thư số có hiệu_lực và đã hết hiệu_lực ;
+
+g ) Không chấp_hành việc tạm dừng hoặc thu_hồi giấy_phép theo quy_định tại khoản 1 , 2 Điều 20 Nghị_định này ;
+
+h ) Công_bố chứng_thư số đã cấp cho thuê_bao trên cơ_sở dữ_liệu không đảm_bảo thời_hạn quy_định tại khoản 3 Điều 23 Nghị_định này ;
+
+i ) Cấp dấu thời_gian không đúng với quy_định tại khoản 3 Điều 28 Nghị_định này ;
+
+k ) Không tạm dừng việc cấp chứng_thư số mới khi phát_hiện sai_sót trong hệ_thống cung_cấp dịch_vụ chứng_thực chữ_kí số .
+
+5 . Phạt tiền từ 40 . 000 . 000 đồng đến 70 . 000 . 000 đồng đối_với hành_vi sau :
+
+a ) Không bàn_giao tài_liệu và cơ_sở dữ_liệu theo quy_định tại khoản 1 Điều 39 Nghị_định này ;
+
+b ) Không báo_cáo Bộ Bưu_chính , Viễn_thông để xem_xét việc thay_đổi nội_dung , thu_hồi hoặc cấp mới giấy_phép theo đúng quy_định về đối_tượng được cấp phép khi tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng thực_hiện sáp_nhập , liên_doanh , liên_kết và các hoạt_động thay_đổi tổ_chức khác ;
+
+c ) Triển_khai hoặc cung_cấp dịch_vụ chứng_thực chữ_kí số không đúng nội_dung ghi trên giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng ;
+
+d ) Không tạm dừng việc cấp chứng_thư số mới khi có yêu_cầu của cơ_quan nhà_nước có thẩm_quyền ;
+
+đ ) Không duy_trì hệ_thống cơ_sở dữ_liệu liên_quan đến chứng_thư số đã cấp trong thời_gian tạm dừng cấp chứng_thư số mới .
+
+6 . Phạt tiền từ 70 . 000 . 000 đồng đến 100 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+a ) Không duy_trì trực_tuyến 24 giờ trong ngày và 7 ngày trong tuần danh_sách các chứng_thư số có hiệu_lực và đã hết hiệu_lực ;
+
+b ) Không_lưu_trữ đầy_đủ , chính_xác , cập_nhật danh_sách các chứng_thư số có hiệu_lực hoặc đã hết hiệu_lực trong thời_gian tối_thiểu 5 năm ;
+
+c ) Hệ_thống_thiết_bị cung_cấp dịch_vụ chứng_thực chữ_kí số của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số do Bộ Bưu_chính , Viễn_thông cấp giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng hoặc giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số không đặt ở Việt_nam ;
+
+d ) Không duy_trì trên trang tin điện_tử 24 giờ trong ngày và 7 ngày trong tuần thông_tin quy_định tại Điều 36 Nghị_định này .
+
+Điều 67 . Vi_phạm các quy_định về sử_dụng dịch_vụ
+
+1 . Phạt tiền từ 10 . 000 . 000 đồng đến 20 . 000 . 000 đồng đối_với hành_vi không cung_cấp khoá bí_mật hoặc những thông_tin cần_thiết cho cơ_quan tiến_hành tố_tụng , cơ_quan an_ninh .
+
+2 . Phạt tiền từ 20 . 000 . 000 đồng đến 30 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+a ) Cung_cấp thông_tin sai sự_thật để xin cấp chứng_thư số ;
+
+b ) Sử_dụng chữ_kí số tương_ứng với chứng_thư số của cơ_quan , tổ_chức quy_định tại Điều 12 Nghị_định này khi không còn giữ chức_danh tương_ứng với chứng_thư số đó .
+
+Điều 68 . Vi_phạm các quy_định về chế_độ báo_cáo , cung_cấp thông_tin và thanh_tra , kiểm_tra
+
+Phạt tiền từ 5 . 000 . 000 đồng đến 15 . 000 . 000 đồng đối_với một trong các hành_vi sau :
+
+Vi_phạm các chế_độ báo_cáo theo quy_định .
+
+1 . Cung_cấp thông_tin sai sự_thật hoặc không đầy_đủ cho cơ_quan nhà_nước có thẩm_quyền khi được yêu_cầu theo quy_định của pháp_luật .
+
+2 . Không chấp_hành việc thanh_tra , kiểm_tra của các cơ_quan nhà_nước có thẩm_quyền .
+
+Điều 69 . Xử_phạt bổ_sung , khắc_phục hậu_quả
+
+Ngoài các hình_thức xử_phạt chính , tuỳ theo tính_chất , mức_độ vi_phạm mà tổ_chức , cá_nhân còn có_thể bị áp_dụng một hay nhiều hình_thức xử_phạt bổ_sung hoặc biện_pháp khắc_phục hậu_quả sau :
+
+1 . Tạm đình_chỉ hoặc đình_chỉ việc cấp chứng_thư số mới đối_với một trong các hành_vi vi_phạm_quy_định tại điểm c khoản 2 Điều 62 , điểm d khoản 2 Điều 63 , Điều 64 , điểm b khoản 2 , điểm a , c , d khoản 3 Điều 66 Nghị_định này .
+
+2 . Thu_hồi giấy_phép cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng hoặc giấy chứng_nhận đủ điều_kiện đảm_bảo_an_toàn cho chữ_kí số hoặc giấy công_nhận chữ_kí số và chứng_thư số nước_ngoài đối_với một trong các hành_vi vi_phạm_quy_định tại điểm b , c khoản 2 Điều 62 , điểm d khoản 2 Điều 63 , Điều 64 , điểm b khoản 2 , điểm a , c , d khoản 3 Điều 66 Nghị_định này .
+
+3 . Tịch_thu tang_vật , phương_tiện được sử_dụng để vi_phạm hành_chính đối_với một trong các hành_vi vi_phạm_quy_định tại điểm b khoản 2 Điều 62 , khoản 1 , điểm a , b , c , d khoản 2 , điểm a , b , c , d khoản 3 , điểm a khoản 4 Điều 63 , điểm c khoản 2 Điều 66 Nghị_định này .
+
+4 . Buộc khôi_phục lại tình_trạng ban_đầu đã bị thay_đổi do vi_phạm hành_chính gây ra đối_với một trong các hành_vi vi_phạm_quy_định tại điểm b khoản 1 , điểm b khoản 3 Điều 63 Nghị_định này .
+
+5 . Buộc thực_hiện đúng các quy_định của Nhà_nước đối_với các vi_phạm tại khoản 1 , điểm a , c khoản 2 , khoản 3 Điều 62 , điểm d khoản 2 , điểm d khoản 3 Điều 63 , Điều 64 , khoản 1 , điểm a , b khoản 2 , khoản 3 Điều 66 , Điều 68 Nghị_định này .
+
+Điều 70 . Thẩm_quyền xử_phạt
+
+1 . Thanh_tra viên chuyên_ngành bưu_chính , viễn_thông và công_nghệ thông_tin đang thi_hành công_vụ có thẩm_quyền :
+
+a ) Phạt tiền đến 200 . 000 đồng ;
+
+b ) Tịch_thu tang_vật , phương_tiện được sử_dụng để vi_phạm hành_chính có giá_trị đến 2 . 000 . 000 đồng ;
+
+c ) Áp_dụng các biện_pháp khắc_phục hậu_quả theo quy_định tại khoản 4 và khoản 5 Điều 69 Nghị_định này ;
+
+d ) Thực_hiện các quyền quy_định tại khoản 2 Điều 46 và khoản 2 Điều 48 của Pháp_lệnh Xử_lí vi_phạm hành_chính .
+
+2 . Chánh thanh_tra Sở Bưu_chính , Viễn_thông có thẩm_quyền :
+
+a ) Phạt tiền đến 20 . 000 . 000 đồng ;
+
+b ) Áp_dụng các hình_thức xử_phạt bổ_sung và biện_pháp khắc_phục hậu_quả theo quy_định tại Điều 69 Nghị_định này ;
+
+c ) Thực_hiện các quyền quy_định tại khoản 1 Điều 46 của Pháp_lệnh Xử_lí vi_phạm hành_chính .
+
+3 . Chánh thanh_tra Bộ Bưu_chính , Viễn_thông có thẩm_quyền :
+
+a ) Phạt tiền đến 100 . 000 . 000 đồng ;
+
+b ) Áp_dụng các hình_thức xử_phạt bổ_sung và biện_pháp khắc_phục hậu_quả theo quy_định tại Điều 69 Nghị_định này ;
+
+c ) Thực_hiện các quyền quy_định tại khoản 1 Điều 46 của Pháp_lệnh Xử_lí vi_phạm hành_chính .
+
+4 . Thanh_tra viên và Chánh Thanh_tra các cơ_quan thanh_tra chuyên_ngành khác có thẩm_quyền xử_phạt đối_với hành_vi vi_phạm hành_chính trong lĩnh_vực chữ_kí số và dịch_vụ chứng_thực chữ_kí số như thanh_tra chuyên_ngành bưu_chính , viễn_thông và công_nghệ thông_tin trong phạm_vi quản_lí nhà_nước được Chính_phủ quy_định .
+
+Công_an nhân_dân , Hải_quan , cơ_quan Thuế , cơ_quan Quản_lí thị_trường có thẩm_quyền xử_phạt theo quy_định tại các Điều 31 , 34 , 36 và 37 của Pháp_lệnh Xử_lí vi_phạm hành_chính đối_với những hành_vi vi_phạm hành_chính về chữ_kí số và dịch_vụ chứng_thực chữ_kí số có liên_quan trực_tiếp đến lĩnh_vực mình quản_lí được quy_định tại Nghị_định này .
+
+5 . Thẩm_quyền xử_phạt của Ủy_ban nhân_dân các cấp
+
+Chủ_tịch Ủy_ban nhân_dân các cấp có quyền xử_phạt theo thẩm_quyền quy_định tại các Điều 28 , 29 và 30 của Pháp_lệnh Xử_lí vi_phạm hành_chính trong phạm_vi địa_bàn do mình quản_lí đối_với các hành_vi vi_phạm hành_chính về chữ_kí số và dịch_vụ chứng_thực chữ_kí số được quy_định tại Nghị_định này .
+
+Điều 71 . Nguyên_tắc , thời_hiệu , thủ_tục xử_phạt vi_phạm hành_chính , tình_tiết tăng nặng , tình_tiết_giảm nhẹ
+
+Nguyên_tắc xử_phạt , thời_hiệu xử_phạt , thủ_tục xử_phạt vi_phạm hành_chính , tình_tiết tăng nặng , tình_tiết_giảm nhẹ , thời_hạn được coi là chưa bị xử_phạt vi_phạm hành_chính về chữ_kí số và dịch_vụ chứng_thực chữ_kí số được thực_hiện theo quy_định của Pháp_lệnh Xử_lí vi_phạm hành_chính .
+
+Điều 72 . Truy_cứu trách_nhiệm hình_sự
+
+Hành_vi lợi_dụng chữ_kí số và dịch_vụ chứng_thực chữ_kí số để chống lại Nhà_nước Cộng_hoà xã_hội chủ_nghĩa Việt_nam và gây_rối an_ninh , trật_tự , an_toàn xã_hội ; các hành_vi vi_phạm nghiêm_trọng khác liên_quan đến chữ_kí số và dịch_vụ chứng_thực chữ_kí số có dấu_hiệu tội_phạm sẽ bị truy_cứu trách_nhiệm hình_sự theo quy_định của pháp_luật .
+
+Chương 11 :
+
+Điều_khoản Thi_hành
+
+Điều 73 . Điều_khoản thi_hành
+
+Nghị_định này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo .
+
+Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chịu trách_nhiệm thi_hành Nghị_định này . / .

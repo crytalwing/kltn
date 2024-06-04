@@ -1,0 +1,659 @@
+Thông_tư số 01/2023/tt-vpcp ngày 05 tháng 04 năm 2023 của văn_phòng chính_phủ
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 79/2022/NĐ-CP ngày 06 tháng 10 năm 2022 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Văn_phòng Chính_phủ ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 </NĐ> của Chính_phủ về kiểm_soát thủ_tục hành_chính ; <NĐ rel="None"> Nghị_định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của các <NĐ rel="CC"> Nghị_định liên_quan đến kiểm_soát thủ_tục hành_chính </NĐ> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 </NĐ> của Chính_phủ về thực_hiện cơ_chế một cửa , một cửa liên_thông trong giải_quyết thủ_tục hành_chính ; <NĐ rel="None"> Nghị_định số 107/2021/NĐ-CP ngày 06 tháng 12 năm 2021 </NĐ> sửa_đổi , bổ_sung một_số điều của <NĐ rel="CC"> Nghị_định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 </NĐ> của Chính_phủ về thực_hiện cơ_chế một cửa , một cửa liên_thông trong giải_quyết thủ_tục hành_chính ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 </NĐ> của Chính_phủ về thực_hiện thủ_tục hành_chính trên môi_trường điện_tử ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 42/2022/NĐ-CP ngày 24 tháng 6 năm 2022 </NĐ> của Chính_phủ quy_định về việc cung_cấp thông_tin và dịch_vụ công trực_tuyến của cơ_quan nhà_nước trên môi_trường mạng ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định số 31/2021/QĐ-TTg ngày 11 tháng 10 năm 2021 </QĐ> của Thủ_tướng Chính_phủ ban_hành Quy_chế quản_lý , vận_hành , khai_thác Cổng Dịch_vụ công_quốc_gia ;
+
+Theo đề_nghị của Cục_trưởng Cục Kiểm_soát thủ_tục hành_chính ;
+
+Bộ_trưởng , Chủ_nhiệm Văn_phòng Chính_phủ ban_hành Thông_tư quy_định một_số nội_dung và biện_pháp thi_hành trong số_hoá hồ_sơ , kết_quả giải_quyết thủ_tục hành_chính và thực_hiện thủ_tục hành_chính trên môi_trường điện_tử .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định một_số nội_dung và biện_pháp thi_hành trong số_hoá hồ_sơ , kết_quả giải_quyết thủ_tục hành_chính ; tái_cấu_trúc quy_trình thủ_tục hành_chính ; rà_soát , đánh_giá thủ_tục hành_chính đáp_ứng yêu_cầu xây_dựng dịch_vụ công trực_tuyến theo các mức_độ , chuẩn_hoá danh_mục dịch_vụ công trực_tuyến ; quản_lí Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh ; tích_hợp , chia_sẻ , đồng_bộ dữ_liệu trong thực_hiện thủ_tục hành_chính trên môi_trường điện_tử .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với các cơ_quan , tổ_chức , cá_nhân tham_gia vào quá_trình thực_hiện thủ_tục hành_chính , cung_cấp dịch_vụ công , thanh_toán trực_tuyến , số_hoá hồ_sơ , kết_quả giải_quyết thủ_tục hành_chính .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , những từ_ngữ dưới đây được hiểu như sau :
+
+1 . Số_hoá hồ_sơ , kết_quả giải_quyết thủ_tục hành_chính là quá_trình chuyển_đổi thông_tin đang được thể_hiện trên giấy trong thành_phần hồ_sơ , kết_quả giải_quyết thủ_tục hành_chính sang dữ_liệu điện_tử .
+
+2 . Nhận_dạng kí_tự quang_học ( tiếng Anh là Optical Character_recognition , viết tắt là Ocr ) là công_nghệ giúp chuyển_đổi một hình_ảnh văn_bản thành định_dạng văn_bản hoặc ngôn_ngữ thiết_bị điện_tử có_thể đọc , lưu_trữ .
+
+3 . Tái_cấu_trúc quy_trình thủ_tục hành_chính là quá_trình rà_soát , đánh_giá , thiết_kế lại quy_trình thực_hiện thủ_tục hành_chính từ khâu tiếp_nhận , giải_quyết , trả kết_quả để tổ_chức thực_hiện trên môi_trường điện_tử bảo_đảm tính hợp_pháp , hợp_lý , khả_thi , hiệu_quả dựa trên nguyên_tắc lấy sự hài_lòng của tổ_chức , cá_nhân là thước_đo chất_lượng phục_vụ của cán_bộ , công_chức , viên_chức và cơ_quan có thẩm_quyền .
+
+4 . Mã_qr ( mã phản_hồi nhanh , tên tiếng Anh là Quick Response_code ) hồ_sơ thủ_tục hành_chính : là mã_vạch hai chiều được sử_dụng để tra_cứu tình_trạng xử_lí hồ_sơ hoặc thanh_toán hồ_sơ trực_tuyến trên Cổng Dịch_vụ công_quốc_gia hoặc Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh .
+
+5 . Ngân_hàng , trung_gian thanh_toán là các ngân_hàng , tổ_chức cung_cấp dịch_vụ trung_gian thanh_toán được Ngân_hàng Nhà_nước Việt_nam cấp phép đã kết_nối , tích_hợp , cung_cấp dịch_vụ thanh_toán trực_tuyến trên Cổng Dịch_vụ công_quốc_gia .
+
+6 . Cơ_quan thu là cơ_quan ra quyết_định thu phí , lệ_phí và các nghĩa_vụ tài_chính khác của thủ_tục hành_chính hoặc các khoản thu khác trong cung_cấp dịch_vụ cho tổ_chức , cá_nhân theo quy_định pháp_luật .
+
+7 . Mã_citad của đơn_vị Kho_bạc Nhà_nước hoặc ngân_hàng nơi cơ_quan thu mở tài_khoản : là mã ngân_hàng 8 số ( mã Citad ) của đơn_vị Kho_bạc Nhà_nước hoặc ngân_hàng nơi cơ_quan thu mở tài_khoản có tên trong quyết_định xử_phạt hoặc trong thông_báo thu phí , lệ_phí .
+
+Chương_ii
+
+Số_hóa Hồ_sơ , Kết_quả Giải_quyết Thủ_tục Hành_chính
+
+Điều 4 . Các giấy_tờ , tài_liệu thuộc phạm_vi thực_hiện số_hoá
+
+1 . Giấy_tờ là thành_phần hồ_sơ mà tổ_chức , cá_nhân nộp để thực_hiện thủ_tục hành_chính , bao_gồm các loại sau :
+
+a ) Thành_phần hồ_sơ là kết_quả giải_quyết của thủ_tục hành_chính trước đó ;
+
+b ) Thành_phần hồ_sơ phải số_hoá theo quy_định của pháp_luật chuyên_ngành ;
+
+c ) Thành_phần hồ_sơ cần số_hoá theo yêu_cầu quản_lí được xác_định tại Quyết_định của Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân cấp tỉnh ;
+
+d ) Thành_phần hồ_sơ không thuộc loại được nêu tại điểm a , b , c khoản này và được thực_hiện số_hoá theo nhu_cầu của tổ_chức , cá_nhân trong quá_trình thực_hiện thủ_tục hành_chính .
+
+Các giấy_tờ trên được nộp theo một trong các hình_thức sau : bản_chính ; bản_sao điện_tử được cấp từ sổ gốc ; bản_sao điện_tử được chứng_thực_từ bản_chính ; bản chụp điện_tử có bản_chính để đối_chiếu trong quá_trình giải_quyết thủ_tục hành_chính .
+
+2 . Kết_quả thẩm_tra , xác_minh , trả_lời ý_kiến của các cơ_quan , đơn_vị tham_gia trong quá_trình giải_quyết thủ_tục hành_chính , trừ trường_hợp pháp_luật chuyên_ngành có quy_định khác .
+
+3 . Kết_quả giải_quyết của thủ_tục hành_chính còn hiệu_lực theo quy_định tại Điều 25 <NĐ rel="DC"> Nghị_định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 </NĐ> về thực_hiện thủ_tục hành_chính trên môi_trường điện_tử .
+
+4 . Không thực_hiện số_hoá đối_với những giấy_tờ , tài_liệu :
+
+a ) Đã được các cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu chuyên_ngành , Cổng Dịch_vụ công_quốc_gia , Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh chia_sẻ dưới dạng dữ_liệu và có giá_trị pháp_lý ;
+
+b ) Các giấy_tờ là thành_phần hồ_sơ giải_quyết thủ_tục hành_chính được nộp dưới hình_thức bản_sao_chụp , bản_sao có chứng_thực , trừ bản_sao điện_tử được chứng_thực_từ bản_chính theo quy_định tại khoản 1 Điều này ;
+
+c ) Các giấy_tờ , tài_liệu chỉ yêu_cầu xuất_trình khi nộp hồ_sơ thủ_tục hành_chính ;
+
+d ) Các giấy_tờ , tài_liệu mật theo quy_định của pháp_luật .
+
+Điều 5 . Người có trách_nhiệm thực_hiện số_hoá
+
+Người có trách_nhiệm thực_hiện số_hoá bao_gồm :
+
+1 . Cán_bộ , công_chức , viên_chức thực_hiện tiếp_nhận , xử_lý , giải_quyết và trả kết_quả hồ_sơ thủ_tục hành_chính .
+
+2 . Cán_bộ , công_chức , viên_chức không thuộc khoản 1 Điều này được giao thực_hiện số_hoá kết_quả giải_quyết thủ_tục hành_chính còn hiệu_lực theo quy_định tại Điều 25 <NĐ rel="DC"> Nghị_định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 </NĐ> về thực_hiện thủ_tục hành_chính trên môi_trường điện_tử .
+
+3 . Cán_bộ , nhân_viên của doanh_nghiệp cung_ứng bưu_chính công_ích và các trường_hợp khác được giao đảm_nhận việc số_hoá hồ_sơ , giấy_tờ theo quy_định tại điểm b khoản 3 Điều 1 <NĐ rel="DC"> Nghị_định số 107/2021/NĐ-CP ngày 06 tháng 12 năm 2021 </NĐ> sửa_đổi , bổ_sung một_số điều của <NĐ rel="DC"> Nghị_định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 </NĐ> của Chính_phủ về thực_hiện cơ_chế một cửa , một cửa liên_thông trong giải_quyết thủ_tục hành_chính .
+
+Điều 6 . Các yêu_cầu đối_với việc số_hoá giấy_tờ , kết_quả giải_quyết thủ_tục hành_chính
+
+1 . Quá_trình số_hoá phải bảo_đảm tính đầy_đủ , chính_xác , toàn_vẹn dữ_liệu của hồ_sơ , giấy_tờ được số_hoá và tính hoàn_thiện về nội_dung , quy_trình số_hoá .
+
+2 . Quá_trình số_hoá phải bảo_đảm các nguyên_tắc về bảo_vệ dữ_liệu cá_nhân , không làm xâm_hại , ảnh_hưởng đến quyền , lợi_ích hợp_pháp của tổ_chức , cá_nhân .
+
+3 . Dữ_liệu điện_tử của giấy_tờ phải lưu các trường dữ_liệu đặc_tả để tái sử_dụng trong giải_quyết thủ_tục hành_chính khác có liên_quan .
+
+Điều 7 . Quy_trình số_hoá
+
+Quy_trình số_hoá được thực_hiện qua các bước :
+
+1 . Sao_chụp giấy_tờ , chuyển sang bản điện_tử .
+
+2 . Bóc tách dữ_liệu .
+
+3 . Cấp mã kết_quả số_hoá .
+
+4 . Lưu kết_quả số_hoá .
+
+Điều 8 . Sao_chụp giấy_tờ chuyển sang bản điện_tử
+
+1 . Người thực_hiện số_hoá sao_chụp từng loại giấy_tờ chuyển thành bản điện_tử và dùng chữ_kí số cá_nhân được cấp để kí trên bản_sao_chụp điện_tử trước khi chuyển sang bóc tách dữ_liệu . Việc kí số bảo_đảm thông_tin gồm tên người sao_chụp và thời_gian thực_hiện sao_chụp , vị_trí chữ_kí số được thể_hiện_tại góc trên bên trái trang đầu_tiên của tài_liệu .
+
+2 . Việc sao_chụp giấy_tờ bảo_đảm các yêu_cầu sau :
+
+a ) Xác_thực số_lượng hồ_sơ gốc theo số_lượng bản_sao_chụp để bảo_đảm tất_cả các hồ_sơ gốc đều được số_hoá ;
+
+b ) Bảo_đảm chụp toàn_bộ văn_bản , các bản_sao_chụp chính_xác , toàn_diện , đầy_đủ so với bản_gốc ;
+
+c ) Số_lượng ảnh ở bản_sao_chụp phải bằng số_lượng trang đầu_vào và được sắp_xếp theo đúng thứ_tự ;
+
+d ) Đối_với trang có gắn giấy ghi_chú : tạo hai bản chụp , một bản có gắn giấy ghi_chú trên văn_bản và một bản đã bỏ giấy ghi_chú ;
+
+đ ) Bảo_đảm tính toàn_vẹn dữ_liệu trong quá_trình chuyển_giao xử_lý ;
+
+e ) Thông_số kĩ_thuật bản_sao_chụp phải đáp_ứng tiêu_chuẩn dữ_liệu thông_tin đầu_vào của cơ_sở dữ_liệu tài_liệu lưu_trữ tại <TT rel="DC"> Thông_tư số 02/2019/TT-BNV ngày 24 tháng 01 năm 2019 </TT> của Bộ Nội_vụ quy_định tiêu_chuẩn dữ_liệu thông_tin đầu_vào và yêu_cầu bảo_quản tài_liệu lưu_trữ điện_tử .
+
+3 . Các trường_hợp không cần thực_hiện sao_chụp sang bản điện_tử :
+
+a ) Hồ_sơ được nộp để thực_hiện thủ_tục hành_chính trên môi_trường điện_tử ;
+
+b ) Các tài_liệu được nêu tại khoản 2 Điều 4 Thông_tư này .
+
+Điều 9 . Bóc tách dữ_liệu của giấy_tờ
+
+1 . Việc bóc tách dữ_liệu được thực_hiện thông_qua sử_dụng công_nghệ nhận_dạng kí_tự quang_học ; trường_hợp không sử_dụng được công_nghệ nhận_dạng kí_tự quang_học thì cán_bộ , công_chức , viên_chức tự nhập dữ_liệu , bảo_đảm tính chính_xác so với bản giấy . Việc bóc tách dữ_liệu phải bảo_đảm tối_đa các thông_tin của giấy_tờ , kết_quả giải_quyết thủ_tục hành_chính đáp_ứng yêu_cầu quản_lí và khai_thác , sử_dụng .
+
+2 . Dữ_liệu được bóc tách bao_gồm tối_thiểu các trường dữ_liệu đặc_tả sau :
+
+a ) Mã loại giấy_tờ ;
+
+b ) Số định_danh cá_nhân / Mã định_danh điện_tử của tổ_chức ( sau đây được gọi tắt là mã định_danh của tổ_chức , cá_nhân ) .
+
+Trường_hợp giấy_tờ không có thông_tin số định_danh cá_nhân thì thay_thế bằng các dữ_liệu : họ và tên , ngày , tháng , năm sinh ; không có thông_tin mã định_danh điện_tử của tổ_chức thì thay_thế bằng các dữ_liệu : tên tổ_chức , năm thành_lập ;
+
+c ) Tên giấy_tờ ;
+
+d ) Số , kí_hiệu giấy_tờ ;
+
+đ ) Ngày , tháng , năm cấp ;
+
+e ) Cơ_quan cấp giấy_tờ ;
+
+g ) Trích yếu nội_dung chính của giấy_tờ ;
+
+h ) Thời_hạn có hiệu_lực ( nếu có ) ;
+
+i ) Phạm_vi có hiệu_lực ( nếu có ) ;
+
+k ) Các thông_tin , dữ_liệu khác theo quy_định của pháp_luật chuyên_ngành .
+
+3 . Trường_hợp_số_hoá giấy_tờ được nêu tại khoản 1 , 2 Điều 4 , nếu hồ_sơ bảo_đảm tính chính_xác , đầy_đủ , hợp_pháp theo quy_định , người có trách_nhiệm giải_quyết thủ_tục hành_chính thực_hiện bóc tách dữ_liệu từ bản điện_tử và chịu trách_nhiệm về tính chính_xác của dữ_liệu sau khi được bóc tách .
+
+Khi thủ_tục hành_chính được xác_định giải_quyết thành_công , kết_quả giải_quyết thủ_tục hành_chính , bản_sao_chụp từng thành_phần giấy_tờ và dữ_liệu đặc_tả được kí số cơ_quan theo quy_định về sao y từ văn_bản giấy sang văn_bản điện_tử tại <NĐ rel="DC"> Nghị_định số 30/2020/NĐ-CP ngày 05 tháng 3 năm 2020 </NĐ> của Chính_phủ về công_tác văn_thư .
+
+4 . Trường_hợp_số_hoá kết_quả giải_quyết thủ_tục hành_chính được nêu tại khoản 3 Điều 4 , người được giao nhiệm_vụ số_hoá thực_hiện bóc tách dữ_liệu từ bản_sao_chụp kết_quả giải_quyết thủ_tục hành_chính và chuyển để kí số cơ_quan theo quy_định về sao y từ văn_bản giấy sang văn_bản điện_tử tại <NĐ rel="DC"> Nghị_định số 30/2020/NĐ-CP ngày 05 tháng 3 năm 2020 </NĐ> của Chính_phủ về công_tác văn_thư .
+
+Trường_hợp phát_hiện sai_lệch thông_tin trong quá_trình số_hoá thì thực_hiện điều_chỉnh , sửa_đổi thông_tin theo quy_định của pháp_luật chuyên_ngành .
+
+Điều 10 . Cấp mã kết_quả số_hoá
+
+1 . Kết_quả số_hoá của giấy_tờ được lưu theo mã_số có cấu_trúc sau : < mã định_danh của tổ_chức , cá_nhân > . < mã loại giấy_tờ > . < số , kí_hiệu giấy_tờ > .
+
+2 . Đối_với giấy_tờ là kết_quả giải_quyết thủ_tục hành_chính thì mã loại giấy_tờ được nêu tại khoản 1 Điều này là mã loại kết_quả giải_quyết thủ_tục hành_chính trên Cơ_sở dữ_liệu quốc_gia về thủ_tục hành_chính , trường_hợp không có mã định_danh của tổ_chức , cá_nhân thì để trống và bổ_sung dữ_liệu đặc_tả được nêu tại điểm b khoản 2 Điều 9 .
+
+3 . Đối_với các giấy_tờ khác không phải là kết_quả giải_quyết thủ_tục hành_chính thì mã loại giấy_tờ nêu tại khoản 1 Điều này được ghi theo cấu_trúc < mã_số thủ_tục hành_chính > . < mã loại giấy_tờ theo quy_định của bộ , ngành hoặc số thứ_tự của giấy_tờ trong thành_phần hồ_sơ trên Cơ_sở dữ_liệu quốc_gia về thủ_tục hành_chính > .
+
+Điều 11 . Lưu kết_quả số_hoá
+
+1 . Kết_quả số_hoá hồ_sơ , giấy_tờ được người có trách_nhiệm giải_quyết thủ_tục hành_chính cập_nhật , lưu trên Cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu chuyên_ngành theo quy_định của pháp_luật chuyên_ngành . Trường_hợp pháp_luật chuyên_ngành không quy_định thì lưu tại Kho dữ_liệu hồ_sơ thủ_tục hành_chính , là một bộ_phận thuộc chức_năng lưu_giữ dữ_liệu giải_quyết thủ_tục hành_chính của Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh .
+
+2 . Kết_quả số_hoá hồ_sơ , giấy_tờ có đầy_đủ thông_tin mã định_danh của tổ_chức , cá_nhân thì được hiển_thị tại Kho quản_lí dữ_liệu điện_tử của tổ_chức , cá_nhân trên Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh .
+
+3 . Sau khi kết_quả số_hoá giấy_tờ đã được kí số cơ_quan , lưu theo quy_định tại khoản 1 Điều này và có giá_trị pháp_lí thì các dữ_liệu đặc_tả đã được bóc tách của giấy_tờ có giá_trị sử_dụng như các thông_tin trong giấy_tờ được số_hoá .
+
+4 . Các thành_phần hồ_sơ thủ_tục hành_chính dạng giấy sau khi số_hoá được lưu_trữ theo quy_định của pháp_luật về lưu_trữ và pháp_luật chuyên_ngành và có giá_trị xác_minh cao nhất trong trường_hợp xảy ra khiếu_nại , tranh_chấp .
+
+5 . Thời_hạn lưu_trữ điện_tử đối_với hồ_sơ thủ_tục hành_chính_điện_tử được thực_hiện theo quy_định của pháp_luật về lưu_trữ và pháp_luật chuyên_ngành .
+
+Điều 12 . Kết_quả giải_quyết thủ_tục hành_chính bản điện_tử
+
+1 . Kết_quả giải_quyết thủ_tục hành_chính bản điện_tử phải bảo_đảm thể_thức theo quy_định của pháp_luật chuyên_ngành hoặc được chuyển từ bản giấy sang bản điện_tử theo quy_định tại Điều 25 , 26 , 27 <NĐ rel="DC"> Nghị_định số 30/2020/NĐ-CP ngày 05 tháng 3 năm 2020 </NĐ> của Chính_phủ về công_tác văn_thư .
+
+2 . Kết_quả giải_quyết thủ_tục hành_chính bản điện_tử phải được xử_lí để bảo_đảm đầy_đủ các dữ_liệu đặc_tả được nêu tại khoản 2 Điều 9 Thông_tư này và quy_định về lưu_trữ thông_điệp điện_tử theo quy_định của <LT rel="DC"> Luật Giao_dịch điện_tử </LT> .
+
+3 . Kết_quả giải_quyết thủ_tục hành_chính bản điện_tử được lưu vào Cơ_sở dữ_liệu quốc_gia hoặc Cơ_sở dữ_liệu chuyên_ngành hoặc Hệ_thống thông_tin cung_cấp dịch_vụ công tập_trung của bộ , ngành theo quy_định của pháp_luật chuyên_ngành ; đồng_thời cung_cấp thông_tin đường_dẫn kết_quả giải_quyết thủ_tục hành_chính_điện_tử vào Kho quản_lí dữ_liệu điện_tử của tổ_chức , cá_nhân trên Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ hoặc cấp tỉnh có thẩm_quyền giải_quyết thủ_tục hành_chính .
+
+Trường_hợp chưa có Cơ_sở dữ_liệu quốc_gia , Cơ_sở dữ_liệu chuyên_ngành , Hệ_thống thông_tin cung_cấp dịch_vụ công tập_trung của bộ , ngành , kết_quả giải_quyết thủ_tục hành_chính bản điện_tử được lưu vào Kho dữ_liệu hồ_sơ thủ_tục hành_chính , đồng_thời hiển_thị tại Kho quản_lí dữ_liệu điện_tử của tổ_chức , cá_nhân trên Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ hoặc cấp tỉnh có thẩm_quyền giải_quyết thủ_tục hành_chính .
+
+Chương_iii
+
+Rà_soát , Đánh_giá , Tái_cấu_trúc Quy_trình Thủ_tục Hành_chính Để Cung_cấp Dịch_vụ Công Trực_tuyến
+
+Điều 13 . Các tiêu_chí để cung_cấp dịch_vụ công trực_tuyến trong thực_hiện thủ_tục hành_chính trên môi_trường điện_tử
+
+1 . Tiêu_chí đối_với dịch_vụ công trực_tuyến toàn trình trong thực_hiện thủ_tục hành_chính trên môi_trường điện_tử .
+
+a ) Công_bố , công_khai , cung_cấp đầy_đủ các thông_tin về thủ_tục hành_chính trên Cơ_sở dữ_liệu quốc_gia về thủ_tục hành_chính và Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh ;
+
+b ) Tổ_chức , cá_nhân tải được các mẫu văn_bản trên Cơ_sở dữ_liệu quốc_gia về thủ_tục hành_chính và Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh ;
+
+c ) Điền và gửi trực_tuyến các mẫu_đơn , tờ khai , áp_dụng chữ_kí số trong trường_hợp có yêu_cầu có chữ_kí của tổ_chức , cá_nhân ;
+
+d ) Hồ_sơ được gửi toàn_bộ qua môi_trường điện_tử ;
+
+đ ) Thanh_toán trực_tuyến trên nền_tảng thanh_toán trực_tuyến của Cổng Dịch_vụ công_quốc_gia hoặc trên Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh đối_với các thủ_tục hành_chính có yêu_cầu nộp phí , lệ_phí hoặc các nghĩa_vụ tài_chính khác ;
+
+e ) Trong quá_trình xử_lí hồ_sơ và cung_cấp dịch_vụ được thực_hiện trên môi_trường điện_tử , quá_trình thực_hiện , giải_quyết thủ_tục hành_chính không có quy_định tổ_chức , cá_nhân phải nộp , xuất_trình bản giấy để kiểm_tra hoặc yêu_cầu hiện_diện tại cơ_quan nhà_nước hoặc thực_hiện quy_trình trước mặt cán_bộ , công_chức tiếp_nhận , giải_quyết ; cơ_quan nhà_nước phải đi thẩm_tra , xác_minh tại hiện_trường theo quy_định của pháp_luật ;
+
+g ) Có kết_quả giải_quyết thủ_tục hành_chính bản điện_tử ;
+
+h ) Trả kết_quả được thực_hiện trực_tuyến hoặc qua bưu_chính công_ích , không yêu_cầu tổ_chức , cá_nhân phải có_mặt hoặc kí nhận trực_tiếp khi nhận kết_quả .
+
+2 . Tiêu_chí đối_với dịch_vụ công trực_tuyến một phần trong thực_hiện thủ_tục hành_chính trên môi_trường điện_tử .
+
+Dịch_vụ công trực_tuyến một phần trong tiếp_nhận , giải_quyết thủ_tục hành_chính trên môi_trường điện_tử cho tổ_chức , cá_nhân là dịch_vụ công trực_tuyến không đáp_ứng đầy_đủ các tiêu_chí của dịch_vụ công trực_tuyến toàn trình nhưng phải bảo_đảm đáp_ứng những tiêu_chí quy_định tại điểm a , b , c , d , g khoản 1 Điều này .
+
+3 . Đối_với các dịch_vụ công chỉ đáp_ứng các tiêu_chí quy_định tại điểm a , b khoản 1 Điều này được coi là dịch_vụ cung_cấp thông_tin trực_tuyến cho tổ_chức , cá_nhân , không được xác_định là dịch_vụ công trực_tuyến trong thực_hiện thủ_tục hành_chính trên môi_trường điện_tử .
+
+4 . Từ kết_quả rà_soát , cơ_quan , đơn_vị thực_hiện chức_năng kiểm_soát thủ_tục hành_chính tổng_hợp kết_quả , báo_cáo người đứng đầu bộ , ngành , địa_phương ra quyết_định phê_duyệt danh_mục . Báo_cáo bao_gồm các nội_dung :
+
+a ) Danh_mục thủ_tục hành_chính , nhóm thủ_tục hành_chính đáp_ứng yêu_cầu triển_khai tái_cấu_trúc quy_trình , cung_cấp dịch_vụ công trực_tuyến toàn trình hoặc một phần trong tiếp_nhận , giải_quyết thủ_tục hành_chính trên môi_trường điện_tử ;
+
+b ) Danh_mục thủ_tục hành_chính , nhóm thủ_tục hành_chính chưa đáp_ứng yêu_cầu triển_khai ngay việc tái_cấu_trúc quy_trình , cung_cấp dịch_vụ công trực_tuyến toàn trình hoặc một phần trong tiếp_nhận , giải_quyết thủ_tục hành_chính trên môi_trường điện_tử . Các phương_án đề_xuất sửa_đổi , bổ_sung quy_định tại các văn_bản quy_phạm_pháp_luật liên_quan trước khi thực_hiện tái_cấu_trúc quy_trình .
+
+Điều 14 . Trình_tự thực_hiện tái_cấu_trúc quy_trình
+
+Trình_tự thực_hiện tái_cấu_trúc quy_trình thủ_tục hành_chính được thực_hiện theo các bước quy_định tại khoản 2 Điều 26 <QĐ rel="DC"> Quyết_định số 31/2021/QĐ-TTg ngày 11 tháng 10 năm 2021 </QĐ> của Thủ_tướng Chính_phủ ban_hành quy_chế quản_lí vận_hành , khai_thác Cổng Dịch_vụ công_quốc_gia .
+
+Điều 15 . Tiêu_chí lựa_chọn thủ_tục hành_chính được thực_hiện rà_soát , đánh_giá để cung_cấp dịch_vụ công trực_tuyến
+
+1 . Sự phù_hợp của quy_định thủ_tục hành_chính cho phép thực_hiện trên môi_trường điện_tử .
+
+2 . Số_lượng đối_tượng , tần_suất thực_hiện của từng thủ_tục hành_chính .
+
+3 . Khả_năng kết_nối , liên_thông , chia_sẻ dữ_liệu phục_vụ giải_quyết thủ_tục hành_chính giữa các cơ_quan trong quá_trình xem_xét , giải_quyết thủ_tục hành_chính .
+
+4 . Tính hiệu_quả của việc cung_cấp dịch_vụ công trực_tuyến .
+
+Điều 16 . Rà_soát quy_trình thực_hiện thủ_tục hành_chính
+
+1 . Căn_cứ trên danh_mục thủ_tục hành_chính được phê_duyệt , cơ_quan , đơn_vị thực_hiện chức_năng kiểm_soát thủ_tục hành_chính phối_hợp các cơ_quan , đơn_vị chuyên_môn tiến_hành rà_soát quy_trình thực_hiện thủ_tục hành_chính theo hai loại là thủ_tục hành_chính đơn_lẻ và nhóm thủ_tục hành_chính liên_thông .
+
+2 . Việc rà_soát quy_trình thực_hiện thủ_tục hành_chính dựa trên trình_tự thực_hiện của thủ_tục hành_chính hoặc nhóm thủ_tục hành_chính liên_thông và trách_nhiệm , nội_dung công_việc cụ_thể cần thực_hiện của từng cơ_quan , đơn_vị liên_quan tham_gia trong trình_tự thực_hiện .
+
+3 . Đối_với thủ_tục hành_chính đơn_lẻ , cơ_quan rà_soát quy_trình xây_dựng sơ_đồ tổng_thể qua các bước sau :
+
+a ) Nghiên_cứu quy_định thủ_tục hành_chính để xác_định trình_tự các bước cần thực_hiện của thủ_tục hành_chính từ khi tổ_chức , cá_nhân thực_hiện thủ_tục hành_chính nộp hồ_sơ đến khi nhận kết_quả giải_quyết ;
+
+b ) Xác_định các cơ_quan , đơn_vị , cá_nhân tham_gia trong quá_trình tiếp_nhận , xử_lí hồ_sơ , trả kết_quả và trách_nhiệm , nội_dung cần thực_hiện cụ_thể ;
+
+c ) Xây_dựng và hoàn_thiện sơ_đồ .
+
+4 . Đối_với nhóm thủ_tục hành_chính liên_thông , cơ_quan rà_soát lập sơ_đồ tổng_thể qua các bước sau :
+
+a ) Xác_định thứ_tự và mối liên_hệ giữa các thủ_tục hành_chính trong nhóm và trách_nhiệm của các cơ_quan , đơn_vị đối_với từng thủ_tục hành_chính ;
+
+b ) Xác_định trình_tự thực_hiện hiện_tại của từng thủ_tục hành_chính đơn_lẻ trong nhóm ;
+
+c ) Xây_dựng và hoàn_thiện sơ_đồ .
+
+Điều 17 . Đánh_giá , tái_cấu_trúc quy_trình thủ_tục hành_chính
+
+1 . Thực_hiện tái_cấu_trúc quy_trình thủ_tục hành_chính nhằm đạt được một hoặc một_số kết_quả sau :
+
+a ) Cắt_giảm thủ_tục hành_chính không cần_thiết ;
+
+b ) Giảm đi_lại , tiếp_xúc trực_tiếp của tổ_chức , cá_nhân thực_hiện thủ_tục hành_chính ;
+
+c ) Giảm hồ_sơ , giấy_tờ cần cung_cấp của tổ_chức , cá_nhân thực_hiện thủ_tục hành_chính ;
+
+d ) Giảm các bước phải xử_lí trực_tiếp hoặc thủ_công của cơ_quan , đơn_vị trong quá_trình tiếp_nhận , giải_quyết thủ_tục hành_chính .
+
+2 . Tiêu_chí thực_hiện tái_cấu_trúc quy_trình thủ_tục hành_chính :
+
+a ) Khả_năng kết_nối , chia_sẻ dữ_liệu và số_hoá hồ_sơ , giấy_tờ ;
+
+b ) Khả_năng liên_thông điện_tử giữa các cơ_quan trong quá_trình xem_xét , giải_quyết thủ_tục hành_chính ;
+
+c ) Hiệu_quả của việc xây_dựng hệ_thống cung_cấp dịch_vụ công trực_tuyến ;
+
+d ) Hiệu_năng đáp_ứng của hệ_thống cung_cấp dịch_vụ công trực_tuyến .
+
+3 . Cách_thức thực_hiện tái_cấu_trúc quy_trình thủ_tục hành_chính :
+
+a ) Xác_định các hệ_thống , cơ_sở dữ_liệu liên_quan đến quá_trình thực_hiện thủ_tục hành_chính và khả_năng kết_nối , chia_sẻ , khai_thác dữ_liệu ;
+
+b ) Đánh_giá cắt_giảm , đơn_giản_hoá thủ_tục hành_chính , thành_phần hồ_sơ , quy_trình , trình_tự thực_hiện thủ_tục hành_chính theo các tiêu_chí tái_cấu_trúc ;
+
+c ) Xây_dựng sơ_đồ quy_trình điện_tử .
+
+4 . Việc rà_soát , chuẩn_hoá mẫu_đơn , tờ khai thiết_lập biểu_mẫu tương_tác được thực_hiện theo quy_định tại Chương Iv Thông_tư này .
+
+5 . Tuỳ_thuộc theo yêu_cầu , việc tái_cấu_trúc quy_trình được thực_hiện theo từng thủ_tục hành_chính hoặc theo nhóm thủ_tục hành_chính liên_thông . Trên_cơ_sở kết_quả tái_cấu_trúc , cơ_quan chủ_trì rà_soát , đánh_giá tiến_hành hoàn_thiện quy_trình điện_tử sau khi tái_cấu_trúc quy_trình để cung_cấp dịch_vụ công trực_tuyến . Trong trường_hợp cần_thiết , cơ_quan chủ_trì rà_soát tổng_hợp , đề_xuất hoặc thực_hiện theo thẩm_quyền việc sửa_đổi , bổ_sung các quy_định tại văn_bản quy_phạm_pháp_luật để hoàn_thiện cơ_sở pháp_lí đáp_ứng tối_đa các kết_quả tại khoản 1 Điều này khi cung_cấp dịch_vụ công trực_tuyến .
+
+Điều 18 . Tính_toán chi_phí tiết_kiệm
+
+Trên_cơ_sở phương_án tái_cấu_trúc quy_trình , cơ_quan , đơn_vị chủ_trì rà_soát , tính_toán chi_phí tiết_kiệm trên cơ_sở các nội_dung đã được cắt_giảm , đơn_giản_hoá theo quy_định về kiểm_soát thủ_tục hành_chính .
+
+Điều 19 . Xây_dựng hoặc hoàn_thiện hệ_thống , tích_hợp , kiểm_thử , cung_cấp dịch_vụ công trực_tuyến
+
+1 . Trên_cơ_sở kết_quả rà_soát , xây_dựng phương_án tái_cấu_trúc , cơ_quan chủ_trì rà_soát , trình Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân cấp tỉnh phê_duyệt và công_bố để cung_cấp hoặc hoàn_thiện dịch_vụ công trực_tuyến .
+
+2 . Thực_hiện tích_hợp , kiểm_thử , cung_cấp trên Cổng Dịch_vụ công_quốc_gia , Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh . Khuyến_khích quá_trình kiểm_thử có sự tham_gia của các đối_tượng thực_hiện thủ_tục hành_chính .
+
+Điều 20 . Kiểm_thử dịch_vụ công trực_tuyến tích_hợp trên Cổng Dịch_vụ công_quốc_gia
+
+1 . Kiểm_tra dịch_vụ công trực_tuyến đã khai_báo trên Cổng Dịch_vụ công_quốc_gia và yêu_cầu công_khai .
+
+Công_chức cơ_quan , đơn_vị thực_hiện kiểm_soát thủ_tục hành_chính tại bộ , ngành , địa_phương sử_dụng tài_khoản trên Cổng Dịch_vụ công_quốc_gia để kiểm_tra dịch_vụ công trực_tuyến đã khai_báo trên Cổng Dịch_vụ công_quốc_gia trong mục tra_cứu danh_mục dịch_vụ công ; kiểm_tra các thông_tin và đề_nghị công_khai dịch_vụ công hiển_thị trên Cổng Dịch_vụ công_quốc_gia để thực_hiện kiểm_thử . Trường_hợp thông_tin không chính_xác phải đề_nghị cơ_quan có thẩm_quyền chỉnh_sửa lại đầy_đủ , chính_xác trước khi đề_nghị công_khai .
+
+Các thông_tin cần kiểm_tra bao_gồm : Tên Dịch_vụ công ; mã thủ_tục hành_chính bảo_đảm chính_xác với loại dịch_vụ công_khai_báo ; cấp thực_hiện ; các cơ_quan , đơn_vị thực_hiện ; đường_dẫn tới dịch_vụ công ; mức_độ áp_dụng .
+
+2 . Thực_hiện kiểm_thử dịch_vụ công trực_tuyến trên Cổng Dịch_vụ công_quốc_gia .
+
+Sau khi dịch_vụ công trực_tuyến được hiển_thị công_khai trên Cổng Dịch_vụ công_quốc_gia , trong thời_gian 05 ngày làm_việc kể từ khi công_khai , dịch_vụ công trực_tuyến phải được bộ , ngành , địa_phương kiểm_thử với vai_trò của đối_tượng thực_hiện dịch_vụ và gửi tổng_hợp kết_quả kiểm_thử trên hệ_thống quản_trị của Cổng Dịch_vụ công_quốc_gia tại trang quản_trị có địa_chỉ : quan tri . dichvucong . gov . vn .
+
+Nội_dung kiểm_thử bao_gồm :
+
+a ) Kiểm_tra cơ_chế đăng_nhập một lần từ Cổng Dịch_vụ công_quốc_gia tới hệ_thống cung_cấp dịch_vụ công ;
+
+b ) Thực_hiện nộp hồ_sơ trực_tuyến . Trường_hợp quá_trình nộp phát_hiện có bước không thực_hiện được hoặc hồ_sơ , giấy_tờ ghi chưa chính_xác theo nội_dung công_bố , công_khai thủ_tục hành_chính thì đề_nghị kiểm_tra , điều_chỉnh lại ;
+
+c ) Kiểm_tra tích_hợp thanh_toán trực_tuyến đối_với dịch_vụ công cho phép thanh_toán trực_tuyến , gồm : Tính thông_suốt về mặt kĩ_thuật đối_với quy_trình thanh_toán ; phương_thức thanh_toán đã tích_hợp , sử_dụng Hệ_thống thanh_toán trực_tuyến của Cổng Dịch_vụ công_quốc_gia .
+
+Đối_với dịch_vụ công trực_tuyến đăng_kí mức_độ toàn trình có yêu_cầu nộp nghĩa_vụ tài_chính nhưng chưa cho phép thanh_toán trực_tuyến thì đề_nghị rà_soát , tích_hợp thanh_toán trực_tuyến để bảo_đảm đáp_ứng đúng yêu_cầu về chất_lượng của dịch_vụ công mức_độ toàn trình ;
+
+d ) Kiểm_tra việc xử_lí hồ_sơ trực_tuyến , việc đồng_bộ trạng_thái hồ_sơ , kết_quả giải_quyết thủ_tục hành_chính bản điện_tử . Sau khi nộp hồ_sơ thành_công , hồ_sơ phải được kiểm_tra tính thông_suốt trong luân_chuyển , thao_tác_nghiệp_vụ xử_lí hồ_sơ giữa các cơ_quan , đơn_vị , bộ_phận và việc đồng_bộ trạng_thái xử_lí hồ_sơ theo từng bước thực_hiện trong quy_trình nội_bộ , điện_tử với Cổng Dịch_vụ công_quốc_gia . Trường_hợp kết_quả giải_quyết thủ_tục hành_chính bản điện_tử chứa chữ_kí số , việc kí và hiển_thị chữ_kí số phù_hợp quy_định của <LT rel="DC"> Luật Giao_dịch điện_tử </LT> và quy_định của pháp_luật chuyên_ngành ;
+
+đ ) Tổng_hợp kết_quả kiểm_thử .
+
+Sau khi hoàn_thành việc kiểm_thử , bộ , ngành , địa_phương tổng_hợp kết_quả kiểm_thử và gửi mã hồ_sơ , dịch_vụ công đã kiểm_thử trên hệ_thống quản_trị của Cổng Dịch_vụ công_quốc_gia để hệ_thống kiểm_tra kết_quả_thực_hiện .
+
+3 . Sau 05 ngày làm_việc kể từ ngày_công_khai để kiểm_thử trên Cổng Dịch_vụ công_quốc_gia mà bộ , ngành , địa_phương không thực_hiện kiểm_thử và không gửi kết_quả kiểm_thử theo quy_định thì hệ_thống sẽ thực_hiện tự_động dừng công_khai các dịch_vụ công trực_tuyến đã đăng_ký .
+
+Chương_iv
+
+Rà_soát , Chuẩn_hóa Mẫu_đơn , Tờ Khai_thiết_lập Biểu_mẫu Điện_tử Tương_tác
+
+Điều 21 . Rà_soát , chuẩn_hoá mẫu_đơn , tờ khai
+
+1 . Bộ , cơ_quan , địa_phương thực_hiện rà_soát mẫu_đơn , tờ khai theo Kế_hoạch rà_soát , đánh_giá thủ_tục hành_chính hàng năm và trọng_tâm quy_định tại <TT rel="DC"> Thông_tư số 02/2017/TT-VPCP ngày 31 tháng 10 năm 2017 </TT> hướng_dẫn về nghiệp_vụ kiểm_soát thủ_tục hành_chính .
+
+2 . Yêu_cầu đối_với mẫu_đơn , tờ khai .
+
+a ) Thủ_tục hành_chính có quy_định đơn , tờ khai thì đơn , tờ khai phải được mẫu hoá ;
+
+b ) Mẫu_đơn , tờ khai bảo_đảm hợp_lý , từng nội_dung thông_tin tại mẫu_đơn , tờ khai rõ_ràng , ngắn_gọn , thực_sự cần_thiết cho việc giải_quyết thủ_tục hành_chính , tăng tính chịu trách_nhiệm của cá_nhân , tổ_chức đối_với những nội_dung tại đơn , tờ khai ;
+
+c ) Trong trường_hợp đơn , tờ khai cần phải có xác_nhận của cơ_quan , người có thẩm_quyền thì quy_định rõ cơ_quan , người có thẩm_quyền xác_nhận và nội_dung xác_nhận .
+
+3 . Thực_hiện rà_soát mẫu_đơn , tờ khai .
+
+a ) Rà_soát nội_dung thông_tin trong mẫu_đơn , tờ khai theo quy_định của thủ_tục hành_chính ;
+
+b ) Rà_soát , đánh_giá sự cần_thiết của thông_tin , nội_dung và thẩm_quyền xác_nhận và khả_năng chia_sẻ dữ_liệu để hỗ_trợ điền , xác_nhận tự_động thông_tin vào mẫu_đơn , tờ khai từ các cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu chuyên_ngành , thiết_lập sơ_đồ mối quan_hệ các trường thông_tin của mẫu_đơn , tờ khai ;
+
+c ) Trường_hợp phát_hiện các trường thông_tin , nội_dung yêu_cầu xác_nhận trong mẫu_đơn , tờ khai không cần_thiết , bộ , ngành , địa_phương sửa_đổi theo thẩm_quyền hoặc kiến_nghị cấp có thẩm_quyền sửa_đổi theo quy_định ;
+
+d ) Rà_soát mối quan_hệ giữa thành_phần hồ_sơ với các thông_tin trong mẫu_đơn , tờ khai .
+
+Trường_hợp_thành_phần hồ_sơ là kết_quả giải_quyết của thủ_tục hành_chính trước đó , có_thể tra_cứu , khai_thác trên các cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu chuyên_ngành hoặc Kho quản_lí dữ_liệu điện_tử của tổ_chức , cá_nhân thì bộ , ngành , địa_phương sửa_đổi theo thẩm_quyền hoặc kiến_nghị cấp có thẩm_quyền sửa_đổi thủ_tục hành_chính theo hướng cắt_giảm thành_phần hồ_sơ , đồng_thời bổ_sung thông_tin cơ_bản về thành_phần hồ_sơ tại mẫu_đơn , tờ khai để hỗ_trợ tra_cứu trong quá_trình giải_quyết thủ_tục hành_chính .
+
+Thông_tin cơ_bản về thành_phần hồ_sơ bao_gồm : tên loại giấy_tờ ; mã định_danh của tổ_chức , cá_nhân được cấp giấy_tờ ; số kí_hiệu giấy_tờ ; cơ_quan cấp và thời_gian cấp . Trường_hợp_số kí_hiệu giấy_tờ đã thể_hiện đầy_đủ thông_tin cơ_quan và thời_gian cấp thì không_thể_hiện nội_dung này tại mẫu_đơn , tờ khai .
+
+Điều 22 . Biểu_mẫu điện_tử tương_tác
+
+1 . Trách_nhiệm cung_cấp biểu_mẫu điện_tử tương_tác .
+
+a ) Bộ , cơ_quan ngang bộ , Bảo_hiểm xã_hội Việt_nam xây_dựng và cung_cấp biểu_mẫu điện_tử tương_tác đối_với các dịch_vụ công trực_tuyến để giải_quyết thủ_tục hành_chính : thuộc phạm_vi giải_quyết của bộ , cơ_quan ; được cấp có thẩm_quyền giao xây_dựng giải_pháp cung_cấp_tập_trung trên toàn_quốc ; nhóm thủ_tục hành_chính có liên_quan đến nhau thuộc lĩnh_vực quản_lí nhà_nước của nhiều bộ , cơ_quan ;
+
+b ) Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương xây_dựng và thực_hiện giải_pháp cung_cấp biểu_mẫu điện_tử tương_tác đối_với các dịch_vụ công trực_tuyến để giải_quyết thủ_tục hành_chính thuộc phạm_vi giải_quyết của địa_phương hoặc nhóm thủ_tục hành_chính liên_thông được thực_hiện thí_điểm tại địa_phương , trừ những thủ_tục hành_chính được nêu tại điểm a khoản này .
+
+2 . Quy_trình thiết_lập biểu_mẫu tương_tác .
+
+a ) Trên_cơ_sở kết_quả rà_soát mẫu_đơn , tờ khai , xây_dựng các biểu_mẫu điện_tử tương_tác cho từng dịch_vụ công trực_tuyến đáp_ứng yêu_cầu đơn_giản , thuận_lợi , tối_đa hoá việc khai_thác dữ_liệu để điền , xác_nhận tự_động , có khả_năng tái sử_dụng dữ_liệu của biểu_mẫu .
+
+Định_dạng thông_tin cơ_bản của biểu_mẫu điện_tử tương_tác bao_gồm : Mã_số mẫu_đơn , tờ khai ; mã định_danh của tổ_chức , cá_nhân ; các thông_tin cơ_bản về tổ_chức , cá_nhân ; các thông_tin khác nếu có . Khuyến_khích việc định_dạng thông_tin của biểu_mẫu điện_tử tương_tác đáp_ứng tối_đa yêu_cầu bóc tách , số_hoá dữ_liệu theo quy_định tại Điều 9 Thông_tư này ;
+
+b ) Biểu_mẫu điện_tử tương_tác bao_gồm các phần : Nội_dung thông_tin của mẫu_đơn , tờ khai theo quy_định của thủ_tục hành_chính ; thông_tin bổ_sung để hỗ_trợ tìm_kiếm , tích_hợp hoặc đăng_tải thành_phần hồ_sơ .
+
+Trường_hợp_thành_phần hồ_sơ của thủ_tục hành_chính chưa được cắt_giảm , đơn_giản_hoá , Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương xây_dựng biểu_mẫu điện_tử tương_tác theo hướng cho phép tổ_chức , cá_nhân tìm_kiếm thành_phần hồ_sơ trong Kho quản_lí dữ_liệu điện_tử của tổ_chức , cá_nhân hoặc tìm_kiếm thông_qua kết_nối , tích_hợp với các cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu chuyên_ngành ;
+
+c ) Kiểm_thử và sử_dụng biểu_mẫu điện_tử tương_tác được thực_hiện cùng với việc kiểm_thử , cung_cấp dịch_vụ công trực_tuyến .
+
+3 . Biểu_mẫu điện_tử tương_tác đáp_ứng các yêu_cầu tối_thiểu sau :
+
+a ) Định_dạng thông_tin phải tuân_thủ quy_định dữ_liệu của Cơ_sở dữ_liệu quốc_gia về dân_cư , Cơ_sở dữ_liệu quốc_gia về đăng_kí doanh_nghiệp và tích_hợp từ các cơ_sở dữ_liệu này .
+
+b ) Mã_số biểu_mẫu xác_định theo cấu_trúc : < mã_số thủ_tục hành_chính > . < ký_hiệu mẫu_đơn , tờ khai > .
+
+Mã_số thủ_tục hành_chính được áp_dụng thống_nhất theo mã được cấp trên Cơ_sở dữ_liệu quốc_gia về thủ_tục hành_chính .
+
+Ký_hiệu mẫu_đơn tờ khai được thực_hiện theo quy_định của thủ_tục hành_chính .
+
+c ) Cho phép điền , xác_nhận tự_động các thông_tin , dữ_liệu đã được số_hoá , chia_sẻ .
+
+d ) Cho phép tổ_chức , cá_nhân kí số trong trường_hợp dịch_vụ công trực_tuyến có yêu_cầu .
+
+đ ) Việc xuất_bản biểu_mẫu điện_tử tương_tác phải bảo_đảm thống_nhất với yêu_cầu về thể_thức của mẫu_đơn , tờ khai thủ_tục hành_chính theo quy_định .
+
+Chương V
+
+Chia_sẻ Dữ_liệu Giữa Hệ_thống Thông_tin Giải_quyết Thủ_tục Hành_chính Cấp_bộ , Cấp Tỉnh Và Cổng Dịch_vụ Công_quốc_gia
+
+Điều 23 . Yêu_cầu nghiệp_vụ đối_với Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh
+
+Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh được hợp_nhất , nâng_cấp từ Cổng Dịch_vụ công và Hệ_thống thông_tin một cửa điện_tử cấp_bộ , cấp tỉnh đáp_ứng các yêu_cầu nghiệp_vụ sau :
+
+1 . Cung_cấp thông_tin về thủ_tục hành_chính , dịch_vụ công trực_tuyến .
+
+2 . Xác_thực người dùng theo phương_thức tích_hợp với hệ_thống xác_thực của Cổng Dịch_vụ công_quốc_gia .
+
+3 . Tiếp_nhận hồ_sơ dịch_vụ công trực_tuyến mức_độ toàn trình hoặc một phần do tổ_chức , cá_nhân thực_hiện trên Hệ_thống hoặc qua kết_nối với Cổng Dịch_vụ công_quốc_gia .
+
+4 . Quản_lí toàn_bộ quá_trình giải_quyết thủ_tục hành_chính tiếp_nhận từ Bộ_phận Một cửa , Cổng Dịch_vụ công_quốc_gia , Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh ; tự_động sinh mã_số hồ_sơ thủ_tục hành_chính , mã giấy_tờ số_hoá để theo_dõi việc xử_lí hồ_sơ , trả kết_quả trên cơ_sở ghi_nhận từng bước thực_hiện của quá_trình theo thời_gian thực và lưu_trữ thông_tin lịch_sử của việc giải_quyết thủ_tục hành_chính .
+
+5 . Tra_cứu thông_tin theo các mức_độ xác_thực :
+
+a ) Mức_độ không đòi_hỏi xác_thực : Các thông_tin về mã_số hồ_sơ thủ_tục hành_chính và mức_độ hoàn_thành việc giải_quyết thủ_tục hành_chính ;
+
+b ) Mức_độ đã được xác_thực : Cung_cấp thông_tin trạng_thái giải_quyết thủ_tục hành_chính của người dùng đến cấp_độ phòng , ban chuyên_môn ; tình_hình , kết_quả giải_quyết phản_ánh , kiến_nghị của người dùng ; các thông_tin , hồ_sơ điện_tử của người dùng đã cung_cấp trên Cổng Dịch_vụ công_quốc_gia , Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh .
+
+6 . Hướng_dẫn , hỗ_trợ thực_hiện thủ_tục hành_chính .
+
+7 . Tiếp_nhận phản_ánh , kiến_nghị của người dân , doanh_nghiệp về giải_quyết thủ_tục hành_chính .
+
+8 . Đánh_giá việc giải_quyết thủ_tục hành_chính , việc giải_quyết phản_ánh , kiến_nghị của cơ_quan nhà_nước theo kết_quả tiếp_nhận , giải_quyết hồ_sơ được Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh ghi_nhận .
+
+9 . Công_khai tình_trạng giải_quyết thủ_tục hành_chính , cung_cấp tình_trạng giải_quyết thủ_tục hành_chính cho Cổng Dịch_vụ công_quốc_gia để công_khai theo quy_định của pháp_luật .
+
+10 . Lưu_giữ dữ_liệu giải_quyết thủ_tục hành_chính tại Kho dữ_liệu hồ_sơ thủ_tục hành_chính , bao_gồm các dữ_liệu về :
+
+a ) Hồ_sơ tiếp_nhận giải_quyết thủ_tục hành_chính ;
+
+b ) Thông_tin lịch_sử của việc giải_quyết thủ_tục hành_chính ;
+
+c ) Kết_quả số_hoá hồ_sơ , giấy_tờ giải_quyết thủ_tục hành_chính do bộ , cơ_quan , địa_phương tự thực_hiện ;
+
+d ) Kết_quả giải_quyết thủ_tục hành_chính thuộc thẩm_quyền giải_quyết của bộ , cơ_quan ngang bộ , địa_phương chủ_quản hệ_thống trong trường_hợp kết_quả này không được lưu vào cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu chuyên_ngành ;
+
+đ ) Kết_quả chứng_thực bản_sao điện_tử từ bản_chính trong trường_hợp địa_phương tự thực_hiện ;
+
+e ) Thông_tin dạng đường_dẫn đối_với các dữ_liệu liên_quan đến tổ_chức , cá_nhân có tài_khoản trên hệ_thống được lưu tại các Cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu chuyên_ngành .
+
+11 . Cung_cấp Kho quản_lí dữ_liệu điện_tử của tổ_chức , cá_nhân theo tài_khoản để hỗ_trợ tổ_chức , cá_nhân theo_dõi , quản_lý , lưu_giữ thông_tin , dữ_liệu điện_tử liên_quan đến giao_dịch hành_chính của tổ_chức , cá_nhân đó .
+
+12 . Thống_kê , tổng_hợp tình_hình cung_cấp , giải_quyết thủ_tục hành_chính .
+
+13 . Xuất_bản dữ_liệu , chuyển_đổi hồ_sơ , kết_quả giải_quyết thủ_tục hành_chính_điện_tử sang hồ_sơ , kết_quả giải_quyết thủ_tục hành_chính bản giấy phục_vụ cho việc lưu , đối_chiếu thông_tin hoặc xuất_trình cho cơ_quan có thẩm_quyền kiểm_tra thông_tin về hồ_sơ , kết_quả giải_quyết thủ_tục hành_chính hoặc cung_cấp cho các tổ_chức , cá_nhân có nhu_cầu tra_cứu , xác_minh thông_tin trong phạm_vi quy_định của pháp_luật .
+
+14 . Kết_nối , tích_hợp , chia_sẻ thông_tin theo các yêu_cầu được quy_định tại các khoản 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 10 , 12 của Điều này với Cổng Dịch_vụ công_quốc_gia .
+
+15 . Kết_nối , chia_sẻ dữ_liệu với Hệ_thống quản_lí văn_bản và điều_hành nhằm hỗ_trợ việc giải_quyết thủ_tục hành_chính , trích xuất dữ_liệu kết_quả giải_quyết thủ_tục hành_chính là văn_bản điện_tử .
+
+16 . Kết_nối , tích_hợp với Hệ_thống thông_tin báo_cáo quốc_gia để cung_cấp thông_tin về tình_hình , kết_quả giải_quyết thủ_tục hành_chính trong kì báo_cáo .
+
+17 . Kết_nối , chia_sẻ dữ_liệu khoản thu với Hệ_thống thông_tin của Kho_bạc Nhà_nước , Thuế để thực_hiện thanh_toán trực_tuyến phí , lệ_phí và các nghĩa_vụ tài_chính trong thực_hiện thủ_tục hành_chính , cung_cấp dịch_vụ công .
+
+18 . Các yêu_cầu nghiệp_vụ khác theo quyết_định của Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , Chủ_tịch Ủy_ban nhân_dân cấp tỉnh .
+
+Điều 24 . Kho quản_lí dữ_liệu điện_tử của tổ_chức , cá_nhân trên Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh
+
+1 . Kho quản_lí dữ_liệu điện_tử của tổ_chức , cá_nhân là cách_thức tổ_chức dữ_liệu , quản_lý , lưu_giữ dữ_liệu của Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh , với giao_diện hiển_thị giúp quản_lí dữ_liệu điện_tử của từng tổ_chức , cá_nhân theo tài_khoản sử_dụng .
+
+2 . Các dữ_liệu được thể_hiện trong Kho quản_lí dữ_liệu điện_tử của tổ_chức , cá_nhân được thực_hiện theo quy_định tại khoản 3 Điều 16 <NĐ rel="DC"> Nghị_định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 </NĐ> về thực_hiện thủ_tục hành_chính trên môi_trường điện_tử , bao_gồm :
+
+a ) Dữ_liệu về thông_tin người_làm thủ_tục , chủ sở_hữu hồ_sơ , lưu_trữ dưới dạng dữ_liệu đặc_tả để định_danh chủ hồ_sơ như : Chứng_minh_thư nhân_dân / Căn_cước công_dân ( đối_với cá_nhân ) hoặc số hộ_chiếu ( hoặc số giấy_tờ có giá_trị đi_lại quốc_tế ) của người nước_ngoài , Mã_số thuế / Mã_số doanh_nghiệp ( đối_với doanh_nghiệp ) ;
+
+b ) Dữ_liệu hồ_sơ thực_hiện thủ_tục hành_chính , dịch_vụ công đã được tiếp_nhận và xử_lí thành_công ;
+
+c ) Dữ_liệu về tiến_trình , lịch_sử xử_lý , nội_dung , tệp_tin trong quá_trình xử_lí hồ_sơ ;
+
+d ) Kết_quả hoặc đường_dẫn kết_quả giải_quyết thủ_tục hành_chính_điện_tử ;
+
+đ ) Kết_quả chứng_thực bản_sao điện_tử từ bản_chính ;
+
+e ) Các dữ_liệu đặc_tả khác của giấy_tờ , kết_quả giải_quyết thủ_tục hành_chính được số_hoá ;
+
+g ) Tệp_tin do tổ_chức , cá_nhân có chữ_kí số chủ_động cập_nhật .
+
+3 . Việc phân_quyền truy_cập , khai_thác dữ_liệu của tổ_chức , cá_nhân thực_hiện theo quy_chế hoạt_động của Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh . Các dữ_liệu của tổ_chức , cá_nhân được hiển_thị phù_hợp với mức_độ phân_quyền khai_thác dữ_liệu để bảo_đảm nguyên_tắc về bảo_vệ bí_mật đời tư , bảo_vệ dữ_liệu cá_nhân và quy_định về trách_nhiệm , các hành_vi không được làm trong tiếp_nhận , giải_quyết thủ_tục hành_chính trên môi_trường điện_tử .
+
+Điều 25 . Kết_nối , chia_sẻ kết_quả số_hoá giữa Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh và Cổng Dịch_vụ công_quốc_gia
+
+1 . Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh đồng_bộ với Cổng Dịch_vụ công_quốc_gia như sau :
+
+a ) Các kết_quả số_hoá được đồng_bộ gồm : Kết_quả giải_quyết thủ_tục hành_chính thuộc thẩm_quyền giải_quyết của các bộ , cơ_quan ngang bộ , địa_phương ; kết_quả số_hoá thành_phần hồ_sơ thủ_tục hành_chính đã được cơ_quan có thẩm_quyền tiếp_nhận , giải_quyết thành_công ; bản_sao điện_tử từ sổ gốc hoặc bản_sao điện_tử được chứng_thực_từ bản_chính được bộ , cơ_quan , địa_phương thực_hiện ; các thông_tin khác ( nếu có ) ;
+
+b ) Việc đồng_bộ phải bảo_đảm các trường thông_tin , dữ_liệu sau : Mã_số giấy_tờ ; tên giấy_tờ ; tệp_tin đính kèm hoặc đường_dẫn đến tệp_tin ; các dữ_liệu đặc_tả khác theo mức_độ quản_lý , giải_quyết thủ_tục hành_chính và cung_cấp dịch_vụ công ;
+
+c ) Việc đồng_bộ kết_quả số_hoá được thực_hiện theo thời_gian thực .
+
+2 . Cổng Dịch_vụ công_quốc_gia chia_sẻ với Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh trong quá_trình giải_quyết thủ_tục hành_chính :
+
+a ) Đồng_bộ danh_mục kết_quả giải_quyết thủ_tục hành_chính trong Kho quản_lí dữ_liệu điện_tử của tổ_chức , cá_nhân trên Cổng Dịch_vụ công_quốc_gia với Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh theo yêu_cầu của bộ , ngành , địa_phương ;
+
+b ) Chia_sẻ dữ_liệu về giấy_tờ cho Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh trong trường_hợp bộ , cơ_quan , địa_phương yêu_cầu kiểm_tra để giải_quyết thủ_tục hành_chính . Căn_cứ mã giấy_tờ số_hoá do bộ , cơ_quan , địa_phương cung_cấp , Cổng Dịch_vụ công_quốc_gia chia_sẻ : Mã_số giấy_tờ , tên giấy_tờ , tệp_tin đính kèm hoặc đường_dẫn đến tệp_tin ;
+
+c ) Việc đồng_bộ được thực_hiện tự_động theo tần_suất phù_hợp với năng_lực của Cổng Dịch_vụ công_quốc_gia và thực_hiện đồng_bộ theo yêu_cầu tại thời_điểm tổ_chức , cá_nhân kiểm_tra phục_vụ tiếp_nhận , giải_quyết thủ_tục hành_chính , dịch_vụ công trực_tuyến .
+
+3 . Việc tái sử_dụng kết_quả số_hoá được thực_hiện theo thứ tự ưu_tiên như sau :
+
+a ) Khai_thác từ Hệ_thống thông_tin giải_quyết thủ_tục hành_chính , các hệ_thống thông_tin , cơ_sở dữ_liệu thuộc thẩm_quyền phạm_vi quản_lí của chính bộ , cơ_quan , địa_phương ;
+
+b ) Khai_thác từ các hệ_thống thông_tin , cơ_sở dữ_liệu có kết_nối song_phương với Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh ;
+
+c ) Khai_thác từ dữ_liệu được chia_sẻ qua Cổng Dịch_vụ công_quốc_gia .
+
+Điều 26 . Áp_dụng mã Qr trong quá_trình tiếp_nhận , giải_quyết thủ_tục hành_chính
+
+1 . Việc áp_dụng cung_cấp mã Qr trong tiếp_nhận thủ_tục hành_chính phải bảo_đảm theo tiêu_chuẩn Việt_nam Tcvn 7322 : 2009 ( iso / iec 18004 : 2006 ) về Công_nghệ thông_tin - Kỹ_thuật phân_định và thu_nhận dữ_liệu tự_động - Yêu_cầu kĩ_thuật đối_với mã hình Qr code 2005 .
+
+2 . Mã_qr được in ở góc trên bên trái của các giấy_tờ được xuất_bản từ dữ_liệu của Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh cho tổ_chức , cá_nhân cung_cấp các dữ_liệu tối_thiểu sau :
+
+a ) Mã_số hồ_sơ giải_quyết thủ_tục hành_chính ;
+
+b ) Mã thủ_tục hành_chính ;
+
+c ) Mã định_danh của tổ_chức , cá_nhân thực_hiện thủ_tục hành_chính ;
+
+d ) Tên giấy_tờ được xuất_bản ;
+
+đ ) Tên hệ_thống thông_tin cung_cấp dữ_liệu ;
+
+e ) Thời_điểm xuất_bản ;
+
+g ) Trường_hợp là Giấy tiếp_nhận và hẹn trả kết_quả , mã Qr có cung_cấp thêm dữ_liệu về ngày hẹn trả kết_quả ;
+
+h ) Trường_hợp là Kết_quả giải_quyết thủ_tục hành_chính , mã Qr có cung_cấp thêm dữ_liệu về thời_hạn , phạm_vi có hiệu_lực ( nếu có ) .
+
+Điều 27 . Dữ_liệu khoản thu
+
+1 . Các cơ_quan thu phải bảo_đảm thông_tin định_danh khoản thu cụ_thể như sau :
+
+a ) Mã định_danh khoản thu được xác_định bằng mã_số hồ_sơ thủ_tục hành_chính hoặc số quyết_định đối_với khoản thu khác do cơ_quan giải_quyết thủ_tục hành_chính , cung_cấp dịch_vụ công cấp , bảo_đảm tính duy_nhất trên toàn_quốc ;
+
+b ) Mã cơ_quan thu : Mã định_danh điện_tử cơ_quan do bộ , ngành , địa_phương cập_nhật trên Cơ_sở dữ_liệu quốc_gia về thủ_tục hành_chính ;
+
+c ) Tên cơ_quan thu ;
+
+d ) Mã thủ_tục hành_chính trên Cơ_sở dữ_liệu quốc_gia về thủ_tục hành_chính ;
+
+đ ) Mã phí hoặc mã lệ_phí hoặc mã loại_hình thu phạt xử_lí vi_phạm hành_chính thực_hiện theo quy_định_danh_mục mà phí , lệ_phí , xử_lí vi_phạm hành_chính của Kho_bạc Nhà_nước .
+
+Trường_hợp chưa có mã phí , lệ_phí thì thay_thế bằng Mã loại giao_dịch thanh_toán quy_định tại khoản 4 Điều này .
+
+e ) Số tiền phải thu ;
+
+g ) Loại tiền phải thu ;
+
+h ) Tên cá_nhân , tổ_chức có nghĩa_vụ tài_chính ;
+
+i ) Thời_hạn nộp tiền ( nếu có ) ;
+
+k ) Mã_số thuế của cá_nhân , tổ_chức có nghĩa_vụ tài_chính ( nếu có ) ;
+
+l ) Mã_citad ;
+
+m ) Số tài_khoản của cơ_quan thu tại Kho_bạc Nhà_nước hoặc ngân_hàng ;
+
+n ) Tên tài_khoản của cơ_quan thu ;
+
+o ) Nội_dung thông_tin khác theo quy_định của ngành , lĩnh_vực .
+
+2 . Chứng_từ thanh_toán
+
+Chứng_từ thanh_toán của ngân_hàng , trung_gian thanh_toán tạo_lập trong quá_trình giải_quyết thủ_tục hành_chính , dịch_vụ công hoặc các khoản thu khác qua Cổng Dịch_vụ công_quốc_gia bao_gồm đầy_đủ các thông_tin quy_định tại khoản 1 Điều này .
+
+3 . Khi lập Lệnh thanh_toán chuyển số tiền đã thu về phí , lệ_phí , xử_phạt vi_phạm hành_chính để chuyển tiền về tài_khoản chuyên thu phí , lệ_phí của tổ_chức thu phí , lệ_phí mở tại tổ_chức tín_dụng hoặc tài_khoản phí chờ nộp ngân_sách của tổ_chức thu phí mở tại Kho_bạc Nhà_nước hoặc vào ngân_sách nhà_nước , các Ngân_hàng , trung_gian thanh_toán bảo_đảm trường Nội_dung của Lệnh thanh_toán theo cấu_trúc như sau :
+
+< Mã giao_dịch > + < Mã định_danh khoản thu > + < Mã CITAD > + < Mã_thủ_tục hành_chính > + < Mã cơ_quan thu > + < Số tiền > + < Mã phí / lệ_phí / xử_phạt vi_phạm hành_chính >
+
+4 . Cổng Dịch_vụ công_quốc_gia cấp tự_động mã giao_dịch theo định_dạng :
+
+G22 . 99 . x - yymmddzzzzzz .
+
+Trong đó , G22 . 99 . x là Mã loại giao_dịch thanh_toán , bao_gồm : G22 . 99 . 1 : Thu phạt ; G22 . 99 . 2 : Thu phí , lệ_phí thủ_tục hành_chính ; G22 . 99 . 3 : Thu thuế ; G22 . 99 . 4 : Thu bảo_hiểm xã_hội , bảo_hiểm y_tế ; G22 . 99 . 5 : Thanh_toán tiền điện ; G22 . 99 . 6 : Thanh_toán viện_phí ; G22 . 99 . 7 : Thu tạm_ứng án_phí ; G22 . 99 . 8 : Thanh_toán học_phí và các loại giao_dịch thanh_toán khác .
+
+Yymd là số thể_hiện năm , tháng , ngày phát_sinh giao_dịch .
+
+Zzzzzz là số thứ tự giao_dịch trong ngày .
+
+Danh_mục mã loại giao_dịch thanh_toán qua hệ_thống thanh_toán trực_tuyến của Cổng Dịch_vụ công_quốc_gia được thực_hiện thống_nhất theo hướng_dẫn tiêu_chuẩn kĩ_thuật kết_nối , tích_hợp với hệ_thống thanh_toán trực_tuyến của Cổng Dịch_vụ công_quốc_gia khi phát_triển các dịch_vụ công mới .
+
+5 . Khuyến_khích các hình_thức thu khác sử_dụng mã giao_dịch thống_nhất do Hệ_thống thông_tin giải_quyết thủ_tục hành_chính , cung_cấp dịch_vụ công sinh ra theo cấu_trúc < Mã định_danh điện_tử cơ_quan thu > . X - Yymmddzzzzzz .
+
+6 . Việc thanh_toán điện_tử giữa ngân_hàng thương_mại hoặc tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán đến tài_khoản thụ_hưởng của cơ_quan , đơn_vị cung_cấp dịch_vụ công mở tại ngân_hàng hoặc Kho_bạc Nhà_nước đối_với phí , lệ_phí và các nghĩa_vụ tài_chính khác trong thực_hiện thủ_tục hành_chính được thực_hiện theo quy_định tại khoản 12 Điều 1 <NĐ rel="DC"> Nghị_định số 107/2021/NĐ-CP </NĐ> hoặc pháp_luật chuyên_ngành .
+
+Điều 28 . Cập_nhật thông_tin giao_dịch , chứng_từ trên Cổng Dịch_vụ công_quốc_gia , Hệ_thống thông_tin giải_quyết thủ_tục hành_chính
+
+1 . Ngân_hàng , trung_gian thanh_toán cập_nhật đầy_đủ , kịp_thời trạng_thái giao_dịch thanh_toán trên Cổng Dịch_vụ công_quốc_gia phục_vụ công_tác quản_trị , rà_soát , đối_chiếu và hỗ_trợ hạch_toán giao_dịch thanh_toán trên Cổng Dịch_vụ công_quốc_gia .
+
+a ) Trạng_thái giao_dịch bao_gồm : khởi tạo , khởi tạo thất_bại , đang xử_lý , thanh_toán thất_bại , thanh_toán thành_công , giao_dịch thất_bại , giao_dịch thành_công ;
+
+b ) Trạng_thái hạch_toán gồm : thành_công , thất_bại .
+
+2 . Ngân_hàng , trung_gian thanh_toán rà_soát các giao_dịch thanh_toán ở trạng_thái Đang xử_lí đến ngày T - 1 ( ngày trước ngày rà_soát ) ; bảo_đảm việc đồng_bộ , cập_nhật trạng_thái kết_thúc giao_dịch ( thành_công hoặc thất_bại ) trên Cổng Dịch_vụ công_quốc_gia .
+
+3 . Các bộ , ngành , địa_phương thường_xuyên rà_soát , đối_chiếu các trạng_thái giao_dịch thanh_toán , trạng_thái hạch_toán thông_qua tài_khoản được phân_quyền theo_dõi , tra soát dữ_liệu thanh_toán trên Cổng Dịch_vụ công_quốc_gia .
+
+Trường_hợp , giao_dịch thanh_toán qua Hệ_thống thanh_toán của Cổng Dịch_vụ công_quốc_gia được ghi_nhận là đã thực_hiện thành_công , nhưng chứng_từ điện_tử chưa được đồng_bộ về Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh , bộ , ngành , địa_phương sử_dụng tài_khoản quản_trị thực_hiện gửi yêu_cầu phối_hợp xử_lí đồng_bộ chứng_từ điện_tử tới ngân_hàng và trung_gian thanh_toán . Khi hoàn_thành việc xử_lý , cập_nhật trạng_thái Đã nhận chứng_từ trên Cổng Dịch_vụ công_quốc_gia .
+
+4 . Bộ , ngành , địa_phương đồng_bộ trạng_thái Đã nhận tiền khi giao_dịch thanh_toán qua Cổng Dịch_vụ công_quốc_gia được hạch_toán về tài_khoản thụ_hưởng của cơ_quan thu đặt tại ngân_hàng thương_mại .
+
+Kho_bạc Nhà_nước đồng_bộ trạng_thái Tiền đã về Kho_bạc Nhà_nước khi giao_dịch thanh_toán qua Cổng Dịch_vụ công_quốc_gia được hạch_toán về tài_khoản tại Kho_bạc Nhà_nước .
+
+Điều 29 . Rà_soát , đối_chiếu và hỗ_trợ hạch_toán giao_dịch thanh_toán trên Cổng Dịch_vụ công_quốc_gia
+
+1 . Chuyển tiền không thành_công về tài_khoản của cơ_quan thu .
+
+Các ngân_hàng , trung_gian thanh_toán không hoàn tiền cho khách_hàng trong trường_hợp giao_dịch thành_công , đã có chứng_từ điện_tử gửi Cổng Dịch_vụ công_quốc_gia và Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh , trừ trong trường_hợp được sự đồng_ý của cơ_quan thu .
+
+Trên_cơ_sở các khoản thu chưa hạch_toán được vào tài_khoản của cơ_quan thu tại Kho_bạc Nhà_nước hoặc ngân_hàng , cơ_quan thu có trách_nhiệm rà_soát , gửi yêu_cầu tới các ngân_hàng , trung_gian thanh_toán . Trong vòng 01 ngày làm_việc , ngân_hàng , trung_gian thanh_toán tiếp_nhận yêu_cầu , phản_hồi thông_tin , có phương_án xử_lí để hạch_toán về tài_khoản của cơ_quan thu .
+
+2 . Trường_hợp việc hạch_toán không thành_công do thông_tin hạch_toán của cơ_quan thu không chính_xác do ngân_hàng , trung_gian thanh_toán phát_hiện , cung_cấp thông_tin , cơ_quan thu có trách_nhiệm làm_việc với ngân_hàng , trung_gian thanh_toán thực_hiện cập_nhật , điều_chỉnh trên Cơ_sở dữ_liệu quốc_gia về thủ_tục hành_chính , Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh ; đồng_thời , gửi thông_tin_yêu_cầu hạch_toán cho ngân_hàng , trung_gian thanh_toán để thực_hiện hạch_toán về tài_khoản của cơ_quan thu .
+
+Điều 30 . Hoàn_trả đối_với các khoản thu phí , lệ_phí , thu phạt
+
+1 . Khi người dân có yêu_cầu hoàn_trả số tiền đã nộp nhầm , nộp thừa , cơ_quan có thẩm_quyền tiếp_nhận và giải_quyết hồ_sơ đề_nghị hoàn_trả theo quy_định .
+
+2 . Việc thực_hiện đề_nghị hoàn_trả đối_với giao_dịch thanh_toán các khoản thu phí , lệ_phí , thu phạt đã được hạch_toán vào tài_khoản cơ_quan thu tại Kho_bạc Nhà_nước trên Cổng Dịch_vụ công_quốc_gia như sau :
+
+a ) Cán_bộ được phân_quyền Lập chứng_từ hoàn_trả các khoản thu ngân_sách nhà_nước thực_hiện việc lập chứng_từ tại chức_năng quản_trị đối_với mã giao_dịch thanh_toán trên Cổng Dịch_vụ công_quốc_gia . Trường_hợp cơ_quan có thẩm_quyền gửi chứng_từ hoàn sang Kho_bạc Nhà_nước thì sử_dụng mẫu chứng_từ hoàn_trả theo quy_định của Bộ Tài_chính ;
+
+b ) Cán_bộ được phân_quyền Phê_duyệt chứng_từ hoàn_trả các khoản thu ngân_sách nhà_nước phê_duyệt chứng_từ tại chức_năng quản_trị ;
+
+c ) Chuyển Lệnh hoàn_trả sang Kho_bạc Nhà_nước . Cán_bộ được phân_công_lập chứng_từ , phê_duyệt , theo_dõi tình_hình , kết_quả xử_lí của Kho_bạc Nhà_nước trên chức_năng quản_trị của Cổng Dịch_vụ công_quốc_gia .
+
+Chương_vi
+
+Điều_khoản Thi_hành
+
+Điều 31 . Trách_nhiệm thi_hành
+
+1 . Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương và các cơ_quan , tổ_chức , cá_nhân liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Cục Kiểm_soát thủ_tục hành_chính , Văn_phòng Chính_phủ có trách_nhiệm giúp Bộ_trưởng , Chủ_nhiệm Văn_phòng Chính_phủ theo_dõi , đôn_đốc , kiểm_tra việc thực_hiện Thông_tư này .
+
+Điều 32 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành từ ngày 25 tháng 5 năm 2023 , việc thực_hiện điểm đ khoản 1 Điều 27 Thông_tư này được triển_khai thực_hiện thống_nhất từ ngày 01 tháng 01 năm 2024 .
+
+2 . Việc đánh_giá chất_lượng giải_quyết thủ_tục hành_chính được thực_hiện theo quy_định tại <QĐ rel="DC"> Quyết_định số 766/QĐ-TTg ngày 23 tháng 6 năm 2022 </QĐ> của Thủ_tướng Chính_phủ ban_hành Bộ chỉ_số chỉ_đạo điều_hành và đánh_giá chất_lượng phục_vụ người dân , doanh_nghiệp trong thực_hiện thủ_tục hành_chính , dịch_vụ công theo thời_gian thực trên môi_trường điện_tử .
+
+Bãi_bỏ các quy_định về rà_soát , đánh_giá sự phù_hợp của thủ_tục hành_chính và các quy_định có liên_quan đến thủ_tục hành_chính với triển_khai dịch_vụ công trực_tuyến quy_định tại điểm y khoản 2 Điều 25 , khoản 2 Điều 28 <TT rel="DC"> Thông_tư số 02/2017/TT-VPCP ngày 31 tháng 10 năm 2017 </TT> của Văn_phòng Chính_phủ hướng_dẫn về nghiệp_vụ kiểm_soát thủ_tục hành_chính ; bãi_bỏ các Điều 13 , 14 , 15 , 17 , 21 , khoản 2 Điều 16 <TT rel="None"> Thông_tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 </TT> của Văn_phòng Chính_phủ hướng_dẫn thi_hành một_số quy_định của <NĐ rel="None"> Nghị_định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 </NĐ> của Chính_phủ về thực_hiện cơ_chế một cửa , một cửa liên_thông trong giải_quyết thủ_tục hành_chính .
+
+4 . Trong quá_trình triển_khai thực_hiện , nếu có vướng_mắc , đề_nghị phản_ánh kịp_thời về Văn_phòng Chính_phủ để nghiên_cứu sửa_đổi , bổ_sung . / .

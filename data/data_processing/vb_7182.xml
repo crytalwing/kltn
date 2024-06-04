@@ -1,0 +1,167 @@
+Thông_tư số 11/2019/tt-blđtbxh ngày 17 tháng 07 năm 2019 của bộ lao_động - thương_binh và xã_hội
+
+Căn_cứ Luật Công_nghệ thông_tin ;
+
+Căn_cứ Nghị_định 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+
+Căn_cứ Nghị_định số 14/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Lao_động - Thương_binh và Xã_hội ;
+
+Căn_cứ Nghị_định số 136/2013/NĐ-CP ngày 21 tháng 10 năm 2013 của Chính_phủ quy_định chính_sách trợ_giúp xã_hội đối_với đối_tượng bảo_trợ xã_hội ;
+
+Căn_cứ Quyết_định số 59/2015/QĐ-TTg ngày 19 tháng 11 năm 2015 của Thủ_tướng Chính_phủ về việc ban_hành chuẩn nghèo tiếp_cận đa_chiều áp_dụng cho giai_đoạn 2016 - 2020 ;
+
+Theo đề_nghị của Cục_trưởng Cục Bảo_trợ xã_hội ,
+
+Bộ_trưởng Bộ Lao_động - Thương_binh và Xã_hội ban_hành Thông_tư quy_định về xây_dựng , quản_lý , cập_nhật , khai_thác và sử_dụng cơ_sở dữ_liệu trợ_giúp xã_hội và giảm nghèo .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh và đối_tượng áp_dụng
+
+1 . Thông_tư này quy_định về xây_dựng , quản_lý , cập_nhật , khai_thác và sử_dụng cơ_sở dữ_liệu trợ_giúp xã_hội và giảm nghèo .
+
+2 . Thông_tư này áp_dụng đối_với các đơn_vị thuộc ngành Lao_động - Thương_binh và Xã_hội và các tổ_chức , cá_nhân chịu trách_nhiệm xây_dựng , quản_lý , cập_nhật , khai_thác và sử_dụng cơ_sở dữ_liệu trợ_giúp xã_hội và giảm nghèo .
+
+Điều 2 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Cơ_sở dữ_liệu trợ_giúp xã_hội và giảm nghèo ( sau đây gọi tắt là cơ_sở dữ_liệu ) là kho dữ_liệu và hệ_thống quản_lí thông_tin về hộ , người hưởng chính_sách trợ_giúp xã_hội và thông_tin về hộ nghèo , hộ cận nghèo , người nghèo , người cận nghèo ( mis POSASoft ) dựa trên nền_tảng web , có địa_chỉ htp : / / misposasoft . mo li_sa . gov . vn , được lưu_trữ ở Bộ Lao_động - Thương_binh và Xã_hội và các máy_chủ_quản_trị cơ_sở dữ_liệu phụ đặt tại Sở Lao_động - Thương_binh và Xã_hội các tỉnh , thành_phố trực_thuộc Trung_ương .
+
+2 . Dữ_liệu : là các chữ , các con_số , hình_ảnh , âm_thanh , video có_thể xử_lí và lưu_trữ bằng phần_mềm máy_tính .
+
+3 . Thông_tin , số_liệu đầu_ra là những biểu , bảng thông_tin , số_liệu phục_vụ công_tác quản_lý , báo_cáo .
+
+4 . Dữ_liệu gốc là dữ_liệu năm 2015 về hộ gia_đình , người hưởng chính_sách trợ_giúp xã_hội ( Sau đây gọi tắt là đối_tượng ) quy_định tại Nghị_định số 136/2013/NĐ-CP ngày 21 tháng 10 năm 2013 của Chính_phủ về chính_sách trợ_giúp xã_hội đối_với đối_tượng bảo_trợ xã_hội ( Sau đây gọi tắt là Nghị_định số 136/2013/NĐ-CP) và hộ nghèo , hộ cận nghèo , người nghèo , người cận nghèo theo kết_quả Tổng_điều_tra hộ nghèo , hộ cận nghèo năm 2015 quy_định tại Quyết_định số 59/2015/QĐ-TTg ngày 19 tháng 11 năm 2015 của Thủ_tướng Chính_phủ về việc ban_hành chuẩn nghèo tiếp_cận đa_chiều áp_dụng cho giai_đoạn 2016-2020 ( Sau đây gọi tắt là Quyết_định số 59/2015/QĐ-TTg) và được lưu_trữ tại Trung_tâm tích_hợp dữ_liệu của Bộ Lao_động - Thương_binh và Xã_hội .
+
+5 . Tài_khoản đăng_nhập gồm tên truy_cập và mật_khẩu đăng_nhập vào cơ_sở dữ_liệu để tổ_chức và cá_nhân cập_nhật , khai_thác và sử_dụng .
+
+Chương_ii
+
+Xây_dựng , Quản_lý , Cập_nhật , Khai_thác Và Sử_dụng Cơ_sở Dữ_liệu
+
+Điều 3 . Xây_dựng và quản_lí cơ_sở dữ_liệu
+
+1 . Cơ_sở dữ_liệu được xây_dựng , quản_lí thống_nhất từ Bộ Lao_động - Thương_binh và Xã_hội , Sở Lao_động - Thương_binh và Xã_hội các tỉnh , thành_phố và các Phòng Lao_động - Thương_binh và Xã_hội các quận , huyện , thị_xã . Sở Lao_động - Thương_binh và Xã_hội các tỉnh , thành_phố có trách_nhiệm tổ_chức rà_soát , cập_nhật cơ_sở dữ_liệu hàng năm theo quy_định tại Thông_tư này . Việc cập_nhật , khai_thác cơ_sở dữ_liệu được phân_cấp và phân_quyền cho các cơ_quan , tổ_chức và cá_nhân theo tài_khoản đăng_nhập .
+
+2 . Cơ_quan , tổ_chức và cá_nhân trong phạm_vi chức_năng nhiệm_vụ được phân_cấp , phân_quyền quản_lý , cập_nhật , khai_thác và sử_dụng cơ_sở dữ_liệu có trách_nhiệm thực_hiện các nguyên_tắc và yêu_cầu quản_lí cơ_sở dữ_liệu theo quy_định của pháp_luật .
+
+3 . Danh_mục dùng chung của cơ_sở dữ_liệu được quản_trị và bảo_đảm tính cập_nhật , đồng_bộ với các danh_mục dùng chung của Bộ , ngành , quốc_gia để đáp_ứng việc tính hợp , chia_sẻ cơ_sở dữ_liệu giữa các cơ_quan Nhà_nước phục_vụ Chính_phủ điện_tử .
+
+4 . Việc xây_dựng , nâng_cấp , phát_triển cơ_sở dữ_liệu từ dữ_liệu gốc ; thu_thập , chuẩn_hoá , tích_hợp , cập_nhật dữ_liệu ; lưu_trữ , bảo_mật , bảo_đảm an_toàn thông_tin trong cơ_sở dữ_liệu ; đào_tạo , tập_huấn , bồi_dưỡng , tổ_chức cán_bộ quản_lý , vận_hành cơ_sở dữ_liệu được thực_hiện theo quy_định của pháp_luật trợ_giúp xã_hội , pháp_luật giảm nghèo , pháp_luật về an_toàn thông_tin mạng và pháp_luật liên_quan khác .
+
+Điều 4 . Cập_nhật , thay_đổi thông_tin đối_tượng trợ_giúp xã_hội
+
+1 . Đối_với những tỉnh , thành_phố trực_thuộc Trung_ương đã thực_hiện kết_nối cơ_sở dữ_liệu với dịch_vụ công trực_tuyến thì đối_tượng , người đại_diện hợp_pháp của đối_tượng hoặc đơn_vị cung_cấp dịch_vụ hành_chính công đăng_kí thông_tin hưởng chính_sách , cập_nhật thay_đổi thông_tin cá_nhân của đối_tượng chuyển cho đơn_vị quản_lí nhà_nước cùng cấp để tiến_hành các thủ_tục tiếp_theo bảo_đảm theo quy_định của pháp_luật về chính_sách trợ_giúp xã_hội .
+
+Đối_tượng , người đại_diện hợp_pháp của đối_tượng hoặc đơn_vị cung_cấp dịch_vụ hành_chính công không được tự_ý thay_đổi thông_tin về chế_độ , chính_sách mà đối_tượng được hưởng . Việc cập_nhật thay_đổi chế_độ , chính_sách của đối_tượng do cơ_quan quản_lí nhà_nước thực_hiện bảo_đảm đúng quy_định của pháp_luật về chính_sách trợ_giúp xã_hội .
+
+2 . Đối_với những tỉnh , thành_phố trực_thuộc Trung_ương chưa có kết_nối cơ_sở dữ_liệu với dịch_vụ công trực_tuyến , thì trong quá_trình tổ_chức thực_hiện chính_sách trợ_giúp xã_hội , Ủy_ban nhân_dân cấp xã căn_cứ quy_định về thủ_tục hồ_sơ quy_định tại Nghị_định số 136/2013/NĐ-CP cập_nhật thông_tin của đối_tượng và cập_nhật thay_đổi thông_tin khi đối_tượng có thay_đổi điều_kiện hưởng chính_sách vào cơ_sở dữ_liệu thông_qua công_cụ được kết xuất từ hệ_thống .
+
+3 . Trong quá_trình thẩm_định , xét_duyệt hồ_sơ , quyết_định chính_sách trợ_giúp xã_hội , Phòng Lao_động - Thương_binh và Xã_hội cập_nhật thay_đổi thông_tin của đối_tượng theo phân_quyền vào cơ_sở dữ_liệu và theo_dõi cập nhập , thay_đổi thông_tin , bảo_đảm theo_dõi biến_động đối_tượng trên địa_bàn quản_lý .
+
+Điều 5 . Cập_nhật , thay_đổi thông_tin hộ nghèo , hộ cận nghèo
+
+1 . Đối_với những tỉnh , thành_phố trực_thuộc Trung_ương đã thực_hiện kết_nối cơ_sở dữ_liệu với dịch_vụ công trực_tuyến thì đại_diện hộ nghèo , hộ cận nghèo , người đại_diện hợp_pháp của hộ nghèo , hộ cận nghèo hoặc đơn_vị cung_cấp dịch_vụ hành_chính công cập_nhật và khai_báo thông_tin cá_nhân của hộ nghèo , hộ cận nghèo chuyển cho đơn_vị quản_lí nhà_nước cùng cấp để tiến_hành các thủ_tục tiếp_theo bảo_đảm đúng quy_định của pháp_luật về chính_sách giảm nghèo .
+
+Đại_diện hộ nghèo , hộ cận nghèo , người đại_diện hợp_pháp của hộ nghèo , hộ cận nghèo hoặc đơn_vị cung_cấp dịch_vụ hành_chính công không được thay_đổi thông_tin về chế_độ , chính_sách hộ nghèo , hộ cận nghèo được hưởng . Việc cập_nhật thay_đổi chế_độ , chính_sách của hộ nghèo , hộ cận nghèo do cơ_quan quản_lí nhà_nước thực_hiện đảm_bảo đúng quy_định của pháp_luật về chính_sách giảm nghèo .
+
+2 . Đối_với những tỉnh , thành_phố trực_thuộc Trung_ương chưa thực_hiện kết_nối cơ_sở dữ_liệu với dịch_vụ công trực_tuyến thì trên cơ_sở kết_quả rà_soát hộ nghèo , hộ cận nghèo thường_xuyên , định_kì hàng năm theo quy_trình hướng_dẫn tại Thông_tư số 17/2016/TT-BLĐTBXH ngày 28 tháng 6 năm 2016 của Bộ Lao_động - Thương_binh và Xã_hội hướng_dẫn quy_trình rà_soát hộ nghèo , hộ cận nghèo hàng năm theo chuẩn nghèo tiếp_cận đa_chiều áp_dụng cho giai_đoạn 2016-2020 và Thông_tư số 14/2018/TT-BLĐTBXH ngày 26 tháng 9 năm 2018 của Bộ Lao_động - Thương_binh và Xã_hội sửa_đổi bổ_sung một_số điều của Thông_tư số 17/2016/TT-BLĐTBXH ngày 28 tháng 6 năm 2016 của Bộ Lao_động - Thương_binh và Xã_hội hướng_dẫn quy_trình rà_soát hộ nghèo , hộ cận nghèo hàng năm , cán_bộ phụ_trách công_tác giảm nghèo cấp xã hoặc người được phân_công của cấp có thẩm_quyền tại cấp cơ_sở tổ_chức thực_hiện việc quản_lý , cập_nhật , thay_đổi thông_tin hộ nghèo , hộ cận nghèo vào cơ_sở dữ_liệu .
+
+Điều 6 . Cập_nhật , khai_thác và sử_dụng thông_tin từ cơ_sở dữ_liệu
+
+1 . Việc khai_thác , chia_sẻ thông_tin , dữ_liệu theo phân_cấp , phân_quyền của hệ_thống . Các tổ_chức và cá_nhân không có tài_khoản đăng_nhập nếu có nhu_cầu thông_tin thì đề_nghị cơ_quan quản_lí cung_cấp thông_tin theo quy_định của pháp_luật . Cơ_quan được giao quản_lí cơ_sở dữ_liệu tiếp_nhận đề_nghị và xem_xét cung_cấp thông_tin , dữ_liệu cho các tổ_chức , cá_nhân khi có yêu_cầu .
+
+2 . Sở Lao_động - Thương_binh và Xã_hội , Phòng Lao_động - Thương_binh và Xã_hội và các cơ_quan , tổ_chức liên_quan được quyền sử_dụng thông_tin , số_liệu đầu_ra của hệ_thống theo quy_định .
+
+3 . Đơn_vị quản_lí cơ_sở dữ_liệu chịu trách_nhiệm cấp , quản_lí tài_khoản và mật_khẩu cho các tổ_chức , cá_nhân cập_nhật , khai_thác thông_tin , dữ_liệu trong phạm_vi_phân_cấp , phân_quyền ; tiếp_nhận và xử_lí những góp_ý , khiếu_nại của các tổ_chức , cá_nhân đối_với thông_tin , dữ_liệu về đối_tượng thụ_hưởng trong phạm_vi quản_lý .
+
+4 . Các đơn_vị liên_quan thuộc Bộ Lao_động - Thương_binh và Xã_hội được quyền sử_dụng thông_tin , dữ_liệu về đối_tượng thụ_hưởng ; tiếp_nhận và xử_lí những góp_ý , khiếu_nại của các tổ_chức , cá_nhân đối_với thông_tin , dữ_liệu và hạn_chế kĩ_thuật trong việc khai_thác , sử_dụng thông_tin , dữ_liệu theo quy_định .
+
+5 . Các cá_nhân được phép sử_dụng thông_tin , dữ_liệu theo quy_định của pháp_luật về tiếp_cận thông_tin ; các đơn_vị , cá_nhân có liên_quan thực_hiện điều_chỉnh thông_tin trong phạm_vi thẩm_quyền phân_cấp quản_lí theo quy_định của pháp_luật về trợ_giúp xã_hội và giảm nghèo ; khi phát_hiện lỗi trong việc cập_nhật thông_tin , dữ_liệu hoặc các sai_sót của thông_tin phải thông_báo ngay cho cơ_quan quản_lí cùng cấp .
+
+Điều 7 . An_toàn thông_tin
+
+1 . Hệ_thống cơ_sở dữ_liệu trợ_giúp xã_hội và giảm nghèo được bảo_đảm an_toàn hệ_thống thông_tin theo quy_định tại Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính_phủ về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ . Các cơ_quan , tổ_chức , cá_nhân chịu trách_nhiệm quản_lý , cập_nhật , khai_thác và sử_dụng được cấp tài_khoản đăng_nhập , mật_khẩu , quyền_hạn truy_cập hệ_thống ; bảo_đảm an_ninh , an_toàn và có trách_nhiệm bảo_mật mật_khẩu truy_cập , bảo_quản các trang thiết_bị và sử_dụng đúng quyền_hạn được xác_lập trên hệ_thống . Tên truy_cập , mật_khẩu là căn_cứ để xác_định trách_nhiệm của từng người sử_dụng trong việc thực_hiện các chức_năng của hệ_thống .
+
+2 . Cán_bộ quản_trị thực_hiện phân_quyền truy_cập của tổ_chức và cá_nhân vào cơ_sở dữ_liệu .
+
+3 . Máy_chủ do Trung_tâm Thông_tin , Bộ Lao_động - Thương_binh và Xã_hội quản_lí và chịu trách_nhiệm vận_hành .
+
+4 . Máy_chủ tại Sở Lao_động - Thương_binh và Xã_hội do Sở Lao_động - Thương_binh và Xã_hội quản_lí và chịu trách_nhiệm vận_hành .
+
+5 . Các máy_chủ , máy trạm phải cài_đặt phần_mềm phòng_chống virus , các phần_mềm về hệ điều_hành , phần_mềm về cơ_sở dữ_liệu phải có bản_quyền , thường_xuyên cập_nhật để bảo_đảm an_toàn , an_ninh hệ_thống .
+
+6 . Dữ_liệu được cập_nhật thường_xuyên , cuối mỗi tháng cơ_sở dữ_liệu trợ_giúp xã_hội và giảm nghèo tại Trung_ương phải được lưu_trữ thành một bản dữ_liệu dự_phòng . Bản dự_phòng này có_thể khôi_phục được trong trường_hợp có sự_cố hỏng_hóc_thiết_bị . Cuối mỗi năm cơ_sở dữ_liệu phải được sao lưu thành một bản để làm_dữ_liệu hàng năm .
+
+7 . Dữ_liệu dự_phòng phải bảo_đảm được lưu trên thiết_bị lưu_trữ thống_nhất , bảo_mật và an_toàn .
+
+8 . Đơn_vị quản_lí cơ_sở dữ_liệu có trách_nhiệm tổ_chức triển_khai , hướng_dẫn các đơn_vị liên_quan trong việc phân_quyền , sao lưu dữ_liệu dự_phòng và lưu_trữ cơ_sở dữ_liệu bảo_đảm thống_nhất , bảo_mật và an_toàn .
+
+9 . Nghiêm_cấm mọi hành_vi làm sai_lệch thông_tin cơ_sở dữ_liệu , tự_ý sửa_chữa phần_mềm cơ_sở dữ_liệu hoặc khai_thác , sử_dụng thông_tin vào các mục_đích cá_nhân , không theo quy_định .
+
+Điều 8 . Cài_đặt , sao lưu và phục_hồi dữ_liệu
+
+1 . Cơ_sở dữ_liệu được cài_đặt , lưu_trữ và quản_lí tại Trung_tâm Thông_tin , Bộ Lao_động - Thương_binh và Xã_hội và Máy_chủ đặt tại Sở Lao_động - Thương_binh và Xã_hội các tỉnh , thành_phố trực_thuộc Trung_ương .
+
+2 . Cơ_sở dữ_liệu được lưu_trữ bằng các thiết_bị lưu_trữ chuyên_dụng , được đơn_vị , cá_nhân chịu trách_nhiệm quản_trị hệ_thống , quản_lí cơ_sở dữ_liệu tại Bộ Lao_động - Thương_binh và Xã_hội , Sở Lao_động - Thương_binh và Xã_hội và Phòng Lao_động - Thương_binh và Xã_hội cấp huyện được sao lưu định_kì và thực_hiện sao lưu đột_xuất khi có yêu_cầu . Dữ_liệu sao lưu phải được lưu_trữ an_toàn , định_kì kiểm_tra để sẵn_sàng khôi_phục khi xảy ra sự_cố . Khi xảy ra sự_cố mất dữ_liệu thì dữ_liệu phải được phục_hồi từ bản_sao lưu gần nhất .
+
+Điều 9 . Bảo_trì , bảo_dưỡng và nâng_cấp cơ_sở dữ_liệu
+
+1 . Cơ_sở dữ_liệu được theo_dõi , giám_sát nhằm bảo_đảm hoạt_động liên_tục 24 giờ / ngày , các ngày trong năm và thường_xuyên được bảo_trì , bảo_dưỡng .
+
+2 . Phần_mềm cơ_sở dữ_liệu được nâng_cấp kịp_thời , phù_hợp với sự phát_triển của công_nghệ thông_tin , đáp_ứng yêu_cầu quản_lý , điều_hành của Bộ , ngành Lao_động - Thương_binh và Xã_hội và nhu_cầu quản_lý , cập_nhật , khai_thác và sử_dụng thông_tin , dữ_liệu của các tổ_chức và cá_nhân liên_quan .
+
+Điều 10 . Quản_lí tài_khoản đối_với cơ_sở dữ_liệu
+
+1 . Tài_khoản đăng_nhập để người sử_dụng cập_nhật , khai_thác cơ_sở dữ_liệu được đặt tên theo quy_ước : Đối_với cấp tỉnh < mã tỉnh > . < tên đơn_vị > , đối_với cấp huyện < mã huyện > . < tên đơn_vị > . Mã tỉnh và mã huyện được lấy theo danh_mục mã các đơn_vị hành_chính Việt_nam ban_hành theo Quyết_định số 124/2004/QĐ-TTg ngày 08 tháng 7 năm 2004 của Thủ_tướng Chính_phủ và các văn_bản bổ_sung , điều_chỉnh có liên_quan . Các tên tài_khoản được viết liền , không dấu .
+
+2 . Mật_khẩu tài_khoản đăng_nhập là một tổ_hợp có ít_nhất 8 kí_tự , bao_gồm cả chữ và số . Mật_khẩu mới được đổi lại phải khác với mật_khẩu cũ .
+
+3 . Quy_trình cấp mới , cấp đổi tài_khoản được thực_hiện theo trình_tự sau :
+
+a ) Đơn_vị đề_nghị cấp tài_khoản gửi văn_bản tới cơ_quan , đơn_vị quản_lí cơ_sở dữ_liệu theo phân_cấp , phân_quyền quản_lí cơ_sở dữ_liệu ;
+
+b ) Đơn_vị quản_lí cơ_sở dữ_liệu tạo tài_khoản , hướng_dẫn người sử_dụng tài_khoản được cấp đồng_thời gửi văn_bản cấp tài_khoản đến đơn_vị đề_nghị cấp ;
+
+c ) Người được cấp tài_khoản cần thay_đổi mật_khẩu sau lần đầu_tiên đăng_nhập hệ_thống .
+
+4 . Việc thu_hồi tài_khoản được thực_hiện trong các trường_hợp sau :
+
+a ) Người sử_dụng thôi phụ_trách công_việc liên_quan tới tài_khoản và được đơn_vị chủ_quản thông_báo bằng văn_bản tới đơn_vị quản_lí cơ_sở dữ_liệu ;
+
+b ) Đơn_vị chủ_quản có văn_bản hoặc đơn_vị quản_trị hệ_thống phát_hiện tài_khoản đăng_nhập có hành_vi vi_phạm_quy_định về vận_hành hệ_thống . Đơn_vị quản_lí cơ_sở dữ_liệu sau khi thu_hồi tài_khoản sẽ gửi văn_bản thông_báo kết_quả về đơn_vị chủ_quản của người sử_dụng hệ_thống .
+
+Chương_iii
+
+Tổ_chức Thực_hiện
+
+Điều 11 . Trách_nhiệm của các đơn_vị liên_quan thuộc Bộ Lao_động - Thương_binh và Xã_hội
+
+1 . Cục Bảo_trợ xã_hội :
+
+a ) Là đơn_vị xây_dựng , quản_lý , khai_thác , sử_dụng cơ_sở dữ_liệu ;
+
+b ) Hướng_dẫn , tuyên_truyền , đào_tạo , tập_huấn nâng cao năng_lực , kiểm_tra , giám_sát các cơ_quan , địa_phương , cơ_sở trợ_giúp xã_hội trong việc cập_nhật , khai_thác , sử_dụng hệ_thống cơ_sở dữ_liệu trợ_giúp xã_hội và giảm nghèo ;
+
+c ) Giúp Bộ_trưởng Bộ Lao_động - Thương_binh và Xã_hội chỉ_đạo , phối_hợp với các đơn_vị liên_quan để thực_hiện hoàn_thiện , cập_nhật , sửa_chữa , nâng_cấp kịp_thời hệ_thống phần_mềm theo sự thay_đổi của các văn_bản , chính_sách hoặc do lỗi vận_hành , chưa phù_hợp theo yêu_cầu quản_lý , cập_nhật , khai_thác và sử_dụng dữ_liệu .
+
+2 . Văn_phòng Quốc_gia về giảm nghèo : hướng_dẫn , đôn_đốc các địa_phương tổ_chức rà_soát và thu_thập , cập_nhật thông_tin , dữ_liệu về hộ nghèo , hộ cận nghèo trên địa_bàn vào cơ_sở dữ_liệu .
+
+3 . Trung_tâm Thông_tin : quản_trị hệ_thống , bảo_đảm hạ_tầng công_nghệ , tổ_chức triển_khai các giải_pháp an_ninh , an_toàn và bảo_mật thông_tin cho hệ_thống , cơ_sở dữ_liệu . Rà_soát , đề_xuất kế_hoạch và phương_án bảo_đảm duy_trì hoạt_động liên_tục của hệ_thống và nâng_cấp trước khi hệ_thống bị quá_tải .
+
+Điều 12 . Trách_nhiệm của cơ_quan lao_động địa_phương
+
+Sở Lao_động - Thương_binh và Xã_hội các tỉnh , thành_phố trực_thuộc Trung_ương chỉ_đạo Phòng Lao_động - Thương_binh và Xã_hội hướng_dẫn , đôn_đốc , kiểm_tra , giám_sát cán_bộ làm công_tác lao_động xã_hội tại cấp huyện , cấp xã trong việc thu_thập , cập_nhật đối_tượng thụ_hưởng vào cơ_sở dữ_liệu theo quy_định ; thực_hiện kết_nối cơ_sở dữ_liệu với hệ_thống dịch_vụ công trực_tuyến để giải_quyết chính_sách cho đối_tượng theo quy_định của pháp_luật về trợ_giúp xã_hội và giảm nghèo .
+
+Điều 13 . Kinh_phí thực_hiện
+
+Kinh_phí thực_hiện quản_lý , tuyên_truyền nâng cao nhận_thức , đào_tạo , tập_huấn cán_bộ ; duy_trì , cập_nhật , khai_thác và sử_dụng cơ_sở dữ_liệu trợ_giúp xã_hội và giảm nghèo từ nguồn ngân_sách nhà_nước theo phân_cấp hiện_hành ; nguồn huy_động , tài_trợ , đóng_góp của các tổ_chức , cá_nhân trong và ngoài nước và nguồn kinh_phí hợp_pháp khác theo quy_định của pháp_luật .
+
+Điều 14 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực kể từ ngày 03 tháng 9 năm 2019 .
+
+2 . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị phản_ánh kịp_thời về Bộ Lao_động - Thương_binh và Xã_hội để xem_xét , giải_quyết . / .

@@ -1,0 +1,775 @@
+Thông_tư số 68/2015/tt-btnmt ngày 22 tháng 12 năm 2015 của bộ tài_nguyên và môi_trường
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 21/2013/NĐ-CP ngày 04 tháng 3 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 45/2015/NĐ-CP ngày 06 tháng 5 năm 2015 </NĐ> của Chính_phủ về hoạt_động đo_đạc và bản_đồ ;
+
+Theo đề_nghị của Cục_trưởng Cục Đo_đạc và Bản_đồ Việt_nam , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư Quy_định kĩ_thuật đo_đạc trực_tiếp địa_hình phục_vụ thành_lập bản_đồ địa_hình và cơ_sở dữ_liệu nền địa_lí tỉ_lệ 1 : 500 , 1 : 1000 , 1 : 2000 , 1 : 5000 .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định các yêu_cầu kĩ_thuật trong công_tác đo_đạc trực_tiếp địa_hình phục_vụ_việc lập bản_đồ địa_hình và cơ_sở dữ_liệu nền địa_lí tỉ_lệ 1 : 500 , 1 : 1000 , 1 : 2000 , 1 : 5000 .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với các cơ_quan quản_lí nhà_nước về đo_đạc bản_đồ , tổ_chức , cá_nhân tham_gia thực_hiện đề_án , dự_án , nhiệm_vụ sản_xuất về lĩnh_vực đo vẽ bản_đồ , xây_dựng cơ_sở dữ_liệu nền địa_lí sử_dụng phương_pháp đo_đạc trực_tiếp hoặc sử_dụng các phương_pháp đo_đạc khác nhưng có kết_hợp với phương_pháp đo_đạc trực_tiếp địa_hình .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ sau đây được hiểu như sau :
+
+1 . Lưới toạ_độ quốc_gia là lưới khống_chế toạ_độ thống_nhất trong toàn_quốc_phục_vụ đo vẽ bản_đồ địa_hình , bản_đồ địa_chính , thành_lập cơ_sở dữ_liệu nền địa_lí và các loại bản_đồ chuyên_đề khác và nghiên_cứu khoa_học . Lưới toạ_độ quốc_gia bao_gồm : Lưới toạ_độ cấp 0 , lưới toạ_độ hạng I , Ii và Iii .
+
+2 . Lưới độ cao quốc_gia là lưới khống_chế về độ cao thống_nhất trong toàn_quốc , được đo theo phương_pháp đo cao hình_học , là cơ_sở để xác_định độ cao phục_vụ đo vẽ bản_đồ địa_hình , nghiên_cứu khoa_học . Lưới độ cao quốc_gia bao_gồm lưới độ cao hạng I , Ii , Iii và Iv .
+
+3 . Lưới khống_chế cơ_sở là lưới khống_chế toạ_độ , độ cao , được phát_triển từ lưới toạ_độ , độ cao quốc_gia phục_vụ lập lưới khống_chế đo vẽ và đo_đạc chi_tiết một khu_vực cụ_thể .
+
+4 . Lưới khống_chế đo vẽ là lưới khống_chế toạ_độ , độ cao được phát_triển từ lưới khống_chế cơ_sở hoặc lưới cấp cao hơn phục_vụ cho việc đo_đạc chi_tiết khu đo .
+
+5 . Công_nghệ Gns là công_nghệ định_vị , dẫn đường bằng hệ_thống vệ_tinh toàn_cầu ( Global Navigation Satelite_system - Gns ) .
+
+6 . Công_nghệ đo Gns_tĩnh ( Static ) là phương_pháp_định_vị tương_đối , sử_dụng 2 hoặc nhiều máy thu tín_hiệu vệ_tinh Gns đặt cố_định trên 2 hoặc nhiều điểm cần đo để thu trị đo Code ( Coarse / Acquisition_code ) và trị đo Phase ( Carrier phase ) từ các vệ_tinh trong khoảng thời_gian đủ dài phục_vụ cho việc lập lưới khống_chế trắc_địa .
+
+7 . Kỹ_thuật đo Gns_động ( Kinematic_gns ) là phương_pháp đo có bản_chất như đo Gns_tĩnh với 1 máy đặt cố_định ( Base station ) và một hoặc nhiều máy di_động ( Rover stations ) . Sau khi thực_hiện kĩ_thuật khởi đo tại trạm cố_định , máy di_động tiếp_cận đến các điểm cần đo , thực_hiện việc thu túi hiệu vệ_tinh trong thời_gian rất ngắn ( một_vài trị đo ) nhưng vẫn đạt được độ chính_xác về toạ_độ , độ cao cỡ cm .
+
+8 . Kỹ_thuật đo Gns động thời_gian thực ( Real Time Kinematic_gns ) là phương_pháp trong đó số_liệu được xử_lý , tính được toạ_độ trong hệ toạ_độ địa_phương ngay tại thực_địa .
+
+9 . Kỹ_thuật đo Gns động xử_lí sau ( Post Processing Kinematic_gns ) là phương_pháp trong đó toạ_độ , độ cao trong hệ toạ_độ địa_phương của điểm đo được tính_toán sau khi xử_lí_số_liệu đo trong phòng .
+
+10 . Máy toàn đạc điện_tử là thiết_bị đo tích_hợp chức_năng đo góc và đo chiều dài chính_xác , số_liệu đo được đọc tự_động , hiển_thị trên màn_hình và có_thể ghi lại được dưới dạng tệp số_liệu trong cùng một thiết_bị .
+
+11 . Máy thuỷ chuẩn điện_tử là thiết_bị đo truyền độ cao theo phương_pháp thuỷ chuẩn hình_học nhưng sử_dụng cặp mia mã_vạch , cho phép đọc số trên mia một_cách tự_động , được ghi lại dưới dạng tệp số_liệu .
+
+12 . Mô_hình Geoid là tập_hợp_số_liệu biểu_thị vị_trí không_gian của mặt đẳng_thế gốc ( w0 ) so với mặt Ellipsoid tham_chiếu trong hệ quy chiếu Trái_đất . Mô_hình Geoid được sử_dụng để xác_định độ cao thuỷ chuẩn của các điểm khi đo bằng công_nghệ Gns .
+
+Điều 4 . Các quy_định chung về phương_pháp đo_đạc trực_tiếp
+
+1 . Phương_pháp đo_đạc trực_tiếp địa_hình được áp_dụng đối_với các khu_vực có diện_tích nhỏ , được yêu_cầu đo vẽ với độ chính_xác cao . Kết_quả đo_đạc ghi_nhận dưới dạng số hoặc trên giấy phù_hợp với việc lập bản_đồ địa_hình_dạng số và xây_dựng cơ_sở dữ_liệu nền địa_lý .
+
+2 . Phương_pháp đo_đạc trực_tiếp địa_hình sử_dụng thiết_bị đo_đạc chuyên_dụng tiếp_cận trực_tiếp_điểm đo để thu_nhận các thông_số cần_thiết để xác_định toạ_độ , độ cao_điểm cần đo từ toạ_độ , độ cao các điểm lưới khống_chế .
+
+3 . Trước khi đo vẽ phải khảo_sát thực_địa , thu_thập tư_liệu và lập dự_án , thiết_kế kĩ_thuật dự_toán , đề_cương kĩ_thuật , luận_chứng kinh_tế kĩ_thuật ( sau đây gọi chung là thiết_kế kĩ_thuật ) . Thiết_kế kĩ_thuật được lập cho toàn_bộ công_tác trắc_địa trên khu đo hoặc cho từng công_đoạn , nhưng phải bao_gồm từng hạng_mục công_việc và phải được cấp có thẩm_quyền phê_duyệt trước khi thi_công .
+
+4 . Máy_đo và thiết_bị sử_dụng phải được kiểm_định , kiểm_nghiệm , hiệu_chỉnh theo các quy_định tại Chương_vi của Thông_tư này .
+
+5 . Công_tác kiểm_tra chất_lượng phải tiến_hành thường_xuyên , chặt_chẽ và kịp_thời từ khi thi_công đến khi kết_thúc công_trình .
+
+Chương_ii
+
+Cơ_sở Toán_học Và Độ Chính_xác
+
+Điều 5 . Hệ_thống toạ_độ , độ cao
+
+1 . Toạ_độ các điểm lưới khống_chế , điểm đo chi_tiết trong đo_đạc trực_tiếp địa_hình được đo , tính_toán từ các điểm gốc toạ_độ quốc_gia Cấp 0 , hạng I , Ii , Iii trong hệ toạ_độ Vn2000 , múi chiếu 3 , có kinh_tuyến trục được quy_định cụ_thể trong thiết_kế kĩ_thuật .
+
+2 . Độ cao các điểm lưới khống_chế , điểm đo chi_tiết trong đo_đạc trực_tiếp địa_hình được đo , tính_toán từ các điểm gốc độ cao quốc_gia hạng I , Ii , Iii và Iv .
+
+Điều 6 . Mức_độ thể_hiện địa_hình
+
+1 . Khoảng cao đều cơ_bản quy_định đối_với điều_kiện độ dốc địa_hình , tỉ_lệ bản_đồ đo vẽ theo Bảng 1 :
+
+Bảng 1
+
+2 . Tuỳ theo yêu_cầu đặc_biệt của công_trình có_thể áp_dụng quy_định về khoảng cao đều đặc_biệt , phù_hợp cho mục_đích công_trình .
+
+3 . Trên một khu đo chỉ thể_hiện địa_hình bằng một khoảng cao đều cơ_bản . Trường_hợp đặc_biệt được phép sử_dụng hai khoảng cao đều cơ_bản , nhưng phải quy_định cụ_thể trong thiết_kế kĩ_thuật .
+
+4 . Khi các đường đồng mức cơ_bản chưa mô_tả hết được đặc_trưng của địa_hình phù_hợp với mục_đích sử_dụng hoặc khi khoảng_cách giữa hai đường đồng mức cơ_bản lớn hơn 2 , 5 cm trong tỉ_lệ bản_đồ thì được dùng đường đồng_mức 1/2 và 1/4 khoảng cao đều cơ_bản , kết_hợp với tăng mật_độ điểm ghi_chú độ cao ở các điểm đặc_trưng để thể_hiện rõ địa_hình .
+
+5 . Số điểm ghi_chú độ cao ( bao_gồm cả điểm đặc_trưng và điểm độ cao rải đều ) trong 1dm2 trên bản_đồ địa_hình không ít hơn 10 điểm . Ở vùng bằng_phẳng không vẽ được đường đồng mức phải bảo_đảm mật_độ điểm độ cao không ít hơn 25 điểm trong 1dm2 trên bản_đồ .
+
+Điều 7 . Lưới khống_chế
+
+1 . Lưới khống_chế toạ_độ , độ cao phục_vụ đo_đạc trực_tiếp địa_hình được phát_triển từ các điểm gốc toạ_độ , độ cao quốc_gia , được chia thành 2 cấp :
+
+a ) Lưới khống_chế cơ_sở ;
+
+b ) Lưới khống_chế đo vẽ .
+
+2 . Lưới khống_chế cơ_sở bao_gồm lưới khống_chế về toạ_độ và lưới khống_chế về độ cao , được phân_chia như sau :
+
+a ) Về toạ_độ , được chia làm 02 cấp :
+
+- Lưới cơ_sở cấp 1 ;
+
+- Lưới cơ_sở cấp 2 .
+
+b ) Về độ cao , có 01 cấp gọi là Lưới độ cao kĩ_thuật .
+
+3 . Lưới khống_chế đo vẽ : Được chia làm 02 cấp lưới chung về toạ_độ và độ cao :
+
+a ) Lưới đo vẽ cấp 1 ;
+
+b ) Lưới đo vẽ cấp 2 .
+
+4 . Lưới khống_chế phục_vụ đo_đạc trực_tiếp địa_hình được xây_dựng theo nguyên_tắc từ cấp cao đến cấp thấp , từ tổng_thể đến cục_bộ . Nếu sử_dụng công_nghệ Gns , được phép bỏ_qua các cấp trung_gian khi xây_dựng lưới toạ_độ cấp thấp hơn .
+
+5 . Trường_hợp có yêu_cầu kĩ_thuật đặc_biệt được phép xây_dựng mạng_lưới khống_chế trắc_địa theo phương_án riêng hoặc lưới toạ_độ tự_do thoả_mãn độ chính_xác , đảm_bảo mật_độ điểm , phù_hợp với quy_trình áp_dụng để đo vẽ bản_đồ riêng và phải được nêu rõ trong thiết_kế kĩ_thuật .
+
+6 . Mật_độ các điểm khống_chế trắc_địa phụ_thuộc vào tỉ_lệ đo vẽ , khoảng cao đều cơ_bản và các yêu_cầu của công_tác trắc_địa khác ở tất_cả các giai_đoạn khảo_sát , xây_dựng và hoạt_động của các công_trình .
+
+7 . Mật_độ trung_bình điểm trắc_địa quốc_gia phải đảm_bảo ít_nhất : trên diện_tích từ 20 đến 30km2 có một điểm toạ_độ và từ 10 đến 20km2 có một điểm độ cao để đo vẽ bản_đồ tỉ_lệ 1 : 5000 . Để đo vẽ bản_đồ tỉ_lệ 1 : 2000 , 1 : 1000 và 1 : 500 trên diện_tích từ 5 đến 15km2 có 1 điểm toạ_độ , từ 5 đến 10km2 có 1 điểm độ cao . Trường_hợp tính cả các điểm của lưới khống_chế cơ_sở thì mật_độ điểm phải bảo_đảm ít_nhất :
+
+a ) Vùng thành_phố và khu công_nghiệp : 4 điểm trên 1km2 ;
+
+b ) Khu_vực chưa xây_dựng : 1 điểm trên 1km2 ;
+
+c ) Các khu_vực không có công_tác trắc_địa tiếp_theo thì tuỳ_thuộc vào phương_pháp đo vẽ bản_đồ để Quyết_định mật_độ điểm khống_chế trắc_địa .
+
+8 . Sai_số trung phương xác_định vị_trí điểm khống_chế mặt_phẳng cấp cuối_cùng của lưới khống_chế là 0 , 1 mm trong tỉ_lệ bản_đồ cần thành_lập , khu_vực khó_khăn có độ dốc địa_hình > 15 là 0 , 2mm trong tỉ_lệ bản_đồ .
+
+9 . Sai_số trung phương xác_định điểm khống_chế_độ cao_cấp cuối_cùng không vượt quá 1/10 khoảng cao đều cơ_bản ở vùng đồng_bằng và 1/6 khoảng cao đều cơ_bản ở vùng có độ dốc địa_hình > 15 .
+
+10 . Sai_số trung phương xác_định vị_trí điểm khống_chế mặt_phẳng của lưới khống_chế sau bình_sai so với sai_số xác_định vị_trí điểm khống_chế trắc_địa cấp cao gần nhất không được vượt quá lần , ở vùng khó_khăn có độ dốc địa_hình > 15 không quá 2 lần .
+
+Điều 8 . Quy_định về độ chính_xác các yếu_tố địa_vật , địa_hình
+
+1 . Sai_số trung phương xác_định vị_trí mặt_phẳng điểm địa_vật cố_định , rõ nét so với điểm khống_chế đo vẽ gần nhất không quá 0 , 3mm trong tỉ_lệ bản_đồ , đối_với điểm địa_vật không rõ_ràng không quá 0 , 5mm trong tỉ_lệ bản_đồ . Trong thành_phố và khu công_nghiệp , sai_số tương_hỗ giữa các địa_vật cố_định , quan_trọng không được lớn hơn 0 , 3mm trong tỉ_lệ bản_đồ .
+
+2 . Sai_số trung phương đo vẽ địa_hình so với điểm khống_chế_độ cao_cấp cuối_cùng tính theo khoảng cao đều cơ_bản , không vượt quá quy_định ở Bảng 2 . Sai_số về độ cao của các điểm đặc_trưng địa_hình không vượt quá 1/3 khoảng cao đều cơ_bản .
+
+Bảng 2
+
+Ghi_chú : Khi đo vẽ khoảng cao đều cơ_bản 0 , 25m sai_số trên không quá 1/3 khoảng cao đều cơ_bản .
+
+3 . Căn_cứ vào trị_giá chênh_lệch về vị_trí mặt_phẳng và độ cao của địa_vật trên bản_đồ so với kết_quả kiểm_tra để đánh_giá độ chính_xác của bản_đồ . Giá_trị chênh_lệch cho phép không quá hai lần sai_số trung phương đã nêu ở trên . Số_lượng điểm có giá_trị sai_số lớn ( 70 % đến 100 % giá_trị cho phép ) không vượt quá 5 % tổng_số điểm kiểm_tra . Trong mọi trường_hợp , sai_số không được mang tính hệ_thống .
+
+Chương_iii
+
+Thành_lập Lưới Khống_chế
+
+Điều 9 . Công_nghệ đo lưới khống_chế
+
+Lưới cơ_sở cấp 1 được đo bằng công_nghệ Gns_tĩnh ; lưới cơ_sở cấp 2 , lưới đo vẽ cấp 1 có_thể áp_dụng phương_pháp đường chuyền đo góc_cạnh hoặc công_nghệ Gns_tĩnh ; lưới đo vẽ cấp 2 có_thể áp_dụng phương_pháp đường chuyền đo góc_cạnh , các phương_pháp giao_hội , công_nghệ Gns_tĩnh hoặc các kĩ_thuật đo Gns động .
+
+Điều 10 . Lưới cơ_sở cấp 1
+
+1 . Lưới cơ_sở cấp 1 được phát_triển từ các điểm gốc thuộc lưới toạ_độ quốc_gia .
+
+2 . Khoảng_cách giữa các điểm lưới cơ_sở cấp 1 từ 1 đến 5 km tuỳ_thuộc vào và hình_dạng khu đo và điều_kiện địa_hình .
+
+3 . Lưới cơ_sở cấp 1 được thiết_kế dạng lưới tam_giác dày_đặc , chuỗi tam_giác , chuỗi tứ_giác phủ kín khu đo . Lưới cơ_sở cấp 1 được nối với ít_nhất 03 điểm gốc là điểm toạ_độ quốc_gia tại các vị_trí khống_chế và phân_bố đều toàn lưới . Lưới cơ_sở cấp 1 được thiết_kế trên bản_đồ địa_hình đã có trên khu đo , có tỉ_lệ nhỏ hơn , gần nhất với hơn tỉ_lệ đo vẽ .
+
+4 . Vị_trí điểm lưới cơ_sở cấp 1 phải được chọn ở vị_trí có nền đất vững_chắc , ổn_định , thuận_lợi cho việc thu tín_hiệu từ vệ_tinh , có góc quan_sát bầu_trời không bị che_chắn không nhỏ hơn 150 . Trường_hợp đặc_biệt thì cũng phải có góc quan_sát bầu_trời không nhỏ hơn 120 và chỉ được phép che_khuất về một phía . Vị_trí điểm chọn phải cách xa trạm phát_sóng ít_nhất 500m , cách các vật có khả_năng làm nhiễu tín_hiệu vệ_tinh như đường_dây_điện cao_thế , mái nhà kim_loại . . . 50m trở lên .
+
+5 . Nếu khu đo được thiết_kế tăng dầy lưới khống_chế cấp thấp hơn dạng đường chuyền đo góc , cạnh thì phải chọn vị_trí điểm lưới cơ_sở cấp 1 sao cho tạo thành từng cặp điểm thông hướng ngang hoặc thông hướng ngang với điểm cấp cao hơn để phát_triển các lưới cơ_sở cấp 2 dạng đường chuyền .
+
+6 . Điểm của lưới cơ_sở cấp 1 được chôn mốc bê_tông , có gắn tâm mốc , phải được chôn chìm dưới mặt_đất hoặc gắn trên đá , trên vật kiến_trúc . Quy_định về số_hiệu điểm phải được nêu trong thiết_kế kĩ_thuật . Nếu có yêu_cầu làm tường vây bảo_vệ lâu_dài thì phải nêu trong thiết_kế kĩ_thuật . Quy_cách về mốc , tường vây tuân_thủ theo quy_định tại Phụ_lục 1 của Thông_tư này .
+
+7 . Các mốc thuộc lưới cơ_sở cấp 1 phải được lập sơ_đồ vị_trí mốc . Quy_cách sơ_đồ vị_trí mốc tuân_thủ theo quy_định tại Phụ_lục 2 của Thông_tư này .
+
+Điều 11 . Đo Lưới cơ_sở cấp 1
+
+1 . Lưới cơ_sở cấp 1 được đo bằng công_nghệ Gns_tĩnh . Máy_thu tín_hiệu vệ_tinh sử_dụng đo lưới cơ_sở cấp 1 là loại máy thu được trị đo Code và trị đo Phase , một hoặc đa tần_số , có sai_số danh định đo cạnh 10mm + 1mm . D ( d là chiều dài cạnh đo , tính bằng km ) . Thời_gian thu tín_hiệu vệ_tinh chung của 2 máy tại một cạnh không ít hơn 90 phút với máy thu 1 tần_số và 60 phút với những máy thu tín_hiệu vệ_tinh 2 tần_số trở lên .
+
+2 . Số vệ_tinh tối_thiểu trong thời_gian đo là 4 vệ_tinh ; giá_trị Pdop tối_đa là 4 ; giãn cách thu tín_hiệu vệ_tinh ( Epoch ) của các máy thu phải cùng giá_trị ( thông_thường sử_dụng giá_trị 15 giây , 5 giây , 1 giây ) ; góc ngưỡng thu tín_hiệu là 15 .
+
+3 . Khi sử_dụng máy thu tín_hiệu vệ_tinh loại 1 tần_số thì chiều dài cạnh đo không quá 15km . Không hạn_chế khoảng_cách đo với máy 2 tần_số trở lên . Trường_hợp đặc_biệt ca đo có cạnh dài hơn nhiều lần cạnh trung_bình của lưới phải tăng thời_gian đo thêm 20 phút cho mỗi 10km vượt quá chiều dài cạnh trung_bình .
+
+4 . Ăng ten máy thu tín_hiệu vệ_tinh phải được đặt cố_định , chắc_chắn , tâm thu ăn ten phải dọi chính_xác vào tâm mốc với sai_số cho phép 2mm ; chiều cao ăng ten được đo 2 lần trước và sau ca đo bằng thước thép , đọc số đến milimet .
+
+5 . Thông_số trạm đo phải được thu_thập chính_xác , ghi bằng bút mực vào_sổ đo Gns tại thực_địa bao_gồm : ngày đo , thời_gian đo , số máy , số_hiệu điểm , loại ăng ten , kiểu đo ăng ten , sơ_đồ điểm đo , thời_tiết , người đo và các thông_tin đặc_biệt khác nếu có . Quy_cách chi_tiết về số_đo Gns tuân_thủ quy_định tại Phụ_lục 3 của Thông_tư này .
+
+6 . Tên tệp dữ_liệu ( file ) đo phụ_thuộc vào loại máy thu tín_hiệu vệ_tinh nhưng phải biên_tập để tên tệp bao_gồm các thông_tin cơ_bản : số_hiệu điểm đo , ngày trong năm ( day of year ) , thứ tự ca đo trong ngày ( session number ) . Số_liệu đo gốc phải được tổ_chức , lưu_trữ trong máy_tính rõ_ràng , đầy_đủ , an_toàn , thuận_tiện cho việc khai_thác , kiểm_tra các cấp .
+
+7 . Sau khi kết_thúc việc đo lưới ở thực_địa , phải giao_nộp số_liệu đo , sổ đo và các tài_liệu có liên_quan sau :
+
+a ) Số_liệu Gns giao_nộp để tính_toán và lưu_trữ ;
+
+b ) Sổ đo Gns thực_địa ;
+
+c ) Bảng thống_kê số_liệu đo được biên_tập cho từng ca dạng in trên giấy và dạng số ( theo khuôn_dạng của phần_mềm văn_bản Microsoft Office_excel ) ;
+
+d ) Sơ_đồ thi_công đo lưới toạ_độ ở thực_địa in trên giấy và ở dạng số ( theo khuôn_dạng tệp đồ_hoạ * . dgn hoặc * . dxf , * . dwg ) trong đó phân_biệt rõ các ca đo .
+
+Điều 12 . Xử_lí_số_liệu , tính_toán , bình_sai lưới cơ_sở cấp 1
+
+1 . Việc xử_lý , bình_sai lưới được thực_hiện bằng các phần_mềm chính hãng của các hãng sản_xuất thiết_bị công_nghệ Gns của thế_giới , được phép phân_phối tại Việt_nam . Phải nghiên_cứu kĩ hướng_dẫn sử_dụng của phần_mềm và đặc_biệt lưu_ý đến các khuyến_cáo của hãng xây_dựng phần_mềm cho các trường_hợp cụ_thể khi xử_lí trị đo .
+
+2 . Việc xử_lí_số_liệu đo lưới cơ_sở cấp 1 phải thực_hiện theo phương_pháp xử_lí tương_đối từng cạnh đo với số_liệu thu đồng_thời từ hai máy thu tín_hiệu vệ_tinh như sau :
+
+a ) Trước khi xử_lí khái lược cạnh phải kiểm_tra kĩ toàn_bộ số_liệu đo , sổ đo , kiểm_tra sự phù_hợp giữa tên điểm , loại ăng ten , kiểu đo ăng ten , độ cao ăng ten , thời_gian đo ;
+
+b ) Phải tận_dụng tối_đa_số_lượng trị đo trong các tệp số_liệu đo Gns khi tính_toán . Không được tự_ý loại_bỏ trị đo khi kết_quả tính vẫn đảm_bảo các chỉ_tiêu kĩ_thuật mà phần_mềm chấp_nhận . Trong trường_hợp đặc_biệt được phép loại_bỏ tối_đa 25 % tổng_số trị đo Gns thu_nhận được , bao_gồm loại_bỏ một phần hoặc hoàn_toàn số_liệu của một hay một_số vệ_tinh , hạn_chế khoảng thời_gian , nâng cao góc ngưỡng loại_bỏ tín_hiệu thu được ở vệ_tinh thấp nhưng không được sử_dụng góc ngưỡng quá 20 ;
+
+c ) Trong mọi trường_hợp , các cạnh được xử_lí phải có lời_giải được số_nguyên đa trị ( Fixed ) và đạt các chỉ_tiêu kĩ_thuật quy_định của phần_mềm xử_lý ;
+
+d ) Được phép loại_bỏ một_số cạnh sau tính_toán khái lược trong trường_hợp có các chỉ_tiêu không đảm_bảo độ tin_cậy theo quy_định riêng của phần_mềm . Cạnh bị loại_bỏ phải là cạnh không làm mất tính liên_kết chặt_chẽ của đồ hình lưới ;
+
+đ ) Sau khi xử_lí khái lược cạnh phải tiến_hành kiểm_tra sai_số khép hình , khép độ cao trắc_địa của lưới thông_qua các số_gia toạ_độ X , Y , Z và độ chênh cao trắc_địa H của các cạnh sau xử_lí quy_định trong Bảng 3 như sau :
+
+Bảng 3
+
+Trong đó : fs = , [ s ] =
+
+Các giá_trị X , Y , Z là các giá_trị nhận được từ việc giải các cạnh tham_gia vào vòng khép .
+
+3 . Việc bình_sai lưới cơ_sở cấp 1 chỉ thực_hiện sau khi tính khái lược cạnh và kiểm_tra sai_số khép cho toàn_bộ mạng_lưới đạt hạn sai . Trường_hợp một trong các chỉ_tiêu vượt hạn sai hoặc kết_quả tính khép không đạt yêu_cầu như quy_định tại Bảng 3 của Thông_tư này phải tiến_hành_xác_định cạnh yếu , xử_lí lại cạnh , thay_thế bằng cạnh khác hoặc loại_bỏ cạnh . Số cạnh được phép loại_bỏ không được vượt quá 2 % tổng_số cạnh trong lưới và được nêu rõ trong báo_cáo kĩ_thuật .
+
+4 . Phải tiến_hành bình_sai sơ_bộ bằng việc xác_định toạ_độ và độ cao của tất_cả các điểm trong lưới dựa vào 01 điểm gốc khởi tính về toạ_độ và 01 điểm gốc khởi tính về độ cao ở khu_vực trung_tâm nhất của lưới . So_sánh giá_trị toạ_độ , độ cao nhận được sau bình_sai sơ_bộ tại các điểm gốc khác còn lại với giá_trị toạ_độ , độ cao gốc của các điểm đó để tìm ra các điểm có giá_trị sai khác bất_thường .
+
+5 . Trường_hợp khi bình_sai sơ_bộ phát_hiện tồn_tại các điểm có sự sai khác bất_thường về toạ_độ , độ cao phải thực_hiện tiếp các bước sau cho đến khi xác_định được nguyên_nhân :
+
+a ) Kiểm_tra và xác_minh lại gốc về tính chính_xác của số_liệu gốc ;
+
+b ) Thay_thế điểm gốc được dùng làm khởi tính bằng một điểm gốc khác ;
+
+c ) Lập các vòng khép mới đi qua điểm gốc được dùng làm khởi tính và điểm có sự sai khác lớn ;
+
+d ) Xử_lí lại các cạnh trong lưới có liên_quan ;
+
+đ ) Kiểm_tra lại hiện_trạng điểm gốc ở thực_địa để tránh trường_hợp mốc bị biến_động hoặc đo nhầm mốc ;
+
+e ) Trong trường_hợp đặc_biệt , khi đã tiến_hành các biện_pháp trên nhưng không đạt yêu_cầu thì được phép loại_bỏ điểm gốc khi bình_sai lưới nếu số điểm gốc còn lại trong lưới vẫn thoả_mãn yêu_cầu quy_định về số_lượng điểm gốc tối_thiểu và phải được nêu rõ trong báo_cáo kĩ_thuật ;
+
+g ) Việc bình_sai chính_thức chỉ thực_hiện khi đã giải_quyết triệt_để các tồn_tại trong quá_trình bình_sai sơ_bộ .
+
+6 . Lưới cơ_sở cấp 1 được bình_sai trong hệ toạ_độ Vn - 2000 , múi chiếu 3 , sử_dụng các điểm gốc là các điểm toạ_độ quốc_gia .
+
+Điều 13 . Xử_lí độ cao thuỷ chuẩn các điểm trong lưới cơ_sở cấp 1
+
+1 . Độ cao thuỷ chuẩn của các điểm trong lưới cơ_sở cấp 1 có_thể xác_định bằng phương_pháp đo cao hình_học hoặc phương_pháp đo Gns_tĩnh . Nếu sử_dụng phương_pháp Gns_tĩnh đo độ cao đồng_thời với đo lưới toạ_độ thì độ cao thuỷ chuẩn các điểm lưới cơ_sở cấp 1 được tính từ độ cao trắc_địa xác_định bằng đo Gns_tĩnh kết_hợp với mô_hình Geoid và các điểm gốc độ cao theo công_thức :
+
+h = H - N
+
+Trong đó :
+
+- h : là độ cao thuỷ chuẩn ;
+
+- H : là độ cao trắc_địa đo được bằng công_nghệ Gns ;
+
+- N : là giá_trị xác_định từ mô_hình Geoid .
+
+2 . Tuỳ_thuộc vào mô_hình Geoid sử_dụng , độ cao thuỷ chuẩn đạt độ chính_xác khác nhau . Phải sử_dụng mô_hình geoid có độ chính_xác cao nhất hiện có trong khu_vực do cơ_quan quản_lí nhà_nước về đo_đạc bản_đồ Việt_nam cung_cấp . Độ cao thuỷ chuẩn các điểm trong lưới đạt độ chính_xác cấp_độ cao kĩ_thuật nếu lưới được đo nối vào 03 điểm gốc độ cao hạng Iv trở lên và sử_dụng mô_hình Geoid toàn_cầu Egm2008 hoặc mô_hình Geoid địa_phương có độ chính_xác phù_hợp do cơ_quan quản_lí về đạc bản_đồ Việt_nam công_bố .
+
+3 . Được phép xây_dựng các mô_hình Geoid địa_phương phủ trùm khu đo để truyền độ cao khi sử_dụng công_nghệ Gns . Độ chính_xác mô_hình Geoid này phải nêu rõ trong thiết_kế kĩ_thuật .
+
+Điều 14 . Độ chính_xác lưới cơ_sở cấp 1 , báo_cáo kết_quả bình_sai
+
+1 . Độ chính_xác lưới cơ_sở cấp 1 sau bình_sai quy_định như sau :
+
+a ) Sai_số trung phương vị_trí điểm yếu nhất không vượt quá : 0 , 02m ;
+
+b ) Sai_số trung phương độ cao trắc_địa_điểm yếu nhất không vượt quá : 0 , 03m ;
+
+c ) Sai_số trung phương tương_đối cạnh yếu nhất : 1 : 100 . 000 ;
+
+d ) Sai_số trung phương góc phương vị không vượt quá : 5 .
+
+2 . Báo_cáo kết_quả bình_sai lưới cơ_sở cấp 1 được phép sử_dụng mẫu các báo_cáo ( Report ) của các phần_mềm xử_lí Gns sử_dụng hoặc được biên_tập , tổ_chức thành các nhóm thông_tin :
+
+a ) Các thông_số cơ_bản về lưới ;
+
+b ) Kết_quả xử_lí cạnh ;
+
+c ) Sai_số khép hình ;
+
+d ) Kết_quả bình_sai chiều dài cạnh , phương vị , chênh cao ;
+
+đ ) Kết_quả bình_sai toạ_độ , độ cao .
+
+3 . Sau khi kết_thúc việc đo , tính_toán bình_sai lưới cơ_sở cấp 1 phải tiến_hành giao_nộp số_liệu như sau :
+
+a ) Số_liệu Gns dạng tệp để tính_toán và lưu_trữ ;
+
+b ) Sổ đo Gns thực_địa ;
+
+c ) Bảng thống_kê số_liệu đo được biên_tập cho từng ca đo dưới dạng in trên giấy và dạng số ( theo khuôn_dạng của Microsoft Office_excel ) ;
+
+d ) Sơ_đồ thi_công đo lưới toạ_độ ở thực_địa in trên giấy và ở dạng số ( theo khuôn_dạng tệp đồ_hoạ * . dgn hoặc * . dxf , * . dwg ) ;
+
+đ ) Báo_cáo kết_quả bình_sai lưới cơ_sở cấp 1 .
+
+Điều 15 . Lưới cơ_sở cấp 2
+
+1 . Lưới cơ_sở cấp 2 được xây_dựng với mục_đích tăng dầy điểm khống_chế phục_vụ cho xây_dựng lưới đo vẽ cấp 1 , lưới đo vẽ cấp 2 và sử_dụng trực_tiếp đo vẽ chi_tiết trên toàn khu đo .
+
+2 . Lưới cơ_sở cấp 2 được phép áp_dụng phương_pháp đường chuyền đo góc , đo cạnh hoặc sử_dụng công_nghệ Gns_tĩnh . Lưới được phát_triển từ các điểm gốc toạ_độ thuộc lưới cơ_sở cấp 1 trở lên .
+
+3 . Lưới cơ_sở cấp 2 , lưới đo vẽ cấp 1 , lưới đo vẽ cấp 2 có độ chính_xác phụ_thuộc vào tỉ_lệ bản_đồ hoặc cơ_sở dữ_liệu nền địa_lí cần thành_lập . Nếu trong khu đo có các khu_vực cần đo vẽ bản_đồ ở các tỉ_lệ khác nhau thì lưới khống_chế các cấp có liên_quan đến khu_vực đo vẽ tỉ_lệ lớn nhất phải được lập với các chỉ_tiêu kĩ_thuật tương_ứng với tỉ_lệ đo vẽ bản_đồ lớn nhất .
+
+4 . Quy_định về sai_số khép toạ_độ tuyến , sai_số vị_trí điểm yếu nhất so với điểm gốc khi phát_triển các lưới cơ_sở cấp 2 dạng đường chuyền đo góc , cạnh từ các điểm lưới toạ_độ cấp cao hơn đối_với các tỉ_lệ không vượt quá các giá_trị trong Bảng 4 sau :
+
+Bảng 4
+
+Điều 16 . Lưới cơ_sở cấp 2 theo phương_pháp đường chuyền đo góc , cạnh
+
+1 . Lưới cơ_sở cấp 2 được bố_trí dưới dạng tuyến đường chuyền đơn hoặc dạng lưới có 01 hay nhiều điểm nút . Một lưới đường chuyền phải có số_lượng điểm gốc đủ để tạo được ít_nhất 01 phương vị khởi tính , 01 điểm toạ_độ khởi tính và 01 điểm để khép toạ_độ . Trong trường_hợp khó_khăn được phép áp_dụng chuyền nối 02 điểm gốc không thông hướng nhưng phải đảm_bảo bố_trí đường chuyền dạng duỗi thẳng , có góc chuyển_hướng đường chuyền lớn nhất 8 hoặc tỉ_số giữa tổng chiều dài đường chuyền và khoảng_cách giữa điểm gốc toạ_độ [ s ] / l 1 , 3 . Lưới được thiết_kế trên bản_đồ tỉ_lệ lớn nhất có trong khu_vực .
+
+2 . Điểm thuộc lưới cơ_sở cấp 2 được chôn mốc bê_tông , có gắn tâm , mốc phải được chôn chìm dưới mặt_đất hoặc gắn trên đá , trên vật kiến_trúc . Quy_định về số_hiệu điểm phải được nêu trong thiết_kế kĩ_thuật . Quy_cách về mốc tuân_thủ quy_định tại Phụ_lục 1 của Thông_tư này . Mốc thuộc lưới cơ_sở cấp 2 phải được lập sơ_đồ ghi_chú vị_trí điểm tuân_thủ theo quy_định tại Phụ_lục 2 của Thông_tư này .
+
+3 . Cạnh của lưới cơ_sở cấp 2 phải thiết_kế có độ dài gần bằng nhau , chênh_lệch chiều dài 2 cạnh liền kề không quá 1 , 5 lần ; cạnh đường chuyền không cắt chéo nhau . Nếu 2 đường chuyền cắt chéo nhau hoặc có khoảng_cách giữa 2 điểm gần nhau nhất của 2 lưới 400m thì phải thiết_kế điểm nút nối 2 lưới .
+
+4 . Cạnh lưới cơ_sở cấp 2 được đo bằng thiết_bị đo dài điện_tử , có sai_số_đo dài danh định 10mm + 1mm . D ( d là chiều dài cạnh đo tính bằng kilomet ) . Cạnh được đo 02 lần riêng_biệt , số chênh giữa các lần đo không vượt quá 10mm . Máy đo phải có chức_năng hiệu_chỉnh do điều_kiện môi_trường , phải nhập nhiệt_độ , áp_suất môi_trường tại thời_điểm đo để tính số hiệu_chỉnh . Nhiệt_độ nhập đến 0 , 5 độ , áp_suất nhập đến mili bar hoặc mHg .
+
+5 . Tuỳ_thuộc vào tỉ_lệ đo vẽ , điều_kiện độ chính_xác thiết_bị đo sử_dụng , độ dài trung_bình cạnh đường chuyền có_thể bố_trí để chọn số_lượng cạnh của Lưới cơ_sở cấp 2 tương_ứng , được ghi trong Bảng 5 như sau :
+
+Bảng 5
+
+6 . Máy đo góc lưới đường chuyền phải được kiểm_tra và khử các sai_số 2c , Mo . Góc trong lưới cơ_sở cấp 2 được đo theo phương_pháp toàn vòng , hai vị_trí bàn độ . Quy_định số vòng đo để đạt sai_số trung phương đo góc tương_ứng trong Bảng 5 tương_ứng với độ chính_xác danh định về đo góc bằng của máy đo ghi trong Bảng 6 :
+
+Bảng 6
+
+7 . Phải thay_đổi vị_trí bàn độ khởi_đầu qua mỗi vòng đo nếu số vòng đo > 1 . Vị_trí bàn độ khởi_đầu của vòng thứ nhất là 0 , vị_trí khởi_đầu bàn độ các vòng đo kế_tiếp cách nhau giá_trị tính theo công_thức ( n là số vòng đo ) .
+
+8 . Trong tất_cả các trường_hợp đo lưới toạ_độ dạng đường chuyền , máy đo , tiêu đo , gương phải được định_tâm với sai_số 2mm .
+
+9 . Việc đo ngắm phải khách_quan , tỉ_mỉ và chính_xác , thực_hiện đúng các quy_định về trình_tự thao_tác đo . Kết_quả đo được ghi sổ rõ_ràng , sạch_sẽ . Không được sửa_chữa các số đọc giây . Các số đọc độ , phút khi nhầm_lẫn được phép sửa ( gạch số sai , viết số đúng lên phía trên , không được chữa đè lên chữ_số , không được sửa liên_hoàn ) . Quy_cách sổ đo đường chuyền được quy_định trong Phụ_lục 3 của Thông_tư này .
+
+10 . Được phép sử_dụng chức_năng ghi số_liệu tự_động của thiết_bị đo để ghi trực_tiếp số_liệu đo góc , đo cạnh , cao máy , cao gương , thông_tin điểm đo ở dạng tệp số_liệu . Tệp số_liệu được in trên giấy thay cho sổ đo đường chuyền .
+
+11 . Khi kết_thúc đo_đạc tại trạm máy phải tính_toán sơ_bộ góc và cạnh đo , nếu số_liệu đo đạt chỉ_tiêu kĩ_thuật quy_định mới được chuyển trạm máy . Nếu không đạt yêu_cầu kĩ_thuật phải tiến_hành đo lại .
+
+12 . Cạnh lưới cơ_sở cấp 2 phải được tính chuyển về cạnh ngang và hiệu_chỉnh do phép chiếu hình_trụ ngang đồng góc ( utm ) và do độ cao địa_hình trước khi bình_sai như sau :
+
+a ) Cạnh hiệu_chỉnh do phép chiếu Utm múi 3 : Sc = 0 . 9999
+
+b ) Số_hiệu_chỉnh do độ cao địa_hình : s = - Sđo . h / R
+
+Trong 2 công_thức trên :
+
+- Sđo : là chiều dài ngang cạnh đo bằng máy đo ( m ) ;
+
+- h : là độ cao trung_bình của cạnh ( m ) ;
+
+- R : là bán_kính trung_bình Elipsoid , có_thể áp_dụng R = 6378000m ;
+
+- Ytb : là trị trung_bình toạ_độ Y của điểm đầu và cuối của cạnh đo .
+
+13 . Lưới cơ_sở cấp 2 được bình_sai mặt_phẳng riêng_biệt , theo phương_pháp chặt_chẽ . Được phép sử_dụng các phần_mềm bình_sai đường chuyền có các nội_dung tính_toán , bình_sai , đánh_giá độ chính_xác các yếu_tố của lưới :
+
+a ) Sai_số khép đường chuyền ;
+
+b ) Sai_số trung phương đo góc ;
+
+c ) Sai_số trung phương tương_đối cạnh ;
+
+d ) Sai_số trung phương vị_trí điểm .
+
+Kết_quả cuối_cùng về góc lấy chẵn đến giây , về toạ_độ và độ cao lấy đến milimet .
+
+14 . Thành_quả giao_nộp sau khi đo lưới cơ_sở cấp 2 bằng phương_pháp đường chuyền gồm :
+
+a ) Sổ đo đường chuyền và tệp số_liệu đo ( nếu có ) ;
+
+b ) Bảng kết_quả đánh_giá về lưới sau bình_sai ;
+
+c ) Bảng toạ_độ sau bình_sai ;
+
+d ) Sơ_đồ ghi_chú vị_trí điểm ;
+
+đ ) Sơ_đồ lưới sau thi_công .
+
+Điều 17 . Lưới cơ_sở cấp 2 sử_dụng công_nghệ Gns_tĩnh
+
+1 . Lưới cơ_sở cấp 2 được phép đo bằng công_nghệ Gns_tĩnh , được phát_triển từ các điểm gốc hạng cao thuộc lưới cơ_sở cấp 1 trở lên .
+
+2 . Lưới cơ_sở cấp 2 đo bằng công_nghệ Gns được thiết_kế dạng lưới tam_giác , tứ_giác , chuỗi tam_giác phủ kín khu đo , được nối với ít_nhất 03 điểm gốc thuộc lưới cơ_sở cấp 1 trở lên . Trong trường_hợp lưới có số điểm mới 3 được phép sử_dụng 02 điểm gốc hạng cao . Các điểm gốc cần chọn ở vị_trí khống_chế , phân_bố đều , gần lưới nhất .
+
+3 . Vị_trí điểm toạ_độ điểm lưới cơ_sở cấp 2 đo bằng công_nghệ Gns được chọn tuân_thủ như quy_định tại Khoản 4 Điều 10 của Thông_tư này và phải được chọn tạo thành các cặp điểm thông hướng ngang hoặc thông hướng ngang với 01 điểm cấp cao hơn để phát_triển lưới khống_chế đo vẽ và đo_đạc chi_tiết địa_hình . Quy_cách về mốc tuân_thủ theo quy_định tại Khoản 2 Điều 16 của Thông_tư này .
+
+4 . Máy_thu tín_hiệu vệ_tinh là loại máy thu được trị đo Code và trị đo Phase , một hoặc đa tần_số , có sai_số danh định đo cạnh 10mm + 1mm . D ( d là chiều dài cạnh đo , tính bằng kilomet ) . Thời_gian thu tín_hiệu vệ_tinh chung của 2 máy tại một cạnh không ít hơn 60 phút đối_với máy thu tín_hiệu vệ_tinh 1 tần_số và 45 phút cho máy thu tín_hiệu vệ_tinh 2 tần_số trở lên . Khi sử_dụng máy thu tín_hiệu vệ_tinh loại 1 tần_số thì chiều dài cạnh đo không quá 15km . Trường_hợp ca đo đặc_biệt có cạnh lớn hơn nhiều lần chiều dài trung_bình cạnh trong lưới , phải tăng thời_gian của ca đo đo thêm 10 phút cho mỗi 5km vượt quá chiều dài trung_bình .
+
+5 . Ăng ten máy thu tín_hiệu vệ_tinh phải được đặt cố_định , chắc_chắn trên điểm , dọi tâm chính_xác vào tâm mốc với sai_số 2mm ; chiều cao ăng ten được đo bằng thước thép , đọc số 2 lần đến milimet . Thông_số trạm đo phải được thu_thập chính_xác , ghi bằng bút mực vào_sổ đo tại thực_địa bao_gồm : ngày đo , thời_gian đo , số máy , số_hiệu điểm , loại ăng ten , kiểu đo ăng ten , sơ_đồ chướng_ngại_vật , thời_tiết , người đo và các thông_tin đặc_biệt khác nếu có . Quy_cách sổ đo thực_địa tuân_thủ Phụ_lục 3 của Thông_tư này .
+
+6 . Tên tệp dữ_liệu ( file ) đo phụ_thuộc vào loại máy thu tín_hiệu vệ_tinh nhưng phải bao_gồm các thông_tin cơ_bản : số_hiệu điểm đo , ngày trong năm ( day of year ) , thứ tự ca đo trong ngày ( Session number ) . Số_liệu đo gốc phải được tổ_chức , lưu_trữ trong máy_tính rõ_ràng , đầy_đủ , an_toàn để thuận_tiện cho việc khai_thác , kiểm_tra các cấp .
+
+7 . Việc tính_toán , xử_lí_số_liệu đo quy_định như đối_với lưới đo vẽ cấp 1 tại Khoản 1 và Khoản 2 Điều 12 của Thông_tư này . Sau khi xử_lí khái lược cạnh phải tiến_hành kiểm_tra sai_số khép hình , khép độ cao trắc_địa của lưới thông_qua các số_gia toạ_độ X , Y , Z và độ chênh cao trắc_địa H của các cạnh sau xử_lí quy_định trong Bảng 3 của Thông_tư này .
+
+8 . Việc bình_sai lưới cơ_sở cấp 2 đo bằng công_nghệ Gns được thực_hiện như quy_định đối_với lưới cơ_sở cấp 1 tại Khoản 3 và Khoản 4 Điều 12 của Thông_tư này .
+
+9 . Để đạt được độ cao thuỷ chuẩn kĩ_thuật , các điểm trong lưới cơ_sở cấp 2 được đo nối với điểm gốc độ cao , xử_lý , bình_sai như quy_định đối_với lưới cơ_sở cấp 1 tại Điều 13 của Thông_tư này .
+
+10 . Các chỉ_tiêu về độ chính_xác lưới cơ_sở cấp 2 đo bằng công_nghệ Gns_tĩnh được quy_định như sau :
+
+a ) Sai_số trung phương vị_trí điểm yếu nhất không vượt quá : 0 , 02m ;
+
+b ) Sai_số trung phương độ cao_điểm yếu nhất không vượt quá : 0 , 03m ;
+
+c ) Sai_số trung phương tương_đối cạnh yếu nhất không vượt quá : 1 : 20 . 000 ;
+
+d ) Sai_số phương vị không vượt quá : 10 ;
+
+đ ) Sai_số khép tam_giác không vượt quá 0 , 05m .
+
+11 . Báo_cáo kết_quả bình_sai lưới cơ_sở cấp 2 đo bằng công_nghệ Gns được phép sử_dụng mẫu các báo_cáo ( Report ) của các phần_mềm xử_lí_số_liệu Gns sử_dụng và được tổ_chức thành các nhóm thông_tin :
+
+a ) Kết_quả xử_lí cạnh ;
+
+b ) Sai_số khép hình ;
+
+c ) Kết_quả bình_sai chiều dài cạnh , phương vị , chênh cao ;
+
+d ) Kết_quả bình_sai toạ_độ , độ cao ;
+
+đ ) Các thông_số cơ_bản về lưới .
+
+12 . Sau khi kết_thúc việc đo , tính_toán bình_sai lưới cơ_sở cấp 2 đo bằng công_nghệ Gns phải tiến_hành giao_nộp số_liệu như sau :
+
+a ) Số_liệu đo Gns dạng tệp giao_nộp để tính_toán và lưu_trữ ;
+
+b ) Sổ đo Gns ở thực_địa ;
+
+c ) Bảng thống_kê số_liệu đo được biên_tập cho từng ca đo dưới dạng in trên giấy và dạng số ( khuôn_dạng Microsoft Office_excel ) ;
+
+d ) Sơ_đồ thi_công đo lưới toạ_độ ở thực_địa in trên giấy và ở dạng tệp của phần_mềm đồ_hoạ : * . dgn , * . dxf , * . dwg ;
+
+đ ) Báo_cáo kết_quả bình_sai lưới .
+
+Điều 18 . Lưới độ cao kĩ_thuật
+
+1 . Lưới độ cao kĩ_thuật được phát_triển theo phương_pháp thuỷ chuẩn hình_học , phương_pháp đo cao lượng_giác hoặc công_nghệ Gns_tĩnh .
+
+2 . Tuỳ theo yêu_cầu cụ_thể có_thể thiết_kế lưới độ cao kĩ_thuật trùng một_số hoặc toàn_bộ các điểm thuộc lưới cơ_sở cấp 1 , lưới cơ_sở cấp 2 hoặc lập các mốc riêng phục_vụ cho việc truyền độ cao đến lưới khống_chế đo vẽ và sử_dụng trực_tiếp đo chi_tiết địa_hình . Lưới độ cao kĩ_thuật được phát_triển từ các điểm lưới độ cao quốc_gia hạng Iv trở lên .
+
+3 . Đối_với khu_vực đo có yêu_cầu truyền độ cao hạng Iv cho một_số hoặc toàn_bộ các điểm thuộc các lưới toạ_độ cần phải thiết_kế lưới đo độ cao hạng Iv tuỳ_thuộc yêu_cầu cụ_thể . Quy_định về xây_dựng lưới độ cao hạng Iv tuân_thủ quy_định tại Quy_chuẩn kĩ_thuật quốc_gia về xây_dựng lưới độ cao quốc_gia Qcvn 11 . 2008 / btnmt .
+
+Điều 19 . Lưới độ cao kĩ_thuật theo phương_pháp thuỷ chuẩn hình_học
+
+1 . Lưới độ cao kĩ_thuật được thiết_kế để truyền độ cao kĩ_thuật cho một_số hoặc tất_cả các mốc thuộc lưới cơ_sở cấp 1 , lưới cơ_sở cấp 2 tuỳ theo yêu_cầu thực_tế và phải nêu rõ trong thiết_kế kĩ_thuật .
+
+2 . Lưới độ cao kĩ_thuật sử_dụng phương_pháp thuỷ chuẩn hình_học được thiết_kế dưới dạng tuyến đơn hoặc tuyến có một hay nhiều điểm nút , có điểm gốc là các điểm độ cao quốc_gia hạng Iv trở lên . Trường_hợp đặc_biệt khó_khăn được phép thiết_kế tuyến treo . Độ dài tuyến đo treo không quá 4km và phải đo đi , đo về hoặc đo một_chiều với hai chiều cao máy khác nhau ít_nhất 10cm và lấy kết_quả trung_bình 2 lần đo .
+
+3 . Chiều dài tuyến đơn phụ_thuộc vào_khoảng cao đều cơ_bản cần đo vẽ và không vượt quá các giá_trị nêu ở Bảng 8 .
+
+Bảng 8
+
+4 . Máy đo là máy thuỷ chuẩn hình_học , có độ phóng_đại_từ 20x trở lên , trị_giá vạch chia ống bọt nước_lớn nhất là 45 tương_ứng với 2mm , sử_dụng mia gỗ một hoặc hai mặt , trị_số vạch khắc là 1cm . Nếu sử_dụng máy thuỷ chuẩn điện_tử với mia mã_vạch thì phải sử_dụng máy và mia có độ chính_xác tương_đương trở lên .
+
+5 . Tuyến độ cao kĩ_thuật được đo một_chiều , mia phải đặt trên đế mia hoặc trên cọc đóng chặt xuống nền đất . Chênh cao đọc theo chỉ giữa của ống_kính đến milimet , khoảng_cách đọc số_chẵn đến mét trực_tiếp trên mia . Khi dùng mia hai mặt_số , phải đọc số theo thứ_tự như sau :
+
+- Đọc số mặt đen , mặt đỏ mia sau ;
+
+- Đọc số mặt đen , mặt đỏ mia trước ;
+
+Khi dùng mia một mặt_số :
+
+- Đọc số mia sau ;
+
+- Đọc số mia trước ;
+
+- Thay_đổi chiều cao máy ít_nhất 10cm ;
+
+- Đọc số mia trước ;
+
+- Đọc số mia sau .
+
+6 . Khoảng_cách đo từ máy đến mia trung_bình là 120m , dài nhất không quá 200m ; chiều cao tia ngắm so với mặt_đất 0 , 2m ; chênh khoảng_cách từ máy đến 2 mia không quá 5m , chênh tích_luỹ khoảng_cách trong tuyến đo không quá 5mm . Chênh_lệch độ cao trên trạm tính theo 2 mặt mia hoặc theo 2 độ cao máy không quá 5mm . Phải bố_trí tổng_số trạm đo trong tuyến đo là số_chẵn . Kết_quả đo ghi trong sổ đo theo mẫu trong Phụ_lục 3 của Thông_tư này .
+
+7 . Nếu sử_dụng máy thuỷ chuẩn điện_tử với mia mã_vạch thì quy_trình đo , khoảng_cách , quy_định và các chỉ_tiêu kĩ_thuật tuân_thủ theo quy_định của máy .
+
+8 . Sai_số khép tuyến độ cao kĩ_thuật không vượt quá giá_trị : Fh = 50mm . , trong đó L là chiều dài của tuyến độ cao , tính bằng kilomet . Nếu số trạm đo trên 1km lớn hơn 25 trạm , sai_số khép tính theo công_thức : Fh = 10mm . trong đó n là số trạm đo .
+
+9 . Lưới độ cao phải được tiến_hành bình_sai chặt_chẽ theo nguyên_lí_số bình_phương nhỏ nhất .
+
+Điều 20 . Lưới độ cao kĩ_thuật theo phương_pháp lượng_giác
+
+1 . Được phép truyền độ cao_cấp kĩ_thuật bằng phương_pháp đo cao lượng_giác , sử_dụng máy toàn đạc điện_tử để đo chênh cao . Tuyến đo có_thể độc_lập hoặc trùng với lưới đường chuyền , chiều dài tuyến quy_định không vượt quá các giá_trị ghi trong Bảng 8 của Thông_tư này . Góc đứng được đo độc_lập hoặc đồng_thời quá_trình đo góc bằng của lưới đường chuyền . Sử_dụng máy đo có độ chính_xác về đo góc đứng 10 , số lần đo góc đứng như số lần đo góc bằng .
+
+2 . Chênh cao phải đo 2 chiều đi và về ; số chênh trị_giá góc đứng giữa các lần đo 15 . Các thông_số : chiều cao máy , chiều cao gương phải được đo chính_xác đến 1mm .
+
+3 . Chênh cao giữa 2 điểm được tính theo chiều cao máy , chiều cao gương và góc đứng trung_bình các vòng đo sau khi đã được xử_lí sai_số Mo . Chênh cao trung_bình được lấy theo giá_trị trung_bình theo hai chiều đo đi và đo về .
+
+4 . Sai_số khép tuyến độ cao giữa các điểm gốc độ cao là Fh 50mm . trong đó L là chiều dài tuyến , tính bằng km . Lưới độ cao phải được tiến_hành bình_sai chặt_chẽ theo nguyên_lí_số bình_phương nhỏ nhất .
+
+Điều 21 . Lưới độ cao kĩ_thuật đo theo công_nghệ Gns_tĩnh
+
+Được phép áp_dụng công_nghệ Gns_tĩnh để truyền độ cao_độ cao_cấp kĩ_thuật theo lưới riêng hoặc kết_hợp_đồng_thời trong quá_trình đo toạ_độ lưới cơ_sở cấp 1 , lưới cơ_sở cấp 2 bằng công_nghệ Gns_tĩnh . Ngoài yêu_cầu kĩ_thuật đo_đạc như đối_với toạ_độ lưới cơ_sở cấp 1 , lưới cơ_sở cấp 2 , lưới độ cao kĩ_thuật sử_dụng công_nghệ Gns_tĩnh còn phải tuân_thủ về điểm gốc độ cao , mô_hình Geoid , xử_lí_số_liệu và tính_toán bình_sai quy_định tại Điều 13 của Thông_tư này .
+
+Điều 22 . Lưới khống_chế đo vẽ
+
+1 . Lưới khống_chế đo vẽ được thành_lập nhằm tăng dày điểm khống_chế phục_vụ đo_đạc trực_tiếp toạ_độ , độ cao các điểm địa_hình , địa_vật . Lưới khống_chế đo vẽ được kết_hợp xác_định toạ_độ và độ cao trong cùng một lưới . Lưới khống_chế đo vẽ chia làm 2 cấp : lưới đo vẽ cấp 1 và lưới đo vẽ cấp 2 .
+
+2 . Tuỳ_thuộc vào điều_kiện của khu đo , toạ_độ các điểm lưới khống_chế đo vẽ được xác_định bằng phương_pháp đường chuyền đo góc_cạnh hoặc bằng công_nghệ Gns . Độ cao các điểm khống_chế đo vẽ xác_định bằng phương_pháp đo cao thuỷ chuẩn hình_học hoặc phương_pháp đo cao lượng_giác , công_nghệ Gns_tĩnh , Gns động kết_hợp trong khi đo toạ_độ .
+
+3 . Lưới khống_chế đo vẽ phải thiết_kế trên bản_đồ tỉ_lệ lớn nhất có trên khu đo trước khi thi_công .
+
+4 . Tuỳ theo yêu_cầu cụ_thể điểm lưới khống_chế đo vẽ có_thể chôn mốc cố_định hoặc tạm_thời ở thực_địa . Nếu chôn mốc cố_định phải tuân_thủ theo quy_định về mốc tại Phụ_lục 1 của Thông_tư này . Nếu làm mốc tạm_thời thì phải đảm_bảo mốc tồn_tại đến kết_thúc việc đo_đạc và phục_vụ kiểm_tra , nghiệm_thu công_trình .
+
+Điều 23 . Lưới đo vẽ cấp 1 sử_dụng phương_pháp đường chuyền đo góc , cạnh
+
+1 . Lưới đo vẽ cấp 1 bố_trí dưới dạng tuyến đường chuyền đơn hoặc dạng lưới có 01 hay nhiều điểm nút . Điểm gốc toạ_độ phát_triển lưới đo vẽ cấp 1 là điểm lưới cơ_sở cấp 2 trở lên . Một lưới đường chuyền phải có số_lượng điểm gốc đủ để tạo được ít_nhất 01 phương vị khởi tính , 01 điểm toạ_độ khởi tính và 01 điểm để khép toạ_độ . Trong trường_hợp khó_khăn được phép áp_dụng đường chuyền nối 02 điểm gốc toạ_độ không thông hướng nhưng phải bố_trí đảm_bảo đường chuyền dạng duỗi thẳng , có góc chuyển_hướng 8 hoặc tỉ_số giữa tổng chiều dài đường chuyền và khoảng_cách giữa điểm gốc khởi và điểm gốc khép toạ_độ [ s ] / l 1 , 3 .
+
+2 . Độ dài các cạnh lưới đo vẽ cấp 1 được chọn gần bằng nhau , chênh_lệch chiều dài 2 cạnh liền kề không quá 2 lần , cạnh không ngắn hơn 20m ; ở khu_vực đặc_biệt khó_khăn cho phép cạnh ngắn nhất không dưới 10m , cạnh lưới không cắt chéo nhau . Nếu 2 lưới đường chuyền đo vẽ cấp 1 cắt chéo nhau hoặc có khoảng_cách giữa 2 điểm gần nhau nhất của 2 lưới 300m thì phải thiết_kế điểm nút nối 2 lưới . Sai_số vị_trí điểm yếu nhất , sai_số khép toạ_độ lưới đo vẽ cấp 1 quy_định trong Bảng 4 của Thông_tư này .
+
+3 . Canh Lưới đo vẽ cấp 1 được đo 2 lần bằng thiết_bị đo dài điện_tử có độ chính_xác danh định 10mm + 1mm . D ( d là chiều dài cạnh đo tính bằng km ) .
+
+4 . Tuỳ_thuộc vào tỉ_lệ đo vẽ , điều_kiện độ chính_xác thiết_bị đo sử_dụng , độ dài trung_bình cạnh đường chuyền có_thể bố_trí để lựa_chọn số cạnh của lưới đo vẽ cấp 1 phù_hợp , được ghi trong Bảng 9 như sau :
+
+Bảng 9
+
+5 . Góc trong lưới đường chuyền được đo theo phương_pháp toàn vòng , hai vị_trí bàn độ . Trước khi đo , máy đo góc phải được kiểm_tra và khử sai_số 2c , Mo . Tuỳ_thuộc vào độ chính_xác danh định về đo góc bằng của máy đo , số vòng đo để đạt sai_số trung phương đo góc tương_ứng trong Bảng 9 được quy_định tại Bảng 6 của Thông_tư này .
+
+6 . Độ cao_điểm lưới đo vẽ cấp 1 có_thể sử_dụng phương_pháp đo cao lượng_giác , đo góc đứng đồng_thời với góc bằng ở 2 vị_trí bàn độ và theo 2 chiều thuận nghịch hoặc áp_dụng phương_pháp đo thuỷ chuẩn hình_học . Số khép tuyến độ Fh 75mm . trong đó L là chiều dài đường chuyền , tính bằng kilomet .
+
+7 . Trong tất_cả các trường_hợp , máy đo , tiêu đo , gương phải được định_tâm với sai_số 5mm , các thông_số : chiều cao máy , chiều cao gương phải được đo chính_xác đến milimet .
+
+8 . Việc đo ngắm phải khách_quan , chính_xác và thực_hiện đúng các quy_định về trình_tự thao_tác đo . Kết_quả đo được ghi sổ rõ_ràng , sạch_sẽ . Không được sửa_chữa các số đọc giây . Các số đọc độ , phút khi nhầm_lẫn được phép sửa ( gạch số sai , viết số đúng lên phía trên , không được chữa đè lên chữ_số , không được sửa liên_hoàn ) . Quy_cách sổ đo như quy_định đối_với sổ đo lưới đường chuyền , được quy_định trong Phụ_lục 3 của Thông_tư này .
+
+9 . Được phép sử_dụng chức_năng ghi tự_động của thiết_bị đo để ghi số_liệu đo góc , đo cạnh , cao máy , cao gương , thông_tin điểm đo dạng tệp . Bản in tệp số_liệu đo trên giấy thay cho sổ ghi số_liệu đo thực_địa .
+
+10 . Cạnh lưới đo vẽ cấp 1 phải được tính chuyển về mặt ngang và hiệu_chỉnh do phép chiếu Utm , hiệu_chỉnh do độ cao địa_hình trước khi bình_sai lưới theo quy_định tại Khoản 12 Điều 16 của Thông_tư này . Lưới đo vẽ cấp 1 mặt_phẳng , độ cao được bình_sai riêng_biệt , chặt_chẽ theo nguyên_lí_số bình_phương nhỏ nhất .
+
+11 . Kết_quả bình_sai phải thể_hiện được các thông_tin về lưới :
+
+a ) Sai_số khép mặt_phẳng , độ cao đường chuyền ;
+
+b ) Sai_số trung phương đo góc ;
+
+c ) Sai_số trung phương tương_đối cạnh ;
+
+d ) Sai_số trung phương vị_trí , độ cao_điểm .
+
+Kết_quả cuối_cùng góc lấy chẵn đến giây , toạ_độ và độ cao lấy chẵn đến milimet .
+
+Điều 24 . Lưới đo vẽ cấp 1 sử_dụng công_nghệ Gns_tĩnh
+
+1 . Công_nghệ Gns_tĩnh được phép sử_dụng để xác_định toạ_độ , độ cao lưới đo vẽ cấp 1 đồng_thời .
+
+2 . Lưới đo vẽ cấp 1 xây_dựng bằng công_nghệ Gns_tĩnh có_thể thiết_kế dưới dạng lưới tam_giác dày_đặc , chuỗi tam_giác , chuỗi tứ_giác khép_kín , nối với ít_nhất 03 điểm gốc toạ_độ thuộc lưới cơ_sở cấp 2 trở lên và 02 điểm có độ cao_cấp kĩ_thuật trở lên . Trường_hợp khu đo nhỏ , có số_lượng điểm cần xây_dựng mới 3 được phép thiết_kế dạng lưới tam_giác nối 2 điểm gốc toạ_độ và 01 điểm độ cao . Các điểm gốc toạ_độ và độ cao cần chọn tại các vị_trí khống_chế , phân_bố đều và gần lưới nhất .
+
+3 . Điểm lưới đo vẽ cấp 1 được chọn phải đảm_bảo điều_kiện có góc quan_sát bầu_trời không bị che_chắn không nhỏ hơn 150 . Trường_hợp đặc_biệt thì cũng phải có góc quan_sát bầu_trời không nhỏ hơn 120 và chỉ được phép che_khuất về một phía , thuận_lợi cho việc phát_triển lưới đo vẽ cấp 2 bằng phương_pháp đường chuyền và đo chi_tiết bằng phương_pháp toàn đạc . Chỉ cần chọn điểm lưới thông hướng ngang theo từng cặp hoặc thông hướng ngang với 01 điểm cấp cao hơn , không bị khống_chế chặt_chẽ về chiều dài cạnh và hình_dạng lưới .
+
+4 . Thiết_bị sử_dụng là máy thu tín_hiệu vệ_tinh loại thu được trị đo Code và trị đo Phase , 1 tần_số hoặc đa tần_số , có sai_số danh định đo cạnh 10mm + 1mm . D ( d là chiều dài cạnh đo tính bằng kilomet ) .
+
+5 . Thời_gian đo thu tín_hiệu vệ_tinh chung tại cạnh không ít hơn 45 phút với máy thu 1 tần_số và 30 phút với máy thu 2 tần_số trở lên . Nếu ca đo có cạnh dài lớn hơn nhiều lần cạnh trung_bình thì phải kéo_dài thời_gian ca đo có cạnh đó thêm 10 phút cho mỗi 5 km kéo_dài so với cạnh trung_bình . Không sử_dụng máy thu tín_hiệu vệ_tinh loại 1 tần_số_đo cạnh có chiều dài > 15km .
+
+6 . Tâm pha ăng ten máy thu Gns được định_tâm với sai_số 5mm . Chiều cao ăng ten được đo , số đọc đến milimet .
+
+7 . Quy_trình xử_lí kết_quả đo , bình_sai lưới , quy_cách kết_quả tính_toán bình_sai lưới , tài_liệu giao_nộp tuân theo quy_định tại các Khoản 7 , 8 , 9 , 11 và Khoản 12 Điều 17 của Thông_tư này .
+
+8 . Các chỉ_tiêu về độ chính_xác lưới đo vẽ cấp 1 đo bằng công_nghệ Gns_tĩnh được quy_định như sau :
+
+a ) Sai_số trung phương vị_trí điểm yếu nhất không vượt quá : 0 , 03m ;
+
+b ) Sai_số trung phương độ cao_điểm yếu nhất không vượt quá : 0 , 04m ;
+
+c ) Sai_số trung phương tương_đối cạnh yếu nhất không vượt quá : 1 : 10 . 000 ;
+
+d ) Sai_số trung phương phương vị không vượt quá : 20 ;
+
+đ ) Sai_số khép tam_giác không vượt quá 0 , 05m .
+
+Điều 25 . Lưới đo vẽ cấp 2
+
+1 . Lưới đo vẽ cấp 2 là cấp lưới khống_chế cuối_cùng được phép phát_triển nếu mật_độ điểm khống_chế thuộc lưới cấp cao hơn chưa đủ để đo vẽ hết khu đo . Điểm gốc toạ_độ , độ cao để phát_triển các điểm lưới đo vẽ cấp 2 là điểm lưới đo vẽ cấp 1 trở lên . Sai_số vị_trí điểm yếu nhất , sai_số khép toạ_độ lưới đo vẽ cấp 2 quy_định trong Bảng 4 của Thông_tư này .
+
+2 . Phương_pháp phát_triển lưới đo vẽ cấp 2 là phương_pháp đường chuyền đo góc_cạnh , đường chuyền treo , phương_pháp giao_hội nghịch sử_dụng máy toàn đạc điện_tử hoặc công_nghệ đo Gns_tĩnh , kĩ_thuật đo Gns động .
+
+3 . Lưới đo vẽ cấp 2 đo bằng phương_pháp đường chuyền được bố_trí dưới dạng tuyến đường chuyền đơn hoặc dạng lưới có 01 hay nhiều điểm nút . Một lưới đường chuyền phải có số_lượng điểm gốc đủ để tạo được ít_nhất 01 phương vị khởi tính , 01 điểm toạ_độ khởi tính và 01 điểm để khép toạ_độ . Được phép áp_dụng đường chuyền có 02 điểm gốc không thông hướng nhưng phải bố_trí đảm_bảo đường chuyền dạng duỗi thẳng , có góc chuyển_hướng lớn nhất 8 hoặc tỉ_số giữa tổng chiều dài đường chuyền và khoảng_cách giữa điểm gốc khởi và điểm gốc khép toạ_độ [ s ] / l 1 , 3 .
+
+4 . Chiều dài cạnh lưới được đo 2 lần bằng thiết_bị đo dài điện_tử có độ chính_xác danh định 10mm + 1mm . D ( d là chiều dài cạnh đo tính bằng kilomet ) .
+
+5 . Tuỳ_thuộc vào tỉ_lệ đo vẽ , điều_kiện độ chính_xác thiết_bị đo sử_dụng , độ dài trung_bình cạnh đường chuyền có_thể bố_trí để lựa_chọn số cạnh của lưới đo vẽ cấp 2 phù_hợp , được ghi trong Bảng 10 như sau :
+
+Bảng 10
+
+6 . Chiều dài cạnh lưới đo vẽ cấp 2 không ngắn hơn 20m . Ở khu_vực khó_khăn cho phép cạnh ngắn nhất không dưới 5m ; chiều dài của hai cạnh liền nhau của đường chuyền không chênh nhau quá 2 . 5 lần . Sai_số định_tâm máy , tâm tiêu không quá 5mm .
+
+7 . Góc trong lưới đường chuyền được đo theo phương_pháp toàn vòng , 2 vị_trí bàn độ . Máy đo phải được kiểm_tra và khử các sai_số 2c , Mo . Tuỳ_thuộc vào độ chính_xác danh định về đo góc bằng của máy , số vòng đo để đạt sai_số trung phương đo góc tương_ứng trong Bảng 10 được quy_định tại Bảng 6 của Thông_tư này .
+
+8 . Chênh cao giữa 2 điểm lưới đo vẽ cấp 2 được xác_định bằng phương_pháp đo cao lượng_giác , góc đứng được đo 2 vòng đồng_thời với quá_trình đo góc bằng . Chênh cao được đo 2 lần theo hướng đo đi và đo về và lấy giá_trị trung_bình . Độ cao máy , độ cao gương , tiêu đo được đo đến cm . Sai_số khép độ cao tuyến Fh 100mm . trong đó L là chiều dài tuyến , tính bằng kilomet . Toạ_độ , độ cao lưới đo vẽ cấp 2 được bình_sai riêng_biệt , chặt_chẽ theo nguyên_lí_số bình_phương nhỏ nhất .
+
+9 . Lưới đo vẽ cấp 2 được phép thiết_kế đường chuyền treo , số cạnh treo quy_định là 2 cạnh , vùng đặc_biệt khó_khăn số cạnh treo không quá 4 cạnh . Tất_cả các trường_hợp phát_triển đường chuyền treo phải thực_hiện trước , tách_biệt với quá_trình đo_đạc chi_tiết ; phải đo cạnh , góc bằng , góc đứng 2 chiều đi và về ; chiều dài cạnh , chênh cao lấy kết_quả trung_bình hai chiều đo .
+
+10 . Toạ_độ , độ cao_điểm lưới đo vẽ cấp 2 theo phương_pháp đường chuyền treo được tính trực_tiếp từ số_liệu đo góc bằng , góc đứng , cạnh trung_bình 2 chiều đo và toạ_độ , độ cao các điểm gốc một_cách riêng_biệt .
+
+11 . Khi áp_dụng phương_pháp giao_hội nghịch đo góc và cạnh sử_dụng máy toàn đạc điện_tử , phải sử_dụng tối_thiểu 03 điểm gốc thuộc lưới đo vẽ cấp 1 trở lên . Trường_hợp khó_khăn được phép sử_dụng 02 điểm gốc nhưng việc lựa_chọn kết_quả giao_hội phải chính_xác , tránh trường_hợp nhầm với điểm đối_xứng .
+
+12 . Nếu sử_dụng phương_pháp giao_hội nghịch đo góc phải sử_dụng tối_thiểu 03 điểm gốc là điểm lưới đo vẽ cấp 1 trở lên và vị_trí điểm giao_hội nghịch phải tránh xa đường_tròn đi qua 3 điểm gốc sử_dụng .
+
+13 . Yêu_cầu chỉ_tiêu kĩ_thuật về máy toàn đạc điện_tử , yêu_cầu về quy_trình đo , kết_quả đo góc , đo cạnh , thông_số trạm máy sử_dụng trong phát_triển lưới đo vẽ cấp 2 áp_dụng như đối_với lưới đo vẽ cấp 1 .
+
+Điều 26 . Lưới đo vẽ cấp 2 sử_dụng công_nghệ Gns_tĩnh
+
+1 . Lưới đo vẽ cấp 2 xây_dựng bằng công_nghệ Gns_tĩnh được thiết_kế dạng lưới tam_giác dầy dặc , chuỗi tam_giác , chuỗi đa_giác khép_kín , nối với ít_nhất 03 điểm gốc toạ_độ thuộc lưới đo vẽ cấp 1 trở lên , nối với 02 điểm gốc độ cao là điểm thuộc lưới đo vẽ cấp 1 trở lên . Trường_hợp khu đo nhỏ có số điểm xây_dựng mới 3 được phép đo nối với 02 điểm gốc toạ_độ , 01 gốc độ cao . Các điểm gốc cần chọn ở vị_trí khống_chế , phân_bố đều , gần lưới nhất . Điểm đo được chọn phải đảm_bảo điều_kiện có góc quan_sát bầu_trời không bị che_chắn không nhỏ hơn 150 . Trường_hợp đặc_biệt thì cũng phải có góc quan_sát bầu_trời không nhỏ hơn 120 và chỉ được phép che_khuất về một phía , thuận_lợi cho việc đo chi_tiết bằng phương_pháp toàn đạc . Chỉ cần chọn điểm lưới thông hướng ngang theo từng cặp hoặc thông hướng ngang với 01 điểm cấp cao hơn , không bị hạn_chế về chênh_lệch chiều dài cạnh và hình_dạng lưới .
+
+2 . Thiết_bị sử_dụng là máy thu tín_hiệu vệ_tinh Gns loại thu được trị đo Code và trị đo Phase , 1 tần_số hoặc đa tần_số , có sai_số danh định đo cạnh 10mm + 1mm . D ( d là chiều dài cạnh đo tính bằng kilomet ) . Tâm pha ăng ten máy thu được định_tâm với sai_số 5mm . Chiều cao ăng ten được đo , số đọc đến milimet .
+
+3 . Thời_gian đo thu tín_hiệu vệ_tinh chung tại cạnh không ít hơn 30 phút với máy thu 1 tần_số và 25 phút với máy thu 2 tần_số trở lên . Nếu ca đo có cạnh dài lớn hơn nhiều lần cạnh trung_bình thì phải kéo_dài thời_gian ca đo có cạnh đó thêm 10 phút cho mỗi 5 km kéo_dài so với cạnh trung_bình . Khi sử_dụng máy thu tín_hiệu vệ_tinh loại 1 tần_số thì chiều dài cạnh đo không quá 15km . Các quy_định về đo_đạc , tính_toán bình_sai lưới áp_dụng như lưới đo vẽ cấp 1 tại Điều 24 của Thông_tư này .
+
+4 . Các chỉ_tiêu về độ chính_xác lưới đo vẽ cấp 2 đo bằng công_nghệ Gns_tĩnh được quy_định như sau :
+
+a ) Sai_số trung phương vị_trí điểm yếu nhất không vượt quá : 0 , 03m ;
+
+b ) Sai_số trung phương độ cao_điểm yếu nhất không vượt quá : 0 , 04m ;
+
+c ) Sai_số trung phương tương_đối cạnh yếu nhất không vượt quá : 1 : 5000 ;
+
+d ) Sai_số trung phương phương vị không vượt quá : 30 ;
+
+đ ) Sai_số khép tam_giác không vượt quá 0 , 05m .
+
+Điều 27 . Lưới đo vẽ cấp 2 ứng_dụng kĩ_thuật đo Gns động xử_lí sau ( Post Processing Kinematic_gns )
+
+1 . Kỹ_thuật đo Gns động xử_lí sau được phép áp_dụng đo lưới đo vẽ cấp 2 . Phải sử_dụng thiết_bị do các hãng chuyên_dụng chế_tạo và được kiểm_nghiệm thực_tế ở Việt_nam . Bộ thiết_bị đo bao_gồm các máy thu tín_hiệu vệ_tinh Gns loại thu được trị đo Code và trị đo Phase , 1 tần_số hoặc đa tần_số , có sai_số danh định đo cạnh 10mm + 1mm . D ( d là chiều dài cạnh đo tính bằng km ) và các thiết_bị điều_khiển có chức_năng đo Gns động xử_lí sau .
+
+2 . Đối_với 1 trạm đo , yêu_cầu phải sử_dụng 02 máy thu tín_hiệu vệ_tinh tại 02 trạm gốc ( Base ) để cùng với các điểm trạm động ( Rover ) tại các điểm đo mới tạo thành các tam_giác khép_kín . Điểm trạm gốc phải là điểm toạ_độ , độ cao có độ chính_xác từ điểm lưới đo vẽ cấp 1 trở lên , có điều_kiện thông_thoáng bầu_trời đảm_bảo có khả_năng thu được tín_hiệu của hầu_hết các vệ_tinh có tại thời_điểm đo tại khu_vực đặt trạm gốc .
+
+3 . Nếu không có đủ điểm gốc có điều_kiện thu tín_hiệu vệ_tinh tốt , được phép đặt trạm gốc tại điểm chưa có toạ_độ nhưng có điều_kiện thu tín_hiệu vệ_tinh tốt và phải đo trùng vào các điểm gốc trong khu đo để đảm_bảo trạm đo có ít_nhất 03 điểm gốc thuộc lưới đo vẽ cấp 1 trở lên , phân_bố đều ở các vị_trí khống_chế toàn_bộ trạm đo để bình_sai lưới . Việc đo tại các điểm phải được tiến_hành trong điều_kiện được phép đo ( Fixed ) , theo chế_độ đo đem khống_chế ( Control point ) ít_nhất 20 trị đo . Ăng ten tại trạm gốc và ăng ten trạm động phải được định_tâm có sai_số 5mm , chiều cao xác_định chiều cao ăng ten xác_định đến milimet .
+
+4 . Các điểm mới của lưới đo vẽ cấp 2 phải được thiết_kế và đo theo từng cặp thông hướng hoặc thông hướng với 01 điểm cấp cao hơn , có quy_tắc đặt tên điểm thống_nhất , được đánh_dấu bằng cọc gỗ , đóng đinh , sơn để đảm_bảo nhận_dạng đúng và định_tâm chính_xác , có khoảng_cách giữa 2 điểm phù_hợp đảm_bảo đo_đạc chi_tiết bằng phương_pháp toàn đạc hiệu_quả nhất .
+
+5 . Khoảng_cách lớn nhất từ trạm gốc đến điểm lưới đo vẽ cấp 2 không quá 5 km đối_với đo vẽ bản_đồ tỉ_lệ 1 : 500 , 1 : 1000 và không quá 10 km đối_với đo vẽ bản_đồ địa_hình tỉ_lệ 1 : 2000 , 1 : 5000 . Chỉ được phép tiến_hành đo trong điều_kiện được phép đo ( Fixed ) và đo theo chế_độ đo điểm khống_chế ( Control point ) ít_nhất 20 trị đo .
+
+6 . Sau khi hoàn_thành việc đo_đạc thực_địa , kết_quả đo phát_triển lưới đo vẽ cấp 2 được xử_lý , tính_toán bình_sai với các chỉ_tiêu kĩ_thuật như đối_với lưới đo vẽ cấp 2 sử_dụng công_nghệ Gns tĩnh_tại Điều 26 của Thông_tư này .
+
+7 . Kỹ_thuật đo Gns động xử_lí sau được phép áp_dụng cho đo chi_tiết địa_hình , địa_vật tại những khu_vực không bị che_khuất bầu_trời và luôn ở chế_độ được phép đo ( Fixed ) . Khoảng_cách từ trạm gốc đến điểm đo không quá 5km đối_với đo vẽ bản_đồ tỉ_lệ 1 : 500 , 1 : 1000 và không quá 10km đối_với đo vẽ bản_đồ địa_hình tỉ_lệ 1 : 2000 , 1 : 5000 và chỉ đo trong vùng khống_chế của các điểm gốc .
+
+Điều 28 . Lưới đo vẽ cấp 2 sử_dụng kĩ_thuật Gns động thời_gian thực ( Real - time Kinematic_gns )
+
+1 . Kỹ_thuật đo Gns động thời_gian thực được phép áp_dụng đo lưới đo vẽ cấp 2 . Phải sử_dụng thiết_bị do các hãng chuyên_dụng chế_tạo và được kiểm_nghiệm thực_tế ở Việt_nam . Bộ thiết_bị đo bao_gồm các máy thu tín_hiệu vệ_tinh Gns loại thu được trị đo Code và trị đo Phase , 1 tần_số hoặc đa tần_số , có sai_số danh định đo cạnh 10mm + 1mm . D ( d là chiều dài cạnh đo tính bằng kilomet ) và thiết_bị có chức_năng đo Gns động thời_gian thực .
+
+2 . Đối_với mỗi trạm đo , sử_dụng 01 trạm gốc ( Base ) , được đặt trên điểm gốc toạ_độ , độ cao thuộc lưới đo vẽ cấp 1 trở lên , có điều_kiện thông_thoáng bầu_trời cho phép thu được tín_hiệu của tất_cả các vệ_tinh có tại mọi thời_điểm đo tại khu_vực đặt trạm gốc và các trạm động ( Rover ) tiếp_cận các điểm cần đo mới .
+
+3 . Trong quá_trình đo tại mỗi trạm phải đo nối vào ít_nhất 02 điểm gốc toạ_độ và độ cao thuộc lưới đo vẽ cấp 1 trở lên , phân_bố cân_đối ở vị_trí khống_chế khu_vực trạm đo theo chế_độ đo điểm khống_chế ( Control point ) ít_nhất 20 trị đo trong điều_kiện được phép đo ( Fixed ) để quy_chuẩn về hệ toạ_độ địa_phương nếu không có trước các tham_số tính chuyển chính_xác giữa hệ toạ_độ thế_giới ( wgs84 ) và hệ toạ_độ địa_phương .
+
+4 . Nếu không có điểm gốc có điều_kiện thu tín_hiệu vệ_tinh tốt , được phép đặt trạm gốc tại điểm chưa có toạ_độ nhưng có điều_kiện thu tín_hiệu vệ_tinh tốt nhất và phải tiến_hành đo trùng vào ít_nhất 03 điểm gốc toạ_độ , độ cao thuộc lưới đo vẽ cấp 1 trở lên ở vị_trí khống_chế trạm đo theo chế_độ đo điểm khống_chế ( Control point ) với ít_nhất 20 trị đo trong điều_kiện được phép đo ( Fixed ) để quy_chuẩn về hệ_thống toạ_độ địa_phương . Ăng ten tại trạm gốc và ăng ten trạm động phải được định_tâm có sai_số 5mm , chiều cao xác_định chiều cao ăng ten xác_định đến milimet .
+
+5 . Trong cả 2 trường_hợp , sai_số về toạ_độ , độ cao tại các điểm gốc đo nối sau khi thực_hiện quy_chuẩn không lớn hơn sai_số của điểm lưới đo vẽ cấp 2 tương_ứng với tỉ_lệ bản_đồ cần đo vẽ quy_định tại Bảng 4 của Thông_tư này .
+
+6 . Điểm lưới đo vẽ cấp 2 phải được thiết_kế và đo theo từng cặp thông hướng hoặc thông hướng với điểm cấp cao hơn , có quy_tắc đặt tên điểm , có vị_trí điểm phù_hợp về khoảng_cách để đảm_bảo đo_đạc chi_tiết bằng phương_pháp toàn đạc hiệu_quả nhất .
+
+7 . Khoảng_cách từ trạm gốc đến điểm đo không quá 5 km khi đo vẽ ở tỉ_lệ 1 : 500 , 1 : 1000 và 10km khi đo vẽ ở tỉ_lệ 1 : 2000 , 1 : 5000 . Đồng_thời việc đo_đạc phải trong vùng khống_chế của các điểm quy_chuẩn . Chỉ được phép tiến_hành đo lưới đo vẽ cấp 2 trong điều_kiện được phép đo ( Fixed ) và đo theo chế_độ đo điểm khống_chế ( Control point ) ít_nhất 20 trị đo .
+
+8 . Điểm lưới đo vẽ cấp 2 phải được đặt tên theo quy_tắc thống_nhất , được đánh_dấu bằng cọc gỗ , đóng đinh , sơn trên vật cứng để đảm_bảo nhận_dạng , định_tâm chính_xác khi sử_dụng đo chi_tiết bằng máy toàn đạc điện_tử và phục_vụ cho công_tác kiểm_tra , nghiệm_thu .
+
+9 . Sau khi hoàn_thành việc đo_đạc thực_địa , kết_quả đo phát_triển lưới đo vẽ cấp 2 được lập thành báo_cáo trong đó bao_gồm danh_mục điểm , các thông_số chính của trạm đo : điểm trạm gốc , các điểm quy_chuẩn , sai_số tại các điểm quy_chuẩn phục_vụ cho việc lập báo_cáo kĩ_thuật .
+
+10 . Kỹ_thuật đo Gns động thời_gian thực được phép áp_dụng cho đo chi_tiết địa_hình , địa_vật , chuyển điểm thiết_kế ra thực_địa tại những khu_vực thông_thoáng bầu_trời và luôn ở chế_độ được phép đo ( Fixed ) . Khoảng_cách từ trạm gốc đến điểm đo không quá 5 km đối_với đo vẽ bản_đồ tỉ_lệ 1 : 500 , 1 : 1000 và không quá 10km đối_với đo vẽ bản_đồ địa_hình tỉ_lệ 1 : 2000 , 1 : 5000 và phải trong vùng khống_chế của các điểm tính tham_số quy_chuẩn .
+
+Điều 29 . Lập lưới đo vẽ cấp 2 sử_dụng kĩ_thuật Gns động thời_gian thực sử_dụng hệ_thống đa trạm gốc ( lưới trạm Cors )
+
+1 . Được phép sử_dụng kĩ_thuật Gns động thời_gian thực sử_dụng hệ_thống đa trạm gốc để lập lưới đo vẽ cấp 2 nếu độ chính_xác công_bố của hệ_thống được cơ_quan quản_lí quốc_gia về đo_đạc và bản_đồ xác_nhận phù_hợp với độ chính_xác điểm lưới đo vẽ cấp 2 cần phát_triển .
+
+2 . Được phép áp_dụng kĩ_thuật đo Gns đa trạm gốc trong đo_đạc lưới khống_chế đo vẽ cấp 2 và đo chi_tiết trực_tiếp địa_hình tỉ_lệ 1 : 500 , 1 : 1000 , 1 : 2000 , 1 : 5000 nếu độ chính_xác công_bố của hệ_thống đảm_bảo yêu_cầu kĩ_thuật về độ chính_xác điểm chi_tiết bản_đồ cần lập .
+
+Chương_iv
+
+Đo_đạc Địa_hình
+
+Điều 30 . Đo vẽ chi_tiết khu đo
+
+1 . Việc xác_định toạ_độ điểm chi_tiết được tiến_hành bằng phương_pháp toạ_độ cực ( đo góc bằng , góc đứng , cạnh ) có_thể sử_dụng máy toàn đạc điện_tử , máy kinh vĩ quang_học kết_hợp máy đo cạnh đo bằng bộ đo dài điện_tử , thước thép hoặc sử_dụng mia . Góc bằng và góc đứng chỉ đo 1 vị_trí bàn độ .
+
+2 . Nội_dung đo vẽ chi_tiết phụ_thuộc vào tỉ_lệ bản_đồ , mục_đích , yêu_cầu , phạm_vi của nhiệm_vụ đo_đạc địa_hình :
+
+a ) Đối_với nhiệm_vụ đo_đạc địa_hình tỉ_lệ lớn hoặc xây_dựng cơ_sở dữ_liệu nền địa_lý , nội_dung đo vẽ chi_tiết phụ_thuộc vào nội_dung yêu_cầu tỉ_lệ bản_đồ đo vẽ hoặc quy_định kĩ_thuật về mô_hình cấu_trúc , nội_dung cơ_sở dữ_liệu nền địa_lí cần xây_dựng do cơ_quan có thẩm_quyền ban_hành và phải được nêu trong thiết_kế kĩ_thuật . Thông_thường việc đo_đạc trực_tiếp phục_vụ lập bản_đồ địa_hình với các chủ_đề cơ_bản sau đây :
+
+- Cơ_sở toán_học : Lưới chiếu , điểm khống_chế mặt_phẳng , độ cao ;
+
+- Dân_cư , hạ_tầng kinh_tế xã_hội , các yếu_tố địa_vật liên_quan ;
+
+- Giao_thông ;
+
+- Thuỷ_hệ ;
+
+- Thực_phủ ;
+
+- Biên_giới và địa_giới ;
+
+- Địa_hình .
+
+b ) Đối_với nhiệm_vụ đo_đạc chuyên_ngành , nội_dung đo vẽ được quy_định chi_tiết trong thiết_kế kĩ_thuật .
+
+3 . Các đối_tượng địa_hình , địa_vật cần được đo toạ_độ , độ cao với mức_độ chi_tiết đủ đáp_ứng yêu_cầu về độ chính_xác và nội_dung của loại tỉ_lệ bản_đồ hoặc cơ_sở dữ_liệu nền địa_lí cần thành_lập , cụ_thể như sau :
+
+a ) Khoảng_cách đo , mật_độ điểm đo đối_với một_số loại tỉ_lệ bản_đồ được quy_định không vượt quá các trị_giá nêu trong Bảng 11 ;
+
+Bảng 11
+
+b ) Các địa_vật có kích_thước chiều ngắn nhất 0 , 5mm trong tỉ_lệ bản_đồ phải đo toạ_độ , độ cao các điểm chi_tiết tại các vị_trí đặc_trưng để thể_hiện_hình_dáng , kích_thước đồ hình theo kết_quả đo được thực_tế . Điểm chi_tiết phải biểu_thị được những đoạn cong có khoảng_cách tương_đối giữa điểm đỉnh và dây_cung 0 , 2mm trong tỉ_lệ bản_đồ . Các địa_vật có kích_thước < 0 , 5mm trong tỉ_lệ bản_đồ chỉ xác_định vị_trí tâm của đối_tượng để biểu_thị dưới dạng phi tỉ_lệ ;
+
+c ) Các địa_vật hình tuyến có độ rộng 0 , 5mm trong tỉ_lệ bản_đồ phải được đo vẽ theo tỉ_lệ , biểu_thị theo đúng vị_trí , chiều dài và độ rộng thực_tế , trường_hợp nhỏ hơn , đo vẽ nửa tỉ_lệ theo đường tâm của địa_vật để biểu_thị vị_trí , chiều dài đối_tượng ;
+
+d ) Trường_hợp địa_vật dày , có_thể khái_quát_hoá hoặc chọn_lọc lấy bỏ bớt nội_dung để đảm_bảo mức_độ dung_nạp của loại bản_đồ cần thành_lập ;
+
+đ ) Tương_quan hình_học giữa các địa_vật , đặc_biệt là đối_tượng_hình tuyến , phải đảm_bảo không mâu_thuẫn với thực_tế .
+
+4 . Chi_tiết nội_dung bản_đồ địa_hình_dạng số tuân theo các quy_định thành_lập bản_đồ địa_hình có tỉ_lệ tương_ứng , trong đó mỗi loại đối_tượng phải được biểu_thị phân_biệt để phục_vụ cho công_tác biên_tập chế in , liên biên dạng số hoặc các mục_đích tự_động_hoá . Sau đây là một_số nội_dung cơ_bản có tính phổ_biến :
+
+a ) Các đối_tượng dân_cư , kinh_tế - xã_hội như trụ_sở uỷ_ban , trường_học , cơ_sở y_tế , vật định_hướng . . . biểu_thị dưới dạng kí_hiệu , ghi_chú địa_danh . Ranh_giới tường rào biểu_thị trong trường_hợp chiều dài từ 1cm trở lên trong tỉ_lệ bản_đồ . Địa_danh dân_cư sử_dụng theo Danh_mục địa_danh Quốc_gia , điều_tra bổ_sung theo các tài_liệu pháp_lí của địa_phương tại thời_điểm đo_đạc thực_địa ; điểm dân_cư ( thôn , xóm , khu đô_thị . . . ) thể_hiện dưới dạng ghi_chú tên , số hộ và đồ hình . Đồ hình điểm dân_cư được thể_hiện thông_qua mật_độ nhà , công_trình kiến_trúc và ranh_giới thực_vật liên_quan , trong đó nhà vẽ theo tỉ_lệ phải ghi_chú số tầng khi có 2 tầng trở lên ;
+
+b ) Các đối_tượng giao_thông theo tỉ_lệ , ngoài việc đo vẽ viền đường phải ghi_chú các thông_tin về độ rộng , chất_liệu trải mặt và tên gọi theo giãn cách 15 đến 20 cm trong tỉ_lệ bản_đồ . Biểu_thị các đường giao_thông liên xã , liên thôn , đường làng ngõ phố trong các khu_vực nông_thôn ; bờ_vùng , bờ_thửa ổn_định trong các khu canh_tác và các tuyến đường liên_thông với mạng_lưới giao_thông chính . Các công_trình gia_cố giao_thông được thể_hiện bằng kí_hiệu bờ trải ta luy theo đúng hướng dốc địa_hình với tỉ cao khi đạt từ 0 , 3m trở lên . Trường_hợp bờ trải ta luy rộng 0 , 3mm trong tỉ_lệ bản_đồ trở lên phải đo biểu_thị cả đường chân . Công_trình giao_thông phụ_thuộc như cầu , cống , hầm , đường trên cao , nhà_ga , sân_bay . . . thể_hiện phù_hợp với mạng_lưới đường_bộ và đường_sắt ;
+
+c ) Loại đối_tượng thuỷ hệ điển_hình là ranh_giới nước mặt , trong đó phân_biệt đường bờ nước ( là giới_hạn lòng chứa nước cao nhất của nước mặt ) với đường mép nước ( được xác_định tại thời_điểm đo vẽ thực_địa ) trong trường_hợp khoảng_cách giữa chứng_từ 0 , 3mm trở lên . Căn_cứ vào địa_hình và thực_tế đo vẽ để thể_hiện hướng dòng_chảy theo quy_định kí_hiệu bản_đồ . Đo vẽ các đối_tượng ao hồ , kênh mương , công_trình thuỷ_lợi như đê , đập , cống điều_tiết nước , trạm bơm theo quy_định của loại bản_đồ địa_hình cần thành_lập ;
+
+d ) Các lớp thực_vật cần phải được thể_hiện phân_biệt bằng đường ranh_giới giữa các vùng thực_vật hoặc giữa vùng thực_vật với các vùng chất đất , thổ_nhưỡng hoặc hiện_trạng sử_dụng đất khác kết_hợp với các kí_hiệu tương_ứng với loại thực_vật theo hiện_trạng đo_đạc ;
+
+đ ) Yếu_tố biên_giới địa_giới được chuyển vẽ từ các hồ_sơ biên_giới , địa_giới hành_chính do cơ_quan thẩm_quyền công_bố và điều_tra , xác_minh , chỉnh_sửa tại thực_địa theo hiện_trạng tài_liệu pháp_lí của địa_phương tại thời_điểm đo_đạc bản_đồ . Đối_với bản_đồ dạng số , yếu_tố địa_giới đi theo đối_tượng_hình tuyến phải trùng tuyệt_đối . Đối_với bản_đồ in trên giấy biên_tập theo quy_định kí_hiệu bản_đồ ;
+
+e ) Trong trường_hợp địa_hình chưa có sự_biến_đổi , tuân theo quy_luật tự_nhiên , điểm đo địa_hình đối_với các loại tỉ_lệ tuân_thủ về mật_độ như quy_định trong Bảng 11 của Thông_tư này . Biểu_thị chi_tiết dáng đất bằng các đường đồng mức . Đường đồng mức được nội suy từ các điểm độ cao chi_tiết bằng phương_pháp thủ_công hoặc tự_động qua các phần_mềm chuyên_dụng ;
+
+g ) Ngoài_ra cần đo thể_hiện độ cao các tại các vị_trí đặc_trưng địa_hình_như đỉnh núi , yên ngựa , điểm lồi , điểm lõm , điểm thay_đổi độ dốc , các đường phân thuỷ , đường tụ thuỷ điểm mực nước , ngã ba đường . . . Mật_độ đo phải đảm_bảo có số_lượng 25 điểm / 1dm2 trong tỉ_lệ bản_đồ . Trường_hợp địa_hình có biến_đổi đột_xuất phải đo thể_hiện độ cao các đường đặc_trưng địa_hình_như đường chân , đường vai các vách , địa_hình đắp cao , xẻ sâu để thể_hiện bằng các dạng kí_hiệu như bờ dốc , bờ trải ta_luy , tỉ cao .
+
+5 . Quy_định về đo_đạc tại điểm trạm đo
+
+a ) Khi đo_đạc phục_vụ thành_lập bản_đồ và xây_dựng cơ_sở dữ_liệu nền địa_lý , độ cao_điểm mia được tính_toán và thể_hiện lên bản_đồ đến 0 , 01m đối_với loại tỉ_lệ 1 : 500 , 1 : 1000 , 1 : 2000 và 0 , 1 m đối_với loại tỉ_lệ 1 : 5000 ;
+
+b ) Tại mỗi trạm đo phải định_hướng thêm đến 2 điểm rõ nét , trong quá_trình đo phải thường_xuyên kiểm_tra định_hướng , sai_lệch không quá 1 30 và phải đo ít_nhất 02 điểm đo chung với mỗi trạm kề bên để kiểm_tra ;
+
+c ) Trước khi đo vẽ phải sao biên với các khu_vực xung_quanh ( nếu có ) và thực_hiện tiếp biên sơ_bộ ;
+
+d ) Số_liệu đo , sơ_đồ ghi_chú điểm , giá_trị toạ_độ . . . được ghi_nhận trong sổ đo thực_địa . Mẫu sổ đo theo quy_định tại Phụ_lục 3 của Thông_tư này . Nếu sử_dụng thiết_bị điện_tử có_thể đo , ghi số_liệu đo tự_động , kết_quả đo được ghi_nhận_dạng số với định_dạng của phần_mềm chuyên_dụng kèm theo thiết_bị đo . Bản in trên giấy tệp số_liệu đo này được phép thay_thế cho sổ ghi tại thực_địa ;
+
+đ ) Mỗi trạm đo đều phải vẽ sơ_đồ trạm đo , trên sơ_đồ thể_hiện các điểm định_hướng , điểm chi_tiết , điểm đặc_trưng địa_hình và các ghi_chú cần_thiết khác . Tỷ_lệ sơ_đồ xấp_xỉ bằng tỉ_lệ bản_đồ đo vẽ . Trường_hợp đo bằng thiết_bị đo điện_tử , điểm chi_tiết được đo , ghi tự_động , thuộc_tính điểm đo được mã_hoá , được xử_lí_số_liệu tự_động trên các phần_mềm chuyên_dụng thì không cần sơ_đồ trạm đo .
+
+Chương V
+
+Kiểm_tra Nghiệm_thu Và Giao_nộp Sản_phẩm
+
+Điều 31 . Kiểm_tra nghiệm_thu sản_phẩm
+
+1 . Công_tác kiểm_tra nghiệm_thu thành_quả đo_đạc và bản_đồ địa_hình phải tiến_hành theo đúng quy_định hiện_hành về công_tác kiểm_tra , thẩm_định và nghiệm_thu công_trình sản_phẩm đo_đạc bản_đồ .
+
+2 . Cơ_sở để kiểm_tra , thẩm_định và nghiệm_thu là thiết_kế kĩ_thuật đã được cấp có thẩm_quyền phê_duyệt và các yêu_cầu kĩ_thuật trong Thông_tư này .
+
+3 . Sản_phẩm đo vẽ giao_nộp để kiểm_tra , thẩm_định và nghiệm_thu phải hoàn_chỉnh và sắp_xếp theo từng loại đúng quy_định trong thiết_kế kĩ_thuật .
+
+4 . Sau khi đã được kiểm_tra , thẩm_định và nghiệm_thu , sản_phẩm công_trình mới được giao_nộp cho các cơ_quan quản_lý .
+
+Điều 32 . Đóng_gói và giao_nộp tài_liệu
+
+1 . Thành_quả đóng_gói giao_nộp phải là thành_quả qua kiểm_tra nghiệm_thu đã đạt tiêu_chuẩn chất_lượng , có dấu và chữ_kí của đơn_vị thi_công .
+
+2 . Sản_phẩm công_trình đo_đạc bản_đồ phải đóng_gói giao_nộp theo danh_mục được quy_định trong thiết_kế kĩ_thuật .
+
+3 . Quy_cách đóng_gói tuân_thủ theo quy_định hiện_hành về giao_nộp sản_phẩm đo_đạc bản_đồ . Mỗi loại tài_liệu giao_nộp đều phải ghi rõ tên khu đo , tỉ_lệ đo vẽ , loại thành_quả , số_lượng , tên đơn_vị thi_công và thời_gian đo vẽ .
+
+Chương_vi
+
+Kiểm_định , Kiểm_nghiệm_thiết_bị Đo_đạc
+
+Điều 33 . Kiểm_định thiết_bị đo
+
+1 . Thiết_bị đo dài ( máy toàn đạc điện_tử , thước invar , thước thép ) phải được chứng_nhận kiểm_định còn hiệu_lực do cơ_quan quản_lí nhà_nước về đo_đạc bản_đồ thực_hiện_tại bãi chuẩn .
+
+2 . Thiết_bị đo Gns sử_dụng trong đo lưới khống_chế phải được chứng_nhận kiểm_định còn hiệu_lực do cơ_quan quản_lí nhà_nước về đo_đạc bản_đồ thực_hiện_tại bãi chuẩn .
+
+Điều 34 . Kiểm_nghiệm thiết_bị đo
+
+1 . Trước và trong khi thực_hiện công_trình , máy toàn đạc điện_tử , máy đo góc , máy thuỷ chuẩn sử_dụng trong công_trình đều phải kiểm_tra , kiểm_nghiệm theo chỉ_dẫn kèm theo thiết_bị .
+
+2 . Mia invar phải kiểm_nghiệm chiều dài thực_tế của mia trên thiết_bị chuẩn trước khi tiến_hành đo_đạc công_trình .
+
+3 . Mia thuỷ chuẩn phải được kiểm_nghiệm chiều dài thực_tế bằng thước chuẩn trước khi đo công_trình .
+
+Chương_vii
+
+Điều_khoản Thi_hành
+
+Điều 35 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 02 năm 2016 .
+
+Điều 36 . Tổ_chức thực_hiện
+
+Cục Đo_đạc và Bản_đồ Việt_nam có trách_nhiệm kiểm_tra việc thực_hiện Thông_tư này .
+
+Trong quá_trình thực_hiện , nếu có vướng_mắc thì cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , Quyết_định . / .

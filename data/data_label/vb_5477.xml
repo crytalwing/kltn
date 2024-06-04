@@ -1,0 +1,817 @@
+Thông_tư số 29/2022/tt-bct ngày 31 tháng 10 năm 2022 của bộ công_thương
+
+Bộ_trưởng Bộ Công_thương
+
+Căn_cứ <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Chất_lượng sản_phẩm , hàng_hoá ngày 21 tháng 11 năm 2007 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 98/2017/NĐ-CP ngày 18 tháng 8 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_thương ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ; <LT rel="None"> Luật Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 </LT> của Chính_phủ sửa_đổi , bổ_sung một_số điều <NĐ rel="None"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều Chất_lượng sản_phẩm , hàng_hoá ; <LT rel="None"> Luật Nghị_định số 74/2018/NĐ-CP ngày 15 tháng 5 năm 2018 </LT> của Chính_phủ sửa_đổi , bổ_sung một_số điều <NĐ rel="None"> Nghị_định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều <LT rel="CC"> Luật Chất_lượng sản_phẩm , hàng_hoá </LT> ;
+
+Theo đề_nghị của Cục_trưởng Cục Kỹ_thuật an_toàn và Môi_trường công_nghiệp ;
+
+Bộ_trưởng Bộ Công_thương ban_hành Quy_chuẩn kĩ_thuật quốc_gia về an_toàn đối_với rơ_le bảo_vệ rò điện điện_áp đến 1 140 V_phòng nổ sử_dụng trong mỏ hầm_lò .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về an_toàn đối_với rơ_le bảo_vệ rò điện điện_áp đến 1 140 V_phòng nổ sử_dụng trong mỏ hầm_lò .
+
+Ký_hiệu : Qcvn 18 : 2022 / bct .
+
+Điều 2 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực từ ngày 01 tháng 7 năm 2023 .
+
+Điều 3 . Tổ_chức thực_hiện
+
+Chánh Văn_phòng Bộ , Cục_trưởng Cục Kỹ_thuật an_toàn và Môi_trường công_nghiệp ; Thủ_trưởng các cơ_quan , tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 18 : 2022 / bct
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về An_toàn Đối_với Rơ_le Bảo_vệ Rò_điện Điện_áp Đến 1 140 V_Phòng Nổ Sử_dụng Trong Mỏ Hầm_lò
+
+National technical regulation on safety for leakage electric current protective relays voltage up to 1 140 V explosion - proof used in underground mine
+
+Lời_nói_đầu
+
+Qcvn 18 : 2022 / bct do Tổ_soạn_thảo Quy_chuẩn kĩ_thuật Quốc_gia về an_toàn đối_với rơ_le bảo_vệ rò điện điện_áp đến 1 140 V_phòng nổ sử_dụng trong mỏ hầm_lò biên_soạn , Cục Kỹ_thuật an_toàn và Môi_trường công_nghiệp - Bộ Công_thương trình_duyệt , Bộ Khoa_học và Công_nghệ thẩm_định , Bộ_trưởng Bộ Công_thương ban_hành theo <TT rel="DC"> Thông_tư số 29/2022/TT-BCT ngày 31 tháng 10 năm 2022 </TT> .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về An_toàn Đối_với Rơ_le Bảo_vệ Rò_điện Điện_áp Đến 1 140 V_Phòng Nổ Sử_dụng Trong Mỏ Hầm_lò
+
+National technical regulation on safety for leakage electric current protective relays voltage up to 1 140 V explosion - proof used in underground mine
+
+I . Quy_định Chung
+
+1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn kĩ_thuật này quy_định các yêu_cầu kĩ_thuật an_toàn và quản_lí đối_với rơ_le bảo_vệ rò điện điện_áp đến 1 140 V_phòng nổ trong mạng điện xoay chiều ba pha trung_tính_cách_li sử_dụng trong mỏ hầm_lò có khí cháy và bụi nổ ( sau đây gọi là rơ_le bảo_vệ rò điện phòng nổ ) , có mã Hs 8535 . 90 . 90 .
+
+2 . Đối_tượng áp_dụng
+
+Quy_chuẩn kĩ_thuật này áp_dụng đối_với các tổ_chức , cá_nhân sản_xuất , nhập_khẩu , thử_nghiệm , kiểm_định , chứng_nhận , giám_định sử_dụng và các cá_nhân khác có liên_quan đến rơ_le bảo_vệ rò điện phòng nổ trong mỏ hầm_lò trên lãnh_thổ Việt_nam .
+
+3 . Giải_thích từ_ngữ
+
+3 . 1 . Khí_quyển nổ là hỗn_hợp của các chất dễ cháy ở dạng khí , hơi , bụi , sợi hoặc vật bay với không_khí , trong điều_kiện khí_quyển mà sau khi bắt cháy , cho phép ngọn lửa lan_truyền tự duy_trì .
+
+3 . 2 . Rơ_le bảo_vệ rò điện là thiết_bị có_thể tự_động cắt nguồn điện mạng phụ_tải của thiết_bị đóng cắt , khi giá_trị điện_trở_rò của mạng bằng hoặc nhỏ hơn giá_trị cài_đặt .
+
+3 . 3 . Bảo_vệ khoá rò điện là dạng bảo_vệ không cho phép đóng điện đến mạng ra phụ_tải , khi điện_trở_rò của mạng được giám_sát giảm đến giá_trị cài_đặt .
+
+3 . 4 . Điện_trở_rò của mạng là tổng_điện_trở cách_điện ba pha của mạng so với đất .
+
+3 . 5 . Dòng_điện rò là dòng_điện chạy giữa pha đang mang điện của mạng và đất do điện_trở cách_điện giảm .
+
+3 . 6 . Điện_trở_tác_động rò điện là giá_trị cao nhất của điện_trở_rò làm cho thiết_bị bảo_vệ rò điện tác_động .
+
+3 . 7 . Điện_trở_khoá rò điện là giá_trị điện_trở cách_điện cao nhất của mạng ra phụ_tải mà tại giá_trị đó bảo_vệ khoá rò điện tác_động .
+
+3 . 8 . Điện_dung của mạng là tổng_điện_dung của các pha so với đất .
+
+3 . 9 . Chức_năng tự kiểm_tra là chức_năng có_thể tự_động cắt nguồn điện khi rơ_le không_thể hoạt_động bình_thường do hư_hỏng , sự_cố của chính nó .
+
+3 . 10 . Dòng rò lâu_dài là dòng_điện chạy qua điện_trở_rò mà không làm cho thiết_bị bảo_vệ rò điện tác_động khi điện_trở cách_điện lớn hơn điện_trở_tác_động và điện_dung của mạng trong phạm_vi hoạt_động .
+
+3 . 11 . Dòng rò ngắn_hạn là dòng_điện ở trạng_thái ổn_định chạy qua điện_trở_rò bằng điện_trở tính_toán tối_thiểu của cơ_thể người khi điện_trở cách_điện lớn hơn điện_trở_tác_động và điện_dung của mạng trong phạm_vi hoạt_động , xuất_hiện trong thời_gian ngắt của bảo_vệ rò và đến khi động_cơ dừng .
+
+3 . 12 . Vỏ không xuyên nổ dạng d là kết_cấu trong đó chứa các bộ_phận có_thể làm bốc cháy hỗn_hợp khí_nổ và có_thể chịu được áp_lực xuất_hiện trong vụ nổ bên trong của hỗn_hợp khí_nổ đó và ngăn_ngừa sự lan_truyền vụ nổ ra khí_quyển nổ xung_quanh vỏ .
+
+3 . 13 . Dạng bảo_vệ an_toàn tia lửa y là dạng bảo_vệ mà năng_lượng điện của thiết_bị và các thành_phần_đấu nối khi đặt trong khí_quyển nổ được hạn_chế thấp hơn mức có_thể gây cháy hỗn_hợp nổ bằng các hiệu_ứng tia lửa hoặc hiệu_ứng nhiệt .
+
+Ii . Quy_định Về Kỹ_thuật An_toàn
+
+4 . Tài_liệu viện_dẫn
+
+4 . 1 . Qcvn 01 : 2011 / bct Quy_chuẩn kĩ_thuật quốc_gia về an_toàn trong khai_thác than hầm_lò .
+
+4 . 2 . Qcvn 04 : 2017 / bct Quy_chuẩn kĩ_thuật quốc_gia về an_toàn trong khai_thác quặng hầm_lò .
+
+4 . 3 . Tcvn 4255 : 2008 ( iec 60529 : 2001 ) Cấp bảo_vệ bằng vỏ ngoài ( mã Ip ) .
+
+4 . 4 . Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) Khí_quyển nổ - Phần 0 : Thiết_bị - Yêu_cầu chung .
+
+4 . 5 . Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) Khí_quyển nổ - Phần 1 : Bảo_vệ thiết_bị bằng vỏ không xuyên nổ d .
+
+4 . 6 . Tcvn 7079-7:2002 Thiết_bị dùng trong mỏ hầm_lò - Phần 7 : An_toàn tăng cao - dạng bảo_vệ e .
+
+4 . 7 . Tcvn 7079-11:2002 Thiết_bị điện dùng trong mỏ hầm_lò - Phần 11 : An_toàn tia_lửa - dạng bảo_vệ y .
+
+4 . 8 . Tcvn 7079-17:2003 Thiết_bị điện dùng trong mỏ hầm_lò - Phần 17 : Kiểm_tra và bảo_dưỡng thiết_bị .
+
+4 . 9 . Iec 60079 - 7 : 2015 Explosive atmospheres - Part 7 : Equipment protection bi increased safety " e " ( Khí_quyển nổ - Phần 7 : Bảo_vệ thiết_bị bằng an_toàn tăng cao e ) .
+
+4 . 10 . Iec 60079 - 11 : 2011 Explosive atmospheres - Part 11 : Equipment protection bi intrinsic safety y ( Khí_quyển nổ - Phần 11 : Bảo_vệ thiết_bị bằng an_toàn tia lửa y ) .
+
+4 . 11 . Iec 60079 - 17 : 2013 Explosive atmospheres - Part 17 : Electrical installations inspection and maintenance ( Khí_quyển nổ - Phần 17 : Kiểm_tra và bảo_dưỡng lắp_đặt điện ) .
+
+5 . Yêu_cầu chung
+
+5 . 1 . Rơ_le bảo_vệ rò điện phòng nổ dùng trong mỏ hầm_lò phải đảm_bảo các yêu_cầu kĩ_thuật an_toàn đối_với rơ_le bảo_vệ rò điện thông_thường sử_dụng trong môi_trường không có khí cháy , bụi nổ và các yêu_cầu tại Quy_chuẩn kĩ_thuật này .
+
+5 . 2 . Phân_loại rơ_le bảo_vệ rò điện phòng nổ
+
+5 . 2 . 1 . Phân_loại theo thiết_kế chế_tạo sản_phẩm
+
+5 . 2 . 1 . 1 . Loại được thiết_kế để sử_dụng độc_lập trong mạng điện ;
+
+5 . 2 . 1 . 2 . Loại được thiết_kế theo dạng khối hoặc tích_hợp sử_dụng bên trong các thiết_bị điện phòng nổ ;
+
+5 . 2 . 2 . Phân_loại theo điện_áp danh định
+
+Điện_áp làm_việc danh định xoay chiều ( Ue ) của thiết_bị bảo_vệ rò điện phòng nổ : 127 V , 220 V , 380 V , 660 V và 1 140 V .
+
+5 . 2 . 3 . Phân_loại theo bù điện_dung của mạng
+
+5 . 2 . 3 . 1 . Có bù điện_dung của mạng ;
+
+5 . 2 . 3 . 2 . Không có bù điện_dung của mạng .
+
+5 . 3 . Các yêu_cầu về điều_kiện vận_hành
+
+5 . 3 . 1 . Tần_số danh định : 50 Hz .
+
+5 . 3 . 2 . Chế_độ làm_việc : Liên_tục .
+
+5 . 3 . 3 . Nhiệt_độ môi_trường :
+
+5 . 3 . 3 . 1 . Loại sử_dụng độc_lập trong mạng điện : Từ - 20 C đến + 40 C ;
+
+5 . 3 . 3 . 2 . Loại được thiết_kế theo dạng khối hoặc tích_hợp sử_dụng bên trong các thiết_bị điện phòng nổ : Đến 60 C .
+
+5 . 3 . 4 . Giá_trị của độ_ẩm tương_đối đến ( 98 2 ) % ở nhiệt_độ 35 C .
+
+5 . 3 . 5 . Điện_áp nguồn dao_động từ 0 , 85 đến 1 , 1 lần giá_trị danh định ;
+
+5 . 3 . 6 . Điện_dung của mạng thay_đổi từ 0 đến 1 , 0 F trên mỗi pha ;
+
+5 . 3 . 7 . Trong môi_trường nguy_hiểm có khí cháy và bụi nổ , hàm_lượng bụi không vượt quá 1 200 mg / m3 .
+
+5 . 4 . Yêu_cầu về vị_trí lắp_đặt
+
+5 . 4 . 1 . Độ nghiêng không quá 15 về mọi phía so với trục thẳng_đứng và ở những khám , trạm và đường lò có kết_cấu chống_giữ đảm_bảo_an_toàn .
+
+5 . 4 . 2 . Khô_ráo và được thông gió đảm_bảo theo quy_định tại Điều 42 Qcvn 01 : 2011 / bct đối_với mỏ than , Điều 43 Qcvn 04 : 2017 / bct đối_với mỏ quặng .
+
+5 . 4 . 3 . Không có tác_động của hơi hoặc các chất_khí ăn_mòn và làm hỏng cách_điện .
+
+5 . 4 . 4 . Độ cao không quá 1 000 m so với mực nước biển đối_với loại sử_dụng độc_lập trong mạng điện .
+
+5 . 5 . Yêu_cầu về kết_cấu
+
+5 . 5 . 1 . Yêu_cầu về bộ_phận nối đất
+
+5 . 5 . 1 . 1 . Các yêu_cầu về nối đất phải tuân_thủ theo quy_định tại khoản 20 Điều 102 Qcvn 01 : 2011 / bct và các Điều 5 . 1 , Điều 5 . 2 , Điều 5 . 4 và Điều 5 . 5 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) .
+
+5 . 5 . 1 . 2 . Vị_trí đấu nối dây tiếp đất phải có màu đỏ .
+
+5 . 5 . 2 . Rơ_le bảo_vệ rò điện phòng nổ sử_dụng trong mỏ hầm_lò phải có_giá đỡ lắp ở phần dưới của vỏ và các móc phía trên để thuận_tiện trong quá_trình lắp_đặt , di_chuyển và vận_hành .
+
+5 . 5 . 3 . Nắp của rơ_le bảo_vệ rò điện phòng nổ phải được khoá liên động về cơ_khí đảm_bảo :
+
+5 . 5 . 3 . 1 . Chỉ mở được khi tay đóng - cắt điện đã ở vị_trí cắt .
+
+5 . 5 . 3 . 2 . Tay đóng - cắt điện không_thể đóng khi nắp đã mở .
+
+5 . 6 . Khi rơ_le bảo_vệ rò ở vị_trí cắt hoặc không làm_việc , nó phải tự_động cắt điện các thiết_bị cấp nguồn cho phụ_tải .
+
+5 . 7 . Các nút bấm kiểm_tra , vị_trí tay đóng cắt của rơ_le bảo_vệ rò điện phòng nổ phải có kí_hiệu thao_tác tương_ứng không_thể tẩy_xoá được .
+
+6 . Yêu_cầu đối_với các dạng bảo_vệ nổ của rơ_le bảo_vệ rò điện phòng nổ
+
+Các dạng bảo_vệ nổ của rơ_le bảo_vệ rò điện phòng nổ sử_dụng trong mỏ hầm_lò có khí cháy và bụi nổ phải được thiết_kế , chế_tạo , thử_nghiệm tuân_thủ theo các tiêu_chuẩn : Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) , Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) , Tcvn 7079-7:2002, Tcvn 7079-11:2002 tương_ứng với các dạng bảo_vệ nổ và các quy_định tại Quy_chuẩn kĩ_thuật này .
+
+6 . 1 . Các bộ_phận chính của vỏ bảo_vệ không xuyên nổ dạng d gồm :
+
+6 . 1 . 1 . Vỏ phòng nổ và khoang_đấu cáp .
+
+6 . 1 . 2 . Cổ cáp đầu_vào và cổ cáp đầu_ra .
+
+6 . 1 . 3 . Sứ xuyên qua thành và vách phòng nổ .
+
+6 . 1 . 4 . Phần_tử xuyên sáng .
+
+6 . 1 . 5 . Nút bấm điều_khiển , tay khoá đóng cắt điện .
+
+6 . 1 . 6 . Cơ_cấu điều_khiển truyền chuyển_động quay hoặc tịnh_tiến .
+
+6 . 1 . 7 . Chốt , lỗ liên_quan và các phần_tử trống .
+
+6 . 1 . 8 . Cơ_cấu bắt chặt đặc_biệt .
+
+6 . 1 . 9 . Cơ_cấu liên động .
+
+6 . 1 . 10 . Nắp mở nhanh .
+
+6 . 2 . Yêu_cầu đối_với vỏ không xuyên nổ dạng d
+
+6 . 2 . 1 . Các dạng mối ghép phòng nổ
+
+Các mối ghép phòng nổ phải tuân_thủ theo quy_định tại Điều 5 , Điều 6 , Điều 7 và Điều 8 Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) và theo các quy_định tại Quy_chuẩn kĩ_thuật chuẩn này .
+
+6 . 2 . 1 . 1 . Mối ghép phòng nổ dạng dạng ống , hình_trụ không có lỗ bắt bu_lông như Hình 1 .
+
+Chú_dẫn :
+
+c - Bề rộng mối ghép phòng nổ phần mặt_phẳng , mm .
+
+d - Bề rộng mặt bích phòng nổ phần hình_trụ , mm .
+
+f - Khoảng hở của mép vát , mm .
+
+L - Bề rộng nhỏ nhất của mối ghép phòng nổ , mm ; L = c + d với điều_kiện : c 3 , 0 mm , f 1 , 0 mm .
+
+T - Phía bên trong của vỏ thiết_bị .
+
+Hình 1 . Mối ghép phòng nổ dạng ống , hình_trụ không có lỗ bắt bu_lông
+
+6 . 2 . 1 . 2 . Mối ghép phòng nổ dạng ống , hình_trụ có lỗ bắt bu_lông như Hình 2 .
+
+Chú_dẫn :
+
+a - Bề rộng mặt bích hình_trụ , mm .
+
+b - Bề rộng mối ghép phần mặt_phẳng đến lỗ bu_lông , mm .
+
+y - Khe_hở của mối ghép hình_trụ , mm .
+
+l - Khoảng_cách nhỏ nhất từ bên trong thiết_bị đến lỗ bu_lông , mm ; l = a + b nếu y 0 , 2 mm .
+
+L - Bề rộng nhỏ nhất của mối ghép phòng nổ , mm .
+
+T - Phía bên trong của vỏ thiết_bị .
+
+Hình 2 . Mối ghép phòng nổ dạng ống , hình_trụ có lỗ bắt bu_lông
+
+6 . 2 . 1 . 3 . Mối ghép phòng nổ dạng mặt bích phẳng như Hình 3 .
+
+Chú_dẫn :
+
+l - Khoảng_cách nhỏ nhất từ bên trong thiết_bị đến lỗ bu_lông , mm .
+
+L - Bề rộng nhỏ nhất của mối ghép phòng nổ , mm .
+
+T - Phía bên trong của vỏ thiết_bị .
+
+Hình 3 . Mối ghép phòng nổ dạng mặt bích phẳng
+
+6 . 2 . 1 . 4 . Khoảng_cách nhỏ nhất từ bên trong thiết_bị đến lỗ bu_lông phải đảm_bảo theo quy_định tại Bảng 1 .
+
+Bảng 1 . Khoảng_cách nhỏ nhất từ bên trong thiết_bị đến lỗ bu_lông .
+
+6 . 2 . 1 . 5 . Mối ghép phòng nổ dạng mặt bích có gioăng đệm như Hình 4 .
+
+Chú_dẫn :
+
+G - Gioăng đệm .
+
+L - Bề rộng nhỏ nhất của mối ghép phòng nổ , mm .
+
+T - Phía bên trong của vỏ thiết_bị .
+
+Hình 4 . Mối ghép phòng nổ dạng mặt bích có gioăng đệm
+
+6 . 2 . 1 . 6 . Mối ghép phòng nổ dạng trục xoay như Hình 5 .
+
+Chú_dẫn :
+
+L - Bề rộng nhỏ nhất của mối ghép phòng nổ , mm .
+
+Trường_hợp cần thao_tác đi qua thành của vỏ không xuyên nổ , chiều rộng của mối ghép phải tuân_thủ theo quy_định tại Điều 7 Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) .
+
+Hình 5 . Mối ghép phòng nổ dạng trục xoay
+
+6 . 2 . 1 . 7 . Mối ghép phòng nổ dạng trục xoay có bạc_lót như Hình 6 .
+
+Chú_dẫn :
+
+L - Bề rộng nhỏ nhất của mối ghép phòng nổ , mm .
+
+Hình 6 . Mối ghép phòng nổ dạng trục xoay có bạc_lót
+
+6 . 2 . 1 . 8 . Mối ghép phòng nổ dạng ren vít tuân_thủ theo Điều 5 . 2 . 8 và Điều 5 . 3 Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 ) , như Hình 7 .
+
+Chú_dẫn :
+
+T - Bước ren .
+
+Y - Chiều dài ăn_khớp của ren , mm .
+
+- Góc đỉnh ren , độ .
+
+Hình 7 . Mối ghép phòng nổ dạng ren , vít
+
+6 . 2 . 2 . Chiều rộng và khe hở nhỏ nhất của mối ghép phòng nổ :
+
+6 . 2 . 2 . 1 . Đối_với các mối ghép dạng : Dạng ống , hình_trụ , mặt bích , trục xoay : Theo quy_định tại Bảng 2 Quy_chuẩn kĩ_thuật này .
+
+Bảng 2 . Chiều rộng và khe hở nhỏ nhất của mối ghép phòng nổ
+
+6 . 2 . 2 . 2 . Đối_với mối ghép dạng ren , vít tuân_thủ theo các yêu_cầu sau :
+
+6 . 2 . 2 . 2 . 1 . Ít_nhất năm ren được ăn_khớp với nhau .
+
+6 . 2 . 2 . 2 . 2 . Bước ren 0 , 7 mm .
+
+6 . 2 . 2 . 2 . 3 . Góc đỉnh răng bằng 60 ( 5 ) .
+
+6 . 2 . 2 . 2 . 4 . Chiều dài ăn_khớp của ren 5 mm với V 100 cm3 .
+
+6 . 2 . 2 . 2 . 5 . Chiều dài ăn_khớp của ren 8 mm với V > 100 cm3 .
+
+6 . 2 . 3 . Cơ_cấu bắt chặt đặc_biệt
+
+6 . 2 . 3 . 1 . Cơ_cấu bắt chặt phải tuân_thủ theo Điều 9 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) .
+
+6 . 2 . 3 . 2 . Đối_với cơ_cấu bắt chặt dạng bảo_vệ nổ d phải tuân_thủ quy_định tại Điều 6 . 2 . 3 . 1 Quy_chuẩn kĩ_thuật này và Điều 11 Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) .
+
+6 . 2 . 3 . 3 . Tất_cả các mối ghép phòng nổ sử_dụng bu_lông bắt chặt phải có các vòng_đệm vênh chống trôi và chỉ mở được khi sử_dụng các dụng_cụ .
+
+6 . 2 . 4 . Nắp mở nhanh phải có cơ_cấu liên động ; chỉ mở được sau khi đã cắt điện và cơ_cấu liên động đã được mở .
+
+6 . 2 . 5 . Cổ cáp vào thiết_bị
+
+Các đầu_vào dẫn cáp đến khoang_đấu cáp của rơ_le bảo_vệ rò điện phòng nổ phải tuân_thủ theo quy_định tại Điều 16 và Phụ_lục A_Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) , Điều 13 Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) và các yêu_cầu sau :
+
+6 . 2 . 5 . 1 . Được bắt chặt vào vỏ thiết_bị và có đầy_đủ các chi_tiết để làm kín và kẹp chặt cáp , một trong các loại cổ cáp như Hình 8 .
+
+Chú_dẫn :
+
+1 - Vòng cao_su bịt kín cáp .
+
+2 - Cáp điện cao_su .
+
+3 - Chi_tiết kẹp cáp .
+
+4 - Chi_tiết vào cáp để ép chặt gioăng đệm cao_su .
+
+5 - Vỏ_thiết_bị .
+
+d - Đường_kính ngoài của cáp điện cao_su , mm
+
+D1 - Đường_kính trong của cổ cáp , mm .
+
+D2 , D3 - Đường_kính ngoài , trong của gioăng đệm cao_su , mm .
+
+Hình 8 . Cổ_cáp khi được đấu nối
+
+6 . 2 . 5 . 2 . Khoảng_cách giữa cổ cáp , gioăng đệm và cáp điện cao_su theo quy_định tại Bảng 3 Quy_chuẩn kĩ_thuật này .
+
+Bảng 3 . Khoảng_cách giữa cổ cáp , gioăng đệm và cáp điện cao_su
+
+6 . 2 . 5 . 3 . Các chi_tiết của cổ cáp phải được vặn chặt để đảm_bảo tính_năng làm kín .
+
+6 . 2 . 5 . 4 . Gioăng cao_su phải đảm_bảo không bị nứt , đàn_hồi tốt , cáp điện không bị kéo căng hoặc bẻ gập trong quá_trình lắp_ráp và vận_hành .
+
+6 . 2 . 5 . 5 . Ở cổ cáp cao_áp có sử_dụng vật_liệu điền đầy cách_điện , khối điền đầy khi đông cứng phải đảm_bảo không có vết nứt .
+
+6 . 2 . 6 . Cổ_cáp chưa được đấu nối phải được bịt kín như Hình 9 hoặc cách khác với sự làm kín tương_tự .
+
+Chú_dẫn :
+
+1 - Nút bịt kín .
+
+2 - Vòng cao_su bịt kín .
+
+3 - Chi_tiết cổ cáp vào , ra để ép kín .
+
+4 - Chi_tiết kẹp cáp .
+
+Hình 9 . Cổ_cáp chưa được đấu nối
+
+6 . 3 . Phần_tử xuyên sáng
+
+Phần_tử xuyên sáng phải tuân_thủ theo quy_định tại Điều 9 Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) và Điều 26 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) .
+
+6 . 4 . Vật_liệu chế_tạo vỏ
+
+6 . 4 . 1 . Vật_liệu chế_tạo phi_kim_loại
+
+Vật_liệu phi_kim_loại được dùng để chế_tạo các chi_tiết , thành_phần và các bộ_phận của vỏ thiết_bị bảo_vệ rò điện phòng nổ phải tuân_thủ theo quy_định tại Điều 7 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) .
+
+6 . 4 . 2 . Vật_liệu chế_tạo kim_loại
+
+Vật_liệu kim_loại được dùng để chế_tạo các chi_tiết và các bộ_phận của vỏ thiết_bị bảo_vệ rò điện phòng nổ phải tuân_thủ theo quy_định tại Điều 8 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 ) .
+
+6 . 5 . Các ống lót ( sứ xuyên ) , cọc đấu dây_dẫn_điện qua các thành và vách của vỏ phải tuân_thủ theo quy_định tại Điều 11 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) và đảm_bảo không bị hư_hỏng trong quá_trình đấu nối các dây_dẫn_điện .
+
+6 . 6 . Các phương_tiện đấu nối và các khoang_đấu cáp phải tuân_thủ theo quy_định tại Điều 14 và Điều 15 Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) .
+
+6 . 7 . Chỉ_số phóng_điện tương_đối của vật_liệu cách_điện sử_dụng trong rơ_le bảo_vệ rò điện phòng nổ phải tuân_thủ theo quy_định tại Điều 4 . 4 . 1 Iec 60079 - 7 : 2015 , chỉ_số phòng điện tương_đối của vật_liệu cách_điện rắn ( cti ) theo quy_định tại Bảng 4 Quy_chuẩn kĩ_thuật này .
+
+Bảng 4 . Chỉ_số phóng_điện tương_đối của vật_liệu cách_điện rắn
+
+Vật_liệu cách_điện được sử_dụng trong các mạch điện làm_việc ở điện_áp vượt quá 250 V hoặc mang dòng_điện lớn hơn 16 A phải có chỉ_số Cti không nhỏ hơn 400 .
+
+6 . 8 . Các yêu_cầu khe hở và chiều dài đường rò
+
+Các yêu_cầu về khe hở trong không_khí giữa hai phần mang điện và chiều dài đường rò dọc theo bề_mặt của vật_liệu cách_điện giữa hai phần dẫn_điện tuân_thủ theo quy_định tại Điều 4 . 3 , 4 . 4 Iec 60079 - 7 : 2015 và theo quy_định tại Bảng 5 Quy_chuẩn kĩ_thuật này .
+
+Bảng 5 . Khe_hở và chiều dài đường rò
+
+6 9 . Yêu_cầu đối_với bộ_phận bảo_vệ điện khoá rò điện có dạng bảo_vệ an_toàn tia lửa " i " phải đảm_bảo các yêu_cầu sau :
+
+6 . 9 . 1 . Cấp bảo_vệ vỏ ngoài của rơ_le bảo_vệ rò điện phòng nổ ( mã Ip ) phải lớn hơn hoặc bằng mức Ip54 .
+
+6 . 9 . 2 . Các bộ_phận , linh_kiện sử_dụng trong các mạch khoá rò điện phải tuân_thủ theo quy_định tại Tcvn 7079-11:2002.
+
+6 . 9 . 3 . Các thông_số R , L & C của mạch khoá rò điện phải đảm_bảo khi mạch được thử_nghiệm tia lửa đốt cháy , đánh_giá theo các yêu_cầu tại Điều 10 . 1 Iec 60079 - 11 : 2015 , kết_quả không làm bốc cháy hỗn_hợp khi thử_nghiệm bởi tia lửa .
+
+6 . 9 . 4 . Các hiệu_ứng về nhiệt_độ_sinh ra trong các mạch khoá rò điện an_toàn tia lửa ở bất_cứ trường_hợp nào phải đảm_bảo không làm bốc cháy hỗn_hợp khí do nóng bề_mặt gây ra theo quy_định tại khoản A . 1 b ) Iec 60079 - 11 : 2015 .
+
+6 . 9 . 5 . Các mạch khoá rò điện phải được cách_li với các mạch an_toàn tia lửa khác và cách_li với các mạch không an_toàn tia lửa theo quy_định tại khoản A . 1 b ) Iec 60079 - 11 : 2015 .
+
+7 . Các yêu_cầu kĩ_thuật đối_với rơ_le bảo_vệ rò điện phòng nổ
+
+7 . 1 . Các thông_số cơ_bản của rơ_le bảo_vệ rò điện phòng nổ
+
+Các thông_số cơ_bản của rơ_le bảo_vệ rò điện phòng nổ và khoá rò phải tuân_thủ theo quy_định tại Bảng 6 Quy_chuẩn kĩ_thuật này .
+
+Bảng 6 . Giá_trị điện_trở_tác_động rò điện , điện_trở_khoá rò điện và thời_gian tác_động
+
+7 . 2 . Yêu_cầu cách_điện
+
+7 . 2 . 1 . Cách_điện của rơ_le bảo_vệ rò điện phải được thử_nghiệm với điện_áp , tần_số nguồn điện xoay chiều 50 Hz trong 1 phút mà không bị đánh thủng hoặc phóng_điện trên bề_mặt của cách_điện .
+
+7 . 2 . 2 . Giá_trị điện_áp thử_nghiệm tần_số công_nghiệp của mạch lực , mạch điều_khiển và mạch phụ có nối với mạch chính phải đáp_ứng các yêu_cầu quy_định tại Bảng 7 Quy_chuẩn kĩ_thuật này .
+
+Bảng 7 . Điện_áp cách_điện và giá_trị điện_áp thử_nghiệm tần_số công_nghiệp .
+
+7 . 2 . 3 . Giá_trị điện_áp thử_nghiệm tần_số công_nghiệp đối_với mạch điều_khiển và mạch phụ không nối với mạch lực phải đảm_bảo yêu_cầu quy_định tại Bảng 8 .
+
+Bảng 8 . Giá_trị điện_áp thử_nghiệm tần_số công_nghiệp đối_với mạch điều_khiển và mạch phụ
+
+7 . 2 . 4 . Giá_trị điện_trở cách_điện
+
+Giá_trị điện_trở cách_điện đối_với các cấp điện_áp danh định khác nhau phải đáp_ứng các quy_định tại Bảng 9 Quy_chuẩn kĩ_thuật này .
+
+Bảng 9 . Giá_trị điện_trở cách_điện
+
+7 . 3 . Yêu_cầu chức_năng của mạch điện
+
+7 . 3 . 1 . Trong phạm_vi giá_trị của điện_áp làm_việc và điện_dung với đất của mạng từ 0 , 1 đến 1 , 0 F / pha , rơ_le bảo_vệ rò điện phòng nổ phải được giám_sát liên_tục mạng điện , giá_trị điện_trở_tác_động rò điện của bảo_vệ theo quy_định tại Bâng 6 Quy_chuẩn kĩ_thuật này .
+
+7 . 3 . 2 . Đối_với bảo_vệ khoá rò điện khi điện_trở cách_điện của mạng cấp ra phụ_tải giảm tới giá_trị cài_đặt bảo_vệ khoá rò điện phải tác_động không cho đóng điện vào mạng phụ_tải ; trở_lại trạng_thái làm_việc khi giá_trị điện_trở cách_điện của mạng ra phụ_tải không lớn hơn 150 % giá_trị điện_trở_tác_động .
+
+Sai_số của điện_trở_tác_động rò điện và điện_trở_khoá rò điện không lớn hơn 20 % .
+
+7 . 3 . 3 . Bộ_phận bù thành_phần điện_dung của dòng_điện rò phải hoạt_động liên_tục và phải tuân_thủ theo các yêu_cầu được thiết_lập trong đặc_tính kĩ_thuật của nhà sản_xuất đối_với các rơ_le bảo_vệ rò điện .
+
+7 . 3 . 4 . Rơ_le bảo_vệ rò điện phòng nổ phải hoạt_động ;
+
+7 . 3 . 4 . 1 . Không quá 0 , 1 giây và có khả_năng ngắt kết_nối_mạng khi điện_áp ở các đầu nối giảm xuống 0 , 6 lần giá_trị điện_áp danh định của mạng .
+
+7 . 3 . 4 . 2 . Ở dòng_điện rò một pha không quá 25 mA , có tính đến dòng_điện phát_hiện , điện_dung và điện_áp nguồn cao nhất .
+
+7 . 3 . 5 . Dòng_điện phát_hiện của rơ_le bảo_vệ rò điện không được lớn hơn 10 mA .
+
+7 . 3 . 6 . Mạch rơ_le khoá rò điện phải đáp_ứng các yêu_cầu :
+
+7 . 3 . 6 . 1 . An_toàn tia lửa ;
+
+7 . 3 . 6 . 2 . Sử_dụng cực dương để nối đất .
+
+7 . 3 . 6 . 3 . Giá_trị điện_áp của nguồn cáp một chiều sử_dụng để phát_hiện sự rò điện của mạng hoặc sự giảm của điện_trở cách_điện với đất không vượt quá 40 Vdc ; dòng_điện được sử_dụng để phát_hiện điện_trở_rò điện hoặc khoá rò điện của cách_điện mạng đối_với đất không quá 5 mA .
+
+7 . 3 . 7 . Rơ_le bảo_vệ rò điện phải có chức_năng tự kiểm_tra đảm_bảo không cho phép đóng điện khi role bị hư_hỏng .
+
+7 . 3 . 8 . Rơ_le bảo_vệ rò điện và khoá rò điện phải có chức_năng kiểm_tra sự hoạt_động của tác_động rò điện và khoá rò điện bằng cách tạo ra sự rò điện nhân_tạo với điện_trở thử có giá_trị bằng 80 % của điện_trở_tác_động .
+
+7 . 4 . Yêu_cầu về cấu_trúc của rơ_le bảo_vệ rò điện phòng nổ
+
+7 . 4 . 1 . Các rơ_le bảo_vệ rò điện được lắp_đặt tích_hợp trong các thiết_bị phòng nổ khác phải được chế_tạo thành khối trong các vỏ có cấp bảo_vệ Ip 54 phù_hợp với Tcvn 4255 : 2008 ( iec 60529 : 2001 ) , các giắc cắm phải có chức_năng không_thể lắp lẫn .
+
+7 . 4 . 2 . Trên vỏ của các rơ_le bảo_vệ rỏ điện phòng nổ hoạt_động độc_lập có vỏ không xuyên nổ dạng d phải có các thiết_bị và cơ_cấu sau :
+
+7 . 4 . 2 . 1 . Đồng_hồ thể_hiện điện_trở cách_điện của lưới_điện ;
+
+7 . 4 . 2 . 2 . Thiết_bị điều_chỉnh bù điện_dung ;
+
+7 . 4 . 2 . 3 . Hiển_thị tín_hiệu màu cho trạng_thái làm_việc và trạng_thái lỗi :
+
+7 . 4 . 2 . 3 . 1 . Đỏ - rò điện ,
+
+7 . 4 . 2 . 3 . 2 . Xanh lục - hoạt_động bình_thường ,
+
+7 . 4 . 2 . 3 . 3 . Vàng - khoá rò điện ;
+
+7 . 4 . 2 . 4 . Nút thử kiểm_tra mô_phỏng rò điện và khoá rò điện ;
+
+7 . 4 . 2 . 5 . Cơ_cấu cực nối đất phụ cho mạch thử rò điện ;
+
+7 . 4 . 2 . 6 . Tay đóng - cắt để đóng , cắt thiết_bị bảo_vệ rò điện ;
+
+7 . 4 . 2 . 7 . Biển cảnh_báo nguy_hiểm Chỉ mở nắp sau khi đã cắt điện ;
+
+7 . 4 . 2 . 8 . Cơ_cấu liên động của nắp mở nhanh với tay đóng cắt điện .
+
+7 . 5 . Việc sửa_chữa các rơ_le bảo_vệ rò điện phòng nổ và khoá rò điện phải tuân_thủ theo các yêu_cầu sau :
+
+7 . 5 . 1 . Kết_quả sửa_chữa không được làm thay_đổi các tính_năng kĩ_thuật cũng như các tính_năng phòng nổ của thiết_bị .
+
+7 . 5 . 2 . Sau khi sửa_chữa rơ_le bảo_vệ rò điện phải được kiểm_tra bởi các tổ_chức kiểm_định .
+
+8 . Các yêu_cầu và phương_pháp kiểm_tra thử_nghiệm
+
+8 . 1 . Yêu_cầu về môi_trường :
+
+8 . 1 . 1 . Nhiệt_độ môi_trường từ - 20 C đến + 40 C ;
+
+8 . 1 . 2 . Giá_trị độ_ẩm tương_đối đến ( 98 2 ) % ở nhiệt_độ 35 C ;
+
+8 . 1 . 3 . Hàm_lượng ôxy là 21 % về thể_tích ;
+
+8 . 1 . 4 . Không có khí cháy , khí độc_hại và hơi ăn_mòn .
+
+8 . 2 . Thiết_bị dụng_cụ thử_nghiệm phải có độ chính_xác phù_hợp để đo các giá_trị của thông_số cần thử_nghiệm .
+
+8 . 3 . Thử_nghiệm các thông_số của rơ_le bảo_vệ rò điện .
+
+8 . 3 . 1 . Thử_nghiệm các thông_số về tính_năng phòng nổ .
+
+8 . 3 . 1 . 1 . Đối_với các rơ_le được chế_tạo để hoạt_động độc_lập phải có dạng bảo_vệ vỏ không xuyên nổ d .
+
+8 . 3 . 1 . 2 . Vỏ bảo_vệ nổ được kiểm_tra và thử_nghiệm thực_hiện theo quy_định tại Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) , Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) , Tcvn 7079-7, Tcvn 7079-11.
+
+8 . 3 . 2 . Kiểm_tra thử_nghiệm các thông_số kĩ_thuật .
+
+8 . 3 . 2 . 1 . Kiểm_tra tay khoá đóng - cắt và cơ_cấu liên động .
+
+8 . 3 . 2 . 1 . 1 . Khi cắt điện bằng tay đóng - cắt của rơ_le bảo_vệ rò điện phải lập_tức cắt điện .
+
+8 . 3 . 2 . 1 . 2 . Nắp mở nhanh chỉ có_thể mở được khi tay đóng - cắt ở vị_trí cắt và cơ_cấu liên động đã được giải_phóng .
+
+8 . 3 . 2 . 1 . 3 . Khi nắp mở nhanh đã mở tay đóng - cắt không thể_thao_tác .
+
+8 . 3 . 2 . 2 . Thử_nghiệm độ bền cách_điện
+
+8 . 3 . 2 . 2 . 1 . Độ bền cách_điện của rơ_le được kiểm_tra bằng cách thử_nghiệm với điện_áp cao , tần_số công_nghiệp , thời_gian thử_nghiệm 1 phút , giá_trị thử_nghiệm quy_định tại Bảng 7 và Bảng 8 Quy_chuẩn kĩ_thuật này . Kết_quả không đánh thủng cách_điện hoặc phóng_điện trên bề_mặt cách_điện .
+
+8 . 3 . 2 . 2 . 2 . Điện_trở cách_điện của rơ_le bảo_vệ rò điện và khoá rò điện phải được kiểm_tra , giá_trị cho phép quy_định tại Bảng 9 Quy_chuẩn kĩ_thuật này .
+
+8 . 3 . 2 . 3 . Thử_nghiệm sự hoạt_động tin_cậy của rơ_le bảo_vệ rò được tiến_hành ở điện_áp danh định , khi bấm nút kiểm_tra rơ_le bảo_vệ rò điện tác_động và cắt điện , rơ_le khoá rò điện tác_động không cho phép đóng điện , các đèn Chỉ_thị phải báo sáng .
+
+8 . 3 . 3 . 4 . Thử_nghiệm rò điện 3 pha đối_xứng
+
+8 . 3 . 3 . 4 . 1 . Thử_nghiệm được tiến_hành ở điện_áp danh định ;
+
+8 . 3 . 3 . 4 . 2 . Sơ_đồ thử_nghiệm mô_phỏng theo Hình 10 ;
+
+8 . 3 . 3 . 4 . 3 . Bộ điện_trở thử_nghiệm điều_chỉnh được thang đo 0 , 1 k ;
+
+8 . 3 . 3 . 4 . 4 . Thử_nghiệm được thực_hiện với giá_trị điện_dung của tụ_điện 0 , 22 F và điều_chỉnh mức bù với thiết_bị bù không tự_động , điều_chỉnh giảm_giá_trị điện_trở_giảm dần theo mỗi bậc là 0 , 1 k cho đến khi bộ bảo_vệ tác_động .
+
+Ghi lại các kết_quả thử_nghiệm : điện_trở_tác_động , dòng rò ứng với điện_trở_tác_động .
+
+Điện_trở_tác_động là giá_trị nhỏ nhất thu được của 3 phép thử_nghiệm
+
+Hình 10 . Sơ_đồ mô_phỏng thử_nghiệm rò 3 pha đối_xứng
+
+8 . 3 . 3 . 5 . Thử_nghiệm rò điện 1 pha
+
+8 . 3 . 3 . 5 . 1 . Thử_nghiệm được tiến_hành ở điện_áp danh định ;
+
+8 . 3 . 3 . 5 . 2 . Sơ_đồ thử_nghiệm mô_phỏng theo Hình 11 ;
+
+8 . 3 . 3 . 5 . 3 . Bộ điện_trở thử_nghiệm điều_chỉnh được , thang đo 0 , 1 k ;
+
+8 . 3 . 3 . 5 . 4 . Bộ tụ_điện có_thể điều_chỉnh đến các giá_trị điện_dung 0 , 22 F , 0 , 47 F , 0 , 69 F và 1 F .
+
+8 . 3 . 3 . 5 . 5 . Thử_nghiệm được thực_hiện với 4 giá_trị điện_dung của tụ_điện và điều_chỉnh mức bù với thiết_bị bù không tự_động , điều_chỉnh giảm_giá_trị điện_trở theo chiều giảm dần theo mỗi bậc 0 , 1 kQ cho đến khi bộ bảo_vệ tác_động .
+
+Ghi lại các kết_quả với từng giá_trị của tụ_điện : điện_trở_tác_động , dòng rò ứng với điện_trở_tác_động .
+
+Điện_trở_tác_động là giá_trị nhỏ nhất thu được trong các phép thử .
+
+Dòng_điện rò lâu_dài là giá_trị lớn nhất thu được trong các phép thử .
+
+Hình 11 . Sơ_đồ mô_phỏng thử_nghiệm rò điện 1 pha
+
+8 . 3 . 3 . 6 . Xác_định thời_gian cắt với điện_trở_rò 1 pha 1 k
+
+8 . 3 . 3 . 6 . 1 . Thử_nghiệm được tiến_hành ở điện_áp làm_việc danh định
+
+8 . 3 . 3 . 6 . 2 . Xác_định thời_gian cắt của bảo_vệ khi người chạm vào lưới_điện bằng cách sử_dụng điện_trở thử_nghiệm tương_đương với điện_trở của con_người ( 1 k ) .
+
+8 . 3 . 3 . 6 . 3 . Sơ_đồ mô_phỏng thử_nghiệm xác_định thời_gian cắt theo Hình 12 .
+
+8 . 3 . 3 . 6 . 4 . Thử_nghiệm được thực_hiện với giá_trị điện_dung của tụ_điện 0 , 22 F , 0 , 47 F , 0 , 69 F và 1 F và điều_chỉnh mức bù phù_hợp với loại bù không tự_động .
+
+Ghi lại các kết_quả : thời_gian tác_động_tác_động , dòng rò ứng với điện_trở_tác_động .
+
+Thời_gian lớn nhất của các giá_trị thu được khi thực_hiện 10 lần thí_nghiệm trong cùng điều_kiện sẽ được lấy làm thời_gian tác_động riêng của rơ_le rò .
+
+Dòng rò là giá_trị lớn nhất đo được .
+
+Hình 12 . Sơ_đồ mô_phỏng xác_định thời_gian cắt khi rò điện 1k
+
+8 . 3 . 3 . 5 . Thử tác_động tin_cậy của rơ_le rò khi dao_động điện_áp
+
+Điều_chỉnh điện_áp lưới đến điện_áp danh định và đo điện_trở_tác_động rò và giá_trị tác_động của điện_trở_khoá rò . Sau đó , tăng điện_áp lưới lên 110 % điện_áp danh định và giảm xuống 85 % điện_áp danh định và đo giá_trị của điện_trở_tác_động rò điện và giá_trị tác_động của điện_trở_khoá rò điện tương_ứng , phải đáp_ứng các yêu_cầu quy_định tại Bảng 6 Quy_chuẩn kĩ_thuật này .
+
+8 . 3 . 3 . 6 . Thử_nghiệm tác_động của rơ_le rò khi mô_phỏng sự_cố hồ_quang chạm đất .
+
+Sử_dụng sơ_đồ mô_phỏng tương_đương có nguồn thử_nghiệm có trung_tính nối đất với điện_dung của mạng 1 F / pha , điều_chỉnh điện_áp nguồn cấp thử_nghiệm thấp đến 60 % điện_áp danh định của mạng ( mô_phỏng trạng_thái điện_áp khi có sự_cố hồ_quang hai pha chạm đất ) thiết_bị bảo_vệ rò điện phải tác_động với thời_gian không quá 0 , 1 s trong 10 lần thử_nghiệm liên_tiếp .
+
+8 . 3 . 3 . 7 . Kiểm_tra chức_năng tự kiểm_tra của rơ_le bảo_vệ rò điện :
+
+8 . 3 . 3 . 7 . 1 . Thử_nghiệm được tiến_hành ở điện_áp danh định ;
+
+8 . 3 . 3 . 7 . 2 . Rơ_le bảo_vệ rò điện được thử_nghiệm với nguồn cung_cấp điện bị cắt , rơ_le sẽ hoạt_động để cắt nguồn cung_cấp điện .
+
+8 . 3 . 3 . 8 . Thử_nghiệm xác_định các thông_số của rơ_le khoá rò điện
+
+8 . 3 . 3 . 8 . 1 . Thử_nghiệm được thực_hiện_tại điện_áp danh định ;
+
+8 . 3 . 3 . 8 . 2 . Sử_dụng đồng_hồ đo điện_áp , dòng_điện để xác_định các thông_số của bộ khoá rò điện .
+
+8 . 3 . 3 . 8 . 2 . 1 . Cực dương phải ở trên dây nối_đất ;
+
+8 . 3 . 3 . 8 . 2 . 2 . Điện_áp lớn nhất không vượt quá 40 Vdc ;
+
+8 . 3 . 3 . 8 . 2 . 3 . Dòng_điện ngắn mạch nhỏ hơn hoặc bằng 5 mA .
+
+8 . 3 . 3 . 9 . Thử_nghiệm trị_số tác_động của rơ_le khoá rò điện .
+
+8 . 3 . 3 . 9 . 1 . Thử_nghiệm được tiến_hành ở điện_áp danh định ;
+
+8 . 3 . 3 . 9 . 2 . Điện_trở_tác_động của rơ_le khoá rò điện với điện_dung của mạng bằng không , bằng cách kết_nối mạch ra phụ_tải với điện_trở_rò vượt quá điện_trở_tác_động . Sau đó , điện_trở_rò điện được giảm dần từng bậc 0 , 1 k đến giá_trị tác_động đèn tín_hiệu sáng . Giá_trị nhỏ nhất thu được từ ba lần thí_nghiệm được lấy làm điện_trở_tác_động khoá rò điện . Ghi lại giá_trị dòng_điện tác_động của bộ khoá rò điện .
+
+8 . 3 . 3 . 10 . Thử_nghiệm trị_số trở_về của rơ_le khoá rò điện
+
+8 . 3 . 3 . 10 . 1 . Thử_nghiệm được tiến_hành ở điện_áp làm_việc danh định ;
+
+8 . 3 . 3 . 10 . 2 . Điện_trở_rò tại đó rơ_le khoá rò điện_trở_lại trạng_thái ban_đầu với điện_dung của mạng bằng không , điện_trở_rò điện tăng theo từng bậc 0 , 1 k từ giá_trị đã tác_động khoá rò điện đến giá_trị mà tại đó nó trở về trạng_thái ban_đầu đến tín_hiệu tắt , giá_trị trở về không lớn 150 % giá_trị tác_động ( Rtv 1 , 5 Rtđ ) .
+
+8 . 3 . 3 . 11 . Thử_nghiệm an_toàn tia_lửa của mạch khoá rò điện .
+
+Phương_pháp thử_nghiệm thực_hiện theo quy_định tại Điều 9 . 1 và Điều 9 . 2 Tcvn 7079-11:2002 ( iec 60079 - 11 : 2011 ) .
+
+Iii . Quy_định Về Quản_lý
+
+9 . Quy_định về nhãn
+
+9 . 1 . Nội_dung ghi trên nhãn
+
+Thông_tin ghi trên nhãn của rơ_le bảo_vệ rò điện phòng nổ sử_dụng trong mỏ hầm_lò phải tuân_thủ theo quy_định tại <NĐ rel="DSD"> Nghị_định số 43/2017/NĐ-CP ngày 14 tháng 4 năm 2017 </NĐ> của Chính_phủ quy_định về nhãn hàng_hoá đã được sửa_đổi , bổ_sung bởi <NĐ rel="DC"> Nghị_định số 111/2021/NĐ-CP ngày 09 tháng 12 năm 2021 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều <NĐ rel="DSD"> Nghị_định số 43/2017/NĐ-CP ngày 14 tháng 4 năm 2017 </NĐ> của Chính_phủ về nhãn hàng_hoá và các bộ_phận của rơ_le bảo_vệ rò điện phải thể_hiện các nội_dung sau :
+
+9 . 1 . 1 . Kiểu , loại ;
+
+9 . 1 . 2 . Điện_áp danh định , V ;
+
+9 . 1 . 3 . Tần_số danh định , Hz ;
+
+9 . 1 . 4 . Dạng bảo_vệ nổ ;
+
+9 . 1 . 5 . Cấp bảo_vệ bằng vỏ ngoài ( mã Ip ) ;
+
+9 . 1 . 6 . Số chứng_chỉ phòng nổ ;
+
+9 . 1 . 7 . Số chế_tạo của nhà_máy ;
+
+9 . 1 . 8 . Thông_số của mạch an_toàn tia_lửa ( nếu có ) ;
+
+9 . 1 . 9 . Năm sản_xuất ;
+
+9 . 1 . 10 . Khối_lượng , kg .
+
+9 . 2 . Chất_liệu và vị_trí của nhãn
+
+Nhãn được làm_bằng thép trắng hoặc đồng dày 1 , 5 mm , các thông_tin thể_hiện trong bảng được khắc có chiều sâu không nhỏ hơn 0 , 5 mm , phải được bố_trí ở nơi dễ nhìn và dễ thấy được bắt chặt vào vỏ bằng phương_pháp đinh_tán hoặc vít .
+
+9 . 3 . Tấm sơ_đồ nguyên_lí điện
+
+Sơ_đồ nguyên_lí điện mô_tả nguyên_lí hoạt_động và cách đấu nối của thiết_bị bảo_vệ rò điện phải được gắn bên trong thành của vỏ .
+
+10 . Quy_định về hợp quy
+
+10 . 1 . Rơ_le bảo_vệ rò điện phòng nổ thuộc phạm_vi điều_chỉnh của Quy_chuẩn này phải công_bố hợp quy phù_hợp với các quy_định về kĩ_thuật an_toàn tại Phần_ii của Quy_chuẩn kĩ_thuật này , gắn dấu hợp quy ( dấu Cr ) trước khi lưu_thông trên thị_trường .
+
+10 . 2 . Rơ_le bảo_vệ rò điện phòng nổ nhập_khẩu phải thực_hiện đăng_kí kiểm_tra nhà_nước về chất_lượng hàng_hoá nhập_khẩu theo quy_định tại <TT rel="DC"> Thông_tư số 36/2019/TT-BCT ngày 29 tháng 11 năm 2019 </TT> của Bộ Công_thương quy_định quản_lí chất_lượng sản_phẩm , hàng_hoá nhóm 2 thuộc trách_nhiệm quản_lí của Bộ Công_thương .
+
+10 . 3 . Công_bố hợp quy
+
+10 . 3 . 1 . Việc công_bố hợp quy rơ_le bảo_vệ rò điện phòng nổ phải dựa trên kết_quả chứng_nhận của tổ_chức chứng_nhận đã đăng_kí lĩnh_vực hoạt_động theo quy_định tại <NĐ rel="DSD"> Nghị_định 107/2016/NĐ-CP ngày 01 tháng 7 năm 2016 </NĐ> của Chính_phủ quy_định kinh_doanh dịch_vụ đánh_giá sự phù_hợp đã được sửa_đổi , bổ_sung bởi <NĐ rel="DC"> Nghị_định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 </NĐ> của Chính_phủ sửa_đổi , bổ_sung , bãi_bỏ một_số quy_định về điều_kiện đầu_tư , kinh_doanh trong lĩnh_vực quản_lí nhà_nước của Bộ Khoa_học và Công_nghệ và một_số quy_định về kiểm_tra chuyên_ngành ( sau đây viết tắt là <NĐ rel="None"> Nghị_định số 107/2016/NĐ-CP </NĐ>) hoặc được thừa_nhận theo quy_định của <TT rel="DC"> Thông_tư số 27/2007/TT-BKHCN ngày 31 tháng 10 năm 2007 </TT> của Bộ_trưởng Bộ Khoa_học và Công_nghệ hướng_dẫn việc kí_kết và thực_hiện các Hiệp_định và thoả_thuận thừa_nhận lẫn nhau kết_quả đánh_giá sự phù_hợp ( sau đây viết tắt là <TT rel="DC"> Thông_tư số 27/2007/TT-BKHCN </TT>).
+
+10 . 3 . 2 . Chứng_nhận hợp quy
+
+Chứng_nhận hợp quy đối_với rơ_le bảo_vệ rò điện phòng nổ sản_xuất trong nước và nhập_khẩu thực_hiện theo phương_thức 5 Thử_nghiệm mẫu điển_hình và đánh_giá quá_trình sản_xuất ; giám_sát thông_qua thử_nghiệm mẫu lấy tại nơi sản_xuất hoặc trên thị_trường hoặc lô hàng nhập_khẩu kết_hợp với đánh_giá quá_trình sản_xuất hoặc phương_thức 7 Thử_nghiệm , đánh_giá lô sản_phẩm , hàng_hoá tại cơ_sở sản_xuất theo quy_định tại khoản 1 Điều 5 <TT rel="DC"> Thông_tư số 28/2012/TT-BKHCN </TT>.
+
+10 . 3 . 3 . Thử_nghiệm phục_vụ_việc chứng_nhận phải được thực_hiện bởi một trong các tổ_chức sau :
+
+10 . 3 . 3 . 1 . Thử_nghiệm đối_với rơ_le bảo_vệ rò điện phòng nổ sản_xuất trong nước : Tổ_chức thử_nghiệm theo quy_định tại <NĐ rel="DC"> Nghị_định số 107/2016/NĐ-CP </NĐ>, <NĐ rel="DC"> Nghị_định số 154/2018/NĐ-CP </NĐ> hoặc tổ_chức thử_nghiệm được Bộ Công_thương chỉ_định theo quy_định tại <TT rel="DC"> Thông_tư số 36/2019/TT-BCT </TT> hoặc tổ_chức được thừa_nhận theo quy_định của <TT rel="DC"> Thông_tư số 27/2007/TT-BKHCN </TT>.
+
+10 . 3 . 3 . 2 . Thử_nghiệm đối_với rơ_le bảo_vệ rò điện phòng nổ nhập_khẩu : Tổ_chức thử_nghiệm được Bộ Công_thương chỉ_định theo quy_định tại <TT rel="DC"> Thông_tư số 36/2019/TT-BCT </TT> và <NĐ rel="DC"> Nghị_định số 154/2018/NĐ-CP ngày 11 tháng 9 năm 2018 </NĐ> của Chính_phủ hoặc tổ_chức được thừa_nhận theo quy_định của <TT rel="DC"> Thông_tư số 27/2007/TT-BKHCN </TT>.
+
+10 . 3 . 4 . Dấu_hợp quy phải tuân_thủ theo quy_định tại khoản 2 Điều 4 quy_định về chứng_nhận hợp chuẩn , chứng_nhận hợp quy và công_bố hợp chuẩn , công_bố hợp quy ban_hành kèm theo <TT rel="DC"> Thông_tư số 28/2012/TT-BKHCN </TT>.
+
+10 . 3 . 5 . Trình_tự , thủ_tục và hồ_sơ công_bố hợp quy
+
+Trình_tự , thủ_tục và hồ_sơ công_bố hợp quy đối_với rơ_le bảo_vệ rò điện phòng nổ sản_xuất trong nước và nhập_khẩu thực_hiện theo <TT rel="DC"> Thông_tư số 36/2019/TT-BCT ngày 29 tháng 11 năm 2019 </TT> của Bộ_trưởng Bộ Công_thương quy_định quản_lí chất_lượng sản_phẩm , hàng_hoá thuộc trách_nhiệm quản_lí của Bộ Công_thương .
+
+11 . Yêu_cầu về hồ_sơ quản_lí rơ_le bảo_vệ rò điện phòng nổ sử_dụng trong mỏ hầm_lò
+
+11 . 1 . Phải có đầy_đủ các tài_liệu kĩ_thuật của nhà chế_tạo , gồm : Hướng_dẫn sử_dụng , bảo_dưỡng và bảo_quản . Trường_hợp tài_liệu kĩ_thuật tiếng nước_ngoài phải có bản dịch sang tiếng Việt .
+
+11 . 2 . Tổ_chức , cá_nhân sử_dụng rơ_le bảo_vệ rò điện phòng nổ phải lập hồ_sơ quản_lí từ khi bắt_đầu đưa vào sử_dụng , cụ_thể :
+
+11 . 2 . 1 . Đối_với rơ_le bảo_vệ rò điện phòng nổ được thiết_kế để sử_dụng độc_lập trong mạng điện , phải có :
+
+11 . 2 . 1 . 1 . Biện_pháp thi_công , lắp_đặt của rơ_le bảo_vệ rò điện phòng nổ được phê_duyệt .
+
+11 . 2 . 1 . 2 . Hồ_sơ nghiệm_thu sau lắp_đặt .
+
+11 . 2 . 1 . 3 . Hồ_sơ kiểm_định , thử_nghiệm hiệu_chỉnh .
+
+11 . 2 . 1 . 4 . Quy_trình vận_hành .
+
+11 . 2 . 1 . 5 . Sổ ghi kết_quả kiểm_tra kĩ_thuật an_toàn và theo_dõi tình_trạng hoạt_động của rơ_le bảo_vệ rò điện phòng nổ sử_dụng trong mỏ hầm_lò .
+
+11 . 2 . 1 . 6 . Nội_quy an_toàn , quy_trình lắp_đặt , kiểm_tra , vận_hành , bảo_dưỡng , sửa_chữa và bảo_quản rơ_le bảo_vệ rò điện phòng nổ sử_dụng trong mỏ hầm_lò .
+
+11 . 2 . 2 . Đối_với rơ_le bảo_vệ rò điện phòng nổ được thiết_kế theo dạng khối hoặc tích_hợp sử_dụng bên trong các thiết_bị điện phòng nổ khác thì hồ_sơ quản_lí phải được lập theo thiết_bị mà rơ_le bảo_vệ rò điện_tích_hợp trong thiết_bị đó .
+
+12 . Yêu_cầu về kiểm_tra trong quá_trình vận_hành
+
+12 . 1 . Rơ_le bảo_vệ rò điện phòng nổ sử_dụng trong mỏ hầm_lò phải được kiểm_tra trong quá_trình vận_hành theo quy_định tại Quy_chuẩn kĩ_thuật này .
+
+12 . 2 . Kiểm_tra bằng trực_quan : Kiểm_tra xác_định , mà không cần sử_dụng tiếp_cận bằng thiết_bị hoặc các dụng_cụ .
+
+12 . 3 . Kiểm_tra trực_tiếp : Kiểm_tra những bộ_phận ở bên ngoài bằng trực_quan và xác_định các khuyết_tật bằng cách sử_dụng dụng_cụ , thiết_bị . Kiểm_tra trực_tiếp không được mở vỏ hoặc cắt điện thiết_bị .
+
+12 . 4 . Kiểm_tra chi_tiết : Kiểm_tra trong đó bao_gồm những nội_dung của kiểm_tra trực_tiếp và xác_định các khuyết_tật bằng sử_dụng dụng_cụ , thiết_bị . Kiểm_tra chi_tiết phải cắt điện và mở vỏ thiết_bị .
+
+13 . Thời_hạn và nội_dung kiểm_tra
+
+13 . 1 . Trách_nhiệm và tần_suất kiểm_tra :
+
+13 . 1 . 1 . Người vận_hành hoặc thợ_điện thường_trực kiểm_tra hàng ca vào đầu các ca làm_việc .
+
+13 . 1 . 2 . Phó_quản_đốc cơ_điện_phân_xưởng hoặc người được uỷ_quyền kiểm_tra hàng tuần .
+
+13 . 1 . 3 . Trưởng_phòng cơ_điện hoặc người được uỷ_quyền kiểm_tra hàng quý .
+
+13 . 1 . 4 . Phó_giám_đốc cơ_điện hoặc những người được chỉ_định kiểm_tra hàng năm .
+
+13 . 2 . Nội_dung kiểm_tra thực_hiện theo quy_định tại Phụ_lục A Quy_chuẩn kĩ_thuật này .
+
+13 . 3 . Kết_quả kiểm_tra phải được :
+
+13 . 3 . 1 . Ghi vào_sổ kiểm_tra theo quy_định tại Phụ_lục C Quy_chuẩn kĩ_thuật này .
+
+13 . 3 . 2 . Kết_luận về tình_trạng kĩ_thuật an_toàn rơ_le bảo_vệ rò điện phòng nổ sử_dụng trong mỏ hầm_lò và chỉ cho phép đưa vào sử_dụng hoặc tiếp_tục vận_hành khi đảm_bảo kĩ_thuật an_toàn .
+
+13 . 4 . Khi phát_hiện rơ_le không đảm_bảo_an_toàn , người theo_dõi , vận_hành phải dừng hoạt_động và báo_cáo người có trách_nhiệm để xử_lý .
+
+14 . Yêu_cầu về thử_nghiệm và kiểm_định
+
+14 . 1 . Theo các loại_hình kiểm_định , các phép thử_nghiệm , kiểm_định phải được thực_hiện theo hướng_dẫn kĩ_thuật , phương_pháp thử , quy_trình thử_nghiệm và các thiết_bị thử_nghiệm cho trong các Tiêu_chuẩn Tcvn 4255 : 2008 ( iec 60529 : 2001 ) , Tcvn 10888 - 0 : 2015 ( iec 60079 - 0 : 2011 ) , Tcvn 10888 - 1 : 2015 ( iec 60079 - 1 : 2014 ) , Tcvn 7079-7:2002, Tcvn 7079-11:2002, Tcvn 7079-17:2003, Iec 60079 - 7 : 2015 , Iec 60079 - 11 : 2011 , Iec 60079 - 17 : 2013 và các yêu_cầu trong quy_chuẩn này .
+
+14 . 1 . 1 . Các hạng_mục và thông_số cụ_thể của các bước kiểm_định , thử_nghiệm được thực_hiện theo hướng_dẫn của các tiêu_chuẩn kĩ_thuật được áp_dụng và theo tài_liệu hướng_dẫn của nhà chế_tạo .
+
+14 . 1 . 2 . Các phương_tiện đo ( đồng_hồ đo U , l , f phương_tiện đo điện_trở cách_điện , nhiệt_độ , độ_ẩm , khí mê tan ) dùng trong phép kiểm_tra , thử_nghiệm , kiểm_định tại Quy_chuẩn kĩ_thuật này phải được kiểm_định , hiệu chuẩn , thử_nghiệm theo quy_định pháp_luật về đo_lường .
+
+14 . 2 . Báo_cáo , đánh_giá kết_quả thử_nghiệm , kiểm_định
+
+14 . 2 . 1 . Thử_nghiệm , kiểm_định đạt yêu_cầu khi : Đáp_ứng các yêu_cầu kĩ_thuật của các tiêu_chuẩn , Quy_chuẩn kĩ_thuật được áp_dụng tại Bảng B Phụ_lục B Quy_chuẩn kĩ_thuật này .
+
+14 . 2 . 2 . Thử_nghiệm , kiểm_định không đạt yêu_cầu khi : Không đáp_ứng một trong các yêu_cầu kĩ_thuật của các tiêu_chuẩn , Quy_chuẩn kĩ_thuật được áp_dụng tại Bảng B Phụ_lục B Quy_chuẩn kĩ_thuật này .
+
+Iv . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+15 . Trách_nhiệm của tổ_chức , cá_nhân
+
+15 . 1 . Các tổ_chức , cá_nhân có liên_quan đến sản_xuất , nhập_khẩu , thử_nghiệm , kiểm_định , chứng_nhận , giám_định sử_dụng và các cá_nhân khác có liên_quan đến rơ_le bảo_vệ rò điện phòng nổ trong mỏ hầm_lò phải tuân_thủ theo các quy_định tại Quy_chuẩn kĩ_thuật này .
+
+15 . 2 . Tổ_chức , cá_nhân sử_dụng rơ_le bảo_vệ rò điện phòng nổ sử_dụng trong mỏ hầm_lò phải :
+
+15 . 2 . 1 . Thường_xuyên kiểm_tra rơ_le bảo_vệ rò điện phòng nổ theo quy_định , kịp_thời báo_cáo , xử_lí khi phát_hiện sự_cố , biểu_hiện mất an_toàn trong quá_trình vận_hành .
+
+15 . 2 . 2 . Sửa_chữa , bảo_dưỡng , thử_nghiệm , kiểm_định rơ_le bảo_vệ rò điện phòng nổ theo quy_định tại Quy_chuẩn kĩ_thuật này và các yêu_cầu của văn_bản pháp_luật khác có liên_quan .
+
+15 . 2 . 3 . Lập hồ_sơ theo_dõi , quản_lí và sử_dụng an_toàn rơ_le bảo_vệ rò điện phòng nổ sử_dụng trong mỏ hầm_lò theo quy_định tại Quy_chuẩn kĩ_thuật này .
+
+15 . 3 . Các tổ_chức thử_nghiệm , kiểm_định
+
+Tổ_chức thử_nghiệm , kiểm_định phải thực_hiện các nội_dung quy_định tại Quy_chuẩn kĩ_thuật này và phải chịu trách_nhiệm về các kết_quả thử_nghiệm , kiểm_định theo quy_định hiện_hành .
+
+V . Tổ_chức Thực_hiện
+
+16 . Tổ_chức thực_hiện
+
+16 . 1 . Cục Kỹ_thuật an_toàn và Môi_trường công_nghiệp , Bộ Công_thương có trách_nhiệm :
+
+16 . 1 . 1 . Hướng_dẫn , tổ_chức triển_khai thực_hiện các quy_định tại Quy_chuẩn kĩ_thuật này .
+
+16 . 1 . 2 . Thanh_tra , kiểm_tra việc thực_hiện các nội_dung được quy_định tại Quy_chuẩn kĩ_thuật này đối_với các tổ_chức có liên_quan tới thiết_bị bảo_vệ rò điện phòng nổ sử_dụng trong hầm_lò .
+
+16 . 2 . Sở Công_thương các tỉnh , thành_phố theo chức_năng , quyền_hạn tổ_chức thanh_tra , kiểm_tra việc thực_hiện các nội_dung được quy_định tại Quy_chuẩn kĩ_thuật này .
+
+17 . Hiệu_lực thi_hành
+
+17 . 1 . Quy_chuẩn kĩ_thuật này có hiệu_lực thi_hành kể từ ngày 01 tháng 07 năm 2023 .
+
+17 . 2 . Trong trường_hợp các văn_bản quy_phạm_pháp_luật , quy_chuẩn , tiêu_chuẩn được dẫn chiếu tại Quy_chuẩn kĩ_thuật này được sửa_đổi , bổ_sung , thay_thế_thì áp_dụng theo các quy_định của văn_bản mới_đó .
+
+17 . 3 . Tổ_chức , cá_nhân trong quá_trình thực_hiện Quy_chuẩn kĩ_thuật này , trường_hợp có phát_sinh khó_khăn , vướng_mắc trong quá_trình thực_hiện đề_nghị phản_ánh về Bộ Công_thương để xem_xét , giải_quyết . / .

@@ -1,0 +1,781 @@
+Thông_tư số 15/2020/tt-btttt ngày 09 tháng 07 năm 2020 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều Luật tiêu_chuẩn và quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về pin lithium cho thiết_bị cầm tay .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về pin lithium cho thiết_bị cầm tay ( qcvn 101 : 2020 / bt ) .
+
+Điều 2 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2021 .
+
+2 . Thông_tư số 07/2016/TT-BTTTT ngày 17 tháng 3 năm 2016 của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_chuẩn kĩ_thuật quốc_gia về pin lithium cho thiết_bị cầm tay hết hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2021 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 101 : 2020 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Pin Lithium Cho Thiết_bị Cầm_tay
+
+National technical regulation on lithium batteries for handheld equipments
+
+Lời_nói_đầu
+
+Qcvn 101 : 2020 / bt thay_thế Qcvn 101 : 2016 / bt .
+
+Qcvn 101 : 2020 / bt được xây_dựng trên cơ_sở Iec 61960 - 3 : 2017 và Tcvn 11919 - 2 : 2017 ( iec 62133 - 2 : 2017 ) .
+
+Qcvn 101 : 2020 / bt do Viện Khoa_học Kỹ_thuật Bưu_điện biên_soạn , Vụ Khoa_học và Công_nghệ trình_duyệt , Bộ Khoa_học và Công_nghệ thẩm_định , Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành kèm theo Thông_tư số / 2020 / t - bt ngày_tháng năm 2020 .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Pin Lithium Cho Thiết_bị Cầm_tay
+
+National technical regulation on lithium batteries for handheld equipments
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn này bao_gồm các yêu_cầu kĩ_thuật tối_thiểu làm cơ_sở kĩ_thuật cho việc quản_lý , đánh_giá chất_lượng pin lithium cho thiết_bị cầm tay gồm pin lithium rời hoặc lắp trong điện_thoại_di_động , máy_tính bảng và máy_tính xách tay .
+
+Quy_chuẩn này áp_dụng đối_với sản_phẩm , hàng_hoá pin lithium có mã_số Hs quy_định tại Phụ_lục B .
+
+Chú_thích : Quy_chuẩn không áp_dụng đối_với pin lithium rời là pin sạc dự_phòng .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn này được áp_dụng đối_với các tổ_chức , cá_nhân Việt_nam và nước_ngoài có hoạt_động_sản_xuất , kinh_doanh pin lithium cho thiết_bị cầm tay thuộc phạm_vi điều_chỉnh của Quy_chuẩn này trên lãnh_thổ Việt_nam .
+
+1 . 3 . Tài_liệu viện_dẫn
+
+Tcvn 7909-4-2:2015 ( iec 61000 - 4 - 2 : 2008 ) Tương_thích điện_từ ( emc ) - Phần 4-2: Phương_pháp đo và thử - Thử miễn_nhiễm đối_với hiện_tượng phóng tĩnh_điện .
+
+1 . 4 . Giải_thích thuật_ngữ
+
+1 . 4 . 1 . Điện_áp danh định
+
+Điện_áp được sử_dụng ghi trên nhãn_mác của pin .
+
+Chú_thích 1 : Điện_áp danh định của tế_bào lithium thứ cấp được quy_định trong Bảng 1 .
+
+Chú_thích 2 : Điện_áp danh định của pin gồm n dãy tế_bào nối nối_tiếp với nhau bằng n lần điện_áp danh định của một tế_bào đơn .
+
+1 . 4 . 2 . Điện_áp cuối
+
+Điện_áp chỉ_điểm dừng của quá_trình phóng_điện trong quá_trình kiểm_tra thời_gian phóng_điện của tế_bào hoặc pin .
+
+1 . 4 . 3 . Dung_lượng danh định
+
+Dung_lượng tích điện C5 ( Ah ) được nhà sản_xuất công_bố , mà một tế_bào đơn hoặc một pin có_thể cung_cấp suốt 5 h liên_tục , khi nạp , phóng và lưu_trữ trong các điều_kiện được quy_định tại 2 . 8 . 1 . 2 . 1 .
+
+1 . 4 . 4 . Dung_lượng phóng
+
+Dung_lượng của tế_bào / pin trong quá_trình phóng_điện .
+
+1 . 4 . 5 . Dung_lượng nạp
+
+Dung_lượng của tế_bào / pin trong quá_trình nạp điện .
+
+1 . 4 . 6 . Điện_trở trong
+
+Điện_trở trong của tế_bào / pin , được nhà sản_xuất công_bố .
+
+1 . 4 . 7 . Chu_kì sống
+
+Số chu_kì nạp / phóng mà tế_bào / pin có_thể chịu được trước khi dung_lượng có_ích bị suy_giảm đáng_kể .
+
+1 . 4 . 8 . Tế_bào thứ cấp
+
+Tế_bào cơ_sở cung_cấp một nguồn năng_lượng điện bằng cách chuyển_đổi trực_tiếp từ năng_lượng_hoá_học , bao_gồm các điện_cực , tấm cách_điện , chất điện_ly , vỏ và đầu cực được thiết_kế để nạp điện .
+
+1 . 4 . 9 . Pin lithium thứ cấp
+
+Pin lithium kết_hợp của một hoặc nhiều tế_bào lithium thứ cấp và sẵn_sàng trong việc sử_dụng , là sản_phẩm đã được đóng_gói , bố_trí đầu_cuối và có_thể có các thiết_bị điều_khiển điện_tử .
+
+1 . 4 . 10 . Tế_bào lithium thứ cấp
+
+Tế_bào đơn thứ cấp mà năng_lượng điện được chuyển_hoá từ quá_trình oxy hoá và khử lithium . Nó không được sử_dụng trong các ứng_dụng vì chưa được đóng_gói , bố_trí đầu_cuối và thiết_bị điều_khiển điện_tử .
+
+1 . 4 . 11 . Tế_bào lithium ion polymer
+
+Tế_bào sử_dụng chất điện_li polyme dạng gel hoặc chất điện_li rắn mà không sử_dụng chất điện_li lỏng .
+
+1 . 4 . 12 . Sử_dụng theo dự_kiến
+
+Việc sử_dụng một sản_phẩm , quy_trình hoặc dịch_vụ phù_hợp các thông_số kĩ_thuật , hướng_dẫn và thông_tin do nhà sản_xuất cung_cấp .
+
+1 . 4 . 13 . Sử_dụng không đúng theo dự_kiến
+
+Việc sử_dụng một sản_phẩm , quy_trình hoặc dịch_vụ không theo cách nhà sản_xuất dự_kiến , nhưng có_thể do những hành_động của con_người gây ra ( có_thể dự_đoán dễ_dàng ) .
+
+1 . 4 . 14 . Rò_rỉ
+
+Việc thoát ra có_thể nhìn thấy của chất điện_phân lỏng ngoài dự_kiến .
+
+1 . 4 . 15 . Nổ
+
+Việc hư_hỏng xảy ra khi tế_bào hoặc vỏ pin bung ra dữ_dội và các thành_phần chính bị bật ra .
+
+1 . 4 . 16 . Cháy
+
+Việc phát ra ngọn lửa từ tế_bào hoặc pin .
+
+1 . 4 . 17 . Vỡ
+
+Hỏng cơ_khí tế_bào hoặc vỏ pin do nguyên_nhân bên trong hoặc bên ngoài , gây ra hở vật_liệu hoặc tràn nhưng không có vật_liệu bắn ra .
+
+1 . 4 . 18 . Thoát_khí
+
+Việc xả áp_suất thừa bên trong tế_bào hoặc pin theo dự_kiến của thiết_kế nhằm ngăn vỡ hoặc nổ .
+
+1 . 4 . 19 . Điện_áp nạp giới_hạn trên
+
+Điện_áp nạp cao nhất trong phạm_vi điện_áp hoạt_động của tế_bào do nhà sản_xuất tế_bào quy_định .
+
+1 . 4 . 20 . Dòng nạp tối_đa
+
+Dòng nạp tối_đa trong phạm_vi dòng_điện hoạt_động của tế_bào do nhà sản_xuất tế_bào quy_định .
+
+1 . 4 . 21 . An_toàn
+
+Không chấp_nhận rủi_ro .
+
+1 . 4 . 22 . Rủi_ro
+
+Kết_hợp các khả_năng gây ra tổn_hại và mức_độ nghiêm_trọng của tổn_hại đó .
+
+1 . 4 . 23 . Tổn_hại
+
+Tổn_thương về thể_chất hoặc tổn_hại cho sức_khoẻ và tài_sản của con_người hay môi_trường .
+
+1 . 4 . 24 . Tế_bào hình_trụ
+
+Tế_bào có dạng hình_trụ trong đó chiều cao tổng_thể không nhỏ hơn đường_kính .
+
+1 . 4 . 25 . Tế_bào hình lăng_trụ
+
+Tế_bào có dạng hình_hộp mà các mặt của nó có dạng hình chữ_nhật .
+
+Chú_thích : Tế_bào hình lăng_trụ có vỏ kim_loại cứng hoặc nhựa tổng_hợp .
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Yêu_cầu về các điện_cực
+
+Đầu dẫn các điện_cực dương / âm của tế_bào / pin phải bảo_đảm sáng , sạch , không có vết rỉ và tiếp điện tốt .
+
+2 . 2 . Yêu_cầu về cảm_quan
+
+Cảm_quan của tế_bào / pin phải sạch , không được ố bẩn , không có vết muối và móp méo không gây cản_trở trong quá_trình sử_dụng , nhãn_mác phải rõ_ràng .
+
+2 . 3 . Yêu_cầu về kí_hiệu và nhãn_mác
+
+2 . 3 . 1 . Ký_hiệu
+
+Pin được kí_hiệu như sau :
+
+N1 A1 A2 A3 N2 / N3 / N4 - N5
+
+trong đó
+
+- N1 là số_lượng dãy các tế_bào được kết_nối trong pin ;
+
+- A1 kí_hiệu điện_cực âm trong đó :
+
+I là cacbon ;
+
+L là kim_loại Li hoặc hợp_kim Li ;
+
+T là titan ;
+
+X là các nguyên_tố khác .
+
+- A2 kí_hiệu điện_cực dương trong đó :
+
+C là co ban ;
+
+F là sắt ;
+
+Fp là sắt phốt_phát ;
+
+N là niken ;
+
+M là man gan ;
+
+Mp là man gan phốt_phát ;
+
+T là titan ;
+
+V là vanadium ;
+
+X là các nguyên_tố khác .
+
+- A3 kí_hiệu hình_dạng của tế_bào trong đó
+
+R là hình_trụ ;
+
+P là hình lăng_trụ ;
+
+- N2 là số_nguyên làm_tròn đến giá_trị tiếp_theo của đường_kính tối_đa ( nếu là R ) hoặc độ dày ( nếu là P ) , đơn_vị tính là mm ;
+
+- N3 là số_nguyên làm_tròn đến giá_trị tiếp_theo của độ rộng tối_đa ( nếu là P ) ( n3 không được thể_hiện nếu là R ) , đơn_vị tính là mm ;
+
+- N4 là số_nguyên làm_tròn đến giá_trị tiếp_theo của chiều cao tối_đa , đơn_vị tính là mm ;
+
+Chú_thích : Nếu kích_thước nhỏ hơn 1 mm đơn_vị được sử_dụng là 1/10 mm và số đơn được viết là tN ;
+
+- N5 là số của hàng tế_bào nối song_song , giá_trị này lớn hơn 1 ( không_thể_hiện nếu giá_trị là 1 ) .
+
+Ví_dụ 1 : Icr19 / 66 kí_hiệu tế_bào thứ cấp Li - ion hình_trụ , với co ban là cực dương , đường_kính tối_đa nằm trong khoảng 18 mm đến 19 mm và chiều cao tối_đa trong khoảng 65 mm đến 66 mm .
+
+Ví_dụ 2 : Icp9 / 35 / 150 kí_hiệu tế_bào thứ cấp Li - ion hình lăng_trụ , với co ban là cực dương , độ dày tối_đa nằm trong khoảng 8 mm đến 9 mm , độ rộng tối_đa trong khoảng 34 mm đến 35 mm , và chiều cao tối_đa từ 149 mm đến 150 mm .
+
+Ví_dụ 3 : ICPt9 / 35 / 48 kí_hiệu tế_bào thứ cấp Li - ion hình lăng_trụ , với co ban là cực dương , độ dày tối_đa nằm trong khoảng 0 , 8 mm đến 0 , 9 mm , độ rộng tối_đa trong khoảng 34 mm đến 35 mm , và chiều cao tối_đa từ 47 mm đến 48 mm .
+
+Ví_dụ 4 : 1icr20 / 70 kí_hiệu của tế_bào thứ cấp Li - ion hình_trụ với một tế_bào đơn , với co ban là cực dương , đường_kính tối_đa nằm trong khoảng 19 mm đến 20 mm , và chiều cao tối_đa từ 69 mm đến 70 mm .
+
+Ví_dụ 5 : 2icp20 / 34 / 70 kí_hiệu của tế_bào thứ cấp Li - ion hình lăng_trụ với 2 dãy tế_bào được kết_nối , co ban là cực dương , độ dày tối_đa nằm trong khoảng 19 mm đến 20 mm , độ rộng tối_đa trong khoảng 33 mm đến 34 mm , và chiều cao tối_đa từ 69 mm đến 70 mm .
+
+Ví_dụ 6 : 1icp20 / 68 / 70 - 2 kí_hiệu của tế_bào thứ cấp Li - ion hình lăng_trụ với 2 hàng tế_bào được kết_nối , co ban là cực dương , độ dày tối_đa nằm trong khoảng 19 mm đến 20 mm , độ rộng tối_đa trong khoảng 67 mm đến 68 mm , và chiều cao tối_đa từ 69 mm đến 70 mm .
+
+Ví_dụ 7 : Khi các pin có kí_hiệu khác nhau như Icr19 / 66 và Icp9 / 35/150 được kết_nối song_song trong cùng một vỏ , việc đánh_dấu cho trường_hợp được này là ( icr19 / 66 ) ( icp9 / 35 / 150 ) .
+
+Chú_thích 2 : Ngoài các kí_hiệu trên , các kí_hiệu khác có_thể được sử_dụng theo thoả_thuận giữa nhà sản_xuất và người sử_dụng .
+
+2 . 3 . 2 . Nhãn_mác
+
+Pin phải được ghi nhãn_mác rõ_ràng và bền bao_gồm các thông_tin sau đây :
+
+- Li hoặc Li - ion ( có_thể nạp lại ) thứ cấp .
+
+- Ký_hiệu pin được quy_định trong điều 2 . 3 . 1 .
+
+- Điện_cực .
+
+- Ngày sản_xuất .
+
+- Tên hoặc mã của nhà sản_xuất .
+
+- Dung_lượng danh định .
+
+- Điện_áp danh định .
+
+2 . 4 . Yêu_cầu đối_với tế_bào
+
+Bảng 1 quy_định các thông_số kĩ_thuật của một_số tế_bào lithium thứ cấp và Bảng 2 quy_định các hoá_chất của các tế_bào lithium thứ cấp được chuẩn_hoá và sử_dụng trong quá_trình lắp_ráp pin .
+
+Bảng 1 - Thông_số kĩ_thuật tế_bào lithium thứ cấp cho các thiết_bị cầm tay
+
+Bảng 2 - Các hoá_chất của các tế_bào lithium thứ cấp cho các thiết_bị cầm tay
+
+2 . 5 . Yêu_cầu về đặc_tính điện
+
+2 . 5 . 1 . Điện_áp danh định
+
+Giá_trị điện_áp danh định do nhà sản_xuất công_bố .
+
+2 . 5 . 2 . Dung_lượng danh định
+
+Giá_trị dung_lượng danh định do nhà sản_xuất công_bố .
+
+2 . 5 . 3 . Dung_lượng phóng
+
+Giá_trị dung_lượng phóng phải không nhỏ hơn giá_trị quy_định tại Bảng 6 .
+
+2 . 5 . 4 . Dung_lượng nạp
+
+Giá_trị dung_lượng nạp phải không nhỏ hơn giá_trị quy_định tại Bảng 6 .
+
+2 . 5 . 5 . Điện_trở trong ( pin )
+
+Giá_trị điện_trở trong phải không lớn hơn giá_trị do nhà sản_xuất công_bố .
+
+2 . 5 . 6 . Độ bền các chu_kì sống
+
+Độ bền chu_kì sống phải không nhỏ hơn giá_trị quy_định tại Bảng 6 .
+
+2 . 5 . 7 . Phóng tĩnh_điện - ESD ( pin )
+
+Pin và mạch bảo_vệ hoạt_động bình_thường dưới tác_động của phóng tĩnh_điện .
+
+2 . 6 . Yêu_cầu về đặc_tính an_toàn
+
+An_toàn đối_với tế_bào / pin phải được đảm_bảo trong các điều_kiện áp_dụng :
+
+- Sử_dụng theo dự_kiến ;
+
+- Sử_dụng không theo đúng dự_kiến .
+
+2 . 6 . 1 . Sử_dụng theo dự_kiến
+
+2 . 6 . 1 . 1 . Nạp liên_tục tại điện_áp không đổi ( tế_bào )
+
+Việc nạp liên_tục các tế_bào tại điện_áp không đổi không được gây ra cháy , nổ hoặc rò_rỉ .
+
+2 . 6 . 1 . 2 . Vỏ pin trong điều_kiện sử_dụng tại nhiệt_độ môi_trường cao ( pin )
+
+Vỏ pin không bị biến_dạng vật_lí dẫn đến việc_làm lộ ra các thành_phần bảo_vệ bên trong của pin và các tế_bào .
+
+2 . 6 . 2 . Sử_dụng không đúng theo dự_kiến
+
+2 . 6 . 2 . 1 . Ngắn mạch ngoài
+
+Việc ngắn mạch tại các cực âm và cực dương của tế_bào / pin tại nhiệt_độ quy_định không gây ra cháy hoặc nổ .
+
+2 . 6 . 2 . 2 . Rơi tự_do
+
+Việc_làm rơi tế_bào / pin không gây ra cháy hoặc nổ .
+
+2 . 6 . 2 . 3 . Quá_nhiệt ( tế_bào )
+
+Quá nhiệt tế_bào không gây ra cháy hoặc nổ .
+
+2 . 6 . 2 . 4 . Ép ( tế_bào )
+
+Việc ép tế_bào không gây ra cháy hoặc nổ .
+
+2 . 6 . 2 . 5 . Nạp quá_tải ( pin )
+
+Việc nạp pin dài hơn thời_gian do nhà sản_xuất quy_định không gây cháy hoặc nổ .
+
+2 . 6 . 2 . 6 . Phóng cưỡng_bức ( tế_bào )
+
+Một tế_bào phải chịu được việc đảo_ngược cực mà không gây cháy hoặc nổ . Có_thể_tích_hợp thiết_bị bảo_vệ bên trong pin hoặc chuỗi tế_bào .
+
+2 . 6 . 2 . 7 . Đo cơ_học ( pin )
+
+2 . 6 . 7 . 1 . Đo rung
+
+Việc rung lắc pin trong quá_trình vận_chuyển và sử_dụng không gây ra cháy , nổ , vỡ , rò_rỉ và thoát khí .
+
+2 . 6 . 7 . 2 . Đo xóc
+
+Việc xóc pin trong quá_trình vận_chuyển và sử_dụng không gây ra rò_rỉ , thoát khí , vỡ , nổ và cháy .
+
+2 . 6 . 2 . 8 . Ngắn_mạch trong cưỡng_bức ( tế_bào )
+
+Việc ngắn mạch trong cưỡng_bức đối_với tế_bào hình_trụ hoặc lăng_trụ không gây ra cháy . Nhà sản_xuất tế_bào phải lưu_trữ hồ_sơ chứng_minh đáp_ứng yêu_cầu này . Việc đánh_giá thiết_kế mới sẽ được thực_hiện bởi nhà sản_xuất tế_bào hoặc đơn_vị thử_nghiệm bên thứ ba .
+
+Chú_thích : Không áp_dụng yêu_cầu này đối_với các tế_bào lithium ion polymer
+
+2 . 7 . Yêu_cầu về dung_sai thông_số_đo
+
+Độ chính_xác của giá_trị được kiểm_định hoặc được đo trong quy_định hoặc thực_tế phải nằm trong dung_sai :
+
+a ) 1 % đối_với điện_áp ;
+
+b ) 1 % đối_với dòng_điện ;
+
+c ) 1 % đối_với dung_lượng ;
+
+d ) 2 C đối_với nhiệt_độ ;
+
+e ) 0 , 1 % đối_với thời_gian ;
+
+f ) 0 , 1 mm đối_với kích_thước .
+
+Dung_sai trên bao_gồm cả sai_số của thiết_bị đo , kĩ_thuật đo và các sai_số khác trong quá_trình đo .
+
+Cung_cấp tên các thiết_bị đo đã sử_dụng trong báo_cáo kết_quả đo .
+
+2 . 8 . Phương_pháp đo đặc_tính điện
+
+2 . 8 . 1 . Đo thử điện
+
+Mẫu thử có thời_hạn không vượt quá 2 tháng ( 60 ngày ) tính từ ngày sản_xuất .
+
+Dòng nạp và dòng phóng cho phép trong quá_trình đo thử phải căn_cứ vào dung_lượng danh định C5 ( Ah ) , các dòng này là bội_số của It ( a ) , trong đó It ( a ) = C5 ( Ah ) / 1h .
+
+Giá_trị nhỏ nhất khi đo quy_định trong Bảng 6 . Số_lượng mẫu thử và trình_tự kiểm_tra mô_tả trong Bảng 5 .
+
+2 . 8 . 1 . 1 . Thủ_tục nạp điện cho mục_đích đo thử
+
+Trước khi nạp , mẫu thử được phóng tại nhiệt_độ 20 C 5 C với một dòng không đổi là 0 , 2 It ( a ) đến khi hạ xuống điện_áp cuối theo quy_định .
+
+Nếu không có quy_định khác , mẫu thử được nạp bằng phương_pháp do nhà sản_xuất quy_định tại nhiệt_độ 20 C 5 C .
+
+2 . 8 . 1 . 2 . Hiệu_suất phóng
+
+2 . 8 . 1 . 2 . 1 . Hiệu_suất phóng tại 20 C
+
+Mục_đích phép đo thử này kiểm_chứng dung_lượng danh định của mẫu thử .
+
+Bước 1 : Mẫu thử được nạp theo quy_định trong điều 2 . 8 . 1 . 1 .
+
+Bước 2 : Mẫu thử được lưu_trữ tại nhiệt_độ 20 C 5 C trong khoảng thời_gian từ 1 h đến 4 h .
+
+Bước 3 : Mẫu thử được phóng_điện tại nhiệt_độ 20 C 5 C , với dòng_điện không đổi là 0 , 2 It ( A ) , cho đến khi điện_áp bằng điện_áp phóng cuối quy_định .
+
+Bước 4 : Dung_lượng ( Ah ) thu_nhận được trong bước 3 phải không được nhỏ hơn dung_lượng danh định do nhà sản_xuất công_bố . Các bước từ 1 đến 4 có_thể được lặp lại tới bốn lần nếu cần_thiết để đáp_ứng yêu_cầu này .
+
+2 . 8 . 1 . 2 . 2 . Hiệu_suất phóng tại - 20 C
+
+Phép đo thử này kiểm_chứng dung_lượng danh định của mẫu thử tại nhiệt_độ thấp .
+
+Bước 1 : Mẫu thử nạp theo quy_định trong điều 2 . 8 . 1 . 1 .
+
+Bước 2 : Mẫu thử được lưu_trữ tại nhiệt_độ - 20 C 2 C trong khoảng thời_gian từ 16 h đến 24 h .
+
+Bước 3 : Mẫu thử được phóng_điện tại nhiệt_độ - 20 C 2 C , với một dòng_điện không đổi là 0 , 2 It ( A ) , cho đến khi điện_áp bằng điện_áp phóng cuối quy_định .
+
+Bước 4 : Dung_lượng ( Ah ) thu_nhận được trong bước 3 phải không được nhỏ hơn dung_lượng quy_định tại Bảng 6 .
+
+2 . 8 . 1 . 2 . 3 . Hiệu_suất phóng mức cao tại 20 C
+
+Phép đo thử này kiểm_chứng dung_lượng danh định của mẫu thử khi phóng tại mức cao . Phép đo thử này không cần_thiết nếu mẫu thử không được thiết_kế để sử_dụng tại mức này .
+
+Bước 1 : Mẫu thử nạp theo quy_định trong điều 2 . 8 . 1 . 1 .
+
+Bước 2 : Mẫu thử được lưu_trữ tại nhiệt_độ 20 C 5 C trong khoảng thời_gian từ 1 h đến 4 h .
+
+Bước 3 : Mẫu thử được phóng tại nhiệt_độ 20 C 5 C , tại một dòng_điện không đổi là 1 , 0 It ( A ) cho đến khi điện_áp bằng điện_áp phóng cuối quy_định .
+
+Bước 4 : Dung_lượng ( Ah ) thu_nhận được trong bước 3 phải không được nhỏ hơn dung_lượng được quy_định tại Bảng 6 .
+
+2 . 8 . 1 . 3 . Dung_lượng nạp phục_hồi và duy_trì
+
+Phép đo thử này xác_định dung_lượng duy_trì của mẫu thử sau khi lưu_trữ trong một khoảng thời_gian dài và dung_lượng có_thể được phục_hồi sau một lần nạp tiếp_theo .
+
+Bước 1 : Mẫu thử nạp theo quy_định trong điều 2 . 8 . 1 . 1 .
+
+Bước 2 : Mẫu thử được lưu_giữ tại nhiệt_độ 20 C 5 C trong thời_gian 28 ngày .
+
+Bước 3 : Mẫu thử được phóng_điện tại nhiệt_độ 20 C 5 C , với dòng_điện không đổi là 0 , 2 It ( A ) , cho đến khi điện_áp bằng điện_áp phóng cuối quy_định .
+
+Bước 4 : Dung_lượng ( Ah ) cung_cấp tại bước 3 trong 28 ngày phải không được nhỏ hơn dung_lượng được quy_định tại Bảng 6 .
+
+Bước 5 : Mẫu thử được nạp theo quy_định trong điều 2 . 8 . 1 . 1 , việc phóng tại bước 3 sẽ thực_hiện trong khoảng thời_gian 24 h sau đó .
+
+Bước 6 : Mẫu thử được lưu_giữ tại nhiệt_độ 20 C 5 C trong khoảng thời_gian từ 1 h đến 4 h .
+
+Bước 7 : Mẫu thử được phóng tại nhiệt_độ 20 C 5 C với dòng_điện là 0 , 2 It ( A ) , cho đến khi điện_áp bằng điện_áp phóng cuối quy_định .
+
+Bước 8 : Dung_lượng phục_hồi ( Ah ) thu_nhận được trong suốt bước 7 phải không được nhỏ hơn dung_lượng được quy_định tại Bảng 6 .
+
+2 . 8 . 1 . 4 . Dung_lượng nạp phục_hồi sau khi lưu_trữ trong thời_gian dài
+
+Phép đo này xác_định dung_lượng của mẫu thử ở lần nạp tiếp_theo sau khi lưu_trữ trong thời_gian dài ở mức nạp 50 % .
+
+Bước 1 : Mẫu thử nạp theo quy_định trong điều 2 . 8 . 1 . 1 .
+
+Bước 2 : Mẫu thử được phóng_điện tại 20 C 5 C , với một dòng_điện không đổi là 0 , 2 It ( A ) trong 2 , 5 h .
+
+Bước 3 : Mẫu thử được lưu_giữ tại nhiệt_độ 40 C 2 C trong thời_gian 90 ngày .
+
+Bước 4 : Mẫu thử được nạp tại nhiệt_độ 20 C 5 C sử_dụng phương_pháp nạp do nhà sản_xuất công_bố .
+
+Bước 5 : Mẫu thử được giữ tại nhiệt_độ 20 C 5 C trong khoảng thời_gian từ 1 h đến 4 h .
+
+Bước 6 : Mẫu thử được phóng tại nhiệt_độ 20 C 5 C với dòng_điện là 0 , 2 It ( A ) , cho đến khi điện_áp bằng điện_áp phóng cuối quy_định .
+
+Bước 7 : Dung_lượng ( Ah ) thu_nhận được trong suốt bước 6 phải không được nhỏ hơn dung_lượng được quy_định tại Bảng 6 . Các bước 4 , bước 5 và bước 6 có_thể được lặp_lại đến bốn lần nếu cần_thiết để đáp_ứng yêu_cầu này .
+
+2 . 8 . 1 . 5 . Độ bền các chu_kì sống
+
+Phép đo này xác_định số chu_kì nạp / phóng mà mẫu thử có_thể chịu được trước khi dung_lượng có_ích bị suy_giảm đáng_kể hoặc dung_lượng còn lại sau số chu_kì sống được quy_định .
+
+Trước khi nạp , mẫu thử được phóng_điện tại nhiệt_độ 20 C 5 C với dòng_điện là 0 , 2 It ( A ) , cho đến khi điện_áp bằng điện_áp cuối quy_định .
+
+Sau đó , phép đo độ bền được thực_hiện , bất_kể cách bố_trí tế_bào , tại nhiệt_độ môi_trường 20 C 5 C . Quá_trình nạp và phóng được thực_hiện phù_hợp với các điều_kiện quy_định tại Bảng 3 hoặc Bảng 4 .
+
+2 . 8 . 1 . 5 . 1 . Độ bền các chu_kì sống tại mức 0 , 2 It ( a )
+
+Bảng 3 - Độ bền chu_kì sống tại mức 0 , 2 It ( a )
+
+Tổng_số chu_kì sống thu được khi kết_thúc phép đo không được nhỏ hơn giá_trị quy_định trong Bảng 6 .
+
+2 . 8 . 1 . 5 . 2 . Độ bền các chu_kì sống tại mức 0 , 5 It ( a ) ( thủ_tục đo tăng_tốc )
+
+Để tăng_tốc_độ đo , áp_dụng phương_pháp đo này thay_thế cho phương_pháp đo trong điều 2 . 8 . 1 . 5 . 1 .
+
+Bảng 4 - Độ bền chu_kì sống tại mức 0 , 5 It ( a )
+
+Dung_lượng còn lại đo được khi kết_thúc phép đo tuân theo các bước 1 , 2 và 3 trong điều 2 . 8 . 1 . 2 . 1 không được nhỏ hơn giá_trị quy_định trong Bảng 6 .
+
+2 . 8 . 1 . 6 . Điện_trở trong ( pin )
+
+Phép đo thử này xác_định điện_trở trong của pin bằng phương_pháp sử_dụng dòng_điện xoay chiều ( a . c ) hoặc dòng_điện một_chiều ( d . c ) .
+
+Khi cần , điện_trở trong được đo bằng cả hai phương_pháp a . c và d . c trên cùng một loại pin , trong đó phương_pháp a . c được sử_dụng trước , tiếp_theo là phương_pháp d . c . Không nhất_thiết phải nạp và phóng trong quá_trình tiến_hành giữa các phương_pháp trên .
+
+Bước 1 : Mẫu thử nạp theo quy_định trong điều 2 . 8 . 1 . 1 ;
+
+Bước 2 : Mẫu thử được giữ tại nhiệt_độ 20 C 5 C trong thời_gian từ 1 h đến 4 h ;
+
+Bước 3 : Giá_trị của điện_trở trong phải đo theo phương_pháp đo trong điều 2 . 8 . 1 . 6 . 1 và 2 . 8 . 1 . 6 . 2 tại nhiệt_độ 20 C 5 C .
+
+2 . 8 . 1 . 6 . 1 . Phương_pháp đo điện_trở trong sử_dụng dòng xoay chiều
+
+Khi xuất_hiện một dòng_điện hiệu_dụng xoay chiều Ia thì điện_áp hiệu_dụng xoay chiều Ua được xác_định tại tần_số 1 , 0 kHz 0 , 1 kHz trong khoảng từ 1 s đến 5 s .
+
+Tất_cả các phép đo điện_áp được thực_hiện_tại thiết_bị đầu_cuối của mẫu thử độc_lập với các tiếp_xúc được sử_dụng để cho dòng_điện đi qua .
+
+Điện_trở trong Rac được xác_định bằng :
+
+Rac = Ua / Ia ( )
+
+trong đó :
+
+- Ua là điệp áp hiệu_dụng xoay chiều ;
+
+- Ia là dòng_điện hiệu_dụng xoay chiều .
+
+Chú_thích 1 : Dòng_điện xoay chiều được lựa_chọn sao cho điện_áp đỉnh nhỏ hơn 20 mV .
+
+Chú_thích 2 : Trong thực_tế , phương_pháp trên sử_dụng để đo điện_trở tại một tần_số quy_định , giá_trị này xấp_xỉ bằng giá_trị điện_trở do nhà sản_xuất công_bố .
+
+2 . 8 . 1 . 6 . 2 . Phương_pháp đo điện_trở trong sử_dụng dòng một_chiều
+
+Pin được phóng tại dòng_điện I1 = 0 , 2 It ( A ) . Trong thời_gian 10 0 , 1 s tại cuối quá_trình phóng , điện_áp phóng U1 được đo và ghi lại trong điều_kiện có tải . Dòng phóng được tăng tới giá_trị I2 = 1 , 0 It ( A ) và điện_áp phóng U2 được đo và ghi lại trong thời_gian 1 0 , 1 s cuối của quá_trình phóng trong điều_kiện có tải .
+
+Tất_cả các phép đo điện_áp được thực_hiện_tại thiết_bị đầu_cuối của pin độc_lập với các tiếp_xúc được sử_dụng để cho dòng_điện đi qua .
+
+Điện_trở trong của tế_bào được tính_toán như sau :
+
+Rdc = ( u1 - U2 ) / ( i2 - I1 ) ( )
+
+Trong đó
+
+- I1 , I2 là dòng_điện phóng không đổi ;
+
+- U1 , U2 là điện_áp đo được tương_ứng trong quá_trình phóng .
+
+2 . 8 . 1 . 7 . Phóng tĩnh_điện - ESD ( pin )
+
+Phép đo này kiểm_tra khả_năng của pin chịu được phóng tĩnh_điện .
+
+Phép đo này được thực_hiện trên pin có chứa các thiết_bị bảo_vệ như đi ốt , bóng bán_dẫn hoặc mạch điện_tích_hợp .
+
+Phép đo này được thực_hiện phù_hợp Tcvn 7909-4-2:2015 với các yêu_cầu về phóng_điện .
+
+Pin được đo thử tại điện_áp phóng tiếp_xúc là 4 kV và phóng trong không_khí là 8 kV .
+
+2 . 8 . 2 . Thủ_tục đo và điều_kiện đối_với mẫu thử
+
+2 . 8 . 2 . 1 . Thủ_tục đo thử
+
+Số_lượng mẫu thử và thủ_tục để thực_hiện đo trong Bảng 5 .
+
+2 . 8 . 2 . 2 . Điều_kiện đối_với mẫu thử
+
+2 . 8 . 2 . 2 . 1 . Kích_thước
+
+Kích_thước của mẫu thử không được vượt quá quy_định của nhà sản_xuất và giá_trị tại Bảng 1 .
+
+2 . 8 . 2 . 2 . 2 . Đo thử điện
+
+a ) Dung_lượng danh định của mẫu thử được nhà sản_xuất công_bố và nằm trong các quy_định tại 2 . 8 . 1 . 2 đến 2 . 8 . 1 . 7 .
+
+b ) Để đáp_ứng các yêu_cầu của quy_chuẩn nảy , tất_cả các mẫu thử phải đáp_ứng các quy_định tại 2 . 8 . 1 . 2 đến 2 . 8 . 1 . 7 .
+
+2 . 8 . 2 . 2 . 3 . Mẫu thử có điều_kiện
+
+Các mẫu thử được coi như là mẫu thử có điều_kiện khi hoàn_thành phép đo dung_lượng nạp phục_hồi sau khi lưu_trữ trong khoảng thời_gian dài tại 2 . 8 . 1 . 4 và phép đo độ bền các chu_kì sống tại 2 . 8 . 1 . 5 nếu :
+
+a ) 20 % của số chu_kì cần kiểm_tra của việc đo độ bền được hoàn_thành và dung_lượng đo được trong bất_kì quá_trình phóng nào lớn hơn 85 % dung_lượng danh định
+
+b ) các yêu_cầu đối_với tất_cả các phép đo thử quy_định tại 2 . 8 . 1 được đáp_ứng .
+
+Bảng 5 - Số_lượng mẫu thử và trình_tự các phép đo thử
+
+Bảng 6 - Yêu_cầu tối_thiểu cho các chủng_loại tế_bào / pin lithium thứ cấp
+
+2 . 9 . Phương_pháp đo đặc_tính an_toàn
+
+2 . 9 . 1 . Điều_kiện đo thử
+
+Thực_hiện phép đo với số_lượng mẫu thử như quy_định trong Bảng 7 , mẫu thử có thời_hạn sản_xuất không vượt quá 6 tháng . Thực_hiện các phép đo tại nhiệt_độ môi_trường 20 C 5 C_trừ trường_hợp phép đo có quy_định khác .
+
+Bảng 7 - Số_lượng mẫu thử
+
+2 . 9 . 2 . Thủ_tục nạp cho mục_đích đo thử
+
+2 . 9 . 2 . 1 . Thủ_tục thứ nhất
+
+( Thủ_tục nạp này áp_dụng cho các mục không được quy_định tại 2 . 9 . 2 . 2 ) .
+
+Trừ trường_hợp có quy_định khác , các thủ_tục nạp cho mục_đích đo trong quy_chuẩn này được tiến_hành tại nhiệt_độ môi_trường 20 C 5 C , sử_dụng phương_pháp nạp do nhà sản_xuất quy_định .
+
+Trước khi nạp , mẫu thử được phóng tại nhiệt_độ 20 C 5 C với dòng không đổi là 0 , 2 It ( a ) đến khi hạ xuống điện_áp cuối theo quy_định .
+
+2 . 9 . 2 . 2 . Thủ_tục thứ hai
+
+( Thủ_tục này chỉ áp_dụng cho các mục 2 . 9 . 4 . 1 , 2 . 9 . 4 . 4 , 2 . 9 . 4 . 5 và 2 . 9 . 4 . 9 ) .
+
+Sau khi ổn_định trong 1 h tại nhiệt_độ đo thử cao nhất và trong 4 h tại nhiệt_độ đo thử thấp nhất được quy_định trong Bảng 8 , mẫu thử được nạp điện bằng cách sử_dụng một điện_áp nạp được giới_hạn trên và một dòng nạp tối_đa , đến khi dòng nạp giảm xuống đến giá_trị 0 , 05 It ( A ) , sử_dụng phương_pháp nạp điện_áp không đổi .
+
+Bảng 8 - Điều_kiện đối_với thủ_tục nạp
+
+Hình 1 và Hình 2 quy_định vùng hoạt_động của quá_trình phóng , nạp .
+
+Hình 1 - Vùng hoạt_động của các tế_bào lithium ion trong quá_trình nạp
+
+Hình 2 - Vùng hoạt_động của các tế_bào lithium ion trong quá_trình phóng
+
+Bảng 9 quy_định các hoá_chất sử_dụng cho pin lithium ion và các tham_số vùng hoạt_động .
+
+Bảng 9 - Các tham_số vùng hoạt_động trong quá_trình nạp
+
+2 . 9 . 3 . Sử_dụng theo dự_kiến
+
+2 . 9 . 3 . 1 . Nạp liên_tục tại điện_áp không đổi ( tế_bào )
+
+Các tế_bào được nạp đầy , tiếp_tục nạp trong 7 ngày với giá_trị dòng_điện và điện_áp do nhà sản_xuất quy_định .
+
+2 . 9 . 3 . 2 . Vỏ pin trong điều_kiện sử_dụng tại môi_trường nhiệt_độ cao ( pin )
+
+Pin được nạp đầy tuân theo thủ_tục tại điều 2 . 9 . 2 . 1 và được đặt trong buồng sấy không_khí tuần_hoàn có nhiệt_độ 70 C 2 C trong khoảng thời_gian 7 h . Sau đó , pin được lấy ra và đặt lại tại nhiệt_độ phòng .
+
+2 . 9 . 4 . Sử_dụng không đúng theo dự_kiến
+
+2 . 9 . 4 . 1 . Ngắn mạch ngoài ( tế_bào )
+
+Tế_bào được nạp đầy tuân theo thủ_tục tại điều 2 . 9 . 2 . 2 . Lưu_trữ , duy_trì ổn_định từ 1 h đến 4 h tại nhiệt_độ môi_trường 55 C 5 C . Các tế_bào được ngắn mạch bằng cách nối với cực dương và cực âm với tổng_trở_kháng ngoài 80 m 20 m . Giữ nguyên kết_nối trong 24 h hoặc đến khi nhiệt_độ bề_mặt ngoài giảm 20 % so với sự gia_tăng nhiệt_độ tối_đa , tuỳ vào điều_kiện nào đến trước .
+
+2 . 9 . 4 . 2 . Ngắn mạch ngoài ( pin )
+
+Pin được nạp đầy tuân theo thủ_tục tại điều 2 . 9 . 2 . 1 . Lưu_trữ tại nhiệt_độ môi_trường 20 C 5 C . Pin được ngắn mạch bằng cách nối với cực dương và cực âm với tổng_trở_kháng ngoài 80 m 20 m . Giữ nguyên kết_nối trong 24 h hoặc đến khi nhiệt_độ bề_mặt ngoài giảm 20 % so với sự gia_tăng nhiệt_độ tối_đa , tuỳ vào điều_kiện nào đến trước . Tuy_nhiên , trong trường_hợp dòng_điện ngắn mạch giảm nhanh , thì thời_gian đo thử đối_với pin được tăng thêm 1 h sau khi dòng_điện đạt đến một điều_kiện ổn_định thấp . Điều_kiện này đạt được khi điệp áp trên mỗi tế_bào ( chỉ áp_dụng với các tế_bào mắc nối_tiếp ) của pin là dưới 0 , 8 V và giảm nhỏ hơn 0 , 1 V trong khoảng thời_gian 30 min .
+
+Khi xảy ra lỗi trong mạch bảo_vệ phóng từ các linh_kiện bảo_vệ như : MOSFET ( transistor bán_dẫn hiệu_ứng trường ) , cầu_chì , nhiệt_kế hoặc Ptc ( nhiệt_điện_trở hệ_số nhiệt dương ) phải thực_hiện lại phép đo .
+
+Chú_thích : lỗi trong mạch bảo_vệ phóng bao_gồm sự thiếu_hụt hoặc thay_thế các linh_kiện bảo_vệ như Mosfet , cầu_chì hoặc các thiết_bị bảo_vệ khác .
+
+2 . 9 . 4 . 3 . Rơi tự_do
+
+Thực_hiện thả rơi tự_do mẫu thử tại nhiệt_độ môi_trường 20 C 5 C . Nạp đầy mẫu thử theo 2 . 9 . 2 . 1 . Thả rơi mỗi mẫu thử theo các hướng ngẫu_nhiên 03 lần từ độ cao 1 m xuống mặt sàn bê_tông hoặc mặt sàn kim_loại . Sau đó , đặt mẫu thử nằm im tối_thiểu 1 h và kiểm_tra bằng mắt .
+
+2 . 9 . 4 . 4 . Quá_nhiệt ( tế_bào )
+
+Tế_bào được nạp đầy tuân theo thủ_tục tại điều 2 . 9 . 2 . 2 và sau đó được đặt trong buồng trọng_lực hoặc buồng đối_lưu không_khí tại nhiệt_độ 20 C 5 C , duy_trì trong 1 h . Nhiệt_độ buồng được tăng với tốc_độ 5 C / min 2 C / min tới nhiệt_độ 130 C 2 C , nhiệt_độ này được duy_trì trong 30 min sau đó dừng việc đo .
+
+2 . 9 . 4 . 5 . Ép ( tế_bào )
+
+Tế_bào được nạp đầy tuân theo thủ_tục tại điều 2 . 9 . 2 . 2 tại nhiệt_độ nạp giới_hạn trên , sau đó đưa ngay tế_bào vào giữa hai mặt_phẳng búa ép thuỷ_động với lực tác_dụng 13 kN 0 , 78 kN tại nhiệt_độ môi_trường . Đến khi đạt được lực ép tối_đa hoặc điện_áp của tế_bào sụt_giảm bằng 1/3 điện_áp danh định . Ngừng quá_trình ép .
+
+Ép vào mặt cong của tế_bào hình_trụ và mặt rộng của tế_bào hình lăng_trụ .
+
+2 . 9 . 4 . 6 . Nạp quá_tải ( pin )
+
+Phép đo thử được tiến_hành tại nhiệt_độ 20 C 5 C . Pin được phóng tại một dòng không đổi 0 , 2 It ( a ) , tới một điện_áp cuối do nhà sản_xuất quy_định . Sau đó , mẫu thử được nạp tại một dòng không đổi 2 It ( a ) , sử_dụng một điện_áp nguồn :
+
+- 1 , 4 lần giới_hạn trên điện_áp nạp được trình_bày trong Bảng 9 ( nhưng không vượt quá 6 V ) đối_với pin nguyên khối tế_bào mắc song_song / tế_bào đơn hoặc - 1 , 2 lần giới_hạn trên điện_áp nạp được trình_bày trong Bảng 9 trên mỗi tế_bào đối_với các pin đa tế_bào mắc nối_tiếp và đủ để duy_trì dòng_điện 2 ( a ) trong suốt thời_gian thử_nghiệm hoặc cho đến khi đạt được điện_áp nguồn . Một cặp_nhiệt_điện phải được gắn vào mỗi pin thử_nghiệm . Đối_với pin có vỏ , nhiệt_độ phải được đo trên vỏ pin .
+
+Phép đo thử được tiếp_tục đến khi nhiệt_độ của vỏ pin đạt đến điều_kiện ổn_định ( thay_đổi nhỏ hơn 10 C trong khoảng thời_gian 30 min ) hoặc trở về nhiệt_độ môi_trường .
+
+2 . 9 . 4 . 7 . Phóng cưỡng_bức ( tế_bào )
+
+Tế_bào đơn phóng_điện đến giới_hạn dưới điện_áp phóng do nhà sản_xuất quy_định .
+
+Sau đó chịu sự phóng cưỡng_bức ở 1 It ( A ) tới giá_trị âm của giới_hạn trên điện_áp nạp trong thời_gian 90 min
+
+Nếu điện_áp phóng đạt giá_trị âm của giới_hạn trên điện_áp nạp trong khoảng thời_gian đo thử , điện_áp phải được duy_trì ở giá này bằng cách giảm dòng_điện trong thời_gian còn lại của thời_gian đo thử ( trường_hợp 1 của Hình 3 ) Nếu điện_áp phóng_điện không đạt giá_trị âm của giới_hạn trên điện_áp nạp trong thời_gian đo thử , thì phép thử phải được chấm_dứt khi kết_thúc thời_gian đo thử . ( Trường_hợp 2 của Hình 3 )
+
+Chú_thích : các đường_cong trong Hình 3 chỉ mang tính minh_hoạ ( trừ đoạn nằm ngang ) có_thể thẳng hoặc không thẳng .
+
+Hình 3 - Sơ_đồ thời_gian phóng cưỡng_bức
+
+2 . 9 . 4 . 8 . Đo cơ_học ( pin )
+
+2 . 9 . 4 . 8 . 1 . Đo rung
+
+Pin được sạc đầy tuân theo thủ_tục tại điều 2 . 9 . 2 . 1 . Gắn pin chắc_chắn vào thiết_bị đo rung nhưng không để pin bị méo nhằm đảm_bảo tính chính_xác của kết_quả đo . Pin thử_nghiệm phải chịu tác_động của dao_động_hình sin như Bảng 10 . Chu_kì này phải được lặp lại 12 lần trong khoảng thời_gian là 3 h cho mỗi trục toạ_độ . Một trong các trục toạ_độ phải vuông_góc với một mặt_phẳng của pin thử_nghiệm .
+
+Bảng 10 - Các điều_kiện đo rung
+
+2 . 9 . 4 . 8 . 2 . Đo xóc
+
+Pin thử_nghiệm được sạc đầy tuân theo thủ_tục tại điều 2 . 9 . 2 . 1 . Máy đo phải có_giá đỡ cứng cho các bề_mặt của pin thử_nghiệm . Mỗi pin thử_nghiệm phải chịu ba cú xóc theo từng hướng của ba vị_trí lắp_đặt vuông_góc nhau với tổng_số là 18 cú xóc . Đối_với mỗi cú xóc áp_dụng các thông_số đưa ra trong Bảng 11 .
+
+Bảng 11 - Các tham_số xóc
+
+2 . 9 . 4 . 9 . Ngắn_mạch trong cưỡng_bức ( tế_bào )
+
+Phép đo thử ngắn mạch trong cưỡng_bức được thực_hiện trong phòng đo theo thủ_tục sau đây :
+
+1 ) Số_lượng mẫu
+
+Phép đo được thực_hiện với 5 tế_bào lithium - ion thứ cấp trên mỗi giá_trị nhiệt_độ đo .
+
+2 ) Thủ_tục nạp
+
+i . Điều_kiện nạp và phóng
+
+Mẫu thử được nạp ở nhiệt_độ 20 C 5 C theo quy_định của nhà sản_xuất . Sau đó , mẫu thử được phóng ở nhiệt_độ 20 C 5 C tại dòng không đổi 0 , 2 It ( a ) đến điện_áp cuối theo quy_định của nhà sản_xuất .
+
+ii . Thủ_tục lưu_trữ
+
+Tế_bào đo được lưu_trữ tại nhiệt_độ môi_trường được quy_định trong Bảng 12 trong khoảng thời_gian từ 1 h đến 4 h .
+
+iii . Nhiệt_độ môi_trường
+
+Bảng 12 - Nhiệt_độ môi_trường đối_với đo thử tế_bào
+
+iv . Thủ_tục nạp đối_với đo thử ngắn mạch trong cưỡng_bức
+
+Tế_bào đo được nạp ở nhiệt_độ môi_trường được quy_định trong Bảng 12 , tại điện_áp nạp giới_hạn trên với dòng không đổi theo quy_định của nhà sản_xuất .
+
+Khi đạt được giới_hạn trên điện_áp nạp tiếp_tục nạp tại điện_áp không đổi cho đến khi dòng nạp bị sụt_giảm đến giá_trị 0 , 05 It ( a ) .
+
+3 ) Nén lõi cuộn dây với mảnh niken
+
+Phép đo thử sử_dụng tủ kiểm_soát nhiệt_độ và thiết_bị nén đặc_biệt .
+
+Bộ_phận chuyển_động của thiết_bị nén sẽ di_chuyển với một tốc_độ không đổi và có_thể dừng lại ngay khi xuất_hiện hiện_tượng ngắn mạch .
+
+i . Chuẩn_bị cho phép đo thử
+
+A . Nhiệt_độ của tủ được điều_chỉnh theo quy_định trong Bảng 12 . Chuẩn_bị mẫu đo như Phụ_lục A , Hình A . 4 và Hình A . 7 . Đặt lá nhôm được dán mỏng với lõi cuộn dây và miếng niken vào tủ kiểm_soát nhiệt_độ trong khoảng thời_gian 45 15 min .
+
+B . Tháo bỏ lõi cuộn dây từ gói được đóng kín và gắn các đầu nối để đo điện_áp và cặp_nhiệt ngẫu để đo nhiệt_độ trên bề_mặt của lõi cuộn dây . Đặt lõi cuộn dây dưới thiết_bị tạo áp_lực để định_vị vị_trí của miếng niken dưới dụng_cụ nén .
+
+Để tránh bay_hơi chất điện_ly , thực_hiện công_việc trong vòng 10 min tính từ khi lấy lõi cuộn dây khỏi tủ ổn_định nhiệt_độ đến khi đóng_cửa tủ đặt thiết_bị .
+
+C . Bỏ tấm cách_điện và đóng_cửa tủ .
+
+ii . Ngắn_mạch trong
+
+A . Kiểm_tra lại nhiệt_độ bề_mặt lõi cuộn dây theo quy_định trong Bảng 12 và bắt_đầu phép đo .
+
+B . Mặt đáy của bộ_phận chuyển_động của thiết_bị nén được làm_bằng vật_liệu cao_su nytril hoặc nhựa acrylic , được đặt trên trục thép không rỉ kích_thước 10 mm x 10 mm . Các chi_tiết của dụng_cụ nén được mô_tả trong Hình 4 . Mặt đáy làm_bằng vật_liệu cao_su nytril sử_dụng trong phép đo đối_với tế_bào hình_trụ . Đối_với tế_bào hình lăng_trụ , phép đo sử_dụng mặt đáy làm_bằng vật_liệu acryl có kích_thước 5 mm x 5 mm ( độ dày là 2 mm ) đặt lên tấm cao_su nytril .
+
+Bộ_phận cố_định di_chuyển xuống với tốc_độ 0 , 1 mm / s giám_sát điện_áp tế_bào . Khi xuất_hiện hiện_tượng điện_áp bị sụt_giảm do việc ngắn mạch trong , lập_tức ngăn sự sụt_giảm này và giữ nguyên_vị_trí dụng_cụ nén trong 30 s , sau đó nhả lực nén . Điện_áp được giám_sát ở tốc_độ lớn hơn 100 lần / s , khi điện_áp bị giảm lớn hơn 50 mV so với điện_áp ban_đầu , ngắn mạch bên trong được xác_định là đã xảy ra . Nếu giá_trị nén đạt 800 N đối_với tế_bào hình_trụ và 400 N đối_với tế_bào lăng_trụ trước khi sụt_giảm điện_áp đạt đến 50 mV dừng nén .
+
+Chú_thích : Không áp_dụng yêu_cầu này đối_với các tế_bào lithium ion polymer .
+
+Hình 4 - Dụng_cụ nén
+
+3 . Quy_định Về Quản_lý
+
+3 . 1 . Pin lithium thuộc phạm_vi điều_chỉnh quy_định tại điều 1 . 1 phải tuân_thủ các quy_định kĩ_thuật trong Quy_chuẩn này và phải thực_hiện công_bố hợp quy theo quy_chuẩn .
+
+3 . 2 . Việc đo kiểm / thử_nghiệm đối_với yêu_cầu kĩ_thuật điều 2 . 6 được thực_hiện bởi phòng thử_nghiệm trong nước được chỉ_định , hoặc phòng thử_nghiệm ngoài nước được thừa_nhận .
+
+3 . 3 . Các yêu_cầu kĩ_thuật khác ngoài điều 2 . 6 trong Quy_chuẩn này , tổ_chức , cá_nhân được phép sử_dụng kết_quả đo kiểm / thử_nghiệm của phòng thử_nghiệm trong nước được chỉ_định , hoặc phòng thử_nghiệm ngoài nước được thừa_nhận , hoặc các phòng thử_nghiệm trong nước và ngoài nước được công_nhận phù_hợp với tiêu_chuẩn Iso 17025 , hoặc kết_quả đo kiểm / thử_nghiệm của nhà sản_xuất .
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+Các tổ_chức , cá_nhân liên_quan có trách_nhiệm thực_hiện công_bố hợp quy các loại pin lithium dùng cho thiết_bị cầm tay thuộc phạm_vi điều_chỉnh quy_định tại điều 1 . 1 và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành .
+
+5 . Tổ_chức Thực_hiện
+
+5 . 1 - Cục Viễn_thông và các Sở Thông_tin và Truyền_thông có trách_nhiệm tổ_chức triển_khai quản_lí việc công_bố hợp quy đối_với pin lithium dùng cho thiết_bị cầm tay theo Quy_chuẩn này .
+
+5 . 2 . Quy_chuẩn này được áp_dụng thay_thế cho Quy_chuẩn kĩ_thuật quốc_gia Qcvn 101 : 2016 / bt Quy_chuẩn kĩ_thuật quốc_gia về pin lithium cho thiết_bị cầm tay .
+
+5 . 3 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới .
+
+5 . 4 . Trong quá_trình triển_khai thực_hiện Quy_chuẩn này , nếu có vấn_đề phát_sinh , vướng_mắc , tổ_chức và cá_nhân có liên_quan phản_ánh bằng văn_bản về Bộ Thông_tin và Truyền_thông ( Vụ Khoa_học và Công_nghệ ) để được hướng_dẫn , giải_quyết . / .

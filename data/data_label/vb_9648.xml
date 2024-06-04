@@ -1,0 +1,901 @@
+Thông_tư số 75/2015/tt-bgtvt ngày 24 tháng 11 năm 2015 của bộ giao_thông vận_tải
+
+Căn_cứ <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều của <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 107/2012/NĐ-CP ngày 20 tháng 12 năm 2012 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Giao_thông vận_tải ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học - Công_nghệ và Cục_trưởng Cục Hàng_hải Việt_nam ,
+
+Bộ_trưởng Bộ Giao_thông vận_tải ban_hành <TT rel="None"> Thông_tư ban_hành Quy_chuẩn kĩ_thuật quốc_gia về báo_hiệu hàng_hải </TT> .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về báo_hiệu hàng_hải - Mã_số đăng_ký : Qcvn 20 : 2015/BGTVT.
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 28 tháng 06 năm 2016 . Bãi_bỏ <TT rel="None"> Thông_tư số 17/2010/TT-BGTVT ngày 05 tháng 7 năm 2010 </TT> của Bộ_trưởng Bộ Giao_thông vận_tải ban_hành Quy_chuẩn kĩ_thuật quốc_gia về báo_hiệu hàng_hải .
+
+Điều 3 . Chánh Văn_phòng Bộ , Chánh Thanh_tra Bộ , các Vụ_trưởng , Cục_trưởng Cục Hàng_hải Việt_nam , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Giao_thông vận_tải , các tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 20 : 2015 / bgtvt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Báo_hiệu Hàng_hải
+
+National technical regulation on aids to navigation
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn kĩ_thuật quốc_gia này quy_định các yêu_cầu kĩ_thuật cơ_bản của báo_hiệu hàng_hải được lắp_đặt trong các vùng nước cảng biển và vùng_biển Việt_nam .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn kĩ_thuật quốc_gia này áp_dụng đối_với các cơ_quan , tổ_chức , cá_nhân có hoạt_động liên_quan đến công_tác thiết_kế , chế_tạo , xây_dựng , quản_lí vận_hành , khai_thác báo_hiệu hàng_hải và các công_tác khác có liên_quan đến báo_hiệu hàng_hải tại Việt_nam .
+
+1 . 3 . Giải_thích từ_ngữ
+
+Trong Quy_chuẩn kĩ_thuật quốc_gia này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . 3 . 1 . Báo_hiệu hàng_hải là thiết_bị hoặc công_trình , tàu_thuyền được thiết_lập và vận_hành trên mặt_nước hoặc trên đất_liền để chỉ_dẫn cho người đi biển và tổ_chức , cá_nhân liên_quan định_hướng , xác_định vị_trí của tàu_thuyền .
+
+1 . 3 . 2 . Tầm hiệu_lực của báo_hiệu hàng_hải là khoảng_cách lớn nhất tính từ người quan_sát đến báo_hiệu mà người quan_sát nhận_biết được báo_hiệu đó để định_hướng hoặc xác_định vị_trí của mình .
+
+1 . 3 . 3 . Tầm hiệu_lực ban_ngày của báo_hiệu hàng_hải là khoảng_cách lớn nhất mà người quan_sát có_thể nhận_biết được báo_hiệu vào ban_ngày ; được xác_định với tầm nhìn_xa khí_tượng bằng 10 hải_lý .
+
+1 . 3 . 4 . Tầm hiệu_lực ánh_sáng của báo_hiệu hàng_hải là khoảng_cách lớn nhất mà người quan_sát có_thể nhận_biết được tín_hiệu ánh_sáng của báo_hiệu .
+
+1 . 3 . 5 . Tầm hiệu_lực danh định của báo_hiệu hàng_hải là tầm hiệu_lực ánh_sáng của báo_hiệu trong điều_kiện khí_quyển có tầm nhìn_xa khí_tượng là 10 hải_lí ( tương_ứng với hệ_số truyền quang của khí_quyển T = 0 , 74 ) với ngưỡng cảm_ứng độ sáng của mắt người quan_sát quy_ước bằng 0 , 2 micro - lux .
+
+1 . 3 . 6 . Tầm nhìn địa_lí của báo_hiệu hàng_hải là khoảng_cách lớn nhất mà người quan_sát có_thể nhận_biết được báo_hiệu hay nguồn sáng từ báo_hiệu trong điều_kiện tầm nhìn_xa lí_tưởng .
+
+1 . 3 . 7 . Hệ_số truyền quang của khí_quyển là hệ_số biểu_thị cường_độ ánh_sáng phát ra từ nguồn sáng còn lại sau khi truyền qua lớp khí_quyển với khoảng_cách một hải_lý . Hệ_số này được xác_định theo từng vùng trên cơ_sở theo_dõi trong nhiều năm .
+
+1 . 3 . 8 . Báo_hiệu nổi là loại báo_hiệu hàng_hải được thiết_kế để nổi trên mặt_nước và được neo hoặc buộc ở một vị_trí nào đó .
+
+1 . 3 . 9 . Ánh_sáng chớp là ánh_sáng trong đó tổng_thời_gian sáng trong một chu_kì ngắn hơn tổng_thời_gian tối và thời_gian các chớp sáng bằng nhau .
+
+1 . 3 . 10 . Ánh_sáng chớp đều là sáng chớp trong đó tất_cả các khoảng thời_gian sáng và thời_gian tối bằng nhau .
+
+1 . 3 . 11 . Ánh_sáng chớp dài là ánh_sáng chớp trong đó thời_gian chớp không nhỏ hơn 2 , 0 giây .
+
+1 . 3 . 12 . Ánh_sáng chớp nhanh là ánh_sáng chớp trong đó các chớp được lặp_lại với tần_suất từ 50 lần đến dưới 80 lần trong một phút .
+
+1 . 3 . 13 . Ánh_sáng chớp rất nhanh là ánh_sáng chớp trong đó các chớp được lặp_lại với tần_suất từ 80 lần đến dưới 160 lần trong một phút .
+
+1 . 3 . 14 . Ánh_sáng chớp đơn là ánh_sáng chớp trong đó một chớp được lặp_lại đều_đặn với tần_suất ít hơn 50 lần trong một phút .
+
+1 . 3 . 15 . Ánh_sáng chớp nhóm là ánh_sáng chớp được phát theo nhóm với chu_kì xác_định .
+
+1 . 3 . 16 . Ánh_sáng chớp nhóm hỗn_hợp là ánh_sáng chớp nhóm kết_hợp các nhóm chớp khác nhau với chu_kì xác_định .
+
+1 . 3 . 17 . Đèn_biển là báo_hiệu hàng_hải được thiết_lập cố_định tại các vị_trí cần_thiết ven bờ biển , trong vùng nước cảng biển và vùng_biển Việt_nam .
+
+1 . 3 . 18 . Đăng tiêu là báo_hiệu hàng_hải được thiết_lập cố_định tại các vị_trí cần_thiết để báo_hiệu luồng hàng_hải , báo_hiệu chướng_ngại_vật nguy_hiểm , bãi cạn hay báo_hiệu một vị_trí đặc_biệt nào đó .
+
+1 . 3 . 19 . Chập tiêu là báo_hiệu hàng_hải gồm hai đăng tiêu biệt_lập nằm trên cùng một mặt_phẳng thẳng_đứng để tạo thành một hướng ngắm cố_định . . .
+
+1 . 3 . 20 . Trục của chập tiêu là giao_tuyến giữa mặt_phẳng thẳng_đứng đi qua chập tiêu với bề_mặt trái_đất .
+
+1 . 3 . 21 . Tiêu sau của chập tiêu là tiêu xa nhất dọc theo trục của chập tiêu , tính từ người quan_sát ở trong vùng định_hướng của chập tiêu .
+
+1 . 3 . 22 . Tiêu trước của chập tiêu là tiêu gần nhất dọc theo trục của chập tiêu , tính từ người quan_sát ở trong vùng định_hướng của chập tiêu .
+
+1 . 3 . 23 . Vùng định_hướng của chập tiêu là vùng nằm trên trục của chập tiêu mà tại đó người sử_dụng nhận_biết được hướng đi an_toàn .
+
+1 . 3 . 24 . Góc đứng của tiêu là góc tạo bởi hướng từ mắt người quan_sát đến đỉnh tiêu và mặt_phẳng nằm ngang .
+
+1 . 3 . 25 . Góc ngang của tiêu là góc tạo bởi hướng từ mắt người quan_sát đến tiêu và trục của chập tiêu trong mặt_phẳng nằm ngang .
+
+1 . 3 . 26 . Độ lệch bên của chập tiêu là khoảng_cách lớn nhất theo đường vuông_góc với trục của chập tiêu mà tàu có_thể đi lệch nhưng không ra khỏi vùng định_hướng của chập tiêu .
+
+1 . 3 . 27 . Báo_hiệu dẫn luồng là tên gọi chung của các báo_hiệu hai bên luồng , báo_hiệu hướng luồng chính , báo_hiệu phương vị , báo_hiệu chướng_ngại_vật biệt_lập , báo_hiệu vùng nước an_toàn , báo_hiệu chuyên_dùng và báo_hiệu chướng_ngại_vật nguy_hiểm mới phát_hiện .
+
+1 . 3 . 27 . a . Đèn hướng là báo_hiệu hàng_hải được dùng để hướng_dẫn giao_thông_qua luồng hàng_hải hoặc vùng nước nông hay nguy_hiểm . Đèn hướng hiển_thị các chùm sáng theo phương ngang với các màu_sắc khác nhau để cung_cấp thông_tin cho người đi biển .
+
+1 . 3 . 27 . b . Báo_hiệu tình_trạng giao_thông trên luồng là báo_hiệu hàng_hải bao_gồm các tín_hiệu kiểm_soát tình_trạng giao_thông trên luồng tàu .
+
+1 . 3 . 27 . c . Báo_hiệu hàng_hải nổi cỡ lớn bao_gồm tàu đèn , phao đèn và phao báo_hiệu hàng_hải kích_thước lớn .
+
+1 . 3 . 27 . d . Báo_hiệu hàng_hải bổ_trợ là báo_hiệu hàng_hải được sử_dụng trong trường_hợp các báo_hiệu hàng_hải đã được quy_định khác không mô_tả hết nội_dung cần cảnh_báo . Báo_hiệu hàng_hải bổ_trợ phải được cập_nhật và công_bố trên hải_đồ và các ấn_phẩm hàng_hải khác .
+
+1 . 3 . 28 . Báo_hiệu hàng_hải Ais ( Automatic Identification_system ) là báo_hiệu vô_tuyến_điện truyền phát thông_tin an_toàn hàng_hải tới các trạm Ais được lắp_đặt trên tàu , hoạt_động trên các dải_tần_số Vhf hàng_hải .
+
+1 . 3 . 29 . Tiêu_radar ( Racon ) là báo_hiệu hàng_hải để thu , phát tín_hiệu vô_tuyến_điện trên các dải_tần_số của radar hàng_hải .
+
+1 . 3 . 29 . a . Mã_morse là một loại mã_hoá kí_tự dùng để truyền các thông_tin điện_báo .
+
+1 . 3 . 30 . Tầm hiệu_lực danh định của báo_hiệu âm_thanh ( Pn ) là khoảng_cách mà trong điều_kiện thời_tiết sương_mù , người đi biển có_thể nghe rõ được tín_hiệu âm_thanh của báo_hiệu với xác_suất 90 % .
+
+1 . 3 . 31 . Tầm hiệu_lực thường dùng của báo_hiệu âm_thanh ( Pu ) là khoảng_cách mà trong điều_kiện thời_tiết sương_mù , người đi biển có_thể nghe rõ được tín_hiệu âm_thanh của báo_hiệu với xác_suất 50 % .
+
+1 . 4 . Hướng luồng hàng_hải
+
+1 . 4 . 1 . Luồng hàng_hải từ biển vào cảng , phía tay phải là phía phải luồng , phía tay_trái là phía trái luồng .
+
+1 . 4 . 2 . Luồng hàng_hải trên biển , hướng được xác_định như sau :
+
+1 . 4 . 2 . 1 . Theo hướng từ Bắc xuống Nam , phía tay phải là phía phải luồng , phía tay_trái là phía trái luồng ;
+
+1 . 4 . 2 . 2 . Theo hướng từ Đông sang Tây , phía tay phải là phía phải luồng , phía tay_trái là phía trái luồng .
+
+1 . 5 . Phía khống_chế của báo_hiệu hàng_hải
+
+1 . 5 . 1 . Theo hướng luồng hàng_hải , báo_hiệu bên phải khống_chế phía phải luồng , báo_hiệu bên trái khống_chế phía trái luồng .
+
+1 . 5 . 2 . Theo phương vị :
+
+1 . 5 . 2 . 1 . Phía Bắc khống_chế từ 315 đến 45 ;
+
+1 . 5 . 2 . 2 . Phía Đông khống_chế từ 45 đến 135 ;
+
+1 . 5 . 2 . 3 . Phía Nam khống_chế từ 135 đến 225 ;
+
+1 . 5 . 2 . 4 . Phía Tây khống_chế từ 225 đến 315 .
+
+1 . 6 . Phân_loại báo_hiệu hàng_hải
+
+1 . 6 . 1 . Báo_hiệu thị_giác cung_cấp thông_tin báo_hiệu bằng hình_ảnh vào ban_ngày , ánh_sáng vào ban_đêm . Báo_hiệu thị_giác bao_gồm : đèn_biển , đăng tiêu , chập tiêu , báo_hiệu dẫn luồng ( báo_hiệu hai bên luồng , báo_hiệu hướng luồng chính , báo_hiệu phương vị , báo_hiệu chướng_ngại_vật biệt_lập , báo_hiệu vùng nước an_toàn , báo_hiệu chuyên_dùng , báo_hiệu chướng_ngại_vật nguy_hiểm mới phát_hiện ) và các báo_hiệu hàng_hải khác ;
+
+1 . 6 . 2 . Báo_hiệu vô_tuyến_điện cung_cấp thông_tin báo_hiệu bằng tín_hiệu vô_tuyến_điện . Báo_hiệu vô_tuyến_điện bao_gồm báo_hiệu tiêu Radar , báo_hiệu hàng_hải Ais và các loại báo_hiệu vô_tuyến_điện khác ;
+
+1 . 6 . 3 . Báo_hiệu âm_thanh cung_cấp thông_tin báo_hiệu bằng tín_hiệu âm_thanh . Báo_hiệu âm_thanh bao_gồm còi báo_hiệu và các loại báo_hiệu âm_thanh khác .
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Đèn_biển
+
+2 . 1 . 1 . Tác_dụng
+
+2 . 1 . 1 . 1 . Báo_hiệu nhập bờ
+
+Báo_hiệu cho tàu_thuyền hàng_hải trên các tuyến hàng_hải xa bờ nhận_biết , định_hướng nhập bờ để vào các tuyến hàng_hải ven biển hoặc vào các cảng biển .
+
+2 . 1 . 1 . 1 . 1 . Báo_hiệu hàng_hải ven biển
+
+Báo_hiệu cho tàu_thuyền hàng_hải ven biển định_hướng và xác_định vị_trí .
+
+2 . 1 . 1 . 1 . 2 . Báo_hiệu cửa_sông , cửa_biển
+
+Báo_hiệu cửa_sông , cửa_biển nơi có tuyến luồng dẫn vào cảng biển ; cửa_sông , cửa_biển có nhiều hoạt_động hàng_hải khác như khai_thác hải_sản , thăm_dò , nghiên_cứu khoa_học . . . ; vị_trí có chướng_ngại_vật ngầm nguy_hiểm ; hoặc các khu_vực đặc_biệt khác như khu neo đậu tránh bão , khu đổ chất_thải , để chỉ_dẫn cho tàu_thuyền định_hướng và xác_định vị_trí .
+
+2 . 1 . 2 . Phân_cấp
+
+2 . 1 . 3 . Các thông_số kĩ_thuật
+
+2 . 1 . 3 . 1 . Vị_trí xây_dựng
+
+- Đèn cấp I : Đặt gần tuyến hàng_hải quốc_tế hoặc trên các khu_vực biển chuyển_tiếp từ tuyến hàng_hải quốc_tế vào tuyến hàng_hải ven biển . Có vị_trí thuận_lợi để người đi biển có_thể quan_sát được từ ngoài khơi xa . Có độ cao đủ lớn để không bị che_khuất từ phía biển .
+
+- Đèn cấp Ii : Đặt gần tuyến hàng_hải ven biển , tại những vị_trí dễ quan_sát từ ngoài biển , cách các tuyến hàng_hải ven biển không quá 20 hải_lý . Có độ cao đủ lớn để không bị che_khuất từ phía biển .
+
+- Đèn cấp Iii : Đặt tại cửa_sông , cửa_biển gần lối vào các tuyến luồng biển hoặc tại các chướng_ngại_vật ngầm hay các khu_vực đặc_biệt ( neo đậu tránh bão , khu đổ chất_thải , khu_vực chuyển_tải , ngư_trường , khu_vực thăm_dò , nghiên_cứu khoa_học ) .
+
+2 . 1 . 3 . 2 . Kích_thước tối_thiểu của tháp_đèn ( tính bằng mét )
+
+2 . 1 . 3 . 3 . Tầm hiệu_lực danh định tối_thiểu của thiết_bị chiếu sáng ( tính bằng hải_lý )
+
+Trong trường_hợp thiết_bị đèn dự_phòng không đảm_bảo theo quy_định nêu trên thì phải có văn_bản chấp_thuận của Bộ Giao_thông vận_tải .
+
+2 . 1 . 3 . 4 . Màu bên ngoài của tháp đèn :
+
+Phải đảm_bảo khả_năng nhận_biết dễ_dàng bằng mắt thường và được lựa_chọn sao cho độ tương_phản với nền phía sau tháp đèn lớn hơn hoặc bằng 0 , 6 ( tra bảng Phụ_lục 1 ) .
+
+2 . 1 . 3 . 5 . Đặc_tính ánh_sáng ban_đêm :
+
+Ánh_sáng sử_dụng cho đèn_biển là ánh_sáng trắng , có đặc_tính được quy_định tại mục 2 . 5 của Quy_chuẩn kĩ_thuật quốc_gia này .
+
+Trong phạm_vi 70 hải_lý , đặc_tính ánh_sáng của các đèn_biển không được trùng_lặp .
+
+2 . 2 . Đăng_tiêu
+
+2 . 2 . 1 . Tác_dụng
+
+Báo_hiệu chướng_ngại_vật nguy_hiểm , bãi cạn hay báo_hiệu một vị_trí đặc_biệt nào đó có liên_quan đến an_toàn hàng_hải .
+
+2 . 2 . 2 . Các thông_số kĩ_thuật
+
+2 . 2 . 2 . 1 . Vị_trí xây_dựng
+
+Đăng tiêu được đặt ở các vị_trí có khả_năng gây mất an_toàn cho hàng_hải như các bãi cạn , bãi đá ngầm , xác tàu đắm và các vị_trí đặc_biệt khác .
+
+2 . 2 . 2 . 2 . Kích_thước
+
+Kích_thước của đăng tiêu phụ_thuộc vào từng điều_kiện , hoàn_cảnh cụ_thể nhưng phải đảm_bảo nhận_biết dễ_dàng trong phạm_vi hiệu_lực của đăng tiêu .
+
+2 . 2 . 2 . 3 . Màu thân đăng tiêu
+
+Phải đảm_bảo khả_năng nhận_biết dễ_dàng bằng mắt thường và được lựa_chọn sao cho độ tương_phản với nền phía sau đăng tiêu lớn hơn hoặc bằng 0 , 6 ( tra bảng Phụ_lục 1 ) .
+
+2 . 2 . 2 . 4 . Đặc_tính ánh_sáng ban_đêm
+
+Ánh_sáng sử_dụng cho đăng tiêu là ánh_sáng trắng , có đặc_tính được quy_định tại mục 2 . 5 của Quy_chuẩn kĩ_thuật quốc_gia này . Ánh_sáng của đăng tiêu phải rõ_ràng , dễ phân_biệt với ánh_sáng của các báo_hiệu hay nguồn sáng khác xung_quanh .
+
+* Đăng tiêu có_thể được sử_dụng thay_thế phao trong luồng .
+
+2 . 3 . Chập tiêu
+
+2 . 3 . 1 . Tác_dụng
+
+2 . 3 . 1 . 1 . Báo_hiệu trục luồng hàng_hải ;
+
+2 . 3 . 1 . 2 . Báo_hiệu phần nước sâu nhất của một tuyến hàng_hải ;
+
+2 . 3 . 1 . 3 . Báo_hiệu luồng hàng_hải khi không có báo_hiệu hai bên luồng hoặc báo_hiệu hai bên luồng chưa đủ đảm_bảo yêu_cầu về độ chính_xác ;
+
+2 . 3 . 1 . 4 . Báo_hiệu hướng đi an_toàn vào cảng hay cửa_sông ;
+
+2 . 3 . 1 . 5 . Báo_hiệu phân_luồng giao_thông hai chiều .
+
+2 . 3 . 2 . Các thông_số kĩ_thuật
+
+2 . 3 . 2 . 1 . Vị_trí xây_dựng
+
+Chập tiêu được bố_trí theo trục luồng hàng_hải . Đoạn luồng bố_trí chập tiêu phải đảm_bảo ổn_định , không bị thay_đổi hướng dưới tác_dụng của các điều_kiện khí_tượng , thuỷ_văn .
+
+2 . 3 . 2 . 2 . Màu thân tiêu
+
+Phải được lựa_chọn sao cho độ tương_phản với nền phía sau tiêu lớn hơn hoặc bằng 0 , 6 ( tra bảng Phụ_lục 1 ) .
+
+2 . 3 . 2 . 3 . Đặc_tính ánh_sáng ban_đêm
+
+Ánh_sáng sử_dụng cho chập tiêu là ánh_sáng trắng , có đặc_tính giống nhau , chớp đồng_bộ và được quy_định tại mục 2 . 5 của Quy_chuẩn kĩ_thuật quốc_gia này .
+
+2 . 3 . 2 . 4 . Độ rọi
+
+2 . 3 . 2 . 4 . 1 . Độ rọi trong đoạn tác_dụng của chập tiêu
+
+Tại bất_kì điểm nào nằm trong vùng định_hướng của chập tiêu , độ rọi tối_thiểu tại mắt người quan_sát phải bằng 1 , 0 x 10-6 lx .
+
+2 . 3 . 2 . 4 . 2 . Cân_bằng độ rọi
+
+Tại bất_kì điểm nào nằm trong vùng định_hướng của chập tiêu , độ rọi tại mắt người quan_sát gây ra bởi các tiêu phải xấp_xỉ nhau .
+
+2 . 3 . 2 . 4 . 3 . Ngăn_ngừa việc gây chói cho người quan_sát
+
+Tại bất_kì điểm nào nằm trong vùng định_hướng của chập tiêu , độ rọi tại mắt người quan_sát không được vượt quá 0 , 1 lx .
+
+2 . 3 . 2 . 5 . Độ chênh góc đứng giữa hai nguồn sáng
+
+Tại bất_cứ_điểm nào nằm trong vùng định_hướng của chập tiêu , độ chênh góc đứng giữa hai nguồn sáng g ( tính bằng radian ) tại vị_trí người quan_sát ít_nhất phải lớn hơn hoặc bằng 1 , 5x10 - 3 radian .
+
+2 . 3 . 2 . 6 . Độ chênh góc ngang
+
+Độ chênh góc ngang của hai tiêu ( qD ) mà tại đó người quan_sát nhận ra hai tiêu không nằm trên cùng một đường_thẳng được xác_định bằng giá_trị lớn nhất của các giá_trị trung_bình q ' 1 , q ' 2 dùng để tính_toán độ chênh góc ngang qD của hai tiêu .
+
+q ' 1 = 0 , 16 x 10-3 + 0 , 12 g ( g 1 , 5 x 10-3 rad )
+
+q ' 2 = 0 , 224 g
+
+2 . 3 . 2 . 7 . Độ lệch bên
+
+Độ lệch bên ( y ) mà tại đó người quan_sát nhận ra hai tiêu không nằm trên cùng một đường_thẳng được xác_định bằng công_thức :
+
+y = qD x ( 1 + D / d )
+
+Trị_số góc ngang ( qD ) và độ lệch bên ( y ) được xác_định theo hình 1 .
+
+Trong đó :
+
+- M là vị_trí của mắt người quan_sát
+
+- F1 là vị_trí tiêu trước
+
+- F2 là vị_trí tiêu sau
+
+- D là khoảng_cách từ điểm quan_sát đến tiêu trước
+
+- d là khoảng_cách giữa 2 tiêu
+
+Hình 1 : Các thông_số của chập tiêu
+
+2 . 3 . 2 . 8 . Kích_thước
+
+Kích_thước của chập tiêu phụ_thuộc vào loại kết_cấu , vật_liệu xây_dựng và điều_kiện tự_nhiên khu_vực bố_trí chập tiêu .
+
+2 . 4 . Báo_hiệu dẫn luồng
+
+2 . 4 . 1 . Báo_hiệu hai bên luồng
+
+2 . 4 . 1 . 1 . Báo_hiệu phía phải luồng
+
+- Tác_dụng : Báo_hiệu giới_hạn luồng về phía phải , tàu_thuyền được phép hành_trình ở phía trái của báo_hiệu ;
+
+- Số_hiệu : Là các số_lẻ ( 1 - 3 - 5 . . . ) màu trắng , số thứ tự tăng dần theo hướng luồng ;
+
+- Đặc_tính ánh_sáng khi được lắp đèn : Ánh_sáng xanh lục , chớp đơn chu_kì 2 , 5 giây hoặc 3 , 0 giây , 4 , 0 giây .
+
+2 . 4 . 1 . 2 . Báo_hiệu phía trái luồng
+
+- Dấu_hiệu đỉnh : Một hình_trụ màu đỏ ;
+
+- Số_hiệu : Là các số_chẵn ( 2 - 4 - 6 . . . ) màu trắng , số thứ tự tăng dần theo hướng luồng ;
+
+- Đặc_tính ánh_sáng khi được lắp đèn : Ánh_sáng đỏ , chớp đơn , chu_kì 2 , 5 giây hoặc 3 , 0 giây , 4 , 0 giây .
+
+2 . 4 . 2 . Báo_hiệu hướng luồng chính
+
+2 . 4 . 2 . 1 . Báo_hiệu hướng luồng chính chuyển sang phải
+
+- Dấu_hiệu đỉnh : Một hình_trụ màu đỏ ;
+
+- Số_hiệu : Là các số_chẵn ( 2 - 4 - 6 . . . ) màu trắng , số thứ tự tăng dần theo hướng luồng ;
+
+- Đặc_tính ánh_sáng khi được lắp đèn : Ánh_sáng đỏ , chớp nhóm 2 + 1 , chu_kì 5 , 0 giây hoặc 6 , 0 giây , 10 , 0 giây , 12 , 0 giây .
+
+2 . 4 . 2 . 2 . Báo_hiệu hướng luồng chính chuyển sang trái
+
+- Dấu_hiệu đỉnh : Một hình_nón màu xanh lục , đỉnh hướng lên trên ;
+
+- Số_hiệu : Là các số_lẻ ( 1 - 3 - 5 . . . ) màu trắng , số thứ tự tăng dần theo hướng luồng ;
+
+- Đặc_tính ánh_sáng khi được lắp đèn : Ánh_sáng xanh lục , chớp nhóm 2 + 1 , chu_kì 5 , 0 giây hoặc 6 , 0 giây , 10 , 0 giây , 12 , 0 giây .
+
+2 . 4 . 3 . Báo_hiệu phương vị
+
+2 . 4 . 3 . 1 . Báo_hiệu an_toàn phía Bắc
+
+- Dấu_hiệu đỉnh : Hai hình_nón màu đen đặt liên_tiếp nhau theo chiều thẳng_đứng , đỉnh nón hướng lên trên ;
+
+- Số_hiệu : Lựa_chọn theo đặc_điểm khu_vực hoặc chữ N màu trắng trên nền đen ;
+
+- Đặc_tính ánh_sáng khi được lắp đèn : Ánh_sáng trắng , chớp đơn rất nhanh chu_kì 0 , 5 giây hoặc chớp đơn nhanh chu_kì 1 , 0 giây .
+
+2 . 4 . 3 . 2 . Báo_hiệu an_toàn phía Đông
+
+- Dấu_hiệu đỉnh : Hai hình_nón màu đen đặt liên_tiếp nhau theo chiều thẳng_đứng , đáy hình_nón nối_tiếp nhau ;
+
+- Số_hiệu : Lựa_chọn theo đặc_điểm khu_vực hoặc chữ E màu đỏ trên nền vàng ;
+
+- Đặc_tính ánh_sáng khi được lắp đèn : Ánh_sáng trắng , chớp rất nhanh nhóm 3 chu_kì 5 , 0 giây hoặc chớp nhanh nhóm 3 chu_kì 10 , 0 giây .
+
+2 . 4 . 3 . 3 . Báo_hiệu an_toàn phía Nam
+
+- Dấu_hiệu đỉnh : Hai hình_nón màu đen đặt liên_tiếp nhau theo chiều thẳng_đứng , đỉnh nón hướng xuống dưới ;
+
+- Số_hiệu : Lựa_chọn theo đặc_điểm khu_vực hoặc chữ S màu đỏ trên nền vàng ;
+
+- Đặc_tính ánh_sáng khi được lắp đèn : Ánh_sáng trắng , chớp rất nhanh nhóm 6 với một chớp dài chu_kì 10 , 0 giây hoặc chớp nhanh nhóm 6 với một chớp dài chu_kì 15 , 0 giây .
+
+2 . 4 . 3 . 4 . Báo_hiệu an_toàn phía Tây
+
+- Dấu_hiệu đỉnh : Hai hình_nón màu đen đặt liên_tiếp nhau theo chiều thẳng_đứng , đỉnh hình_nón nối_tiếp nhau ;
+
+- Số_hiệu : Lựa_chọn theo đặc_điểm khu_vực hoặc chữ W màu trắng trên nền đen ;
+
+- Đặc_tính ánh_sáng khi được lắp đèn : Ánh_sáng trắng , chớp rất nhanh nhóm 9 chu_kì 10 , 0 giây hoặc chớp nhanh nhóm 9 chu_kì 15 , 0 giây .
+
+2 . 4 . 4 . Báo_hiệu chướng_ngại_vật biệt_lập
+
+- Dấu_hiệu đỉnh : Hai hình_cầu màu đen đặt liên_tiếp nhau theo chiều thẳng_đứng .
+
+- Số_hiệu : Lựa_chọn theo đặc_điểm khu_vực và có màu trắng .
+
+- Đặc_tính ánh_sáng khi được lắp đèn : Ánh_sáng trắng chớp nhóm 2 chu_kì 5 , 0 giây .
+
+2 . 4 . 5 . Báo_hiệu vùng nước an_toàn
+
+- Dấu_hiệu đỉnh : Một hình_cầu màu đỏ , chỉ áp_dụng đối_với báo_hiệu hình tháp hoặc hình cột .
+
+- Số_hiệu : Theo số thứ_tự ( 0 - 1 - 2 . . . ) , màu đen .
+
+- Đặc_tính ánh_sáng khi được lắp đèn : Ánh_sáng trắng chớp đều , chớp dài đơn chu_kì 10 , 0 giây hoặc chớp theo tín_hiệu mã Morse_chữ A chu_kì 6 , 0 giây .
+
+2 . 4 . 6 . Báo_hiệu chuyên_dùng
+
+- Tác_dụng :
+
++ Báo_hiệu phân_luồng giao_thông tại những nơi mà nếu đặt báo_hiệu hai bên luồng thông_thường có_thể gây nhầm_lẫn .
+
++ Báo_hiệu vùng khoan thăm_dò địa_chất , khai_thác dầu_mỏ , khí_đốt .
+
++ Báo_hiệu vùng đánh_bắt , nuôi_trồng hải_sản .
+
++ Báo_hiệu vùng công_trình đang thi_công .
+
++ Báo_hiệu vùng đặt đường cáp hoặc đường_ống ngầm .
+
++ Báo_hiệu vùng diễn_tập quân_sự .
+
++ Báo_hiệu vùng đặt hệ_thống thu_thập dữ_liệu hải_dương .
+
++ Báo_hiệu vùng giải_trí , du_lịch .
+
++ Báo_hiệu khu_vực trục_vớt .
+
++ Báo_hiệu đường cất , hạ_cánh của thuỷ phi_cơ .
+
++ Báo_hiệu khu_vực có các hoạt_động khác ảnh_hưởng đến an_toàn hàng_hải .
+
+- Hình_dạng : Hình_nón hoặc hình tháp , hình cột .
+
+- Màu_sắc : Màu vàng .
+
+- Dấu_hiệu đỉnh : Một chữ X màu vàng .
+
+- Số_hiệu : Lựa_chọn theo đặc_điểm khu_vực và có màu đỏ .
+
+- Đặc_tính ánh_sáng khi được lắp đèn : Ánh_sáng vàng , đặc_tính chớp không được trùng_lặp với đặc_tính chớp của các báo_hiệu hàng_hải được quy_định tại các mục 2 . 4 . 1 , 2 . 4 . 2 , 2 . 4 . 3 , 2 . 4 . 4 , 2 . 4 . 5 và 2 . 4 . 7 của Quy_chuẩn kĩ_thuật quốc_gia này .
+
+2 . 4 . 7 . Báo_hiệu chướng_ngại_vật nguy_hiểm mới phát_hiện
+
+2 . 4 . 7 . 1 . Tác_dụng : Báo_hiệu khu_vực bãi bồi , bãi đá ngầm , xác tàu đắm và các chướng_ngại_vật khác mới phát_hiện mà chưa được ghi trên các tài_liệu , ấn_phẩm hàng_hải .
+
+2 . 4 . 7 . 6 . Số_hiệu : Tuỳ điều_kiện thực_tế .
+
+2 . 4 . 7 . 7 . Đặc_tính ánh_sáng khi được lắp đèn : Ánh_sáng chớp xanh dương và vàng 01 giây xen_kẽ với khoảng tối 0 , 5 giây , chu_kì 03 giây .
+
+2 . 4 . 7 . 8 . Tuỳ điều_kiện thực_tế có_thể bố_trí báo_hiệu hai bên luồng với đặc_tính chớp nhanh hoặc rất nhanh , hoặc báo_hiệu phương vị . Nếu chướng_ngại_vật có mức_độ nguy_hiểm cao thì có_thể đặt bổ_sung một báo_hiệu . Báo_hiệu bổ_sung phải giống_hệt báo_hiệu mà nó ghép cặp . Báo_hiệu bổ_sung này có_thể được huỷ_bỏ khi những thông_tin về chướng_ngại_vật nguy_hiểm mới phát_hiện đã được thông_báo theo quy_định .
+
+2 . 4 . 7 . 9 . Tại chướng_ngại_vật nguy_hiểm mới phát_hiện có_thể lắp_đặt thêm Racon có mã tín_hiệu phản_hồi là tín_hiệu mã Morse_chữ D . Chiều dài toàn_bộ tín_hiệu mã Morse_chữ D hiển_thị trên màn_hình radar tàu tương_ứng 1 hải_lý .
+
+2 . 4 . 8 . Các thông_số kĩ_thuật của báo_hiệu dẫn luồng
+
+2 . 4 . 8 . 1 . Kích_thước
+
+Phải đảm_bảo cho người quan_sát nhận_biết được báo_hiệu từ khoảng_cách thiết_kế .
+
+2 . 4 . 8 . 2 . Kích_thước của biển_báo lắp trên báo_hiệu
+
+Phải được xác_định tương_ứng với khoảng_cách quan_sát hữu_dụng tối_đa với các điều_kiện tầm nhìn tối_thiểu . Biển_báo ban_ngày sử_dụng trên các tiêu có hình chữ_nhật dựng_đứng với tỉ_lệ là 2 : 1 , còn đối_với phao báo_hiệu thì căn_cứ vào tầm hiệu_lực yêu_cầu và hình_dạng phao để thiết_kế cho phù_hợp .
+
+2 . 4 . 8 . 3 . Màu thân báo_hiệu
+
+- Màu thông_thường sử_dụng cho báo_hiệu hàng_hải là các màu đỏ , vàng , xanh lục , trắng và đen . Các màu này phải phù_hợp với tiêu_chuẩn màu của Ủy_ban chiếu sáng quốc_tế ( cie ) , đồng_thời phải phù_hợp với giới_hạn màu được quy_định trong Phụ_lục 2 .
+
+- Màu huỳnh_quang sử_dụng trong báo_hiệu hàng_hải là các màu đỏ , vàng và xanh lục . Màu huỳnh_quang được sử_dụng trong trường_hợp đặc_biệt , yêu_cầu khả_năng nhận_biết cao . Giới_hạn màu của chúng được quy_định trong Phụ_lục 3 .
+
+2 . 4 . 8 . 4 . Dấu_hiệu đỉnh hình_nón
+
+- Chiều cao của dấu_hiệu đỉnh tính từ đáy tới đỉnh phải xấp_xỉ 90 % đường_kính đáy hình_nón ( h = 0 , 9 . d ) .
+
+- Đối_với báo_hiệu phương vị , khoảng_cách giữa các dấu_hiệu đỉnh phải xấp_xỉ 50 % đường_kính đáy hình_nón ( a = 0 , 5 . d ) .
+
+- Khoảng trống theo phương đứng giữa điểm thấp nhất của dấu_hiệu đỉnh tới tất_cả các phần khác của báo_hiệu tối_thiểu phải bằng 35 % đường_kính đáy hình_nón .
+
+- Với phao , đường_kính đáy của dấu_hiệu đỉnh phải bằng 25 % đến 30 % đường_kính của phao tại đường mặt_nước
+
+Hình 2 . Kích_thước của dấu_hiệu đỉnh hình_nón
+
+2 . 4 . 8 . 5 . Dấu_hiệu đỉnh hình_trụ
+
+- Chiều cao của dấu_hiệu đỉnh phải bằng 1 , 0 lần đến 1 , 5 lần đường_kính đáy trụ ( h = 1 . 0 1 . 5d )
+
+- Khoảng trống theo phương đứng giữa điểm thấp nhất của dấu_hiệu đỉnh tới tất_cả các phần khác của báo_hiệu tối_thiểu phải bằng 35 % đường_kính của hình_trụ .
+
+- Với phao , đường_kính đáy của dấu_hiệu đỉnh phải bằng 25 % đến 30 % đường_kính của phao tại đường mặt_nước .
+
+Hình 3 . Kích_thước của dấu_hiệu đỉnh hình_trụ
+
+2 . 4 . 8 . 6 . Dấu_hiệu đỉnh hình_cầu
+
+- Với phao , đường_kính của dấu_hiệu đỉnh tối_thiểu phải bằng 20 % đường_kính của phao tại đường mặt_nước .
+
+- Với báo_hiệu chướng_ngại_vật biệt_lập , khoảng_cách giữa các dấu_hiệu đỉnh ( a ) phải xấp_xỉ 50 % đường_kính của chúng .
+
+- Khoảng trống theo phương đứng giữa điểm thấp nhất của dấu_hiệu đỉnh tới tất_cả các phần khác của báo_hiệu tối_thiểu phải bằng 35 % đường_kính của hình_cầu .
+
+Hình 4 . Kích_thước của dấu_hiệu đỉnh hình_cầu
+
+2 . 4 . 8 . 7 . Dấu_hiệu đỉnh hình chữ X
+
+Các cánh của dấu_hiệu đỉnh hình chữ X phải chéo nhau trong phạm_vi hình_vuông với chiều dài cạnh xấp_xỉ 1/3 đường_kính phao tại đường mặt_nước . Chiều rộng của cánh chữ X bằng khoảng 15 % chiều dài cạnh hình_vuông ( b = 15 % a ) .
+
+Hình 5 . Kích_thước của dấu_hiệu đỉnh hình chữ X
+
+2 . 5 . Các báo_hiệu hàng_hải khác
+
+2 . 5 . 1 . Đèn hướng
+
+- Dùng để kiểm_tra vị_trí của báo_hiệu nổi .
+
+2 . 5 . 1 . 2 . Các thông_số kĩ_thuật
+
+- Vị_trí : Đặt tại khu_vực cần đánh_dấu , trong trường_hợp đánh_dấu phạm_vi luồng hàng_hải thường được thiết_lập trên các đăng tiêu .
+
+- Màu_sắc : Hiển_thị các chùm sáng theo phương ngang với các màu_sắc khác nhau để cung_cấp thông_tin cho người đi biển . Cơ_bản như sau : màu trắng chỉ_giới_hạn phần giao_thông an_toàn của luồng hàng_hải , màu đỏ biểu_thị lệch bên trái , màu xanh biểu_thị lệch bên phải .
+
+- Các đặc_tính khác : tuỳ điều_kiện thực_tế , tuân_thủ hướng_dẫn kí_hiệu E - 1041 của Iala về Đèn hướng ( iala Guideline_no . 1041 On Sector_lights ) .
+
+2 . 5 . 2 . Báo_hiệu hàng_hải nổi cỡ lớn
+
+2 . 5 . 2 . 2 . Các thông_số kĩ_thuật
+
+- Vị_trí : Thường đặt ngoài khơi , các địa_điểm quan_trọng , điểm tiếp_cận của khu_vực , luồng hàng_hải .
+
+- Hình_dạng : tàu hoặc phao nổi có lắp_đặt tháp đèn .
+
+- Màu_sắc : tuỳ điều_kiện thực_tế , thông_thường sử_dụng màu đỏ .
+
+- Đặc_điểm nhận_biết khác : tuỳ điều_kiện thực_tế .
+
+2 . 5 . 3 . Báo_hiệu tình_trạng giao_thông trên luồng
+
+2 . 5 . 3 . 1 . Tác_dụng : Thông_báo hoặc kiểm_soát tình_trạng giao_thông trên luồng hàng_hải , tình_trạng khai_thác của cảng biển .
+
+2 . 5 . 3 . 2 . Vị_trí : được lắp_đặt trên các cột tín_hiệu bố_trí tại nơi đầu đoạn luồng hàng_hải , lối vào cảng biển ở phía cần thông_báo , kiểm_soát .
+
+2 . 5 . 3 . 3 . Đặc_điểm thông_báo : Bao_gồm các tín_hiệu ánh_sáng theo Phụ_lục số 08 của Quy_chuẩn này .
+
+2 . 5 . 4 . Báo_hiệu luồng hàng_hải phía dưới công_trình cố_định
+
+2 . 5 . 4 . 1 . Báo_hiệu luồng hàng_hải dưới cầu
+
+- Hình_dạng : bảng hình tam_giác_đều , đỉnh hướng lên trên .
+
+- Màu_sắc : Màu xanh lục .
+
+- Đặc_tính ánh_sáng khi được lắp đèn : Ánh_sáng xanh lục , chớp đơn chu_kì 2 , 5 giây hoặc 3 , 0 giây , 4 , 0 giây .
+
+2 . 5 . 4 . 1 . 2 . Báo_hiệu biên trái luồng hàng_hải phía dưới cầu
+
+- Tác_dụng : Báo_hiệu biên trái luồng hàng_hải , tàu_thuyền được phép hành_trình ở phía phải của báo_hiệu .
+
+2 . 5 . 4 . 1 . 3 . Báo_hiệu tim luồng hàng_hải dưới cầu
+
+- Đặc_tính Ánh_sáng trắng chớp đều , chớp dài đơn chu_kì 10 , 0 giây hoặc chớp theo tín_hiệu Morse_chữ A chu_kì 6 , 0 giây .
+
+2 . 5 . 4 . 2 . Báo_hiệu đường_dây_điện , cáp treo trên luồng hàng_hải
+
+- Tác_dụng : Báo_hiệu vị_trí và tĩnh không của đường_dây_điện , cáp treo trên luồng hàng_hải .
+
+- Vị_trí : Đặt tại khu_vực đường_dây_điện , cáp treo trên luồng hàng_hải .
+
+- Đặc_tính nhận_biết : Sử_dụng báo_hiệu hàng_hải chuyên_dùng kết_hợp báo_hiệu hàng_hải bổ_trợ để cung_cấp các thông_tin cần_thiết .
+
+- Số_lượng báo_hiệu được sử_dụng phụ_thuộc mức_độ khai_thác luồng tàu .
+
+2 . 5 . 4 . 3 . Báo_hiệu công_trình ngầm qua luồng hàng_hải
+
+- Tác_dụng : Báo_hiệu phạm_vi công_trình ngầm qua luồng hàng_hải .
+
+- Vị_trí : Đặt tại khu_vực công_trình ngầm qua luồng hàng_hải .
+
+- Đặc_tính nhận_biết : Sử_dụng báo_hiệu hàng_hải chuyên_dùng kết_hợp báo_hiệu hàng_hải bổ_trợ để cung_cấp các thông_tin cần_thiết .
+
+- Số_lượng báo_hiệu căn_cứ theo điều_kiện thực_tế .
+
+2 . 5 . 5 . Báo_hiệu công_trình ngoài khơi
+
+2 . 5 . 5 . 1 . Báo_hiệu giàn khoan ngoài khơi
+
+- Tác_dụng : Báo_hiệu vị_trí giàn khoan ngoài khơi .
+
+- Vị_trí : Lắp_đặt trên giàn khoan ngoài khơi , đảm_bảo báo_hiệu phải được nhìn thấy từ bốn phía của công_trình .
+
+- Đặc_tính ánh_sáng : Ánh_sáng trắng chớp theo tín_hiệu mã Morse chữ U " , chu_kì 15 giây .
+
+- Báo_hiệu vô_tuyến : Lắp_đặt 01 racon , 01 Ais , đặc_tính nhận_biết tuỳ điều_kiện của khu_vực nhưng không trùng với các báo_hiệu đã được quy_định .
+
+- Tuỳ_thuộc vào điều_kiện khu_vực để xem_xét bố_trí bổ_sung báo_hiệu hàng_hải nổi khống_chế khu_vực công_trình giàn khoan cho phù_hợp .
+
+2 . 5 . 5 . 2 . Báo_hiệu khu_vực nuôi_trồng thuỷ_sản
+
+- Tác_dụng : Báo_hiệu phạm_vi khu_vực nuôi_trồng thuỷ_sản .
+
+- Vị_trí : Đặt tại khu_vực nuôi_trồng thuỷ_sản .
+
+- Đặc_tính nhận_biết : Sử_dụng báo_hiệu hàng_hải chuyên_dùng kết_hợp báo_hiệu hàng_hải bổ_trợ để cung_cấp các thông_tin cần_thiết .
+
+- Số_lượng báo_hiệu được sử_dụng theo Phụ_lục số 09 của Quy_chuẩn này .
+
+2 . 5 . 5 . 3 . Báo_hiệu khu_vực điện gió trên biển
+
+2 . 5 . 5 . 3 . 1 . Báo_hiệu cho công_trình điện gió ngoài khơi độc_lập
+
+2 . 5 . 5 . 3 . 2 . Báo_hiệu nhóm công_trình điện gió ngoài khơi
+
+- Tác_dụng : báo_hiệu khu_vực nhóm điện gió ngoài khơi .
+
+- Vị_trí : được lắp_đặt thành nhóm sao cho đảm_bảo khống_chế các góc_cạnh của nhóm công_trình , đường_biên ngoài .
+
+- Đặc_tính nhận biết ban_ngày : là tổ_hợp các báo_hiệu công_trình điện gió ngoài khơi độc_lập .
+
+- Đặc_tính nhận biết ban_đêm : Là tổ_hợp các báo_hiệu với đặc_tính nhận_biết như sau : Ánh_sáng màu vàng chớp đồng_bộ theo tín_hiệu mã Morse chữ U " , chu_kì 15 giây ; bố_trí ở các góc và trên đường_biên của nhóm công_trình để đảm_bảo ánh_sáng được nhìn thấy ở tất_cả các hướng , bố_trí bổ_sung đèn báo_hiệu ở giữa 02 đèn với đặc_tính ánh_sáng tương_tự và tầm hiệu_lực 2 hải_lí trong trường_hợp khoảng_cách giữa 02 đèn ở hai góc lớn hơn 3 hải_lý .
+
+Hình 5a . Ví_dụ về phương_án bố_trí báo_hiệu khu_vực nhóm điện gió ngoài khơi .
+
+- Tuỳ_thuộc vào điều_kiện khu_vực để xem_xét bố_trí bổ_sung báo_hiệu hàng_hải nổi khống_chế nhóm công_trình điện gió ngoài khơi cho phù_hợp .
+
+2 . 5 . 5 . 4 . Báo_hiệu công_trình thu năng_lượng từ sóng và thuỷ_triều
+
+2 . 5 . 5 . 4 . 1 . Báo_hiệu công_trình thu năng_lượng từ sóng và thuỷ_triều độc_lập
+
+- Tác_dụng : Báo_hiệu phạm_vi công_trình thu năng_lượng từ sóng và thuỷ_triều .
+
+- Vị_trí : Đặt tại công_trình thu năng_lượng từ sóng và thuỷ_triều .
+
+- Đặc_tính nhận_biết : Lắp_đặt báo_hiệu trên thân công_trình nổi trên mặt_nước hoặc sử_dụng báo_hiệu hàng_hải chuyên_dùng kết_hợp báo_hiệu hàng_hải bổ_trợ để cung_cấp các thông_tin cần_thiết .
+
+2 . 5 . 5 . 4 . 2 . Báo_hiệu nhóm công_trình thu năng_lượng từ sóng và thuỷ_triều độc_lập
+
+- Tác_dụng : Báo_hiệu phạm_vi công_trình thu năng_lượng từ sóng và thuỷ_triều .
+
+- Vị_trí : Đặt tại khu_vực nhóm công_trình công_trình thu năng_lượng từ sóng và thuỷ_triều .
+
+- Đặc_tính nhận_biết : Sử_dụng báo_hiệu hàng_hải chuyên_dùng kết_hợp báo_hiệu hàng_hải bổ_trợ để cung_cấp các thông_tin cần_thiết .
+
+- Số_lượng báo_hiệu được sử_dụng theo Phụ_lục số 10 của Quy_chuẩn này .
+
+2 . 5 . 6 . Báo_hiệu hàng_hải bổ_trợ
+
+2 . 5 . 6 . 1 . Tác_dụng
+
+- Hình_dạng : Hình_trụ đứng , bảng báo_hiệu đặt thẳng_đứng và bảng thông_tin đặt nằm ngang .
+
+- Màu_sắc : Bảng báo_hiệu sơn dải màu nằm ngang trắng đỏ xen kẻ , gồm 04 dải màu đỏ và 03 dải màu trắng . Bảng thông_tin nền sơn màu trắng .
+
+- Kích_thước : Tuỳ_thuộc vào yêu_cầu về tầm hiệu_lực của báo_hiệu , tuy_nhiên phải đảm_bảo bảng báo_hiệu có tỉ_lệ kích_thước chiều rộng không nhỏ hơn 1/3 lần chiều cao , chiều cao của các dải_màu tối_thiểu là 0 , 3 m ; bảng thông_tin có tỉ_lệ chiều rộng và chiều cao là 4/3, kích_thước đảm_bảo đọc được thông_tin từ khoảng_cách yêu_cầu .
+
+- Thông_tin hoặc tín_hiệu được sơn hoặc lắp_đặt trên nền trắng của bảng thông_tin , nội_dung và màu_sắc phụ_thuộc thông_tin cần cung_cấp .
+
+- Đặc_tính ánh_sáng ban_đêm : Tuỳ điều_kiện thực_tế nhưng không được xung_đột với đặc_tính thông_báo của các báo_hiệu hàng_hải khác đã được quy_định .
+
+2 . 5 . 6 . 4 . Điều_kiện sử_dụng báo_hiệu : Phải được công_bố trên các ấn_phẩm hải_đồ và tài_liệu thích_hợp .
+
+2 . 6 . Độ lệch cho phép của báo_hiệu nổi trong quá_trình sử_dụng
+
+- Đối_với báo_hiệu hai bên luồng và báo_hiệu vùng nước an_toàn : Vị_trí tâm của báo_hiệu bị xê_dịch không được vượt quá 1 , 5 lần bán_kính quay_vòng của báo_hiệu theo phương ngang luồng và 3 , 0 lần bán_kính quay_vòng của báo_hiệu theo phương dọc luồng .
+
+- Đối_với báo_hiệu khác ( báo_hiệu hướng luồng chính , báo_hiệu chuyên_dùng , báo_hiệu chướng_ngại_vật biệt_lập , báo_hiệu phương vị ) : Vị_trí tâm của báo_hiệu bị xê_dịch không được vượt quá 1 , 5 lần bán_kính quay_vòng của báo_hiệu .
+
+Công_thức tính_toán bán_kính quay_vòng của báo_hiệu nổi được xác_định theo Phụ_lục 4 .
+
+2 . 7 . Đặc_tính ánh_sáng ban_đêm của báo_hiệu thị_giác
+
+2 . 7 . 1 . Ánh_sáng chớp đơn
+
+2 . 7 . 1 . 1 . Chu_kì chớp từ 2 , 0 giây đến 15 , 0 giây ;
+
+2 . 7 . 1 . 2 . Thời_gian tối giữa hai lần chớp sáng không được nhỏ hơn ba lần thời_gian của một chớp sáng .
+
+2 . 7 . 2 . Ánh_sáng chớp nhóm
+
+2 . 7 . 2 . 1 . Chu_kì chớp từ 2 , 0 giây đến 20 , 0 giây đối_với ánh_sáng chớp nhóm 2 ; đến 30 , 0 giây đối_với ánh_sáng chớp nhóm 3 trở lên ;
+
+2 . 7 . 2 . 2 . Thời_gian tối giữa các chớp sáng trong một nhóm bằng nhau và nhỏ hơn thời_gian tối giữa các nhóm ;
+
+2 . 7 . 2 . 3 . Thời_gian tối trong một nhóm không được nhỏ hơn thời_gian của một chớp sáng ;
+
+2 . 7 . 2 . 4 . Thời_gian tối giữa các nhóm không được nhỏ hơn 3 lần thời_gian tối trong một nhóm ;
+
+2 . 7 . 2 . 5 . Đối_với ánh_sáng chớp nhóm 2 , tổng_thời_gian sáng và thời_gian tối trong nhóm không được nhỏ hơn 1 , 0 giây ;
+
+2 . 7 . 2 . 6 . Đối_với ánh_sáng chớp nhóm 3 trở lên , tổng_thời_gian sáng và thời_gian tối trong một nhóm không được nhỏ hơn 2 , 0 giây ;
+
+2 . 7 . 2 . 7 . Ánh_sáng chớp nhóm sử_dụng cho đèn_biển , đăng tiêu và chập tiêu gồm ánh_sáng chớp nhóm 2 , nhóm 3 , nhóm 4 và nhóm 5 .
+
+2 . 7 . 3 . Ánh_sáng chớp nhóm hỗn_hợp
+
+Chu_kì chớp tối_đa không lớn hơn 30 , 0 giây .
+
+2 . 7 . 4 . Ánh_sáng chớp theo tín_hiệu mã Morse
+
+Chu_kì chớp tối_đa không lớn hơn 30 , 0 giây .
+
+2 . 8 . Báo_hiệu hàng_hải Ais
+
+2 . 8 . 1 . Tác_dụng
+
+2 . 8 . 1 . 1 . Báo_hiệu luồng hàng_hải , vùng nước , phân_luồng giao_thông ;
+
+2 . 8 . 1 . 2 . Báo_hiệu công_trình trên biển ;
+
+2 . 8 . 1 . 3 . Cung_cấp thông_tin nhận_dạng một báo_hiệu hàng_hải đang tồn_tại và các thông_tin về khí_tượng , thuỷ_văn khu_vực đặt báo_hiệu ;
+
+2 . 8 . 1 . 4 . Truyền_phát thông_tin giám_sát vị_trí của báo_hiệu nổi .
+
+2 . 8 . 2 . Phân_loại và vị_trí lắp_đặt
+
+Báo_hiệu hàng_hải Ais gồm ba loại , được lắp_đặt như sau :
+
+2 . 8 . 2 . 1 . Báo_hiệu hàng_hải Ais thực ; được lắp_đặt trên một báo_hiệu hàng_hải đã có để truyền phát thông_tin về báo_hiệu đó .
+
+2 . 8 . 2 . 2 . Báo_hiệu hàng_hải Ais giả ; được lắp_đặt tại một vị_trí bên ngoài báo_hiệu hàng_hải đã có để truyền phát thông_tin về báo_hiệu đó .
+
+2 . 8 . 2 . 3 . Báo_hiệu hàng_hải Ais ảo ; được lắp_đặt tại một vị_trí nào đó để truyền phát thông_tin về một báo_hiệu hàng_hải tại một vị_trí nhất_định mà tại đó không lắp_đặt báo_hiệu .
+
+2 . 8 . 3 . Phương_thức hoạt_động
+
+Báo_hiệu hàng_hải Ais_truyền phát dữ_liệu đồng_thời trên hai kênh Vhf 161 . 975 MHz ( 87b ) và 162 . 025 MHz ( 88b ) .
+
+2 . 8 . 4 . Chế_độ hoạt_động
+
+Khi hoạt_động , báo_hiệu hàng_hải Ais sẽ phát liên_tục và tự_động các bức điện đã được định_dạng trước . Khoảng thời_gian giữa các bức điện được điều_chỉnh tuỳ_thuộc vào tình_hình giao_thông hàng_hải trong khu_vực hoặc theo yêu_cầu của cơ_quan quản_lý .
+
+2 . 8 . 5 . Thời_gian hoạt_động
+
+Thời_gian hoạt_động của báo_hiệu hàng_hải Ais là 24 giờ / ngày .
+
+2 . 8 . 6 . Thông_tin truyền_phát
+
+Nội_dung định_dạng cho các thông_tin truyền phát sử_dụng cho báo_hiệu hàng_hải Ais gồm có 4 loại sau đây :
+
+2 . 8 . 6 . 1 . Bức điện số 21 :
+
+Điện_báo các thông_tin về báo_hiệu hàng_hải cho các tàu nằm trong tầm hiệu_lực của báo_hiệu hàng_hải . Nội_dung chính của bức điện này gồm :
+
+- Loại báo_hiệu hàng_hải .
+
+- Tên báo_hiệu hàng_hải .
+
+- Vị_trí của báo_hiệu hàng_hải .
+
+- Độ chính_xác vị_trí báo_hiệu hàng_hải .
+
+- Kích_thước của báo_hiệu hàng_hải và các vị_trí liên_quan .
+
+- Một_số thông_tin khác của cơ_quan quản_lí báo_hiệu như tình_trạng kĩ_thuật của báo_hiệu hàng_hải .
+
+2 . 8 . 6 . 3 . Bức điện số 12 :
+
+Dành riêng cho các cơ_quan quản_lí báo_hiệu sử_dụng để phát các thông_tin liên_quan đến an_toàn hàng_hải cho các tàu nằm trong tầm hiệu_lực của báo_hiệu hàng_hải .
+
+2 . 8 . 6 . 4 . Bức điện số 8 :
+
+Được sử_dụng để gửi các thông_tin khí_tượng và thuỷ_văn ở khu_vực bố_trí báo_hiệu hàng_hải cho các tàu nằm trong tầm hiệu_lực của báo_hiệu hàng_hải .
+
+2 . 8 . 6 . 5 . Bức điện số 6 :
+
+Được sử_dụng để gửi thông_tin về tình_trạng hoạt_động của báo_hiệu hàng_hải , phục_vụ cho việc giám_sát tình_trạng hoạt_động của báo_hiệu .
+
+2 . 9 . Báo_hiệu Tiêu_radar ( Racon )
+
+2 . 9 . 1 . Tác_dụng
+
+2 . 9 . 1 . 1 . Báo_hiệu ven biển , báo_hiệu nhập bờ ;
+
+2 . 9 . 1 . 2 . Báo_hiệu chướng_ngại_vật nguy_hiểm ;
+
+2 . 9 . 1 . 3 . Báo_hiệu chập tiêu vô_tuyến_điện hàng_hải ;
+
+2 . 9 . 1 . 4 . Báo_hiệu các điểm quan_trọng trên luồng hàng_hải ;
+
+2 . 9 . 1 . 5 . Báo_hiệu vị_trí trên vùng_biển khó nhận_biết bằng radar tàu ;
+
+2 . 9 . 1 . 6 . Báo_hiệu tuyến hàng_hải dưới cầu ;
+
+2 . 9 . 1 . 7 . Báo_hiệu công_trình trên biển .
+
+2 . 9 . 2 . Vị_trí lắp_đặt
+
+Racon được lắp_đặt tại những vị_trí sau :
+
+2 . 9 . 2 . 1 . Khu_vực có đường bờ không rõ nét , khó xác_định trên màn_hình radar của tàu .
+
+2 . 9 . 2 . 2 . Trên các báo_hiệu hàng_hải thị_giác , cả báo_hiệu cố_định và báo_hiệu nổi , để thông_báo các đặc_tính của các báo_hiệu này , đặc_biệt trong các khu_vực có tầm nhìn_xa bị hạn_chế do ảnh_hưởng của sương_mù , mưa_gió . . .
+
+2 . 9 . 2 . 3 . Tại các chướng_ngại_vật mới phát_sinh và chưa được ghi trên hải_đồ .
+
+2 . 9 . 2 . 4 . Tại các cầu bắc ngang luồng để báo_hiệu tuyến hành hải dưới các cầu .
+
+2 . 9 . 2 . 5 . Trên các chập tiêu để định_hướng cho tàu_thuyền hành hải trên luồng theo đúng trục luồng .
+
+2 . 9 . 2 . 6 . Tại các công_trình trên biển
+
+2 . 9 . 3 . Các thông_số kĩ_thuật
+
+Dải_tần_số hoạt_động :
+
+Racon hoạt_động trên cả hai dải_tần_số là dải_tần_số X ( 9 . 300 MHz - 9 . 500 MHz ) và dải_tần_số S ( 2 . 900 MHz - 3 . 100 MHz ) .
+
+2 . 9 . 3 . 1 . Mã nhận_dạng :
+
+- Mã nhận_dạng của Racon được đặt theo dạng tín_hiệu mã Morse , bao_gồm toàn_bộ chiều dài tín_hiệu phản_hồi của Racon ;
+
+- Mã nhận_dạng của Racon phải bảo_đảm dễ nhận_biết , được bắt_đầu với một dấu gạch ( ) . Các mã nhận_dạng của Racon được quy_định trong Phụ_lục 5 ;
+
+- Tín_hiệu mã Morse_chữ D là mã nhận_dạng đặc_biệt của Racon được dùng để báo_hiệu chướng_ngại_vật nguy_hiểm mới phát_hiện hoặc công_trình trên biển chưa được đánh_dấu trên hải_đồ . Chiều dài toàn_bộ tín_hiệu của tín_hiệu mã Morse_chữ D hiển_thị trên màn_hình radar tàu tương_đương 1 hải_lý ;
+
+- Khi sử_dụng Racon để báo_hiệu khoảng thông thuyền dưới chân cầu cắt ngang luồng hàng_hải , tín_hiệu mã Morse_chữ " t " báo_hiệu bên phải khoảng thông thuyền , tín_hiệu mã Morse_chữ " b " báo_hiệu bên trái khoảng thông thuyền .
+
+2 . 9 . 3 . 2 . Chu_kì hoạt_động :
+
+Lựa_chọn một trong các chu_kì sau :
+
+15 giây On + 30 giây Off = 45 giây ;
+
+30 giây On + 15 giây Off = 45 giây ;
+
+20 giây On + 40 giây Off = 60 giây ;
+
+40 giây On + 20 giây Off = 60 giây ;
+
+15 giây On + 45 giây Off = 60 giây ;
+
+45 giây On + 15 giây Off = 60 giây ;
+
+30 giây On + 30 giây Off = 60 giây .
+
+Trong đó : On là thời_gian phát tín_hiệu , Off là thời_gian ngừng phát tín_hiệu trong một chu_kì hoạt_động của Racon .
+
+2 . 9 . 3 . 3 . Thời_gian hoạt_động :
+
+Thời_gian hoạt_động của Racon là 24 giờ / ngày .
+
+2 . 10 . Báo_hiệu âm_thanh
+
+2 . 10 . 1 . Tác_dụng
+
+Báo_hiệu âm_thanh được lắp_đặt tại các vị_trí nguy_hiểm cho hàng_hải ở khu_vực thường_xuyên có sương_mù dày_đặc làm giảm tầm nhìn_xa .
+
+2 . 10 . 2 . Vị_trí lắp_đặt
+
+Được lắp_đặt tại các vị_trí nguy_hiểm cho tàu_thuyền hành hải ở khu_vực thường_xuyên có sương_mù dày_đặc làm giảm tầm nhìn_xa .
+
+2 . 10 . 3 . Các thông_số kĩ_thuật
+
+2 . 10 . 3 . 1 . Tần_số_âm phát
+
+Từ 75 Hz đến 1 . 575 Hz ;
+
+2 . 10 . 3 . 2 . Mã tín_hiệu
+
+Tín_hiệu âm_thanh được phát theo tín_hiệu mã Morse ; khoảng thời_gian tối_thiểu của âm ngắn là 0 , 75 giây ; âm dài bằng ba lần âm ngắn .
+
+2 . 10 . 3 . 3 . Các mã tín_hiệu âm_thanh đặc_biệt
+
+- Tín_hiệu mã Morse chữ U_dùng để báo_hiệu công_trình trên biển ;
+
+- Tín_hiệu mã Morse_chữ D dùng để báo_hiệu chướng_ngại_vật nguy_hiểm .
+
+2 . 10 . 3 . 4 . Điều_kiện hoạt_động
+
+Báo_hiệu âm_thanh được sử_dụng khi tầm nhìn_xa khí_tượng nhỏ hơn hoặc bằng 2 hải_lý .
+
+3 . Quản_lý Chất_lượng
+
+3 . 1 . Việc thiết_kế , gia_công chế_tạo , xây_dựng , lắp_đặt , quản_lí vận_hành và khai_thác các báo_hiệu hàng_hải phải tuân_thủ đầy_đủ các quy_định của Quy_chuẩn kĩ_thuật quốc_gia này .
+
+3 . 2 . Các báo_hiệu và thiết_bị báo_hiệu hàng_hải , trước khi đưa vào sử_dụng khai_thác phải được chứng_nhận hợp quy hoặc được Bộ Giao_thông vận_tải chấp_thuận bằng văn_bản .
+
+3 . 3 . Trong quá_trình vận_hành khai_thác báo_hiệu hàng_hải phải duy_trì đặc_tính nhận_biết , không để suy_giảm sai_lệch so với thiết_kế ban_đầu đã thông_báo hàng_hải . Đặc_biệt đối_với báo_hiệu nổi , khi có sai_lệch về vị_trí cho phép cần phát_hiện kịp_thời và có biện_pháp khắc_phục xử_lí_sự_cố ngay .
+
+3 . 4 . Việc đo_đạc đánh_giá tình_trạng kĩ_thuật báo_hiệu hàng_hải phải có thiết_bị đo chuyên_dùng hoặc do cơ_quan có chức_năng thực_hiện .
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+4 . 1 . Các cơ_sở thiết_kế
+
+4 . 1 . 1 . Phải tiến_hành thiết_kế báo_hiệu thoả_mãn các quy_định của Quy_chuẩn kĩ_thuật quốc_gia này ;
+
+4 . 1 . 2 . Cung_cấp đầy_đủ khối_lượng hồ_sơ thiết_kế theo yêu_cầu và trình_duyệt hồ_sơ thiết_kế theo quy_định .
+
+4 . 2 . Các cơ_sở đóng mới sản_xuất , hoán cải , phục_hồi , sửa_chữa , duy_tu bảo_dưỡng báo_hiệu hàng_hải và thiết_bị báo_hiệu hàng_hải
+
+4 . 2 . 1 . Phải có đủ năng_lực , bao_gồm cả trang thiết_bị , cơ_sở vật_chất và nhân_lực có trình_độ chuyên_môn đáp_ứng yêu_cầu kĩ_thuật , đảm_bảo cho báo_hiệu và thiết_bị báo_hiệu hàng_hải như thiết_kế đã được phê_duyệt hoặc như đã thông_báo hàng_hải ; Các cơ_sở đóng mới sản_xuất , hoán cải , phục_hồi , sửa_chữa , bảo_dưỡng báo_hiệu hàng_hải phải đáp_ứng quy_định về đóng mới và sửa_chữa tàu_biển ;
+
+4 . 2 . 2 . Phải có kinh_nghiệm trong lĩnh_vực ít_nhất là năm năm liên_tục .
+
+4 . 2 . 3 . Các sản_phẩm của đơn_vị phải được cơ_quan có chức_năng nghiệm_thu , hoặc Bộ Giao_thông vận_tải có văn_bản chấp_thuận .
+
+4 . 3 . Các tổ_chức , cá_nhân quản_lí hoặc đầu_tư xây_dựng , lắp_đặt , bảo_dưỡng báo_hiệu hàng_hải
+
+4 . 3 . 1 . Việc đầu_tư xây_dựng báo_hiệu hàng_hải được thực_hiện theo quy_định tại Quy_chuẩn này và các quy_định khác có liên_quan của pháp_luật .
+
+4 . 3 . 2 . Các đơn_vị bảo_đảm an_toàn hàng_hải có trách_nhiệm :
+
+a ) Thực_hiện việc quản_lí báo_hiệu hàng_hải được giao theo quy_định .
+
+b ) Thiết_lập tạm_thời các báo_hiệu hàng_hải được giao đột_xuất .
+
+4 . 3 . 3 . Tổ_chức , cá_nhân quản_lí khai_thác luồng nhánh cảng biển , luồng chuyên_dùng , vùng nước trước cầu_cảng hoặc tiến_hành khảo_sát , xây_dựng , khai_thác công_trình trong vùng nước cảng biển và vùng_biển Việt_nam có nghĩa_vụ thiết_lập báo_hiệu hàng_hải trên các luồng và vùng nước đó theo quy_chuẩn này và các quy_định liên_quan .
+
+4 . 3 . 4 . Trách_nhiệm quản_lý , vận_hành báo_hiệu hàng_hải :
+
+a ) Cục Hàng_hải Việt_nam tổ_chức thực_hiện việc quản_lí nhà_nước về báo_hiệu hàng_hải .
+
+b ) Các đơn_vị bảo_đảm an_toàn hàng_hải tổ_chức quản_lý , vận_hành và chịu trách_nhiệm về an_toàn hoạt_động của hệ_thống báo_hiệu hàng_hải được giao .
+
+c ) Tổ_chức , cá_nhân quản_lý , vận_hành và chịu trách_nhiệm về an_toàn hoạt_động của báo_hiệu hàng_hải do tổ_chức , cá_nhân thiết_lập .
+
+4 . 4 . Các đối_tượng khai_thác báo_hiệu hàng_hải
+
+4 . 4 . 1 . Phải tuân_thủ nghiêm_túc các chỉ_dẫn của báo_hiệu hàng_hải .
+
+4 . 4 . 2 . Khi phát_hiện báo_hiệu có hư_hỏng hoặc tuyến luồng có sự thay_đổi khác với chỉ_dẫn của báo_hiệu hàng_hải phải có trách_nhiệm thông_báo ngay cho Cảng_vụ hàng_hải có liên_quan và cơ_quan quản_lí báo_hiệu hàng_hải biết .
+
+5 . Tổ_chức Thực_hiện
+
+5 . 1 . Giao Cục Hàng_hải Việt_nam hướng_dẫn , thực_hiện các nội_dung của Quy_chuẩn kĩ_thuật quốc_gia này .
+
+5 . 2 . Giao Vụ Khoa_học - Công_nghệ chỉ_đạo , kiểm_tra định_kì hàng năm việc áp_dụng Quy_chuẩn kĩ_thuật quốc_gia này . / .

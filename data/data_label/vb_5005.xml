@@ -1,0 +1,333 @@
+Thông_tư số 15/2023/tt-btnmt ngày 30 tháng 10 năm 2023 của bộ tài_nguyên và môi_trường
+
+Căn_cứ <LT rel="CC"> Luật Đa_dạng sinh_học ngày 13 tháng 11 năm 2008 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật_khoáng_sản ngày 17 tháng 11 năm 2010 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Tài_nguyên nước ngày 21 tháng 6 năm 2012 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Đất_đai ngày 29 tháng 11 năm 2013 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Tài_nguyên , môi_trường biển và hải_đảo ngày 25 tháng 6 năm 2015 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Khí_tượng thuỷ_văn ngày 23 tháng 11 năm 2015 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Đo_đạc và bản_đồ ngày 14 tháng 6 năm 2018 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Bảo_vệ môi_trường ngày 17 tháng 11 năm 2020 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật An_toàn thông_tin mạng ngày 19 tháng 11 năm 2015 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Tiếp_cận thông_tin ngày 06 tháng 4 năm 2016 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 </NĐ> của Chính_phủ về thu_thập , quản_lý , khai_thác và sử_dụng thông_tin , dữ_liệu tài_nguyên và môi_trường ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 03/2019/NĐ-CP ngày 04 tháng 01 năm 2019 </NĐ> của Chính_phủ về hoạt_động viễn_thám ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 </NĐ> của Chính_phủ về quản_lý , kết_nối và chia_sẻ dữ_liệu số của cơ_quan nhà_nước ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 68/2022/NĐ-CP ngày 22 tháng 9 năm 2022 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Cục_trưởng Cục Chuyển_đổi số và Thông_tin dữ_liệu tài_nguyên môi_trường và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư quy_định về cung_cấp , chia_sẻ thông_tin , dữ_liệu quan_trắc tài_nguyên và môi_trường .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+1 . Thông_tư này quy_định về việc cung_cấp , chia_sẻ thông_tin , dữ_liệu quan_trắc tài_nguyên và môi_trường .
+
+2 . Thông_tư này không điều_chỉnh đối_với thông_tin , dữ_liệu quan_trắc tài_nguyên và môi_trường thuộc danh_mục bí_mật nhà_nước .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với cơ_quan , tổ_chức , cá_nhân có liên_quan đến cung_cấp , chia_sẻ thông_tin , dữ_liệu quan_trắc tài_nguyên và môi_trường .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Dữ_liệu gốc quan_trắc tài_nguyên và môi_trường là dữ_liệu được thu_nhận từ các hoạt_động quan_trắc về tài_nguyên và môi_trường chưa qua quá_trình chuẩn_hoá .
+
+2 . Dữ_liệu tổng_hợp , chuyên_đề quan_trắc tài_nguyên và môi_trường là dữ_liệu đã được tổng_hợp , phân_tích , xử_lí và được tổ_chức theo chủ_đề cụ_thể .
+
+3 . Dữ_liệu mở quan_trắc tài_nguyên và môi_trường là dữ_liệu được cơ_quan nhà_nước có thẩm_quyền công_bố rộng_rãi cho cơ_quan , tổ_chức , cá_nhân tự_do sử_dụng , tái sử_dụng , chia_sẻ .
+
+4 . Cổng dữ_liệu là điểm đầu_mối truy_cập thông_tin , dữ_liệu trên mạng Internet do bộ , ngành , địa_phương quản_lí phục_vụ_việc công_bố dữ_liệu mở , cung_cấp thông_tin về chia_sẻ dữ_liệu ; cung_cấp các tài_liệu , dịch_vụ , công_cụ , ứng_dụng xử_lý , khai_thác dữ_liệu .
+
+5 . Hệ_thống Danh_mục điện_tử dùng chung của các cơ_quan nhà_nước phục_vụ phát_triển Chính_phủ điện_tử của Việt_nam là hệ_thống thu_thập , lưu_trữ , quản_lý , chia_sẻ dữ_liệu về các danh_mục , bảng mã phân_loại , mã định_danh điện_tử dùng chung của các cơ_quan nhà_nước trên môi_trường mạng , phục_vụ_việc tích_hợp , trao_đổi , chia_sẻ dữ_liệu của các bộ , ngành , địa_phương , bảo_đảm sự thống_nhất về danh_mục trong toàn_quốc ( địa_chỉ truy_cập hệ_thống là htp : / / dmdc . ngsp . gov . vn ) .
+
+Điều 4 . Nguyên_tắc cung_cấp , chia_sẻ thông_tin , dữ_liệu quan_trắc tài_nguyên và môi_trường
+
+1 . Cung_cấp , chia_sẻ thông_tin , dữ_liệu quan_trắc tài_nguyên và môi_trường tuân_thủ theo quy_định tại Điều 5 <NĐ rel="DC"> Nghị_định số 73/2017/NĐ-CP ngày 14 tháng 6 năm 2017 </NĐ> của Chính_phủ về thu_thập , quản_lý , khai_thác và sử_dụng thông_tin , dữ_liệu tài_nguyên và môi_trường ( sau đây gọi là <NĐ rel="DC"> Nghị_định số 73/2017/NĐ-CP </NĐ>).
+
+2 . Quản_lý , kết_nối và chia_sẻ dữ_liệu tuân_thủ theo quy_định tại Điều 21 <NĐ rel="DC"> Nghị_định số 73/2017/NĐ-CP </NĐ>, tại các điều 5 , 23 và 45 <NĐ rel="DC"> Nghị_định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 </NĐ> của Chính_phủ về quản_lý , kết_nối và chia_sẻ dữ_liệu số của cơ_quan nhà_nước ( sau đây gọi là <NĐ rel="DC"> Nghị_định số 47/2020/NĐ-CP </NĐ>).
+
+3 . Cung_cấp dữ_liệu mở quan_trắc tài_nguyên và môi_trường tuân_thủ theo quy_định tại Điều 17 <NĐ rel="DC"> Nghị_định số 47/2020/NĐ-CP </NĐ>.
+
+4 . Dữ_liệu danh_mục dùng chung quan_trắc tài_nguyên và môi_trường phải được kết_nối , khai_thác , chia_sẻ dữ_liệu với Hệ_thống Danh_mục điện_tử dùng chung của các cơ_quan nhà_nước phục_vụ phát_triển Chính_phủ điện_tử của Việt_nam .
+
+5 . Tuân_thủ các quy_định của pháp_luật về an_toàn thông_tin mạng , các quy_định về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ ; các quy_định về quyền sở_hữu trí_tuệ liên_quan đến dữ_liệu ; quyền riêng_tư của tổ_chức , cá_nhân .
+
+6 . Phù_hợp với Khung kiến_trúc Chính_phủ điện_tử Việt_nam , kiến_trúc Chính_phủ điện_tử cấp_bộ , kiến_trúc chính_quyền điện_tử cấp tỉnh .
+
+Chương_ii
+
+Cung_cấp , Chia_sẻ Thông_tin , Dữ_liệu Quan_trắc Tài_nguyên Và Môi_trường
+
+Mục 1 . Cơ_sở Dữ_liệu Quan_trắc Tài_nguyên Và Môi_trường
+
+Điều 5 . Hệ_thống cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường
+
+1 . Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường là tập_hợp thông_tin , dữ_liệu quan_trắc về tài_nguyên và môi_trường được xây_dựng , cập_nhật , duy_trì để quản_lý , khai_thác và sử_dụng thông_qua các phương_tiện điện_tử , bao_gồm :
+
+a ) Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường quốc_gia ;
+
+b ) Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường lĩnh_vực ;
+
+c ) Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường bộ , ngành ;
+
+d ) Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường cấp tỉnh ;
+
+đ ) Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường của tổ_chức , cá_nhân trong nước và quốc_tế ;
+
+e ) Cơ_sở dữ_liệu mở quan_trắc tài_nguyên và môi_trường .
+
+2 . Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường quốc_gia là cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường được tổng_hợp , liên_kết , tích_hợp từ các cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường trên phạm_vi toàn_quốc , phục_vụ mục_đích kết_nối , cung_cấp , chia_sẻ thông_tin , dữ_liệu quan_trắc tài_nguyên và môi_trường theo quy_định , bao_gồm :
+
+a ) Dữ_liệu chủ_quan_trắc tài_nguyên và môi_trường ;
+
+b ) Dữ_liệu danh_mục dùng chung quan_trắc tài_nguyên và môi_trường ;
+
+c ) Dữ_liệu tổng_hợp , chuyên_đề quan_trắc tài_nguyên và môi_trường ;
+
+d ) Siêu dữ_liệu quan_trắc tài_nguyên và môi_trường ;
+
+đ ) Danh_mục dữ_liệu mở quan_trắc tài_nguyên và môi_trường .
+
+3 . Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường lĩnh_vực là tập_hợp thông_tin , dữ_liệu quan_trắc theo lĩnh_vực chuyên_ngành tài_nguyên và môi_trường , bao_gồm :
+
+a ) Cơ_sở dữ_liệu quan_trắc thuộc lĩnh_vực đất_đai ;
+
+b ) Cơ_sở dữ_liệu quan_trắc thuộc lĩnh_vực tài_nguyên nước ;
+
+c ) Cơ_sở dữ_liệu quan_trắc thuộc lĩnh_vực tài_nguyên khoáng_sản , địa_chất ;
+
+d ) Cơ_sở dữ_liệu quan_trắc thuộc lĩnh_vực môi_trường ;
+
+đ ) Cơ_sở dữ_liệu quan_trắc thuộc lĩnh_vực khí_tượng thuỷ_văn ;
+
+e ) Cơ_sở dữ_liệu quan_trắc thuộc lĩnh_vực đo_đạc và bản_đồ ;
+
+g ) Cơ_sở dữ_liệu quan_trắc thuộc lĩnh_vực quản_lí tổng_hợp tài_nguyên , bảo_vệ môi_trường biển và hải_đảo ;
+
+h ) Cơ_sở dữ_liệu quan_trắc thuộc lĩnh_vực viễn_thám ;
+
+i ) Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường khác theo quy_định của pháp_luật không thuộc trường_hợp quy_định từ điểm a đến điểm h khoản này .
+
+4 . Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường cấp tỉnh là tập_hợp thông_tin , dữ_liệu quan_trắc về tài_nguyên và môi_trường thuộc phạm_vi quản_lí của Ủy_ban nhân_dân cấp tỉnh , bao_gồm :
+
+a ) Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường theo quy_định tại khoản 3 Điều này thuộc phạm_vi quản_lí của cấp tỉnh ;
+
+b ) Cơ_sở dữ_liệu mở quan_trắc tài_nguyên và môi_trường ;
+
+c ) Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường khác không thuộc trường_hợp quy_định tại điểm a và điểm b khoản này .
+
+5 . Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường bộ , ngành là tập_hợp thông_tin , dữ_liệu quan_trắc về tài_nguyên và môi_trường thuộc phạm_vi quản_lí của các bộ , ngành và do các bộ , ngành xây_dựng , quản_lý .
+
+6 . Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường của tổ_chức , cá_nhân trong nước và quốc_tế là tập_hợp thông_tin , dữ_liệu quan_trắc về tài_nguyên và môi_trường do các tổ_chức , cá_nhân trong nước và quốc_tế xây_dựng , quản_lý .
+
+Điều 6 . Dữ_liệu chủ_quan_trắc tài_nguyên và môi_trường
+
+1 . Dữ_liệu chủ_quan_trắc tài_nguyên môi_trường là dữ_liệu chứa thông_tin cơ_bản nhất để định_danh và mô_tả các đối_tượng thực_thể nghiệp_vụ cốt_lõi và độc_lập về quan_trắc tài_nguyên và môi_trường , bao_gồm :
+
+a ) Công_trình quan_trắc ;
+
+b ) Trạm quan_trắc ;
+
+c ) Điểm quan_trắc ;
+
+d ) Thông_số_đo ;
+
+đ ) Giá_trị đo ;
+
+e ) Mẫu ;
+
+g ) Kết_quả phân_tích mẫu .
+
+2 . Chuẩn dữ_liệu cho dữ_liệu chủ_quan_trắc tài_nguyên và môi_trường được quy_định tại Phụ_lục I ban_hành kèm theo Thông_tư này .
+
+Điều 7 . Dữ_liệu danh_mục dùng chung quan_trắc tài_nguyên và môi_trường
+
+1 . Dữ_liệu danh_mục dùng chung quan_trắc tài_nguyên và môi_trường là dữ_liệu về các danh_mục , bảng mã phân_loại do Bộ Tài_nguyên và Môi_trường ban_hành , được sử_dụng chung trong các hệ_thống thông_tin , cơ_sở dữ_liệu bảo_đảm việc tích_hợp , trao_đổi , chia_sẻ dữ_liệu đồng_bộ , thống_nhất , bao_gồm :
+
+a ) Loại trạm quan_trắc ;
+
+b ) Chỉ_tiêu chất_lượng đo ;
+
+c ) Đơn_vị đo ;
+
+d ) Loại quan_trắc ;
+
+đ ) Phương_pháp quan_trắc ;
+
+e ) Thiết_bị quan_trắc ;
+
+g ) Trạng_thái thiết_bị ;
+
+h ) Mùa ;
+
+i ) Vùng ;
+
+k ) Loại công_trình .
+
+2 . Chuẩn dữ_liệu cho dữ_liệu danh_mục dùng chung quan_trắc tài_nguyên và môi_trường được quy_định tại Phụ_lục Ii ban_hành kèm theo Thông_tư này .
+
+Điều 8 . Siêu dữ_liệu quan_trắc tài_nguyên và môi_trường
+
+1 . Đối_với dữ_liệu không_gian áp_dụng theo quy_định tại Phụ_lục I Quy_chuẩn kĩ_thuật quốc_gia Qcvn 42 : 2020 / btnmt về chuẩn thông_tin địa_lí cơ_sở .
+
+2 . Đối_với dữ_liệu thuộc_tính áp_dụng Tiêu_chuẩn quốc_gia Tcvn 7980 : 2015 về Thông_tin và tư_liệu - Bộ yếu_tố dữ_liệu Dublin_core .
+
+3 . Đối_với dữ_liệu dạng ảnh áp_dụng Tiêu_chuẩn quốc_gia Tcvn Iso 19115 - 2 : 2019 về Thông_tin địa_lí - Siêu dữ_liệu - Phần 2 : Mở_rộng đối_với dữ_liệu ảnh và lưới - Thông_tin địa_lí - Mã_hoá .
+
+4 . Đối_với dữ_liệu viễn_thám áp_dụng theo quy_định tại khoản 5 Điều 5 <TT rel="DC"> Thông_tư số 35/2016/TT-BTNMT ngày 28 tháng 11 năm 2016 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định quy_trình công_bố siêu dữ_liệu viễn_thám quốc_gia .
+
+5 . Đối_với dữ_liệu dạng video áp_dụng Tiêu_chuẩn quốc_tế Iso / iec 15938 ( mpeg - 7 ) .
+
+Điều 9 . Cơ_sở dữ_liệu mở quan_trắc tài_nguyên và môi_trường
+
+1 . Cơ_sở dữ_liệu mở quan_trắc tài_nguyên và môi_trường là tập_hợp thông_tin , dữ_liệu mở quan_trắc về tài_nguyên và môi_trường được xây_dựng , cập_nhật , duy_trì để quản_lý , khai_thác và sử_dụng thông_qua các phương_tiện điện_tử .
+
+2 . Cơ_sở dữ_liệu mở quan_trắc tài_nguyên và môi_trường là thành_phần của cơ_sở dữ_liệu mở về tài_nguyên và môi_trường .
+
+3 . Dữ_liệu quan_trắc tài_nguyên và môi_trường do các tổ_chức , cá_nhân cung_cấp được cập_nhật vào cơ_sở dữ_liệu mở quan_trắc tài_nguyên và môi_trường và được kiểm_tra trước khi công_bố .
+
+4 . Dữ_liệu quan_trắc tài_nguyên và môi_trường được đưa vào danh_mục dữ_liệu mở tài_nguyên và môi_trường để chia_sẻ , cung_cấp kịp_thời cho các cơ_quan , tổ_chức , cá_nhân phục_vụ phát_triển kinh_tế - xã_hội , trừ trường_hợp pháp_luật có quy_định khác .
+
+Điều 10 . Trách_nhiệm quản_lý , vận_hành cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường phục_vụ cung_cấp , chia_sẻ
+
+1 . Quản_lý , vận_hành cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường quốc_gia :
+
+a ) Duy_trì , cập_nhật Kiến_trúc của hệ_thống cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường ; quản_trị hạ_tầng số , nền_tảng số dùng chung , bảo_đảm an_toàn thông_tin cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường thuộc phạm_vi quản_lí của Bộ Tài_nguyên và Môi_trường ;
+
+b ) Thiết_lập , khởi tạo , quản_trị , vận_hành các nền_tảng dùng chung phục_vụ thu_nhận , quản_lý , lưu_trữ , phân_tích , xử_lý , tổng_hợp , kết_nối chia_sẻ dữ_liệu về quan_trắc tài_nguyên và môi_trường ; phân_quyền quản_lý , khai_thác , sử_dụng cho các đơn_vị liên_quan ;
+
+c ) Xây_dựng , quản_trị , vận_hành cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường quốc_gia , cơ_sở dữ_liệu mở quan_trắc tài_nguyên và môi_trường ;
+
+d ) Tổng_hợp danh_mục dữ_liệu dùng chung , danh_mục dữ_liệu mở quan_trắc tài_nguyên và môi_trường từ các lĩnh_vực và công_bố trên Cổng dữ_liệu của Bộ Tài_nguyên và Môi_trường ;
+
+đ ) Bộ Tài_nguyên và Môi_trường giao Cục Chuyển_đổi số và Thông_tin dữ_liệu tài_nguyên môi_trường tổ_chức thực_hiện nội_dung quy_định tại khoản này .
+
+2 . Quản_lý , vận_hành cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường lĩnh_vực :
+
+a ) Xây_dựng , trình ban_hành các quy_định kĩ_thuật , chuẩn_hoá , cập_nhật , duy_trì và vận_hành cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường lĩnh_vực thuộc phạm_vi quản_lý ;
+
+b ) Cung_cấp , cập_nhật dữ_liệu chủ , danh_mục dữ_liệu dùng chung , dữ_liệu mở , siêu dữ_liệu và các dữ_liệu khác theo quy_định cho cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường quốc_gia , cơ_sở dữ_liệu mở quan_trắc tài_nguyên và môi_trường ;
+
+c ) Cung_cấp , chia_sẻ , sử_dụng chung dữ_liệu gốc , các kết_quả phân_tích , xử_lý , tổng_hợp dữ_liệu quan_trắc tài_nguyên và môi_trường ;
+
+d ) Kiểm_tra chất_lượng dữ_liệu về quan_trắc tài_nguyên và môi_trường do các tổ_chức , cá_nhân cung_cấp trước khi đưa vào sử_dụng , công_bố ;
+
+đ ) Các đơn_vị trực_thuộc Bộ có trách_nhiệm quản_lí cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường lĩnh_vực tổ_chức thực_hiện nội_dung quy_định tại khoản này .
+
+3 . Quản_lý , vận_hành cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường cấp tỉnh :
+
+a ) Xây_dựng , duy_trì và vận_hành cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường cấp tỉnh ;
+
+b ) Cung_cấp , chia_sẻ dữ_liệu quan_trắc tài_nguyên và môi_trường cho cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường quốc_gia và cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường lĩnh_vực theo quy_định ;
+
+c ) Công_bố danh_mục dữ_liệu mở về quan_trắc tài_nguyên và môi_trường thuộc phạm_vi quản_lý ;
+
+d ) Xây_dựng , duy_trì và vận_hành cơ_sở dữ_liệu mở quan_trắc tài_nguyên và môi_trường của địa_phương ; Kiểm_tra chất_lượng dữ_liệu về quan_trắc tài_nguyên và môi_trường thuộc phạm_vi quản_lí_do các tổ_chức , cá_nhân cung_cấp trước khi đưa vào sử_dụng , công_bố ;
+
+đ ) Ủy_ban nhân_dân cấp tỉnh tổ_chức thực_hiện nội_dung quy_định tại khoản này .
+
+4 . Các bộ , ngành có thông_tin , dữ_liệu quan_trắc tài_nguyên và môi_trường xây_dựng , duy_trì và vận_hành cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường thuộc phạm_vi quản_lí và kết_nối , chia_sẻ với cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường quốc_gia , cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường lĩnh_vực .
+
+5 . Khuyến_khích các tổ_chức và cá_nhân cung_cấp , chia_sẻ dữ_liệu quan_trắc tài_nguyên và môi_trường với Cơ_sở dữ_liệu quan_trắc tài_nguyên môi_trường quốc_gia thông_qua nền_tảng tích_hợp , chia_sẻ dữ_liệu của Bộ Tài_nguyên và Môi_trường .
+
+Mục 2 . Cung_cấp , Chia_sẻ Thông_tin , Dữ_liệu Quan_trắc Tài_nguyên Và Môi_trường
+
+Điều 11 . Mô_hình kết_nối dữ_liệu quan_trắc tài_nguyên và môi_trường
+
+1 . Kết_nối giữa các Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường quốc_gia , Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường lĩnh_vực , Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường cấp tỉnh thông_qua nền_tảng tích_hợp , chia_sẻ dữ_liệu của Bộ Tài_nguyên và Môi_trường .
+
+2 . Kết_nối giữa Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường bộ , ngành với Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường quốc_gia thông_qua nền_tảng tích_hợp , chia_sẻ dữ_liệu quốc_gia hoặc nền_tảng tích_hợp , chia_sẻ dữ_liệu của Bộ Tài_nguyên và Môi_trường .
+
+3 . Kết_nối giữa Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường của tổ_chức , cá_nhân với Cơ_sở dữ_liệu mở quan_trắc tài_nguyên và môi_trường quốc_gia , Cơ_sở dữ_liệu mở quan_trắc tài_nguyên và môi_trường cấp tỉnh thông_qua nền_tảng tích_hợp , chia_sẻ dữ_liệu của Bộ Tài_nguyên và Môi_trường và nền_tảng tích_hợp , chia_sẻ dữ_liệu cấp tỉnh .
+
+Điều 12 . Kết_nối , chia_sẻ dữ_liệu quan_trắc tài_nguyên và môi_trường giữa các cơ_quan nhà_nước
+
+1 . Kết_nối , chia_sẻ dữ_liệu quan_trắc tài_nguyên và môi_trường theo hình_thức mặc_định bao_gồm các dữ_liệu được quy_định tại các điều 6 , 7 và 8 của Thông_tư này .
+
+2 . Kết_nối , chia_sẻ dữ_liệu quan_trắc tài_nguyên và môi_trường theo yêu_cầu đặc_thù tuân_thủ quy_định tại <NĐ rel="DC"> Nghị_định số 47/2020/NĐ-CP </NĐ>.
+
+3 . Phương_thức kết_nối , chia_sẻ dữ_liệu quan_trắc tài_nguyên và môi_trường :
+
+a ) Sử_dụng dịch_vụ dữ_liệu làm phương_thức để kết_nối giữa các hệ_thống thông_tin với Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường ( chuẩn RESTful Api ) ;
+
+b ) Cấu_trúc gói tin sử_dụng định_dạng Json ( JavaScript Object_notation ) .
+
+4 . Bộ Tài_nguyên và Môi_trường :
+
+a ) Giao Cục Chuyển_đổi số và Thông_tin dữ_liệu tài_nguyên môi_trường xây_dựng các dịch_vụ dữ_liệu chia_sẻ mặc_định và kết_nối vào nền_tảng tích_hợp , chia_sẻ dữ_liệu của Bộ Tài_nguyên và Môi_trường và nền_tảng tích_hợp , chia_sẻ dữ_liệu quốc_gia ; hướng_dẫn , hỗ_trợ kĩ_thuật kết_nối , chia_sẻ dữ_liệu quan_trắc tài_nguyên và môi_trường ;
+
+b ) Các đơn_vị trực_thuộc Bộ Tài_nguyên và Môi_trường được giao quản_lí cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường tổ_chức thực_hiện kết_nối và cung_cấp dữ_liệu chia_sẻ mặc_định từ Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường lĩnh_vực thông_qua nền_tảng tích_hợp , chia_sẻ dữ_liệu của Bộ Tài_nguyên và Môi_trường .
+
+5 . Các bộ , ngành có thông_tin , dữ_liệu quan_trắc tài_nguyên và môi_trường thực_hiện kết_nối , chia_sẻ dữ_liệu thông_qua nền_tảng tích_hợp , chia_sẻ dữ_liệu quốc_gia .
+
+6 . Ủy_ban nhân_dân cấp tỉnh thực_hiện kết_nối và cung_cấp dữ_liệu chia_sẻ mặc_định từ Cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường cấp tỉnh thông_qua nền_tảng tích_hợp , chia_sẻ dữ_liệu của Bộ Tài_nguyên và Môi_trường .
+
+Điều 13 . Khai_thác , sử_dụng thông_tin , dữ_liệu quan_trắc tài_nguyên và môi_trường
+
+1 . Tổ_chức , cá_nhân được quyền khai_thác , sử_dụng thông_tin , dữ_liệu quan_trắc tài_nguyên và môi_trường theo quy_định .
+
+2 . Trường_hợp thông_tin , dữ_liệu từ cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường được khai_thác trên môi_trường điện_tử thông_qua Cổng dữ_liệu , dưới dạng các dịch_vụ dữ_liệu , thực_hiện như sau :
+
+a ) Tổ_chức , cá_nhân có yêu_cầu sử_dụng dịch_vụ thực_hiện theo hướng_dẫn trên Cổng dữ_liệu và được xác_thực thông_qua Hệ_thống định_danh và xác_thực điện_tử ;
+
+b ) Khai_thác , sử_dụng thông_tin , dữ_liệu theo đúng nội_dung cam_kết sử_dụng dịch_vụ dữ_liệu và hướng_dẫn của đơn_vị cung_cấp dữ_liệu ;
+
+c ) Trong quá_trình khai_thác sử_dụng thông_tin , dữ_liệu nếu có khó_khăn , vướng_mắc , tổ_chức , cá_nhân thông_báo , phản_ánh với cơ_quan quản_lí cơ_sở dữ_liệu quan_trắc tài_nguyên và môi_trường theo quy_định tại Điều 10 của Thông_tư này .
+
+Điều 14 . Cung_cấp dữ_liệu mở quan_trắc tài_nguyên và môi_trường
+
+1 . Dữ_liệu mở quan_trắc tài_nguyên và môi_trường được cung_cấp trên Cổng dữ_liệu của bộ , ngành , địa_phương thông_qua các dịch_vụ chia_sẻ dữ_liệu hoặc đóng_gói và cho phép tổ_chức , cá_nhân tải về sử_dụng .
+
+2 . Danh_mục dữ_liệu mở quan_trắc tài_nguyên và môi_trường phải được rà_soát , sửa_đổi ( nếu có ) theo tình_hình thực_tế và định_kỳ ; dữ_liệu mở đã công_bố theo danh_mục phải được cập_nhật hoặc bổ_sung ( nếu có ) trong thời_hạn không quá 03 tháng kể từ thời_điểm công_bố .
+
+3 . Tiếp_nhận ý_kiến phản_hồi của tổ_chức , cá_nhân trên Cổng dữ_liệu để xác_định mức_độ ưu_tiên và thực_hiện công_bố dữ_liệu mở phù_hợp với nhu_cầu .
+
+4 . Khai_thác , sử_dụng dữ_liệu mở quan_trắc tài_nguyên và môi_trường tuân_thủ theo quy_định tại Điều 18 <NĐ rel="DC"> Nghị_định số 47/2020/NĐ-CP </NĐ>.
+
+Điều 15 . Bảo_đảm an_toàn thông_tin trong cung_cấp , chia_sẻ thông_tin , dữ_liệu quan_trắc tài_nguyên và môi_trường
+
+1 . Các hệ_thống thành_phần quy_định tại khoản 1 Điều 5 của Thông_tư này phải bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ quy_định tại <NĐ rel="DC"> Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 </NĐ> của Chính_phủ về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ ; <TT rel="None"> Thông_tư số 12/2022/TT-BTTTT ngày 12 tháng 8 năm 2022 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông quy_định chi_tiết và hướng_dẫn một_số điều của <NĐ rel="DC"> Nghị_định số 85/2016/NĐ-CP </NĐ> ( sau đây gọi là <TT rel="None"> Thông_tư số 12/2022/TT-BTTTT </TT>).
+
+2 . Các hệ_thống thành_phần quy_định tại khoản 1 Điều 5 của Thông_tư này phải có phương_án bảo_đảm an_toàn thông_tin đáp_ứng các yêu_cầu bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ tương_ứng đã được xác_định quy_định tại <TT rel="DC"> Thông_tư số 12/2022/TT-BTTTT </TT>; phải có phương_án giám_sát an_toàn thông_tin đáp_ứng các quy_định tại <TT rel="DC"> Thông_tư số 31/2017/TT-BTTTT ngày 15 tháng 11 năm 2017 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông quy_định hoạt_động giám_sát an_toàn hệ_thống thông_tin .
+
+3 . Các hệ_thống thành_phần quy_định tại khoản 1 Điều 5 của Thông_tư này phải thực_hiện kiểm_tra , đánh_giá an_toàn thông_tin trước khi đưa vào sử_dụng . Nội_dung , tần_suất và hình_thức kiểm_tra , đánh_giá an_toàn thông_tin tuân_thủ quy_định của pháp_luật về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ , theo phương_án bảo_đảm an_toàn thông_tin được phê_duyệt quy_định tại <TT rel="DC"> Thông_tư số 12/2022/TT-BTTTT </TT>.
+
+Chương_iii
+
+Tổ_chức Thực_hiện
+
+Điều 16 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 12 năm 2023 .
+
+Điều 17 . Trách_nhiệm thi_hành
+
+1 . Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ có dữ_liệu quan_trắc về tài_nguyên và môi_trường ; Chủ_tịch Ủy_ban nhân_dân các cấp ; Thủ_trưởng các đơn_vị trực_thuộc Bộ Tài_nguyên và Môi_trường ; Giám_đốc Sở Tài_nguyên và Môi_trường và các tổ_chức , cá_nhân liên_quan chịu trách_nhiệm thực_hiện Thông_tư này .
+
+2 . Cục Chuyển_đổi số và Thông_tin dữ_liệu tài_nguyên môi_trường chịu trách_nhiệm giúp Bộ_trưởng Bộ Tài_nguyên và Môi_trường hướng_dẫn , kiểm_tra việc thực_hiện Thông_tư này .
+
+3 . Khi các văn_bản quy_phạm_pháp_luật được dẫn chiếu áp_dụng tại Thông_tư này được sửa_đổi , bổ_sung hoặc thay_thế_thì áp_dụng theo quy_định mới .
+
+4 . Trong quá_trình thực_hiện Thông_tư này , nếu phát_hiện khó_khăn , vướng_mắc đề_nghị các cơ_quan , tổ_chức , cá_nhân phản_ánh về Bộ Tài_nguyên và Môi_trường để kịp_thời xem_xét , giải_quyết , hoàn_thiện . / .

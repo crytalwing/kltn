@@ -1,0 +1,251 @@
+Thông_tư số 25/2023/tt-btnmt ngày 29 tháng 12 năm 2023 của bộ tài_nguyên và môi_trường
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Nghị_định số 03/2019/NĐ-CP ngày 04 tháng 01 năm 2019 của Chính_phủ về hoạt_động viễn_thám ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ; Nghị_định số 67/2009/NĐ-CP ngày 03 tháng 8 năm 2009 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật và Nghị_định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Chất_lượng sản_phẩm , hàng_hoá ; Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 05 năm 2018 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 68/2022/NĐ-CP ngày 22 tháng 9 năm 2022 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Cục_trưởng Cục Viễn_thám quốc_gia , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư ban_hành Quy_chuẩn kĩ_thuật quốc_gia về quy_trình thiết_lập bộ dữ_liệu lớp phủ mặt_đất phục_vụ tính_toán phát thải khí nhà_kính sử_dụng dữ_liệu viễn_thám quang_học .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về quy_trình thiết_lập bộ dữ_liệu lớp phủ mặt_đất phục_vụ tính_toán phát thải khí nhà_kính sử_dụng dữ_liệu viễn_thám quang_học , mã_số Qcvn 78 : 2023 / btnmt .
+
+Điều 2 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2024 .
+
+Điều 3 . Tổ_chức thực_hiện
+
+1 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Cục_trưởng Cục Viễn_thám quốc_gia có trách_nhiệm hướng_dẫn , kiểm_tra việc thực_hiện Thông_tư này .
+
+3 . Trong quá_trình thực_hiện , nếu có khó_khăn , vướng_mắc thì các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , Quyết_định . / .
+
+Qcvn 78 : 2023 / btnmt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Quy_trình_thiết_lập Bộ Dữ_liệu Lớp_phủ Mặt_đất Phục_vụ Tính_toán Phát_thải_khí Nhà_kính Sử_dụng Dữ_liệu Viễn_thám Quang_học
+
+National technical regulation about the establishment process of landcover dataset for greenhouse gas emission calculation using optical remote sensing data
+
+Lời_nói_đầu
+
+Qcvn 78 : 2023 / btnmt do Cục Viễn_thám quốc_gia biên_soạn , Vụ Khoa_học và Công_nghệ trình_duyệt , Bộ Khoa_học và Công_nghệ thẩm_định , Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành theo Thông_tư số : / 2023 / t - btnmt ngày_tháng năm 2023 .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Quy_trình_thiết_lập Bộ Dữ_liệu Lớp_phủ Mặt_đất Phục_vụ Tính_toán Phát_thải_khí Nhà_kính Sử_dụng Dữ_liệu Viễn_thám Quang_học
+
+National technical regulation about the establishment process of landcover dataset for greenhouse gas emission calculation using optical remote sensing data
+
+I . Quy_định Chung
+
+1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn kĩ_thuật quốc_gia này quy_định về quy_trình thiết_lập bộ dữ_liệu lớp phủ mặt_đất phục_vụ tính_toán phát thải khí nhà_kính sử_dụng dữ_liệu viễn_thám quang_học .
+
+2 . Đối_tượng áp_dụng
+
+Quy_chuẩn kĩ_thuật này áp_dụng đối_với các cơ_quan quản_lý , tổ_chức , cá_nhân có liên_quan đến thiết_lập và áp_dụng bộ dữ_liệu lớp phủ mặt_đất phục_vụ tính_toán phát thải khí nhà_kính sử_dụng dữ_liệu viễn_thám quang_học .
+
+3 . Tài_liệu viện_dẫn
+
+Qcvn 42 : 2020 / btnmt Quy_chuẩn kĩ_thuật quốc_gia về chuẩn thông_tin địa_lí cơ_sở ban_hành theo Thông_tư số 06/2020/TT-BTNMT ngày 31 tháng 8 năm 2020 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường .
+
+Tcvn 12687 : 2019 Cơ_sở dữ_liệu địa_lí - Xây_dựng siêu dữ_liệu .
+
+Chú_thích : Trong trường_hợp tài_liệu viện_dẫn có sự sửa_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo văn_bản đã được sửa_đổi , bổ_sung hoặc ban_hành mới .
+
+4 . Giải_thích từ_ngữ
+
+Trong quy_chuẩn kĩ_thuật quốc_gia này , các từ_ngữ dưới đây được hiểu như sau :
+
+4 . 1 Phát_thải khí nhà_kính là phát thải khí trong khí_quyển gây hiệu_ứng nhà_kính .
+
+4 . 2 Lớp phủ mặt_đất là lớp phủ vật_chất quan_sát được khi chiết tách thông_qua dữ_liệu viễn_thám quang_học .
+
+4 . 3 Bộ dữ_liệu lớp phủ mặt_đất phục_vụ tính_toán phát thải khí nhà_kính sử_dụng dữ_liệu viễn_thám quang_học ( gọi tắt là Bộ dữ_liệu lớp phủ mặt_đất ) là tập_hợp các thông_tin , dữ_liệu của các đối_tượng lớp phủ mặt_đất được chiết tách từ dữ_liệu viễn_thám quang_học , làm đầu_vào phục_vụ tính_toán phát thải khí nhà_kính .
+
+4 . 4 Dữ_liệu hiện_trạng là dữ_liệu chuyên_đề được chiết tách từ dữ_liệu viễn_thám quang_học tại một thời_điểm nhất_định .
+
+4 . 5 Dữ_liệu biến_động là dữ_liệu chuyên_đề được thiết_lập từ dữ_liệu hiện_trạng của một giai_đoạn hoặc nhiều giai_đoạn khác nhau .
+
+Ii . Quy_định Kỹ_thuật
+
+5 . Cơ_sở toán_học
+
+Hệ quy chiếu và Hệ toạ_độ quốc_gia Vn - 2000 ( sau đây được gọi là Hệ_vn - 2000 ) theo quy_định tại Thông_tư số 973/2001/TT-TCĐC ngày 20 tháng 6 năm 2001 của Tổng_cục Địa_chính ( nay là Bộ Tài_nguyên và Môi_trường ) , cụ_thể :
+
+- Lưới chiếu hình_trụ ngang đồng góc Utm ( Universal Transverse_mecator ) , Ellipsoid_wgs84 ;
+
+- Múi chiếu 6 , hệ_số điều_chỉnh tỉ_lệ biến_dạng chiều dài k0 = 0 , 9996 .
+
+6 . Chuẩn mô_hình cơ_sở dữ_liệu
+
+Chuẩn về mô_hình Cơ_sở dữ_liệu theo quy_định tại Thông_tư 26/2014/TT- Btnmt ngày 28/05/2014 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường Ban_hành Quy_trình và Định_mức kinh_tế - kĩ_thuật xây_dựng cơ_sở dữ_liệu tài_nguyên và môi_trường .
+
+Chuẩn về mô_hình khái_niệm dữ_liệu không_gian , thời_gian và phương_pháp lập danh_mục đối_tượng địa_lí theo Qcvn 42 : 2020/BTNMT Quy_chuẩn kĩ_thuật quốc_gia về chuẩn thông_tin địa_lí cơ_sở ban_hành kèm theo Thông_tư số 06/2020/TT-BTNMT ngày 31 tháng 8 năm 2020 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường .
+
+7 . Danh_mục dữ_liệu và đối_tượng lớp phủ mặt_đất
+
+7 . 1 Danh_mục dữ_liệu thuộc bộ dữ_liệu lớp phủ mặt_đất , bao_gồm : vùng kinh_tế xã_hội ; dữ_liệu hiện_trạng lớp phủ mặt_đất 02 ( hai ) thời_điểm ; dữ_liệu biến_động lớp phủ mặt_đất ; ma_trận chuyển_đổi giữa các loại đối_tượng lớp phủ mặt_đất .
+
+7 . 2 Đối_tượng lớp phủ mặt_đất phục_vụ tính_toán phát thải khí nhà_kính được quy_định trong Bảng đối_tượng lớp phủ mặt_đất dưới đây :
+
+8 . Khoảng thời_gian thiết_lập dữ_liệu biến_động lớp phủ mặt_đất
+
+Dữ_liệu biến_động lớp phủ mặt_đất được thiết_lập từ dữ_liệu hiện_trạng lớp phủ mặt_đất tại hai thời_điểm cách nhau 10 năm ( thời_điểm thứ hai là thời_điểm cần_thiết_lập bộ dữ_liệu lớp phủ mặt_đất ) .
+
+9 . Quy_mô thể_hiện bộ dữ_liệu lớp phủ mặt_đất sử_dụng dữ_liệu viễn_thám quang_học
+
+9 . 1 Quy_mô quốc_gia
+
+Quy_mô quốc_gia được thực_hiện trên toàn_bộ phần đất_liền thuộc lãnh_thổ Việt_nam với mức_độ chi_tiết và độ chính_xác thể_hiện đối_tượng trong bộ dữ_liệu lớp phủ mặt_đất phục_vụ tính_toán phát thải khí nhà_kính tương_ứng với cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 250 . 000 .
+
+9 . 2 Quy_mô vùng
+
+Phân_vùng kinh_tế - xã_hội áp_dụng theo quy_định tại Nghị_quyết số 81/2023/QH15 ngày 09 tháng 01 năm 2023 của Quốc_hội , mức_độ chi_tiết và độ chính_xác thể_hiện đối_tượng trong bộ dữ_liệu lớp phủ mặt_đất phục_vụ tính_toán phát thải khí nhà_kính tương_ứng với cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 100 . 000 , bao_gồm 06 vùng quy_định tại mục B . 2 . 1 . Vùng Kinh_tế - xã_hội Phụ_lục B của Quy_chuẩn kĩ_thuật quốc_gia này .
+
+10 . Dữ_liệu viễn_thám quang_học
+
+10 . 1 Thời_gian thu_nhận dữ_liệu
+
+Dữ_liệu viễn_thám quang_học phải được thu_nhận trong vòng 01 năm tính từ thời_điểm cần_thiết_lập bộ dữ_liệu lớp phủ mặt_đất .
+
+10 . 2 Yêu_cầu về dữ_liệu
+
+10 . 2 . 1 Đối_với quy_mô quốc_gia : sử_dụng dữ_liệu viễn_thám quang_học có độ phân_giải không_gian không quá 30 m .
+
+10 . 2 . 2 Đối_với quy_mô vùng : sử_dụng dữ_liệu viễn_thám quang_học có độ phân_giải không_gian không quá 15 m .
+
+10 . 2 . 3 Dữ_liệu viễn_thám quang_học cần đảm_bảo ở mức 2a theo quy_định tại Thông_tư số 10/2015/TT-BTNMT ngày 25/3/2015 quy_định kĩ_thuật về sản_xuất ảnh viễn_thám quang_học độ phân_giải cao và siêu cao để cung_cấp đến người sử_dụng ( là dữ_liệu viễn_thám đã được đưa về hệ quy chiếu và hệ toạ_độ Quốc_gia Vn - 2000 , hệ toạ_độ phẳng Utm quốc_tế , sử_dụng mô_hình vật_lý , các thông_tin quỹ_đạo của vệ_tinh ) .
+
+10 . 3 Yêu_cầu về chất_lượng dữ_liệu
+
+10 . 3 . 1 Độ tương_phản được xác_định bằng phương_pháp đo_đạc tỉ_lệ tương_phản hiển_thị của Liên_minh viễn_thông quốc_tế , tỉ_lệ tương_phản là Đạt khi lớn hơn hoặc bằng 3 : 1 .
+
+10 . 3 . 2 Độ sắc nét cần xác_định_lượng chi_tiết mà hệ_thống hình_ảnh có_thể tái_tạo , được đo bằng " khoảng_cách tăng " ( khoảng mờ hoặc khoảng loé ) của một cạnh trong hình_ảnh , độ sắc nét là Đạt khi khoảng_cách đảm_bảo nhỏ hơn kích_thước 3 điểm_ảnh .
+
+10 . 3 . 3 Giá_trị độ xám của điểm_ảnh phải phù_hợp với đường_cong phản_xạ phổ của đối_tượng .
+
+10 . 3 . 4 Hình_ảnh địa_vật biến_dạng so với thực_tế phải đảm_bảo xác_định được đúng đỉnh của các đa_giác điều vẽ địa_vật .
+
+10 . 3 . 5 Mức_độ chi_tiết của dữ_liệu nằm trong thang đánh_giá khả_năng giải đoán dữ_liệu viễn_thám ( nirs ) với độ phân_giải và tỉ_lệ tương_ứng .
+
+11 . Xử_lí dữ_liệu viễn_thám quang_học
+
+11 . 1 Chuyển_đổi giá_trị phản_xạ
+
+Dữ_liệu viễn_thám quang_học thu_nhận được chuyển_đổi sang giá_trị phản_xạ ở đỉnh khí_quyển Toa ( Top of atmosphere ) và chia theo tỉ_lệ nhất_quán trên toàn_bộ khối , phổ phản_xạ trong phạm_vi giá_trị từ 0 đến 1 và được ghi lại dưới dạng giá_trị_số_nguyên 16 bit .
+
+11 . 2 Chuẩn_hoá phản_xạ mặt_đất
+
+Chuẩn_hoá phản_xạ mặt_đất phải đảm_bảo sự tương_đồng về phổ của các đối_tượng lớp phủ mặt_đất theo các nhóm chỉ_số : ( 1 ) các chỉ_số là dữ_liệu phản_xạ các kênh phổ ; ( 2 ) các chỉ_số thực_vật , đất , nước ; ( 3 ) các chỉ_số thống_kê : min , max , trung_bình , trung vị ; ( 4 ) các chỉ_số chu_kỳ : biên_độ , pha ; ( 5 ) tổ_hợp của các chỉ_số trên .
+
+11 . 3 Tổ_hợp dữ_liệu viễn_thám quang_học
+
+11 . 3 . 1 Dữ_liệu sau khi chuẩn_hoá phản_xạ mặt_đất được sử_dụng để tổ_hợp ( composites ) cho việc hiển_thị dữ_liệu , lựa_chọn mẫu , lấy mẫu để xây_dựng bộ mẫu khoá giải đoán phục_vụ quá_trình phân_loại và giải đoán dữ_liệu viễn_thám quang_học .
+
+11 . 3 . 2 Dữ_liệu viễn_thám quang_học sau khi tổ_hợp ( ghép khối dữ_liệu ) phải đảm_bảo độ che_phủ mây dưới 10 % .
+
+11 . 3 . 3 Chất_lượng dữ_liệu sau khi tổ_hợp phải đảm_bảo độ sáng tổng_quan của dữ_liệu trung_bình hoặc hơi sáng ; biểu_đồ histogram phân_bố tập_trung ở khoảng 25 % đến 55 % của thang_độ xám ; tỉ_lệ tương_phản lớn hơn hoặc bằng 3 : 1 .
+
+12 . Giải đoán dữ_liệu viễn_thám quang_học
+
+12 . 1 Xây_dựng bộ mẫu khoá giải đoán
+
+12 . 1 . 1 Mỗi mẫu khoá giải đoán là một đối_tượng trên dữ_liệu viễn_thám quang_học tương_ứng với một mẫu đối_tượng tại thực_địa có cùng toạ_độ . Việc chọn mẫu tuân_thủ theo tiêu_chí về những vùng có đặc_tính phổ đồng_nhất và đặc_trưng cho đối_tượng cần phân_loại . Sau khi tiến_hành chọn mẫu cho tất_cả các đối_tượng lớp phủ mặt_đất , các mẫu khoá giải đoán được xây_dựng thành bộ khoá giải đoán phục_vụ quá_trình phân_loại .
+
+12 . 1 . 2 Số_lượng mẫu được lựa_chọn phục_vụ phân_loại phải đảm_bảo tối_thiểu một mẫu trên một ô lưới với kích_thước cạnh 10 km ( đối_với quy_mô quốc_gia ) và 5 km ( đối_với quy_mô cấp vùng ) . Trong đó , 70 % mẫu phục_vụ phân_loại , 30 % mẫu phục_vụ kiểm_chứng đánh_giá độ tin_cậy .
+
+12 . 2 Phân_loại dữ_liệu viễn_thám quang_học
+
+Quá_trình giải đoán dữ_liệu viễn_thám quang_học sử_dụng phần_mềm chuyên_dụng và bộ mẫu khoá giải đoán . Kết_quả thu được sau phân_loại được xuất dưới dạng raster phục_vụ thành_lập thông_tin hiện_trạng lớp phủ mặt_đất . Để đảm_bảo độ tin_cậy của kết_quả phân_loại cần đánh_giá dựa trên chỉ_số Kappa ( k ) được thống_kê , kiểm_tra và đánh_giá sự phù_hợp giữa những nguồn dữ_liệu khác nhau hoặc áp_dụng các thuật_toán khác nhau . Độ tin_cậy kết_quả phân_loại đảm_bảo khi hệ_số K 0 , 7 .
+
+Cách xác_định chỉ_số Kappa được thể_hiện như sau :
+
+Trong đó :
+
+T - Độ chính_xác toàn_cục cho bởi ma_trận sai_số
+
+E - Đại_lượng thể_hiện sự mong_muốn ( kỳ_vọng ) phân_loại chính_xác có_thể dự_đoán trước , nghĩa_là E góp_phần ước_tính khả_năng phân_loại chính_xác trong quá_trình phân_loại thực_sự .
+
+13 . Xây_dựng bộ dữ_liệu hiện_trạng lớp phủ mặt_đất
+
+Kết_quả giải đoán các đối_tượng lớp phủ mặt_đất từ dữ_liệu viễn_thám quang_học đạt yêu_cầu được xây_dựng thành bộ dữ_liệu hiện_trạng lớp phủ mặt_đất .
+
+14 . Xây_dựng bộ dữ_liệu biến_động lớp phủ mặt_đất
+
+Bộ dữ_liệu biến_động lớp phủ mặt_đất được thực_hiện bằng phương_pháp chồng xếp hai bộ dữ_liệu hiện_trạng các đối_tượng lớp phủ mặt_đất tại 02 ( hai ) thời_điểm . Mã chuyển_đổi giữa các loại đối_tượng lớp phủ mặt_đất được quy_định tại Phụ_lục A của Quy_chuẩn kĩ_thuật quốc_gia này .
+
+15 . Xây_dựng bộ dữ_liệu lớp phủ mặt_đất phục_vụ tính_toán phát thải khí nhà_kính
+
+15 . 1 Để thiết_lập bộ dữ_liệu lớp phủ mặt_đất thì dữ_liệu phải được chuẩn_hoá và trình_bày theo các đối_tượng lớp phủ mặt_đất được phân_biệt bằng mã lớp phủ và màu_sắc tương_ứng .
+
+15 . 2 Mô_hình và nội_dung bộ dữ_liệu lớp phủ mặt_đất
+
+- Dữ_liệu được lưu_trữ ở định_dạng Gdb và được tổ_chức như sau :
+
++ Lớp dữ_liệu vùng kinh_tế - xã_hội ;
+
++ Lớp dữ_liệu hiện_trạng lớp phủ mặt_đất tại các thời_điểm ;
+
++ Lớp dữ_liệu biến_động lớp phủ mặt_đất giữa 02 ( hai ) thời_điểm ;
+
++ Ma_trận chuyển_đổi giữa các loại lớp phủ mặt_đất .
+
+- Quy_định kĩ_thuật chi_tiết mô_hình và nội_dung bộ dữ_liệu lớp phủ mặt_đất tại Phụ_lục B của Quy_chuẩn kĩ_thuật quốc_gia này .
+
+15 . 3 Chuẩn_hoá dữ_liệu
+
+- Dữ_liệu được thiết_lập , cập_nhật và lưu_trữ theo mô_hình và nội_dung cơ_sở dữ_liệu ;
+
+- Dữ_liệu sau chuẩn_hoá nhất_quán ở Hệ quy chiếu và Hệ toạ_độ quốc_gia Vn - 2000 , không_gian và thuộc_tính ;
+
+- Font_chữ theo tiêu_chuẩn Tcvn 6909 : 2001 ;
+
+- Dữ_liệu ở định_dạng cơ_sở dữ_liệu thống_nhất ( Ge oda ta base ) ;
+
+- Dữ_liệu đã được phân lớp ;
+
+- Thể_hiện được quan_hệ không_gian trong cùng một lớp dữ_liệu và giữa các lớp dữ_liệu .
+
+15 . 4 Trình_bày bộ dữ_liệu lớp phủ mặt_đất
+
+Dữ_liệu_trình_bày trong bộ dữ_liệu lớp phủ mặt_đất theo các đối_tượng dạng raster , được phân_biệt bằng mã lớp phủ và màu_sắc tương_ứng , đáp_ứng các ràng_buộc toàn_vẹn dữ_liệu không_gian ( topology ) , chi_tiết quy_định tại Phụ_lục C của Quy_chuẩn kĩ_thuật quốc_gia này .
+
+Iii . Quy_định Về Quản_lý
+
+16 . Phương_thức đánh_giá sự phù_hợp
+
+Chứng_nhận hợp quy sản_phẩm theo Phương_thức 1 Thử_nghiệm mẫu điển_hình quy_định tại Phụ_lục Ii Thông_tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ_trưởng Bộ Khoa_học và Công_nghệ quy_định về công_bố hợp quy và phương_thức đánh_giá sự phù_hợp với tiêu_chuẩn , quy_chuẩn kĩ_thuật .
+
+17 . Quy_định về công_bố hợp quy
+
+Sản_phẩm bộ dữ_liệu lớp phủ mặt_đất phục_vụ tính_toán phát thải khí nhà_kính sử_dụng dữ_liệu viễn_thám quang_học phải được công_bố hợp quy dựa trên kết_quả chứng_nhận của tổ_chức chứng_nhận được chỉ_định . Kết_quả đo kiểm / thử_nghiệm phục_vụ công_bố hợp quy phải thực_hiện_tại tổ_chức chứng_nhận được chỉ_định theo quy_định của pháp_luật .
+
+18 . Trách_nhiệm công_bố hợp quy
+
+18 . 1 Các tổ_chức , doanh_nghiệp , cá_nhân khi thiết_lập bộ dữ_liệu lớp phủ mặt_đất phục_vụ tính_toán phát thải khí nhà_kính sử_dụng dữ_liệu viễn_thám quang_học có trách_nhiệm công_bố hợp quy đối_với sản_phẩm phù_hợp với quy_định nêu tại Điều 16 của Quy_chuẩn kĩ_thuật quốc_gia này .
+
+18 . 2 Việc công_bố hợp quy thực_hiện theo các văn_bản sau : Thông_tư số 06/2020/TT-BKHCN ngày 10 tháng 12 năm 2020 của Bộ_trưởng Bộ Khoa_học và Công_nghệ quy_định chi_tiết và biện_pháp thi_hành một_số điều Nghị_định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 , Nghị_định số 74/2018/NĐ- Cp ngày 15 tháng 5 năm 2018 , Nghị_định số 154/2018/NĐ-CP ngày 09 tháng 11 năm 2018 và Nghị_định số 119/2017/NĐ-CP ngày 01 tháng 11 năm 2017 của Chính_phủ ; Thông_tư số 02/2017/TT-BKHCN ngày 31 tháng 3 năm 2017 của Bộ_trưởng Bộ Khoa_học và Công_nghệ sửa_đổi , bổ_sung một_số điều của Thông_tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ_trưởng Bộ Khoa_học và Công_nghệ quy_định về công_bố hợp chuẩn , công_bố hợp quy và phương_thức đánh_giá sự phù_hợp với tiêu_chuẩn , quy_chuẩn kĩ_thuật .
+
+18 . 2 . 1 Thành_phần hồ_sơ công_bố hợp quy theo quy_định tại khoản 4 Điều 1 Thông_tư số 02/2017/TT-BKHCN ngày 31 tháng 3 năm 2017 của Bộ_trưởng Bộ Khoa_học và Công_nghệ về việc sửa_đổi , bổ_sung Điều 14 Thông_tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 của Bộ_trưởng Bộ Khoa_học và Công_nghệ .
+
+18 . 2 . 2 Đơn_vị tiếp_nhận bảng công_bố hợp quy là Cục Viễn_thám quốc_gia , Bộ Tài_nguyên và Môi_trường .
+
+19 . Phương_pháp thử
+
+19 . 1 Đối_với kết_quả phân_loại dữ_liệu lớp phủ mặt_đất sử_dụng phương_pháp_định_lượng sản_phẩm theo quy_định tại Điểm 4 . 3 của Quy_chuẩn kĩ_thuật quốc_gia này .
+
+19 . 2 Kiểm_tra Chuẩn mô_hình cấu_trúc cơ_sở dữ_liệu phục_vụ tính_toán phát thải khí nhà_kính sử_dụng dữ_liệu viễn_thám quang_học theo Qcvn 42 : 2020 / btnmt Quy_chuẩn kĩ_thuật quốc_gia về chuẩn thông_tin địa_lí cơ_sở ban_hành kèm theo Thông_tư số 06/2020/TT-BTNMT ngày 31 tháng 8 năm 2020 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường .
+
+Iv . Tổ_chức Thực_hiện
+
+20 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Quy_chuẩn kĩ_thuật quốc_gia này .
+
+21 . Cục_trưởng Cục Viễn_thám quốc_gia có trách_nhiệm hướng_dẫn , kiểm_tra việc thực_hiện Quy_chuẩn kĩ_thuật quốc_gia này .
+
+22 . Trong quá_trình thực_hiện , nếu có khó_khăn , vướng_mắc thì các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , Quyết_định . /

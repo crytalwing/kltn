@@ -1,0 +1,661 @@
+Nghị_định số 64/2007/nđ-cp ngày 10 tháng 04 năm 2007 của chính_phủ
+
+Căn_cứ Luật Tổ_chức Chính_phủ ngày 25 tháng 12 năm 2001 ; Căn_cứ Luật Công_nghệ thông_tin ngày 29 ngày 6 năm 2006 ; Căn_cứ Luật Giao_dịch điện_tử ngày 29 tháng 11 năm 2005 ; Xét đề_nghị của Bộ_trưởng Bộ Bưu_chính , Viễn_thông ;
+
+Nghị_định
+
+Chương 1 :
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Nghị_định này quy_định về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Nghị_định này áp_dụng đối_với cơ_quan nhà_nước bao_gồm các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các cấp và các đơn_vị sự_nghiệp sử_dụng ngân_sách nhà_nước .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Nghị_định này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Ứng_dụng công_nghệ thông_tin hoạt_động của cơ_quan nhà_nước : là việc sử_dụng công_nghệ thông_tin vào các hoạt_động của cơ_quan nhà_nước nhằm nâng cao chất_lượng , hiệu_quả trong hoạt_động nội_bộ của cơ_quan nhà_nước và giữa các cơ_quan nhà_nước , trong giao_dịch của cơ_quan nhà_nước với tổ_chức và các nhân , hỗ_trợ đẩy_mạnh cải_cách hành_chính vào bảo_đảm công_khai , minh_bạch .
+
+2 . An_toàn thông_tin : bao_gồm các hoạt_động quản_lý , nghiệp_vụ và kĩ_thuật đối_với hệ_thống thông_tin nhằm bảo_vệ , khôi_phục các hệ_thống , các dịch_vụ và nội_dung thông_tin đối_với nguy_cơ tự_nhiên hoặc do con_người gây ra . Việc bảo_vệ thông_tin , tài_sản và con_người trong hệ_thống thông_tin nhằm bảo_đảm cho các hệ_thống thực_hiện đúng chức_năng , phục_vụ đúng đối_tượng một_cách sẵn_sàng , chính_xác và tin_cậy . An_toàn , thông_tin bao_hàm các nội_dung bảo_vệ và bảo_mật thông_tin , an_toàn dữ_liệu , an_toàn máy_tính và an_toàn mạng .
+
+3 . Dữ_liệu đặc_tả ( Metadata ) : là những thông_tin mô_tả các đặc_tính của dữ_liệu như nội_dung , định_dạng , chất_lượng , điều_kiện và các đặc_tính khác nhằm tạo thuận_lợi cho quá_trình tìm_kiếm , truy_nhập , quản_lí và lưu_trữ dữ_liệu .
+
+4 . Giải_pháp , sản_phẩm ( phần_cứng , phần_mềm , thông_tin số ) dùng chung : là giải_pháp , sản_phẩm được tạo ra để có_thể ứng_dụng trong nhiều cơ_quan nhà_nước khác nhau . Giải_pháp , sản_phẩm chỉ được coi là dùng chung khi được cơ_quan nhà_nước có thẩm_quyền Quyết_định .
+
+5 . Thông_tin cá_nhân : là thông_tin đủ để xác_định chính_xác danh_tính một cá_nhân , bao_gồm ít_nhất nội_dung trong những thông_tin sau đây : họ tên , ngày_sinh , nghề_nghiệp , chức_danh , địa_chỉ liên_hệ , địa_chỉ thư điện_tử , số điện_thoại , số chứng_minh nhân_dân , số hộ_chiếu . Những thông_tin thuộc bí_mật cá_nhân gồm có hồ_sơ y_tế , hồ_sơ nộp thuế , số thẻ bảo_hiểm xã_hội , số thẻ tín_dụng và những bí_mật cá_nhân khác .
+
+6 . Dịch_vụ hành_chính công : là những dịch_vụ liên_quan đến hoạt_động thực_thi pháp_luật , không nhằm mục_tiêu lợi_nhuận , do cơ_quan nhà_nước ( hoặc tổ_chức , doanh_nghiệp được uỷ_quyền ) có thẩm_quyền cấp cho tổ_chức , cá_nhân dưới hình_thức các loại giấy_tờ có giá_trị pháp_lí trong các lĩnh_vực mà cơ_quan nhà_nước đó quản_lý .
+
+7 . Hạ_tầng kĩ_thuật : là tập_hợp thiết_bị tính_toán ( máy_chủ , máy trạm ) , thiết_bị ngoại_vi , thiết_bị kết_nối_mạng , thiết_bị phụ_trợ , mạng nội_bộ , mạng diện_rộng .
+
+8 . Văn_bản điện_tử : là văn_bản được thể_hiện dưới dạng thông_điệp dữ_liệu .
+
+9 . Gói_thầu Epc : là gói_thầu bao_gồm toàn_bộ các công_việc thiết_kế , cung_cấp_thiết_bị , vật_tư và xây_lắp .
+
+Điều 4 . Công_khai , minh_bạch thông_tin trên môi_trường mạng
+
+1 . Cơ_quan nhà_nước có trách_nhiệm cung_cấp công_khai , minh_bạch , kịp_thời , đầy_đủ và chính_xác trên môi_trường mạng những thông_tin theo quy_định của khoản 2 Điều 28 của Luật Công_nghệ thông_tin ; pháp_luật về phòng_chống tham_nhũng và thực_hiện tiết_kiệm , chống lãng_phí và các quy_định khác của pháp_luật về công_khai , minh_bạch thông_tin .
+
+2 . Việc cung_cấp , trao_đổi , chia_sẻ thông_tin thuộc danh_mục bí_mật nhà_nước , bí_mật kinh_doanh và bí_mật cá_nhân phải tuân_thủ các quy_định của pháp_luật có liên_quan .
+
+Điều 5 . Bảo_vệ thông_tin cá_nhân do cơ_quan nhà_nước nắm giữ trên môi_trường mạng
+
+1 . Cơ_quan nhà_nước thu_nhập , xử_lí và sử_dụng thông_tin cá_nhân trên môi_trường mạng phải thực_hiện theo quy_định tại Điều 21 của Luật Công_nghệ thông_tin .
+
+2 . Các biện_pháp_bảo_vệ thông_tin cá_nhân bao_gồm : thông_báo mục_đích sử_dụng thông_tin cá_nhân ; giám_sát quá_trình xử_lí thông_tin cá_nhân ; ban_hành thủ_tục kiểm_tra , đính_chính hoặc huỷ_bỏ thông_tin cá_nhân ; các biện_pháp kĩ_thuật khác .
+
+3 . Cơ_quan nhà_nước nắm giữ thông_tin thuộc bí_mật cá_nhân phải có trách_nhiệm bảo_vệ những thông_tin đó và chỉ được phép cung_cấp , chia_sẻ cho bên thứ ba có thẩm_quyền trong những trường_hợp nhất_định theo quy_định của pháp_luật .
+
+Điều 6 . Số_hoá thông_tin và lưu_trữ dữ_liệu
+
+1 . Thông_tin do các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương ( sau đây gọi là Ủy_ban nhân_dân cấp tỉnh ) tạo ra đều phải ở dạng số và lưu_trữ theo tiêu_chuẩn , quy_chuẩn kĩ_thuật quy_định để bảo_đảm an_toàn , dễ_dàng quản_lý , truy_nhập , tìm_kiếm thông_tin .
+
+2 . Thông_tin số phải được định_kì sao_chép và lưu_trữ theo quy_định do cơ_quan nhà_nước có thẩm_quyền tại Điều 49 Nghị_định này ban_hành .
+
+3 . Cơ_quan nhà_nước có kế_hoạch số_hoá những nguồn thông_tin chưa ở dạng số theo thức tự ưu_tiên về thời_gian và tầm quan_trọng .
+
+4 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh quy_định trách_nhiệm số_hoá thông_tin và lưu_trữ dữ_liệu của các đơn_vị , tổ_chức trực_thuộc tuỳ theo tình_hình thực_tế của ngành hoặc địa_phương mình .
+
+Điều 7 . Chia_sẻ thông_tin số
+
+1 . Cơ_quan nhà_nước có trách_nhiệm ban_hành quy_chế về chia_sẻ thông_tin số nhằm bảo_đảm sử_dụng chung thông_tin về quản_lý , điều_hành , phối_hợp công_tác và những thông_tin khác một_cách đồng_bộ , thông_suốt giữa các cơ_quan nhà_nước .
+
+2 . Quy_chế về chia_sẻ thông_tin số giữa các cơ_quan nhà_nước cần thực_hiện theo các nguyên_tắc chính sau :
+
+a ) Bảo_đảm các yêu_cầu về an_toàn thông_tin theo quy_định của Điều 41 Nghị_định này ;
+
+b ) Đồng_bộ với quy_chế về xây_dựng , quản_lí khai_thác , bảo_vệ và duy_trì cơ_sở dữ_liệu quốc_gia , cơ_sở dữ_liệu của các Bộ , cơ quang ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh ;
+
+c ) Không thu_nhập lại những thông_tin số đã được cơ_quan nhà_nước khác cung_cấp , chia_sẻ nếu nội_dung thông_tin số đó là chính_xác , đáng tin_cậy , trừ trường_hợp pháp_luật có quy_định khác ;
+
+d ) Bảo_vệ bí_mật cá_nhân , quyền sở_hữu trí_tuệ .
+
+Điều 8 . Tăng_cường sử_dụng văn_bản điện_tử
+
+1 . Người đứng đầu_cơ_quan nhà_nước ở các cấp có trách_nhiệm chỉ_đạo việc ứng_dụng công_nghệ thông_tin vào xử_lí công_việc , tăng_cường sử_dụng văn_bản điện_tử , từng bước thay_thế văn_bản giấy trong quản_lý , điều_hành và trao_đổi thông_tin .
+
+2 . Các loại biểu_mẫu hành_chính cần_thiết giải_quyết công_việc cho người dân , tổ_chức từng bước được chuẩn_hoá theo quy_định tại Điều 19 Nghị_định này và công_bố công_khai trên trang thông_tin điện_tử của cơ_quan nhà_nước .
+
+3 . Trừ trường_hợp có quy_định khác của pháp_luật , mạng nội_bộ của cơ_quan nhà_nước phải kết_nối với cơ_sở hạ_tầng thông_tin của Chính_phủ để thực_hiện việc gửi , trao_đổi , xử_lí văn_bản hành_chính trong cơ_quan hoặc với các cơ_quan , tổ_chức khác thông_qua môi_trường mạng .
+
+4 . Cơ_quan nhà_nước phải xây_dựng và ban_hành quy_chế sử_dụng mạng nội_bộ , bảo_đảm khai_thác hiệu_quả các giao_dịch điện_tử trong xử_lí công_việc của mọi cán_bộ , công_chức , viên_chức , đồng_thời bảo_đảm an_toàn thông_tin theo quy_định tại Điều 41 Nghị_định này ; tập_huấn cho cán_bộ , công_chức , viên_chức kiến_thức , kĩ_năng ứng_dụng công_nghệ thông_tin trong công_việc .
+
+5 . Cơ_sở dữ_liệu của cơ_quan nhà_nước phải cập_nhật đầy_đủ hoặc có đường liên_kết đến các văn_bản quy_phạm_pháp_luật , văn_bản chỉ_đạo của cấp trên phục_vụ cho việc tra_cứu trên môi_trường mạng của cán_bộ , công_chức , viên_chức nhằm hạn_chế việc sao_chụp văn_bản giấy nhận được từ cơ_quan cấp trên để gửi cho các cơ_quan , tổ_chức trực_thuộc .
+
+Điều 9 . Bảo_đảm hiệu_quả , tiết_kiệm
+
+1 . Hoạt_động ứng_dụng công_nghệ thông_tin phải gắn với việc nâng cao hiệu_quả hoạt_động của cơ_quan nhà_nước và tuân_thủ các quy_định của pháp_luật về đầu_tư và thực_hành tiết_kiệm , chống lãng_phí trong đầu_tư các dự_án ứng_dụng công_nghệ thông_tin .
+
+2 . Phối_hợp_đồng_bộ các nội_dung về đầu_tư , quy_mô và thời_gian triển_khai giữa các dự_án ứng_dụng công_nghệ thông_tin , tránh đầu_tư trùng_lặp . Khuyến_khích việc đầu_tư và các giải_pháp và sản_phẩm dùng chung .
+
+3 . Chủ đầu_tư có trách_nhiệm báo_cáo về dự_án ứng_dụng công_nghệ thông_tin của mình tới cơ_quan quản_lí nhà_nước về công_nghệ thông_tin . Những thông_tin này được lưu_trữ vào cơ_sở dữ_liệu quốc_gia hoặc cơ_sở dữ_liệu của các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh theo tính_chất và quy_mô dự_án . Nội_dung thông_tin báo_cáo bao_gồm : nội_dung , kết_quả_thực_hiện các dự_án ứng_dụng công_nghệ thông_tin đã và đang triển_khai ; giải_pháp và sản_phẩm dùng chung ; công_nghệ , kinh_nghiệm tích_luỹ được trong quá_trình thực_hiện các dự_án đó .
+
+Chương 2 :
+
+Nội_dung Và Điều_kiện Bảo_đảm Ứng_dụng_công_nghệ_thông_tin Trong Hoạt_động Của Cơ_quan Nhà_nước
+
+Mục 1 :
+
+Xây_dựng Cơ_sở_hạ_tầng Thông_tin
+
+1 . Bộ Bưu_chính , Viễn_thông chủ_trì , phối_hợp với các cơ_quan liên_quan tổ_chức xây_dựng mạng chuyên_dùng ; tồng hợp dự_toán kinh_phí đầu_tư xây_dựng , khai_thác , duy_trì và nâng_cấp cơ_sở hạ_tầng thông_tin phục_vụ cơ_quan nhà_nước từ ngân_sách nhà_nước và các nguồn khác .
+
+2 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh tổ_chức xây_dựng , khai_thác , duy_trì và nâng_cấp cơ_sở hạ_tầng thông_tin trong phạm_vi ngành hoặc địa_phương mình .
+
+3 . Cơ_quan nhà_nước có trách_nhiệm đầu_tư xây_dựng khai_thác , duy_trì và nâng_cấp cơ_sở hạ_tầng thông_tin của cơ_quan mình theo tiêu_chuẩn , quy_chuẩn kĩ_thuật quy_định .
+
+Điều 11 . Xây_dựng cơ_sở dữ_liệu quốc_gia
+
+1 . Cơ_sở dữ_liệu quốc_gia là tập_hợp thông_tin của một hoặc một_số lĩnh_vực kinh_tế - xã_hội được xây_dựng , cập_nhật và duy_trì đáp_ứng yêu_cầu truy_nhập và sử_dụng thông_tin của các ngành kinh_tế và phục_vụ_lợi_ích xã_hội .
+
+2 . Bộ Bưu_chính , Viễn_thông chủ_trì , phối_hợp với các cơ_quan liên_quan xây_dựng , trình Thủ_trướng Chính_phủ ban_hành danh_mục cơ_sở dữ_liệu quốc_gia và quy_định trách_nhiệm của các cơ_quan nhà_nước trong việc xây_dựng cơ_sở dữ_liệu quốc_gia theo quy_định tại khoản 3 Điều này .
+
+3 . Cơ_quan nhà_nước được giao nhiệm_vụ chủ_trì xây_dựng và duy_trì cơ_sở dữ_liệu quốc_gia chịu trách_nhiệm ban_hành Quy_chế xây_dựng , quản_lý , khai_thác , bảo_vệ và duy_trì cơ_sở dữ_liệu quốc_gia đó .
+
+Điều 12 . Xây_dựng cơ_sở dữ_liệu của các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh
+
+1 . Cơ_sở dữ_liệu của các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh là tập_hợp thông_tin được xây_dựng , cập_nhật và duy_trì đáp_ứng yêu_cầu truy_nhập , sử_dụng thông_tin của mình và phục_vụ_lợi_ích xã_hội .
+
+2 . Kinh_phí xây_dựng và duy_trì cơ_sở dữ_liệu của các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh được tổng_hợp vào dự_toán chi ngân_sách của ngành hoặc địa_phương đó .
+
+3 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh quy_định_danh_mục cơ_sở dữ_liệu ; xây_dựng , cập_nhật và duy_trì cơ_sở dữ_liệu ; ban_hành Quy_chế xây_dựng , quản_lí khai_thác , bảo_vệ và duy_trì cơ_sở dữ_liệu của mình .
+
+Điều 13 . Nguyên_tắc xây_dựng , quản_lý , khai_thác , bảo_vệ và duy_trì cở sở dữ_liệu .
+
+1 . Tuân_thủ các tiêu_chuẩn , quy_chuẩn kĩ_thuật quy_định bảo_đảm sự tương_thích , thông_suốt và an_toàn giữa các cơ_quan nhà_nước trong quá_trình chia_sẻ , trao_đổi thông_tin .
+
+2 . Lập kế_hoạch trước khi tạo ra hoặc thu_nhập dữ_liệu mới với mục_đích sử_dụng rõ_ràng . Quá_trình tạo ra hoặc thu_nhập dữ_liệu phải bảo_đảm các yêu_cầu sau đây :
+
+a ) Nội_dung phù_hợp , chính_xác , kịp_thời , hiệu_quả ;
+
+b ) Hạn_chế tối_đa việc thu_thập lại cùng một nguồn dữ_liệu ;
+
+c ) Tận_dụng nguồn dữ_liệu sẵn có ;
+
+d ) Ưu_tiên mục_tiêu sử_dụng dài_hạn ;
+
+đ ) Ưu_tiên dữ_liệu có_thể dùng cho nhiều mục_đích sử_dụng khác nhau .
+
+3 . Quy_định rõ các điều_kiện truy_nhập , cập_nhật dữ_liệu và bảo_đảm việc quản_lý , truy_nhập , cập_nhật và tìm_kiếm dữ_liệu dễ_dàng .
+
+4 . Áp_dụng các mức bảo_vệ phù_hợp theo đúng phân_loại thông_tin .
+
+5 . Quy_định rõ các điều_kiện duy_trì dữ_liệu bao_gồm cả việc thay_đổi , huỷ_bỏ dữ_liệu . Thường_xuyên đánh_giá các điều_kiện bảo_đảm an_toàn cho dữ_liệu .
+
+6 . Cơ_sở dữ_liệu của các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh được xây_dựng và tổ_chức phù_hợp với cơ_sở dữ_liệu quốc_gia .
+
+Điều 14 . Bảo_đảm truy_nhập thông_tin và khai_thác dịch_vụ hành_chính công
+
+1 . Ủy_ban nhân_dân cấp tỉnh có chính_sách khuyến_khích các tổ_chức , cá_nhân triển_khai rộng khắp các điểm truy_nhập Internet công_cộng ; đồng_thời tăng_cường hướng_dẫn phương_pháp truy_nhập và sử_dụng thông_tin , dịch_vụ hành_chính công trên môi_trường mạng theo đúng quy_định của pháp_luật .
+
+2 . Cơ_sở hạ_tầng thông_tin của cơ_quan nhà_nước cần đáp_ứng giao_dịch điện_tử qua các phương_tiện truy_nhập thông_tin Internet thông_dụng của xã_hội , trừ trường_hợp pháp_luật có quy_định khác .
+
+3 . Cơ_quan nhà_nước có trách_nhiệm tạo các điều_kiện thuận_lợi để tổ_chức , cá_nhân dễ_dàng truy_nhập thông_tin và dịch_vụ hành_chính công trên môi_trường mạng .
+
+4 . Khuyến_khích áp_dụng các giải_pháp kĩ_thuật hỗ_trợ người khuyết_tật truy_nhập thông_tin và sử_dụng dịch_vụ hành_chính công trên mạng Internet được dễ_dàng hơn .
+
+Điều 15 . Bảo_đảm tương_thích về công_nghệ trong hệ_thống thông_tin của các cơ_quan nhà_nước
+
+Bộ Bưu_chính , Viễn_thông chủ_trì xây_dựng kiến_trúc chuẩn hệ_thống thông_tin các quốc_gia với các nội_dung chủ_yếu sau đây :
+
+1 . Quy_định áp_dụng thống_nhất các tiêu_chuẩn quốc_tế phổ_biến , tiêu_chuẩn mở về kết_nối_mạng , trao_đổi , lưu_trữ dữ_liệu và thông_tin trong hệ_thống thông_tin của các cơ_quan nhà_nước .
+
+2 . Ban_hành các quy_chuẩn kĩ_thuật về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước , bao_gồm :
+
+a ) Cơ_sở dữ_liệu , dữ_liệu đặc_tả ;
+
+b ) Khuôn_dạng biểu_mẫu , văn_bản , hình_ảnh , âm_thanh số ;
+
+c ) Trang thông_tin điện_tử của cơ_quan nhà_nước trên nền_tảng công_nghệ Internet ;
+
+d ) Thông_tin số sử_dụng ngôn_ngữ tiếng Việt ( phông_chữ , thuật_ngữ hành_chính , thuật_ngữ chuyên_ngành ) .
+
+3 . Chủ_trì , phối_hợp với Ban Cơ_yếu Chính_phủ , Bộ Công_an và các cơ_quan liên_quan xây_dựng và ban_hành các quy_chuẩn kĩ_thuật bảo_đảm an_toàn , bảo_mật thông_tin số và các hệ_thống thông_tin số trong hoạt_động của cơ_quan nhà_nước .
+
+4 . Tổ_chức được uỷ_quyền cung_cấp dịch_vụ hành_chính công phải áp_dụng các tiêu_chuẩn , quy_chuẩn kĩ_thuật quy_định tại khoản 1 , 2 và 3 Điều này đối_với giao_diện giữa hệ_thống thông_tin của tổ_chức đó với hệ_thống thông_tin của cơ_quan nhà_nước .
+
+Điều 16 . Thông_báo về việc tạm ngừng cung_cấp thông_tin , dịch_vụ trên môi_trường mạng
+
+1 . Trừ trường_hợp bất_khả_kháng , cơ_quan nhà_nước phải thông_báo_công_khai chậm nhất là 07 ngày làm_việc trước khi chủ_động tạm ngừng cung_cấp thông_tin và dịch_vụ trên mạng để sửa_chữa , khắc_phục các sự_cố hoặc nâng_cấp , mở_rộng cơ_sở hạ_tầng thông_tin ;
+
+a ) Thông_báo_công_khai bằng hình_thức phù_hợp , trừ trường_hợp bất_khả_kháng , và tiến_hành các biện_pháp khắc_phục sự_cố ngay sau khi hệ_thống thông_tin của cơ_quan nhà_nước bị lỗi trong quá_trình hoạt_động làm ảnh_hưởng nghiêm_trọng hoặc gây ngừng cung_cấp thông_tin và dịch_vụ của cơ_quan đó trên môi_trường mạng .
+
+b ) Nội_dung thông_báo phải nêu rõ khoảng thời_gian dự_kiến phục_hồi các hoạt_động cung_cấp thông_tin và dịch_vụ trên môi_trường mạng của cơ_quan đó .
+
+2 . Cơ_quan nhà_nước có trách_nhiệm chuẩn_bị và triển_khai các phương_án sử_dụng cơ_sở hạ_tầng thông_tin dự_phòng để tiếp_tục cung_cấp thông_tin và dịch_vụ cần_thiết nhất ở mức_độ phù_hợp trong thời_gian tạm ngừng cung_cấp thông_tin , dịch_vụ trên môi_trường mạng .
+
+Điều 17 . Kết_nối cơ_sở hạ_tầng thông_tin của cơ_quan nhà_nước với mạng Internet .
+
+1 . Cơ_quan nhà_nước có trách_nhiệm kết_nối hạ_tầng kĩ_thuật của mình với mạng Internet để cung_cấp thông_tin và dịch_vụ hành_chính công theo chức_năng , nhiệm_vụ của mình .
+
+2 . Việc kết_nối Internet ph ảo đảm_bảo_an_toàn thông_tin theo quy_định tại Điều 41 Nghị_định này và các quy_định khác của pháp_luật .
+
+Mục 2 :
+
+Cung_cấp Nội_dung Thông_tin
+
+Điều 18 . Trách_nhiệm cung_cấp , tiếp_nhận thông_tin trên môi_trường mạng
+
+1 . Cơ_quan nhà_nước có trách_nhiệm cung_cấp trên môi_trường mạng những thông_tin theo quy_định tại Điều 4 Nghị_định này do cơ_quan đó nắm giữ để phục_vụ_lợi_ích hợp_pháp của người dân .
+
+2 . Việc cung_cấp thông_tin được thực_hiện theo nguyên_tắc tạo điều_kiện cho người dân tiếp_cận nhanh_chóng , dễ_dàng , tránh phải cung_cấp nhiều lần cùng một nội_dung thông_tin .
+
+3 . Cơ_quan nhà_nước có trách_nhiệm tạo thuận_lợi cho các hoạt_động trên môi_trường mạng .
+
+a ) Tiếp_nhận ý_kiến góp_ý , khiếu_nại , tố_cáo , yêu_cầu cung_cấp thông_tin của tổ_chức , cá_nhân ;
+
+b ) Lưu_trữ , xử_lý , cập_nhật , cung_cấp thông_tin , trả_lời các yêu_cầu ;
+
+c ) Chuyển yêu_cầu cung_cấp thông_tin đến đúng cơ_quan có liên_quan nếu nội_dung yêu_cầu cung_cấp thông_tin vượt quá chức_năng , nhiệm_vụ hoặc quyền_hạn của cơ_quan mình .
+
+4 . Cơ_quan nhà_nước , người đứng đầu_cơ_quan nhà_nước , tổ_chức , cá_nhân thực_hiện các quyền và nghĩa_vụ khác theo quy_định của pháp_luật về cung_cấp thông_tin .
+
+Điều 19 . Xây_dựng thống_nhất biểu_mẫu điện_tử
+
+1 . Biểu_mẫu điện_tử trong giao_dịch giữa các cơ_quan nhà_nước , tổ_chức và cá_nhân phải tuân theo các quy_định của pháp_luật và đáp_ứng các yêu_cầu sau đây :
+
+a ) Thông_tin đơn_giản , dễ hiểu , không chồng_chéo và phù_hợp với quy_trình công_việc liên_quan ;
+
+b ) Khuôn_dạng theo tiêu_chuẩn , quy_chuẩn kĩ_thuật quy_định để dễ_dàng tải xuống , hiển_thị và in_ấn bằng các phương_tiện điện_tử phổ_biến ;
+
+2 . Danh_sách các biểu_mẫu điện_tử phải được tổ_chức khoa_học , phân nhóm hợp_lý , cập_nhật kịp_thời để giúp các tổ_chức , cá_nhân có_thể tìm chính_xác các biểu_mẫu cần_thiết dễ_dàng và nhanh_chóng trên trang thông_tin điện tự của cơ_quan đó .
+
+3 . Các biểu_mẫu điện_tử riêng theo đặc_thù của từng Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ do cơ_quan đó tự quy_định theo nguyên_tắc chung tại khoản 1 và 2 Điều này .
+
+Điều 20 . Trang thông_tin điện_tử của cơ_quan nhà_nước
+
+1 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh chịu trách_nhiệm xây_dựng , duy_trì , nâng_cấp và cập_nhật trang thông_tin điện_tử của cơ_quan mình .
+
+2 . Trang thông_tin điện_tử của cơ_quan nhà_nước phải tuân_thủ quy_định tại Điều 28 của Luật Công_nghệ thông_tin và đáp_ứng các yêu_cầu sau đây :
+
+a ) Áp_dụng các tiêu_chuẩn , quy_chuẩn kĩ_thuật quy_định ;
+
+b ) Hiển_thị thông_tin nhanh_chóng ;
+
+c ) Có công_cụ tìm_kiếm thông_tin dễ sử_dụng và cho kết_quả đúng nội_dung cần tìm_kiếm ;
+
+d ) Quy_định rõ thời_hạn tồn_tại trực_tuyến của từng loại thông_tin .
+
+Điều 21 . Danh_mục dịch_vụ hành_chính công
+
+Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh có trách_nhiệm :
+
+1 . Công_bố danh_mục , lộ_trình cung_cấp các dịch_vụ hành_chính công trên môi_trường mạng .
+
+2 . Hướng_dẫn tổ_chức , cá_nhân tham_gia giao_dịch với cơ_quan nhà_nước khi thực_hiện các dịch_vụ hành_chính công trên môi_trường mạng .
+
+3 . Thực_hiện việc tuyên_truyền , quảng_bá để thu_hút người dân tham_gia giao_dịch với cơ_quan nhà_nước trên môi_trường mạng .
+
+Mục 3 :
+
+Phát_triền Và Sử_dụng Nguồn Nhân_lực Công_nghệ_thông_tin
+
+Điều 22 . Chính_sách phát_triển nguồn nhân_lực công nghê thông_tin của cơ_quan nhà_nước
+
+1 . Nhà_nước có chính_sách phát_triển quy_mô và tăng_cường chất_lượng đào_tạo nguồn nhân_lực công_nghệ thông_tin của cơ_quan nhà_nước .
+
+2 . Bộ Bưu_chính , Viễn_thông phối_hợp với các cơ_quan liên_quan xây_dựng quy_hoạch phát_triển nguồn nhân_lực công_nghệ thông_tin trong cơ_quan nhà_nước .
+
+3 . Tạo điều_kiện cho Giám_đốc công_nghệ thông_tin , cán_bộ chuyên_trách về công_nghệ thông_tin được học_tập , nâng cao_trình_độ quản_lý , kĩ_thuật nghiệp_vụ ở trong và ngoài nước .
+
+4 . Tạo điều_kiện cho cán_bộ , công_chức , viên_chức được đào_tạo về kĩ_năng ứng_dụng công_nghệ thông_tin trong xử_lí công_việc .
+
+Điêu 23 . Ưu_đãi nhân_lực công_nghệ thông_tin trong cơ_quan nhà_nước
+
+1 . Cán_bộ chuyên_trách về công_nghệ thông_tin trong các cơ_quan nhà_nước được hưởng chế_độ ưu_đãi về điều_kiện làm_việc , bao_gồm :
+
+a ) Ưu_đãi về sử_dụng cơ_sở hạ_tầng thông_tin và trang thiết_bị ;
+
+b ) Ưu_đãi về đào_tạo , nâng cao_trình_độ công_nghệ thông_tin ;
+
+c ) Ưu_đãi khác phù_hợp với quy_định của pháp_luật .
+
+2 . Cán_bộ , công_chức , viên_chức được truy_nhập Internet miễn_phí tại các cơ_quan nhà_nước mà mình công_tác .
+
+3 . Khuyến_khích các cơ_quan nhà_nước ban_hành quy_định ưu_đãi về thu_nhập cho nhân_lực công_nghệ thông_tin trong cơ_quan mình ; quy_định về tiêu_chuẩn , trách_nhiệm , quyền_lợi , yêu_cầu đánh_giá mức_độ hoàn_thành nhiệm_vụ của cán_bộ , công_chức , viên_chức đối_với việc ứng_dụng công_nghệ thông_tin trong công_việc của mình .
+
+Điều 24 . Biên_chế cán_bộ chuyên_trách về công_nghệ thông_tin
+
+Cơ_quan nhà_nước có trách_nhiệm bố_trí đủ cán_bộ chuyên_trách về công_nghệ thông_tin , phù_hợp với kế_hoạch ứng_dụng công_nghệ thông_tin trong cơ_quan mình .
+
+Mục 4 :
+
+Đầu_tư Cho Ứng_dụng_công_nghệ_thông_tin
+
+Điều 25 . Xây_dựng kế_hoạch ứng_dụng công_nghệ thông_tin
+
+1 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh có trách_nhiệm xây_dựng kế_hoạch 5 năm về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan mình ( sau đây gọi là kế_hoạch 5 năm ) , trình Thủ_tướng Chính_phủ_phê_duyệt hoặc đề_nghị Thủ_tướng Chính_phủ uỷ_quyền cho cơ_quan có thẩm_quyền phê_duyệt .
+
+2 . Bộ Bưu_chính , Viễn_thông có trách_nhiệm hướng_dẫn xây_dựng và thẩm_định kế_hoạch 5 năm đối_với các nội_dung quy_định tại khoản 3 Điều này trước khi trình Thủ_tướng Chính_phủ_phê_duyệt .
+
+3 . Kế_hoạch 5 năm của các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh bao_gồm những nội_dung sau đây :
+
+a ) Mục_tiêu tổng_quát và mục_tiêu cụ_thể ;
+
+b ) Hiện_trạng , nội_dung , giải_pháp và lộ_trình thực_hiện ;
+
+c ) Nội_dung về đầu_tư theo quy_định tại khoản 2 Điều 27 Nghị_định này ;
+
+d ) Dự_toán kinh_phí ;
+
+đ ) Các điều_kiện bảo_đảm việc triển_khai kế_hoạch ;
+
+e ) Dự_kiến hiệu_quả của kế_hoạch .
+
+4 . Bộ Bưu_chính , Viễn_thông phối_hợp với Bộ Kế_hoạch và Đầu_tư , Bộ Tài_chính hướng_dẫn các điều_kiện và thủ_tục điều_chỉnh mục_tiêu , nội_dung trong quá_trình thực_hiện kế_hoạch 5 năm . Việc điều_chỉnh kế_hoạch 5 năm của các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh phải được Thủ_tướng Chính_phủ_phê_duyệt .
+
+5 . Căn_cứ vào kế_hoạch 5 năm được Thủ_tướng Chính_phủ_phê_duyệt , các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh xây_dựng kế_hoạch hàng năm và triển_khai thực_hiện . Bộ Bưu_chính , Viễn_thông phối_hợp với Bộ Kế_hoạch Đầu_tư hướng_dẫn và tổng_hợp kế_hoạch hàng năm .
+
+Điều 26 . Ưu_tiên bố_trí ngân_sách cho ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước
+
+1 . Đầu_tư cho ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước là đầu_tư phát_triển .
+
+2 . Bộ Kế_hoạch và Đầu_tư , Bộ Tài_chính ưu_tiên bố_trí ngân_sách cho ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước
+
+3 . Hàng năm , cơ_quan nhà_nước có thẩm_quyền cấp đủ kinh_phí và đúng thời_hạn cho ứng_dụng công_nghệ thông_tin theo kế_hoạch được phê_duyệt .
+
+Điều 27 . Đầu_tư cho ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước
+
+1 . Kinh_phí đầu_tư cho ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước bao_gồm kinh_phí ngân_sách nhà_nước ( chi đầu_tư phát_triển , chi thường_xuyên ) và các nguồn kinh_phí hợp_pháp khác .
+
+2 . Nội_dung đầu_tư thực_hiện theo khoản 1 Điều 63 của Luật Công_nghệ thông_tin và bao_gồm :
+
+a ) Xây_dựng mới , bảo_trì , nâng_cấp hạ_tầng kĩ_thuật ;
+
+b ) Xây_dựng mới , mua_sắm , bảo_trì , nâng_cấp phần_mềm ;
+
+c ) Xây_dựng , cập_nhật , duy_trì và sao lưu cơ_sở dữ_liệu , các hệ_thống thông_tin quản_lý ;
+
+d ) Tích_hợp hệ_thống ;
+
+đ ) Xây_dựng , duy_trì , nâng_cấp hệ_thống kĩ_thuật và nghiệp_vụ bảo_đảm an_toàn thông_tin ;
+
+e ) Xây_dựng và duy_trì trang thông_tin điện_tử ;
+
+g ) Xây_dựng và duy_trì các dịch_vụ hành_chính công trên môi_trường mạng ;
+
+h ) Xây_dựng , bổ_sung quy_định , quy_chế về quản_lý , khai_thác và bảo_trì các hệ_thống thông_tin ;
+
+i ) Đào_tạo và đào_tạo lại cán_bộ , công_chức , viên_chức kĩ_năng ứng_dụng công_nghệ thông_tin trong xử_lí công ; cán_bộ chuyên_trách về công_nghệ thông_tin ;
+
+k ) Các hạng_mục đầu_tư khác cho ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước .
+
+3 . Bộ Tài_chính chủ_trì , phối_hợp với Bộ Bưu_chính , Viễn_thông và các cơ_quan liên_quan xây_dựng định_mức chỉ sự_nghiệp ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước .
+
+Điều 28 . Tiêu_chí ưu_tiên đầu_tư dự_án ứng_dụng công_nghệ thông_tin
+
+Việc ưu_tiên đầu_tư dự_án ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước phải đáp_ứng ít_nhất một trong các tiêu_chí sau :
+
+1 . Phổ_cập ứng_dụng công_nghệ thông_tin , cung_cấp thông_tin dịch_vụ hành_chính công .
+
+2 . Sử_dụng chung cơ_sở hạ_tầng thông_tin cho nhiều cơ_quan nhà_nước .
+
+3 . Hỗ_trợ chương_trình cải_cách hành_chính .
+
+Điều 29 . Quy_định đầu_tư cho dự_án phần_mềm
+
+1 . Tổng_mức đầu_tư của dự_án phần_mềm ứg_dụng nếu không_thể xác_định được theo các quy_định hiện_hành thì có_thể được xác_định bằng các phương_pháp_định cỡ và ước_lượng chi_phí phần_mềm theo thông_lệ quốc_tế , cơ_sở dữ_liệu quy_định tại khoản 3 Điều 9 Nghị_định này .
+
+2 . Khuyến_khích thực_hiện dự_án phần_mềm ứng_dụng theo hinh thức gói_thầu Epc .
+
+3 . Bộ Bưu_chính , Viễn_thông chủ_trì , phối_hợp với Bộ Kế_hoạch và Đầu_tư và các cơ_quan liên_quan xây_dựng và trình Chính_phủ ban_hành Quy_chế quản_lí đầu_tư các dự_án ứng_dụng công_nghệ thông_tin sử_dụng vốn đầu_tư có nguồn_gốc từ ngân_sách nhà_nước ; ban_hành định mức kinh_tế kĩ_thuật về tư_vấn và thiết_kế dự_án phần_mềm .
+
+Điều 30 . Khuyến_khích đầu_tư ứng_dụng công_nghệ thông_tin
+
+Nhà_nước khuyến_khích đầu_tư ứng_dụng công_nghệ thông_tin từ các nguồn vốn không phải ngân_sách nhà_nước cho hoạt_động của các cơ_quan nhà_nước , địa_phương ở nông_thôn , vùng_sâu , vùng_xa , miền núi , hải_đảo và các vùng khó_khăn .
+
+Điều 31 . Quyền sở_hữu trí_tuệ đối_với giải_pháp , phần_mềm , cơ_sở dữ_liệu
+
+Quyền sở_hữu trí_tuệ , phát_triển giải_pháp , phần_mềm , cơ_sở dữ_liệu trong các dự_án ứng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước phải thực_hiện theo quy_định của pháp_luật về sở_hữu trí_tuệ và được xác_định rõ trong hợp_đồng .
+
+Điều 32 . Đánh_giá mức_độ ứng_dụng công_nghệ thông_tin
+
+1 . Cơ_quan nhà_nước ứng_dụng công_nghệ thông_tin định_kì đánh_giá mức_độ ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan mình .
+
+2 . Bộ Bưu_chính , Viễn_thông chịu trách_nhiệm hướng_dẫn các cơ_quan nhà_nước thực_hiện việc đánh_giá mức_độ ứng_dụng công_nghệ thông_tin .
+
+Chương 3 :
+
+Hoạt_động Của Cơ_quan Nhà_nước Trên Môi_trường_mạng
+
+Mục 1 :
+
+Quy_trình Công_việc
+
+Điều 33 . Chuẩn_hoá quy_trình công_việc của cơ_quan nhà_nước
+
+1 . Cơ_quan nhà_nước có trách_nhiệm cải_tiến và chuẩn_hoá các quy_định công_việc theo hướng phù_hợp với chương_trình cải_cách hành_chính đồng_thời phát_huy tối_đa khả_năng ứng_dụng công_nghệ thông_tin trong xử_lí các quy_trình sau đây :
+
+a ) Hoạt_động nội_bộ và giao_dịch với các cơ_quan nhà_nước khác ;
+
+b ) Giao_dịch với tổ_chức , cá_nhân , đặc_biệt trong hoạt_động cung_cấp các dịch_vụ hành_chính công ;
+
+2 . Cơ_quan nhà_nước có trách_nhiệm áp_dụng hệ_thống quản_lí chất_lượng theo tiêu_chuẩn quy_định trong các hoạt_động của cơ_quan mình .
+
+Điều 34 . Yêu_cầu đồng_bộ quy_trình công_việc giữa các cơ_quan nhà_nước
+
+1 . Các quy_trình công_việc chung phải được chuẩn_hoá và áp_dụng vào các cơ_quan nhà_nước có quy_trình công_việc tương_ứng theo lộ_trình thích_hợp .
+
+2 . Cơ_quan nhà_nước có trách_nhiệm ứng_dụng công_nghệ thông_tin để tăng_cường khả_năng liên_thông giữa các quy_trình công_việc , cải_tiến các quy_trình công_việc đòi_hỏi có sự phối_hợp của nhiều cơ_quan nhà_nước nhằm giảm tối_đa thời_gian xử_lý .
+
+Mục 2 :
+
+Quản_lý Văn_bản Điện_tử
+
+Điều 35 . Giá_trị pháp_lí của văn_bản điện_tử
+
+1 . Văn_bản điện_tử phù_hợp với pháp_luật về giao_dịch điện_tử có giá_trị pháp_lí tương_đương với văn_bản giấy trong giao_dịch giữa các cơ_quan nhà_nước .
+
+2 . Văn_bản điện_tử gửi đến cơ_quan nhà_nước không nhất_thiết phải sử_dụng chữ_kí điện_tử nếu văn_bản đó có thông_tin về người gửi , bảo_đảm tính xác_thực về nguồn_gốc và sự toàn_vẹn của văn_bản .
+
+Điều 36 . Thời_điểm gửi , nhận văn_bản điện_tử
+
+1 . Thời_điểm gửi một văn_bản điện_tử tới cơ_quan nhà_nước là thời_điểm văn_bản điện_tử này nhập vào hệ_thống thông_tin nằm ngoài sự kiểm_soát của người khởi tạo .
+
+2 . Cơ_quan nhà_nước được Chính_phủ giao trách_nhiệm có nhiệm_vụ xây_dựng hệ_thống thông_tin bảo_đảm xác_định thời_điểm nhận và gửi văn_bản điện_tử . Thời_điểm nhận là thời_điểm văn_bản điện_tử nhập vào hệ_thống thông_tin được chỉ_định .
+
+Điều 37 . Thông_báo nhận được văn_bản điện_tử
+
+Cơ_quan nhà_nước có trách_nhiệm thông_báo ngay bằng phương_tiện điện_tử cho người gửi về việc đã nhận văn_bản điện_tử sau khi xác_nhận được tính hợp_lệ của văn_bản đó .
+
+Điều 38 . Tiếp_nhận văn_bản điện_tử và lập hồ_sơ lưu_trữ
+
+1 . Văn_bản điện_tử gửi đến cơ_quan nhà_nước phải được sao lưu trong hệ_thống lưu_trữ điện_tử .
+
+2 . Việc sao lưu hoặc biện_pháp tiếp_nhận khác phải chỉ ra được thời_gian gửi và kiểm_tra được tính toàn_vẹn của văn_bản điện_tử .
+
+3 . Văn_bản điện_tử của cơ_quan nhà_nước phải được đưa vào hồ_sơ lưu_trữ theo cách bảo_đảm chính_xác_thực , an_toàn và khả_năng truy_nhập văn_bản điện_tử đó .
+
+Điều 39 . Xử_lí văn_bản điện_tử
+
+Cơ_quan nhà_nước có quyền sử_dụng các biện_pháp kĩ_thuật đối_với văn_bản điện_tử nếu thấy cần_thiết để làm cho văn_bản điện_tử đó dễ đọc , dễ lưu_trữ và để phân_loại nhưng bảo_đảm không thay_đổi nội_dung văn_bản điện_tử đó .
+
+Điều 40 . Sử_dụng chữ_kí điện_tử
+
+1 . Cơ_quan nhà_nước có trách_nhiệm sử_dụng chữ_kí điện_tử để xác_nhận văn_bản điện_tử cuối_cùng .
+
+2 . Chữ_kí điện_tử của cơ_quan nhà_nước phải đáp_ứng các yêu_cầu của pháp_luật về giao_dịch điện_tử .
+
+Mục 3 :
+
+Bảo_đảm An_toàn Thông_tin Trên Môi_trường_mạng
+
+Điều 41 . Nguyên_tắc bảo_đảm an_toàn thông_tin
+
+1 . Việc bảo_đảm thông_tin là yêu_cầu bắt_buộc trong quá_trình thiết_kế , xây_dựng , vận_hành , nâng_cấp và huỷ_bỏ các hạ_tầng kĩ_thuật của cơ_quan nhà_nước .
+
+2 . Thông_tin số thuộc quy_định_danh_mục bí_mật nhà_nước của các cơ_quan nhà_nước phải được phân_loại , lưu_trữ , bảo_vệ trên cơ_sở quy_định của pháp_luật về bảo_vệ bí_mật nhà_nước .
+
+3 . Cơ_quan nhà_nước phải xây_dựng nội_quy bảo_đảm an_toàn thông_tin ; có cán_bộ phụ_trách quản_lí an_toàn thông ; áp_dụng , hướng_dẫn và kiểm_tra định_kì việc thực_hiện các biện_pháp_bảo_đảm cho hệ_thống thông_tin trên mạng đáp_ứng các tiêu_chuẩn , quy_chuẩn kĩ_thuật về an_toàn thông_tin .
+
+4 . Áp_dụng quy_trình bảo_đảm an_toàn dữ_liệu bao_gồm :
+
+a ) Lưu_trữ dự_phòng ;
+
+b ) Sử_dụng mật_mã để bảo_đảm an_toàn và bảo_mật dữ_liệu trong lưu_trữ và giao_dịch theo quy_định của Nhà_nước về mật_mã ;
+
+c ) Quản_lí chặt_chẽ việc di_chuyển các trang thiết_bị công_nghệ thông_tin lưu_trữ các thông_tin thuộc danh_mục bí_mật nhà_nước ;
+
+d ) Giám_sát các khâu tạo_lập , xử_lí và huỷ_bỏ dữ_liệu ;
+
+đ ) Các quy_trình bảo_đảm an_toàn dữ_liệu khác .
+
+5 . Áp_dụng quy_trình quản_lí an_toàn hạ_tầng kĩ_thuật bao_gồm :
+
+a ) Các giải_pháp_bảo_vệ nhằm ngăn_chặn và phát_hiện sớm việc truy_cập trái_phép vào mạng máy_tính hay thiết_bị lưu_trữ dữ_liệu ;
+
+b ) Áp_dụng các công_nghệ xác_thực , cơ_chế quản_lí quyền truy_cập và cơ_chế ghi biên_bản hoạt_động của hệ_thống để quản_lí và kiểm_tra việc truy_cập mạng ;
+
+c ) Kiểm_soát chặt_chẽ việc cài_đặt các phần_mềm mới lên máy_chủ và máy trạm ;
+
+d ) Theo_dõi thường_xuyên tình_trạng lây_nhiễm và thực_hiện loại_bỏ phần_mềm độc_hại khỏi hệ_thống ;
+
+đ ) Các quy_trình quản_lí an_toàn hạ_tầng kĩ_thuật khác .
+
+6 . Điều_kiện bảo_đảm thực_hiện an_toàn thông_tin :
+
+a ) Cán_bộ , công_chức , viên_chức phải nắm vững các quy_định của pháp_luật và nội_quy của cơ_quan về an_toàn thông_tin ;
+
+b ) Cán_bộ kĩ_thuật về an_toàn thông_tin phải được tuyển_chọn , đào_tạo , huấn_luyện , thường_xuyên bồi_dưỡng nghiệp_vụ phù_hợp với nhiệm_vụ được giao và được tạo điều_kiện làm_việc phù_hợp ;
+
+c ) Cơ_quan nhà_nước ưu_tiên sử_dụng lực_lượng kĩ_thuật về an_toàn thông_tin của mình ; khi cần_thiết có_thể sử_dụng dịch_vụ của các tổ_chức bảo_đảm an_toàn thông_tin đủ năng_lực được Nhà_nước công_nhận ;
+
+d ) Hạ_tầng kĩ_thuật phải được định_kì kiểm_tra , đánh_giá hoặc kiểm_định về mặt an_toàn thông_tin phù_hợp các tiêu_chuẩn , quy_chuẩn kĩ_thuật quy_định .
+
+Điều 42 . Trách_nhiệm giải_quyết và khắc_phục sự_cố an_toàn thông_tin
+
+1 . Trách_nhiệm của cơ_quan nhà_nước có hạ_tầng kĩ_thuật bị sự_cố :
+
+a ) Áp_dụng mọi biện_pháp để khắc_phục và hạn_chế thiệt_hại do sự_cố xảy ra , lập biên bảo báo_cáo cho cơ_quan cấp trên quản_lí trực_tiếp ;
+
+b ) Trường_hợp có sự_cố nghiêm_trọng vượt quá khả_năng khắc_phục của đơn_vị , phải báo_cáo ngay cho cơ_quan quản_lí nhà_nước có thẩm_quyền quy_định tại Điều 43 Nghị_định này ;
+
+c ) Tạo điều_kiện thuận_lợi cho cơ_quan_chức_năng tham_gia khắc_phục sự_cố và thực_hiện theo đúng hướng_dẫn ;
+
+d ) Cung_cấp đầy_đủ , chính_xác , kịp_thời những thông_tin cần_thiết cho cơ_quan cấp trên quản_lí trực_tiếp ;
+
+đ ) Báo_cáo bằng văn_bản về sự_cố cho cơ_quan cấp trên quản_lí trực_tiếp và cơ_quan quản_lí nhà_nước .
+
+2 . Trách_nhiệm của cơ_quan cấp trên quản_lí trực_tiếp :
+
+a ) Tuỳ theo mức_độ của sự_cố , hướng_dẫn hoặc cử cán_bộ có thẩm_quyền đến cơ_sở để hướng_dẫn , giúp_đỡ khắc_phục sự_cố .
+
+b ) Huy_động các phương_tiện cần_thiết để khắc_phục sự_cố .
+
+3 . Trách_nhiệm của cơ_quan quản_lí nhà_nước :
+
+a ) Tuỳ theo mức_độ sự_cố , cơ_quan quản_lí nhà_nước hướng_dẫn hoặc điều_phối lực_lượng ứng_cứu để tham_gia khắc_phục sự_cố ;
+
+b ) Phối_hợp với các Bộ , cơ_quan ngang Bộ để điều_tra khắc_phục sự_cố ;
+
+c ) Thực_hiện cam_kết trong Điều_ước quốc_tế có liên_quan đến sự_cố mà Việt_nam là thành_viên .
+
+Điều 43 . Tổ_chức điều_phối các hoạt_động ứng_cứu khẩn_cấp , chống tấn_công và chống khủng_bố trên mạng
+
+1 . Bộ Bưu_chính , Viễn_thông đảm_nhiệm chức_năng điều_phối hoạt_động ứng_cứu máy_tính tại Việt_nam và là đầu_mối hợp_tác quốc_tế của Việt_nam để ngăn_chặn các sự_cố và các cuộc tấn_công trên mạng . Căn_cứ vào thông_lệ quốc_tế và các quy_định về bảo_đảm an_toàn thông_tin , cơ_quan quản_lí nhà_nước quy_định hoạt_động điều_phối an_toàn thông_tin để phối_hợp trong việc phòng , chống , đối_phó , khắc_phục sự_cố về các vấn_đề an_toàn thông_tin trên môi_trường mạng .
+
+2 . Cơ_quan điều_phối có thẩm_quyền yêu_cầu các đơn_vị hay bộ_phận an_toàn thông_tin trong các cơ_quan nhà_nước , các tổ_chức cung_cấp dịch_vụ an_toàn thông_tin , các doanh_nghiệp cung_cấp dịch_vụ Internet và doanh_nghiệp cung_cấp dịch_vụ hạ_tầng mạng hợp_tác tham_gia ngăn_chặn các nguồn tấn_công gây_sự_cố trên mạng .
+
+3 . Cơ_quan điều_phối có trách_nhiệm thông_báo_danh_sách các nguồn tấn_công trên mạng Internet , nguy_cơ và nguồn_gốc phát_sinh_sự_cố mạng , trên cơ_sở đó điều_phối lực_lượng phản_ứng khẩn_cấp để ngăn_chặn và khắc_phục sự_cố .
+
+4 . Trong trường_hợp khẩn_cấp có_thể gây_sự_cố nghiêm_trọng hay khủng_bố mạng , các cơ_quan_chức_năng có quyền tổ_chức ngăn_chặn các nguồn tấn_công trước khi có thông_báo , sau đó lập biên_bản báo_cáo cho cơ_quan điều_phối .
+
+5 . Cơ_quan , tổ_chức , cá_nhân có nghĩa_vụ cung_cấp thông_tin và tạo điều_kiện cho các cơ_quan_chức_năng nghiên_cứu , điều_tra để nhanh_chóng ngăn_chặn sự_cố và khắc_phục hậu_quả khi xảy ra tấn_công , khủng_bố trên môi_trường mạng .
+
+Chương 4 :
+
+Tổ_chức Thực_hiện Ứng_dụng_công_nghệ_thông_tin Trong Hoạt_động Của Cơ_quan Nhà_nước
+
+Điều 44 . Trách_nhiệm người đứng đầu_cơ_quan nhà_nước
+
+1 . Trực_tiếp chỉ_đạo và chịu trách_nhiệm về hoạt_động ứng_dụng công_nghệ thông_tin trong lĩnh_vực , địa_phương và tổ_chức , cơ_quan của mình .
+
+2 . Chỉ_đạo xây_dựng kế_hoạch 5 năm , phê_duyệt kế_hoạch hàng năm về ứng_dụng công_nghệ thông_tin trong lĩnh_vực , địa_phương và tổ_chức , cơ_quan của mình .
+
+3 . Quyết_định các biện_pháp nhằm tổ_chức thực_hiện có hiệu_quả kế_hoạch ứng_dụng công_nghệ thông_tin .
+
+4 . Quyết_định về tổ_chức bộ_máy , cán_bộ và hoạt_động của đơn_vị chuyên_trách công_nghệ thông_tin trong hệ_thống tổ_chức , cơ_quan của mình .
+
+Điều 45 . Hệ_thống chuyên_trách về công_nghệ thông_tin trong cơ_quan nhà_nước
+
+1 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ có trách_nhiệm chỉ_định một đơn_vị trực_thuộc làm nhiệm_vụ chuyên_trách về công_nghệ thông_tin trong ngành mình .
+
+2 . Cơ_quan quản_lí nhà_nước về công_nghệ thông_tin ở các tỉnh , thành_phố trực_thuộc Trung_ương là đơn_vị chuyên_trách về công_nghệ thông_tin trong địa_phương mình .
+
+3 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh quy_định cụ_thể chức_năng , nhiệm_vụ , tổ_chức bộ_máy và hoạt_động của các đơn_vị chuyên_trách công_nghệ thông_tin thuộc ngành hoặc địa_phương mình căn_cứ theo quy_định tại Điều 46 Nghị_định này .
+
+Điều 46 . Chức_năng , nhiệm_vụ chính của đơn_vị chuyên_trách về công_nghệ thông_tin
+
+1 . Đề_xuất , xây_dựng , tổ_chức thực_hiện kế_hoạch 5 năm và hàng năm về ứng_dụng công_nghệ thông_tin .
+
+2 . Xây_dựng quy_chế , quy_định và tổ_chức hoạt_động ứng_dụng công_nghệ thông_tin trong ngành hoặc địa_phương_trình Thủ_trưởng cơ_quan xem_xét , Quyết_định .
+
+3 . Thu_nhập , lưu_trữ , xử_lí thông_tin phục_vụ sự chỉ_đạo , điều_hành của lãnh_đạo .
+
+4 . Quản_lý , vận_hành , hướng_dẫn sử_dụng cơ_sở hạ_tầng thông_tin phục_vụ hoạt_động chỉ_đạo , điều_hành , tác_nghiệp của ngành hoặc địa_phương ; bảo_đảm kĩ_thuật , an_toàn thông_tin .
+
+5 . Xây_dựng và duy_trì hoạt_động trang thông_tin điện_tử của ngành hoặc địa_phương ; tổ_chức triển_khai bảo_đảm kĩ_thuật cho việc cung_cấp dịch_vụ hành_chính công .
+
+Điều 47 . Giám_đốc công_nghệ thông_tin
+
+1 . Thủ_trưởng đơn_vị chuyên_trách về công_nghệ thông_tin trong cơ_quan nhà_nước đảm_nhận chức_danh Giám_đốc công_nghệ thông_tin , chịu trách_nhiệm tổ_chức và điều_hành hoạt_động ứng_dụng công_nghệ thông_tin .
+
+2 . Nhiệm_vụ , quyền_hạn chính của Giám_đốc công_nghệ thông_tin :
+
+a ) Trực_tiếp tham_mưu , giúp lãnh_đạo cơ_quan xây_dựng chiến_lược , chính_sách , kế_hoạch ứng_dụng công_nghệ thông_tin trong ngành hoặc địa_phương ;
+
+b ) Tổ_chức , điều_hành việc triển_khai kế_hoạch ứng_dụng công_nghệ thông_tin được phê_duyệt .
+
+c ) Chỉ_đạo xây_dựng các quy_định , hướng_dẫn quản_lí kĩ_thuật , nghiệp_vụ trong ứng_dụng công_nghệ thông_tin phù_hợp với các tiêu_chuẩn , quy_chuẩn kĩ_thuật quy_định ; đề_xuất và tham_gia chỉ_đạo xây_dựng các tiêu_chuẩn , quy_chuẩn kĩ_thuật về công_nghệ thông_tin ;
+
+d ) Tham_gia chỉ_đạo công_tác phối_hợp với các cơ_quan nhà_nước khác trong việc xây_dựng và tổ_chức thực_hiện các dự_án ứng_dụng công_nghệ thông_tin mang tính liên_ngành .
+
+Điều 48 . Trách_nhiệm của Bộ Bưu_chính , Viễn_thông
+
+1 . Chịu trách_nhiệm trước Chính_phủ trong việc chủ_trì , phối_hợp với các Bộ , cơ_quan ngang Bộ liên_quan trong việc tổ_chức thực_hiện ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước .
+
+2 . Trình Thủ_tướng Chính_phủ ban_hành Chương_trình quốc_gia về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước .
+
+3 . Xây_dựng tiêu_chuẩn nghiệp_vụ các ngạch công_chức chuyên_ngành công_nghệ thông_tin .
+
+4 . Chủ_trì xây_dựng kiến_trúc chuẩn hệ_thống thông_tin quốc_gia .
+
+5 . Phối_hợp với các cơ_quan liên_quan hướng_dẫn xây_dựng , triển_khai hiệu_quả các dự_án ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước .
+
+6 . Các nhiệm_vụ khác quy_định trong Nghị_định này và pháp_luật liên_quan .
+
+Điều 49 . Trách_nhiệm của Bộ Nội_vụ
+
+1 . Chủ_trì , phối_hợp với Bộ Bưu_chính , Viễn_thông hướng_dẫn chức_năng , nhiệm_vụ , quyền_hạn và biên_chế của đơn_vị chuyên_trách về công_nghệ thông_tin trong cơ_quan nhà_nước .
+
+2 . Xây_dựng , ban_hành tiêu_chuẩn , chức_danh Giám_đốc công_nghệ thông_tin và hướng_dẫn các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh thực_hiện thống_nhất .
+
+3 . Xây_dựng , ban_hành quy_định về lưu_trữ thông_tin số của các cơ_quan nhà_nước .
+
+Điều 50 . Trách_nhiệm của Văn_phòng Chính_phủ
+
+1 . Chủ_trì , phối_hợp với Bộ Nội_vụ và các cơ_quan liên_quan thống_nhất các biểu_mẫu điện_tử chung cho giao_dịch giữa các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ .
+
+2 . Chủ_trì , phối_hợp với Bộ Nội_vụ và các cơ_quan liên_quan hướng_dẫn việc cải_tiến , chuẩn_hoá và áp_dụng các quy_trình công_việc chung , bảo_đảm đồng_bộ quy_trình công_việc giữa các cơ_quan nhà_nước .
+
+Điều 51 . Trách_nhiệm của Ban Cơ_yếu Chính_phủ
+
+1 . Chủ_trì xây_dựng và đề_xuất ban_hành các văn_bản quy_phạm_pháp_luật về mật_mã trong an_toàn và bảo_mật thông_tin .
+
+2 . Xây_dựng và đề_xuất ban_hành các tiêu_chuẩn và quy_chuẩn kĩ_thuật về mật_mã trong an_toàn và bảo_mật thông_tin .
+
+3 . Tổ_chức kiểm_định , đánh_giá và cấp chứng_nhận các sản_phẩm mật_mã trong hoạt_động của cơ_quan nhà_nước .
+
+4 . Triển_khai các hệ_thống bảo_vệ thông_tin thuộc phạm vị bí_mật nhà_nước_dùng mật_mã .
+
+Điều 52 . Trách_nhiệm của Bộ Công_an
+
+Bộ Công_an chịu trách_nhiệm bảo_đảm an_ninh trong hoạt_động ứng_dụng công_nghệ thông_tin ; điều_tra và xử_lí tội_phạm trong lĩnh_vực công_nghệ thông_tin .
+
+Điều 53 . Trách_nhiệm của các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh
+
+Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các cấp tỉnh có trách_nhiệm :
+
+1 . Xây_dựng , tổ_chức thực_hiện kế_hoạch 5 năm , kế_hoạch hàng năm về ứng_dụng công_nghệ thông_tin trong hoạt_động của mình .
+
+2 . Thực_hiện hoặc yêu_cầu cơ_quan có trách_nhiệm thực_hiện các nhiệm_vụ quốc_phòng , an_ninh và các nhiệm_vụ khẩn_cấp theo quy_định của pháp_luật .
+
+3 . Đánh_giá tác_động của công_nghệ thông_tin đối_với việc hoàn_thành chức_năng , nhiệm_vụ , quyền_hạn của cơ_quan mình , bao_gồm :
+
+a ) Dịch_vụ hành_chính công ;
+
+b ) Năng_suất , hiệu_quả lao_động ;
+
+c ) Đổi_mới tổ_chức , hoạt_động ;
+
+Điều 54 . Phối_hợp giữa các cơ_quan nhà_nước
+
+Khuyến_khích các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh triển_khai các sáng_kiến , chương_trình , dự_án ứng_dụng công_nghệ thông_tin có sự phối_hợp từ hai cơ_quan trở lên nhằm mục_tiêu :
+
+1 . Tăng_cường sự tương_thích giữa các cơ_sở hạ_tầng thông_tin của các cơ_quan nhà_nước .
+
+2 . Tạo điều_kiện thuận_lợi cho giao_dịch điện_tử giữa các cơ_quan nhà_nước và giữa cơ_quan nhà_nước với tổ_chức , cá_nhân .
+
+Chương 5 :
+
+Điều_khoản Thi_hành
+
+Điều 55 . Hiệu_lực thi_hành
+
+Nghị_định này có hiệu_lực thi_hành sau 15 ngày , kể từ ngày đăng Công_báo . Những quy_định trước đây trái Nghị_định này đều bãi_bỏ .
+
+Điều 56 . Hướng_dẫn thi_hành
+
+1 . Bộ Bưu_chính , Viễn_thông trong phạm_vi chức_năng , quyền_hạn của mình có trách_nhiệm hướng_dẫn thi_hành Nghị_định này .
+
+2 . Bộ Quốc_phòng , Bộ Công_an căn_cứ các quy_định của Luật Công_nghệ thông_tin và Nghị_định này có quy_định phù_hợp trong lĩnh_vực quốc_phòng , an_ninh .
+
+3 . Các Bộ_trưởng , Thủ_trưởng cơ_quan ngang Bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân cấp tỉnh chịu trách_nhiệm thi_hành Nghị_định này .
+
+4 . Cơ_quan các cấp của Đảng , Quốc_hội , Văn_phòng Chủ_tịch nước , Hội_đồng nhân_dân , Viện kiểm_sát , Toà_án nhân_dân và các tổ_chức chính_trị - xã_hội khác sử_dụng ngân_sách nhà_nước để ứng_dụng công_nghệ thông_tin căn_cứ Nghị_định này để có quy_định phù_hợp trong cơ_quan , tổ_chức của mình .

@@ -1,0 +1,2023 @@
+Thông_tư số 37/2016/tt-nhnn ngày 30 tháng 12 năm 2016 của ngân_hàng nhà_nước
+
+Căn_cứ <LT rel="CC"> Luật Ngân_hàng Nhà_nước Việt_nam_số 46/2010/QH12 ngày 16 tháng 6 năm 2010 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Các tổ_chức tín_dụng số 47/2010/QH12 ngày 16 tháng 6 năm 2010 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Giao_dịch điện_tử_số 51/2005/QH11 ngày 29 tháng 11 năm 2005 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 26/2007/NĐ-CP ngày 15 tháng 2 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành <LT rel="CC"> Luật Giao_dịch điện_tử về chữ_kí số </LT> và dịch_vụ chứng_thực chữ_kí số ; <NĐ rel="None"> Nghị_định số 106/2011/NĐ-CP ngày 23 tháng 11 năm 2011 </NĐ> sửa_đổi , bổ_sung một_số điều <NĐ rel="None"> Nghị_định số 26/2007/NĐ-CP </NĐ> và <NĐ rel="None"> Nghị_định số 170/2013/NĐ-CP ngày 13 tháng 11 năm 2013 </NĐ> sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 26/2007/NĐ-CP </NĐ>;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 35/2007/NĐ-CP ngày 8 tháng 3 năm 2007 </NĐ> của Chính_phủ về giao_dịch điện_tử trong hoạt_động ngân_hàng ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 101/2012/NĐ-CP ngày 22 tháng 11 năm 2012 </NĐ> của Chính_phủ về thanh_toán không dùng tiền_mặt và <NĐ rel="None"> Nghị_định số 80/2016/NĐ-CP ngày 01 tháng 07 năm 2016 </NĐ> sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 101/2012/NĐ-CP </NĐ>;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 156/2013/NĐ-CP ngày 11 tháng 11 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Ngân_hàng Nhà_nước Việt_nam ;
+
+Theo đề_nghị của Cục_trưởng Cục Công_nghệ tin_học ,
+
+Thống_đốc Ngân_hàng Nhà_nước Việt_nam ban_hành <TT rel="None"> Thông_tư quy_định về </TT> việc quản_lý , vận_hành và sử_dụng Hệ_thống Thanh_toán điện_tử liên ngân_hàng Quốc_gia .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh và đối_tượng áp_dụng
+
+1 . Phạm_vi điều_chỉnh :
+
+Thông_tư này quy_định việc quản_lý , vận_hành và sử_dụng Hệ_thống Thanh_toán điện_tử liên ngân_hàng Quốc_gia ( sau đây viết tắt là Hệ_thống Ttlnh ) để thực_hiện việc thanh_toán và quyết_toán giữa các đơn_vị tham_gia hệ_thống thanh_toán này bằng Đồng Việt_nam ( vnd ) , Đô_la Mỹ ( usd ) , Đồng_tiền chung Châu_âu ( eur ) và các loại ngoại_tệ khác do Thống_đốc Ngân_hàng Nhà_nước Quyết_định trong từng thời_kỳ .
+
+2 . Đối_tượng áp_dụng :
+
+Là thành_viên , đơn_vị thành_viên , thành_viên gián_tiếp của Hệ_thống Ttlnh , đơn_vị vận_hành Hệ_thống Ttlnh , tổ_chức chủ_trì hệ_thống bù_trừ có kết_nối đến Hệ_thống Ttlnh , các đơn_vị liên_quan của Ngân_hàng Nhà_nước .
+
+Điều 2 . Giải_thích từ_ngữ
+
+Trong Thông_tư này các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Thanh_toán điện_tử liên ngân_hàng ( viết tắt là Ttlnh ) là quá_trình xử_lí các giao_dịch thanh_toán liên ngân_hàng kể từ khi khởi tạo Lệnh thanh_toán cho tới khi hoàn_tất thực_hiện Lệnh thanh_toán , được thực_hiện qua mạng máy_tính .
+
+2 . Thành_viên trực_tiếp ( viết tắt là thành_viên ) là Ngân_hàng Nhà_nước , ngân_hàng , chi_nhánh ngân_hàng nước_ngoài , Kho_bạc Nhà_nước Trung_ương tham_gia Hệ_thống Ttlnh .
+
+3 . Đơn_vị thành_viên trực_tiếp ( viết tắt là đơn_vị thành_viên ) là đơn_vị trực_thuộc thành_viên tham_gia Hệ_thống Ttlnh theo đề_nghị của thành_viên .
+
+4 . Thành_viên gián_tiếp là đơn_vị trực_thuộc thành_viên , có mã ngân_hàng do Ngân_hàng Nhà_nước cấp , thực_hiện thanh_toán thông_qua thành_viên hoặc đơn_vị thành_viên .
+
+5 . Lệnh thanh_toán là một tin điện sử_dụng để thực_hiện một giao_dịch thanh_toán trong Hệ_thống Ttlnh .
+
+6 . Người phát lệnh là một tổ_chức hoặc cá_nhân yêu_cầu thành_viên , đơn_vị thành_viên tạo_lập Lệnh thanh_toán .
+
+7 . Người nhận lệnh là một tổ_chức hoặc cá_nhân nhận Lệnh thanh_toán thông_qua thành_viên , đơn_vị thành_viên .
+
+8 . Khách_hàng là Người phát lệnh hoặc là Người nhận lệnh .
+
+9 . Người lập Lệnh thanh_toán ( viết tắt là người lập lệnh ) là cá_nhân thuộc thành_viên , đơn_vị thành_viên được giao nhiệm_vụ thực_hiện khởi tạo Lệnh thanh_toán .
+
+10 . Người kiểm_soát Lệnh thanh_toán ( viết tắt là người kiểm_soát lệnh ) là kế_toán_trưởng , phụ_trách kế_toán hoặc người được uỷ_quyền của thành_viên , đơn_vị thành_viên thực_hiện kiểm_soát Lệnh thanh_toán .
+
+11 . Người duyệt Lệnh thanh_toán ( viết tắt là người duyệt lệnh ) là người có thẩm_quyền ( người đại_diện hợp_pháp ) của thành_viên , đơn_vị thành_viên ; riêng đối_với đơn_vị thành_viên là đơn_vị thuộc Ngân_hàng Nhà_nước , người duyệt lệnh là Thủ_trưởng đơn_vị hoặc người được uỷ_quyền .
+
+12 . Người duyệt truyền_thông là cá_nhân thuộc thành_viên , đơn_vị thành_viên được giao nhiệm_vụ truyền , nhận tin điện trong Hệ_thống Ttlnh .
+
+13 . Đơn_vị khởi tạo Lệnh thanh_toán ( viết tắt là đơn_vị khởi tạo lệnh ) là thành_viên hoặc đơn_vị thành_viên thay_mặt cho khách_hàng lập và xử_lí Lệnh thanh_toán ( đi ) .
+
+14 . Đơn_vị nhận Lệnh thanh_toán ( viết tắt là đơn_vị nhận lệnh ) là thành_viên hoặc đơn_vị thành_viên thay_mặt khách_hàng nhận và xử_lí Lệnh thanh_toán ( đến ) .
+
+15 . Dịch_vụ thanh_toán giá_trị thấp là dịch_vụ thuộc Hệ_thống Ttlnh xử_lí các Lệnh thanh_toán bằng Đồng Việt_nam sử_dụng phương_thức quyết_toán bù_trừ .
+
+16 . Dịch_vụ thanh_toán giá_trị cao là dịch_vụ thuộc Hệ_thống Ttlnh xử_lí các Lệnh thanh_toán bằng Đồng Việt_nam sử_dụng phương_thức quyết_toán tổng_tức_thời .
+
+17 . Dịch_vụ thanh_toán ngoại_tệ là dịch_vụ thuộc Hệ_thống Ttlnh xử_lí các Lệnh thanh_toán bằng ngoại_tệ sử_dụng phương_thức quyết_toán tổng_tức_thời .
+
+18 . Lệnh thanh_toán Có là Lệnh thanh_toán của đơn_vị khởi tạo lệnh nhằm ghi Nợ tài_khoản của khách_hàng mở tại đơn_vị khởi tạo lệnh một khoản tiền xác_định và ghi Có tài_khoản của khách_hàng mở tại đơn_vị nhận lệnh khoản tiền đó .
+
+19 . Lệnh thanh_toán Nợ là Lệnh thanh_toán của đơn_vị khởi tạo lệnh nhằm ghi Nợ tài_khoản của khách_hàng mở tại đơn_vị nhận lệnh một khoản tiền xác_định và ghi Có tài_khoản của khách_hàng mở tại đơn_vị khởi tạo lệnh khoản tiền đó .
+
+20 . Lệnh thanh_toán giá_trị thấp là Lệnh thanh_toán bằng Đồng Việt_nam có giá_trị nhỏ hơn 500 . 000 . 000 Vnd ( Năm trăm triệu đồng ) , sử_dụng dịch_vụ thanh_toán giá_trị thấp .
+
+21 . Lệnh thanh_toán giá_trị cao là Lệnh thanh_toán bằng Đồng Việt_nam sử_dụng dịch_vụ thanh_toán giá_trị cao .
+
+22 . Lệnh thanh_toán ngoại_tệ là Lệnh thanh_toán bằng ngoại_tệ sử_dụng dịch_vụ thanh_toán ngoại_tệ .
+
+23 . Tin điện là thông_tin điện_tử thể_hiện nội_dung của Lệnh thanh_toán hay thông_báo liên_quan đến giao_dịch thanh_toán cần thực_hiện và được truyền qua mạng máy_tính giữa các đơn_vị tham_gia Hệ_thống Ttlnh .
+
+24 . Mã xác_nhận tin điện là kí_hiệu của thông_tin điện_tử về tình_trạng của các Lệnh thanh_toán trong Hệ_thống Ttlnh .
+
+25 . Quyết_toán là việc xác_định và thanh_toán giá_trị cuối_cùng giữa các thành_viên liên_quan để hoàn_tất nghĩa_vụ thanh_toán .
+
+26 . Quyết_toán tổng_tức_thời là việc xử_lí quyết_toán tức_thời từng Lệnh thanh_toán để thực_hiện các nghĩa_vụ thanh_toán giữa các thành_viên hoặc đơn_vị thành_viên .
+
+27 . Quyết_toán kết_quả bù_trừ giá_trị thấp ( gọi tắt là quyết_toán bù_trừ ) là việc thực_hiện các nghĩa_vụ thanh_toán giữa các bên tham_gia thanh_toán bằng cách bù_trừ trực_tiếp sau khi đã cân_đối giữa tổng_các khoản phải thu và tổng_các khoản phải trả .
+
+28 . Hạn_mức nợ ròng là mức giá_trị tối_đa quy_định cho các giao_dịch thanh_toán giá_trị thấp được tham_gia quyết_toán bù_trừ .
+
+29 . Đơn_vị vận_hành Hệ_thống Ttlnh là đơn_vị trực_tiếp_vận_hành Hệ_thống Ttlnh .
+
+30 . Trung_tâm Xử_lí thanh_toán điện_tử liên ngân_hàng Quốc_gia ( viết tắt là Trung_tâm Xử_lí Quốc_gia - Npsc ) là hệ_thống trang thiết_bị kĩ_thuật đặt tại Cục Công_nghệ tin_học để thực_hiện các chức_năng của Cấu_phần Thanh_toán giá_trị cao , Cấu_phần Thanh_toán ngoại_tệ , cấu phần Thanh_toán giá_trị thấp , cấu phần Xử_lí tài_khoản thanh_toán và kiểm_tra , đối_chiếu số_liệu .
+
+31 . Trung_tâm Xử_lí thanh_toán điện_tử liên ngân_hàng Quốc_gia dự_phòng ( viết tắt là Trung_tâm Xử_lí Quốc_gia dự_phòng - Bnpsc ) là hệ_thống trang thiết_bị kĩ_thuật đặt tại Trung_tâm dữ_liệu dự_phòng để thực_hiện chức_năng dự_phòng cho Trung_tâm Xử_lí Quốc_gia .
+
+32 . Giá_trị của giấy_tờ có_giá kí_quỹ được xác_định theo quy_định của Ngân_hàng Nhà_nước về việc thấu chi và cho vay qua đêm trong Ttlnh .
+
+33 . Tỷ_lệ kí_quỹ là tỉ_lệ phần_trăm ( % ) giữa giá_trị giấy_tờ có_giá kí_quỹ , tiền kí_quỹ để thiết_lập hạn_mức nợ ròng và hạn_mức nợ ròng đầu ngày .
+
+34 . Dịch_vụ quyết_toán ròng cho các hệ_thống khác là dịch_vụ tiếp_nhận và xử_lí kết_quả_quyết_toán ròng từ Hệ_thống bù_trừ tự_động ( ach ) , Hệ_thống bù_trừ thẻ , và các Hệ_thống thanh_toán bù_trừ khác . Bổ_sung
+
+Điều 3 . Các cấu phần và chức_năng chính của Hệ_thống Ttlnh
+
+1 . Hệ_thống Ttlnh là hệ_thống tổng_thể gồm : Trung_tâm Xử_lí thanh_toán điện_tử liên ngân_hàng Quốc_gia , Trung_tâm Xử_lí thanh_toán điện_tử liên ngân_hàng Quốc_gia dự_phòng , phần_mềm cài_đặt tại các thành_viên và đơn_vị thành_viên .
+
+2 . Các cấu phần xử_lí nghiệp_vụ bao_gồm : Cấu_phần Thanh_toán giá_trị cao , Cấu_phần Thanh_toán ngoại_tệ , Cấu_phần Thanh_toán giá_trị thấp , Cấu_phần xử_lí tài_khoản thanh_toán .
+
+3 . Cấu_phần Thanh_toán giá_trị cao thực_hiện quyết_toán tổng_tức_thời cho các Lệnh thanh_toán bằng Đồng Việt_nam sử_dụng dịch_vụ thanh_toán giá_trị cao .
+
+4 . Cấu_phần Thanh_toán ngoại_tệ thực_hiện quyết_toán tổng_tức_thời cho các Lệnh thanh_toán bằng ngoại_tệ sử_dụng dịch_vụ thanh_toán ngoại_tệ .
+
+5 . Cấu_phần Thanh_toán giá_trị thấp thực_hiện thanh_toán các Lệnh thanh_toán giá_trị thấp sử_dụng dịch_vụ thanh_toán giá_trị thấp .
+
+6 . Cấu_phần xử_lí tài_khoản thanh_toán thực_hiện kiểm_tra , hạch_toán Lệnh thanh_toán giá_trị cao , Lệnh thanh_toán bằng ngoại_tệ , xử_lí kết_quả bù_trừ giá_trị thấp và kết_quả_quyết_toán ròng từ các hệ_thống khác .
+
+Điều 4 . Chứng_từ sử_dụng trong Ttlnh
+
+1 . Chứng_từ sử_dụng trong Ttlnh là chứng_từ bằng giấy hoặc dưới dạng chứng_từ điện_tử theo quy_định của pháp_luật hiện_hành về chế_độ chứng từ kế_toán .
+
+2 . Cơ_sở để lập Lệnh thanh_toán là các chứng_từ sử_dụng trong Ttlnh .
+
+3 . Lệnh thanh_toán phải được lập dưới dạng chứng_từ điện_tử theo đúng mẫu , đáp_ứng các chuẩn dữ_liệu do Thống_đốc Ngân_hàng Nhà_nước Quyết_định .
+
+Điều 5 . Thanh_toán Nợ trong Hệ_thống Ttlnh
+
+1 . Thanh_toán Nợ giữa các thành_viên không phải là đơn_vị Ngân_hàng Nhà_nước phải có hợp_đồng uỷ_quyền trước .
+
+2 . Thanh_toán Nợ giữa các thành_viên là đơn_vị Ngân_hàng Nhà_nước với các thành_viên không phải là đơn_vị Ngân_hàng Nhà_nước phải có văn_bản thoả_thuận trước .
+
+3 . Hợp_đồng uỷ_quyền trước hoặc văn_bản thoả_thuận về việc thanh_toán
+
+Nợ giữa các thành_viên phải bao_gồm tối_thiểu các yếu_tố sau :
+
+- Hạn_mức tối_đa trong ngày được thanh_toán Nợ giữa các thành_viên ;
+
+- Hạn_mức tối_đa của một Lệnh thanh_toán Nợ không cần xác_nhận nợ ;
+
+- Thời_hạn hiệu_lực của hợp_đồng hoặc văn_bản thoả_thuận .
+
+Điều 6 . Quy_định về sử_dụng dịch_vụ thanh_toán
+
+1 . Lệnh thanh_toán bằng Đồng Việt_nam có giá_trị từ 500 . 000 . 000 Vnd ( năm trăm triệu đồng ) trở lên phải sử_dụng dịch_vụ thanh_toán giá_trị cao .
+
+2 . Lệnh thanh_toán bằng Đồng Việt_nam có giá_trị nhỏ hơn 500 . 000 . 000 Vnd ( năm trăm triệu đồng ) có_thể sử_dụng dịch_vụ thanh_toán giá_trị cao hoặc dịch_vụ thanh_toán giá_trị thấp .
+
+3 . Lệnh thanh_toán bằng ngoại_tệ phải sử_dụng dịch_vụ thanh_toán ngoại_tệ .
+
+Điều 7 . Chi_phí và thu phí trong Ttlnh
+
+1 . Chi_phí xây_dựng , lắp_đặt , duy_trì , phát_triển và nâng_cấp hoạt_động của Hệ_thống Ttlnh do Ngân_hàng Nhà_nước chi_trả . Chi_phí xây_dựng , lắp_đặt , duy_trì , phát_triển và nâng_cấp hoạt_động của các hệ_thống khác thuộc thành_viên , đơn_vị thành_viên để phục_vụ cho hoạt_động Ttlnh tại thành_viên , đơn_vị thành_viên thì do thành_viên , đơn_vị thành_viên chi_trả .
+
+2 . Khi tham_gia sử_dụng dịch_vụ Hệ_thống Ttlnh các thành_viên , đơn_vị thành_viên phải trả phí dịch_vụ tham_gia Hệ_thống Ttlnh , phí thường_niên và phí dịch_vụ thanh_toán trong nước theo quy_định của Ngân_hàng Nhà_nước về biểu phí dịch_vụ thanh_toán qua Ngân_hàng Nhà_nước Việt_nam .
+
+Chương_ii
+
+Quy_định Về Quản_lý Và Vận_hành Hệ_thống_ttlnh
+
+Điều 8 . Kiểm_tra Hệ_thống Ttlnh
+
+1 . Đơn_vị vận_hành Hệ_thống Ttlnh hàng ngày kiểm_tra tình_trạng kĩ_thuật của Hệ_thống Ttlnh về dữ_liệu số_dư , dữ_liệu hạn_mức nợ ròng , dữ_liệu thanh_toán .
+
+2 . Cục Công_nghệ tin_học hàng ngày kiểm_tra tình_trạng kĩ_thuật của Hệ_thống Ttlnh về hệ_thống phần_mềm , trang thiết_bị và mạng truyền_thông tại Trung_tâm Xử_lí Quốc_gia , Trung_tâm Xử_lí Quốc_gia dự_phòng .
+
+3 . Đơn_vị vận_hành Hệ_thống Ttlnh , thành_viên , đơn_vị thành_viên phải thường_xuyên kiểm_tra , theo_dõi để nhận và xử_lí các Lệnh thanh_toán trong thời_gian làm_việc của Hệ_thống Ttlnh , bảo_đảm Hệ_thống Ttlnh hoạt_động thông_suốt , an_toàn .
+
+Điều 9 . Thời_gian làm_việc áp_dụng trong Hệ_thống Ttlnh
+
+1 . Các thời_điểm áp_dụng trong Hệ_thống Ttlnh được quy_định như sau :
+
+a ) Thời_điểm Hệ_thống Ttlnh bắt_đầu hoạt_động : 8 giờ 00 phút của ngày làm_việc ;
+
+b ) Thời_điểm ngừng nhận Lệnh thanh_toán :
+
+- Đối_với Lệnh thanh_toán giá_trị thấp : 16 giờ 00 phút đối_với ngày làm_việc bình_thường , 17 giờ 00 phút đối_với 02 ngày làm_việc cuối tháng ;
+
+- Đối_với Lệnh thanh_toán giá_trị cao và Lệnh thanh_toán bằng ngoại_tệ : 17 giờ 00 phút đối_với ngày làm_việc bình_thường , 17 giờ 45 phút đối_với 02 ngày làm_việc cuối tháng ;
+
+c ) Thời_điểm thực_hiện các công_việc cuối ngày ( kiểm_tra các điều_kiện đối_chiếu , thực_hiện đối_chiếu , xác_nhận số_liệu với Trung_tâm Xử_lí Quốc_gia ) ; từ 17 giờ 15 phút đối_với ngày làm_việc bình_thường , từ 18 giờ 00 phút đối_với 02 ngày làm_việc cuối tháng .
+
+2 . Trong trường_hợp có thay_đổi các thời_điểm được quy_định tại Khoản 1 Điều này , Thống_đốc Ngân_hàng Nhà_nước Quyết_định và thông_báo bằng văn_bản cho thành_viên trước thời_gian có hiệu_lực tối_thiểu 30 ngày trừ trường_hợp quy_định tại Khoản 3 Điều này .
+
+3 . Trong trường_hợp có sự thay_đổi về thời_điểm được quy_định tại Khoản 1 Điều này vào thời_gian quyết_toán năm hoặc Hệ_thống Ttlnh hoạt_động vào các ngày nghỉ , Lễ , Tết thì Thống_đốc Ngân_hàng Nhà_nước Quyết_định , đơn_vị vận_hành Hệ_thống Ttlnh thông_báo bằng văn_bản cho thành_viên và đăng_tải trên cổng thông_tin điện_tử Ngân_hàng Nhà_nước trước thời_gian có hiệu_lực tối_thiểu 05 ngày làm_việc .
+
+Điều 10 . Gia_hạn thời_gian nhận Lệnh thanh_toán
+
+1 . Đơn_vị vận_hành Hệ_thống Ttlnh được phép thay_đổi thời_điểm nhận Lệnh thanh_toán thêm tối_đa 30 phút trong các trường_hợp sau :
+
+a ) Trường_hợp do yêu_cầu công_việc , do Hệ_thống Ttlnh phát_sinh lỗi tại Trung_tâm Xử_lí Quốc_gia hoặc do các nguyên_nhân khác từ phía Ngân_hàng Nhà_nước Trung_ương ;
+
+b ) Trường_hợp Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố , thành_viên đề_nghị gia_hạn thời_gian nhận Lệnh thanh_toán do sự_cố kĩ_thuật hoặc do khối_lượng chứng_từ phát_sinh quá nhiều vào cuối giờ giao_dịch .
+
+2 . Trường_hợp thay_đổi thời_điểm nhận Lệnh thanh_toán vượt quá 30 phút trong các trường_hợp quy_định tại Khoản 1 Điều này , đơn_vị vận_hành Hệ_thống Ttlnh báo_cáo Thống_đốc Ngân_hàng Nhà_nước xem_xét Quyết_định , đồng_thời gửi Vụ Thanh_toán để giám_sát .
+
+3 . Việc gia_hạn thời_gian nhận Lệnh thanh_toán quy_định tại Khoản 1 , 2 Điều này được thông_báo tới tất_cả các thành_viên Hệ_thống Ttlnh và các đơn_vị liên_quan thuộc Ngân_hàng Nhà_nước qua hộp_thư điện_tử đã đăng_kí với đơn_vị vận_hành Hệ_thống Ttlnh hoặc trên Hệ_thống Ttlnh trước thời_điểm ngừng nhận Lệnh thanh_toán giá_trị thấp đối_với trường_hợp gia_hạn thời_gian nhận Lệnh thanh_toán giá_trị thấp , trước thời_điểm ngừng nhận Lệnh thanh_toán giá_trị cao và Lệnh thanh_toán bằng ngoại_tệ đối_với trường_hợp gia_hạn thời_gian nhận Lệnh thanh_toán giá_trị cao và Lệnh thanh_toán bằng ngoại_tệ .
+
+Điều 11 . Ghi nhật_kí và lưu_trữ dữ Liệu điện_tử các giao_dịch
+
+1 . Quá_trình xử_lí các giao_dịch được Hệ_thống Ttlnh tự_động ghi dưới dạng dữ_liệu điện_tử .
+
+2 . Hàng ngày , dữ_liệu điện_tử phải được lưu_trữ ra các thiết_bị mang tin ( băng_từ , đĩa_cứng ) . Dữ_liệu điện_tử phải lưu_trữ bao_gồm :
+
+a ) Đối_với mỗi thành_viên , đơn_vị thành_viên , lưu_trữ dữ_liệu điện_tử về các yêu_cầu giao_dịch và tin điện kết_quả ;
+
+b ) Đối_với Trung_tâm Xử_lí Quốc_gia , lưu_trữ dữ_liệu điện_tử về các tin điện giao_dịch , giao_dịch_hạch_toán , dữ_liệu đối_chiếu và kết_quả xử_lý .
+
+3 . Việc quản_lí tài_liệu , dữ_liệu điện_tử được thực_hiện theo quy_định của pháp_luật về lưu_trữ . Trường_hợp cần_thiết phục_vụ cho công_tác thanh_tra , kiểm_soát , giải_quyết tranh_chấp , các đơn_vị có trách_nhiệm phải xuất_trình dữ_liệu nhật_kí điện_tử cho các cơ_quan_chức_năng có thẩm_quyền và tuân_thủ quy_định của pháp_luật về bảo_mật thông_tin của khách_hàng .
+
+Điều 12 . Cấp_phát , quản_lí và sử_dụng chữ_kí điện_tử tham_gia Hệ_thống Ttlnh
+
+1 . Chữ_kí điện_tử được chia làm 4 loại :
+
+a ) Chữ_kí điện_tử của người lập lệnh ;
+
+b ) Chữ_kí điện_tử của người kiểm_soát lệnh ;
+
+c ) Chữ_kí điện_tử của người duyệt lệnh ;
+
+d ) Chữ_kí điện_tử của người duyệt truyền_thông ( viết tắt là Chữ_kí điện_tử truyền_thông ) .
+
+2 . Chữ_kí điện_tử được phân_cấp quản_lí và sử_dụng như sau :
+
+a ) Công_cụ và phương_tiện tạo chữ_kí điện_tử của người lập lệnh và người kiểm_soát lệnh do thành_viên , đơn_vị thành_viên tự_cấp_phát và quản_lí theo quy_trình xử_lí tại từng đơn_vị ;
+
+b ) Khoá bí_mật tạo chữ_kí điện_tử của người duyệt lệnh và chữ_kí điện_tử truyền_thông được Ngân_hàng Nhà_nước cấp theo quy_định về việc quản_lý , sử_dụng chữ_kí số , chứng_thư số và dịch_vụ chứng_thực chữ_kí số của Ngân_hàng Nhà_nước . Người được giao quản_lý , sử_dụng chữ_kí điện_tử , khoá bí_mật phải bảo_đảm bí_mật và chịu trách_nhiệm trước pháp_luật nếu để lộ chữ_kí điện_tử , khoá bí_mật gây thiệt_hại ;
+
+c ) Việc tổ_chức phân_quyền người lập lệnh , người kiểm_soát lệnh và người duyệt lệnh tại các thành_viên , đơn_vị thành_viên do người có thẩm_quyền của đơn_vị quy_định , đảm_bảo nguyên_tắc người lập lệnh độc_lập với người kiểm_soát lệnh và người duyệt lệnh .
+
+Điều 13 . Vấn tin và đối_chiếu
+
+1 . Vấn tin :
+
+Thành_viên , đơn_vị thành_viên thực_hiện vấn tin và tra_cứu thông_tin bằng cách gửi tin điện yêu_cầu vấn tin hoặc thông_qua trang thông_tin điện_tử_cung_cấp thông_tin . Hệ_thống Ttlnh tự_động kiểm_tra tính hợp_lệ của các yêu_cầu này và cung_cấp thông_tin trả_lời .
+
+2 . Đối_chiếu kết_quả thanh_toán :
+
+a ) Việc đối_chiếu kết_quả thanh_toán được thực_hiện hàng ngày vào thời_điểm Hệ_thống Ttlnh hoàn_tất công_việc xử_lí cuối ngày ;
+
+b ) Số_liệu đã quyết_toán trong ngày tại Trung_tâm Xử_lí Quốc_gia là căn_cứ gốc để đối_chiếu kết_quả thanh_toán ;
+
+c ) Toàn_bộ Lệnh thanh_toán phát_sinh phải được đối_chiếu khớp đúng giữa số_liệu tại Trung_tâm Xử_lí Quốc_gia và các thành_viên , đơn_vị thành_viên ngay trong ngày , trừ trường_hợp xảy ra sự_cố kĩ_thuật , truyền_thông dẫn đến việc đối_chiếu tại thành_viên , đơn_vị thành_viên không_thể hoàn_thành trong ngày ;
+
+d ) Việc đối_chiếu Lệnh thanh_toán được thực_hiện cho từng ngày riêng_biệt . Trong trường_hợp có sự_cố không_thể hoàn_thành trong ngày theo quy_định , thì việc đối_chiếu được phép kéo_dài sang ngày làm_việc kế_tiếp sau khi sự_cố được khắc_phục . Tuy_nhiên , việc đối_chiếu dù thực_hiện vào ngày kế_tiếp nhưng vẫn phải phản_ánh theo ngày phát_sinh Lệnh thanh_toán ;
+
+đ ) Trung_tâm Xử_lí Quốc_gia tự_động tạo dữ_liệu đối_chiếu cuối ngày cho các thành_viên , đơn_vị thành_viên thực_hiện đối_chiếu ;
+
+e ) Các thành_viên , đơn_vị thành_viên nhận số_liệu và đối_chiếu với số_liệu Lệnh thanh_toán thực gửi và nhận trong ngày theo hướng_dẫn tại Khoản 2 Điều 37 Thông_tư này .
+
+Trong trường_hợp phát_sinh sai_sót , các thành_viên , đơn_vị thành_viên phải thông_báo và phối_hợp với đơn_vị vận_hành Hệ_thống Ttlnh để xử_lý .
+
+Điều 14 . Hoạt_động của Trung_tâm Xử_lí Quốc_gia
+
+1 . Tiếp_nhận và kiểm_tra tính hợp_lệ của chứng_từ điện_tử bao_gồm :
+
+a ) Loại và khuôn_dạng của các dữ_liệu ;
+
+b ) Tính hợp_lệ ( có thẩm_quyền ) của người duyệt lệnh ;
+
+c ) Ngày , tháng , năm ;
+
+d ) Tính duy_nhất ;
+
+đ ) Các yếu_tố bắt_buộc đối_với Lệnh thanh_toán ;
+
+e ) Mã xác_nhận tin điện ;
+
+g ) Mã đơn_vị tham_gia , mã thiết_bị sử_dụng đầu_cuối , mã người duyệt .
+
+2 . Thực_hiện xử_lí các Lệnh thanh_toán , Lệnh huỷ Lệnh thanh_toán hợp_lệ ; thông_báo theo yêu_cầu về Lệnh thanh_toán và kết_quả xử_lí Lệnh thanh_toán cho các thành_viên , đơn_vị thành_viên liên_quan đến Lệnh thanh_toán đó .
+
+3 . Đối_chiếu Lệnh thanh_toán với các thành_viên , đơn_vị thành_viên trong Hệ_thống Ttlnh .
+
+4 . Từ_chối thực_hiện thanh_toán các <LH rel="None"> Lệnh thanh_toán không </LH> hợp_lệ , Lệnh huỷ <LH rel="None"> Lệnh thanh_toán không </LH> hợp_lệ , Lệnh thanh_toán gửi sau thời_điểm Hệ_thống Ttlnh ngừng nhận Lệnh thanh_toán .
+
+5 . Từ_chối thực_hiện thanh_toán các Lệnh thanh_toán giá_trị cao , Lệnh thanh_toán bằng ngoại_tệ đối_với các thành_viên không đủ số_dư trong tài_khoản thanh_toán của loại tiền tương_ứng .
+
+6 . Thông_báo trạng_thái Lệnh thanh_toán Có_giá_trị cao không thành_công cho đơn_vị khởi tạo lệnh nếu sau thời_điểm ngừng nhận Lệnh thanh_toán giá_trị cao trên tài_khoản của đơn_vị khởi tạo lệnh không đủ số_dư để thực_hiện thanh_toán hoặc Lệnh thanh_toán Có_giá_trị cao gửi sau thời_điểm Hệ_thống Ttlnh ngừng nhận Lệnh thanh_toán giá_trị cao .
+
+7 . Thông_báo trạng_thái Lệnh thanh_toán Có bằng ngoại_tệ không thành_công cho đơn_vị khởi tạo lệnh nếu sau thời_điểm ngừng nhận Lệnh thanh_toán bằng ngoại_tệ trên tài_khoản loại tiền tương_ứng của đơn_vị khởi tạo lệnh không đủ số_dư để thực_hiện thanh_toán hoặc Lệnh thanh_toán Có bằng ngoại_tệ gửi sau thời_điểm Hệ_thống Ttlnh ngừng nhận Lệnh thanh_toán bằng ngoại_tệ .
+
+8 . Thông_báo trạng_thái Lệnh thanh_toán Nợ giá_trị cao không thành_công cho đơn_vị khỏi tạo lệnh nếu sau thời_điểm ngừng nhận Lệnh thanh_toán giá_trị cao trên tài_khoản của đơn_vị nhận lệnh không đủ số_dư để thực_hiện thanh_toán hoặc Lệnh thanh_toán Nợ giá_trị cao gửi sau thời_điểm Hệ_thống Ttlnh ngừng nhận Lệnh thanh_toán giá_trị cao .
+
+9 . Thông_báo trạng_thái Lệnh thanh_toán Nợ bằng ngoại_tệ không thành_công cho đơn_vị khởi tạo lệnh nếu sau thời_điểm ngừng nhận Lệnh thanh_toán bằng ngoại_tệ trên tài_khoản loại tiền tương_ứng của đơn_vị nhận lệnh không đủ số_dư để thực_hiện thanh_toán hoặc Lệnh thanh_toán Nợ bằng ngoại_tệ gửi sau thời_điểm Hệ_thống Ttlnh ngừng nhận Lệnh thanh_toán bằng ngoại_tệ .
+
+10 . Thông_báo trạng_thái Lệnh thanh_toán giá_trị thấp không thành_công cho đơn_vị khởi tạo lệnh nếu sau thời_điểm Hệ_thống Ttlnh thực_hiện quyết_toán bù_trừ đơn_vị khởi tạo lệnh thiếu hạn_mức nợ ròng hiện_thời hoặc Lệnh thanh_toán giá_trị thấp gửi sau thời_điểm Hệ_thống Ttlnh ngừng nhận Lệnh thanh_toán giá_trị thấp .
+
+11 . Tự_động gửi tin điện kết_quả bù_trừ giá_trị thấp cho cấu phần Xử_lí tài_khoản để hạch_toán cho các thành_viên tham_gia quyết_toán bù_trừ giá_trị thấp trong ngày .
+
+12 . Việc xử_lí kết_quả_quyết_toán ròng từ các hệ_thống khác được thực_hiện theo quy_định tại Điều 25 Thông_tư này .
+
+Điều 15 . Hoạt_động của hệ_thống dự_phòng
+
+1 . Trung_tâm Xử_lí Quốc_gia dự_phòng hoạt_động thay_thế cho Trung_tâm Xử_lí Quốc_gia khi Trung_tâm Xử_lí Quốc_gia bị sự_cố không_thể vận_hành bình_thường .
+
+2 . Trong thời_gian Trung_tâm Xử_lí Quốc_gia dự_phòng hoạt_động thay_thế Trung_tâm Xử_lí Quốc_gia , Trung_tâm Xử_lí Quốc_gia dự_phòng có chức_năng hoạt_động như quy_định tại Điều 14 Thông_tư này .
+
+3 . Mọi dữ_liệu và kết_quả xử_lí tại Trung_tâm Xử_lí Quốc_gia dự_phòng có giá_trị pháp_lí như đối_với Trung_tâm Xử_lí Quốc_gia .
+
+Chương_iii
+
+Lệnh Thanh_toán Trong Ttlnh
+
+Điều 16 . Quy_trình tạo_lập Lệnh thanh_toán
+
+1 . Đối_với Lệnh thanh_toán khởi tạo từ chứng từ giấy :
+
+a ) Người lập lệnh thực_hiện khởi tạo Lệnh thanh_toán qua các bước sau :
+
+- Kiểm_tra tính hợp_lệ , hợp_pháp chứng_từ giao_dịch thanh_toán của khách_hàng ;
+
+- Xác_định , phân_loại Lệnh thanh_toán để xử_lý ;
+
+- Đối_chiếu , kiểm_tra số_dư tài_khoản của khách_hàng ;
+
+- Nhập các thông_tin cơ_bản sau : Đơn_vị khởi tạo lệnh ( tên , mã ngân_hàng ) , số tiền , tên , địa_chỉ , tài_khoản ( nếu có ) , số chứng_minh nhân_dân hoặc số căn_cước công_dân hoặc số hộ_chiếu của người phát lệnh hoặc mã_số doanh_nghiệp ( đối_với Người phát lệnh là doanh_nghiệp ) , đơn_vị phục_vụ người phát lệnh , đơn_vị nhận lệnh ( tên , mã ngân_hàng ) , tên , địa_chỉ , tài_khoản ( nếu có ) , số chứng_minh nhân_dân hoặc số căn_cước công_dân hoặc số hộ_chiếu , ngày cấp và nơi cấp chứng_minh nhân_dân hoặc căn_cước công_dân hoặc hộ_chiếu của người nhận lệnh , đơn_vị phục_vụ người nhận lệnh , nội_dung chuyển tiền và các nội_dung khác liên_quan đến giao_dịch trên thị_trường liên ngân_hàng , giao_dịch nộp ngân_sách Nhà_nước , giao_dịch mua_bán trái_phiếu Chính_phủ và các loại giao_dịch khác ( nếu có ) theo Mẫu_số Ttlnh - 04 ;
+
+- Kiểm_soát lại các dữ_liệu đã nhập và kí chữ_kí điện_tử vào Lệnh thanh_toán ;
+
+- Ký trên chứng_từ , chuyển chứng_từ và dữ_liệu đã nhập cho người kiểm_soát lệnh ;
+
+b ) Người kiểm_soát lệnh :
+
+- Căn_cứ nội_dung trên các chứng_từ liên_quan , kiểm_soát lại các yếu_tố : đơn_vị nhận lệnh , đơn_vị phục_vụ người phát lệnh , đơn_vị phục_vụ người nhận lệnh , số tiền để kiểm_tra dữ_liệu do người lập lệnh đã nhập , nội_dung thanh_toán ;
+
+- Nếu phát_hiện có sai_sót thì chuyển trả người lập lệnh ;
+
+- Nếu dữ_liệu đúng thì kí chữ_kí điện_tử vào Lệnh thanh_toán , kí trên chứng_từ và chuyển cho người duyệt lệnh ;
+
+c ) Người duyệt lệnh :
+
+- Kiểm_tra sự khớp đúng giữa số_liệu trên chứng từ gốc và số_liệu trên màn_hình ;
+
+- Nếu phát_hiện sai_sót thì chuyển trả người lập lệnh hoặc người kiểm_soát lệnh ;
+
+- Nếu dữ_liệu đúng thì kí trên chứng_từ , kí chữ_kí điện_tử của mình vào Lệnh thanh_toán để chuyển đi .
+
+2 . Đối_với Lệnh thanh_toán tạo từ chứng_từ điện_tử :
+
+Trường_hợp Lệnh thanh_toán được tạo từ chứng_từ điện_tử từ các hệ_thống nội_bộ của thành_viên , đơn_vị thành_viên thì phải tuân_thủ quy_định về cấu_trúc , định_dạng dữ_liệu do Ngân_hàng Nhà_nước quy_định và đảm_bảo các yêu_cầu sau :
+
+a ) Nếu chứng_từ điện_tử hợp_lệ nhưng chưa đầy_đủ thông_tin theo quy_định tại Điểm a Khoản 1 Điều này : người lập lệnh bổ_sung các nội_dung còn thiếu theo quy_định lập Lệnh thanh_toán ; người kiểm_soát lệnh và người duyệt lệnh kiểm_tra lại các yếu_tố tương_tự như đối_với trường_hợp chứng từ giấy để bảo_đảm tính chính_xác và kí chữ_kí điện_tử của mình vào Lệnh thanh_toán để chuyển đi ;
+
+b ) Nếu chứng_từ điện_tử hợp_lệ , đầy_đủ thông_tin theo quy_định lập Lệnh thanh_toán và bao_gồm chữ_kí điện_tử an_toàn nội_bộ của thành_viên , các đơn_vị lựa_chọn phương_án kí chữ_kí điện_tử trên Lệnh thanh_toán theo phương_pháp thủ_công hoặc lựa_chọn kí chữ_kí điện_tử theo phương_pháp tự_động đối_với từng Lệnh thanh_toán ;
+
+c ) Nếu các chứng_từ điện_tử đầu_vào hợp_lệ , có đầy_đủ thông_tin theo quy_định lập Lệnh thanh_toán và đảm_bảo các điều_kiện về an_ninh , an_toàn và tính chính_xác của dữ_liệu , người có thẩm_quyền của các đơn_vị <QĐ rel="DC"> Quyết_định về việc </QĐ> cho phép chỉ cần người duyệt lệnh kí chữ_kí điện_tử trên Lệnh thanh_toán và chịu trách_nhiệm trước pháp_luật về Quyết_định này hoặc thực_hiện theo Điểm a Khoản 2 Điều này .
+
+3 . Sau khi Lệnh thanh_toán đã được gửi đi và nhận được kết_quả trạng_thái thành_công , Lệnh thanh_toán đó có_thể in ra chứng từ giấy nếu có yêu_cầu .
+
+4 . Lệnh thanh_toán bằng loại đồng_tiền nào sẽ được Hệ_thống Ttlnh xử_lý , hạch_toán trên tài_khoản thanh_toán của loại đồng_tiền tương_ứng đó của thành_viên mở tại Sở Giao_dịch Ngân_hàng Nhà_nước ( sau đây viết tắt là Sở Giao_dịch ) .
+
+Điều 17 . Kiểm_tra tính hợp_lệ Lệnh thanh_toán
+
+Trong quá_trình sử_dụng , các thành_viên , đơn_vị thành_viên phải chịu trách_nhiệm pháp_lí về tính hợp_pháp của chứng từ dùng để lập Lệnh thanh_toán tại đơn_vị . Thành_viên , đơn_vị thành_viên phải kiểm_tra tính hợp_lệ của Lệnh thanh_toán , thông_tin kiểm_tra gồm :
+
+1 . Loại và khuôn_dạng của các dữ_liệu ;
+
+2 . Tính hợp_lệ ( có thẩm_quyền ) của người lập lệnh , người kiểm_soát lệnh , người duyệt lệnh ;
+
+3 . Ngày , tháng , năm ;
+
+4 . Tính duy_nhất ;
+
+5 . Các yếu_tố bắt_buộc đối_với Lệnh thanh_toán ;
+
+6 . Mã xác_nhận tin điện ;
+
+7 . Mã đơn_vị tham_gia , mã thiết_bị sử_dụng đầu_cuối và mã người duyệt .
+
+Điều 18 . Hạch_toán tại thành_viên , đơn_vị thành_viên
+
+Các thành_viên , đơn_vị thành_viên thực_hiện hạch_toán Lệnh thanh_toán theo quy_định của pháp_luật hiện_hành .
+
+Điều 19 . Hạch_toán và xử_lí các Lệnh thanh_toán tại Sở Giao_dịch
+
+Sở Giao_dịch căn_cứ Bảng kê được lập hàng ngày trên dữ_liệu điện_tử ( theo các Mẫu_số Ttlnh - 10 , Ttlnh - 11 , Ttlnh - 12 , Ttlnh - 13 , Ttlnh - 14 , Ttlnh - 15 kèm theo Thông_tư này ) để làm cơ_sở thực_hiện kiểm_soát , đối_chiếu , hạch_toán , kiểm_toán và lưu_trữ .
+
+Chương_iv
+
+Xử_lý Quyết_toán Bù_trừ Giữa Các Thành_viên Và Kết_quả_quyết_toán Ròng Từ Các Hệ_thống Khác
+
+Điều 20 . Hạn_mức nợ ròng
+
+1 . Thiết_lập hạn_mức nợ ròng đầu ngày
+
+a ) Các thành_viên tham_gia dịch_vụ gửi Lệnh thanh_toán giá_trị thấp phải thiết_lập , duy_trì và quản_lí hạn_mức nợ ròng ;
+
+b ) Các thành_viên tham_gia dịch_vụ gửi Lệnh thanh_toán giá_trị thấp phải tự tính hạn_mức nợ ròng đầu ngày trên cơ_sở căn_cứ doanh_số giao_dịch giá_trị thấp của kì trước và gửi giấy đề_nghị thiết_lập hạn_mức nợ ròng đầu ngày đến Sở Giao_dịch . Hạn_mức nợ ròng đầu ngày của mỗi thành_viên được tính theo công_thức sau :
+
+Hạn_mức nợ ròng đầu ngày = Mức chênh_lệch ( phải trả - phải thu ) bình_quân ngày của thành_viên xét trong 6 tháng liền trước của kì thiết_lập hạn_mức nợ ròng đầu ngày .
+
+Trong trường_hợp hạn_mức nợ ròng đầu ngày tính_toán bằng không hoặc âm thì hạn_mức nợ ròng đầu ngày được thiết_lập căn_cứ trên tình_hình thanh_toán thực_tế kì liền trước , hạn_mức nợ ròng đầu ngày kì liền trước , giấy_tờ có_giá và / hoặc tiền kí_quỹ và nhu_cầu thanh_toán giá_trị thấp của thành_viên .
+
+Trong trường_hợp_thành_viên tham_gia dịch_vụ gửi Lệnh thanh_toán giá_trị thấp có thời_gian chưa đủ 6 tháng thì hạn_mức nợ ròng đầu ngày của thành_viên đó được thiết_lập bằng giá_trị của giấy_tờ có_giá và / hoặc tiền kí_quỹ để thiết_lập hạn_mức nợ ròng của thành_viên .
+
+Sở Giao_dịch kiểm_tra tính đúng_đắn về số_học , kết_hợp với nhu_cầu thanh_toán giá_trị thấp thực_tế , giấy_tờ có_giá hoặc tiền kí_quỹ của các thành_viên và thông_báo kết_quả để thành_viên thực_hiện ;
+
+c ) Việc thiết_lập hạn_mức nợ ròng đầu ngày được thực_hiện 6 tháng_một lần vào thời_gian 5 ngày làm_việc đầu_tiên của tháng 1 và tháng 7 hàng năm ;
+
+d ) Các thành_viên tham_gia dịch_vụ gửi Lệnh thanh_toán giá_trị thấp thực_hiện kí_quỹ để thiết_lập hạn_mức nợ ròng đầu ngày theo quy_định tại Điều 21 Thông_tư này .
+
+2 . Điều_chỉnh hạn_mức nợ ròng đầu ngày
+
+a ) Sở Giao_dịch có_thể yêu_cầu thành_viên tham_gia dịch_vụ gửi Lệnh thanh_toán giá_trị thấp điều_chỉnh giảm hạn_mức nợ ròng đầu ngày nếu thấy hạn_mức này quá cao sau khi xem_xét khả_năng thanh_toán và giấy_tờ có_giá hoặc tiền kí_quỹ để thiết_lập hạn_mức nợ ròng của thành_viên này ;
+
+b ) Trong kì thiết_lập hạn_mức nợ ròng đầu ngày , mỗi thành_viên có_thể yêu_cầu Sở Giao_dịch xem_xét và Quyết_định điều_chỉnh hạn_mức nợ ròng đầu ngày phù_hợp theo tình_hình thanh_toán của thành_viên . Trong trường_hợp điều_chỉnh tăng thì tỉ_lệ kí_quỹ để thiết_lập phần hạn_mức nợ ròng đầu ngày tăng thêm tối_thiểu là 100 % .
+
+3 . Điều_chỉnh hạn_mức nợ ròng đầu ngày tạm_thời trong ngày
+
+a ) Trong ngày làm_việc , nếu thành_viên yêu_cầu điều_chỉnh tăng hạn_mức nợ ròng đầu ngày tạm_thời trong ngày thì phần giá_trị tăng thêm tạm_thời trong ngày của hạn_mức nợ ròng đầu ngày được xử_lí như sau :
+
+Nếu thành_viên sử_dụng giấy_tờ có_giá hoặc tiền kí_quỹ để yêu_cầu tăng hạn_mức nợ ròng thì thành_viên phải thực_hiện kí_quỹ giấy_tờ có_giá hoặc kí_quỹ bằng tiền . Giá_trị của giấy_tờ có_giá kí_quỹ bổ_sung hoặc số tiền kí_quỹ bổ_sung phải tối_thiểu bằng phần giá_trị tăng thêm tạm_thời trong ngày của hạn_mức nợ ròng đầu ngày . Trong trường_hợp giá_trị của giấy_tờ có_giá kí_quỹ bổ_sung hoặc số tiền kí_quỹ bổ_sung không đủ thì không thực_hiện yêu_cầu này .
+
+Nếu thành_viên sử_dụng số_dư tài_khoản thanh_toán để yêu_cầu tăng hạn_mức nợ ròng đầu ngày thì Sở Giao_dịch trích nợ số tiền trên tài_khoản thanh_toán của thành_viên đó có giá_trị bằng phần giá_trị tăng thêm tạm_thời trong ngày của hạn_mức nợ ròng đầu ngày để thực_hiện kí_quỹ . Trong trường_hợp_số_dư tài_khoản thanh_toán của thành_viên không đủ thì không thực_hiện yêu_cầu này .
+
+Sau khi hoàn_thành việc quyết_toán bù_trừ giá_trị thấp trong ngày , Sở Giao_dịch thực_hiện hoàn_trả giấy_tờ có_giá kí_quỹ bổ_sung khi thành_viên có yêu_cầu hoặc số tiền kí_quỹ bổ_sung cho thành_viên . Đồng_thời_hạn mức nợ ròng được điều_chỉnh về bằng hạn_mức nợ ròng đầu ngày . Hạn_mức nợ ròng đầu ngày tạm_thời trong ngày được xác_định như sau :
+
+Hạn_mức nợ ròng đầu ngày tạm_thời trong ngày = Hạn_mức nợ ròng đầu ngày + Phần giá_trị tăng thêm tạm_thời trong ngày của hạn_mức nợ ròng đầu ngày ;
+
+b ) Trong trường_hợp cần_thiết để bảo_đảm khả_năng thanh_toán của các thành_viên , Sở Giao_dịch xem_xét điều_chỉnh giảm hạn_mức nợ ròng đầu ngày tạm_thời trong ngày của các thành_viên . Sau khi hoàn_thành việc quyết_toán bù_trừ giá_trị thấp , hạn_mức nợ ròng được điều_chỉnh về bằng hạn_mức nợ ròng đầu ngày . Hạn_mức nợ ròng đầu ngày tạm_thời trong ngày được xác_định như sau :
+
+Hạn_mức nợ ròng đầu ngày tạm_thời trong ngày = Hạn_mức nợ ròng đầu ngày - Phần giá_trị giảm tạm_thời trong ngày của hạn_mức nợ ròng đầu ngày .
+
+4 . Quản_lí hạn_mức nợ ròng hiện_thời
+
+Hạn_mức nợ ròng hiện_thời = Hạn_mức nợ ròng đầu ngày tạm_thời trong ngày + Tổng_các khoản tiền phải thu của Lệnh thanh_toán giá_trị thấp tính từ đầu ngày đến hiện_thời - Tổng_các khoản tiền phải trả của Lệnh thanh_toán giá_trị thấp tính từ đầu ngày đến hiện_thời .
+
+Đầu ngày làm_việc , các thành_viên tham_gia dịch_vụ gửi Lệnh thanh_toán giá_trị thấp được cấp hạn_mức nợ ròng đầu ngày . Tại mỗi thời_điểm trong ngày làm_việc , hạn_mức nợ ròng hiện_thời có_thể thay_đổi ( tăng hoặc giảm ) tuỳ_thuộc vào hoạt_động giao_dịch thanh_toán giá_trị thấp của các thành_viên và đơn_vị thành_viên . Hạn_mức nợ ròng hiện_thời là cơ_sở để thực_hiện gửi Lệnh thanh_toán giá_trị thấp của thành_viên , đơn_vị thành_viên .
+
+5 . Để biết thông_tin về hạn_mức nợ ròng hiện_thời , các thành_viên thực_hiện tra_cứu trên Hệ_thống Ttlnh .
+
+Điều 21 . Quy_định về kí_quỹ để thiết_lập hạn_mức nợ ròng
+
+1 . Giấy_tờ có_giá được sử_dụng kí_quỹ ( sau đây gọi tắt là giấy_tờ có_giá kí_quỹ ) để thiết_lập hạn_mức nợ ròng trong thanh_toán giá_trị thấp là giấy_tờ có_giá được sử_dụng trong giao_dịch thấu chi và cho vay qua đêm trong Ttlnh .
+
+2 . Tiền kí_quỹ để thiết_lập hạn_mức nợ ròng trong thanh_toán giá_trị thấp là tiền trong tài_khoản của thành_viên mở tại Sở Giao_dịch .
+
+3 . Tỷ_lệ kí_quỹ
+
+a ) Thành_viên tham_gia thanh_toán giá_trị thấp thực_hiện kí_quỹ giấy_tờ có_giá và / hoặc tiền trong tài_khoản tại Sở Giao_dịch , tỉ_lệ kí_quỹ tối_thiểu bằng 10 % hạn_mức nợ ròng đầu ngày do Sở Giao_dịch thông_báo cho thành_viên . Trong trường_hợp cần_thiết , để đảm_bảo_an_toàn Hệ_thống Ttlnh , Thống_đốc Ngân_hàng Nhà_nước Quyết_định thay_đổi tỉ_lệ kí_quỹ tối_thiểu tại Điểm này theo đề_xuất của Ban Điều_hành Hệ_thống Ttlnh ;
+
+b ) Nếu thành_viên không đủ số_dư quyết_toán bù_trừ tại thời_điểm ngừng nhận Lệnh thanh_toán giá_trị cao từ 02 lần trở lên trong một tháng hoặc từ 03 lần trở lên trong kì duy_trì thiết_lập hạn_mức nợ ròng đầu ngày , Sở Giao_dịch báo_cáo Thống_đốc Ngân_hàng Nhà_nước xem_xét Quyết_định giảm hạn_mức nợ ròng đầu ngày của thành_viên bằng giá_trị giấy_tờ có_giá và / hoặc tiền kí_quỹ và duy_trì tỉ_lệ kí_quỹ của thành_viên đó tại Sở Giao_dịch bằng 100 % trong thời_hạn 6 tháng kể từ ngày có Quyết_định của Thống_đốc Ngân_hàng Nhà_nước .
+
+4 . Thời_điểm nộp giấy_tờ có_giá hoặc tiền kí_quỹ ;
+
+a ) Đối_với trường_hợp điều_chỉnh tăng hạn_mức nợ ròng đầu ngày tạm_thời trong ngày : Ngay sau khi nhận đủ giấy_tờ có_giá hoặc tiền kí_quỹ , Sở Giao_dịch thực_hiện thiết_lập hạn_mức nợ ròng đầu ngày tạm_thời trong ngày và thông_báo cho thành_viên đó ;
+
+b ) Đối_với trường_hợp thiết_lập hạn_mức nợ ròng đầu ngày lần đầu hoặc định_kỳ : Thành_viên tham_gia gửi Lệnh thanh_toán giá_trị thấp phải nộp giấy_tờ có_giá hoặc tiền kí_quỹ và văn_bản đề_nghị thiết_lập hạn_mức nợ ròng đầu ngày cho Sở Giao_dịch . Trong vòng 07 ngày làm_việc kể từ ngày Sở Giao_dịch nhận được giấy_tờ có_giá hoặc tiền kí_quỹ và văn_bản đề_nghị thiết_lập hạn_mức nợ ròng đầu ngày , Sở Giao_dịch thực_hiện thiết_lập hạn_mức nợ ròng đầu ngày và thông_báo cho thành_viên bằng văn_bản .
+
+5 . Hoàn_trả các giấy_tờ có_giá hoặc tiền kí_quỹ
+
+a ) Việc hoàn_trả giấy_tờ có_giá kí_quỹ để thiết_lập hạn_mức nợ ròng thực_hiện theo quy_định của Ngân_hàng Nhà_nước về việc lưu kí và sử_dụng giấy_tờ có_giá tại Ngân_hàng Nhà_nước ;
+
+b ) Trong thời_hạn 03 ngày làm_việc kể từ ngày cổng thông_tin điện_tử của Ngân_hàng Nhà_nước đăng_tải thông_tin về việc ngừng tham_gia dịch_vụ gửi Lệnh thanh_toán giá_trị thấp của thành_viên và thành_viên đã hoàn_thành các nghĩa_vụ đối_với Ngân_hàng Nhà_nước trên Hệ_thống Ttlnh , Sở Giao_dịch thực_hiện hoàn_trả tiền kí_quỹ để thiết_lập hạn_mức nợ ròng cho thành_viên đó .
+
+Điều 22 . Xử_lí thiếu hạn_mức nợ ròng trong thanh_toán giá_trị thấp
+
+Trường_hợp_số tiền trên Lệnh thanh_toán vượt quá hạn_mức nợ ròng hiện_thời , việc xử_lí được thực_hiện như sau :
+
+1 . Hệ_thống tự_động thông_báo cho thành_viên để thực_hiện tăng ngay hạn_mức nợ ròng theo quy_định tại Khoản 3 Điều 20 Thông_tư này để thực_hiện xử_lí Lệnh thanh_toán ;
+
+2 . Khi đủ hạn_mức nợ ròng hiện_thời , Lệnh thanh_toán được thực_hiện theo theo thứ_tự đến trước xử_lí trước ;
+
+3 . Đến thời_điểm Hệ_thống Ttlnh ngừng nhận Lệnh thanh_toán giá_trị thấp , các Lệnh thanh_toán vượt quá hạn_mức nợ ròng hiện_thời bị huỷ . Các thành_viên và đơn_vị thành_viên thực_hiện vấn tin để kiểm_tra tình_trạng của các Lệnh thanh_toán này .
+
+Điều 23 . Thực_hiện quyết_toán bù_trừ
+
+Trung_tâm Xử_lí Quốc_gia thực_hiện quyết_toán bù_trừ như sau :
+
+1 . Ngừng tiếp_nhận các Lệnh thanh_toán giá_trị thấp trên toàn hệ_thống ;
+
+2 . Kiểm_tra và thực_hiện tính_toán hạn_mức nợ ròng hiện_thời đối_với các Lệnh thanh_toán giá_trị thấp chưa được tính_toán hạn_mức nợ ròng hiện_thời ;
+
+3 . Loại_bỏ và trả lại thành_viên , đơn_vị thành_viên Lệnh thanh_toán giá_trị thấp với tình_trạng thiếu hạn_mức nợ ròng hiện_thời ;
+
+4 . Căn_cứ trên các Lệnh thanh_toán giá_trị thấp với tình_trạng đủ hạn_mức nợ ròng hiện_thời , tính_toán kết_quả chênh_lệch giữa các khoản tiền phải thu trừ các khoản tiền phải trả của từng thành_viên ;
+
+5 . Kết_quả bù_trừ giá_trị thấp được cấu phần Xử_lí tài_khoản tự_động thực_hiện hạch_toán .
+
+Điều 24 . Theo_dõi và thông_báo tình_trạng quyết_toán bù_trừ
+
+Sở Giao_dịch thực_hiện theo_dõi tình_trạng quyết_toán bù_trừ qua Hệ_thống Ttlnh theo trình_tự sau :
+
+1 . Kiểm_tra xác_định khả_năng thanh_toán của thành_viên so với hiệu_số giữa hạn_mức nợ ròng đầu ngày và hạn_mức nợ ròng hiện_thời ;
+
+2 . Trường_hợp_thành_viên thiếu khả_năng thanh_toán , thông_báo tình_trạng thiếu vốn cho thành_viên và yêu_cầu thành_viên có các biện_pháp bổ_sung vốn cần_thiết , kiểm_tra tình_hình thực_hiện bổ_sung vốn vào tài_khoản thanh_toán của thành_viên đã được thông_báo thiếu vốn ;
+
+2 . Trường_hợp sau thời_điểm ngừng nhận <LH rel="None"> Lệnh thanh_toán giá_trị cao mà việc quyết_toán bù_trừ vẫn chưa thành_công do thành_viên thiếu số </LH>_dư thì Sở Giao_dịch lập báo_cáo thành_viên thiếu vốn ( Mẫu_số Ttlnh - 25 ) và thông_báo cho đơn_vị vận_hành Hệ_thống Ttlnh và thành_viên thiếu số_dư .
+
+Điều 25 . Xử_lí kết_quả_quyết_toán ròng từ các Hệ_thống khác
+
+1 . Hệ_thống Ttlnh được phép tiếp_nhận và xử_lí kết_quả_quyết_toán ròng từ Hệ_thống bù_trừ tự_động ( ach ) , Hệ_thống bù_trừ thẻ và các Hệ_thống thanh_toán bù_trừ khác .
+
+2 . Việc xử_lí kết_quả_quyết_toán ròng được thực_hiện bằng phương_thức xử_lí theo lô trên cơ_sở đủ số_dư tài_khoản thanh_toán của các thành_viên tham_gia quyết_toán . Trong trường_hợp tài_khoản thanh_toán của thành_viên không đủ số_dư , xử_lí như sau :
+
+a ) Thành_viên thực_hiện thấu chi trong hạn_mức được cấp theo quy_định về việc thấu chi thấu chi và cho vay qua đêm trong Ttlnh của Ngân_hàng Nhà_nước để xử_lí kết_quả_quyết_toán ròng ;
+
+b ) Khi thành_viên sử_dụng hết hạn_mức thấu chi được Ngân_hàng Nhà_nước cấp mà vẫn không đủ vốn quyết_toán thì kết_quả_quyết_toán ròng đó được chuyển vào hàng đợi quyết_toán . Khi đủ số_dư trên tài_khoản thanh_toán thì kết_quả_quyết_toán ròng được xử_lí tiếp ;
+
+c ) Thành_viên chủ_động thực_hiện tăng số_dư tài_khoản thanh_toán từ nguồn vốn của chính thành_viên hoặc thông_qua các giao_dịch trên thị_trường tiền_tệ hoặc vay vốn lẫn nhau trên thị_trường liên ngân_hàng theo quy_định của Ngân_hàng Nhà_nước .
+
+3 . Đến thời_điểm ngừng nhận Lệnh thanh_toán giá_trị cao của ngày làm_việc , sau khi đã thực_hiện theo quy_định tại Khoản 2 Điều này mà có ít_nhất một thành_viên tham_gia quyết_toán vẫn không đủ vốn để xử_lí kết_quả_quyết_toán ròng thì Hệ_thống Ttlnh thực_hiện huỷ kết_quả_quyết_toán ròng và thông_báo trạng_thái không thành_công .
+
+4 . Để sử_dụng dịch_vụ quyết_toán ròng cho các hệ_thống khác , đơn_vị chủ_trì hệ_thống thanh_toán bù_trừ phải đáp_ứng các yêu_cầu sau :
+
+a ) Gửi văn_bản đăng_kí_kết_nối Hệ_thống Ttlnh theo Mẫu_số Ttlnh - 29 đến Ngân_hàng Nhà_nước ( đơn_vị vận_hành Hệ_thống Ttlnh ) qua mạng máy_tính ;
+
+b ) Yêu_cầu về nguồn nhân_lực :
+
+- Có tối_thiểu 02 cán_bộ vận_hành được Ngân_hàng Nhà_nước cấp chứng_chỉ hoặc giấy xác_nhận đã tham_gia đào_tạo về quy_trình xử_lí nghiệp_vụ và quy_trình vận_hành Hệ_thống Ttlnh ;
+
+- Đối_với cán_bộ được giao trách_nhiệm hoặc uỷ_quyền thực_hiện truyền , nhận dữ_liệu thanh_toán , kí duyệt Lệnh thanh_toán phải có chữ_kí điện_tử do Ngân_hàng Nhà_nước cấp theo quy_định tại <TT rel="DC"> Thông_tư về việc </TT> quản_lý , sử_dụng chữ_kí số , chứng_thư số và dịch_vụ chứng_thực chữ_kí số của Ngân_hàng Nhà_nước ;
+
+c ) Yêu_cầu về kĩ_thuật :
+
+- Có hệ_thống chính và hệ_thống dự_phòng đối_với phần_mềm , cơ_sở dữ_liệu ;
+
+- Có tối_thiểu 01 đường truyền chính và 01 đường truyền dự_phòng thuộc 02 nhà cung_cấp dịch_vụ khác nhau kết_nối đến Hệ_thống Ttlnh ;
+
+- Có tối_thiểu 02 chữ_kí điện_tử được kích_hoạt thành_công ( 01 chữ_kí truyền_thông và 01 chữ_kí kí duyệt ) ;
+
+d ) Thành_viên tham_gia quyết_toán phải là thành_viên Hệ_thống Ttlnh ;
+
+đ ) Có văn_bản thoả_thuận trước về việc thực_hiện nghĩa_vụ quyết_toán bù_trừ giữa đơn_vị chủ_trì hệ_thống thanh_toán bù_trừ và các thành_viên tham_gia quyết_toán , văn_bản thoả_thuận này phải được gửi đến Ngân_hàng Nhà_nước .
+
+5 . Đơn_vị vận_hành Hệ_thống Ttlnh đăng_tải trên cổng thông_tin điện_tử của Ngân_hàng Nhà_nước khi có sự thay_đổi về đơn_vị chủ_trì hệ_thống thanh_toán bù_trừ kết_nối đến Hệ_thống Ttlnh .
+
+Chương V
+
+Xử_lý Thiếu Vốn Trong Ttlnh
+
+Điều 26 . Xử_lí hàng đợi quyết_toán và giải_toả
+
+1 . Trường_hợp tài_khoản của một thành_viên không đủ khả_năng thanh_toán thì Trung_tâm Xử_lí Quốc_gia xử_lí như sau :
+
+a ) Giữ lại các Lệnh thanh_toán giá_trị cao hoặc kết_quả bù_trừ giá_trị thấp hoặc kết_quả_quyết_toán ròng từ các hệ_thống khác tại hàng đợi quyết_toán đối_với thanh_toán bằng Đồng Việt_nam ;
+
+b ) Giữ lại các Lệnh thanh_toán bằng ngoại_tệ đối_với thanh_toán bằng loại ngoại_tệ tương_ứng ;
+
+c ) Khi tiền được bổ_sung vào tài_khoản thanh_toán của loại tiền tương_ứng của thành_viên thiếu_hụt đó , Trung_tâm Xử_lí Quốc_gia thực_hiện xử_lí các Lệnh thanh_toán theo thứ_tự đến trước xử_lí trước . Trường_hợp Lệnh thanh_toán với khoản tiền vượt quá số_dư trong tài_khoản thanh_toán của thành_viên gây ách_tắc cho việc xử_lí các Lệnh thanh_toán khác trong hàng đợi quyết_toán thì Trung_tâm Xử_lí Quốc_gia có_thể chuyển ( đảo hàng đợi ) các Lệnh thanh_toán trong hàng đợi quyết_toán có số tiền nhỏ hơn hoặc bằng số_dư trong tài_khoản thanh_toán của thành_viên lên xử_lí trước theo thứ_tự đến trước xử_lí trước . Các thành_viên , đơn_vị thành_viên thực_hiện vấn tin để kiểm_tra tình_trạng các Lệnh thanh_toán trong hàng đợi quyết_toán ;
+
+d ) Thực_hiện quản_lí hàng đợi quyết_toán như sau :
+
+- Kiểm_tra số_dư các tài_khoản thanh_toán theo định_kỳ ;
+
+- Thực_hiện quyết_toán theo thứ tự sau : kết_quả bù_trừ giá_trị thấp , kết_quả_quyết_toán ròng từ các hệ_thống khác , các Lệnh thanh_toán giá_trị cao và Lệnh thanh_toán bằng ngoại_tệ nếu đủ số_dư tài_khoản thanh_toán của loại tiền tương_ứng ;
+
+- Xử_lí các yêu_cầu huỷ_bỏ Lệnh thanh_toán theo nguyên_tắc đến trước xử_lí trước .
+
+2 . Các thành_viên , đơn_vị thành_viên chỉ được thực_hiện huỷ Lệnh thanh_toán giá_trị cao , Lệnh thanh_toán bằng ngoại_tệ trong hàng đợi quyết_toán và Lệnh thanh_toán giá_trị thấp trong hàng đợi xử_lí tại Trung_tâm Xử_lí Quốc_gia :
+
+a ) Nhận được Lệnh huỷ Lệnh thanh_toán từ đơn_vị khởi tạo lệnh , Trung_tâm Xử_lí Quốc_gia căn_cứ nhật_kí để kiểm_tra tính hợp_lệ của Lệnh huỷ Lệnh thanh_toán ;
+
+b ) Nếu đó là Lệnh huỷ Lệnh thanh_toán hợp_lệ và đang chờ trong hàng đợi quyết_toán ( đối_với Lệnh thanh_toán giá_trị cao , Lệnh thanh_toán bằng ngoại_tệ ) hoặc hàng đợi xử_lí ( đối_với Lệnh thanh_toán giá_trị thấp ) tại Trung_tâm Xử_lí Quốc_gia thì quá_trình huỷ được thực_hiện ; kết_quả huỷ được thông_báo cho đơn_vị khởi tạo lệnh . Nếu Lệnh thanh_toán được yêu_cầu huỷ không có trong hàng đợi , hệ_thống gửi thông_báo tình_trạng Lệnh thanh_toán được yêu_cầu huỷ cho đơn_vị khỏi tạo lệnh .
+
+Điều 27 . Xử_lí trong trường_hợp tài_khoản thanh_toán không đủ số_dư để thực_hiện thanh_toán , quyết_toán
+
+1 . Đối_với Lệnh thanh_toán giá_trị cao bằng Đồng Việt_nam :
+
+a ) Thành_viên ( trừ Kho_bạc Nhà_nước ) thực_hiện thấu chi trong hạn_mức đã được cấp theo quy_định của Ngân_hàng Nhà_nước về việc thấu chi và cho vay qua đêm trong thanh_toán điện_tử liên ngân_hàng để xử_lí các Lệnh thanh_toán giá_trị cao ;
+
+b ) Trường_hợp tài_khoản thanh_toán của Kho_bạc Nhà_nước không đủ số_dư để thực_hiện thanh_toán và trường_hợp_thành_viên sử_dụng hết hạn_mức thấu chi được Ngân_hàng Nhà_nước cấp mà vẫn không đủ vốn để thực_hiện thanh_toán , Lệnh thanh_toán đó được chuyển vào hàng đợi quyết_toán chờ đến khi đủ số_dư trên tài_khoản thanh_toán thì Lệnh thanh_toán được xử_lí tiếp ;
+
+c ) Thành_viên chủ_động thực_hiện tăng số_dư tài_khoản thanh_toán từ nguồn vốn của chính thành_viên hoặc thành_viên ( trừ Kho_bạc Nhà_nước ) thực_hiện tăng số_dư tài_khoản thông_qua các giao_dịch trên thị_trường tiền_tệ hoặc vay vốn lẫn nhau trên thị_trường liên ngân_hàng theo quy_định của Ngân_hàng Nhà_nước về hoạt_động cho vay , đi vay ; mua , bán có kì_hạn giấy_tờ có_giá giữa các tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ;
+
+d ) Đến thời_điểm ngừng nhận Lệnh thanh_toán giá_trị cao , nếu tài_khoản thanh_toán vẫn không đủ số_dư quyết_toán thì những Lệnh thanh_toán giá_trị cao lưu trong hàng đợi quyết_toán tự_động bị huỷ_bỏ . Các thành_viên , đơn_vị thành_viên thực_hiện dịch_vụ vấn tin để kiểm_tra tình_trạng của các Lệnh thanh_toán này .
+
+2 . Đối_với Lệnh thanh_toán bằng ngoại_tệ :
+
+a ) Thành_viên chủ_động thực_hiện tầng số_dư tài_khoản thanh_toán từ nguồn vốn của chính thành_viên hoặc thành_viên ( trừ Kho_bạc Nhà_nước ) vay vốn lẫn nhau theo quy_định của Ngân_hàng Nhà_nước về hoạt_động cho vay , đi vay ; mua , bán có kì_hạn giấy_tờ có_giá giữa các tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ;
+
+b ) Đến thời_điểm ngừng nhận Lệnh thanh_toán bằng Ngoại_tệ , nếu tài_khoản thanh_toán của loại tiền tương_ứng vẫn không đủ số_dư quyết_toán thì những Lệnh thanh_toán bằng ngoại_tệ lưu trong hàng đợi quyết_toán tự_động bị huỷ_bỏ . Các thành_viên , đơn_vị thành_viên thực_hiện vấn tin để kiểm_tra tình_trạng của các Lệnh thanh_toán này .
+
+3 . Đối_với kết_quả bù_trừ giá_trị thấp :
+
+a ) Thành_viên ( trù Kho_bạc Nhà_nước ) thực_hiện thấu chi trong hạn_mức đã được cấp theo quy_định của Ngân_hàng Nhà_nước về việc thấu chi và cho vay qua đêm trong thanh_toán điện_tử liên ngân_hàng để quyết_toán kết_quả bù_trừ ;
+
+b ) Thành_viên chủ_động thực_hiện tăng số_dư tài_khoản thanh_toán từ nguồn vốn của chính thành_viên hoặc thành_viên ( trừ Kho_bạc Nhà_nước ) thực_hiện tăng số_dư tài_khoản thanh_toán thông_qua các giao_dịch trên thị_trường tiền_tệ hoặc vay vốn lẫn nhau trên thị_trường liên ngân_hàng theo quy_định của Ngân_hàng Nhà_nước về hoạt_động cho vay , đi vay ; mua , bán có kì_hạn giấy_tờ có_giá giữa các tổ_chức tín_dụng , chi_nhánh ngân_hàng nước_ngoài ;
+
+c ) Trong trường_hợp_thành_viên không có khả_năng thanh_toán các khoản phải trả ròng vào thời_điểm ngừng nhận thanh_toán giá_trị cao , sau khi đã thực_hiện trích nợ tiền kí_quỹ để thiết_lập hạn_mức nợ ròng từ tài_khoản kí_quỹ của thành_viên ( nếu có ) <LH rel="None"> Lệnh mà vẫn không đủ số </LH>_dư quyết_toán thì thành_viên ( trừ Kho_bạc Nhà_nước ) lập Giấy nhận nợ ngân_hàng thiếu vốn giá_trị thấp ( Mẫu_ttlnh - 28 ) gửi Ngân_hàng Nhà_nước ( Sở Giao_dịch ) để thực_hiện giải_pháp cho vay thanh_toán bù_trừ với lãi_suất bằng lãi_suất cho vay qua đêm do Thống_đốc Ngân_hàng Nhà_nước Quyết_định trong từng thời_kỳ ;
+
+d ) Khi có thông_báo của Sở Giao_dịch về việc thiếu số_dư tài_khoản thanh_toán của Kho_bạc Nhà_nước mở tại Sở Giao_dịch để quyết_toán bù_trừ giá_trị thấp , sau khi đã thực_hiện trích nợ tiền kí_quỹ để thiết_lập hạn_mức nợ ròng từ tài_khoản kí_quỹ của Kho_bạc Nhà_nước mà vẫn không đủ số_dư quyết_toán thì Kho_bạc Nhà_nước phải có các biện_pháp bổ_sung số_dư tài_khoản ngay trong ngày để đảm_bảo việc xử_lí kết_quả bù_trừ . Trong trường_hợp Kho_bạc Nhà_nước không bổ_sung vốn kịp_thời trong ngày thì Kho_bạc Nhà_nước bị xử_lí theo quy_định tại Điểm a Khoản 4 Điều 41 Thông_tư này .
+
+4 . Đối_với kết_quả_quyết_toán ròng từ hệ_thống khác xử_lí theo quy_định tại Khoản 2 , 3 Điều 25 Thông_tư này .
+
+Điều 28 . Xử_lí trường_hợp_thành_viên có dư_nợ vay thanh_toán bù_trừ quá hạn
+
+1 . Ngày làm_việc liền kề tiếp_theo ngày phát_sinh khoản cho vay thanh_toán bù_trừ , thành_viên thực_hiện trả dư_nợ gốc và lãi vay cho Ngân_hàng Nhà_nước . Trường_hợp đến cuối ngày làm_việc liền kề tiếp_theo ngày phát_sinh khoản vay thanh_toán bù_trừ mà thành_viên vẫn chưa trả hết dư_nợ vay ( gốc và lãi ) thì Ngân_hàng Nhà_nước ( Sở giao_dịch ) thực_hiện chuyển số dư_nợ cho vay thanh_toán bù_trừ chưa thanh_toán sang dư_nợ quá hạn ; lãi_suất đối_với dư_nợ gốc quá hạn , lãi_suất đối_với lãi vay chậm trả bằng lãi_suất áp_dụng đối_với dư_nợ gốc vay qua đêm quá hạn , lãi_suất đối_với lãi vay qua đêm chậm trả theo quy_định của Ngân_hàng Nhà_nước về việc thấu chi và cho vay qua đêm trong Ttlnh .
+
+2 . Vào ngày làm_việc liền kề tiếp_theo ngày phát_sinh khoản vay thanh_toán bù_trừ quá hạn , Ngân_hàng Nhà_nước ( Sở giao_dịch ) thực_hiện các biện_pháp thu_hồi dư_nợ cho vay thanh_toán bù_trừ quá hạn ( bao_gồm dư_nợ gốc vay thanh_toán bù trù quá hạn , lãi_suất vay thanh_toán bù_trừ chậm trả , lãi quá hạn của dư_nợ gốc vay thanh_toán bù_trừ , lãi đối_với lãi vay thanh_toán bù_trừ chậm trả ) theo nguyên_tắc thu gốc trước , thu lãi sau và thông_báo cho thành_viên biết . Cụ_thể như sau :
+
+a ) Thực_hiện trích tài_khoản thanh_toán bằng Đồng Việt_nam của thành_viên tại Sở Giao_dịch để thu_hồi dư_nợ vay thanh_toán bù_trừ quá hạn ;
+
+b ) Yêu_cầu tổ_chức lưu kí giấy_tờ có_giá thực_hiện chuyển quyền sở_hữu giấy_tờ có_giá từ thành_viên cho Ngân_hàng Nhà_nước để thu_hồi nợ . Việc xử_lí giấy_tờ có_giá để thu_hồi nợ vay thanh_toán bù_trừ quá hạn áp_dụng như xử_lí trường_hợp tổ_chức tín_dụng có dư_nợ vay qua đêm quá hạn theo quy_định của Ngân_hàng Nhà_nước về việc thấu chi và cho vay qua đêm trong Ttlnh ;
+
+c ) Trường_hợp sau khi thực_hiện các biện_pháp quy_định tại Điểm a , b Khoản này mà vẫn không đủ để thu_hồi dư_nợ cho vay thanh_toán bù_trừ quá hạn , Ngân_hàng Nhà_nước ( Sở Giao_dịch ) thực_hiện chia_sẻ cho các thành_viên tham_gia quyết_toán bù_trừ còn lại trong phiên quyết_toán bù_trừ ( trừ Kho_bạc Nhà_nước ) và thông_báo khoản tiền phân_bổ cho từng thành_viên , số tiền phải chia_sẻ của mỗi thành_viên tham_gia quyết_toán bù_trừ còn lại được xác_định theo công_thức :
+
+Số tiền phải chia_sẻ của thành_viên thứ
+
+Trong đó :
+
+A : Tổng_số tiền phải chia_sẻ dư_nợ cho vay thanh_toán bù_trừ quá hạn còn lại của các thành_viên .
+
+Bi : Số tiền trung_bình phải trả_giá_trị thấp của thành_viên thứ y trong 20 ngày làm_việc kể từ ngày phát_sinh khoản vay vốn thanh_toán bù_trừ trở về trước .
+
+C : Tổng_số tiền trung_bình phải trả_giá_trị thấp của các thành_viên tham_gia chia_sẻ dư_nợ cho vay thanh_toán bù_trừ quá hạn còn lại trong 20 ngày làm_việc kể từ ngày phát_sinh khoản vay vốn thanh_toán bù_trừ trở về trước .
+
+n : Là tổng_số thành_viên phải chia_sẻ .
+
+i : Có_giá_trị từ 1 đến n .
+
+3 . Trình_tự thực_hiện chia_sẻ dư_nợ cho vay thanh_toán bù_trừ quá hạn còn lại trong quyết_toán bù_trừ .
+
+a ) Vào ngày làm_việc liền kề tiếp_theo ngày Sở Giao_dịch có thông_báo khoản tiền phân_bổ cho từng thành_viên tham_gia quyết_toán bù_trừ , Sở Giao_dịch thực_hiện trích nợ tài_khoản thanh_toán của thành_viên số tiền được phân_bổ vào tài_khoản của Sở Giao_dịch ;
+
+b ) Trong trường_hợp tài_khoản thành_viên không đủ số tiền để trích nợ đúng hạn , Sở Giao_dịch báo_cáo Thống_đốc Ngân_hàng Nhà_nước xem_xét tạm ngừng dịch_vụ gửi Lệnh thanh_toán giá_trị thấp của thành_viên đó cho đến ngày làm_việc tiếp_theo ngay sau ngày thành_viên đó gửi đủ số tiền được phân_bổ cho Sở Giao_dịch . Đồng_thời Sở Giao_dịch theo_dõi số_dư tài_khoản thanh_toán của thành_viên đó mở tại Sở Giao_dịch và tiếp_tục thực_hiện trích nợ đủ số tiền phân_bổ chưa thanh_toán cộng thêm phần lãi với lãi_suất bằng lãi_suất áp_dụng đối_với dư_nợ vay qua đêm quá hạn theo quy_định của Ngân_hàng Nhà_nước về việc thấu chi và cho vay qua đêm trong Ttlnh .
+
+4 . Hoàn_trả phần chia_sẻ dư_nợ cho vay thanh_toán bù_trừ quá hạn còn lại .
+
+a ) Trong vòng 05 ngày làm_việc kể từ ngày Sở Giao_dịch thông_báo khoản tiền dư_nợ cho vay thanh_toán bù_trừ quá hạn còn lại phân_bổ cho từng thành_viên , thành_viên thiếu tiền trả dư_nợ cho vay thanh_toán bù_trừ quá hạn còn lại phải thực_hiện mọi biện_pháp để hoàn_trả vào tài_khoản của Sở Giao_dịch tổng_số tiền phải chia_sẻ của các thành_viên ( cộng thêm phần lãi với lãi_suất bằng lãi_suất áp_dụng đối_với dư_nợ vay qua đêm quá hạn theo quy_định của Ngân_hàng Nhà_nước về việc thấu chi và cho vay qua đêm trong Ttlnh ) . Sau khoảng thời_gian trên , nếu Sở Giao_dịch không nhận đủ số dư_nợ cho vay thanh_toán bù_trừ quá hạn còn lại , Sở Giao_dịch thực_hiện trích nợ tài_khoản thanh_toán mở tại Sở Giao_dịch của thành_viên đó số tiền còn thiếu vào tài_khoản của Sở Giao_dịch . Nếu sau khi trích nợ tài_khoản thanh_toán mà vẫn không đủ số tiền còn thiếu thì xử_lí theo quy_định của pháp_luật hiện_hành ;
+
+b ) Khi nhận được số tiền hoàn_trả khoản chia_sẻ tại Điểm a Khoản này , căn_cứ số tiền hoàn_trả , tỉ_lệ phần_trăm ( % ) giữa số tiền phải chia_sẻ của mỗi thành_viên và tổng_số tiền chia_sẻ , Sở Giao_dịch tính_toán số tiền phải trả ( bao_gồm cả gốc và lãi được xác_định tại Điểm a Khoản này ) và chuyển trả cho mỗi thành_viên đã chia_sẻ .
+
+5 . Trường_hợp_thành_viên thiếu tiền trả dư_nợ cho vay thanh_toán bù_trừ quá hạn còn lại bị phá_sản , Ngân_hàng Nhà_nước được nhận thanh_toán các khoản nợ theo quy_định của pháp_luật về phá_sản doanh_nghiệp và chuyển trả các thành_viên đã tham_gia chia_sẻ theo tỉ_lệ phân_bổ trong phạm_vi khoản nợ thu_hồi được .
+
+Chương_vi
+
+Xử_lý Sai_sót Trong Ttlnh
+
+Điều 29 . Các nguyên_tắc điều_chỉnh sai_sót trong Hệ_thống Ttlnh
+
+1 . Bảo_đảm sự nhất_quán số_liệu giữa đơn_vị khởi tạo lệnh , đơn_vị nhận lệnh và Trung_tâm Xử_lí Quốc_gia . Sai_sót phát_sinh ở đâu phải được chỉnh_sửa ở đó cho đến hết quy_trình thanh_toán . Nghiêm_cấm việc sửa_chữa số_liệu , điều_chỉnh sai_sót một_cách tuỳ_tiện trong Hệ_thống Ttlnh .
+
+2 . Khi phát_hiện sai_sót phải có biện_pháp điều_chỉnh ngay , không gây chậm_trễ tới công_tác thanh_toán . Việc điều_chỉnh sai_sót phải theo đúng các nguyên_tắc , phương_pháp điều_chỉnh sai_lầm của kế_toán .
+
+3 . Đơn_vị , cá_nhân nào gây ra sai_sót hoặc vi_phạm các nguyên_tắc , phương_pháp điều_chỉnh sai_sót phải chịu trách_nhiệm vật_chất về những lỗi do mình gây ra cho các bên liên_quan .
+
+Điều 30 . Huỷ và hoàn_trả Lệnh thanh_toán tại các thành_viên và đơn_vị thành_viên
+
+1 . Nguyên_tắc
+
+a ) Lệnh thanh_toán chỉ được huỷ trong các trường_hợp sau :
+
+- Đã khởi tạo tại đơn_vị khởi tạo lệnh nhưng chưa chuyển đi , thực_hiện thao_tác thoái Lệnh thanh_toán ;
+
+- Đã chuyển đến Trung_tâm xử_lí quốc_gia và đang trong hàng đợi quyết_toán đối_với Lệnh thanh_toán giá_trị cao , Lệnh thanh_toán bằng ngoại_tệ ; đang trong hàng đợi xử_lí đối_với Lệnh thanh_toán giá_trị thấp , thực_hiện theo quy_định tại Điểm b Khoản 1 Điều 33 Thông_tư này ;
+
+b ) Lệnh thanh_toán chỉ được hoàn_trả trong các trường_hợp sau :
+
+- Lệnh thanh_toán Nợ chỉ được hoàn_trả khi đơn_vị khởi tạo lệnh chưa ghi Có vào tài_khoản của khách_hàng hoặc đã ghi Có vào tài_khoản của khách_hàng nhưng thu_hồi lại được ;
+
+- Lệnh thanh_toán Có chỉ được hoàn_trả khi đơn_vị nhận lệnh chưa ghi Có vào tài_khoản của khách_hàng hoặc đã ghi Có vào tài_khoản của khách_hàng nhưng thu_hồi lại được .
+
+2 . Chứng_từ huỷ và hoàn_trả Lệnh thanh_toán :
+
+a ) Chứng_từ huỷ Lệnh thanh_toán bao_gồm :
+
+- Lệnh huỷ Lệnh thanh_toán Nợ : có giá_trị như một Lệnh thanh_toán Có , do đơn_vị khởi tạo lệnh lập và gửi đơn_vị nhận lệnh để huỷ Lệnh thanh_toán Nợ bị sai_sót ( hoàn_trả toàn_bộ số tiền ) ;
+
+- Lệnh huỷ Lệnh thanh_toán Có : do đơn_vị khởi tạo lệnh lập để huỷ Lệnh thanh_toán Có đã chuyển đi nhưng còn trong hàng đợi ;
+
+b ) Chứng_từ hoàn_trả Lệnh thanh_toán bao_gồm :
+
+- Yêu_cầu hoàn_trả Lệnh thanh_toán : đơn_vị khởi tạo lệnh lập và gửi cho đơn_vị nhận lệnh đề_nghị hoàn_trả Lệnh thanh_toán Có bị sai_sót và ghi rõ lí_do là lỗi của đơn_vị khởi tạo lệnh hay do yêu_cầu khách_hàng ; là căn_cứ để đơn_vị nhận lệnh lập Lệnh thanh_toán Có đi trả tiền cho đơn_vị khởi tạo lệnh trên cơ_sở đã thu_hồi lại được tiền ;
+
+- Thông_báo chấp_nhận yêu_cầu hoàn_trả Lệnh thanh_toán : đơn_vị nhận lệnh lập để chấp_nhận Yêu_cầu hoàn_trả Lệnh thanh_toán Có trên cơ_sở đã thu_hồi lại được tiền ;
+
+- Thông_báo từ_chối yêu_cầu hoàn_trả Lệnh thanh_toán : đơn_vị nhận lệnh lập để từ_chối Yêu_cầu hoàn_trả Lệnh thanh_toán Có do không thu_hồi được tiền từ khách_hàng .
+
+3 . Các đơn_vị thành_viên khi xử_lí huỷ và hoàn_trả Lệnh thanh_toán phải thực_hiện khẩn_trương như đối_với việc xử_lí các Lệnh thanh_toán giá_trị cao .
+
+Điều 31 . Xử_lí sai_sót tại đơn_vị khởi tạo lệnh trong trường_hợp phát_sinh do thành_viên , đơn_vị thành_viên
+
+1 . Xử_lí sai_sót ở thời_điểm trước khi truyền <LH rel="None"> Lệnh thanh_toán đi </LH>
+
+a ) Nếu Lệnh thanh_toán có sai_sót được phát_hiện khi người duyệt lệnh chưa kí chữ_kí điện_tử để chuyển đi thì người duyệt Lệnh thanh_toán và người kiểm_soát Lệnh thanh_toán thực_hiện thao_tác thoái duyệt Lệnh thanh_toán , người lập lệnh căn_cứ chứng từ gốc sửa lại cho đúng ;
+
+b ) Nếu Lệnh thanh_toán có sai_sót được phát_hiện sau khi người duyệt lệnh đã kí chữ_kí điện_tử thì phải lập biên_bản huỷ Lệnh thanh_toán sai , trong đó ghi rõ kí_hiệu_lệnh , giờ , ngày huỷ Lệnh thanh_toán và phải có đầy_đủ chữ_kí của người duyệt lệnh , người kiểm_soát và người lập lệnh có liên_quan đến Lệnh thanh_toán sai . Biên_bản được lưu vào hồ_sơ riêng để bảo_quản , sau đó người duyệt lệnh thoái duyệt Lệnh thanh_toán và chuyển cho người lập lệnh căn_cứ chứng từ gốc sửa lại cho đúng .
+
+2 . Xử_lí sai_sót phát_hiện sau khi đã truyền <LH rel="None"> Lệnh thanh_toán đi </LH>
+
+Khi phát_hiện các sai_sót như sai_số tiền ( thừa hoặc thiếu ) , sai ngược vế , đơn_vị khởi tạo lệnh phải tra soát vấn tin ngay cho đơn_vị nhận lệnh để có biện_pháp xử_lí kịp_thời . Đơn_vị khởi tạo lệnh phải lập biên_bản theo quy_định ( Mẫu_số Ttlnh - 23 ) xác_định nguyên_nhân , quy trách_nhiệm cá_nhân rõ_ràng và thực_hiện xử_lý :
+
+a ) Trường_hợp sai thiếu :
+
+Căn_cứ biên_bản để lập Lệnh thanh_toán bổ_sung số tiền chuyển thiếu gửi tiếp đi đơn_vị nhận lệnh . Trong nội_dung thanh_toán phải ghi rõ " chuyển bổ_sung theo Lệnh thanh_toán Nợ ( hoặc Có ) số . . . ngày . . . tháng . . . năm . . . Số tiền đã chuyển . . . " và sau đó hạch_toán theo quy_định của pháp_luật hiện_hành ;
+
+b ) Trường_hợp sai thừa :
+
+- Đối_với Lệnh thanh_toán Có bị sai thừa :
+
+Căn_cứ biên_bản để lập Yêu_cầu hoàn_trả Lệnh thanh_toán Có số tiền đã chuyển thừa , gửi ngay đơn_vị nhận lệnh đồng_thời lập Phiếu chuyển_khoản , hạch_toán và theo_dõi theo quy_định của pháp_luật hiện_hành . Trường Lý_do trong tin điện Yêu_cầu hoàn_trả Lệnh thanh_toán Có phải ghi rõ sai_sót là do đơn_vị khởi tạo Lệnh thanh_toán Có .
+
+Trường_hợp nhận được lệnh hoàn_trả của đơn_vị nhận lệnh , đơn_vị khởi tạo thực_hiện chuyển lại khoản tiền trên cho khách_hàng , đồng_thời vào_sổ theo_dõi ghi rõ kết_quả giải_quyết .
+
+Trường_hợp đơn_vị nhận lệnh từ_chối Yêu_cầu hoàn_trả Lệnh thanh_toán Có đối_với số tiền bị sai thừa trên do không thu_hồi được tiền từ khách_hàng thì đơn_vị khởi tạo lệnh phải lập Hội_đồng xử_lí theo quy_định hiện_hành để xác_định trách_nhiệm và mức bồi_hoàn của cá_nhân gây ra sai_sót ;
+
+- Đối_với Lệnh thanh_toán Nợ bị sai thừa :
+
+Căn_cứ biên_bản , lập Lệnh huỷ Lệnh thanh_toán Nợ , gửi ngay cho đơn_vị nhận lệnh để huỷ số tiền đã chuyển thừa trên Lệnh thanh_toán Nợ , đồng_thời hạch_toán theo quy_định của pháp_luật hiện_hành .
+
+Trường_hợp đã trả tiền cho khách_hàng nhưng tài_khoản của khách_hàng không đủ số_dư để thực_hiện Lệnh huỷ Lệnh thanh_toán Nợ đối_với số tiền chuyển thừa thì đơn_vị khởi tạo lệnh hạch_toán vào tài_khoản các khoản phải thu ( tài_khoản cá_nhân gây ra sai_sót ) sau đó phải tìm mọi biện_pháp để đòi lại tiền kể_cả việc phối_hợp với đơn_vị nhận lệnh , chính_quyền địa_phương và các cơ_quan bảo_vệ pháp_luật như công_an , toà_án , nếu không đòi được thì đơn_vị khởi tạo lệnh lập Hội_đồng xử_lí theo quy_định hiện_hành để xác_định trách_nhiệm và mức bồi_hoàn của cá_nhân gây ra sai_sót . Khi nhận được thông_báo số tiền do khách_hàng chuyển về thì xử_lý , đồng_thời hạch_toán theo quy_định của pháp_luật hiện_hành ;
+
+c ) Trường_hợp sai ngược vế :
+
+Đơn_vị khởi tạo lệnh phải lập biên_bản , đồng_thời lập Lệnh huỷ Lệnh thanh_toán Nợ ( đối_với Lệnh thanh_toán Có bị sai ngược vế ) hoặc yêu_cầu hoàn_trả Lệnh thanh_toán Có ( đối_với Lệnh thanh_toán Nợ bị sai ngược vế ) để huỷ toàn_bộ Lệnh thanh_toán bị sai ngược vế sau đó lập Lệnh thanh_toán đúng gửi đơn_vị nhận lệnh , đồng_thời hạch_toán theo quy_định của pháp_luật hiện_hành .
+
+Trong trường_hợp Lệnh thanh_toán Nợ bị sai ngược vế , khi nhận được Lệnh thanh_toán Có của đơn_vị nhận lệnh chuyển trả lại số tiền chuyển sai , đơn_vị khởi tạo lệnh hạch_toán theo quy_định của pháp_luật hiện_hành .
+
+Điều 32 . Xử_lí sai_sót tại đơn_vị nhận lệnh trong trường_hợp phát_sinh do thành_viên , đơn_vị thành_viên
+
+1 . Đối_với trường_hợp phát_hiện Lệnh thanh_toán sai_sót do lỗi kĩ_thuật hoặc bị giả_mạo trước thời_điểm hạch_toán , đơn_vị nhận lệnh không được phép hạch_toán mà phải phối_hợp với đơn_vị khởi tạo lệnh và đơn_vị vận_hành Hệ_thống Ttlnh để áp_dụng các biện_pháp xử_lý .
+
+2 . Đối_với Lệnh thanh_toán bị sai thiếu :
+
+Khi nhận được Lệnh thanh_toán bổ_sung chuyển_khoản tiền thiếu của đơn_vị khởi tạo lệnh , đơn_vị nhận lệnh phải đối_chiếu , kiểm_soát lại chặt_chẽ Lệnh thanh_toán bị sai thiếu và Lệnh thanh_toán bổ_sung trước khi hạch_toán .
+
+3 . Đối_với Lệnh thanh_toán bị sai thừa :
+
+a ) Phát_hiện trước khi trả tiền cho khách_hàng :
+
+Nếu đơn_vị nhận lệnh chưa nhận được Lệnh thanh_toán bị sai thừa nhưng đã nhận được yêu_cầu hoàn_trả của đơn_vị khởi tạo lệnh về chuyển tiền thừa thì đơn_vị nhận lệnh phải ghi sổ theo_dõi Lệnh thanh_toán bị sai_sót để có biện_pháp xử_lí kịp_thời . Khi nhận được Lệnh thanh_toán bị sai thừa , đơn_vị nhận lệnh kiểm_soát , đối_chiếu với nội_dung yêu_cầu hoàn_trả nhận được , nếu đúng thì hạch_toán theo quy_định của pháp_luật hiện_hành .
+
+- Đối_với Lệnh thanh_toán Có bị sai thừa : khi nhận được Yêu_cầu hoàn_trả đối_với số tiền thừa thì lập Lệnh thanh_toán Có đi hoàn_trả đơn_vị khởi tạo lệnh số tiền thừa ;
+
+- Đối_với Lệnh thanh_toán Nợ bị sai thừa : theo_dõi và xử_lí Lệnh huỷ Lệnh thanh_toán Nợ đối_với số tiền thừa của đơn_vị khởi tạo lệnh ;
+
+b ) Trường_hợp nhận được yêu_cầu hoàn_trả của đơn_vị khởi tạo lệnh sau khi đã trả tiền cho khách_hàng thì đơn_vị nhận lệnh ghi Sổ theo_dõi Lệnh thanh_toán bị sai_sót và xử_lý :
+
+- Đối_với Lệnh thanh_toán Có bị sai thừa :
+
+Khi nhận được Yêu_cầu hoàn_trả Lệnh thanh_toán Có đối_với số tiền chuyển thừa của đơn_vị khởi tạo lệnh , nếu Yêu_cầu hoàn_trả Lệnh thanh_toán Có là hợp_lệ thì đơn_vị nhận lệnh xử_lý :
+
++ Trường_hợp tài_khoản thanh_toán của khách_hàng có đủ số_dư : Căn_cứ vào Yêu_cầu hoàn_trả Lệnh thanh_toán Có , đơn_vị nhận lệnh chủ_động phong_toả / thu_hồi số tiền bị sai thừa để lập Lệnh thanh_toán Có đi mà không cần thông_báo trước hoặc không cần sự đồng_ý trước của chủ tài_khoản . Trong thời_hạn 01 ngày làm_việc kể từ ngày nhận Yêu_cầu hoàn_trả Lệnh thanh_toán Có , đơn_vị nhận lệnh phải thực_hiện chuyển trả lại đơn_vị khởi tạo lệnh số tiền chuyển thừa ;
+
++ Trường_hợp tài_khoản thanh_toán của khách_hàng không đủ số_dư để thu_hồi thì đơn_vị nhận lệnh ghi nhập Sổ theo_dõi Yêu_cầu hoàn_trả Lệnh thanh_toán Có chưa được thực_hiện , thực_hiện phong_toả và yêu_cầu khách_hàng nộp tiền vào tài_khoản để thực_hiện Yêu_cầu hoàn_trả này . Khi khách_hàng nộp đủ tiền hoặc tài_khoản của khách_hàng có đủ số_dư để hoàn_trả , kế_toán ghi xuất Sổ theo_dõi Yêu_cầu hoàn_trả Lệnh thanh_toán Có chưa thực_hiện được , lập Lệnh thanh_toán Có gửi đơn_vị khởi tạo lệnh ;
+
++ Trường_hợp khách_hàng không còn khả_năng thanh_toán hoặc khách_hàng vãng_lai không xác_định được nơi cư_trú , thì đơn_vị nhận lệnh phải là đơn_vị đầu_mối phối_hợp với đơn_vị khởi tạo lệnh , chính_quyền địa_phương và các cơ_quan bảo_vệ pháp_luật như công_an , toà_án , v . v . . . để tìm mọi biện_pháp thu_hồi lại tiền . Sau khi đã áp_dụng mọi biện_pháp thu_hồi mà không thu_hồi được hoặc không thu_hồi đủ thì đơn_vị nhận lệnh được từ_chối Yêu_cầu hoàn_trả Lệnh thanh_toán Có ; lập Thông_báo từ_chối Yêu_cầu hoàn_trả Lệnh thanh_toán Có , ghi rõ lí_do từ_chối ; gửi trả lại đơn_vị khởi tạo lệnh ( số tiền thu_hồi được nếu có ) ; đồng_thời ghi xuất sổ theo_dõi Yêu_cầu hoàn_trả Lệnh thanh_toán Có chưa được thực_hiện .
+
+4 . Điều_chỉnh các sai_sót khác
+
+Đối_với Lệnh thanh_toán sai kí_hiệu chứng_từ , kí_hiệu loại nghiệp_vụ , loại đồng_tiền , đơn_vị phục_vụ Người nhận lệnh không phải là đơn_vị nhận lệnh và không phải là thành_viên gián_tiếp thuộc đơn_vị nhận lệnh , xử_lí như sau :
+
+a ) Đối_với các Lệnh thanh_toán Có ( hoặc Nợ ) đơn_vị nhận lệnh đã nhận nhưng chưa hạch_toán thì thực_hiện hạch_toán vào tài_khoản phải trả ( phải thu ) sau đó lập Lệnh thanh_toán chuyển trả lại đơn_vị khởi tạo lệnh . Nghiêm_cấm đơn_vị nhận lệnh chuyển tiền tiếp ;
+
+b ) Đối_với các Lệnh thanh_toán đã thực_hiện , đơn_vị nhận lệnh xử_lí tương_tự như đã nêu tại Điểm b Khoản 3 Điều này .
+
+Điều 33 . Huỷ và hoàn_trả Lệnh thanh_toán theo yêu_cầu của khách_hàng
+
+1 . Xử_lí tại đơn_vị khởi tạo lệnh ;
+
+Khi tiếp_nhận yêu_cầu huỷ Lệnh thanh_toán Có hoặc yêu_cầu huỷ Lệnh thanh_toán Nợ của khách_hàng , đơn_vị khởi tạo lệnh phải kiểm_tra tính hợp_lệ của các chứng_từ này , đối_chiếu với Lệnh thanh_toán bị huỷ . Nếu không hợp_lệ thì trả lại cho khách_hàng và thông_báo đầy_đủ lí_do , nếu hợp_lệ thì xử_lí như sau :
+
+a ) Đối_với Lệnh thanh_toán chưa được thực_hiện hoặc chưa gửi đi : xử_lí huỷ Lệnh thanh_toán theo quy_định tại Điều 30 Thông_tư này , đơn_vị khởi tạo lệnh gửi cho khách_hàng thông_báo chấp_nhận huỷ Lệnh thanh_toán và không thực_hiện Lệnh thanh_toán đó ;
+
+b ) Đối_với Lệnh thanh_toán giá_trị cao , Lệnh thanh_toán bằng ngoại_tệ , Lệnh thanh_toán Nợ đã được thực_hiện và gửi đi nhưng đang trong hàng đợi quyết_toán ( do tài_khoản thanh_toán loại tiền tương_ứng chưa đủ tiền ) hoặc Lệnh thanh_toán giá_trị thấp đã được thực_hiện và gửi đi nhưng đang trong hàng đợi xử_lí tại Trung_tâm Xử_lí Quốc_gia , xử_lí huỷ Lệnh thanh_toán như sau :
+
+- Đối_với yêu_cầu huỷ Lệnh thanh_toán Có :
+
++ Căn_cứ vào yêu_cầu huỷ hợp_lệ của khách_hàng , người lập lệnh bổ_sung các yếu_tố cần_thiết và lập Lệnh huỷ theo quy_định ( Mẫu_số Ttlnh - 05 ) , kí chữ_kí điện_tử của mình lên Lệnh huỷ ;
+
++ Người duyệt lệnh phải kiểm_soát lại các yếu_tố của Lệnh huỷ vừa lập với yêu_cầu huỷ của khách_hàng để bảo_đảm sự chính_xác và khớp đúng . Nếu đúng , người duyệt lệnh kí chữ_kí điện_tử của mình lên Lệnh huỷ và gửi đi .
+
+Trung_tâm Xử_lí Quốc_gia gửi đơn_vị khởi tạo lệnh thông_báo kết_quả_thực_hiện yêu_cầu huỷ . Đơn_vị khởi tạo lệnh kiểm_tra thông_tin trên thông_báo , nếu kết_quả huỷ thành_công thực_hiện hạch_toán theo quy_định của pháp_luật hiện_hành . Nếu kết_quả huỷ không thành_công ( do <LH rel="None"> Lệnh thanh_toán không </LH> còn trong hàng đợi nữa ) , đơn_vị khởi tạo lệnh thực_hiện xử_lí theo thủ_tục yêu_cầu hoàn_trả như hướng_dẫn tại Điểm c Khoản 1 Điều này ;
+
+- Đối_với Lệnh huỷ Lệnh thanh_toán Nợ : thực_hiện theo quy_định tại Điểm a Khoản 2 Điều 30 Thông_tư này ;
+
+c ) Nếu Lệnh thanh_toán đã được xử_lí và gửi đi , Trung_tâm Xử_lí Quốc_gia đã hạch_toán , đơn_vị khởi tạo lệnh lập Yêu_cầu hoàn_trả Lệnh thanh_toán và thực_hiện :
+
+- Đối_với Yêu_cầu hoàn_trả Lệnh thanh_toán Có :
+
++ Căn_cứ vào yêu_cầu huỷ hợp_lệ của khách_hàng , người lập lệnh bổ_sung các yếu_tố cần_thiết của Yêu_cầu hoàn_trả theo quy_định ( Mẫu_số Ttlnh - 06 ) và kí chữ_kí điện_tử của mình lên Yêu_cầu hoàn_trả . Nội_dung lí_do trong tin điện Yêu_cầu hoàn_trả Lệnh thanh_toán Có phải ghi rõ sai_sót là do khách_hàng ;
+
++ Người duyệt lệnh phải kiểm_soát lại các yếu_tố của Yêu_cầu hoàn_trả vừa lập với yêu_cầu huỷ của khách_hàng để bảo_đảm sự chính_xác và khớp đúng . Nếu đúng , người duyệt lệnh kí chữ_kí điện_tử của mình lên Yêu_cầu hoàn_trả và gửi đơn_vị nhận lệnh ;
+
++ Khi nhận đủ số tiền ( của Lệnh thanh_toán Có bị huỷ ) do đơn_vị nhận lệnh hoàn_trả , đơn_vị khởi tạo lệnh thực_hiện các thủ_tục hoàn_trả tiền cho khách_hàng ;
+
+- Đối_với Lệnh huỷ Lệnh thanh_toán Nợ :
+
+Căn_cứ Lệnh huỷ thành_công , đơn_vị khởi tạo lệnh thực_hiện thủ_tục trích tài_khoản của khách_hàng số tiền đã ghi Có trước đây để chuyển cho đơn_vị nhận lệnh .
+
+2 . Xử_lí tại đơn_vị nhận lệnh :
+
+Khi nhận được Yêu_cầu hoàn_trả ( đối_với Lệnh thanh_toán Có ) , hoặc Lệnh huỷ ( đối_với Lệnh thanh_toán Nợ ) của đơn_vị khởi tạo lệnh , đơn_vị nhận lệnh phải kiểm_tra tính hợp_lệ của Yêu_cầu hoàn_trả ( hoặc Lệnh huỷ ) và đối_chiếu Yêu_cầu hoàn_trả ( hoặc Lệnh huỷ ) với Lệnh thanh_toán đã nhận được và xử_lí theo thủ_tục hoàn_trả .
+
+a ) Nếu phát_hiện Yêu_cầu hoàn_trả có sai_sót , đơn_vị nhận lệnh lập Thông_báo từ_chối yêu_cầu hoàn_trả Lệnh thanh_toán Có theo quy_định ( Mẫu_số Ttlnh - 07 ) ghi rõ lí_do từ_chối gửi trả lại đơn_vị khởi tạo lệnh ; nếu Lệnh huỷ có sai_sót , đơn_vị nhận lệnh xử_lí như đối_với Lệnh thanh_toán Có đến bị sai_sót ;
+
+b ) Nếu Yêu_cầu hoàn_trả ( hoặc Lệnh huỷ ) hợp_lệ thì xử_lí như sau :
+
+- Nếu Lệnh thanh_toán Có đến chưa được thực_hiện_tại đơn_vị nhận lệnh : đơn_vị nhận lệnh gửi ngay cho đơn_vị khởi tạo lệnh Thông_báo chấp_nhận Yêu_cầu hoàn_trả và lập Lệnh thanh_toán Có hoàn_trả cho đơn_vị khởi tạo lệnh ;
+
+- Nếu Lệnh thanh_toán đến đã được thực_hiện_tại đơn_vị nhận lệnh :
+
++ Đối_với Yêu_cầu hoàn_trả Lệnh thanh_toán Có đến :
+
+Đơn_vị nhận lệnh phải gửi ngay Yêu_cầu hoàn_trả cho khách_hàng để thông_báo . Chỉ trong trường_hợp khách_hàng đồng_ý bằng văn_bản hoặc nộp tiền_mặt hoặc lập chứng_từ thanh_toán trích tài_khoản của mình để chuyển trả thì đơn_vị nhận lệnh mới được phép thông_báo chấp_nhận Yêu_cầu hoàn_trả cho đơn_vị khởi tạo lệnh biết . Sau đó , đơn_vị nhận lệnh thực_hiện lập Lệnh thanh_toán Có để hoàn_trả cho đơn_vị khởi tạo lệnh .
+
+Đối_với Yêu_cầu hoàn_trả không được sự chấp_thuận chuyển trả của khách_hàng theo quy_định trên thì đơn_vị nhận lệnh lập Thông_báo từ_chối Yêu_cầu hoàn_trả có ghi rõ lí_do gửi lại đơn_vị khởi tạo lệnh ;
+
++ Đối_với Lệnh huỷ Lệnh thanh_toán Nợ đến : Căn_cứ vào Lệnh huỷ Lệnh thanh_toán Nợ đến , đơn_vị nhận lệnh gửi Thông_báo chấp_nhận Lệnh huỷ cho khách_hàng biết .
+
+Điều 34 . Tra soát và trả_lời tra soát
+
+Trường_hợp phát_hiện một_số yếu_tố chưa chính_xác trên Lệnh thanh_toán ( trừ các yếu_tố : Mã ngân_hàng , tính_chất Nợ Có , ngày thực_hiện , số tiền , loại đồng_tiền , loại thanh_toán , kí_hiệu chứng_từ , kí_hiệu loại nghiệp_vụ , đơn_vị phục_vụ Người nhận lệnh không phải là đơn_vị nhận lệnh và không phải là thành_viên gián_tiếp thuộc đơn_vị nhận lệnh ) , xử_lí như sau :
+
+1 . Đơn_vị khởi tạo lệnh phải lập tra soát theo quy_định ( Mẫu_số Ttlnh - 08 ) để đính_chính thông_tin hoặc đơn_vị nhận lệnh lập tra soát để yêu_cầu đơn_vị khởi tạo lệnh đính_chính thông_tin .
+
+2 . Trình_tự xử_lí tin điện tra soát gồm :
+
+a ) Lập tin điện
+
+- Người lập lệnh nhập dữ_liệu ;
+
+- Người duyệt lệnh tiến_hành kiểm_soát và kí chữ_kí điện_tử ;
+
+- Gửi tin điện lên Trung_tâm Xử_lí Quốc_gia ; in nội_dung tin điện và cả hai người cùng kí trên bức điện in ra ;
+
+b ) Nhận tin điện
+
+- Người duyệt lệnh kiểm_tra chữ_kí điện_tử ;
+
+- Người lập lệnh và người duyệt lệnh cùng kí trên bức điện in ra .
+
+3 . Trường_hợp không có quy_định khác của pháp_luật thì khi đơn_vị khởi tạo lệnh nhận được yêu_cầu tra soát cửa đơn_vị nhận lệnh , trong vòng 01 ngày làm_việc kể từ thời_điểm nhận được yêu_cầu tra soát , đơn_vị khởi tạo lệnh phải có trách_nhiệm trả_lời yêu_cầu tra soát ( lập theo quy_định Mẫu_số Ttlnh - 09 ) . Sau 04 ngày làm_việc kể từ ngày gửi yêu_cầu tra soát nếu đơn_vị nhận lệnh không nhận được trả_lời tra soát thì thực_hiện hoàn_trả lại Lệnh thanh_toán Có thông_tin_yêu_cầu tra soát .
+
+4 . Lưu_trữ chứng từ tra soát và trả_lời tra soát .
+
+Chứng_từ tra soát và trả_lời tra soát với đầy_đủ chữ_kí được lưu kèm với Lệnh thanh_toán gốc và là căn_cứ để thanh_toán với khách_hàng .
+
+Điều 35 . Xử_lí lỗi kĩ_thuật trong Hệ_thống Ttlnh
+
+1 . Lỗi thông_thường
+
+a ) Trong các trường_hợp phát_sinh lỗi về phần_cứng , phần_mềm , cơ_sở dữ_liệu , chữ_kí điện_tử , đường truyền_thông , giao_dịch không thực_hiện được do lỗi thiết_bị đầu_cuối , thực_hiện thông_báo tình_trạng lỗi như sau :
+
+- Lỗi xảy ra tại các thành_viên và đơn_vị thành_viên : trong khoảng thời_gian 30 phút không khắc_phục được sự_cố , thông_báo và gửi biên_bản sự_cố kĩ_thuật trong Hệ_thống Ttlnh theo quy_định ( Mẫu_số Ttlnh - 22 ) cho đơn_vị vận_hành Hệ_thống Ttlnh ;
+
+- Lỗi xảy ra tại Trung_tâm Xử_lí Quốc_gia : trong khoảng thời_gian 02 giờ không khắc_phục được sự_cố , thông_báo toàn hệ_thống ;
+
+- Lỗi xảy ra tại Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố : trong khoảng thời 30 phút không khắc_phục được sự_cố , thông_báo đơn_vị vận_hành Hệ_thống Ttlnh ;
+
+b ) Phương_thức truyền_thông_báo : xử_lí qua mạng máy_tính , hệ_thống thư điện_tử , qua Fax hoặc điện_thoại ;
+
+c ) Các thành_viên , đơn_vị thành_viên phải có trách_nhiệm báo_cáo và khẩn_trương xử_lí các lỗi xảy ra trong phạm_vi quản_lí của mình ; đồng_thời phối_hợp xử_lí các lỗi phát_sinh khác của Hệ_thống Ttlnh khi được yêu_cầu ;
+
+d ) Đơn_vị vận_hành Hệ_thống Ttlnh hướng_dẫn và thực_hiện xử_lí_sự_cố theo quy_trình khắc_phục sự_cố kĩ_thuật của Hệ_thống Ttlnh .
+
+2 . Xử_lí trường_hợp do sự_cố kĩ_thuật hoặc truyền tin , không gửi , nhận được Lệnh thanh_toán .
+
+a ) Đối_với <LH rel="None"> Lệnh thanh_toán đi </LH> :
+
+- Khi Lệnh thanh_toán đã chuyển đi nhưng nhận được trạng_thái chờ trả_lời từ trung_tâm xử_lí_do các sự_cố kĩ_thuật , các thành_viên , đơn_vị thành_viên phải thực_hiện như sau :
+
++ Vấn tin hoặc phối_hợp với đơn_vị vận_hành Hệ_thống Ttlnh để cập_nhật chính_xác tình_trạng hiện_thời của Lệnh thanh_toán tại Hệ_thống Ttlnh ;
+
++ Đối_với những Lệnh thanh_toán sau khi vấn tin có tình_trạng chưa thành_công , xử_lí như sau :
+
+Gửi lại đối_với Lệnh thanh_toán có tình_trạng chưa thành_công để hoàn_tất việc chuyển tiền .
+
+Sau khi gửi lại , nếu Lệnh thanh_toán vẫn không_thể kết_thúc , thành_viên , đơn_vị thành_viên lập Lệnh huỷ ( trong hàng đợi ) Lệnh thanh_toán . Căn_cứ trên kết_quả huỷ thành_công của Hệ_thống Ttlnh gửi về , người lập lệnh và người duyệt lệnh kí xác_nhận và lưu_trữ kết_quả này trên giấy . Sau khi đã huỷ thành_công và thực_hiện đầy_đủ các thủ_tục cần_thiết , thành_viên , đơn_vị thành_viên có_thể lập lại Lệnh thanh_toán khác với bút_toán mới để thay_thế Lệnh thanh_toán đã huỷ trước đó hoặc trả lại tiền cho khách_hàng .
+
+Trường_hợp Lệnh thanh_toán được gửi lại vẫn không thành_công và cũng không_thể huỷ được , thành_viên , đơn_vị thành_viên lập biên_bản ghi_nhận sự_cố . Căn_cứ kết_quả đối_chiếu lệnh chuyển đi cuối ngày và kết_quả phối_hợp xử_lí giữa thành_viên , đơn_vị thành_viên và Trung_tâm Xử_lí Quốc_gia , thành_viên , đơn_vị thành_viên có_thể giữ nguyên các bút_toán đã hạch_toán , hoặc trả lại tiền , hoặc lập lại Lệnh thanh_toán mới cho khách_hàng ;
+
+- Do sự_cố kĩ_thuật , bảng đối_chiếu đi cuối ngày có_thể không cân , thành_viên , đơn_vị thành_viên phải vấn tin lên Trung_tâm Xử_lí Quốc_gia để cập_nhật tình_trạng của các lệnh chênh_lệch , sau đó lập biên_bản xác_nhận tình_trạng hiện_tại . Kết_quả cuối_cùng của bảng đối_chiếu đi được căn_cứ trên tình_trạng mới nhất của các Lệnh thanh_toán và kết_quả phối_hợp xử_lí giữa thành_viên , đơn_vị thành_viên với Trung_tâm Xử_lí Quốc_gia ;
+
+b ) Đối_với Lệnh thanh_toán đến :
+
+Trường_hợp xảy ra sự_cố kĩ_thuật do không giải_mã hoặc không nhận được tệp dữ_liệu Lệnh thanh_toán đến , các thành_viên , đơn_vị thành_viên yêu_cầu đơn_vị vận_hành Hệ_thống Ttlnh thay_đổi trạng_thái tệp dữ_liệu và tiến_hành tiếp_tục nhận , giải_mã , kiểm_tra lại ;
+
+c ) Trường_hợp xảy ra sự_cố kĩ_thuật đối_với <LH rel="None"> Lệnh thanh_toán đi </LH> hoặc Lệnh thanh_toán đến , thành_viên , đơn_vị thành_viên phải kiểm_soát , đối_chiếu cẩn_thận để tránh gửi nhiều lần ( đối_với <LH rel="None"> Lệnh thanh_toán đi </LH> ) hoặc hạch_toán thừa ( đối_với Lệnh thanh_toán đến ) ;
+
+d ) Sự_cố không_thể kết_nối với Hệ_thống Ttlnh hoặc Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố :
+
+Trường_hợp sự_cố về máy_tính , đường truyền số_liệu . . . , thành_viên , đơn_vị thành_viên không_thể kết_nối với Hệ_thống Ttlnh để nhận xác_nhận , kết_quả đối_chiếu và các thông_tin khác , thành_viên , đơn_vị thành_viên phải thông_báo cho đơn_vị vận_hành Hệ_thống Ttlnh thông_qua các phương_tiện khác ( thư điện_tử , Fax , điện_thoại , . . . ) về sự_cố xảy ra . Đối_với những Lệnh thanh_toán chưa hoàn_thành , thành_viên , đơn_vị thành_viên chỉ thực_hiện thanh_toán tiền cho khách_hàng khi sự_cố trên được khắc_phục và có sự xác_nhận về tình_trạng cuối_cùng của Lệnh thanh_toán .
+
+3 . Trong vòng 02 giờ kể từ khi Trung_tâm Xử_lí Quốc_gia có sự_cố không_thể vận_hành bình_thường , Cục Công_nghệ tin_học xem_xét , Quyết_định chuyển hoạt_động sang Trung_tâm Xử_lí Quốc_gia dự_phòng . Việc chuyển hoạt_động về Trung_tâm Xử_lí Quốc_gia được thực_hiện sau khi sự_cố được khắc_phục .
+
+4 . Lỗi bất_khả_kháng
+
+Lỗi bất_khả_kháng là lỗi phát_sinh bởi các sự_kiện nằm ngoài phạm_vi kiểm_soát của người quản_lý , điều_hành Hệ_thống Ttlnh , không_thể dự_kiến trước được và làm ngừng hoạt_động Hệ_thống Ttlnh quá 02 giờ . Sau khi đã xử_lí bằng các biện_pháp kĩ_thuật nhưng không khắc_phục được thì xử_lí như sau :
+
+a ) Cục Công_nghệ tin_học báo_cáo Thống_đốc Ngân_hàng Nhà_nước tình_trạng lỗi bất_khả_kháng ;
+
+b ) Thống_đốc Ngân_hàng Nhà_nước xem_xét Quyết_định giải_pháp xử_lý ;
+
+c ) Thông_báo cho các thành_viên Hệ_thống Ttlnh qua một trong các kênh sau : mạng máy_tính , thư điện_tử , Fax hoặc điện_thoại .
+
+Chương_vii
+
+Báo_cáo Và Xử_lý Báo_cáo
+
+Điều 36 . Báo_cáo ngày tại Sở Giao_dịch
+
+1 . Lập báo_cáo chuyển tiền trong ngày của Hệ_thống Ttlnh
+
+Sau thời_điểm hoàn_thành đối_chiếu chuyển tiền trong ngày , Sở Giao_dịch lập ( tạo ) Báo_cáo thanh_toán trong ngày của toàn Hệ_thống Ttlnh dưới dạng chứng_từ điện_tử , bao_gồm các loại sau :
+
+a ) Tổng_hợp giao_dịch đơn_vị thành_viên ( Mẫu_số Ttlnh - 10 ) ;
+
+b ) Tổng_hợp giao_dịch thành_viên ( Mẫu_số Ttlnh - 11 ) ;
+
+c ) Bảng cân_đối chuyển tiền ( Mẫu_số Ttlnh - 12 ) ;
+
+d ) Bảng kết_quả hạch_toán ( Mẫu_số Ttlnh - 13 ) ;
+
+đ ) Bảng tổng_hợp kết_quả_thực_hoá ( Mẫu_số Ttlnh - 14 ) ;
+
+e ) Bảng tổng_hợp kết_quả hạch_toán ( Mẫu_số Ttlnh - 15 ) ;
+
+g ) Bảng tổng_hợp Ttlnh giá_trị cao ( Mẫu_số Ttlnh - 24 ) .
+
+2 . Xử_lí báo_cáo
+
+a ) Người kiểm_soát thanh_toán của Sở Giao_dịch phải kiểm_soát lại Báo_cáo chuyển tiền trong ngày ( bao_gồm cả chứng_từ điện_tử và chứng từ giấy ) và kiểm_tra các cân_đối theo quy_định để bảo_đảm sự chính_xác và khớp đúng của khâu lập báo_cáo và số_liệu thể_hiện trên các mẫu biểu ;
+
+b ) Báo_cáo trong ngày của toàn Hệ_thống Ttlnh được lưu_trữ sau khi đã được kiểm_soát và đối_chiếu khớp đúng hoàn_toàn theo quy_định , người kiểm_soát thanh_toán kí chữ_kí tay vào báo_cáo . Việc xử_lí lưu_trữ Báo_cáo chuyển tiền trong ngày của toàn Hệ_thống Ttlnh như sau :
+
+- Chứng_từ giấy : các mẫu biểu báo_cáo ( có đầy_đủ chữ_kí và dấu ) được lưu_trữ theo quy_định đối_với chứng từ giấy ;
+
+- Chứng_từ điện_tử : báo_cáo chuyển tiền trong ngày của toàn Hệ_thống Ttlnh được lưu_trữ theo quy_định đối_với chứng_từ điện_tử .
+
+Điều 37 . Lập và xử_lí báo_cáo tại thành_viên , đơn_vị thành_viên tham_gia Hệ_thống Ttlnh
+
+1 . Đối_với các đơn_vị thành_viên
+
+a ) Báo_cáo chuyển tiền đi ( Mẫu_số Ttlnh - 16 ) ;
+
+b ) Báo_cáo chuyển tiền đến ( Mẫu_số Ttlnh - 17 ) ;
+
+c ) Đối_chiếu chuyển tiền đi ( Mẫu_số Ttlnh - 18 ) ;
+
+d ) Đối_chiếu chuyển tiền đến ( Mẫu_số Ttlnh - 19 ) ;
+
+đ ) Bảng kết_quả thanh_toán của đơn_vị thành_viên ( Mẫu_số Ttlnh - 20 ) .
+
+2 . Xử_lí báo_cáo
+
+a ) Kiểm_soát :
+
+- Doanh_số Nợ ( Có ) trên các Mẫu_số Ttlnh - 16 phải bằng doanh_số Nợ ( Có ) trên Mẫu_số Ttlnh - 18 ;
+
+- Doanh_số Nợ ( Có ) trên các Mẫu_số Ttlnh - 17 phải bằng doanh_số Nợ ( Có ) trên Mẫu_số Ttlnh - 19 ;
+
+- Chênh_lệch kết_quả đối_chiếu trên Mẫu_số Ttlnh - 18 và Mẫu_số Ttlnh - 19 phải bằng 0 ;
+
+b ) Xử_lí báo_cáo sai_sót :
+
+Nếu có sai_sót , đơn_vị thành_viên phải liên_hệ với đơn_vị vận_hành Hệ_thống Ttlnh để cùng phối_hợp xử_lý .
+
+3 . Lập báo_cáo tại thành_viên :
+
+a ) Báo_cáo chuyển tiền đi ( Mẫu_số Ttlnh - 16 ) ;
+
+b ) Báo_cáo chuyển tiền đến ( Mẫu_số Ttlnh - 17 ) ;
+
+c ) Đối_chiếu chuyển tiền đi ( Mẫu_số Ttlnh - 18 ) ;
+
+d ) Đối_chiếu chuyển tiền đến ( Mẫu_số Ttlnh - 19 ) ;
+
+đ ) Bảng kết_quả thanh_toán của đơn_vị thành_viên ( Mẫu_số Ttlnh - 20 ) ;
+
+e ) Bảng kết_quả thanh_toán của thành_viên ( Mẫu_số Ttlnh - 21 ) ,
+
+4 . Báo_cáo chuyển tiền điện_tử trong ngày của cả thành_viên và đơn_vị thành_viên sau khi sử_dụng để đối_chiếu và tổng_hợp báo_cáo phải được lưu_trữ theo đúng quy_định hiện_hành .
+
+Điều 38 . Báo_cáo tháng
+
+Đối_với các mẫu biểu báo_cáo khác ngoài các mẫu biểu quy_định tại Điều 36 , Điều 37 Thông_tư này , các đơn_vị thực_hiện báo_cáo theo quy_định về chế_độ thông_tin báo_cáo hiện_hành của Ngân_hàng Nhà_nước .
+
+Chương_viii
+
+Tham_gia , Sử_dụng Dịch_vụ Và Rút Khỏi Hệ_thống_ttlnh
+
+Điều 39 . Tham_gia Hệ_thống Ttlnh
+
+1 . Tham_gia Hệ_thống Ttlnh .
+
+a ) Ngân_hàng , chi_nhánh ngân_hàng nước_ngoài , Kho_bạc Nhà_nước Trung_ương khi có nhu_cầu tham_gia Hệ_thống Ttlnh thực_hiện gửi văn_bản đăng_kí tham_gia theo Mẫu_số Ttlnh - 01 đến Ngân_hàng Nhà_nước ( đơn_vị vận_hành Hệ_thống Ttlnh ) qua mạng máy_tính ;
+
+b ) Khi có nhu_cầu đăng_kí cho đơn_vị thành_viên , thành_viên gián_tiếp tham_gia Hệ_thống Ttlnh , ngân_hàng , chi_nhánh ngân_hàng nước_ngoài , Kho_bạc Nhà_nước Trung_ương thực_hiện gửi văn_bản đăng_kí tham_gia theo Mẫu_số Ttlnh - 03 đến Ngân_hàng Nhà_nước ( đơn_vị vận_hành Hệ_thống Ttlnh ) qua mạng máy_tính .
+
+2 . Đơn_vị vận_hành Hệ_thống Ttlnh đăng_tải trên cổng thông_tin điện_tử của Ngân_hàng Nhà_nước khi có sự thay_đổi về thành_viên , đơn_vị thành_viên , thành_viên gián_tiếp tham_gia Hệ_thống Ttlnh .
+
+Điều 40 . Yêu_cầu về sử_dụng dịch_vụ Hệ_thống Ttlnh
+
+1 . Để sử_dụng dịch_vụ trên Hệ_thống Ttlnh , thành_viên phải đảm_bảo các yêu_cầu sau :
+
+a ) Phải có tài_khoản thanh_toán bằng Đồng Việt_nam mở tại Sở Giao_dịch trong trường_hợp tham_gia sử_dụng dịch_vụ Hệ_thống Ttlnh ;
+
+b ) Trường_hợp tham_gia thanh_toán bằng ngoại_tệ , phải có tài_khoản thanh_toán ngoại_tệ tương_ứng mở tại Sở Giao_dịch ;
+
+c ) Yêu_cầu về nguồn nhân_lực :
+
+- Có tối_thiểu 02 cán_bộ vận_hành được Ngân_hàng Nhà_nước cấp chứng_chỉ hoặc giấy xác_nhận đã tham_gia đào_tạo về quy_trình xử_lí nghiệp_vụ và quy_trình vận_hành Hệ_thống Ttlnh ;
+
+- Đối_với cán_bộ được giao trách_nhiệm hoặc uỷ_quyền thực_hiện truyền , nhận dữ_liệu thanh_toán , kí duyệt Lệnh thanh_toán phải có chữ_kí điện_tử do Ngân_hàng Nhà_nước cấp theo quy_định tại <TT rel="DC"> Thông_tư về việc </TT> quản_lý , sử_dụng chữ_kí số , chứng_thư số và dịch_vụ chứng_thực chữ_kí số của Ngân_hàng Nhà_nước ;
+
+d ) Yêu_cầu về kĩ_thuật :
+
+- Có hệ_thống chính và hệ_thống dự_phòng đối_với phần_mềm , cơ_sở dữ_liệu ;
+
+- Có tối_thiểu 01 đường truyền chính và 01 đường truyền dự_phòng thuộc 02 nhà cung_cấp dịch_vụ khác nhau kết_nối đến Hệ_thống Ttlnh ;
+
+- Có tối_thiểu 02 chữ_kí điện_tử được kích_hoạt thành_công ( 01 chữ_kí truyền_thông và 01 chữ_kí kí duyệt ) ,
+
+2 . Đối_với đơn_vị thành_viên thuộc Ngân_hàng Nhà_nước phải tuân_thủ các quy_định tại Điểm c , d Khoản 1 Điều này .
+
+3 . Để sử_dụng dịch_vụ trên Hệ_thống Ttlnh , đơn_vị thành_viên Hệ_thống Ttlnh phải đảm_bảo các yêu_cầu sau :
+
+a ) Các điều_kiện quy_định tại Điểm c Khoản 1 Điều này ;
+
+b ) Yêu_cầu về kĩ_thuật :
+
+- Có hệ_thống chính và hệ_thống dự_phòng đối_với phần_mềm , cơ_sở dữ_liệu ;
+
+- Có tối_thiểu 01 đường truyền kết_nối đến Hệ_thống Ttlnh ;
+
+- Có tối_thiểu 02 chữ_kí điện_tử được kích_hoạt thành_công ( 01 chữ_kí truyền_thông và 01 chữ_kí kí duyệt ) ;
+
+c ) Đã được thành_viên đăng_kí sử_dụng dịch_vụ theo Mẫu_số Ttlnh - 03 .
+
+4 . Trước khi sử_dụng dịch_vụ Hệ_thống Ttlnh , đơn_vị thành_viên thuộc Ngân_hàng Nhà_nước , ngân_hàng , chi_nhánh ngân_hàng nước_ngoài , Kho_bạc Nhà_nước Trung_ương gửi đến đơn_vị vận_hành Hệ_thống Ttlnh qua mạng máy_tính :
+
+- Văn_bản ( trừ các đơn_vị thuộc Ngân_hàng Nhà_nước Việt_nam ) về việc cầm_cố , kí_quỹ giấy_tờ có_giá hoặc kí_quỹ bằng tiền để thiết_lập hạn_mức nợ ròng trong Ttlnh có xác_nhận của Sở Giao_dịch trong trường_hợp đăng_kí sử_dụng dịch_vụ gửi Lệnh thanh_toán giá_trị thấp ;
+
+- Hợp_đồng uỷ_quyền hoặc văn_bản thoả_thuận trước đáp_ứng các yêu_cầu quy_định tại Khoản 3 Điều 5 Thông_tư này về việc thanh_toán Nợ giữa các thành_viên trong trường_hợp đăng_kí sử_dụng dịch_vụ gửi Lệnh thanh_toán Nợ ;
+
+- Văn_bản đăng_kí bổ_sung sử_dụng dịch_vụ Hệ_thống Ttlnh cho thành_viên , đơn_vị thành_viên theo Mẫu_số Ttlnh - 26 trong trường_hợp bổ_sung sử_dụng dịch_vụ Hệ_thống Ttlnh .
+
+Đơn_vị vận_hành Hệ_thống Ttlnh đăng_tải trên cổng thông_tin điện_tử của Ngân_hàng Nhà_nước khi có sự thay_đổi về thông_tin sử_dụng dịch_vụ Hệ_thống Ttlnh của các thành_viên , đơn_vị thành_viên . Bổ_sung
+
+Điều 41 . Ngừng , tạm ngừng sử_dụng dịch_vụ gửi Lệnh thanh_toán trên Hệ_thống Ttlnh
+
+1 . Khi có nhu_cầu ngừng một hoặc một_số dịch_vụ gửi Lệnh thanh_toán , ngân_hàng , chi_nhánh ngân_hàng nước_ngoài , Kho_bạc Nhà_nước Trung_ương gửi văn_bản đăng_kí ngừng dịch_vụ gửi Lệnh thanh_toán theo Mẫu_số Ttlnh - 27 đến đơn_vị vận_hành Hệ_thống Ttlnh qua mạng máy_tính .
+
+2 . Thống_đốc Ngân_hàng Nhà_nước xem_xét Quyết_định tạm ngừng một_số dịch_vụ thanh_toán trên Hệ_thống Ttlnh của thành_viên , đơn_vị thành_viên trong trường_hợp_thành_viên không đảm_bảo , duy_trì các yêu_cầu về nguồn_lực và kĩ_thuật quy_định tại Điểm c , d Khoản 1 Điều 40 Thông_tư này ; đơn_vị thành_viên không đảm_bảo , duy_trì các yêu_cầu về nguồn_lực và kĩ_thuật quy_định tại Điểm a , b Khoản 3 Điều 40 Thông_tư này cho đến khi thành_viên đảm_bảo các yêu_cầu định tại Điểm c , d Khoản 1 Điều 40 Thông_tư này và đơn_vị thành_viên đảm_bảo các yêu_cầu về quy_định tại Điểm a , b Khoản 3 Điều 40 Thông_tư này .
+
+3 . Thống_đốc Ngân_hàng Nhà_nước Quyết_định tạm ngừng dịch_vụ gửi Lệnh thanh_toán trên Hệ_thống Ttlnh của thành_viên , đơn_vị thành_viên trong trường_hợp_thành_viên , đơn_vị thành_viên để xảy ra sự_cố kĩ_thuật làm gián_đoạn Hệ_thống Ttlnh tại đơn_vị , cụ_thể :
+
+a ) Gián_đoạn quá 04 lần trong 01 tháng thì bị tạm ngừng dịch_vụ gửi Lệnh thanh_toán trong vòng 05 ngày làm_việc kể từ ngày vi_phạm ;
+
+b ) Gián_đoạn quá 11 lần trong 01 quý thì bị tạm ngừng dịch_vụ gửi Lệnh thanh_toán trong vòng 10 ngày làm_việc kể 10 ngày vi_phạm ;
+
+c ) Gián_đoạn quá 19 lần trong 01 năm thì bị tạm ngừng dịch_vụ gửi Lệnh thanh_toán trong vòng 01 tháng kể từ ngày vi_phạm .
+
+4 . Thống_đốc Ngân_hàng Nhà_nước Quyết_định tạm ngừng dịch_vụ gửi Lệnh thanh_toán giá_trị thấp của thành_viên , đơn_vị thành_viên trong các trường_hợp sau :
+
+a ) Kho_bạc Nhà_nước không đủ số_dư quyết_toán kết_quả bù_trừ theo quy_định tại Điểm d Khoản 3 Điều 27 Thông_tư này thì đơn_vị vận_hành Hệ_thống Ttlnh báo_cáo Thống_đốc Ngân_hàng Nhà_nước xem_xét Quyết_định tạm ngừng sử_dụng dịch_vụ gửi Lệnh thanh_toán giá_trị thấp của Kho_bạc Nhà_nước cho đến khi trả đủ số tiền quyết_toán bù_trừ còn thiếu ;
+
+b ) Thành_viên không đủ số_dư quyết_toán kết_quả bù_trừ vào thời_điểm Sở Giao_dịch lập báo_cáo thành_viên thiếu vốn từ 02 lần trở lên trong 01 tháng , đơn_vị vận_hành Hệ_thống Ttlnh báo_cáo Thống_đốc Ngân_hàng Nhà_nước xem_xét Quyết_định tạm ngừng 01 tháng sử_dụng dịch_vụ gửi Lệnh thanh_toán giá_trị thấp của thành_viên ;
+
+c ) Theo quy_định tại Điểm b Khoản 3 Điều 28 Thông_tư này ;
+
+d ) Thành_viên để xảy ra thiếu tiền trả dư_nợ cho vay thanh_toán bù_trừ quá hạn dẫn đến các thành_viên khác phải chia_sẻ , Sở Giao_dịch báo_cáo Thống_đốc Ngân_hàng Nhà_nước xem_xét tạm ngừng dịch_vụ gửi Lệnh thanh_toán giá_trị thấp của thành_viên đó . Thời_gian tạm dừng dịch_vụ là 6 tháng kể từ ngày Thống_đốc Ngân_hàng Nhà_nước thông_báo bằng văn_bản cho tất_cả các thành_viên , đơn_vị thành_viên .
+
+5 . Trong trường_hợp_thành_viên , đơn_vị thành_viên bị đưa vào diện kiểm_soát đặc_biệt , để đảm_bảo_an_toàn cho hoạt_động của Hệ_thống Ttlnh , Thống_đốc Ngân_hàng Nhà_nước xem_xét Quyết_định tạm ngừng một_số dịch_vụ thanh_toán trên Hệ_thống Ttlnh của thành_viên , đơn_vị thành_viên đó .
+
+6 . Khi có sự thay_đổi về thông_tin ngừng , tạm ngừng sử_dụng dịch_vụ Hệ_thống Ttlnh của các thành_viên , đơn_vị thành_viên , đơn_vị vận_hành Hệ_thống Ttlnh đăng_tải trên cổng thông_tin điện_tử của Ngân_hàng Nhà_nước .
+
+Điều 42 . Chấm_dứt tư_cách thành_viên , đơn_vị thành_viên , thành_viên gián_tiếp Hệ_thống Ttlnh
+
+Thành_viên , đơn_vị thành_viên , thành_viên gián_tiếp chấm_dứt tư_cách thành_viên , đơn_vị thành_viên , thành_viên gián_tiếp khi :
+
+1 . Thành_viên hoàn_thành nghĩa_vụ trả nợ đối_với các khoản nợ thanh_toán ( nếu có ) phát_sinh trong việc tham_gia Hệ_thống Ttlnh , các khoản phí thường_niên và phí thanh_toán ( nếu có ) và có văn_bản rút khỏi hệ_thống ( Mẫu_số Ttlnh - 02 ) gửi đến Ngân_hàng Nhà_nước ( đơn_vị vận_hành Hệ_thống Ttlnh ) qua mạng máy_tính .
+
+2 . Thành_viên bị tự_động chấm_dứt tư_cách thành_viên khi thành_viên bị giải_thể , phá_sản , bị sáp_nhập , bị hợp_nhất .
+
+3 . Khi tài_khoản thanh_toán bằng Đồng Việt_nam tại Sở Giao_dịch của thành_viên bị đóng .
+
+4 . Đơn_vị vận_hành Hệ_thống Ttlnh đăng_tải trên cổng thông_tin điện_tử của Ngân_hàng Nhà_nước khi có sự chấm_dứt tư_cách thành_viên , đơn_vị thành_viên , thành_viên gián_tiếp Hệ_thống Ttlnh .
+
+Chương_ix
+
+Quyền_hạn Và Trách_nhiệm Của Các Đơn_vị
+
+Điều 43 . Quyền và trách_nhiệm của các thành_viên , đơn_vị thành_viên
+
+1 . Các thành_viên và đơn_vị thành_viên có quyền :
+
+a ) Sử_dụng các dịch_vụ thanh_toán được phép thực_hiện do Hệ_thống Ttlnh cung_cấp ;
+
+b ) Yêu_cầu Trung_tâm Xử_lí Quốc_gia xác_nhận đã nhận được Lệnh thanh_toán do mình gửi và cung_cấp các thông_tin liên_quan đến việc thực_hiện Lệnh thanh_toán đó ;
+
+c ) Yêu_cầu Trung_tâm Xử_lí Quốc_gia huỷ Lệnh thanh_toán theo quy_định tại Thông_tư này ;
+
+d ) Đơn_vị thành_viên được thừa_hưởng quyền thực_hiện các dịch_vụ thanh_toán giá_trị cao của thành_viên mà đơn_vị này trực_thuộc .
+
+2 . Các thành_viên và đơn_vị thành_viên có trách_nhiệm :
+
+a ) Thành_viên quản_lí các hoạt_động thanh quyết_toán , hạn_mức nợ ròng của Hệ_thống Ttlnh thuộc phạm_vi mình quản_lý ;
+
+b ) Thành_viên nhận và xử_lí các dữ_liệu điện_tử từ Trung_tâm Xử_lí Quốc_gia vào thời_điểm kết_thúc ngày làm_việc . Nội_dung dữ_liệu bao_gồm :
+
+- Số hạch_toán phải thu ( phải trả ) vào tài_khoản thanh_toán của thành_viên ;
+
+- Số hạch_toán phải thu ( phải trả ) của từng đơn_vị thành_viên , thông_qua dữ_liệu này thành_viên hạch_toán và quyết_toán các khoản thu ( chi ) hộ cho các đơn_vị thành_viên ;
+
+- Chi_tiết từng <LH rel="None"> Lệnh thanh_toán đi </LH> và đến của tất_cả các đơn_vị thành_viên trong Hệ_thống Ttlnh ;
+
+c ) Thành_viên có trách_nhiệm thông_báo , chỉ_đạo đơn_vị thành_viên thuộc phạm_vi mình quản_lí tuân_thủ các văn_bản , chỉ_đạo của Ngân_hàng Nhà_nước liên_quan đến Ttlnh ;
+
+d ) Tuân_thủ các quy_định về việc lập và gửi Lệnh thanh_toán qua Hệ_thống Ttlnh và phải chịu trách_nhiệm về tính chính_xác của số_liệu và các nội_dung liên_quan đến Lệnh thanh_toán đó ;
+
+đ ) Phối_hợp với đơn_vị vận_hành Hệ_thống Ttlnh , các thành_viên và đơn_vị thành_viên khác để xử_lí các lỗi phát_sinh trong quá_trình vận_hành Hệ_thống Ttlnh và chuyển sang hệ_thống dự_phòng ;
+
+e ) Trường_hợp đơn_vị khởi tạo lệnh vi_phạm_quy_định về việc lập , gửi Lệnh thanh_toán hoặc số_liệu , nội_dung trên Lệnh thanh_toán sai dẫn đến thanh_toán chậm_trễ , mất tiền và gây tổn_thất vật_chất khác thì đơn_vị đó phải chịu trách_nhiệm về những thiệt_hại do lỗi của mình gây ra ;
+
+g ) Thực_hiện các quy_định về phí và quản_lí phí trong Ttlnh được quy_định tại Điều 7 Thông_tư này ;
+
+h ) Không được tiết_lộ hoặc cung_cấp các thông_tin thu được qua Hệ_thống Ttlnh cho các đối_tượng không có trách_nhiệm liên_quan trừ trường_hợp có yêu_cầu của cơ_quan có thẩm_quyền theo quy_định của pháp_luật ;
+
+i ) Thành_viên phải chia_sẻ dư_nợ cho vay thanh_toán bù_trừ quá hạn của các thành_viên khác ;
+
+k ) Thành_viên phải duy_trì số_dư tài_khoản thanh_toán bảo_đảm thực_hiện các Lệnh thanh_toán và quyết_toán bù_trừ qua Hệ_thống Ttlnh ;
+
+l ) Trường_hợp_thành_viên , đơn_vị thành_viên chấm_dứt tư_cách thành_viên , đơn_vị thành_viên , phải thực_hiện thủ_tục đề_nghị thu_hồi chứng_thư số ( nếu có ) sử_dụng trong Ttlnh theo quy_định tại <TT rel="DC"> Thông_tư về việc </TT> quản_lý , sử_dụng chữ_kí số , chứng_thư số và dịch_vụ chứng_thực chữ_kí số của Ngân_hàng Nhà_nước ;
+
+m ) Đảm_bảo , duy_trì hạ_tầng kĩ_thuật và nguồn_lực quy_định tại Điểm c , d Khoản 1 và Điểm a , b Khoản 3 Điều 40 Thông_tư này ;
+
+n ) Đăng_kí danh_sách địa_chỉ hộp_thư điện_tử để trao_đổi các thông_tin liên_quan đến Hệ_thống Ttlnh được quy_định trao_đổi qua thư điện_tử tại Thông_tư này ;
+
+o ) Chấp_hành đúng các quy_định về thời_điểm áp_dụng trong Hệ_thống Ttlnh để bảo_đảm thanh_toán được thực_hiện thuận_lợi , chính_xác , kịp_thời và an_toàn tài_sản ;
+
+p ) Thành_viên phải thường_xuyên giám_sát hạn_mức nợ ròng hiện_thời của mình để duy_trì ở mức thích_hợp ;
+
+q ) Khi phát_sinh tranh_chấp với khách_hàng , các bên liên_quan có trách_nhiệm cung_cấp , trao_đổi dữ_liệu cho nhau và báo_cáo tình_hình cho các cấp có thẩm_quyền theo quy_định của pháp_luật để giải_quyết .
+
+Điều 44 . Ban Điều_hành Hệ_thống Ttlnh
+
+1 . Ban Điều_hành Hệ_thống Ttlnh được thành_lập theo Quyết_định của Thống_đốc Ngân_hàng Nhà_nước , thành_phần gồm : Trưởng ban là Phó_thống_đốc Ngân_hàng Nhà_nước , thành_viên là đại_diện Cục Công_nghệ tin_học , Vụ Thanh_toán , Sở Giao_dịch , lãnh_đạo của một_số đơn_vị khác .
+
+2 . Ban Điều_hành Hệ_thống Ttlnh có các nhiệm_vụ sau :
+
+a ) Tham_mưu cho Thống_đốc Ngân_hàng Nhà_nước chiến_lược , kế_hoạch phát_triển Hệ_thống Ttlnh ;
+
+b ) Tham_mưu cho Thống_đốc Ngân_hàng Nhà_nước xây_dựng và quản_lí khuôn_khổ quản_trị rủi_ro toàn_diện đối_với Hệ_thống Ttlnh ;
+
+c ) Tham_mưu cho Thống_đốc Ngân_hàng Nhà_nước về loại ngoại_tệ khác sử_dụng trong Hệ_thống Ttlnh theo quy_định tại Khoản 1 Điều 1 Thông_tư này ;
+
+d ) Tham_mưu cho Thống_đốc Ngân_hàng Nhà_nước Quyết_định các nội_dung quy_định tại Khoản 2 , 3 Điều 9 ; Khoản 2 Điều 10 ; Điểm a , b Khoản 3 Điều 21 ; Điểm b Khoản 3 Điều 28 ; Điểm b Khoản 4 Điều 35 và Khoản 2 , 3 , 4 , 5 Điều 41 Thông_tư này ;
+
+đ ) Ban Điều_hành Hệ_thống Ttlnh thực_hiện các nhiệm_vụ khác liên_quan đến việc quản_lý , vận_hành Hệ_thống Ttlnh được quy_định trong quy_chế hoạt_động do Thống_đốc Ngân_hàng Nhà_nước Quyết_định .
+
+Điều 45 . Sở Giao_dịch
+
+1 . Kết_nối với Trung_tâm Xử_lí Quốc_gia để thực_hiện các thủ_tục thanh_toán giá_trị cao , thanh_toán ngoại_tệ , thanh_toán giá_trị thấp giữa các thành_viên .
+
+2 . Giám_sát và quản_lí các tài_khoản thanh_toán .
+
+a ) Giám_sát và quản_lí_số_dư tài_khoản thanh_toán của các thành_viên :
+
+- Hàng ngày , vào đầu giờ làm_việc Sở Giao_dịch xác_định số_dư tài_khoản thanh_toán của các thành_viên để thực_hiện các hoạt_động thanh_toán trong ngày của các đơn_vị ;
+
+- Xử_lí các phát_sinh chuyển tiền của các đơn_vị thành_viên trong trường_hợp đơn_vị thành_viên có nhu_cầu bổ_sung vốn ;
+
+- Cập_nhật các thông_tin về tình_trạng hoạt_động của các tài_khoản thanh_toán ;
+
+- Kiểm_soát và đối_chiếu số_liệu hạch_toán thanh_toán chuyển tiền giữa các đơn_vị Ngân_hàng Nhà_nước ;
+
+- Tổng_hợp_số_liệu hạch_toán thanh_toán chuyển tiền hàng ngày , hàng tháng của các đơn_vị Ngân_hàng Nhà_nước ;
+
+b ) Thông_qua Trung_tâm Xử_lí Quốc_gia , Sở Giao_dịch cung_cấp tức_thời và bất_kì lúc_nào cho các thành_viên những thông_tin sau dưới hình_thức điện_tử :
+
+- Số_dư các tài_khoản thanh_toán và hạn_mức thấu chi ;
+
+- Tình_trạng các yêu_cầu quyết_toán bù_trừ ;
+
+- Tình_trạng các yêu_cầu quyết_toán đang chờ xử_lí trong hàng đợi quyết_toán ;
+
+- Tình_trạng các yêu_cầu quyết_toán đã huỷ ;
+
+- Hạn_mức nợ ròng .
+
+3 . Quản_lí quyết_toán bù_trừ .
+
+a ) Theo_dõi , kiểm_soát việc duy_trì hạn_mức nợ ròng của các thành_viên theo quy_định của Ngân_hàng Nhà_nước ;
+
+b ) Theo_dõi , tính_toán và duy_trì hạn_mức đối_với những khoản thanh_toán không sử_dụng hạn_mức ;
+
+c ) Xử_lí các giao_dịch liên_quan đến kí_quỹ giấy_tờ có_giá , kí_quỹ bằng tiền ;
+
+d ) Theo_dõi và thông_báo tình_trạng quyết_toán bù_trừ theo quy_định tại Điều 24 Thông_tư này .
+
+4 . Xây_dựng , ban_hành quy_trình xử_lí thanh_toán ngoại_tệ , quyết_toán trái_phiếu Chính_phủ .
+
+5 . Xác_nhận tình_trạng hoàn_thành nghĩa_vụ trả nợ đối_với các khoản nợ thanh_toán ( nếu có ) phát_sinh trong việc tham_gia Hệ_thống Ttlnh , các khoản phí thường_niên và phí thanh_toán của thành_viên , đơn_vị thành_viên khi thành_viên đề_nghị rút khỏi Hệ_thống Ttlnh .
+
+6 . Thực_hiện chức_năng thành_viên của Hệ_thống Ttlnh và tuân_thủ đầy_đủ các quy_định đối_với thành_viên của Hệ_thống Ttlnh .
+
+Điều 46 . Vụ Tài_chính - Kế_toán
+
+Quản_lí việc hạch_toán các khoản thanh_toán chuyển tiền thông_qua Hệ_thống Ttlnh của các đơn_vị Ngân_hàng Nhà_nước , quyết_toán năm các khoản thanh_toán chuyển tiền giữa các đơn_vị Ngân_hàng Nhà_nước theo quy_định .
+
+Điều 47 . Vụ Thanh_toán
+
+1 . Chịu trách_nhiệm về nghiệp_vụ thanh_toán đối_với Hệ_thống Ttlnh .
+
+2 . Xây_dựng và ban_hành các quy_định về giám_sát Hệ_thống Ttlnh để đảm_bảo sự hoạt_động ổn_định , an_toàn và hiệu_quả của Hệ_thống Ttlnh .
+
+3 . Thực_hiện giám_sát hoạt_động Hệ_thống Ttlnh , truy_cập dữ_liệu lưu_trữ điện_tử của Hệ_thống Ttlnh , thông_qua các kênh trao_đổi thông_tin với đơn_vị vận_hành , các thành_viên hệ_thống để kiểm_tra liên_tục và đánh_giá hoạt_động Hệ_thống Ttlnh hàng ngày trong điều_kiện hoạt_động bình_thường . Yêu_cầu đơn_vị vận_hành Hệ_thống Ttlnh báo_cáo khi có thay_đổi Hệ_thống Ttlnh và khi có phát_sinh_sự_cố .
+
+Điều 48 . Cục Công_nghệ tin_học
+
+1 . Thực_hiện các nhiệm_vụ của đơn_vị vận_hành Hệ_thống Ttlnh quy_định tại Thông_tư này .
+
+2 . Trực_tiếp_quản_lí và chịu trách_nhiệm về hạ_tầng kĩ_thuật Hệ_thống Ttlnh .
+
+3 . Nghiên_cứu , xây_dựng và đề_xuất các giải_pháp kĩ_thuật để đáp_ứng nhu_cầu phát_triển và mở_rộng Hệ_thống Ttlnh .
+
+4 . Thực_hiện công_tác bảo_trì Hệ_thống định_kì để đảm_bảo hoạt_động an_toàn , liên_tục .
+
+5 . Tham_mưu trình Thống_đốc Ngân_hàng Nhà_nước ban_hành chuẩn dữ_liệu của Ngân_hàng Nhà_nước sử_dụng trong Hệ_thống Ttlnh .
+
+Điều 49 . Đơn_vị vận_hành Hệ_thống Ttlnh
+
+1 . Trực_tiếp_vận_hành Hệ_thống Ttlnh .
+
+2 . Đầu_mối tiếp_nhận , xử_lý , hướng_dẫn thực_hiện các quy_định tại Điều 39 , 40 , 41 , 42 Thông_tư này .
+
+3 . Chấp_hành các quy_định và các khuyến_nghị về giám_sát của Nhn ( Vụ Thanh_toán ) ; đồng_thời ban_hành và thực_hiện các quy_định nội_bộ về kiểm_soát rủi_ro vận_hành để đảm_bảo sự hoạt_động liên_tục của Hệ_thống Ttlnh .
+
+4 . Định_kì hàng tháng , báo_cáo Ban Điều_hành Hệ_thống Ttlnh và gửi Vụ Thanh_toán về tình_hình và thời_gian hoạt_động của Hệ_thống Ttlnh theo chế_độ báo thống_kê của Ngân_hàng Nhà_nước .
+
+Điều 50 . Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố
+
+1 . Yêu_cầu Trung_tâm Xử_lí Quốc_gia xác_nhận đã nhận được các Lệnh thanh_toán do mình chuyển tới và các thông_tin liên_quan đến Lệnh thanh_toán đó .
+
+2 . Phối_hợp tổ_chức kết_nối cho các thành_viên , đơn_vị thành_viên trên địa_bàn tham_gia Hệ_thống Ttlnh .
+
+3 . Đảm_bảo điều_kiện kĩ_thuật trong phạm_vi phụ_trách để Hệ_thống Ttlnh hoạt_động thông_suốt .
+
+4 . Phối_hợp với đơn_vị vận_hành Hệ_thống Ttlnh , các thành_viên và đơn_vị thành_viên xử_lí các lỗi phát_sinh trong quá_trình vận_hành Hệ_thống Ttlnh .
+
+Chương X
+
+Điều_khoản Thi_hành
+
+Điều 51 . Quy_định chuyển_tiếp
+
+1 . Ngân_hàng Nhà_nước , Ngân_hàng , chi_nhánh ngân_hàng nước_ngoài , Kho_bạc Nhà_nước Trung_ương và các đơn_vị trực_thuộc của các đối_tượng này là thành_viên , đơn_vị thành_viên , thành_viên gián_tiếp Hệ_thống Ttlnh trước ngày Thông_tư này có hiệu_lực thi_hành được tiếp_tục là thành_viên , đơn_vị thành_viên , thành_viên gián_tiếp của Hệ_thống Ttlnh và được tiếp_tục sử_dụng các dịch_vụ đã được thiết_lập trên Hệ_thống Ttlnh .
+
+2 . Các thành_viên , đơn_vị thành_viên , thành_viên gián_tiếp Hệ_thống Ttlnh trước ngày Thông_tư này có hiệu_lực thi_hành không thuộc đối_tượng quy_định tại Khoản 1 Điều này chấm_dứt tư_cách thành_viên , đơn_vị thành_viên , thành_viên gián_tiếp kể từ ngày Thông_tư này có hiệu_lực thi_hành .
+
+Điều 52 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 01 năm 2018 và các văn_bản sau_hết hiệu_lực thi_hành :
+
+- <TT rel="None"> Thông_tư số 23/2010/TT-NHNN ngày 09/11/2010 </TT> của Thống_đốc Ngân_hàng Nhà_nước quy_định về việc quản_lý , vận_hành và sử_dụng Hệ_thống Thanh_toán điện_tử liên ngân_hàng ;
+
+- <TT rel="None"> Thông_tư số 13/2013/TT-NHNN ngày 11/6/2013 </TT> của Thống_đốc Ngân_hàng Nhà_nước về việc sửa_đổi , bổ_sung một_số điều của <TT rel="None"> Thông_tư số 23/2010/TT-NHNN ngày 09/11/2010 </TT> của Thống_đốc Ngân_hàng Nhà_nước quy_định về việc quản_lý , vận_hành và sử_dụng Hệ_thống Thanh_toán điện_tử liên ngân_hàng ;
+
+- Điều 6 <TT rel="None"> Thông_tư số 23/2011/TT-NHNN ngày 31/8/2011 </TT> của Thống_đốc Ngân_hàng Nhà_nước về việc thực_thi phương_án đơn_giản_hoá thủ_tục hành_chính lĩnh_vực hoạt_động thanh_toán và các lĩnh_vực khác theo Nghị_quyết của Chính_phủ về đơn_giản_hoá thủ_tục hành_chính thuộc phạm_vi chức_năng quản_lý .
+
+Điều 53 . Tổ_chức thực_hiện
+
+Chánh Văn_phòng , Thủ_trưởng các đơn_vị thuộc Ngân_hàng Nhà_nước , Giám_đốc Ngân_hàng Nhà_nước chi_nhánh tỉnh , thành_phố trực_thuộc Trung_ương , Tổng_giám_đốc ( Giám_đốc ) các thành_viên chịu trách_nhiệm tổ_chức thực_hiện Thông_tư này .
+
+Mẫu_số Ttlnh - 01
+
+Đề_nghị Tham_gia Hệ_thống_ttlnh
+
+Kính gửi : Ngân_hàng Nhà_nước Việt_nam
+
+Mã đơn_vị ( 1 ) : Tên đơn_vị : Địa_chỉ :
+
+Điện_thoại : Fax : Email :
+
+Số tài_khoản thanh_toán Việt_nam đồng ( vnd ) mở tại Sgd Nhn :
+
+Số tài_khoản thanh_toán Đô_la Mỹ ( usd ) mở tại Sgd Nhn :
+
+Số tài_khoản thanh_toán Đồng_tiền chung Châu_âu ( eur ) mở tại Sgd Nhn :
+
+Số tài_khoản thanh_toán Ngoại_tệ khác ( Ghi rõ loại đồng_tiền ) mở tại Sgd Nhn :
+
+Đề_nghị được tham_gia Hệ_thống thanh_toán điện_tử liên ngân_hàng với cam_kết tuân_thủ các Quy_trình kĩ_thuật nghiệp_vụ , Quy_tắc vận_hành , chia_sẻ khoản vay trong quyết_toán bù_trừ giá_trị thấp ( khi tham_gia dịch_vụ gửi Lệnh thanh_toán giá_trị thấp ) và các Quy_định liên_quan khác của Hệ_thống thanh_toán điện_tử liên Ngân_hàng .
+
+Dưới đây chúng_tôi đăng_kí dịch_vụ thanh_toán và Kênh truyền_thông_sử_dụng :
+
+1 - Đăng_kí các dịch_vụ thanh_toán ( đánh_dấu X vào ô tương_ứng )
+
+2 - Đăng_kí kênh truyền_thông ( đánh_dấu X vào ô tương_ứng )
+
+Chú_thích :
+
+- ( 1 ) Theo <TT rel="None"> Thông_tư số 17/2015/TT-NHNN ngày 21/10/2015 </TT> của Thống_đốc Nhn .
+
+- ( 2 ) Kèm theo Văn_bản đề_nghị về việc cầm_cố , kí_quỹ giấy_tờ có_giá hoặc kí_quỹ bằng tiền để thiết_lập hạn_mức nợ ròng trong thanh_toán điện_tử liên ngân_hàng có xác_nhận của Sở Giao_dịch Ngân_hàng Nhà_nước .
+
+- ( 3 ) Kèm theo Hợp_đồng uỷ_quyền hoặc văn_bản thoả_thuận trước về việc thanh_toán Nợ loại tiền_tệ tương_ứng giữa các thành_viên .
+
+Mẫu_số Ttlnh - 02
+
+Đề_nghị Rút Khỏi Hệ_thống_ttlnh
+
+Kính gửi : Ngân_hàng Nhà_nước Việt_nam
+
+Mã đơn_vị ( 1 ) Tên đơn_vị :
+
+Địa_chỉ :
+
+Điện_thoại : Fax : Email :
+
+Số tài_khoản thanh_toán ( Việt_nam đồng ) mở tại Nhn :
+
+Số tài_khoản thanh_toán Đô_la_mỹ ( usd ) mở tại Nhn :
+
+Số tài_khoản thanh_toán Euro ( eur ) mở tại Nhn :
+
+Số tài_khoản thanh_toán Ngoại_tệ khác ( Ghi rõ loại đồng_tiền ) mở tại Sgd Nhn :
+
+Đề_nghị được rút khỏi Hệ_thống thanh_toán điện_tử liên ngân_hàng .
+
+Lý_do : .
+
+Danh_sách các đơn_vị đề_nghị rút khỏi Hệ_thống Ttlnh
+
+Ngày dự_kiến rút khỏi hệ_thống :
+
+Đề_nghị Quý cơ_quan xem_xét , chấp_thuận .
+
+Chú_thích :
+
+- ( 1 ) ; Theo <TT rel="None"> Thông_tư số 17/2015/TT-NHNN ngày 21/10/2015 </TT> của Thống_đốc Nhn .
+
+- ( 2 ) : Ghi rõ loại thành_viên đang tham_gia hệ_thống Ttlnh .
+
+- ( 3 ) : Đánh_dấu X khi Đơn_vị thành_viên có yêu_cầu chuyển sang Thành_viên gián_tiếp .
+
+- ( 4 ) : Đánh_dấu X Khi Thành_viên , Đơn_vị thành_viên , Thành_viên gián_tiếp rút hoàn_toàn khỏi Hệ_thống Ttlnh .
+
+Mẫu_số Ttlnh - 03
+
+Đề_nghị Tham_gia Đơn_vị Thành_viên Hoặc Thành_viên Gián_tiếp Tham_gia Hệ_thống_ttlnh
+
+Kính gửi : Ngân_hàng Nhà_nước Việt_nam
+
+Đề_nghị đăng_kí các đơn_vị thành_viên , thành_viên gián_tiếp và sử_dụng dịch_vụ Hệ_thống Ttlnh như sau :
+
+1 - Đăng_kí đơn_vị thành_viên
+
+2 - Đăng_kí thành_viên gián_tiếp
+
+Chú_thích :
+
+( 1 ) Theo <TT rel="None"> Thông_tư số 17/2015/TT-NHNN ngày 21/10/2015 </TT> của Thống_đốc Nhn .
+
+( 2 ) Kèm theo Hợp_đồng uỷ_quyền hoặc văn_bản thoả_thuận trước về việc thanh_toán Nợ loại tiền_tệ tương_ứng giữa các thành_viên .
+
+Lệnh Chuyển Nợ / có
+
+Loại đồng_tiền :
+
+Loại giao_dịch : Ngày giao_dịch :
+
+Số_hiệu giao_dịch : Ngày , giờ gửi ( nhận ) :
+
+Ngân_hàng gửi : Mã_nh : Tk Nợ :
+
+Ngân_hàng nhận : Mã_nh : Tk Có :
+
+Ngân_hàng chịu phí :
+
+Người phát lệnh :
+
+Địa_chỉ :
+
+Số CMND / Hộ_chiếu / Căn_cước / Mã_số Dn : Ngày cấp : . / . / . . Nơi cấp :
+
+Tài_khoản : Tại Nh :
+
+Người nhận lệnh :
+
+Địa_chỉ :
+
+Số CMND / Hộ_chiếu / Căn_cước : Ngày cấp : . / . / . . Nơi cấp :
+
+Tài_khoản : Tại Nh :
+
+Chương , loại , khoản , mục :
+
+Nội_dung :
+
+Số tiền bằng số :
+
+Số tiền bằng chữ :
+
+Lệnh Huỷ Lệnh Thanh_toán
+
+Loại đồng_tiền :
+
+Số giao_dịch : Ngày giao_dịch : Ngày , giờ lập :
+
+Ngân_hàng gửi :
+
+Ngân_hàng nhận :
+
+Người phát lệnh :
+
+Địa_chỉ :
+
+Tài_khoản :
+
+Tại ngân_hàng ;
+
+Người nhận lệnh :
+
+Địa_chỉ :
+
+Tài_khoản :
+
+Tại ngân_hàng :
+
+Số tiền bằng số :
+
+Số tiền bằng chữ ;
+
+Kết_quả huỷ :
+
+Lý_do huỷ :
+
+Chú_thích : Lệnh huỷ Lệnh thanh_toán chỉ sử_dụng đối_với các chuyển tiền đang trong hàng đợi của Trung_tâm Xử_lí Quốc_gia
+
+Yêu_cầu Hoàn_trả Lệnh Thanh_toán
+
+Loại đồng_tiền :
+
+Số giao_dịch : Ngày , giờ lập :
+
+Ngân_hàng gửi lệnh :
+
+Lý_do
+
+Các thông_tin của giao_dịch gốc
+
+Số_hiệu giao_dịch : Ngày giao_dịch : Ngày , giờ lập :
+
+Ngân_hàng gửi :
+
+Ngân_hàng nhận :
+
+Người phát lệnh :
+
+Địa_chỉ :
+
+Tài_khoản :
+
+Tại ngân_hàng ;
+
+Người nhận lệnh :
+
+Địa_chỉ :
+
+Tài_khoản :
+
+Tại ngân_hàng :
+
+Số tiền bằng số :
+
+Số tiền bằng chữ ;
+
+Thông_báo Từ_chối Yêu_cầu Hoàn_trả Lệnh Thanh_toán
+
+Loại đồng_tiền : .
+
+Số_hiệu giao_dịch : Ngày , giờ lập :
+
+Ngân_hàng gửi lệnh :
+
+Lý_do
+
+Các thông_tin của giao_dịch gốc
+
+Số_hiệu giao_dịch : Ngày giao_dịch : Ngày , giờ lập :
+
+Ngân_hàng gửi :
+
+Ngân_hàng nhận :
+
+Người phát lệnh :
+
+Địa_chỉ :
+
+Tài_khoản :
+
+Tại ngân_hàng :
+
+Người nhận lệnh :
+
+Địa_chỉ :
+
+Tài_khoản :
+
+Tại ngân_hàng :
+
+Số tiền bằng số :
+
+Số tiền bằng chữ :
+
+Điện_tra_soát
+
+Loại đồng_tiền :
+
+Số điện tra soát : Ngày , giờ lập :
+
+Ngân_hàng gửi lệnh :
+
+Số giao_dịch : Ngày giao_dịch : Số tiền :
+
+Ngân_hàng gửi :
+
+Ngân_hàng nhận :
+
+Nội_dung , yêu_cầu tra soát
+
+Điện Trả_lời Tra_soát
+
+Loại đồng_tiền :
+
+Số điện trả_lời : Ngày , giờ lập :
+
+Ngân_hàng gửi lệnh :
+
+Số giao_dịch : Ngày giao_dịch : Loại tiền Số tiền :
+
+Ngân_hàng gửi :
+
+Ngân_hàng nhận :
+
+Nội_dung yêu_cầu tra soát
+
+Nội_dung trả_lời
+
+Tổng_hợp Giao_dịch Đơn_vị Thành_viên
+
+Loại đồng_tiền : .
+
+Ngày giao_dịch : / . . / . .
+
+Dịch_vụ :
+
+Ngân_hàng :
+
+Trang :
+
+Chú_thích :
+
+- Lập theo từng loại dịch_vụ và tổng_hợp .
+
+- Lập cho từng đơn_vị thành_viên
+
+- Cho biết giao_dịch đi và đến của Đvtv này với từng Đvtv khác
+
+- Cộng_tổng của từng hệ_thống và toàn bảng .
+
+Tổng_hợp Giao_dịch Thành_viên
+
+Loại đồng_tiền : .
+
+Ngày giao_dịch : . . / . / . .
+
+Dịch_vụ :
+
+Ngân_hàng :
+
+Số_hiệu tài_khoản : Trang :
+
+Chú_thích :
+
+- Lập cho từng hệ_thống thành_viên
+
+- Lập theo từng loại dịch_vụ và tổng_hợp
+
+- Lập cho nội_tỉnh - liên tỉnh và toàn_quốc
+
+- Mỗi dòng là dòng tổng_cộng của mẫu_số Ttlnh - 10
+
+Bảng Cân_đối_chuyển Tiền
+
+Loại đồng_tiền :
+
+Ngày giao_dịch : . . / / .
+
+Dịch_vụ : Trang :
+
+Chú_thích :
+
+- Lập cho toàn_bộ Hệ_thống Ttlnh
+
+- Lập theo từng loại dịch_vụ và tổng_hợp
+
+- Lập cho nội_tỉnh - liên tỉnh và toàn_quốc
+
+- Mỗi dòng là dòng tổng_toàn bảng của mẫu_số Ttlnh - 11
+
+Bảng Kết_quả Hạch_toán
+
+Loại đồng_tiền : . .
+
+Ngày giao_dịch : / /
+
+Dịch_vụ : Trang :
+
+Chú_thích :
+
+- Lập cho toàn_bộ Hệ_thống Ttlnh
+
+- Lập theo từng loại dịch_vụ và tổng_hợp
+
+- Lập cho nội_tỉnh - liên tỉnh và toàn_quốc
+
+- Mỗi dòng tương_ứng dòng ( 2 cột cuối ) trên mẫu_số Ttlnh - 12
+
+Bảng Tổng_hợp Kết_quả_thực_hóa
+
+Ngày giao_dịch :
+
+Lần thực_hoá : giờ thực_hoá : Trang :
+
+Chú_thích :
+
+- Kết_quả của từng lần thực_hoá .
+
+- Mỗi dòng là Ciho hoặc chi_nhánh Nhn
+
+Bảng Tổng_hợp Kết_quả Hạch_toán
+
+Loại đồng_tiền :
+
+Ngày giao_dịch : . . / . . /
+
+Dịch_vụ :
+
+Ngân_hàng :
+
+Số_hiệu tài_khoản : Trang :
+
+Chú_thích :
+
+- Lập cho từng hệ_thống
+
+- Mỗi dòng là kết_quả hạch_toán của đơn_vị thành_viên trong hệ_thống
+
+Báo_cáo Chuyển Tiền Đi
+
+Loại đồng_tiền : . .
+
+Ngày giao_dịch : / . . . . / . .
+
+Mã Ngân_hàng : Tên :
+
+Chú_thích :
+
+- Cột 1 : Số thứ_tự
+
+- Cột 2 : Số giao_dịch trong ngày
+
+- Cột 3 : Các dịch_vụ phát_sinh ( theo luồng giá_trị cao hoặc thấp )
+
+- Cột 4 : Lệnh chuyển nợ
+
+- Cột 5 : Lệnh Chuyển có
+
+- Dòng cuối : Tổng_cộng phát_sinh
+
+- Cộng theo tổng của đơn_vị thành_viên
+
+- Các lệnh sắp_xếp theo thứ tự số giao_dịch tăng dần
+
+- Biểu lập theo giá_trị cao , giá_trị thấp và tổng_hợp
+
+- Đối_với thành_viên có_thể in lại báo_cáo các đơn_vị thành_viên trong cùng hệ_thống để kiểm_tra từ dữ_liệu của thành_viên nhận từ Trung_tâm Xử_lí Quốc_gia
+
+Báo_cáo Chuyển Tiền Đến
+
+Loại đồng_tiền :
+
+Ngày giao_dịch : / / .
+
+Mã Ngân_hàng : Tên :
+
+Chú_thích :
+
+- Cột 1 : Số thứ_tự
+
+- Cột 2 : Số giao_dịch trong ngày
+
+- Cột 3 : Các dịch_vụ phát_sinh ( theo luồng giá_trị cao hoặc thấp )
+
+- Cột 4 : Lệnh chuyển có
+
+- Cột 5 : Lệnh chuyển nợ
+
+- Dòng cuối : Tổng_cộng phát_sinh
+
+- Cộng theo tổng của đơn_vị thành_viên
+
+- Các lệnh sắp_xếp theo thứ tự số giao_dịch tăng dần
+
+- Biểu lập theo giá_trị cao , giá_trị thấp và tổng_hợp
+
+- Đối_với thành_viên có_thể in lại báo_cáo các đơn_vị thành_viên trong cùng hệ_thống để kiểm_tra từ dữ_liệu của thành_viên nhận từ Trung_tâm xử_lí Quốc_gia
+
+Đối_chiếu Chuyển Tiền Đi
+
+Loại đồng_tiền :
+
+Ngày giao_dịch : . / . / .
+
+Mã Ngân_hàng : Tên :
+
+Phần 1 : Số_liệu đối_chiếu nhận được .
+
+Phần 2 : Tổng_hợp Kết_quả đối_chiếu .
+
+Đối_chiếu Chuyển Tiền Đến
+
+Loại đồng_tiền : .
+
+Ngày giao_dịch : . / /
+
+Mã Ngân_hàng : Tên :
+
+Phần 1 : Số_liệu đối_chiếu nhận được .
+
+Phần 2 : Tổng_hợp Kết_quả đối_chiếu .
+
+Bảng Kết_quả Thanh_toán Của Đơn_vị Thành_viên
+
+Loại đồng_tiền : .
+
+Ngày giao_dịch : . / . . / . .
+
+Ngân_hàng : Tên :
+
+Chênh_lệch phải thu ( trả ) : x ( 8 )
+
+Số tiền bằng chữ :
+
+Chú_thích :
+
+- Cột 4 : Tổng_cộng lệnh chuyển nợ đi và lệnh chuyển có đến
+
+- Cột 5 : Tổng_cộng lệnh chuyển có đi và lệnh chuyển nợ đến
+
+- Cột 6 : Cột 4 - cột 5 ( nếu cột 4 > cột 5 )
+
+- Cột 7 : Cột 5 - cột 4 ( nếu cột 4 < cột 5 )
+
+- Cột 8 : Phải trả nếu cột 7 > cột 6 , phải thu nếu cột 6 > cột 7
+
+- Số_liệu được lập từ số_liệu đối_chiếu nhận được từ Trung_tâm Xử_lí Quốc_gia sau khi đã đối_chiếu cân .
+
+- Sắp_xếp theo từng Ngân_hàng đối_phương là đơn_vị thành_viên
+
+- Lập cho giá_trị thấp , giá_trị cao và tổng_hợp
+
+- Đối_với thành_viên có_thể in lại báo_cáo các đơn_vị thành_viên trong cùng hệ_thống để kiểm_tra từ dữ_liệu của thành_viên nhận từ Trung_tâm Xử_lí Quốc_gia .
+
+Bảng Kết_quả Thanh_toán Của Thành_viên
+
+Loại đồng_tiền :
+
+Ngày giao_dịch : . . . . . . . / . / . . .
+
+Ngân_hàng ( Hội_sở chính ) : Tên :
+
+Chênh_lệch phải thu ( trả ) : x ( 8 )
+
+Số tiền bằng chữ :
+
+Chú_thích :
+
+- Cột 4 : Tổng_toàn bảng trên cột 4 - mẫu_số Ttlnh - 20
+
+- Cột 5 : Tổng_toàn bảng trên cột 5 - mẫu_số Ttlnh - 20
+
+- Cột 6 : Cột 4 - cột 5 ( nếu cột 4 > cột 5 )
+
+- Cột 7 : Cột 5 - cột 4 ( nếu cột 4 < cột 5 )
+
+- Cột 8 : Phải trả nếu cột 7 > cột 6 , phải thu nếu cột 6 > cột 7
+
+- Số_liệu được lập từ số thành_viên nhận được từ Trung_tâm xử_lí Quốc_gia
+
+- Lập theo từng đơn_vị thành_viên trong cùng hệ_thống
+
+- Lập cho giá_trị thấp , giá_trị cao và tổng_hợp
+
+Mẫu_số Ttlnh - 22
+
+Biên_bản Sự_cố Kỹ_thuật Trong Hệ_thống_ttlnh
+
+Chúng_tôi gồm có :
+
+1 / Ông ( bà ) : . chức_vụ : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2 / Ông ( bà ) : . chức_vụ : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3 / Ông ( bà ) : . chức_vụ : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Nhất_trí xác_định sự_cố kĩ_thuật trong Hệ_thống Ttlnh sau đây :
+
+- Sự_cố kĩ_thuật : . . ( mô_tả sự_cố ) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- Thời_điểm xẩy ra sự_cố : giờ . . phút , ngày . . / / . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+- Nguyên_nhân : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Hậu_quả của sự_cố kĩ_thuật : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Phương_án xử_lí_sự_cố kĩ_thuật : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Mẫu_số Ttlnh - 23
+
+Biên_bản Chuyển Tiền ( thừa / thiếu )
+
+Chúng_tôi gồm có :
+
+1 / Ông ( bà ) : . chức_vụ : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+2 / Ông ( bà ) : . chức_vụ : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+3 / Ông ( bà ) : . chức_vụ : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Nhất_trí xác_định tình_trạng , nguyên_nhân và trách_nhiệm trong việc chuyển tiền . . ( thừa / thiếu ) dưới đây :
+
+Lệnh thanh_toán ( Nợ / Có ) số : Ngày lập lệnh : . . . / . . /
+
+Người phát lệnh : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Địa_chỉ / số Cmnd : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Tài_khoản : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Tại Ngân_hàng Mã_nh : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Người nhân lệnh : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Địa_chỉ / số Cmnd : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Tài_khoản : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Tại Ngân_hàng : Mã_nh : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Số tiền : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Đã chuyển : . . . . ( thừa / thiếu ) . là đ ( bằng chữ : . . . . . . . . . . . . . . . . . . . . . . . . .
+
+)
+
+Nguyên_nhân sai_sót : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Người chịu trách_nhiệm : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Đề_nghị quý Ngân_hàng : . căn_cứ Biên_bản này để : . ( thu_hồi ngay hoặc xử_lí trả tiếp cho khách_hàng ) . số tiền đã chuyển : . . ( thừa / thiếu ) . nói trên .
+
+Mẫu_số Ttlnh - 24
+
+Bảng Kê Tổng_hợp Thanh_toán Liên Ngân_hàng Giá_trị_cao
+
+Lệnh chuyển Đi / Đến - Nợ / Có
+
+Ngày :
+
+Kính gửi : < Tên ngân_hàng >
+
+Mã ngân_hàng : Tài_khoản :
+
+Chú_thích :
+
+- Lập riêng từng bảng cho lệnh chuyển Đi - Nợ , Đi - Có , Đến - Nợ , Đến - Có
+
+- Đối_với lệnh chuyển đi
+
++ < Tên ngân_hàng > : là ngân_hàng gửi lệnh
+
++ Cột 2 : Ngân_hàng_đầu_mối nhận lệnh
+
+- Đối_với lệnh chuyển đến
+
++ < Tên ngân_hàng > : là ngân_hàng y_lệnh
+
++ Cột 2 : Ngân_hàng_đầu_mối gửi lệnh
+
+Mẫu_số Ttlnh - 25
+
+Báo_cáo Ngân_hàng Thiếu Vốn Giá_trị_thấp
+
+Thời_điểm bù_trừ :
+
+Mã ngân_hàng :
+
+Tên ngân_hàng :
+
+Số tiền thiếu : đồng .
+
+( Bằng chữ : . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . )
+
+Mẫu_số Ttlnh - 26
+
+Đề_nghị Đăng_ký Bổ_sung Sử_dụng Dịch_vụ Hệ_thống_ttlnh
+
+Kính gửi : Ngân_hàng Nhà_nước Việt_nam
+
+Mã đơn_vị ( 1 ) : Tên đơn_vị : Địa_chỉ :
+
+Điện_thoại : Fax : Email :
+
+Số tài_khoản thanh_toán Việt_nam đồng ( vnd ) mở tại Sgd Nhn :
+
+Số tài_khoản thanh_toán Đô_la Mỹ ( usd ) mở tại Sgd Nhn :
+
+Số tài_khoản thanh_toán Đồng_tiền chung Châu_âu ( eur ) mở tại Sgd Nhn :
+
+Số tài_khoản thanh_toán Ngoại_tệ khác ( ghi rõ loại đồng_tiền ) mở tại Sgd Nhn :
+
+Đề_nghị được được đăng_kí bổ_sung sử_dụng dịch_vụ Hệ_thống Ttlnh cho các đơn_vị dưới đây với cam_kết tuân_thủ các Quy_trình kĩ_thuật nghiệp_vụ , Quy_tắc vận_hành , chia_sẻ khoản vay trong quyết_toán bù_trừ giá_trị thấp ( khi tham_gia dịch_vụ gửi Lệnh thanh_toán giá_trị thấp ) và các Quy_định liên_quan khác của Hệ_thống thanh_toán điện_tử liên Ngân_hàng .
+
+1 . < Tên đơn_vị > , < mã ngân_hàng ( 1 ) >
+
+Đăng_kí các dịch_vụ thanh_toán ( đánh_dấu X vào ô tương_ứng )
+
+2 . < Tên đơn_vị > , < mã ngân_hàng ( 1 ) >
+
+Đề_nghị Quý cơ_quan xem_xét , chấp_thuận .
+
+Chú_thích :
+
+- ( 1 ) Theo <TT rel="None"> Thông_tư số 17/2015/TT-NHNN ngày 21/10/2015 </TT> của Thống_đốc Nhn .
+
+- ( 2 ) Kèm theo Văn_bản đề_nghị về việc cầm_cố , kí_quỹ giấy_tờ có_giá hoặc kí_quỹ bằng tiền để thiết_lập hạn hạn_mức nợ ròng trong thanh_toán điện_tử liên ngân_hàng có xác_nhận của Sở Giao_dịch Ngân_hàng Nhà_nước ,
+
+- ( 3 ) Kèm theo Hợp_đồng uỷ_quyền hoặc văn_bản thoả_thuận trước về việc thanh_toán Nợ loại tiền_tệ tương_ứng giữa các thành_viên .
+
+Mẫu_số Ttlnh - 27
+
+Đề_nghị Ngừng Dịch_vụ Gửi Lệnh Thanh_toán
+
+Kính gửi : Ngân_hàng Nhà_nước Việt_nam
+
+Căn_cứ vào nhu_cầu sử_dụng thực_tế hệ_thống Ttlnh < Tên đơn_vị > đề_nghị Ngân_hàng Nhà_nước Việt_nam ngừng dịch_vụ gửi lệnh thanh_toán trong Hệ_thống Ttlnh cho các đơn_vị cụ_thể như sau :
+
+1 . < Tên đơn_vị > , < mã ngân_hàng ( 1 ) >
+
+a ) Danh_sách các dịch_vụ ngừng sử_dụng :
+
+b ) Danh_sách các đơn_vị ngừng uỷ_quyền ( trong trường_hợp ngừng dịch_vụ gửi Lệnh thanh_toán nợ )
+
+2 . < Tên đơn_vị > , < mã ngân_hàng ( 1 ) >
+
+Đề_nghị Quý cơ_quan xem_xét , chấp_thuận .
+
+Chú_thích :
+
+- ( 1 ) Theo <TT rel="None"> Thông_tư số 17/2015/TT-NHNN ngày 21/10/2015 </TT> của Thống_đốc Nhn
+
+Mẫu_số Ttlnh - 28
+
+Giấy Nhận Nợ Vay Bù_trừ Giá_trị_thấp
+
+Kính gửi : Sở Giao_dịch Nhn .
+
+Căn_cứ vào Báo_cáo ngân_hàng thiếu vốn giá_trị thấp ngày . . . tháng . . . . năm . của Sở Giao_dịch Nhn .
+
+< Tổ_chức tín_dụng > nhận nợ vay bù_trừ giá_trị thấp :
+
+Số tiền . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . đồng
+
+Bằng chữ :
+
+Lãi_suất . % năm .
+
+< Tổ_chức tín_dụng > cam_kết trả nợ ( cả gốc lẫn lãi ) theo đúng quy_định của Nhn .
+
+Mẫu_số Ttlnh - 29
+
+Đề_nghị Kết_nối Đến Hệ_thống_ttlnh
+
+Kính gửi : Ngân_hàng Nhà_nước Việt_nam
+
+Mã đơn_vị ( 1 ) : Tên đơn_vị : Địa_chỉ :
+
+Điện_thoại : Fax : Email :
+
+Đề_nghị kết_nối đến Hệ_thống thanh_toán điện_tử liên ngân_hàng với cam_kết tuân_thủ đầy_đủ các Quy_định của Ngân_hàng Nhà_nước về việc quản_lý , vận_hành và sử_dụng Hệ_thống Thanh_toán điện_tử liên ngân_hàng quốc g .
+
+Dưới đây chúng_tôi đăng_kí dịch_vụ thanh_toán và Kênh truyền_thông_sử_dụng :
+
+1 - Đăng_kí các dịch_vụ thanh_toán ( đánh_dấu X vào ô tương_ứng )
+
+2 - Đăng_kí kênh truyền_thông ( đánh_dấu X vào ô tương_ứng )
+
+Chú_thích :
+
+- ( 1 ) Theo <TT rel="None"> Thông_tư số 17/2015/TT-NHNN ngày 21/10/2015 </TT> của Thống_đốc Nhn
+
+- ( 2 ) Kèm theo Văn_bản thoả_thuận cam_kết trước giữa đơn_vị chủ_trì hệ_thống thanh_toán bù_trừ và các thành_viên Hệ_thống Ttlnh về việc thực_hiện nghĩa_vụ quyết_toán bù_trừ .

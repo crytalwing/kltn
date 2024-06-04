@@ -1,0 +1,433 @@
+Thông_tư số 19/2019/tt-btnmt ngày 08 tháng 11 năm 2019 của bộ tài_nguyên và môi_trường
+
+Căn_cứ Luật Đo_đạc và bản_đồ ngày 14 tháng 6 năm 2018 ;
+
+Căn_cứ Nghị_định số 27/2019/NĐ-CP ngày 13 tháng 3 năm 2019 của Chính_phủ quy_định chi_tiết một_số điều của Luật Đo_đạc và bản_đồ ;
+
+Căn_cứ Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Cục_trưởng Cục Đo_đạc , Bản_đồ và Thông_tin địa_lí Việt_nam , Vụ_trưởng Vụ Pháp_chế và Vụ_trưởng Vụ Khoa_học và Công_nghệ ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư quy_định kĩ_thuật về nội_dung và kí_hiệu bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về nội_dung và kí_hiệu của bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với các cơ_quan , tổ_chức , cá_nhân có liên_quan đến thành_lập , lưu_trữ , quản_lý , cung_cấp bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 là bản_đồ thể_hiện đặc_trưng địa_hình , địa_vật , biên_giới , địa_giới và địa_danh trên đất_liền , đảo , quần_đảo được xây_dựng theo tiêu_chuẩn , quy_chuẩn kĩ_thuật quốc_gia ở tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 trong hệ toạ_độ quốc_gia và hệ độ cao quốc_gia để sử_dụng thống_nhất trong cả nước .
+
+2 . Ký_hiệu theo tỉ_lệ là kí_hiệu có kích_thước tỉ_lệ với kích_thước thực của đối_tượng địa_lý .
+
+3 . Ký_hiệu nửa theo tỉ_lệ là kí_hiệu có kích_thước một chiều tỉ_lệ với kích_thước thực của đối_tượng địa_lý , kích_thước chiều kia biểu_thị quy_ước .
+
+4 . Ký_hiệu không theo tỉ_lệ là kí_hiệu có dạng hình_học tượng_trưng cho đối_tượng địa_lí và kích_thước quy_ước , không theo kích_thước thực của đối_tượng địa_lý .
+
+5 . Điểm toạ_độ quốc_gia là điểm đo_đạc quốc_gia có giá_trị toạ_độ không_gian được thiết_lập theo tiêu_chuẩn , quy_chuẩn kĩ_thuật quốc_gia .
+
+6 . Điểm độ cao quốc_gia là điểm đo_đạc quốc_gia có giá_trị độ cao được thiết_lập theo tiêu_chuẩn , quy_chuẩn kĩ_thuật quốc_gia .
+
+7 . Điểm toạ_độ , độ cao quốc_gia là điểm đo_đạc quốc_gia có giá_trị toạ_độ không_gian và có giá_trị độ cao được thiết_lập theo tiêu_chuẩn , quy_chuẩn kĩ_thuật quốc_gia .
+
+8 . Điểm trọng_lực quốc_gia là điểm đo_đạc quốc_gia có giá_trị gia_tốc_lực trọng_trường được thiết_lập theo tiêu_chuẩn , quy_chuẩn kĩ_thuật quốc_gia .
+
+Điều 4 . Cơ_sở toán_học
+
+1 . Bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 được thành_lập trong hệ quy chiếu và hệ toạ_độ quốc_gia Vn - 2000 , hệ độ cao quốc_gia .
+
+2 . Bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 được thành_lập trong phép chiếu hình_trụ ngang đồng góc với múi chiếu 3 có hệ_số điều_chỉnh tỉ_lệ biến_dạng chiều dài k0 = 0 , 9999 .
+
+3 . Số_hiệu múi , kinh_tuyến trục và kinh_tuyến biên từng múi như tại Bảng 1 dưới đây :
+
+Bảng 1
+
+4 . Chia mảnh và phiên_hiệu mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 theo quy_định tại Thông_tư số 973/2001/TT-TCĐC ngày 20 tháng 6 năm 2001 của Tổng_cục Địa_chính ( nay là Bộ Tài_nguyên và Môi_trường ) Hướng_dẫn áp_dụng hệ quy chiếu và hệ toạ_độ quốc_gia Vn - 2000 cụ_thể như sau :
+
+a ) Chia mảnh và đặt phiên_hiệu mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 5 . 000 Mỗi mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 100 . 000 được chia thành 256 mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 5 . 000 , mỗi mảnh có kích_thước 1 52 , 5 X1 52 , 5 , kí_hiệu bằng số từ 1 đến 256 theo thứ_tự từ trái sang phải , từ trên xuống dưới .
+
+Phiên_hiệu mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 5 . 000 gồm phiên_hiệu mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 100 . 000 chứa mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 5 . 000 đó , gạch_nối và sau đó là kí_hiệu mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 5 . 000 trong mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 100 . 000 đặt trong ngoặc_đơn .
+
+Ví_dụ mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 5 . 000 có phiên_hiệu F - 48 - 68 - ( 256 ) . b ) Chia mảnh và đặt phiên_hiệu mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000
+
+Mỗi mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 5 . 000 được chia thành 9 mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , mỗi mảnh có kích_thước 37 , 5 X37 , 5 , kí_hiệu bằng chữ La - Tinh_a , b , c , d , e , f , g , h , k ( bỏ_qua i , j để tránh nhầm_lẫn với 1 ) theo thứ_tự từ trái sang phải , từ trên xuống dưới .
+
+Phiên_hiệu mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 gồm phiên_hiệu mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 5 . 000 chứa mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 đó , gạch_nối và sau đó là kí_hiệu mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 trong mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 5 . 000 , đặt trong ngoặc_đơn cả kí_hiệu của mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 5 . 000 và mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 .
+
+Ví_dụ mảnh bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 có phiên_hiệu F - 48 - 68 - ( 256 - k ) .
+
+Điều 5 . Độ chính_xác của bản_đồ
+
+1 . Sai_số trung phương về mặt_phẳng của các đối_tượng địa_lí biểu_thị trên bản_đồ địa_hình quốc_gia theo tỉ_lệ bản_đồ thành_lập không được vượt quá các giá_trị dưới đây :
+
+a ) 0 , 5 mm trên bản_đồ đối_với vùng đồng_bằng , vùng đồi , núi thấp ;
+
+b ) 0 , 7 mm trên bản_đồ đối_với vùng núi cao và vùng ẩn khuất .
+
+2 . Sai_số trung phương về độ cao của các đối_tượng địa_lí biểu_thị trên bản_đồ địa_hình quốc_gia không được vượt quá các giá_trị quy_định ở Bảng 2 dưới đây :
+
+Bảng 2
+
+Đối_với khu_vực ẩn khuất và đặc_biệt khó_khăn các sai_số trên được phép tăng lên 1 , 5 lần .
+
+3 . Sai_số giới_hạn về mặt_phẳng và độ cao của các đối_tượng địa_lí bằng 2 , 5 lần sai_số quy_định tại khoản 1 và 2 Điều này . Khi kiểm_tra , sai_số lớn nhất không vượt quá sai_số giới_hạn . Số_lượng các trường_hợp có sai_số lớn hơn 2 , 0 lần sai_số quy_định tại khoản 1 và 2 Điều này không vượt quá 5 % tổng_số các trường_hợp kiểm_tra . Trong mọi trường_hợp các sai_số đều không được mang tính hệ_thống .
+
+Điều 6 . Định_dạng sản_phẩm
+
+Bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 gồm bản_đồ địa_hình quốc_gia định_dạng số và bản_đồ địa_hình quốc_gia in trên giấy . Bản_đồ địa_hình quốc_gia định_dạng số có một trong các định_dạng GeoPDF , Pdf , GeoTIFF , Tiff , Eps , Ecw , Jpeg và kèm theo tệp siêu dữ_liệu .
+
+Chương_ii
+
+Nội_dung Và Ký_hiệu
+
+Điều 7 . Nội_dung bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000
+
+1 . Bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 được thành_lập từ cơ_sở dữ_liệu nền địa_lí quốc_gia , bao_gồm các nhóm lớp dữ_liệu sau :
+
+a ) Nhóm lớp cơ_sở toán_học ;
+
+b ) Nhóm lớp dữ_liệu địa_hình ;
+
+c ) Nhóm lớp dữ_liệu thuỷ_văn ;
+
+d ) Nhóm lớp dữ_liệu dân_cư ;
+
+đ ) Nhóm lớp dữ_liệu giao_thông ;
+
+e ) Nhóm lớp dữ_liệu biên_giới quốc_gia , địa_giới hành_chính ;
+
+g ) Nhóm lớp dữ_liệu phủ thực_vật .
+
+2 . Nội_dung bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 được thể_hiện bằng các kí_hiệu tương_ứng theo mẫu Ký_hiệu Bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 quy_định tại Điều 16 của Thông_tư này .
+
+3 . Độ chính_xác biểu_thị các yếu_tố nội_dung bản_đồ phải bảo_đảm các quy_định tại Điều 5 của Thông_tư này .
+
+Điều 8 . Quy_định chung về thể_hiện nội_dung bản_đồ
+
+1 . Nội_dung bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 được thể_hiện theo các quy_định sau :
+
+a ) Thể_hiện bằng kí_hiệu theo tỉ_lệ khi các đối_tượng địa_lí hình tuyến có chiều rộng đạt từ 1m trở lên đối_với tỉ_lệ 1 : 2 . 000 và 2 , 5 m trở lên đối_với tỉ_lệ 1 : 5 . 000 ; đối_với các đối_tượng địa_lí dạng vùng nguyên_tắc thể_hiện bằng kí_hiệu theo tỉ_lệ được quy_định chi_tiết theo từng nhóm dữ_liệu bản_đồ ;
+
+b ) Thể_hiện bằng kí_hiệu nửa theo tỉ_lệ khi các đối_tượng địa_lí hình tuyến có chiều rộng nhỏ hơn 1 m đối_với tỉ_lệ 1 : 2 . 000 và nhỏ hơn 2 , 5 m đối_với tỉ_lệ 1 : 5 . 000 ;
+
+c ) Thể_hiện bằng kí_hiệu không theo tỉ_lệ đối_với các đối_tượng địa_lí không vẽ được theo tỉ_lệ hoặc khi cần thêm kí_hiệu tượng_trưng đặt vào giữa kí_hiệu theo tỉ_lệ để làm tăng tính trực_quan của bản_đồ ;
+
+d ) Thể_hiện bằng ghi_chú thuyết_minh khi các đối_tượng địa_lí không có kí_hiệu tượng_trưng hoặc thuyết_minh các tính_chất của đối_tượng địa_lý .
+
+2 . Những yếu_tố nội_dung phải trình_bày song_song với khung nam bản_đồ :
+
+a ) Các kí_hiệu không theo tỉ_lệ trừ kí_hiệu nhà không theo tỉ_lệ và các kí_hiệu thể_hiện theo các đối_tượng địa_lí liên_quan ;
+
+b ) Tên gọi dân_cư , tên gọi đơn_vị hành_chính ;
+
+c ) Điểm độ cao , độ cao địa_vật , các ghi_chú đặc_trưng ;
+
+d ) Tên gọi của các địa_vật thuộc nhóm lớp dân_cư được thể_hiện bằng kí_hiệu phi tỉ_lệ và ghi_chú thuyết_minh ;
+
+đ ) Các kí_hiệu tượng_trưng cho phân_bố thực_vật , chất đất .
+
+3 . Các kí_hiệu và ghi_chú khác bố_trí theo hướng của địa_vật , đầu chữ và số quay lên phía trên ( trừ ghi_chú độ cao , độ sâu đường bình độ phải quay về phía cao hơn ) . Những ghi_chú không bố_trí theo hướng địa_vật được , có_thể bố_trí song_song với khung Nam bản_đồ .
+
+4 . Tất_cả các ghi_chú viết tắt phải theo đúng quy_định tại Phụ_lục 3 ban_hành kèm theo Thông_tư này .
+
+5 . Vị_trí tâm kí_hiệu quy_định như sau :
+
+a ) Ký_hiệu có dạng hình_học cơ_bản : tâm kí_hiệu là tâm của các hình cơ_bản đó ;
+
+b ) Ký_hiệu tượng_hình có đường đáy : tâm kí_hiệu là điểm giữa của đường đáy ;
+
+c ) Ký_hiệu có chân vuông_góc hoặc chấm tròn , vòng_tròn ở chân : tâm kí_hiệu là đỉnh góc_vuông ở chân hoặc tâm chấm tròn ở chân ;
+
+d ) Ký_hiệu rỗng chân : tâm kí_hiệu ở giữa hai chân ;
+
+đ ) Ký_hiệu hình tuyến : tâm kí_hiệu là trục giữa của kí_hiệu .
+
+6 . Khi sử_dụng kí_hiệu để biểu_thị_chính_xác vị_trí đối_tượng địa_lý , tâm của kí_hiệu phải đặt trùng với tâm của đối_tượng .
+
+7 . Khi nhiều đối_tượng địa_lí trùng nhau yêu_cầu thể_hiện chính_xác , đúng vị_trí những đối_tượng địa_lí có mức ưu_tiên cao hơn và đối_tượng địa_lí có ý_nghĩa phương vị cao hơn . Những đối_tượng địa_lí có mức ưu_tiên thấp hơn thể_hiện ngắt hoặc nhường nét . Quy_định mức ưu_tiên các đối_tượng địa_lí khi thể_hiện trên bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 cụ_thể như sau :
+
+a ) Đối_với các đối_tượng địa_lí độc_lập ưu_tiên thể_hiện theo thứ tự sau : điểm đo_đạc quốc_gia ; đối_tượng địa_lí có ý_nghĩa phương vị cao hơn , chất_liệu kiên_cố hơn ;
+
+b ) Đối_với các đối_tượng địa_lí hình tuyến ưu_tiên theo thứ tự sau : đường_sắt , đường_bộ từ đường_cao_tốc , quốc_lộ đến đường tỉnh , đường huyện , đường khác , đường bờ nước , ranh_giới sử_dụng đất , ranh_giới thực_vật ;
+
+c ) Trường_hợp đặc_biệt cho phép xê_dịch kí_hiệu 0 , 2 mm nhưng phải đảm_bảo tuân_thủ mức_độ ưu_tiên của các đối_tượng địa_lý .
+
+8 . Khi các kí_hiệu giao nhau , kí_hiệu có vị_trí không_gian ở trên thể_hiện đầy_đủ , kí_hiệu ở dưới ngắt để không giao_cắt kí_hiệu trên ( trừ các trường_hợp có kí_hiệu quy_định riêng ) .
+
+9 . Các kí_hiệu không theo tỉ_lệ có tâm nằm trong mảnh bản_đồ , phần thừa ra ngoài không quá 1/4 kí_hiệu được vẽ ra ngoài khung để thể_hiện hoàn_chỉnh . Nếu có tâm nằm sát mép khung trong thì phải thể_hiện trên cả hai mảnh bản_đồ kề nhau , nét khung dừng lại cách kí_hiệu 0 , 2 mm .
+
+10 . Nguyên_tắc thể_hiện tên gọi các đối_tượng địa_lí trên bản_đồ
+
+a ) Thể_hiện tên gọi theo tên đã có trong cơ_sở dữ_liệu địa_danh ;
+
+b ) Khi tên gọi chưa có hoặc có thay_đổi so với cơ_sở dữ_liệu địa_danh phải điều_tra , thu_thập và chuẩn_hoá theo quy_định tại Qcvn 37 : 2011 / btnmt Quy_chuẩn kĩ_thuật quốc_gia về chuẩn_hoá địa_danh phục_vụ công_tác thành_lập bản_đồ ;
+
+c ) Đối_với những khu_vực có mật_độ dày_đặc cho phép thu nhỏ cỡ chữ bằng 2/3 cỡ chữ quy_định trong kí_hiệu ;
+
+d ) Trường_hợp độ dung_nạp của bản_đồ không cho phép thể_hiện đầy_đủ tên gọi của các đối_tượng địa_lí được quy_định tại Điều 9 , Điều 10 , Điều 11 , Điều 12 , Điều 13 , Điều 14 , Điều 15 của Thông_tư này thì ưu_tiên thể_hiện tên gọi những đối_tượng lớn , có ý_nghĩa quan_trọng , nổi_tiếng hoặc có tính định_hướng ;
+
+đ ) Các đối_tượng địa_lí có diện phân_bố rộng thể_hiện tên gọi trong phạm_vi_phân_bố của đối_tượng địa_lí đó và có_thể lặp_lại với khoảng_cách thích_hợp , mĩ_quan ;
+
+e ) Các đối_tượng địa_lí dạng tuyến dài thể_hiện tên gọi lặp_lại với khoảng_cách từ 10 đến 15 cm ;
+
+g ) Các đối_tượng địa_lí nằm trên nhiều mảnh bản_đồ thì thể_hiện tên gọi trên tất_cả các mảnh khi độ dung_nạp nội_dung bản_đồ cho phép .
+
+Điều 9 . Quy_định nội_dung nhóm lớp cơ_sở toán_học
+
+1 . Nhóm lớp cơ_sở toán_học thể_hiện trên bản_đồ các nội_dung về hệ quy chiếu , phép chiếu bản_đồ , phiên_hiệu mảnh , tỉ_lệ bản_đồ , điểm đo_đạc quốc_gia trong phạm_vi mảnh bản_đồ , các nội_dung trình_bày ngoài khung bản_đồ cụ_thể như sau :
+
+a ) Lưới chiếu bản_đồ thể_hiện trên bản_đồ bằng lưới toạ_độ vuông_góc , toạ_độ địa_lí góc khung ;
+
+b ) Thể_hiện lưới toạ_độ vuông_góc với mật_độ 0 , 2 km x 0 , 2 km đối_với bản_đồ tỉ_lệ 1 : 2 . 000 và 0 , 5 km x 0 , 5 km đối_với bản_đồ tỉ_lệ 1 : 5 . 000 . Thể_hiện cả lưới toạ_độ vuông_góc của múi kề_cận nếu mảnh bản_đồ nằm ở biên của múi chiếu ;
+
+c ) Ghi_chú khung trong bao_gồm ghi_chú tên đơn_vị hành_chính cạnh khung và phiên_hiệu mảnh tiếp biên ;
+
+d ) Các yếu_tố trình_bày ngoài khung gồm : tên mảnh , phiên_hiệu mảnh , tên đơn_vị hành_chính cấp tỉnh và cấp huyện thuộc phạm_vi mảnh bản_đồ , bảng chắp , giải_thích kí_hiệu , tỉ_lệ bản_đồ , thước tỉ_lệ , thước độ dốc , ghi_chú khung nam ;
+
+đ ) Phần nội_dung ghi_chú khung nam ở góc Đông_nam dưới khung ngoài gồm tên chủ đầu_tư , phương_pháp thành_lập , năm thành_lập , đơn_vị thành_lập , thông_tin hệ toạ_độ , độ cao , kinh_tuyến trục . Đối_với bản_đồ in có thêm thông_tin về tổ_chức in và năm in bản_đồ ;
+
+e ) Các điểm toạ_độ quốc_gia , điểm độ cao quốc_gia , điểm toạ_độ , độ cao quốc_gia , điểm trọng_lực quốc_gia , trạm định_vị vệ_tinh quốc_gia được thể_hiện bằng kí_hiệu tương_ứng .
+
+g ) Tên gọi của mảnh bản_đồ lấy theo tên gọi của điểm dân_cư có nhiều nhà nhất có trong mảnh bản_đồ . Nếu không có điểm dân_cư thì chọn tên của địa_vật chiếm diện_tích nhiều nhất hoặc cao nhất trong mảnh bản_đồ ;
+
+h ) Khi lập bản_đồ , trong trường_hợp_phần đất_liền ( hoặc phần lãnh_thổ Việt_nam ) chỉ chiếm khoảng 1/4 diện_tích hoặc nhỏ hơn thì cho phép ghép mảnh vào mảnh bản_đồ kề sát nếu phần diện_tích này nối_liền với mảnh bản_đồ đó . Mảnh bản_đồ kề sát đó được phép mở_rộng kích_thước khung ( gọi là phá khung ) . Đường khung mở_rộng này vẫn phải lấy đường kinh_tuyến hoặc vĩ_tuyến chẵn đến 1 làm giới_hạn cho mảnh bản_đồ .
+
+2 . Mẫu khung bản_đồ và các ghi_chú ngoài khung quy_định tại Phụ_lục 4 và Phụ_lục 5 ban_hành kèm theo Thông_tư này .
+
+Điều 10 . Quy_định nội_dung nhóm lớp dữ_liệu dân_cư
+
+1 . Nhóm lớp dữ_liệu dân_cư thể_hiện các khu dân_cư và các công_trình liên_quan đến dân_cư , gồm khu dân_cư đô_thị , khu dân_cư nông_thôn , khu công_nghiệp , khu chức_năng đặc_thù , khu dân_cư khác , các công_trình dân_sinh , cơ_sở kinh_tế , văn_hoá , xã_hội khác .
+
+2 . Nhà được thể_hiện theo loại nhà kiên_cố , nhà không kiên_cố , nhà đơn_sơ trên bản_đồ bằng kí_hiệu tương_ứng .
+
+3 . Việc thể_hiện nhà tuân theo các nguyên_tắc sau :
+
+a ) Nhà từ hai tầng trở lên phải thể_hiện số tầng ;
+
+b ) Khoảng_cách giữa hai nhà nhỏ hơn 0 , 3 mm trên bản_đồ thì cho phép thể_hiện đường viền nhà_chung ;
+
+c ) Ưu_tiên thể_hiện mép đường giao_thông , ranh_giới , tường rào khu chức_năng trong trường_hợp trùng với đường viền nhà .
+
+4 . Ủy_ban nhân_dân các cấp được thể_hiện bằng kí_hiệu đặt tại vị_trí toà nhà là trụ_sở Ủy_ban .
+
+5 . Biểu_thị tất_cả các họng nước chữa_cháy , tháp_nước bể nước có tính_chất định_hướng , các trạm quan_trắc khí_tượng , thuỷ_văn , hải_văn , môi_trường và các trạm quan_trắc tài_nguyên và môi_trường khác ; các trạm thu phát_sóng hoặc cột ăng - ten trên mặt_đất có chiều cao từ 30 m trở lên và tất_cả các cột ăng - ten phát_thanh , truyền_hình thuộc đài phát_thanh , truyền_hình từ cấp tỉnh trở lên .
+
+6 . Hệ_thống đường_dây tải_điện bao_gồm các tuyến truyền_tải_điện cao , trung_thế có điện_áp từ 1 kV trở lên và các trạm biến_áp . Đường_dây tải_điện phải ghi_chú chỉ_số điện_áp , được bắt_đầu và kết_thúc tại cột điện hoặc trạm điện và phải biểu_thị thành hệ_thống trong toàn khu đo .
+
+7 . Đối_với các đối_tượng địa_lí thể_hiện trên bản_đồ theo tỉ_lệ mà không có kí_hiệu quy_định riêng trong Thông_tư này thì phải dùng ghi_chú thuyết_minh để thể_hiện đầy_đủ .
+
+8 . Ranh_giới các công_trình xây_dựng , các khu chức_năng đặc_thù được thể_hiện trên bản_đồ bằng kí_hiệu hàng_rào , thành_luỹ , ranh_giới sử_dụng đất , ranh_giới khu_vực cấm . Ranh_giới sử_dụng đất , ranh_giới khu_vực cấm được thể_hiện dựa trên các tài_liệu của cơ_quan có thẩm_quyền .
+
+9 . Thể_hiện đầy_đủ tên gọi các đối_tượng dân_cư như sau :
+
+a ) Khu dân_cư ;
+
+b ) Các khu chức_năng đặc_thù gồm : khu công_nghiệp , khu chế_xuất , khu kinh_tế , khu công_nghệ_cao , khu du_lịch , khu nghiên_cứu , đào_tạo , khu thể_dục thể_thao .
+
+c ) Các công_trình công_cộng : cơ_sở y_tế , cơ_sở giáo_dục ;
+
+d ) Trụ_sở doanh_nghiệp , nhà_máy , xí_nghiệp lớn ;
+
+đ ) Siêu_thị , trung_tâm thương_mại có diện_tích trên bản_đồ từ 30 mm2 trở lên ; chợ có khuôn_viên độc_lập ;
+
+e ) Các công_trình tôn_giáo , tín_ngưỡng ;
+
+g ) Công_trình văn_hoá : thư_viện , nhà_hát , bảo_tàng , nhà thi_đấu , sân vận_động từ cấp huyện trở lên , nhà_văn_hoá cấp xã trở lên , khu vui_chơi giải_trí ;
+
+h ) Các trạm quan_trắc khí_tượng , thuỷ_văn , hải_văn , môi_trường và các trạm quan_trắc tài_nguyên và môi_trường khác ;
+
+i ) Các trạm biến_áp , trạm thu phát_sóng có khuôn_viên độc_lập .
+
+10 . Tên gọi của khu dân_cư phải thể_hiện rõ vị_trí của đối_tượng , tên dân_cư thuộc đơn_vị hành_chính nào phải bố_trí trong phạm_vi địa_giới đơn_vị hành_chính đó . Trường_hợp khu dân_cư phân_bố rải_rác sử_dụng tên dân_cư nhắc lại để thể_hiện cho hợp_lý ; thể_hiện tên các khu dân_cư dưới cấp thôn , làng , bản . Không_thể_hiện tên tổ dân_phố ở khu_vực đô_thị .
+
+11 . Các đối_tượng địa_lí có đồ hình rộng_lớn , nằm trên nhiều mảnh bản_đồ như nông , lâm_trường , trang_trại , khu di_tích lịch_sử , khu chế_xuất , khu công_nghiệp , sân gôn , bãi_thải , công_trình tên gọi cần được nhắc lại theo mật_độ thích_hợp .
+
+Điều 11 . Quy_định nội_dung nhóm lớp dữ_liệu giao_thông
+
+1 . Nhóm lớp dữ_liệu giao_thông thể_hiện về mạng_lưới giao_thông và các công_trình có liên_quan đến giao_thông , gồm hệ_thống đường_bộ , đường_sắt , đường hàng_không , đường_thuỷ , cầu , hầm giao_thông , bến cảng , nhà_ga , các công_trình giao_thông khác .
+
+2 . Trình_bày hệ_thống giao_thông phải đảm_bảo tính liên_thông của hệ_thống mạng_lưới giao_thông đường_bộ , tính tương_quan hợp_lí với các công_trình phụ_thuộc và các đối_tượng hạ_tầng kĩ_thuật có liên_quan .
+
+3 . Hệ_thống giao_thông đường_bộ thể_hiện theo các cấp sau : đường_cao_tốc , quốc_lộ , đường tỉnh , đường huyện và các loại đường khác .
+
+4 . Thể_hiện đường có độ dài trên bản_đồ từ 10 mm trở lên và toàn_bộ đường có liên_quan đến đối_tượng biên_giới , địa_giới .
+
+5 . Các loại cầu thông_thường , cầu_phao , cầu_treo , cầu tầng , cầu_quay và hầm giao_thông phải biểu_thị đầy_đủ .
+
+6 . Các tuyến đò , đoạn đường ngầm , tuyến phà phải nối_liền với các tuyến đường ở hai bên bờ tại bến_đò , bến phà . Đoạn lội qua sông suối ở các khu_vực dân_cư thưa_thớt phải thể_hiện đầy_đủ .
+
+7 . Thể_hiện đầy_đủ các công_trình giao_thông : cảng , nhà_ga , âu_thuyền , các bến ô_tô , bãi đỗ xe , ưu_tiên thể_hiện các đối_tượng có vai_trò đầu_mối , nối tuyến .
+
+8 . Tại những nơi có nhiều tuyến đường giao nhau không cùng mức ( đường_bộ với cầu_vượt , cầu_chui dân_sinh ) , thể_hiện các đối_tượng theo hình_chiếu thẳng_đứng từ trên xuống . Trường_hợp các đối_tượng trùng lên nhau hoàn_toàn về hình_học , trên bản_đồ chỉ thể_hiện đầy_đủ đối_tượng trên cùng , các đối_tượng liên_quan ( phía dưới ) dừng tại vị_trí bị che_khuất .
+
+9 . Thể_hiện toàn_bộ các tuyến đường_sắt bằng mẫu kí_hiệu tương_ứng .
+
+10 . Các đoạn bờ đắp cao , xẻ sâu của đường_bộ , đường_sắt có chiều dài trên bản_đồ từ 10 mm trở lên và có tỉ cao hoặc tỉ sâu từ 0 , 5 m trở lên đều phải biểu_thị kèm theo ghi_chú . Biểu_thị cả đường chân ta_luy của bờ đắp cao , xẻ sâu trong trường_hợp khoảng_cách trên bản_đồ so với đường đỉnh ta luy đạt 0 , 5 mm trở lên .
+
+11 . Các loại cầu , phà phải thể_hiện đầy_đủ kèm theo ghi_chú theo mẫu quy_định . Đối_với các cầu ô_tô qua được phải thể_hiện chiều dài , chiều rộng , trọng_tải . Các cầu đường_sắt không cần ghi_chú thông_số kĩ_thuật .
+
+12 . Khi khoảng_cách trên bản_đồ của đường đỉnh ta_luy và đường giao_thông nửa theo tỉ_lệ có độ dài dưới 0 , 2 mm được phép dịch đỉnh ta_luy tối_đa 0 , 2 mm để đảm_bảo khả_năng phân_biệt được với kí_hiệu đường nhưng phải đảm_bảo sự tương_quan với các đối_tượng lân_cận .
+
+13 . Thể_hiện tên gọi các đối_tượng giao_thông như sau :
+
+a ) Đường_bộ từ cấp huyện trở lên ;
+
+b ) Đường đô_thị : thể_hiện tất_cả tên các đường_phố và ngõ phố có chiều rộng trên bản_đồ từ 1 , 5 mm ;
+
+c ) Bến đò_ngang , bến đò_dọc , bến phà , bến_tàu_thuyền ;
+
+d ) Cầu , hầm , cảng , nhà_ga , âu_thuyền ;
+
+đ ) Bến ô_tô , bãi đỗ xe .
+
+Điều 12 . Quy_định nội_dung nhóm lớp dữ_liệu thuỷ_văn
+
+1 . Nhóm lớp dữ_liệu thuỷ_văn_thể_hiện hệ_thống sông , suối , kênh , mương , biển , hồ , ao , đầm , phá , nguồn nước , đường bờ nước , các đối_tượng thuỷ_văn khác .
+
+2 . Biển , sông tự_nhiên , các hồ nước chịu sự chi_phối liên_tục của sông hoặc thuỷ_triều ( không có điều_tiết của con_người ) và các hồ lớn đều phải biểu_thị đường mép nước và đường bờ nước theo kí_hiệu .
+
+3 . Khi biểu_thị sông , suối phải thể_hiện được đặc_tính có nước quanh_năm , có nước theo mùa , đoạn sông suối khó xác_định , hướng dòng_chảy , hướng chảy do ảnh_hưởng của thuỷ_triều .
+
+4 . Sông suối , kênh mương có độ dài trên bản_đồ từ 10 mm trở lên đều được biểu_thị và phải đảm_bảo tính liên_thông của hệ_thống mạng_lưới thuỷ_văn phù_hợp với địa_hình . Những sông suối , kênh mương có ý_nghĩa quan_trọng , liên_quan đến biên_giới , địa_giới phải thể_hiện đầy_đủ .
+
+5 . Các ao , hồ có diện_tích trên bản_đồ từ 2 mm2 trở lên phải thể_hiện đầy_đủ bằng kí_hiệu theo tỉ_lệ . Được phép phóng to các ao , hồ có diện_tích nhỏ hơn 2 mm2 đạt bằng 2 mm2 để vẽ được theo tỉ_lệ đối_với các ao , hồ ở vùng hiếm nước .
+
+6 . Thể_hiện đầy_đủ thác , ghềnh , bãi , bãi ngập bằng kí_hiệu tương_ứng .
+
+7 . Biểu_thị bằng kí_hiệu theo tỉ_lệ đối_với bãi bồi , doi đất , cát trong lòng_sông , hồ có diện_tích trên bản_đồ từ 1 mm2 trở lên . Đối_với những bãi bồi doi đất , cát trong lòng_sông , hồ liên_quan đến việc phân_định biên_giới quốc_gia và địa_giới hành_chính có diện_tích trên bản_đồ nhỏ hơn 1 mm2 vẫn phải thể_hiện đầy_đủ .
+
+8 . Các bãi ( nổi , chìm ) ở ven sông , hồ , biển có diện_tích trên bản_đồ từ 15 mm2 trở lên phải biểu_thị đầy_đủ . Các đảo trong vịnh phải thể_hiện đầy_đủ bằng kí_hiệu tương_ứng , không_thể_hiện gộp các đảo .
+
+9 . Thể_hiện các đối_tượng địa_lí của hệ_thống thuỷ_văn gồm kè , đập , đê , trạm thuỷ_văn , trạm nghiệm triều , cống , cửa_khẩu qua đê , âu_thuyền , điếm_canh đê theo mẫu kí_hiệu .
+
+10 . Thể_hiện tên gọi các đối_tượng thuỷ_văn như sau :
+
+a ) Sông , suối , kênh , mương có chiều dài trên bản_đồ từ 10 cm trở lên ;
+
+b ) Ao , hồ có diện_tích trên bản_đồ từ 20 mm2 trở lên ;
+
+c ) Bãi nổi , bãi chìm , bãi nửa nổi_nửa chìm ven biển có diện_tích trên bản_đồ từ 20 mm2 trở lên ;
+
+d ) Bãi ven sông , bãi trong sông có diện_tích trên bản_đồ từ 20 mm2 trở lên ;
+
+đ ) Kè , đê , đập , cống trên các sông , kênh , mương chính hoặc có ý_nghĩa quan_trọng ;
+
+e ) Thác nước , ghềnh ;
+
+g ) Trạm thuỷ_văn , trạm nghiệm triều ;
+
+h ) Mạch nước_khoáng và mạch nước nóng lớn có ý_nghĩa quan_trọng .
+
+11 . Những sông suối , kênh mương liên_quan đến biên_giới , địa_giới phải thể_hiện tên gọi đầy_đủ .
+
+Điều 13 . Quy_định nội_dung nhóm lớp dữ_liệu địa_hình
+
+1 . Nhóm lớp dữ_liệu địa_hình mô_tả hình_dạng , đặc_trưng của bề_mặt trái_đất bao_gồm : điểm độ cao , điểm độ sâu , đường bình độ và các dạng địa_hình đặc_biệt .
+
+2 . Đường nối các điểm có cùng giá_trị độ cao là đường bình độ . Đường bình độ được thể_hiện trên bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 gồm : đường bình độ cơ_bản , đường bình độ nửa khoảng cao đều cơ_bản , đường bình độ phụ và đường bình độ nháp .
+
+3 . Trên một mảnh bản_đồ chỉ thể_hiện địa_hình bằng một khoảng cao đều đường bình độ cơ_bản . Trong trường_hợp địa_hình xen_kẽ nhau , phải căn_cứ vào dạng địa_hình nào chiếm đa_phần để chọn khoảng cao đều đường bình độ cơ_bản thích_hợp . Trường_hợp đặc_biệt , có_thể sử_dụng hai khoảng cao đều đường bình độ cơ_bản để thể_hiện nhưng phải quy_định rõ trong Thiết_kế kĩ_thuật - dự_toán .
+
+4 . Khoảng cao đều đường bình độ cơ_bản phải lựa_chọn tương_ứng theo độ dốc địa_hình quy_định tại Bảng 3 dưới đây :
+
+Bảng 3
+
+5 . Để tăng tính trực_quan thì tuỳ theo khoảng cao đều đường bình độ cơ_bản , cứ 3 đến 4 đường bình độ cơ_bản thì thể_hiện 1 đường bình độ cơ_bản với lực nét đậm hơn ( gọi là bình độ cái theo mẫu kí_hiệu bản_đồ ) .
+
+6 . Đường bình độ nửa khoảng cao đều là đường bình độ nằm giữa hai đường bình độ cơ_bản .
+
+7 . Đường bình độ phụ là đường bình độ có độ cao thích_hợp giữa đường bình độ cơ_bản và đường bình độ nửa khoảng cao đều , dùng mô_tả những trường_hợp nghiêng thoải đặc_biệt của địa_hình mà đường bình độ nửa khoảng cao đều chưa thể biểu_thị rõ_ràng . Đường bình độ phụ phải ghi_chú độ cao , khi độ cao đường bình độ phụ có trị_số bằng bội_số của 1/4 khoảng cao đều cơ_bản có_thể không ghi_chú độ cao .
+
+8 . Khi đường bình độ cơ_bản không mô_tả hết được đặc_trưng của dáng đất hoặc các yếu_tố đặc_biệt của địa_hình_như ( yên ngựa , đồi thấp , dốc bậc thang , thung_lũng , v . v ) và khoảng_cách giữa hai đường bình độ cơ_bản kề nhau lớn hơn 5 cm trên bản_đồ thì phải thể_hiện thêm đường bình độ nửa khoảng cao đều hoặc bình độ phụ .
+
+9 . Đường bình độ nháp là đường bình độ có giá_trị độ cao tương_đương với đường bình độ cơ_bản dùng để biểu_thị địa_hình không ổn_định hoặc dữ_liệu thu_nhận không đủ độ tin_cậy .
+
+10 . Số_lượng điểm độ cao và ghi_chú độ cao thể_hiện từ 10 đến 15 điểm trên 1 dm2 trên bản_đồ ở vùng núi , núi cao và 15 đến 20 điểm trên 1 dm2 trên bản_đồ ở vùng đồng_bằng , vùng đồi .
+
+11 . Trong các trường_hợp đặc_biệt như khi thể_hiện độ cao ở các vùng dân_cư dày_đặc , vùng có địa_hình biến_đổi đều và có quy_luật số_lượng điểm độ cao và ghi_chú độ cao có_thể giảm bớt nhưng không ít hơn 8 điểm trên 1 dm2 trên bản_đồ ở vùng núi , núi cao và 10 điểm trên 1 dm2 trên bản_đồ ở vùng đồng_bằng , vùng đồi .
+
+12 . Trường_hợp ở vùng bằng_phẳng không_thể_hiện địa_hình bằng đường bình độ được thì số_lượng điểm độ cao thể_hiện từ 25 đến 30 điểm trên 1 dm2 trên bản_đồ .
+
+13 . Điểm độ cao cần chọn ở những vị_trí đặc_trưng gồm : ngã ba đường , điểm ngoặt của bờ sông và bờ kênh mương , chân vật định_hướng , đỉnh núi , yên ngựa , lòng_chảo , cửa hang , miệng hố
+
+14 . Nét chỉ dốc là đoạn_thẳng có chiều dài cố_định , đặt vuông_góc với đường bình độ tại những vị_trí chỉ hướng thấp dần của dáng đất như các đỉnh núi , hố lõm , yên ngựa , chỗ hướng dốc không rõ_ràng , các đường bình độ gần cạnh khung mảnh bản_đồ đều phải có kí_hiệu nét chỉ dốc .
+
+15 . Đối_với các khu_vực cồn cát , cát đụn ngoài thể_hiện kí_hiệu địa_hình cát phải thể_hiện thêm đường bình độ vẽ nháp khi độ cao của cồn cát , cát đụn đạt giá_trị thể_hiện được từ 1 đường bình độ cơ_bản trở lên .
+
+16 . Thể_hiện tên núi , đỉnh núi , đồi , đèo , dốc , hang , động , miệng núi_lửa .
+
+Điều 14 . Quy_định nội_dung nhóm lớp dữ_liệu phủ thực_vật
+
+1 . Nhóm lớp dữ_liệu phủ thực_vật_thể_hiện rừng phân_loại theo độ tàn che của rừng , cây_trồng hàng năm , cây_trồng lâu năm , thực_vật hỗn_hợp , thực_vật trong khu dân_cư và trên bề_mặt công_trình .
+
+2 . Vùng thực_vật có diện_tích trên bản_đồ từ 20 mm2 trở lên phải thể_hiện . Trường_hợp vùng thực_vật có diện_tích trên bản_đồ từ 4 cm2 trở lên phải bổ_sung ghi_chú tên cây .
+
+3 . Vùng thực_vật có nhiều loại thực_vật đan_xen , ưu_tiên thể_hiện loại thực_vật chiếm đa_số nhưng tối_thiểu phải chiếm từ 30 % diện_tích trở lên . Trường_hợp không có loại thực_vật nào đủ tiêu_chí này phải thể_hiện theo quy_định cho thực_vật hỗn_hợp .
+
+4 . Ranh_giới các khu_vực thực_vật phải được thể_hiện khép_kín bằng kí_hiệu ranh_giới thực_vật . Ưu_tiên thể_hiện các đối_tượng địa_lí hình tuyến trong trường_hợp ranh_giới thực_vật trùng với các đối_tượng_hình tuyến khác như đường địa_giới hành_chính các cấp , đường_bộ , bờ sông , kênh mương và các đối_tượng địa_lí khác .
+
+5 . Thể_hiện tên gọi của tất_cả các khu rừng : vườn quốc_gia , khu dự_trữ thiên_nhiên , khu bảo_tồn loài - sinh cảnh , khu bảo_vệ cảnh_quan , khu rừng nghiên_cứu - thực_nghiệm khoa_học , vườn thực_vật quốc_gia và các khu rừng khác có tên_riêng .
+
+6 . Thể_hiện toàn_bộ các cây và cụm cây độc_lập có độ cao từ 10 m trở lên .
+
+Điều 15 . Quy_định nội_dung nhóm lớp dữ_liệu biên_giới quốc_gia , địa_giới hành_chính
+
+1 . Nhóm lớp dữ_liệu biên_giới quốc_gia , địa_giới hành_chính_thể_hiện về đường_biên_giới quốc_gia , hệ_thống mốc quốc giới ; điểm cơ_sở , đường cơ_sở dùng để tính chiều rộng lãnh_hải Việt_nam , điểm đặc_trưng biên_giới quốc_gia ; thể_hiện đường địa_giới hành_chính các cấp , hệ_thống mốc địa_giới hành_chính .
+
+2 . Đường_biên_giới quốc_gia và mốc quốc giới được thể_hiện đầy_đủ , chính_xác , thống_nhất theo bản_đồ chuẩn biên_giới quốc_gia . Khi chưa có bản_đồ chuẩn biên_giới quốc_gia thì đường_biên_giới và mốc quốc giới được chuyển vẽ theo quy_định tại Điều 12 Thông_tư số 17/2018/TT-BTNMT ngày 31 tháng 10 năm 2018 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định kĩ_thuật thành_lập , cập_nhật bộ bản_đồ chuẩn biên_giới quốc_gia và thể_hiện đường_biên_giới quốc_gia , chủ_quyền lãnh_thổ quốc_gia trên các sản_phẩm đo_đạc và bản_đồ , xuất_bản_phẩm bản_đồ . Đường_biên_giới quốc_gia phải thể_hiện liên_tục không đứt_đoạn .
+
+3 . Đường địa_giới hành_chính và mốc địa_giới hành_chính các cấp được thể_hiện đầy_đủ theo hồ_sơ , bản_đồ địa_giới hành_chính . Đường địa_giới hành_chính các cấp phải thể_hiện liên_tục không đứt_đoạn .
+
+4 . Việc thể_hiện đường_biên_giới quốc_gia , đường địa_giới hành_chính các cấp tuân theo các nguyên_tắc sau :
+
+a ) Trường_hợp đường_biên_giới quốc_gia , đường địa_giới hành_chính các cấp trùng với đối_tượng_hình tuyến thể_hiện nửa tỉ_lệ , hoặc theo tỉ_lệ nhưng độ rộng của đối_tượng_hình tuyến trên bản_đồ nhỏ hơn 1 mm thì được xê_dịch và thể_hiện so_le hai bên đối_tượng_hình tuyến đó , mỗi đoạn từ 3 đến 4 đốt kí_hiệu . Khoảng_cách từ đường_biên_giới quốc_gia , đường địa_giới hành_chính các cấp đến đối_tượng_hình tuyến trên bản_đồ là 0 , 2 mm ;
+
+b ) Trường_hợp đường địa_giới hành_chính các cấp trùng với đối_tượng_hình tuyến thể_hiện theo tỉ_lệ trên bản_đồ có độ rộng từ 1mm trở lên thì đường địa_giới hành_chính các cấp được thể_hiện vào trong lòng đối_tượng_hình tuyến đó ;
+
+c ) Khi kết_thúc hoặc bắt_đầu một đoạn kí_hiệu của đường_biên_giới quốc_gia , đường địa_giới hành_chính các cấp phải thể_hiện được kí_hiệu đầy_đủ , không thừa nét hoặc thiếu chấm . Ngã ba , ngã tư đường_biên_giới quốc_gia , đường địa_giới hành_chính các cấp phải thể_hiện rõ_ràng .
+
+5 . Thể_hiện tên đơn_vị hành_chính theo nguyên_tắc sau :
+
+a ) Tên xã bố_trí ở khu_vực trung_tâm xã . Trường_hợp phạm_vi xã bị chia_cắt trên nhiều mảnh bản_đồ thì thể_hiện tên xã trong mảnh có phạm_vi rộng nhất hoặc tập_trung đông dân_cư nhất , các mảnh khác chỉ thể_hiện tên xã ngoài khung bản_đồ . Tên xã gồm cả danh từ chung và không viết tắt ;
+
+b ) Tên huyện thể_hiện phía dưới tên dân_cư là huyện_lỵ , nếu tên dân_cư trùng với tên huyện thì không phải thể_hiện tên huyện .
+
+Điều 16 . Ký_hiệu bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000
+
+Ký_hiệu bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 được quy_định chi_tiết tại Phụ_lục 2 ban_hành kèm theo Thông_tư này . Ký_hiệu bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 được thiết_kế và sử_dụng theo các nguyên_tắc sau :
+
+1 . Các đơn_vị chiều dài ( dm , cm , mm ) và đơn_vị diện_tích ( dm2 , cm2 , mm2 ) là kích_thước_tính trên bản_đồ . Các đơn_vị mét ( m ) hoặc mét_vuông ( m2 ) là kích_thước thực của đối_tượng địa_lý .
+
+2 . Kích_thước và lực nét các kí_hiệu được ghi_chú bên cạnh kí_hiệu tính bằng milimét . Nếu nét vẽ không ghi_chú lực nét thì lực nét quy_ước là 0 , 1 mm . Ký_hiệu nửa tỉ_lệ chỉ ghi_chú kích_thước quy_định cho phần không theo tỉ_lệ , phần còn lại vẽ theo tỉ_lệ bản_đồ . Những kí_hiệu phân_bố đều theo diện_tích nếu không quy_định kích_thước thì vẽ tương_tự như mẫu , nếu có quy_định thì phải vẽ theo quy_định . Khi diện_tích của đối_tượng biểu_thị nhỏ hơn 1 cm2 thì được phép giảm khoảng_cách giữa các kí_hiệu nhưng không quá 70 % so với quy_định trong mẫu kí_hiệu , với điều_kiện vẫn phải đảm_bảo đọc và phân_biệt rõ_ràng , chính_xác đối_tượng địa_lí biểu_thị .
+
+3 . Cỡ chữ quy_định trong kí_hiệu là cỡ chữ khi in ra giấy , đơn_vị tính là point ( pt ) .
+
+4 . Ký_hiệu bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 được thiết_kế trong hệ màu Ckmy , quy_định chi_tiết bảng_màu tại Phụ_lục 1 ban_hành kèm theo Thông_tư này .
+
+Chương_iii
+
+Điều_khoản Thi_hành
+
+Điều 17 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 23 tháng 01 năm 2020 .
+
+2 . Thông_tư này bãi_bỏ nội_dung kí_hiệu bản_đồ địa_hình tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 tại Quyết_định số 1125/ĐĐBĐ ngày 19 tháng 11 năm 1994 của Tổng_cục_trưởng Tổng_cục Địa_chính .
+
+3 . Thông_tư này bãi_bỏ khoản 1 . 4 Mục 1 Quy_định chung ; Mục 2 Cơ_sở toán_học và độ chính_xác của bản_đồ địa_hình ; Mục 3 Nội_dung bản_đồ tại Quyết_định số 17/2005/QĐ-BTNMT ngày 21/12/2005 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Quy_định kĩ_thuật thành_lập bản_đồ địa_hình tỉ_lệ 1 : 2 . 000 và 1 : 5 . 000 bằng công_nghệ ảnh số .
+
+Điều 18 . Trách_nhiệm thi_hành
+
+1 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Trong quá_trình thực_hiện , nếu có vướng_mắc thì cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , quyết_định . / .

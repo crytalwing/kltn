@@ -1,0 +1,333 @@
+Thông_tư số 19/2015/tt-btttt ngày 21 tháng 07 năm 2015 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 132/2013/NĐ-CP ngày 16 tháng 10 năm 2013 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về IPv6 đối_với thiết_bị nút .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về IPv6 đối_với thiết_bị nút ( qcvn 89 : 2015 / bt ) .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 02 năm 2016 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 89 : 2015 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Ipv6 Đối_với Thiết_bị Nút
+
+National technical regulation on IPv6 nodes
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Yêu_cầu về tầng liên_kết
+
+2 . 2 . Yêu_cầu về tầng Ip
+
+2 . 2 . 1 . Giao_thức Internet phiên_bản 6
+
+2 . 2 . 2 . Phát_hiện nút mạng lân_cận cho IPv6
+
+2 . 2 . 3 . Phát_hiện Path_mtu
+
+2 . 2 . 4 . Giao_thức Ic mp phiên_bản 6
+
+2 . 2 . 5 . Địa_chỉ
+
+2 . 2 . 6 . Phát_hiện đối_tượng nghe multicast ( mld ) trong IPv6
+
+2 . 3 . Yêu_cầu về chuyển_đổi giữa IPv4 và IPv6
+
+2 . 4 . Yêu_cầu về bảo_mật
+
+3 . Phương_pháp_đo
+
+4 . Quy_định Về Quản_lý
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+6 . Tổ_chức Thực_hiện
+
+Thư_mục_tài_liệu Tham_khảo
+
+Lời_nói_đầu
+
+Qcvn 89 : 2015 / bt được xây_dựng trên cơ_sở tài_liệu Rfc 6434 của Nhóm đặc_trách về kĩ_thuật Internet ( ietf ) .
+
+Qcvn 89 : 2015 / bt do Viện Khoa_học Kỹ_thuật Bưu_điện biên_soạn , Vụ Khoa_học và Công_nghệ thẩm_định và trình_duyệt , Bộ Thông_tin và Truyền_thông ban_hành kèm theo Thông_tư số . . . / 2015 / t - bt ngày . . . tháng . . . năm 2015 .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Ipv6 Đối_với Thiết_bị Nút
+
+National technical regulation on IPv6 nodes
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn này quy_định các yêu_cầu kĩ_thuật và phương_pháp đo đối_với thiết_bị nút IPv6 .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn này áp_dụng đối_với các tổ_chức , cá_nhân có hoạt_động_sản_xuất , nhập_khẩu , sử_dụng và khai_thác các thiết_bị nút IPv6 tại Việt_nam .
+
+1 . 3 . Tài_liệu viện_dẫn
+
+Tcvn 9802-1:2013, Giao_thức Internet phiên_bản 6 ( IPv6 ) - Phần 1 : Quy_định kĩ_thuật .
+
+Tcvn 9802-2:2015, Giao_thức Internet phiên_bản 6 ( IPv6 ) - Phần 2 : Kiến_trúc địa_chỉ IPv6 .
+
+Tcvn 9802-3:2015, Giao_thức Internet phiên_bản 6 ( IPv6 ) - Phần 3 : Giao_thức phát_hiện nút mạng lân_cận .
+
+Tcvn 9802-4:2015, Giao_thức Internet phiên_bản 6 ( IPv6 ) - Phần 4 : Giao_thức phát_hiện Mtu của tuyến .
+
+Rfc 2464 , Transmission of lPv6 Packets over Ethernet_networks , December 1998 .
+
+Rfc 2491 , IPv6 over Non - Broadcast Multiple_access ( nbma ) networks , January 1999 .
+
+Rfc 2492 , IPv6 over Atm_networks , January 1999 .
+
+Rfc 2710 , Multicast Listener_discovery ( mld ) for IPv6 , October 1999 .
+
+Rfc 3484 , Default Address Selection for Internet Protocol version 6 ( lPv6 ) , February 2003 .
+
+Rfc 3590 , Source Address Selection for the Multicast Listener_discovery ( mld ) Protocol , September 2003 .
+
+Rfc 3810 , Multicast Listener Discovery Version 2 ( MLDv2 ) for IPv6 , June 2004 .
+
+Rfc 4213 , Basic Transition Mechanisms for IPv6 Hosts and Routers , October 2005 .
+
+Rfc 4301 , Security Architecture for the Internet_protocol , December 2005 .
+
+Rfc 4303 , Ip Encapsulating Security_payload ( esp ) , December 2005 .
+
+Rfc 4307 , Cryptographic Algorithms for Use in the Internet Key Exchange Version 2 ( IKEv2 ) December 2005 .
+
+Rfc 4338 , Transmission of IPv6 , IPv4 , and Address Resolution_protocol ( arp ) Packets over Fibre_channel , January 2006 .
+
+Rfc 4380 , Teredo : Tunneling IPv6 over Udp through Network Address_translations ( NA Ts ) February 2006 .
+
+Rfc 4443 , Internet Control Message_protocol ( ICMPv6 ) for the Internet Protocol Version 6 ( IPv6 ) Specification , March 2006 .
+
+Rfc 4604 , Using Internet Group Management Protocol Version 3 ( IGMPv3 ) and Multicast Listener Discovery Protocol Version 2 ( MLDv2 ) for Source - Specific_multicast , August 2006 .
+
+Rfc 4607 , Source - Specific Multicast for Ip , August 2006 .
+
+Rfc 4835 , Cryptographic Algorithm Implementation Requirements for Encapsulating Security_payload ( esp ) and Authentication_header ( ah ) , April 2007 .
+
+Rfc 4862 , IPv6 Stateless Address_autoconfiguration , September 2007 .
+
+Rfc 5072 , Ip Version 6 over Pp , September 2007 .
+
+Rfc 5121 , Transmission of IPv6 via the IPv6 Convergence Sublayer over Ie 802 . 16 Networks , February 2008 .
+
+Rfc 5722 , Handling of Overlapping IPv6 Fragments , December 2009 .
+
+Phase - 1 / Phase - 2 Test Specification Core_protocols - Technical_document - Revision 4 . 0 . 6 , IPv6 Ready Logo_program , April 26 , 2010 .
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 4 . 1 . Thiết_bị nút IPv6 ( nút IPv6 )
+
+Thiết_bị thực_thi IPv6 . Thiết_bị nút IPv6 bao_gồm router IPv6 và host IPv6 .
+
+Chú_thích : Thuật_ngữ thiết_bị nút IPv6 ( nút IPv6 ) tương_đương với thuật_ngữ nút mạng ( Node ) nêu tại mục 3 . 1 trong Tcvn 9802-1:2013 .
+
+1 . 4 . 2 . Router IPv6 ( router )
+
+Thiết_bị nút IPv6 có khả_năng chuyển_tiếp các gói tin IPv6 không được định địa_chỉ cho thiết_bị nút đó .
+
+Chú_thích : Thuật_ngữ router IPv6 ( router ) tương_đương với thuật_ngữ bộ định_tuyến ( Router ) nêu tại mục 3 . 2 trong Tcvn 9802-1:2013.
+
+1 . 4 3 . Host IPv6 ( host )
+
+Bất_kì thiết_bị nút IPv6 nào không phải là router IPv6 .
+
+Chú_thích : Thuật_ngữ host IPv6 ( host ) tương_đương với thuật_ngữ máy_chủ ( host ) nêu tại mục 3 . 3 trong Tcvn 9802-1:2013.
+
+1 . 4 . 4 . Địa_chỉ link - local
+
+Địa_chỉ unicast có phạm_vi chỉ trong liên_kết , được sử_dụng để thông_tin với các nút mạng lân_cận .
+
+1 . 4 . 5 . Phát_hiện nút mạng lân_cận
+
+Giao_thức sử_dụng để giải_quyết các vấn_đề liên_quan đến sự tương_tác giữa các nút mạng trên cùng một liên_kết như phát_hiện router , phát_hiện tiền_tố , phân_giải địa_chỉ .
+
+Chú_thích : Thuật_ngữ nút mạng lân_cận sử_dụng trong Quy_chuẩn này tương_đương với thuật_ngữ nút láng_giềng sử_dụng trong Tcvn 9802-1:2013 .
+
+1 . 4 . 6 . Mtu liên_kết ( Link_mtu )
+
+Đơn_vị truyền_tải tối_đa của một liên_kết , tức_là kích_thước lớn nhất của một gói tin ( tính bằng octet ) có_thể truyền_tải được qua một liên_kết .
+
+1 . 4 . 7 . Mtu của tuyến ( Path_mtu )
+
+Mtu liên_kết nhỏ nhất trong tất_cả các Mtu liên_kết trên một tuyến giữa nút nguồn và nút đích .
+
+Chú_thích 1 : Thuật_ngữ Mtu của tuyến tương_đương với thuật_ngữ Mtu tuyến nêu tại mục 3 . 12 trong Tcvn 9802-1:2013 .
+
+Chú_thích 2 : Thuật_ngữ tuyến sử_dụng trong Quy_chuẩn này tương_đương với thuật_ngữ đường truyền sử_dụng trong Tcvn 9802-1:2013.
+
+1 . 4 . 8 . Phát_hiện Path_mtu
+
+Quá_trình nút IPv6 xác_định Mtu của tuyến .
+
+1 . 4 . 9 . Lựa_chọn địa_chỉ mặc_định IPv6
+
+Việc lựa_chọn địa_chỉ nguồn hay địa_chỉ đích sử_dụng mặc_định để truyền_thông_tin trong trường_hợp có nhiều địa_chỉ khả_dụng ( nhiều địa_chỉ trong một giao_diện hoặc nhiều hướng đi khác nhau ) .
+
+1 . 4 . 10 . Tự_động cấu_hình địa_chỉ không giữ trạng_thái IPv6
+
+Kỹ_thuật cấu_hình địa_chỉ cho các host mà không cần cấu_hình bằng tay , chỉ yêu_cầu cấu_hình tối_thiểu của các router và không cần máy_chủ . Kỹ_thuật tự_động cấu_hình địa_chỉ không giữ trạng_thái cho phép host tạo ra địa_chỉ của host đó bằng cách kết_hợp thông_tin cục_bộ của host ( định_danh giao_diện ) và thông_tin quảng_bá bởi router ( tiền_tố ) .
+
+1 . 4 . 11 . Phát_hiện đối_tượng nghe multicast ( mld )
+
+Kỹ_thuật cho phép router phát_hiện các đối_tượng nghe multicast ( tức_là các nút mong_muốn nhận gói tin multicast ) trên các liên_kết gắn trực_tiếp với router này và phát_hiện những địa_chỉ multicast nào mà các nút lân_cận này quan_tâm .
+
+1 . 4 . 12 . Công_nghệ đường_hầm
+
+Công_nghệ cho phép gửi các gói tin Ip trên các gói tin Ip . Ví_dụ , đường_hầm IPv6 qua IPv4 thực_hiện đóng_gói các gói tin IPv6 trong các gói tin IPv4 để truyền qua hạ_tầng mạng định_tuyến IPv4 .
+
+1 . 4 . 13 . Thuật_ngữ chỉ mức_độ yêu_cầu
+
+Các từ in hoa Phải , Nên , Có_thể , Không Nên , Không Được được sử_dụng trong các Tcvn nêu tại mục 1 . 3 và Required , Must , Shall , Should , May , Should_not , Must_not , Shall Not được sử_dụng trong các Rfc nêu tại mục 1 . 3 nhằm Chỉ_thị mức_độ yêu_cầu tuân_thủ các đặc_tả kĩ_thuật , yêu_cầu kĩ_thuật quy_định trong các tài_liệu này .
+
+Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Yêu_cầu về tầng liên_kết
+
+Các nút IPv6 kết_nối với nhau theo công_nghệ kết_nối nào thì phải tuân theo tiêu_chuẩn về đặc_tả tầng liên_kết để truyền gói tin IPv6 tương_ứng với công_nghệ kết_nối đó . Dưới đây quy_định tiêu_chuẩn áp_dụng cho nút IPv6 khi truyền gói tin IPv6 trên mạng theo một_số công_nghệ_tầng liên_kết cụ_thể :
+
+- Khi truyền gói tin IPv6 trên mạng Ethernet thì phải tuân theo quy_định trong Rfc 2464 .
+
+- Khi truyền gói tin IPv6 trên mạng Atm thì phải tuân theo quy_định trong Rfc 2492 .
+
+- Khi truyền gói tin IPv6 , IPv4 và phân_giải địa_chỉ Arp trên kênh quang thì phải tuân theo quy_định trong Rfc 4338 .
+
+- Khi truyền gói tin IPv6 qua lớp con hội_tụ IPv6 trên mạng Ie 802 . 16 thì phải tuân theo quy_định trong Rfc 5121 .
+
+- Khi truyền gói tin IPv6 theo hình_thức kết_nối Pp thì phải tuân theo quy_định trong Rfc 5072 .
+
+- Khi truyền gói tin IPv6 qua các mạng đa truy_nhập không quảng_bá Nbma thì phải tuân theo quy_định trong Rfc 2491 .
+
+Các nút IPv6 kết_nối với nhau theo công_nghệ đường_hầm IPv6 trên các giao_thức khác thì phải tuân theo các tiêu_chuẩn về đường_hầm tương_ứng . Dưới đây quy_định một_số công_nghệ đường_hầm cụ_thể :
+
+- Khi truyền gói tin IPv6 theo công_nghệ Đường_hầm IPv6 trên Udp thông_qua biên_dịch địa_chỉ mạng Nat thì phải tuân theo tiêu_chuẩn Rfc 4380 .
+
+- Khi truyền gói tin IPv6 theo công_nghệ Đường_hầm theo cấu_hình thì phải tuân theo Phần 3 của tiêu_chuẩn Rfc 4213 .
+
+2 . 2 . Yêu_cầu về tầng Ip
+
+2 . 2 . 1 . Giao_thức Internet phiên_bản 6
+
+Tất_cả các nút IPv6 phải hỗ_trợ giao_thức Internet phiên_bản 6 được quy_định trong Tcvn 9802-1:2013 và phải hỗ_trợ điều_khiển phân mảnh gói tin gối nhau được quy_định trong Rfc 5722 . Cụ_thể như sau :
+
+- Bất_kì các mào_đầu hoặc tuỳ chọn mở_rộng không được công_nhận phải được xử_lí như mô_tả trong Tcvn 9802-1:2013 .
+
+- Nút IPv6 phải tuân theo các quy_tắc truyền gói tin như trình_bày trong Tcvn 9802-1:2013 .
+
+- Nút IPv6 phải luôn có khả_năng gửi , nhận và xử_lí các mào_đầu phân mảnh . Tất_cả các thực_thi IPv6 phải có khả_năng gửi và nhận các gói tin IPv6 . Các phân mảnh gối nhau phải được điều_khiển như mô_tả trong Rfc 5722 .
+
+- Nút IPv6 phải xử_lí các mào_đầu mở_rộng theo cách_thức xử_lí quy_định trong Tcvn 9802-1:2013 . Ngoại_trừ trường_hợp mào_đầu định_tuyến loại 0 ( rh0 : Routing Header type 0 ) không được chấp_nhận do liên_quan vấn_đề an_ninh và phải được đối_xử như một loại định_tuyến không được công_nhận .
+
+2 . 2 . 2 . Phát_hiện nút mạng lân_cận cho IPv6
+
+Các nút IPv6 phải hỗ_trợ phát_hiện nút mạng lân_cận được quy_định trong Tcvn 9802-3:2015.
+
+Cụ_thể , trong phát_hiện nút mạng lân_cận cho IPv6 thì :
+
+- Các host phải hỗ_trợ tính_năng phát_hiện router . Phát_hiện router là cách_thức host định vị_trí các router trên một liên_kết mà nó kết_nối vào .
+
+- Các host phải hỗ_trợ phát_hiện tiền_tố . Phát_hiện tiền_tố là cách_thức các host khám_phá tập_hợp các tiền_tố địa_chỉ mà định_nghĩa các địa_chỉ đích nào là địa_chỉ on - link đối_với một liên_kết .
+
+- Các host phải thực_thi Nud cho tất_cả các tuyến giữa Host và các nút lân_cận . Tất_cả các nút phải trả_lời các bản tin unicast Ns .
+
+- Các host phải hỗ_trợ việc gửi các bản tin Rs và nhận bản tin Ra .
+
+- Tất_cả các nút phải hỗ_trợ việc gửi và nhận bản tin Ns và bản tin Na trong quá_trình phát_hiện trùng_lặp địa_chỉ .
+
+- Các router phải hỗ_trợ việc gửi các Redirect , dù không bắt_buộc áp_dụng cho từng gói tin riêng_biệt ( ví_dụ , do giới_hạn tốc_độ ) .
+
+2 . 2 . 3 . Phát_hiện Path_mtu
+
+Các thiết_bị nút IPv6 không phải là thiết_bị di_động và sử_dụng gói tin IPv6 có kích_thước lớn hơn 1280 octet phải hỗ_trợ phát_hiện Path Mtu như quy_định trong Tcvn 9802-4:2015.
+
+2 . 2 . 4 . Giao_thức Ic mp phiên_bản 6
+
+Các nút IPv6 phải tuân theo giao_thức Ic mp phiên_bản 6 quy_định trong Rfc 4443 .
+
+2 . 2 . 5 . Địa_chỉ
+
+2 . 2 . 5 . 1 . Kiến_trúc địa_chỉ IPv6
+
+Các nút IPv6 phải hỗ_trợ kiến_trúc địa_chỉ IPv6 quy_định trong Tcvn 9802-2:2015.
+
+2 . 2 . 5 . 2 . Tự_động cấu_hình địa_chỉ không giữ trạng_thái IPv6
+
+Các host phải hỗ_trợ phương_pháp cấu_hình địa_chỉ không giữ trạng_thái quy_định trong Rfc 4862 .
+
+Các router phải tạo được các địa_chỉ link - local như quy_định trong Rfc 4862 .
+
+Tất_cả các nút phải thực_hiện Dad trên tất_cả các địa_chỉ unicast trước khi gán cho giao_diện như quy_định trong Phần 5 . 4 của Rfc 4862 .
+
+2 . 2 . 5 . 3 . Lựa_chọn địa_chỉ mặc_định trong IPv6
+
+Nút IPv6 phải tuân theo các quy_tắc lựa_chọn địa_chỉ mặc_định quy_định trong Rfc 3484 .
+
+2 . 2 . 6 . Phát_hiện đối_tượng nghe multicast ( mld ) trong IPv6
+
+Nếu nút IPv6 hỗ_trợ multicast thì phải tuân theo MLDv1 quy_định trong Rfc 2710 và các quy_tắc lựa_chọn địa_chỉ nguồn phải tuân_thủ quy_định trong Rfc 3590 .
+
+Nếu nút IPv6 hỗ_trợ các ứng_dụng Ssm và sử_dụng các chức_năng Exclude của MLDv2 thì phải hỗ_trợ MLDv2 như quy_định trong Rfc 3810 , Rfc 4604 và Rfc 4607 .
+
+2 . 3 . Yêu_cầu về chuyển_đổi giữa IPv4 và IPv6
+
+Thiết_bị nút IPv6 phải hỗ_trợ hoạt_động song_song giữa IPv4 và IPv6 , và chế_độ đường_hầm phải tuân theo các quy_định trong Rfc 4213 .
+
+2 . 4 . Yêu_cầu về bảo_mật
+
+Nếu các nút IPv6 thực_thi kiến_trúc IPsec tuân theo Rfc 4301 thì phải sử_dụng Esp được quy_định trong Rfc 4303 và phải tuân theo các thuật_toán mật_mã quy_định trong Rfc 4835 . Việc trao_đổi khoá IKEv2 phải tuân_thủ các yêu_cầu quy_định trong Rfc 4307 .
+
+3 . Phương_pháp_đo
+
+Phương_pháp đo kiểm các yêu_cầu kĩ_thuật nêu tại mục 2 . 2 . 1 , 2 . 2 . 2 , 2 . 2 . 3 , 2 . 2 . 4 , 2 . 2 . 5 . 1 . , 2 . 2 . 5 . 2 được thực_hiện theo tài_liệu Phase - 1 / Phase - 2 Test Specification Core_protocols - Technical_document - Revision 4 . 0 . 6 .
+
+4 . Quy_định Về Quản_lý
+
+4 . 1 . Các thiết_bị nút IPv6 thuộc phạm_vi điều_chỉnh nêu tại mục 1 . 1 phải tuân_thủ các quy_định kĩ_thuật trong Quy_chuẩn này .
+
+4 . 2 . Khi áp_dụng các tài_liệu viện_dẫn được nêu trong mục 1 . 3 , tại các nơi có thuật_ngữ chỉ mức_độ yêu_cầu , chỉ bắt_buộc áp_dụng các mức_độ yêu_cầu Phải , Không Được ( trong các Tcvn ) và Required , Must , Shall , Must_not , Shall_not ( trong các Rfc ) .
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+Các tổ_chức , cá_nhân liên_quan có trách_nhiệm thực_hiện công_bố hợp quy các thiết_bị nút IPv6 tuân_thủ Quy_chuẩn này và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành .
+
+6 . Tổ_chức Thực_hiện
+
+6 . 1 . Cục Viễn_thông , Trung_tâm Internet Việt_nam và các Sở Thông_tin và Truyền_thông có trách_nhiệm tổ_chức hướng_dẫn , triển_khai quản_lí thiết_bị nút IPv6 theo Quy_chuẩn kĩ_thuật này .
+
+6 . 2 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn kĩ_thuật này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới . / .
+
+Thư_mục_tài_liệu Tham_khảo
+
+[ 1 ] Rfc 6434 , IPv6 Node_requirements , December 2011 .

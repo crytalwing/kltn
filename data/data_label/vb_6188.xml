@@ -1,0 +1,225 @@
+Thông_tư số 05/2021/tt-bkhcn ngày 17 tháng 06 năm 2021 của bộ khoa_học và công_nghệ
+
+Căn_cứ <LT rel="CC"> Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật_khoa_học và Công_nghệ ngày 18 tháng 6 năm 2013 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật An_toàn thông_tin mạng ngày 19 tháng 11 năm 2015 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 11/2014/NĐ-CP ngày 18 tháng 02 năm 2014 </NĐ> của Chính_phủ về hoạt_động thông_tin khoa_học và công_nghệ ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 95/2017/NĐ-CP ngày 16 tháng 8 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Khoa_học và Công_nghệ ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 </NĐ> của Chính_phủ về quy_định quản_lý , kết_nối và chia_sẻ dữ_liệu số của cơ_quan nhà_nước ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định số 20/2020/QĐ-TTg ngày 22 tháng 7 năm 2020 </QĐ> của Thủ_tướng Chính_phủ quy_định mã định_danh điện_tử của các cơ_quan , tổ_chức phục_vụ kết_nối , chia_sẻ dữ_liệu với các bộ ngành địa_phương ;
+
+Theo đề_nghị của Cục_trưởng Cục Thông_tin khoa_học và công_nghệ quốc_gia và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Khoa_học và Công_nghệ ban_hành Thông_tư quy_định yêu_cầu kĩ_thuật đối_với dữ_liệu thông_tin đầu_vào của Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ .
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+1 . Thông_tư này quy_định yêu_cầu kĩ_thuật đối_với thông_tin đầu_vào của một_số dữ_liệu thành_phần của Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ , bao_gồm :
+
+a ) Thông_tin về Tổ_chức khoa_học và công_nghệ và tổ_chức khác có hoạt_động nghiên_cứu khoa_học và phát_triển công_nghệ ;
+
+b ) Thông_tin về Cán_bộ nghiên_cứu khoa_học và phát_triển công_nghệ ;
+
+c ) Thông_tin về Nhiệm_vụ khoa_học và công_nghệ .
+
+2 . Thông_tư này không áp_dụng với thông_tin khoa_học và công_nghệ thuộc danh_mục bí_mật nhà_nước .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Đối_tượng áp_dụng bao_gồm :
+
+a ) Cơ_quan quản_lí Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ thuộc Bộ Khoa_học và Công_nghệ ;
+
+b ) Các cơ_quan , đơn_vị chuyên_môn về khoa_học và công_nghệ , tổ_chức thực_hiện chức_năng đầu_mối thông_tin khoa_học và công_nghệ thuộc các bộ , cơ_quan ngang bộ , cơ_quan trực_thuộc Chính_phủ , Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương ( sau đây viết tắt là bộ , ngành , địa_phương ) ;
+
+c ) Tổ_chức khoa_học và công_nghệ và tổ_chức khác có hoạt_động nghiên_cứu khoa_học và phát_triển công_nghệ ;
+
+d ) Cán_bộ nghiên_cứu khoa_học và phát_triển công_nghệ ;
+
+đ ) Tổ_chức , cá_nhân khác có liên_quan đến việc xây_dựng , quản_lý , cập_nhật và phát_triển Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ .
+
+2 . Thông_tư này không áp_dụng với Bộ Quốc_phòng và Bộ Công_an .
+
+Điều 3 . Giải_thích từ_ngữ
+
+1 . Dữ_liệu thông_tin đầu_vào là những dữ_liệu về đối_tượng quy_định tại khoản 1 Điều 1 Thông_tư này , được lựa_chọn , xử_lí để nhập vào các trường dữ_liệu của Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ
+
+2 . Tổ_chức khác có hoạt_động nghiên_cứu khoa_học và phát_triển công_nghệ là các tổ_chức không thuộc quy_định tại Điều 3 <NĐ rel="DC"> Nghị_định 08/2014/NĐ-CP ngày 27 tháng 01 năm 2014 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn một_số điều của <LT rel="DC"> Luật_khoa_học và công_nghệ </LT> nhưng có tham_gia hoạt_động nghiên_cứu khoa_học và phát_triển công_nghệ .
+
+3 . Cấu_trúc dữ_liệu là tập_hợp các trường thông_tin thể_hiện thuộc_tính của thực_thể thông_tin được quản_lí trong cơ_sở dữ_liệu
+
+4 . Mã định_danh là một chuỗi kí_tự duy_nhất dùng để xác_định ( phân_biệt ) các cơ_quan , tổ_chức , cá_nhân , nhiệm_vụ khoa_học và công_nghệ được quản_lí khi kết_nối , chia_sẻ dữ_liệu với các hệ_thống thông_tin , cơ_sở dữ_liệu của các bộ , ngành , địa_phương và cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ .
+
+5 . Nhãn trường là tiêu_đề của một trường thông_tin .
+
+6 . Tên trường thông_tin là chuỗi kí_tự không bao_gồm kí_hiệu đặc_biệt , viết liền , không có dấu tiếng Việt dùng để khai_báo khi tạo_lập các trường của cơ_sở dữ_liệu .
+
+Điều 4 . Nguyên_tắc thiết_kế cấu_trúc dữ_liệu thông_tin đầu_vào
+
+1 . Bảo_đảm thống_nhất về cấu_trúc của dữ_liệu thông_tin đầu_vào giữa các dữ_liệu thành_phần của Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ .
+
+2 . Phù_hợp với các mã định_danh điện_tử của các cơ_quan , tổ_chức phục_vụ kết_nối , chia_sẻ dữ_liệu với các bộ , ngành , địa_phương quy_định tại <QĐ rel="DC"> Quyết_định số 20/2020/QĐ-TTg ngày 22 tháng 7 năm 2020 </QĐ> của Thủ_tướng Chính_phủ về mã định_danh điện_tử của các cơ_quan , tổ_chức phục_vụ kết_nối , chia_sẻ dữ_liệu với các bộ , ngành , địa_phương ; Phù_hợp với tiêu_chuẩn kĩ_thuật về ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước quy_định tại <TT rel="DC"> Thông_tư số 39/2017/TT-BTTTT ngày 15 tháng 12 năm 2017 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Danh_mục_tiêu_chuẩn kĩ_thuật về ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước .
+
+3 . Bảo_đảm kết_nối , chia_sẻ , trao_đổi dữ_liệu thông_suốt giữa Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ và các cơ_sở dữ_liệu về khoa_học và công_nghệ khác của bộ , ngành , địa_phương .
+
+4 . Bảo_đảm kết_nối liên_thông , chia_sẻ thông_tin với Hệ_thống thông_tin một cửa điện_tử , Cổng Dịch_vụ công của bộ , ngành , địa_phương , Cổng Dịch_vụ công_quốc_gia và các cơ_sở dữ_liệu khác phục_vụ người dân và doanh_nghiệp .
+
+Điều 5 . Nguyên_tắc kết_nối
+
+1 . Tuân_thủ các quy_định của pháp_luật về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước .
+
+2 . Bảo_đảm quyền khai_thác dữ_liệu hợp_pháp theo quy_định của pháp_luật ; không làm hạn_chế quyền khai_thác , sử_dụng cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ của các cơ_quan nhà_nước , tổ_chức , cá_nhân do yếu_tố kĩ_thuật .
+
+3 . Tuân_thủ các quy_định của pháp_luật về an_toàn thông_tin mạng , các quy_định về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ đối_với Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ và các hệ_thống thông_tin kết_nối với Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ .
+
+4 . Phù_hợp với Khung kiến_trúc Chính_phủ điện_tử Việt_nam , kiến_trúc Chính_phủ điện_tử cấp_bộ , kiến_trúc chính_quyền điện_tử cấp tỉnh .
+
+Điều 6 . Bảo_đảm an_toàn thông_tin , dữ_liệu
+
+1 . Bảo_đảm an_toàn thông_tin mạng theo quy_định tại <LT rel="DC"> Luật An_toàn thông_tin mạng </LT> và các quy_định hiện_hành về an_toàn , an_ninh thông_tin .
+
+2 . Bảo_đảm tính toàn_vẹn , tin_cậy , sẵn_sàng khi lưu_trữ , khai_thác , trao_đổi thông_tin , dữ_liệu . Áp_dụng kĩ_thuật mã_hoá , thiết_lập mật_mã , ứng_dụng chữ_kí số và có cơ_chế lưu_trữ dự_phòng , cơ_chế phòng_chống , kiểm_soát mã độc tấn_công dữ_liệu khi được lưu_trữ , trao_đổi thông_tin , dữ_liệu quan_trọng .
+
+3 . Bảo_đảm_bảo_mật thông_tin dữ_liệu trong hoạt_động chuyển_đổi số và lưu_trữ các thành_phần dữ_liệu trong Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ .
+
+4 . Bảo_đảm_bảo_mật thông_tin tài_khoản , người dùng được cấp tài_khoản truy_cập với định_danh duy_nhất gắn với người dùng khi sử_dụng hệ_thống cơ_sở dữ_liệu . Người dùng chỉ được truy_cập các thông_tin phù_hợp với quyền_hạn của mình và có trách_nhiệm bảo_mật tài_khoản truy_cập được cấp . Mật_mã đăng_nhập , truy_cập hệ_thống thông_tin phải có độ phức_tạp cao ( có độ dài tối_thiểu 8 kí_tự , có kí_tự thường , kí_tự hoa , kí_tự số hoặc kí_tự đặc_biệt như ! , @ , # , $ , % , . . . ) .
+
+Điều 7 . Sử_dụng bảng phân_loại
+
+1 . Trong quá_trình biên_tập , xử_lí thông_tin đầu_vào của Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ , các tổ_chức , cá_nhân có liên_quan sử_dụng Bảng phân_loại lĩnh_vực nghiên_cứu khoa_học và công_nghệ ban_hành kèm theo <QĐ rel="DC"> Quyết_định số 12/2008/QĐ-BKHCN ngày 04 tháng 9 năm 2008 </QĐ> của Bộ_trưởng Bộ Khoa_học và Công_nghệ về việc ban_hành một_số bảng phân_loại thống_kê khoa_học và công_nghệ .
+
+2 . Lĩnh_vực nghiên_cứu là từ_khoá để thống_kê , phân_tích thông_tin về tổ_chức khoa_học và công_nghệ và tổ_chức khác có hoạt_động nghiên_cứu khoa_học và phát_triển công_nghệ , cán_bộ nghiên_cứu khoa_học và phát_triển công_nghệ , nhiệm_vụ khoa_học và công_nghệ .
+
+Điều 8 . Yêu_cầu kĩ_thuật dữ_liệu thông_tin đầu_vào
+
+1 . Yêu_cầu kĩ_thuật nhập dữ_liệu : Sử_dụng bộ mã kí_tự tiếng Việt tuân_thủ Tcvn 6909 : 2001 ( iso / iec 10646 - 1 : 2000 ) , Công_nghệ thông_tin - Bộ mã kí_tự tiếng Việt 16-bit để cập_nhật dữ_liệu .
+
+2 . Yêu_cầu kĩ_thuật định_dạng đối_với tài_liệu đính kèm
+
+a ) Dạng văn_bản
+
+- Định_dạng Plain_text ( . txt ) ;
+
+- Định_dạng Rich Text_fomart ( . rtf ) ;
+
+- Định_dạng văn_bản Word và Word mở_rộng của Microsoft ( . doc ; . docx ) ;
+
+- Định_dạng Portable Document_fomart ( . pdf ) phiên_bản 1 . 4 trở lên ;
+
+- Định_dạng open Document_text ( . odt ) .
+
+b ) Dạng_bảng tính
+
+- Định_dạng bảng tính Excel và bảng tính Excel mở_rộng của Microsoft ( . xls ; . xlsx ) ;
+
+- Định_dạng Comma eparated Variable / Delimited ( . csv ) ;
+
+- Định_dạng Open Document_spreadsheets ( . ods ) .
+
+c ) Dạng ảnh đồ_hoạ
+
+- Định_dạng : Jpeg ( . jpg ; . jpeg ) , Png ( . png ) , Tif ( . tif ; tiff ) , Gif ( . gif ) ;
+
+- Độ phân_giải tối_thiểu : 200 dpi .
+
+d ) Dạng phim_ảnh
+
+- Định_dạng : Mov , Mp4 , Mkv , Flv , Mpeg - 4 ( . mpeg , . mpg ) . Avi ( . avi ) , Wmv ( . wmv ) ;
+
+- Bit rate tối_thiểu : 1500 kbps .
+
+đ ) Dạng âm_thanh
+
+- Định_dạng : Mp3 ( . mp3 ) , Wma ( . wma ) ;
+
+- Bit rate tối_thiểu : 128 kbps .
+
+e ) Dạng trình_chiếu
+
+- Định_dạng Powerpoint và Powerpoint mở_rộng của Microsoft ( . pt ; . ptx ) .
+
+g ) Dạng file nén
+
+- Định_dạng Zip ( WinZip ) ( . zip ) ;
+
+- Định_dạng Rar ( WinRAR ) ( . rar ) ;
+
+- Định_dạng 7z ( 7 - Zip ) ( . 7z ) .
+
+Điều 9 . Cấu_trúc dữ_liệu thông_tin đầu_vào
+
+Cấu_trúc dữ_liệu thông_tin đầu_vào của một_số dữ_liệu thành_phần của Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ được quy_định chi_tiết tại Phụ_lục ban_hành kèm theo Thông_tư này .
+
+Điều 10 . Cấu_trúc mã định_danh
+
+1 . Mã định_danh điện_tử của tổ_chức khoa_học và công_nghệ và tổ_chức khác có hoạt_động nghiên_cứu khoa_học và phát_triển công_nghệ
+
+a ) Mã định_danh điện_tử của tổ_chức khoa_học và công_nghệ và tổ_chức khác có hoạt_động nghiên_cứu khoa_học và phát_triển công_nghệ được áp_dụng theo <QĐ rel="DC"> Quyết_định số 20/2020/QĐ-TTg ngày 22 tháng 7 năm 2020 </QĐ> của Thủ_tướng Chính_phủ quy_định mã định_danh điện_tử của các cơ_quan , tổ_chức phục_vụ kết_nối , chia_sẻ dữ_liệu với các bộ , ngành và địa_phương ;
+
+b ) Cấu_trúc mã định_danh điện_tử của tổ_chức khoa_học và công_nghệ và tổ_chức khác có hoạt_động nghiên_cứu khoa_học và phát_triển công_nghệ quy_định như sau :
+
+Mx1x2 . Y1y2 . Z1z2 . V1v2v3
+
+trong đó :
+
+- Mx1x2 xác_định đơn_vị cấp 1 ( gọi là Mã cấp 1 ) .
+
+- Y1y2 xác_định đơn_vị cấp 2 ( gọi là Mã cấp 2 ) .
+
+- Z1z2 xác_định đơn_vị cấp 3 ( gọi là Mã cấp 3 ) .
+
+- V1v2v3 xác_định đơn_vị cấp 4 ( gọi là Mã cấp 4 ) .
+
+2 . Mã định_danh điện_tử của cán_bộ nghiên_cứu khoa_học và phát_triển công_nghệ
+
+a ) Mã định_danh điện_tử cán_bộ nghiên_cứu khoa_học và phát_triển công_nghệ là mã duy_nhất , sử_dụng thống_nhất trên toàn_quốc , được quản_lí tập_trung trong Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ ;
+
+b ) Cấu_trúc mã định_danh điện_tử của cán_bộ nghiên_cứu khoa_học và phát_triển công_nghệ quy_định như sau :
+
+CB . a
+
+trong đó :
+
+- Cb là kí_tự mặc_định của mã_số
+
+- a là số thứ tự mã cán_bộ do hệ_thống Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ của Bộ Khoa_học và Công_nghệ tự_động cấp .
+
+3 . Mã định_danh điện_tử của nhiệm_vụ khoa_học và công_nghệ
+
+a ) Mã định_danh điện_tử của nhiệm_vụ khoa_học và công_nghệ là mã duy_nhất , dùng để xác_định và phân_biệt các nhiệm_vụ khoa_học và công_nghệ , được sử_dụng thống_nhất trên toàn_quốc và được quản_lí tập_trung trong Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ ;
+
+b ) Cấu_trúc mã định_danh điện_tử của nhiệm_vụ khoa_học và công_nghệ quy_định như sau :
+
+NV . aa . MX1X2 . b . c
+
+trong đó :
+
+- Nv là kí_tự mặc_định của mã_số .
+
+- aa là cấp quản_lí nhiệm_vụ khoa_học và công_nghệ , bao_gồm : Qg - Cấp Quốc_gia , Cb - cấp Bộ , Ct - cấp tỉnh , Cs - cấp Cơ_sở .
+
+- Mx1x2 là mã định_danh điện_tử của các bộ , ngành , địa_phương theo <QĐ rel="DC"> Quyết_định số 20/2020/QĐ-TTg ngày 22 tháng 7 năm 2020 </QĐ> của Thủ_tướng Chính_phủ quy_định mã định_danh điện_tử của các cơ_quan , tổ_chức phục_vụ kết_nối , chia_sẻ dữ_liệu với các bộ ngành địa_phương .
+
+- b là năm bắt_đầu thực_hiện nhiệm_vụ khoa_học và công_nghệ .
+
+- c là số thứ tự nhiệm_vụ do hệ_thống Cơ_sở dữ_liệu quốc_gia về khoa_học và công_nghệ của Bộ Khoa_học và Công_nghệ tự_động cấp và không trùng nhau .
+
+Điều 11 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 8 năm 2021 .
+
+2 . Trường_hợp các văn_bản dẫn chiếu trong Thông_tư này được sửa_đổi , bổ_sung hoặc thay_thế_thì thực_hiện theo quy_định tại văn_bản mới .
+
+Điều 12 . Trách_nhiệm thi_hành
+
+1 . Các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Bộ Khoa_học và Công_nghệ giao Cục Thông_tin khoa_học và công_nghệ quốc_gia hướng_dẫn và tổ_chức thực_hiện Thông_tư này .
+
+3 . Trong quá_trình thực_hiện nếu phát_sinh vướng_mắc , các cơ_quan , đơn_vị phản_ánh về Bộ Khoa_học và Công_nghệ để nghiên_cứu , sửa_đổi , bổ_sung . / .

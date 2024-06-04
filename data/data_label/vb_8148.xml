@@ -1,0 +1,289 @@
+Thông_tư số 31/2017/tt-btttt ngày 15 tháng 11 năm 2017 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật An_toàn thông_tin mạng ngày 19 tháng 11 năm 2015 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 </NĐ> của Chính_phủ về quản_lý , cung_cấp , sử_dụng dịch_vụ Internet và thông_tin trên mạng ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 25/2014/NĐ-CP ngày 07 tháng 4 năm 2014 </NĐ> của Chính_phủ quy_định về phòng , chống tội_phạm và vi_phạm_pháp_luật khác có sử_dụng công_nghệ_cao ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 07 năm 2016 </NĐ> của Chính_phủ về bảo_đảm an_toàn thông_tin theo cấp_độ ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định 05/2017/QĐ-TTg ngày 16 tháng 3 năm 2017 </QĐ> của Thủ_tướng Chính_phủ ban_hành quy_định về hệ_thống phương_án ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng quốc_gia ;
+
+Thực_hiện 36a / NQ - <NQ rel="None"> Nghị_quyết CP ngày 14 tháng 10 năm 2015 </NQ> của Chính_phủ về Chính_phủ điện_tử ;
+
+Theo đề_nghị của Giám_đốc Trung_tâm Ứng_cứu khẩn_cấp máy_tính Việt_nam ;
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định hoạt_động giám_sát an_toàn hệ_thống thông_tin .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về hoạt_động giám_sát an_toàn hệ_thống thông_tin ( sau đây gọi tắt là giám_sát ) trên toàn_quốc , không bao_gồm các hệ_thống thông_tin do Bộ Quốc_phòng và Bộ Công_an quản_lý .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với cơ_quan , tổ_chức , doanh_nghiệp , cá_nhân trực_tiếp tham_gia hoặc có liên_quan đến hoạt_động giám_sát trên toàn_quốc .
+
+Chương_ii
+
+Giám_sát An_toàn Hệ_thống Thông_tin
+
+Điều 3 . Nguyên_tắc giám_sát
+
+1 . Đảm_bảo được thực_hiện thường_xuyên , liên_tục .
+
+2 . Chủ_động theo_dõi , phân_tích , phòng_ngừa để kịp_thời phát_hiện , ngăn_chặn rủi_ro , sự_cố an_toàn thông_tin mạng .
+
+3 . Đảm_bảo hoạt_động ổn_định , bí_mật cho thông_tin được cung_cấp , trao_đổi trong quá_trình giám_sát .
+
+4 . Có sự điều_phối , kết_hợp chặt_chẽ , hiệu_quả giữa hoạt_động giám_sát của Bộ Thông_tin và Truyền_thông và hoạt_động giám_sát của chủ_quản hệ_thống thông_tin ; từng bước xây_dựng khả_năng liên_thông giữa hệ_thống giám_sát của Bộ Thông_tin và Truyền_thông và hệ_thống giám_sát của chủ_quản hệ_thống thông_tin trên phạm_vi toàn_quốc .
+
+Điều 4 . Phương_thức giám_sát
+
+1 . Giám_sát được thực_hiện qua phương_thức giám_sát trực_tiếp hoặc phương_thức giám_sát gián_tiếp . Chủ_quản hệ_thống thông_tin có_thể trực_tiếp triển_khai hoặc thuê dịch_vụ giám_sát . Trong trường_hợp cần_thiết , căn_cứ vào năng_lực , tình_hình và nguồn_lực thực_tế chủ_quản hệ_thống thông_tin đề_nghị các đơn_vị chức_năng liên_quan của Bộ Thông_tin và Truyền_thông hỗ_trợ giám_sát phù_hợp với nguồn_lực thực_tế .
+
+2 . Giám_sát trực_tiếp là hoạt_động giám_sát được tiến_hành bằng cách đặt các thiết_bị có chức_năng phân_tích luồng dữ_liệu ( quan_trắc ) , thu_nhận trực_tiếp thông_tin nhật_ký , cảnh_báo hệ_thống được giám_sát để phát_hiện ra các dấu_hiệu tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng . Giám_sát trực_tiếp bao_gồm các hoạt_động sau :
+
+a ) Phân_tích , thu_thập các thông_tin an_toàn thông_tin mạng :
+
+- Phân_tích , quan_trắc an_toàn thông_tin mạng trên đường truyền mạng / luồng thông_tin tại các cổng kết_nối Internet bằng các công_cụ có khả_năng phân_tích đường truyền mạng để phát_hiện tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng như thiết_bị phát_hiện / ngăn_ngừa tấn_công phù_hợp với đối_tượng được giám_sát ( ví_dụ : IDS / IPS / Web Firewall v . v . . . ) ;
+
+- Thu_thập nhật_kí ( log file ) , cảnh_báo an_toàn thông_tin mạng phản_ánh hoạt_động các ứng_dụng , hệ_thống thông_tin , thiết_bị an_toàn thông_tin .
+
+b ) Tổng_hợp , đồng_bộ , xác_minh và xử_lí các thông_tin an_toàn thông_tin mạng để phát_hiện ra các tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng hoặc loại_bỏ các thông_tin không chính_xác .
+
+3 . Giám_sát gián_tiếp là hoạt_động giám_sát thực_hiện các kĩ_thuật thu_thập thông_tin từ các nguồn thông_tin có liên_quan ; kiểm_tra , rà_soát đối_tượng cần giám_sát để phát_hiện tình_trạng hoạt_động , khả_năng đáp_ứng và kết_hợp với một_số yếu_tố khác có liên_quan để phân_tích nhằm phát_hiện ra các tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng . Giám_sát gián_tiếp bao_gồm các hoạt_động sau :
+
+a ) Thu_thập , phân_tích , xác_minh các thông_tin về tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng liên_quan đến đối_tượng giám_sát từ các nguồn thông_tin có liên_quan ;
+
+b ) Kiểm_tra , rà_soát từ xa hoặc trực_tiếp các đối_tượng được giám_sát để đánh_giá tình_trạng , phát_hiện tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng có khả_năng bị khai_thác , tấn_công , gây hại .
+
+Điều 5 . Yêu_cầu giám_sát trực_tiếp đối_với chủ_quản hệ_thống thông_tin
+
+Chủ_quản hệ_thống thông_tin có trách_nhiệm chủ_động thực_hiện giám_sát theo quy_định hiện_hành . Đối_với hệ_thống thông_tin cấp_độ 3 trở lên , hoạt_động giám_sát của chủ_quản hệ_thống thông_tin cần đáp_ứng các yêu_cầu tối_thiểu sau đây :
+
+1 . Thành_phần giám_sát trung_tâm của chủ_quản hệ_thống thông_tin cần đáp_ứng các yêu_cầu sau :
+
+a ) Cung_cấp đầy_đủ các tính_năng thu_thập và tổng_hợp các thông_tin an_toàn thông_tin mạng ;
+
+b ) Phân_tích các thông_tin thu_thập để phát_hiện và cảnh_báo tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng có khả_năng ảnh_hưởng tới hoạt_động hệ_thống hoặc khả_năng cung_cấp các dịch_vụ của hệ_thống thông_tin được giám_sát ;
+
+c ) Cung_cấp giao_diện thuận_tiện cho việc theo_dõi , giám_sát liên_tục của cán_bộ giám_sát ;
+
+d ) Thực_hiện thu_thập và phân_tích các thông_tin đầu_vào tối_thiểu sau đây : nhật_kí máy_chủ web ( web server ) với các ứng_dụng web ( ví_dụ : cổng thông_tin điện_tử , dịch_vụ công trực_tuyến v . v . . . ) ; cảnh_báo / nhật_kí của thiết_bị quan_trắc cơ_sở ; cảnh_báo / nhật_kí của thiết_bị tường lửa được thiết_lập bảo_vệ luồng kết_nối_mạng Internet liên_quan đến các đối_tượng cần giám_sát ;
+
+e ) Năng_lực xử_lí thành_phần giám_sát trung_tâm của chủ_quản hệ_thống thông_tin cần phù_hợp với khối_lượng , định_dạng và có khả_năng phân_tích thông_tin an_toàn thông_tin mạng thu_thập từ các hệ_thống được giám_sát .
+
+2 . Thu_thập thông_tin an_toàn thông_tin mạng và quan_trắc cơ_sở cần đáp_ứng các yêu_cầu sau :
+
+a ) Thực_hiện thu_thập thông_tin an_toàn thông_tin mạng từ nhật_kí và cảnh_báo của các phần_mềm / thiết_bị liên_quan đến đối_tượng cần giám_sát để cung_cấp cho thành_phần giám_sát trung_tâm của chủ_quản hệ_thống thông_tin hoặc theo yêu_cầu của cơ_quan_chức_năng thuộc Bộ Thông_tin và Truyền_thông . Các thông_tin an_toàn thông_tin mạng tối_thiểu cần thu_thập và cung_cấp bao_gồm : nhật_kí máy_chủ web ( web server ) của các ứng_dụng web ( ví_dụ : cổng thông_tin điện_tử , dịch_vụ công trực_tuyến v . v . . . ) ; cảnh_báo / nhật_kí của thiết_bị quan_trắc cơ_sở ; cảnh_báo / nhật_kí của thiết_bị tường lửa được thiết_lập bảo_vệ luồng kết_nối_mạng Internet liên_quan đến các đối_tượng cần giám_sát ;
+
+b ) Các thiết_bị quan_trắc cơ_sở đảm_bảo các chức_năng phát_hiện tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng ; cần được thiết_lập để đảm_bảo khả_năng giám_sát bao_phủ được tất_cả các đường kết_nối_mạng Internet của đối_tượng cần giám_sát ;
+
+c ) Thiết_bị quan_trắc cần đáp_ứng tối_thiểu các chức_năng phát_hiện , tạo_lập luật phát_hiện tấn_công riêng dựa trên các thông_tin như : địa_chỉ Ip nguồn , địa_chỉ Ip đích , địa_chỉ cổng nguồn , địa_chỉ cổng đích , các đoạn dữ_liệu đặc_biệt trong gói tin được truyền qua . Đối_với các cơ_quan , tổ_chức nhà_nước tự triển_khai thiết_bị quan_trắc cơ_sở , ưu_tiên sử_dụng các thiết_bị phát_hiện tấn_công đã có ( ví_dụ : Ids , Ips , tường lửa Web , v . v . . . ) để kết_hợp làm thiết_bị quan_trắc cơ_sở ;
+
+d ) Đối_với các hệ_thống thông_tin phục_vụ Chính_phủ điện_tử sử_dụng giao_thức có mã_hoá ( ví_dụ : htps ) , cần có phương_án kĩ_thuật đảm_bảo thiết_bị quan_trắc an_toàn thông_tin mạng có được đầy_đủ thông_tin để có_thể phát_hiện được các tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng ;
+
+e ) Thiết_lập , kết_nối các thiết_bị quan_trắc cơ_sở với hệ_thống giám_sát của Bộ Thông_tin và Truyền_thông theo hướng_dẫn và yêu_cầu của cơ_quan_chức_năng .
+
+3 . Nội_dung thực_hiện giám_sát :
+
+a ) Theo_dõi , trực giám_sát liên_tục , lập báo_cáo hàng ngày , đảm_bảo hệ_thống giám_sát của chủ_quản hệ_thống thông_tin hoạt_động và thu_thập thông_tin ổn_định , liên_tục ;
+
+b ) Xây_dựng và ban_hành các quy_chế giám_sát an_toàn thông_tin mạng , trong đó quy_định cụ_thể về thời_hạn_định_kì thống_kê kết_quả xử_lý , lập báo_cáo ;
+
+c ) Theo_dõi , vận_hành các thiết_bị quan_trắc cơ_sở đảm_bảo ổn_định , liên_tục , điều_chỉnh kịp_thời khi có các thay_đổi và thực_hiện đầy_đủ các hướng_dẫn của Bộ Thông_tin và Truyền_thông để đảm_bảo hiệu_quả giám_sát ;
+
+d ) Lập báo_cáo kết_quả giám_sát hàng tuần để báo_cáo chủ_quản hệ_thống thông_tin , nội_dung báo_cáo tuần bao_gồm đầy_đủ các thông_tin sau : thời_gian giám_sát ; danh_mục đối_tượng bị tấn_công cần chú_ý ( địa_chỉ Ip , mô_tả dịch_vụ cung_cấp , thời_điểm bị tấn_công ) ; kĩ_thuật tấn_công đã phát_hiện được và chứng_cứ liên_quan ; các đối_tượng thực_hiện tấn_công ; các thay_đổi trong hệ_thống được giám_sát và hệ_thống giám_sát ; v . v . . . ;
+
+đ ) Tiến_hành phân_loại nguy_cơ , rủi_ro , sự_cố an_toàn thông_tin mạng tuỳ theo tình_hình_cụ_thể ;
+
+e ) Định_kì thống_kê kết_quả xử_lí nguy_cơ , rủi_ro , sự_cố an_toàn thông_tin mạng để phục_vụ công_tác lưu_trữ , báo_cáo ;
+
+g ) Trong trường_hợp chủ_quản hệ_thống thông_tin đề_nghị đơn_vị chức_năng của Bộ Thông_tin và Truyền_thông thực_hiện giám_sát cơ_sở hoặc hệ_thống thuộc trách_nhiệm giám_sát của Bộ Thông_tin và Truyền_thông , chủ_quản hệ_thống thông_tin có trách_nhiệm cung_cấp và cập_nhật thông_tin về hệ_thống thông_tin cần giám_sát và mô_tả phương_án kĩ_thuật triển_khai hệ_thống giám_sát của chủ_quản hệ_thống thông_tin cho Bộ Thông_tin và Truyền_thông theo mẫu phiếu cung_cấp thông_tin tại Phụ_lục 1 , trong đó có các thông_tin :
+
+- Mô_tả đối_tượng được giám_sát , bao_gồm các thông_tin cơ_bản sau đây : địa_chỉ Ip , tên_miền , dịch_vụ cung_cấp , tên và phiên_bản hệ điều_hành , phần_mềm ứng_dụng web ;
+
+- Vị_trí đặt hệ_thống giám_sát của chủ_quản hệ_thống thông_tin , dung_lượng các đường truyền kết_nối vào đối_tượng giám_sát của chủ_quản hệ_thống thông_tin , các thông_tin dự_kiến thu_thập và giao_thức thu_thập , ví_dụ cảnh_báo của Ids , nhật_kí tường lửa ( log firewall ) , nhật_kí máy_chủ web ( log web server ) , v . v . . .
+
+h ) Năng_lực lưu_trữ thông_tin giám_sát tối_thiểu đạt mức trung_bình 30 ngày hoạt_động trong điều_kiện bình_thường ;
+
+i ) Cung_cấp thông_tin giám_sát theo định_kì hoặc đột_xuất có yêu_cầu của Bộ Thông_tin và Truyền_thông theo quy_định của pháp_luật ;
+
+k ) Báo_cáo hoạt_động giám_sát của chủ_quản hệ_thống thông_tin định_kì 06 tháng theo mẫu tại Phụ_lục 2 .
+
+Điều 6 . Hoạt_động giám_sát của doanh_nghiệp
+
+Doanh_nghiệp viễn_thông , doanh_nghiệp cung_cấp dịch_vụ công_nghệ thông_tin , doanh_nghiệp cung_cấp dịch_vụ an_toàn thông_tin mạng có trách_nhiệm :
+
+1 . Phối_hợp với chủ_quản hệ_thống thông_tin trong việc giám_sát theo yêu_cầu của Bộ Thông_tin và Truyền_thông .
+
+2 . Cung_cấp các thông_tin về hạ_tầng , kĩ_thuật , hệ_thống mạng và thực_hiện các hỗ_trợ kĩ_thuật theo yêu_cầu của Bộ Thông_tin và Truyền_thông phục_vụ cho hoạt_động giám_sát của Bộ Thông_tin và Truyền_thông .
+
+3 . Thực_hiện các nhiệm_vụ giám_sát theo quy_định tại Điều 7 <QĐ rel="DC"> Quyết_định số 05/2017/QĐ-TTg </QĐ> của Thủ_tướng Chính_phủ .
+
+Điều 7 . Đầu_mối giám_sát , cảnh_báo
+
+1 . Chủ_quản hệ_thống thông_tin có trách_nhiệm cử cá_nhân hoặc bộ_phận làm đầu_mối giám_sát , cảnh_báo an_toàn thông_tin mạng để phối_hợp với đơn_vị chức_năng của Bộ Thông_tin và Truyền_thông .
+
+2 . Đầu_mối giám_sát phải đảm_bảo khả_năng cung_cấp , tiếp_nhận thông_tin kịp_thời , liên_tục . Đầu_mối giám_sát có chức_năng thực_hiện hoạt_động giám_sát trong phạm_vi hệ_thống thông_tin của mình .
+
+3 . Đầu_mối giám_sát thực_hiện cung_cấp , trao_đổi thông_tin theo một hay đồng_thời nhiều cách như công_văn , thư điện_tử , điện_thoại , fax , hoặc trao_đổi trên một phần_mềm trao_đổi thông_tin chuyên_biệt nhằm đảm_bảo thông_tin được bảo_mật .
+
+4 . Thông_tin đầu_mối giám_sát bao_gồm : Họ tên cá_nhân , tên bộ_phận , chức_vụ , địa_chỉ , số điện_thoại ( cố_định và di_động ) , địa_chỉ thư điện_tử , chữ_kí số ( nếu đã có ) .
+
+Điều 8 . Trao_đổi , cung_cấp , chia_sẻ thông_tin
+
+1 . Khuyến_khích các đầu_mối giám_sát trao_đổi , cung_cấp thông_tin cho nhau nhằm mục_đích phối_hợp trong công_tác giám_sát , cảnh_báo , ứng_cứu sự_cố và tăng tính chủ_động đối_phó với các nguy_cơ , mối đe_doạ , phương_thức , thủ_đoạn tấn_công_an_toàn thông_tin mạng của tổ_chức , cá_nhân .
+
+2 . Các thông_tin chia_sẻ , cung_cấp và trao_đổi bao_gồm các thông_tin về tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng ; các phương_thức , thủ_đoạn , nguồn_gốc tấn_công ; các tác_động , ảnh_hưởng do sự_cố gây ra ; biện_pháp quản_lý , kĩ_thuật để xử_lý , khắc_phục .
+
+3 . Nguyên_tắc trao_đổi , cung_cấp thông_tin
+
+a ) Kịp_thời , chính_xác và áp_dụng các biện_pháp quản_lý , kĩ_thuật phù_hợp để bảo_mật thông_tin trao_đổi ;
+
+b ) Chủ_động xác_minh thông_tin trao_đổi nhằm đảm_bảo tính xác_thực của thông_tin ;
+
+c ) Sử_dụng một hoặc đồng_thời nhiều hình_thức trao_đổi thông_tin như website , công_văn , thư điện_tử , tin nhắn , điện_thoại , fax ;
+
+d ) Khi cung_cấp , trao_đổi thông_tin với đơn_vị chức_năng của Bộ Thông_tin và Truyền_thông cần thực_hiện theo hướng_dẫn của Bộ Thông_tin và Truyền_thông .
+
+Điều 9 . Hoạt_động nâng cao năng_lực giám_sát
+
+1 . Tổ_chức giao_ban , hội_thảo định_kì về hoạt_động giám_sát .
+
+2 . Bồi_dưỡng , huấn_luyện , diễn_tập nhằm nâng cao năng_lực giám_sát .
+
+3 . Đôn_đốc , kiểm_tra việc thực_hiện hoạt_động giám_sát , cảnh_báo của các bộ_phận chuyên_trách về an_toàn thông_tin mạng .
+
+4 . Chia_sẻ kiến_thức , kinh_nghiệm về giám_sát , cảnh_báo , ứng_cứu sự_cố .
+
+5 . Nghiên_cứu , xây_dựng các công_cụ hỗ_trợ hoạt_động phối_hợp , trao_đổi thông_tin trong công_tác giám_sát , cảnh_báo , ứng_cứu sự_cố .
+
+6 . Phát_triển các sản_phẩm , dịch_vụ giám_sát , phân_tích , cảnh_báo chuyên_sâu cho từng đối_tượng giám_sát cụ_thể .
+
+7 . Thúc_đẩy xây_dựng các thoả_thuận hợp_tác song_phương , đa_phương giữa bộ_phận chuyên_trách về an_toàn thông_tin mạng nhằm nâng cao năng_lực giám_sát , cảnh_báo .
+
+8 . Tăng_cường hợp_tác quốc_tế trong công_tác giám_sát , cảnh_báo , ứng_cứu sự_cố .
+
+Chương_iii
+
+Hoạt_động Giám_sát Của Bộ Thông_tin Và Truyền_thông
+
+Điều 10 . Mô_hình giám_sát của Bộ Thông_tin và Truyền_thông
+
+1 . Hoạt_động giám_sát trung_tâm :
+
+a ) Là việc thu_thập , theo_dõi , phát_hiện , phân_tích , xử_lý , báo_cáo , thu_thập chứng_cứ về các dấu_hiệu tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng dựa trên các dữ_liệu / thông_tin an_toàn thông_tin mạng được thu_thập bởi giám_sát trực_tiếp thông_qua các hệ_thống quan_trắc cơ_sở hoặc giám_sát gián_tiếp , đồng_thời thực_hiện việc lưu_trữ các dữ_liệu thu_thập được dưới dạng sự_kiện và quản_lí tập_trung các hệ_thống quan_trắc cơ_sở ;
+
+b ) Được thực_hiện thông_qua các Hệ_thống giám_sát các sự_cố an_toàn mạng và Hệ_thống xử_lí tấn_công mạng Internet Việt_nam do các đơn_vị chức_năng của Bộ Thông_tin và Truyền_thông quản_lí và vận_hành trên nguyên_tắc chia_sẻ dữ_liệu , hoạt_động liên_thông để nâng cao hiệu_quả giám_sát .
+
+2 . Hệ_thống quan_trắc cơ_sở
+
+a ) Là tập_hợp các thiết_bị , phần_mềm có khả_năng theo_dõi , thu_thập , phân_tích , cung_cấp thông_tin nhật_ký , trạng_thái , cảnh_báo cho hoạt_động giám_sát trung_tâm phục_vụ cho việc phân_tích , phát_hiện các sự_cố , điểm yếu , nguy_cơ , lỗ_hổng an_toàn thông_tin mạng ;
+
+b ) Được cung_cấp các điều_kiện kĩ_thuật và vị_trí đặt phù_hợp cho việc hoạt_động , thu_thập dữ_liệu từ đối_tượng giám_sát theo hướng_dẫn của đơn_vị chức_năng của Bộ Thông_tin và Truyền_thông ;
+
+c ) Do đơn_vị chức_năng của Bộ Thông_tin và Truyền_thông chủ_trì , phối_hợp với chủ_quản hệ_thống thông_tin xây_dựng , thiết_lập , quản_lí và vận_hành theo quy_định pháp_luật ;
+
+d ) Thiết_bị / phần_mềm thực_hiện quan_trắc cơ_sở được thiết_lập để kết_nối và phục_vụ cho hoạt_động giám_sát trung_tâm dựa trên các tiêu_chuẩn , quy_chuẩn kĩ_thuật hoặc hướng_dẫn nghiệp_vụ của Bộ Thông_tin và Truyền_thông .
+
+Điều 11 . Hoạt_động giám_sát của Bộ Thông_tin và Truyền_thông
+
+1 . Bộ Thông_tin và Truyền_thông thực_hiện giám_sát hệ_thống , dịch_vụ công_nghệ thông_tin phục_vụ Chính_phủ điện_tử .
+
+2 . Theo đề_nghị của chủ_quản hệ_thống thông_tin , Bộ Thông_tin và Truyền_thông tổ_chức thực_hiện giám_sát đối_với hệ_thống thông_tin thuộc lĩnh_vực quan_trọng cần ưu_tiên đảm_bảo_an_toàn thông_tin mạng phù_hợp với nguồn_lực thực_tế .
+
+3 . Hoạt_động giám_sát trung_tâm của Bộ Thông_tin và Truyền_thông đảm_bảo có khả_năng tiếp_nhận , phân_tích thông_tin giám_sát thu_thập được từ hệ_thống quan_trắc cơ_sở và các thiết_bị , hệ_thống phục_vụ giám_sát gián_tiếp .
+
+4 . Hoạt_động giám_sát của Bộ Thông_tin và Truyền_thông bao_gồm :
+
+a ) Lựa_chọn , quản_lý , cập_nhật danh_sách đối_tượng giám_sát quy_định tại Thông_tư này và các văn_bản pháp_luật có liên_quan ;
+
+b ) Theo_dõi , trực trung_tâm giám_sát , lập báo_cáo phân_tích giám_sát ; kiểm_tra , đôn_đốc công_tác theo_dõi , trực giám_sát ;
+
+c ) Tổng_hợp , lưu_trữ , phân_tích , phân_loại thông_tin , dữ_liệu thu_thập được từ các hệ_thống quan_trắc cơ_sở , các thiết_bị , hệ_thống phục_vụ giám_sát gián_tiếp và các nguồn thông_tin khác ;
+
+d ) Thực_hiện kiểm_tra , phân_tích chứng_cứ , dữ_liệu để phát_hiện các dấu_hiệu bất_thường , nguy_cơ mất an_toàn thông_tin mạng . Trong trường_hợp chưa xác_minh rõ nguy_cơ , sự_cố xảy ra , thực_hiện các giải_pháp bổ_sung nhằm thu_thập thêm các thông_tin , dữ_liệu cần_thiết để tăng tính chính_xác của kết_quả phân_tích và thông_tin cảnh_báo ;
+
+đ ) Tiến_hành điều_tra , xác_minh nhằm xác_định nguy_cơ , sự_cố xảy ra đối_với các đối_tượng giám_sát . Phân_tích , phân_loại tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng tuỳ theo tình_hình_cụ_thể . Cảnh_báo cho bộ_phận phụ_trách về an_toàn thông_tin mạng , đơn_vị vận_hành hệ_thống thông_tin , chủ_quản hệ_thống thông_tin khi phát_hiện các tấn_công , rủi_ro , sự_cố xảy ra đối_với đối_tượng giám_sát ;
+
+e ) Hướng_dẫn việc triển_khai giám_sát của chủ_quản hệ_thống thông_tin ; tổ_chức thiết_lập và hướng_dẫn kết_nối từ hệ_thống giám_sát của chủ_quản hệ_thống thông_tin đến các hệ_thống phục_vụ giám_sát trung_tâm của Bộ Thông_tin và Truyền_thông . Bảo_mật dữ_liệu an_toàn thông_tin mạng trong quá_trình thu_thập và phân_tích ;
+
+g ) Định_kì thống_kê kết_quả giám_sát , tình_hình cảnh_báo và xử_lí tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng để phục_vụ công_tác lưu_trữ , báo_cáo ;
+
+h ) Hướng_dẫn , hỗ_trợ đơn_vị vận_hành hệ_thống thông_tin , chủ_quản hệ_thống thông_tin thực_hiện ứng_cứu , xử_lí các tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng trong trường_hợp cần_thiết ;
+
+i ) Hỗ_trợ một_số đơn_vị vận_hành hệ_thống thông_tin , chủ_quản hệ_thống thông_tin thiết_lập hệ_thống quan_trắc cơ_sở phù_hợp với nguồn_lực thực_tế ;
+
+k ) Các đơn_vị chức_năng của Bộ Thông_tin và Truyền_thông hàng năm lập dự_toán và phê_duyệt , phân_bổ kinh_phí thực_hiện nhiệm_vụ giám_sát từ nguồn ngân_sách nhà_nước và các nguồn vốn hợp_pháp khác theo quy_định của pháp_luật và hướng_dẫn của cơ_quan_chức_năng để trình Bộ_trưởng hoặc trình cấp có thẩm_quyền phê_duyệt .
+
+Chương_iv
+
+Trách_nhiệm Của Các Cơ_quan , Tổ_chức
+
+Điều 12 . Cục An_toàn thông_tin
+
+1 . Quản_lí và vận_hành Hệ_thống xử_lí tấn_công mạng Internet Việt_nam để thực_hiện hoạt_động giám_sát trung_tâm .
+
+2 . Tổng_hợp kết_quả giám_sát và các thông_tin , số_liệu về an_toàn thông_tin mạng phục_vụ công_tác quản_lí nhà_nước về an_toàn thông_tin .
+
+3 . Đôn_đốc việc thực_hiện các yêu_cầu cơ_bản về bảo_đảm an_toàn hệ_thống thông_tin và giám_sát theo quy_định pháp_luật về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ .
+
+4 . Chủ_trì , phối_hợp với Trung_tâm Vncert nghiên_cứu xây_dựng tiêu_chí kĩ_thuật và hướng_dẫn chi_tiết việc kết_nối giữa Hệ_thống quan_trắc cơ_sở và Hệ_thống xử_lí tấn_công mạng Internet Việt_nam_trình Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành .
+
+5 . Phối_hợp hoặc chủ_trì giám_sát các hệ_thống thông_tin thuộc lĩnh_vực quan_trọng cần ưu_tiên đảm_bảo_an_toàn thông_tin mạng theo đề_nghị của chủ_quản hệ_thống thông_tin .
+
+Điều 13 . Trung_tâm Vncert
+
+1 . Quản_lí và vận_hành Hệ_thống giám_sát các sự_cố an_toàn mạng để thực_hiện hoạt_động giám_sát trung_tâm .
+
+2 . Tổng_hợp kết_quả giám_sát và các thông_tin , số_liệu về an_toàn thông_tin mạng phục_vụ công_tác điều_phối , ứng_cứu sự_cố .
+
+3 . Chủ_trì , phối_hợp với Cục An_toàn thông_tin xây_dựng hướng_dẫn quy_trình giám_sát ; tổ_chức triển_khai các hoạt_động nâng cao năng_lực giám_sát ; đôn_đốc , theo_dõi , kiểm_tra hoạt_động giám_sát , cảnh_báo an_toàn thông_tin mạng theo phân_công của Bộ_trưởng Bộ Thông_tin và Truyền_thông .
+
+4 . Chủ_trì , phối_hợp với Cục An_toàn thông_tin nghiên_cứu xây_dựng tiêu_chí kĩ_thuật và hướng_dẫn chi_tiết việc kết_nối giữa hệ_thống quan_trắc cơ_sở và Hệ_thống giám_sát các sự_cố an_toàn mạng trình Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành .
+
+5 . Chủ_trì thực_hiện giám_sát , cảnh_báo an_toàn thông_tin mạng đối_với các hệ_thống thông_tin , dịch_vụ công_nghệ thông_tin phục_vụ Chính_phủ điện_tử . Phối_hợp hoặc chủ_trì giám_sát các hệ_thống thông_tin thuộc lĩnh_vực quan_trọng cần ưu_tiên đảm_bảo_an_toàn thông_tin mạng theo đề_nghị của chủ_quản hệ_thống thông_tin .
+
+6 . Tổng_hợp , báo_cáo kết_quả giám_sát , cảnh_báo an_toàn thông_tin mạng quốc_gia và thống_kê các tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng .
+
+Điều 14 . Chủ_quản các hệ_thống thông_tin
+
+1 . Chỉ_đạo thực_hiện giám_sát đối_với các hệ_thống thông_tin thuộc phạm_vi quản_lý , phối_hợp với đơn_vị chức_năng của Bộ Thông_tin và Truyền_thông thực_hiện giám_sát theo quy_định .
+
+2 . Thực_hiện theo các hướng_dẫn và phối_hợp chặt_chẽ với đơn_vị chức_năng của Bộ Thông_tin và Truyền_thông trong hoạt_động giám_sát .
+
+3 . Cung_cấp các thông_tin về hoạt_động giám_sát theo yêu_cầu của của Bộ Thông_tin và Truyền_thông .
+
+4 . Thực_hiện báo_cáo kết_quả giám_sát định_kì 6 tháng theo mẫu tại Phụ_lục 2 hoặc khi có yêu_cầu của của Bộ Thông_tin và Truyền_thông .
+
+5 . Chuẩn_bị các cổng kết_nối , giao_diện kết_nối dự_phòng tại các điểm kết_nối Internet theo các tiêu_chí kĩ_thuật đã quy_định để thiết_lập điểm giám_sát của Bộ Thông_tin và Truyền_thông khi cần .
+
+6 . Chủ_quản hệ_thống thông_tin do Bộ Thông_tin và Truyền_thông thực_hiện giám_sát có trách_nhiệm :
+
+a ) Xác_định , lập danh_sách các hệ_thống , đối_tượng cần thực_hiện giám_sát , và cung_cấp các thông_tin kĩ_thuật liên_quan của các hệ_thống , đối_tượng cần thực_hiện giám_sát gửi Bộ Thông_tin và Truyền_thông ;
+
+b ) Tiến_hành triển_khai hệ_thống giám_sát của chủ_quản hệ_thống thông_tin theo quy_định tại Thông_tư này và quy_định pháp_luật có liên_quan ; phối_hợp cung_cấp các thông_tin về hạ_tầng , hệ_thống thông_tin cần giám_sát và thực_hiện các hỗ_trợ kĩ_thuật theo yêu_cầu của các đơn_vị chức_năng của Bộ Thông_tin và Truyền_thông ;
+
+c ) Tổ_chức đội_ngũ tiếp_nhận các cảnh_báo và xử_lí các tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng theo cảnh_báo , yêu_cầu của các đơn_vị chức_năng của Bộ Thông_tin và Truyền_thông ;
+
+d ) Định_kì thống_kê kết_quả xử_lí tấn_công , rủi_ro , sự_cố an_toàn thông_tin mạng phục_vụ công_tác lưu_trữ , báo_cáo .
+
+7 . Hàng năm lập dự_toán và phê_duyệt , phân_bổ kinh_phí thực_hiện nhiệm_vụ giám_sát từ nguồn ngân_sách nhà_nước và các nguồn vốn hợp_pháp khác theo quy_định của pháp_luật và hướng_dẫn của cơ_quan_chức_năng .
+
+Chương V
+
+Tổ_chức Thực_hiện
+
+Điều 15 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 01 năm 2018 .
+
+2 . Trong quá_trình thực_hiện , nếu có vướng_mắc , phát_sinh tổ_chức , cá_nhân có liên_quan kịp_thời phản_ánh về Bộ Thông_tin và Truyền_thông để được hướng_dẫn hoặc xem_xét bổ_sung và sửa_đổi . / .

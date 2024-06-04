@@ -1,0 +1,609 @@
+Thông_tư số 02/2021/tt-btttt ngày 21 tháng 06 năm 2021 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật :
+
+Căn_cứ Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính_phủ sửa_đổi bổ_sung một_số điều của Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật tiêu_chuẩn và quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 09/2019/NĐ-CP ngày 24 tháng 01 năm 2019 của Chính_phủ quy_định về chế_độ báo_cáo của cơ_quan hành_chính nhà_nước ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về cấu_trúc , định_dạng dữ_liệu phục_vụ kết_nối , tích_hợp , chia_sẻ dữ_liệu giữa các hệ_thống thông_tin báo_cáo trong Hệ_thống thông_tin báo_cáo quốc_gia .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về cấu_trúc , định_dạng dữ_liệu phục_vụ kết_nối , tích_hợp , chia_sẻ dữ_liệu giữa các hệ_thống thông_tin báo_cáo trong Hệ_thống thông_tin báo_cáo quốc_gia ( qcvn 125 : 2021 / bt ) .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 01 năm 2022 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Cục_trưởng Cục Tin_học_hoá , Thủ_trưởng các cư quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 125 : 2021 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Cấu_trúc , Định_dạng Dữ_liệu Phục_vụ Kết_nối , Tích_hợp , Chia_sẻ Dữ_liệu Trong Hệ_thống Thông_tin Báo_cáo Quốc_gia
+
+National technical regulation on message structure and data format for connecting , integrating , exchanging data in National Reporting Information_systems .
+
+Lời_nói_đầu
+
+Qcvn 125 : 2021 / bt do Cục Tin_học_hoá biên_soạn , Vụ Khoa_học và Công_nghệ trình_duyệt , Bộ Khoa_học và Công_nghệ thẩm_định , Bộ Thông_tin và Truyền_thông ban_hành kèm theo Thông_tư số 02/2021/TT-BTTTT ngày 02 tháng 6 năm 2021 .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Cấu_trúc , Định_dạng Dữ_liệu Phục_vụ Kết_nối , Tích_hợp , Chia_sẻ Dữ_liệu Trong Hệ_thống Thông_tin Báo_cáo Quốc_gia
+
+National technical regulation on message structure and data format for connecting , integrating , exchanging data in National Reporting Information_systems .
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn kĩ_thuật quốc_gia này quy_định các yêu_cầu kĩ_thuật về cấu_trúc gói tin và định_dạng dữ_liệu phục_vụ kết_nối , tích_hợp , chia_sẻ dữ_liệu giữa các hệ_thống thông_tin báo_cáo trang Hệ_thống thông_tin báo_cáo quốc_gia , bao_gồm : Hệ_thống thông_tin báo_cáo của bộ , Cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh , Hệ_thống thông_tin báo_cáo của Chính_phủ , Thủ_tướng Chính_phủ .
+
+Các gói tin được quy_định trong Quy_chuẩn kĩ_thuật quốc_gia này gồm :
+
+- Gói tin chế_độ báo_cáo ;
+
+- Gói tin biểu_mẫu báo_cáo ,
+
+- Gói tin biểu_mẫu báo_cáo đề_cương ;
+
+- Gỏi tin số_liệu báo_cáo ;
+
+- Gói tin số_liệu báo_cáo danh_sách ;
+
+- Gói tin gửi đề_cương báo_cáo ;
+
+- Gói tin trạng_thái báo_cáo ;
+
+- Gói tin danh_mục kí báo_cáo ;
+
+- Gói tin danh_mục chỉ_tiêu báo_cáo ;
+
+- Gói tin bộ chỉ_số ( kpi ) ;
+
+- Gỏi tin danh_mục nhóm chỉ_số ;
+
+- Gói tin danh_mục phân tổ chỉ_số ;
+
+- Gói tin dữ_liệu chỉ_số ( kpi ) .
+
+Quy_chuẩn này không hướng_dẫn về mô_hình kết_nối , tích_hợp , chia_sẻ dữ_liệu giữa các Hệ_thống thông_tin báo_cáo .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn kĩ_thuật quốc_gia này áp_dụng đối_với các cơ_quan nhà_nước , tổ_chức , doanh_nghiệp , cá_nhân có hoạt_động_sản_xuất , cung_cấp , khai_thác và sử_dụng sản_phẩm là Hệ_thống thông_tin báo_cáo của bộ , Cơ_quan ngang bộ , Cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh , Hệ_thống thông_tin báo_cáo của Chính_phủ , Thủ_tướng Chính_phủ .
+
+1 . 3 . Tài_liệu viện_dẫn
+
+Quyết_định số 20/2020/QĐ-TTg ngày 22 tháng 7 năm 2020 của Thủ_tướng Chính_phủ Qcvn 125 : 2021 / bt về mã định_danh điện_tử của các cơ_quan , tổ_chức phục_vụ kết_nối , chia_sẻ dữ_liệu với các bộ , ngành , địa_phương .
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 4 . 1 . Hệ_thống thông_tin báo_cáo quốc_gia , Hệ_thống thông_tin báo_cáo của bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh , Hệ_thống thông_tin báo_cáo của Chính_phủ , Thủ_tướng Chính_phủ
+
+Hệ_thống thông_tin báo_cáo quốc_gia , Hệ_thống thông_tin báo_cáo của bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh , Hệ_thống thông_tin báo_cáo của Chính_phủ , Thủ_tướng Chính_phủ theo quy_định tại Điều 3 Nghị_định số 09/2019/NĐ-CP ngày 24 tháng 01 năm 2019 của Chính_phủ quy_định về chế_độ báo_cáo của cơ_quan hành_chính nhà_nước .
+
+1 . 4 . 2 . Mã định_danh điện_tử Cơ_quan
+
+Mã định_danh điện_tử của các cơ_quan theo Quyết_định số 20/2020/QĐ-TTg ngày 22 tháng 7 năm 2020 của Thủ_tướng Chính_phủ về mã định_danh điện_tử của các cơ_quan , tổ_chức phục_vụ kết_nối , chia_sẻ dữ_liệu với các bộ , ngành , địa_phương .
+
+1 . 4 . 3 . Kiểu dữ_liệu
+
+Thể_hiện đặc_tính của một thuộc_tính dữ_liệu . Có hai loại kiểu dữ_liệu là kiểu dữ_liệu cơ_bản và kiểu dữ_liệu có chứa hai hoặc nhiều hơn hai thuộc_tính dữ_liệu khác .
+
+1 . 4 . 4 . Trạng_thái
+
+Trạng_thái của thuộc_tính trong các quy_định về đinh dạng gói tin , có hai trạng_thái là :
+
+- Bắt_buộc : Thuộc_tính bắt_buộc phải có dữ_liệu ( không được để trống ) .
+
+- Lặp_lại : Các giá_trị thuộc_tính được phép lặp_lại .
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Quy_định về các gói tin
+
+2 . 1 . 1 . Cấu_trúc , định_dạng dữ_liệu gói tin chế_độ báo_cáo
+
+2 . 1 . 1 . 1 . Mô_tả
+
+Gói tin mô_tả chế_độ báo_cáo ( do người hoặc Cơ_quan có thẩm_quyền ban_hành chế_độ báo_cáo của các Cơ_quan hành_chính nhà_nước ban_hành ) ở dạng dữ_liệu số .
+
+2 . 1 . 1 . 2 . Cấu_trúc gói tin chế_độ báo_cáo
+
+Cấu_trúc gói tin chế_độ báo_cáo gồm 04 phần ( được minh_hoạ tại Hình 1 ) :
+
+- Phần chứa toàn_bộ gói tin chế_độ báo_cáo ;
+
+- Phần chứa thông_tin chính ( Header ) ;
+
+- Phần chứa tệp_tin đính kèm chế_độ báo_cáo ( Attachments ) ;
+
+- Phần chứa thông_tin danh_sách biểu_mẫu báo_cáo thuộc chế_độ báo_cáo ( ReportList ) .
+
+Hình 1 - Cấu_trúc gói tin chế_độ báo_cáo
+
+2 . 1 . 1 . 3 . Định_dạng dữ_liệu gói tin chế_độ báo_cáo
+
+Định_dạng dữ_liệu gói tin chế_độ báo_cáo được quy_định tại Bảng 1 .
+
+Bảng 1 - Định_dạng dữ_liệu gói tin chế_độ báo_cáo
+
+2 . 1 . 1 . 4 . Định_dạng dữ_liệu File trong Bảng 1
+
+Định_dạng dữ_liệu " File ( thuộc phần chứa tệp tín đính kèm chế_độ báo_cáo ) trong Bảng 1 được quy_định tại Bảng 2 .
+
+Bảng 2 - Định_dạng dữ_liệu File trong Bảng 1
+
+2 . 1 . 2 . Cấu_trúc , định_dạng dữ_liệu gói tin biểu_mẫu báo_cáo
+
+2 . 1 . 2 . 1 . Mô_tả
+
+Gói tin mô_tả các chỉ_tiêu ( hàng ) và các thuộc_tính ( cột ) đã được quy_định trong chế_độ báo_cáo ở dạng dữ_liệu số .
+
+2 . 1 . 2 . 2 . Cấu_trúc gói tin biểu_mẫu báo_cáo
+
+Cấu_trúc gói tin biểu_mẫu báo_cáo gồm 03 phần ( được minh_hoạ tại Hình 2 ) :
+
+- Phần chứa toàn_bộ gói tin biểu_mẫu báo_cáo ;
+
+- Phần chứa thông_tin chính ( Header ) ;
+
+- Phần chứa nội_dung biểu_mẫu báo_cáo ( Content ) .
+
+Hình 2 - Cấu_trúc gói tin biểu_mẫu báo_cáo
+
+2 . 1 . 2 . 3 . Định_dạng dữ_liệu gói tin biểu_mẫu báo_cáo
+
+Định_dạng dữ_liệu trong gói tin biểu_mẫu báo_cáo được quy_định tại Bảng 3 .
+
+Bảng 3 - Định_dạng dữ_liệu gói tín biểu_mẫu báo_cáo
+
+2 . 1 . 2 . 4 . Định_dạng dữ_liệu Attribute trong Bảng 3
+
+Định_dạng dữ_liệu Attribute ( thuộc phần chứa thông_tin cấu_trúc biểu_mẫu ) trong Bảng 3 được quy_định tại Bảng 4 .
+
+Bảng 4 - Định_dạng dữ_liệu Attribute trong Bảng 3
+
+2 . 1 . 2 . 5 . Định_dạng dữ_liệu Indicator trong Bảng 3
+
+Định_dạng dữ_liệu Indicator ( thuộc phần chứa nội_dung biểu_mẫu báo_cáo ) trong Bảng 3 được quy_định tại Bảng 5 .
+
+Bảng 5 - Định_dạng dữ_liệu Indicator trong Bảng 3
+
+2 . 1 . 2 . 6 . Định_dạng dữ_liệu Rule trong Bảng 3
+
+Định_dạng dữ_liệu Rule ( thuộc phần chứa nội_dung biểu_mẫu báo_cáo ) trong Bảng 3 được quy_định tại Bảng 6 .
+
+Bảng 6 - Định_dạng dữ_liệu Rule trong Bảng 3
+
+2 . 1 . 3 . Cấu_trúc , định_dạng dữ_liệu gói tin biểu_mẫu báo_cáo đề_cương
+
+2 . 1 . 3 . 1 . Mô_tả
+
+Gói tin mô_tả biểu_mẫu báo_cáo đề_cương bao_gồm các đề_mục đã được quy_định trong chế_độ báo_cáo ở dạng dữ_liệu số .
+
+2 . 1 . 3 . 2 . Cấu_trúc gói tin biểu_mẫu báo_cáo đề_cương
+
+Cấu_trúc gói tin biểu_mẫu báo_cáo đề_cương gồm 03 phần ( được minh_hoạ tại Hình 3 ) :
+
+- Phần chứa toàn_bộ gói tin biểu_mẫu báo_cáo đề_cương ;
+
+- Phần chứa thông_tin chính ( Header ) ;
+
+- Phần chứa thông_tin cấu_trúc biểu_mẫu báo_cáo đề_cương ( Content ) ,
+
+Hình 3 - Cấu_trúc gói tin biểu_mẫu báo_cáo đề_cương
+
+2 . 1 . 3 . 3 . Định_dạng dữ_liệu gói tin biểu_mẫu báo_cáo đề_cương
+
+Định_dạng dữ_liệu trong gói tin biểu_mẫu báo_cáo đề_cương được quy_định tại Bảng 7 .
+
+Bảng 7 - Định_dạng dữ_liệu gói tin biểu_mẫu báo_cáo đề_cương
+
+2 . 1 . 3 . 4 . Định_dạng dữ_liệu Title trong Bảng 7
+
+Định_dạng dữ_liệu Title ( thuộc phần chứa thông_tin cấu_trúc biểu_mẫu báo_cáo đề_cương ) trong Bảng 7 được quy_định tại Bảng 8 .
+
+Bảng 8 - Định_dạng dữ_liệu Title trong Bảng 7
+
+2 . 1 . 4 . Cấu_trúc , định_dạng dữ_liệu gói tin số_liệu báo_cáo
+
+2 . 1 . 4 . 1 . Mô_tả
+
+Gói tin mô_tả báo_cáo ( của cơ_quan báo_cáo ) ở dạng dữ_liệu số . Cơ_quan báo_cáo thực_hiện theo biểu_mẫu đã quy_định sẵn về hàng , cột .
+
+2 . 1 . 4 . 2 . Cấu_trúc gói tin số_liệu báo_cáo
+
+Cấu_trúc gói tin số_liệu báo_cáo gồm 04 phần ( được minh_hoạ tại Hình 4 ) :
+
+- Phần chứa toàn_bộ gói tin số_liệu báo_cáo ;
+
+- Phần chứa thông_tin chính ( Header ) ;
+
+- Phần chứa dữ_liệu báo_cáo ( Data ) ;
+
+- Phần chứa tệp_tin đính kèm báo_cáo ( Attachments ) .
+
+Hình 4 - Cấu_trúc gói tin số_liệu báo_cáo
+
+2 . 1 . 4 . 3 . Định_dạng dữ_liệu gói tin số_liệu báo_cáo
+
+Định_dạng dữ_liệu trong gói tin số_liệu báo_cáo được quy_định tại Bảng 9 .
+
+Bảng 9 - Định_dạng dữ_liệu gói tin số_liệu báo_cáo
+
+2 . 1 . 4 . 4 . Định_dạng dữ_liệu File trong Bảng 9
+
+Định_dạng dữ_liệu File " ( thuộc phần chứa tệp_tin đính kèm báo_cáo ) trong Bảng 9 được quy_định tại Bảng 10 .
+
+Bảng 10 - Định_dạng dữ_liệu File " tại Bảng 9
+
+2 . 1 . 5 . Cấu_trúc , định_dạng dữ_liệu gói tin số_liệu báo_cáo danh_sách
+
+2 . 1 . 5 . 1 . Mô_tả
+
+Gói tin mô_tả báo_cáo ( của cơ_quan báo_cáo ) ở dạng dữ_liệu số . Cơ_quan báo_cáo thực_hiện theo biểu_mẫu đã quy_định sẵn về cột , không quy_định cố_định về hàng ( cơ_quan báo_cáo có_thể thêm các hàng tuỳ theo nhu_cầu ) .
+
+2 . 1 . 5 . 2 . Cấu_trúc gói tin số_liệu báo_cáo danh_sách
+
+Cấu_trúc gói tin số_liệu báo_cáo danh_sách gồm 05 phần ( được minh_hoạ tại Hình 5 ) ;
+
+- Phần chứa toàn_bộ gói tin số_liệu báo_cáo danh_sách ;
+
+- Phần chứa thông_tin chính ( Header ) ;
+
+- Phần chứa dữ_liệu chỉ_tiêu báo_cáo ( Indicator ) ;
+
+- Phần chứa dữ_liệu báo_cáo ( Data ) ;
+
+- Phần chứa tệp_tin đính kèm báo_cáo ( Attachments ) .
+
+Hình 5 - Cấu_trúc gói tin số_liệu báo_cáo danh_sách
+
+2 . 1 . 5 . 3 . Định_dạng dữ_liệu gói tin số_liệu báo_cáo danh_sách
+
+Định_dạng dữ_liệu trong gói tin số_liệu báo_cáo danh_sách được quy_định tại Bảng 11 .
+
+Bảng 11 - Định_dạng dữ_liệu gói tin số_liệu báo_cáo danh_sách
+
+2 . 1 . 5 . 4 . Định_dạng dữ_liệu Indicator trong Bảng 11
+
+Định_dạng dữ_liệu Indicator ( thuộc phần chứa dữ_liệu chỉ_tiêu báo_cáo ) trong Bảng 11 được quy_định tại Bảng 12 .
+
+Bảng 12 - Định_dạng dữ_liệu Indicator trong Bảng 11
+
+2 . 1 . 5 . 5 . Định_dạng dữ_liệu File trong Bảng 11
+
+Định_dạng dữ_liệu " File ( thuộc phần chứa tệp_tin đính kèm báo_cáo ) trong Bảng 11 được quy_định tại Bảng 13 .
+
+Bảng 13 - Định_dạng dữ_liệu File trong Bảng 11
+
+2 . 1 . 6 . Cấu_trúc , định_dạng dữ_liệu gói tin gửi đề_cương báo_cáo
+
+2 . 1 . 6 . 1 . Mô_tả
+
+Gói tin mô_tả gửi đề_cương báo_cáo ( của cơ_quan báo_cáo ) ở dạng dữ_liệu số .
+
+2 . 1 . 6 . 2 . Cấu_trúc gói tin gửi đề_cương báo_cáo
+
+Cấu_trúc gói tin gửi đề_cương báo_cáo gồm 04 phần ( được minh_hoạ tại Hình 6 ) :
+
+- Phần chứa toàn_bộ gói tin gửi đề_cương báo_cáo ;
+
+- Phần chứa thông_tin chính ( Header ) ;
+
+- Phần chứa dữ_liệu báo_cáo ( Data ) ;
+
+- Phần chứa tệp_tin đính kèm báo_cáo ( Attachments ) .
+
+Hình 6 - Cấu_trúc gói tin gửi đề_cương báo_cáo
+
+2 . 1 . 6 . 3 . Định_dạng dữ_liệu gói tin gửi đề_cương báo_cáo
+
+Định_dạng dữ_liệu trong gói tin gửi đề_cương báo_cáo được quy_định tại Bảng 14 .
+
+Bảng 14 - Định_dạng dữ_liệu gói tin gửi đề_cương báo_cáo
+
+2 . 1 . 6 . 4 . Định_dạng dữ_liệu File trong Bảng 14
+
+Định_dạng dữ_liệu File ( thuộc phần chứa tệp_tin đính kèm báo_cáo ) trong Bảng 14 được quy_định tại Bảng 15 .
+
+Bảng 15 - Định_dạng dữ_liệu File trong Bảng 14
+
+2 . 1 . 7 . Cấu_trúc , định_dạng dữ_liệu gói tin trạng_thái báo_cáo
+
+2 . 1 . 7 . 1 . Mô_tả
+
+Gói tin mô_tả thông_tin về tình_trạng xử_lí của báo_cáo .
+
+2 . 1 . 7 . 2 . Cấu_trúc gói tin trạng_thái báo_cáo
+
+Cấu_trúc gói tin trạng_thái báo_cáo gồm 03 phần ( được minh_hoạ tại Hình 7 ) :
+
+- Phần chứa toàn_bộ gói tin trạng_thái báo_cáo ;
+
+- Phần chứa thông_tin chính ;
+
+- Phần chứa thông_tin trạng_thái báo_cáo .
+
+Hình 7 - Cấu_trúc gói tin trạng_thái báo_cáo
+
+2 . 1 . 7 . 3 . Định_dạng dữ_liệu gói tin trạng_thái báo_cáo
+
+Định_dạng dữ_liệu trong gói tin trạng_thái báo_cáo được quy_định tại Bảng 16 .
+
+Bảng 16 - Định_dạng dữ_liệu gói tin trạng_thái báo_cáo
+
+2 . 1 . 8 . Cấu_trúc , định_dạng dữ_liệu gói tin danh_mục kì báo_cáo
+
+2 . 1 . 8 . 1 . Mô_tả
+
+Gói tin mô_tả thông_tin về kì báo_cáo .
+
+2 . 1 . 8 . 2 . Cấu_trúc gói tin danh_mục kì báo_cáo
+
+Cấu_trúc gói tin danh_mục kì báo_cáo gồm 02 phần ( được minh_hoạ tại Hình 8 )
+
+- Phần chứa toàn_bộ gói tin danh_mục kì báo_cáo ;
+
+- Phần chứa thông_tin chính ( Header )
+
+Hình 8 - Cấu_trúc gói tin danh_mục kì báo_cáo
+
+2 . 1 . 8 . 3 . Định_dạng dữ_liệu gói tin danh_mục kì báo_cáo
+
+Định_dạng dữ_liệu trong gói tin danh_mục kì báo_cáo được quy_định tại Bảng 17 .
+
+Bảng 17 - Định_dạng dữ_liệu gói tin danh_mục kì báo_cáo
+
+2 . 1 . 9 . Cấu_trúc , định_dạng dữ_liệu gói tin danh_mục chỉ_tiêu báo_cáo
+
+2 . 1 . 9 . 1 . Mô_tả
+
+Gói tin mô_tả danh_mục chỉ_tiêu ( hàng ) cho gói tin số_liệu báo_cáo .
+
+2 . 1 . 9 . 2 . Cấu_trúc gói tin danh_mục chỉ_tiêu báo_cáo
+
+Cấu_trúc gói tin danh_mục chỉ_tiêu báo_cáo gồm 02 phần ( được minh_hoạ tại Hình 9 ) :
+
+- Phần chứa toàn_bộ gói tin danh_mục chỉ_tiêu báo_cáo ;
+
+- Phần chứa thông_tin chính .
+
+Hình 9 - Cấu_trúc gói tin danh_mục chỉ_tiêu báo_cáo
+
+2 . 1 . 9 . 3 . Định_dạng dữ_liệu gói tin danh_mục chỉ_tiêu báo_cáo
+
+Định_dạng dữ_liệu trong gói tin danh_mục chỉ_tiêu báo_cáo được quy_định tại Bảng 18 .
+
+Bảng 18 - Định_dạng dữ_liệu gói tin danh_mục chỉ_tiêu báo_cáo
+
+2 . 1 . 10 . Cấu_trúc , định_dạng dữ_liệu gói tin bộ chỉ_số ( kpi )
+
+2 . 1 . 10 . 1 . Mô_tả
+
+Gói tin mô_tả bộ chỉ_số phục_vụ chỉ_đạo , điều_hành ( kpi ) ở dạng dữ_liệu số .
+
+2 . 1 . 10 . 2 . Cấu_trúc gói tin bộ chỉ_số ( kpi )
+
+Cấu_trúc gói tin bộ chỉ_số gồm 02 phần ( được minh_hoạ tại Hình 10 ) :
+
+- Phần chứa toàn_bộ gói tin bộ chỉ_số ( kpi ) ;
+
+- Phần chứa thông_tin chính .
+
+Hình 10 - Cấu_trúc gói tin bộ chỉ_số ( kpi )
+
+2 . 1 . 10 . 3 . Định_dạng dữ_liệu gói tin bộ chỉ_số ( kpi )
+
+Định_dạng dữ_liệu trong gói tin bộ chỉ_số ( kpi ) được quy_định tại Bảng 19
+
+Bảng 19 - Định_dạng dữ_liệu gói tin bộ chỉ_số ( kpi )
+
+2 . 1 . 11 . Cấu_trúc , định_dạng dữ_liệu gói tin danh_mục nhóm chỉ_số
+
+2 . 1 . 11 . 1 . Mô_tả
+
+Gói tin danh_mục nhóm chỉ_số mô_tả nhóm các chỉ_số ở dạng dữ_liệu số .
+
+2 . 1 . 11 . 2 . Cấu_trúc gói tin danh_mục nhóm chỉ_số
+
+Cấu_trúc gói tin danh_mục nhóm chỉ_số gồm 02 phần ( được minh_hoạ tại Hình 11 )
+
+- Phần chứa toàn_bộ gói tin danh_mục nhóm chỉ_số :
+
+- Phần chứa thông_tin chính .
+
+Hình 11 - Cấu_trúc gói tin danh_mục nhóm chỉ_số
+
+2 . 1 . 11 . 3 . Định_dạng dữ_liệu gói tin danh_mục nhóm chỉ_số
+
+Định_dạng dữ_liệu trong gói tin danh_mục nhóm chỉ_số được quy_định tại Bảng 20 .
+
+Bảng 20 - Định_dạng dữ_liệu gói tin danh_mục nhóm chỉ_số
+
+2 . 1 . 12 . Cấu_trúc , định_dạng dữ_liệu gói tin danh_mục phân tổ chỉ_số
+
+2 . 1 . 12 . 1 . Mô_tả
+
+Gói tin mô_tả các phân tổ chỉ_số dưới dạng dữ_liệu số . Một chỉ_tiêu có nhiều phân tố .
+
+2 . 1 . 12 . 2 . Cấu_trúc gói tin danh_mục phân tổ chỉ_số
+
+Cấu_trúc gói tin danh_mục phân tổ chỉ_số gồm 02 phần ( được minh_hoạ tại Hình 12 ) :
+
+- Phần chứa toàn_bộ gói tin danh_mục phân tổ chỉ_số ;
+
+- Phần chứa thông_tin chính .
+
+Hình 12 - Cấu_trúc gói tin danh_mục phân tổ chỉ_số
+
+2 . 1 . 12 . 3 . Định_dạng dữ_liệu gói tin danh_mục phân tổ chỉ_số
+
+Định_dạng dữ_liệu trong gói tin danh_mục phân tổ chỉ_số được quy_định tại Bảng 21 .
+
+Bảng 21 - Định_dạng dữ_liệu gói tin danh_mục phân tổ chỉ_số
+
+2 . 1 . 12 . 4 . Định_dạng dữ_liệu Item trong Bảng 21
+
+Định_dạng dữ_liệu " Item ( thuộc phần chứa thông_tin chính ) trong Bảng 21 được quy_định tại Bảng 22 .
+
+Bảng 22 - Định_dạng dữ_liệu Item trong Bảng 21
+
+2 . 1 . 13 . Cấu_trúc , định_dạng dữ_liệu gói tin dữ_liệu chỉ_số ( kpi )
+
+2 . 1 . 13 . 1 . Mô_tả
+
+Gói tin mô_tả dữ_liệu của một chỉ_số ( kpi ) trong một kì báo_cáo ở dạng dữ_liệu số .
+
+2 . 1 . 13 . 2 . Cấu_trúc gói tin dữ_liệu chỉ_số ( kpi )
+
+Cấu_trúc gói tin dữ_liệu chỉ_số ( KPl ) gồm 03 phần ( được minh_hoạ tại Hình 13 ) :
+
+- Phần chứa toàn_bộ gói tin dữ_liệu chỉ_số ( kpi ) ;
+
+- Phần chứa thông_tin chính ;
+
+- Phần chứa dữ_liệu chỉ_số .
+
+Hình 13 - Cấu_trúc gói tín dữ_liệu chỉ_số ( KPl )
+
+2 . 1 . 13 . 3 . Định_dạng dữ_liệu gói tin dữ_liệu chỉ_số ( kpi )
+
+Định_dạng dữ_liệu trong gói tin dữ_liệu chỉ_số ( kpi ) được quy_định tại Bảng 23 .
+
+Bảng 23 - Định_dạng dữ_liệu gói tin dữ_liệu chỉ_số ( kpi )
+
+2 . 2 . Quy_định về kí số
+
+a ) Tiêu_chuẩn kí số thực_hiện theo tiêu_chuẩn Json Web_signature ( jws ) Rfc 7515 . Trình_tự kí số theo quy_định của Ban Cơ_yếu Chính_phủ quy_định . Mô_tả gói tin kí số như tại Bảng 24 .
+
+Bảng 24 - Mô_tả gói tin kí số
+
+b ) Các gói tin bắt_buộc kí số :
+
+Các gói tin bắt_buộc kí số như tại Bảng 25 .
+
+Bảng 25 - Các gói tin bắt_buộc kí số
+
+3 . Phương_pháp Đo Và Đánh_giá Kết_quả
+
+3 . 1 . Đo gửi gói tin
+
+a ) Trích_xuất tất_cả các gói tin ( nêu tại Điều 2 của Quy_chuẩn này ) được gửi từ hệ_thống thông_tin báo_cáo ( hệ_thống cần đo ) .
+
+b ) Kiểm_tra nội_dung từng gói tin đã trích xuất , đối_chiếu với quy_định của gói tin tương_ứng quy_định tại Điều 2 của Quy_chuẩn này .
+
+c ) Nếu tất_cả các trường thông_tin trong gói tin phù_hợp với quy_định tương_ứng tại Điều 2 của Quy_chuẩn này thì kết_luận gói tin đó là đạt .
+
+d ) Nếu có bất_kì trường thông_tin nào trong gói tin không phù_hợp với quy_định tương_ứng tại Điều 2 của Quy_chuẩn này thì kết_luận gói tin đó là không đạt .
+
+3 . 2 . Đo nhận gói tin
+
+a ) Chuẩn_bị gói tin mẫu đúng theo các quy_định kĩ_thuật của Quy_chuẩn .
+
+b ) Gửi gói tin mẫu tới hệ_thống thông_tin báo_cáo nhận ( hệ_thống cần đo ) .
+
+c ) Nếu tất_cả thông_tin trong gói tin gửi mã hệ_thống thông_tin báo_cáo nhận đều xử_lí được ( đọc và hiển_thị các nội_dung ) thì kết_luận gói tin đó là đạt
+
+d ) Nếu có bất_kì thông_tin trong gói tin gửi mà hệ_thống thông_tin báo_cáo nhận không xử_lí được ( đọc và hiển_thị đúng các nội_dung ) thì kết_luận gói tin đó là không đạt .
+
+3 . 3 . Đánh_giá kết_quả
+
+a ) Nếu tất_cả các gói tin đo tại 3 . 1 và 3 . 2 của Quy_chuẩn này đều đạt thì kết_luận hệ_thống là phù_hợp quy_chuẩn .
+
+b ) Nếu có bất_kì một ( 01 ) gói tin đo tại 3 . 1 và 3 . 2 của Quy_chuẩn này không đạt thì kết_luận hệ_thống là không phù_hợp quy_chuẩn .
+
+4 . Quy_định Về Quản_lý
+
+4 . 1 . Cấu_trúc gói tin và định_dạng dữ_liệu của Hệ_thống thông_tin báo_cáo của bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ . Ủy_ban nhân_dân cấp tỉnh , Hệ_thống thông_tin báo_cáo của Chính_phủ , Thủ_tướng Chính_phủ thuộc phạm_vi điều_chỉnh nêu tại 1 . 1 của Quy_chuẩn này phải tuân_thủ các yêu_cầu kĩ_thuật quy_định trong Điều 2 của Quy_chuẩn này .
+
+4 . 2 . Sản_phẩm phải được công_bố hợp quy là các Hệ_thống thông_tin báo_cáo của bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh , Hệ_thống thông_tin báo_cáo của Chính_phủ , Thủ_tướng Chính_phủ . Việc công_bố hợp quy dựa trên kết_quả tự đánh_giá sự phù_hợp của tổ_chức , cá_nhân_công_bố hợp quy , Kết_quả đo kiểm / thử_nghiệm phục_vụ công_bố hợp quy phải thực_hiện_tại phòng thử_nghiệm được chỉ_định theo quy_định hiện_hành .
+
+4 . 3 . Việc công_bố hợp quy thực_hiện theo Thông_tư số 28/2012/TT-BKHCN ngày 12 tháng 12 năm 2012 và Thông_tư số 02/2017/TT-BKHCN ngày 31 tháng 3 năm 2017 của Bộ Khoa_học và Công_nghệ và các văn_bản điều_chỉnh sau_này ( nếu có ) .
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+5 . 1 . Cơ_quan nhà_nước , tổ_chức , cá_nhân có hoạt_động_sản_xuất , cung_cấp , khai_thác và sử_dụng Hệ_thống thông_tin báo_cáo của bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh , Hệ_thống thông_tin báo_cáo của Chính_phủ . Thủ_tướng Chính_phủ có trách_nhiệm đảm_bảo tuân_thủ Quy_chuẩn này và chịu sự kiểm_tra của Cơ_quan quản_lí nhà_nước theo quy_định .
+
+5 . 2 . Trách_nhiệm công_bố hợp quy phù_hợp với Quy_chuẩn này : Các tổ_chức , doanh_nghiệp , cá_nhân sản_xuất có trách_nhiệm công_bố hợp quy đối_với sản_phẩm là Hệ_thống thông_tin báo_cáo của bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh . Hệ_thống thông_tin báo_cáo của Chính_phủ , Thủ_tướng Chính_phủ
+
+5 . 3 . Cục Tin_học_hoá có trách_nhiệm tiếp_nhận đăng_kí công_bố hợp quy , thực_hiện quản_lý , hướng_dẫn và kiểm_tra việc công_bố hợp quy
+
+6 . Tổ_chức Thực_hiện
+
+6 . 1 . Cục Tin_học_hoá có trách_nhiệm chủ_trì tổ_chức , phối_hợp với Cục Kiểm_soát thủ_tục hành_chính - Văn_phòng Chính_phủ hướng_dẫn , kiểm_tra việc thực_hiện các quy_định tại Quy_chuẩn kĩ_thuật quốc_gia này .
+
+6 . 2 . Trong trường_hợp các quy_định tại Quy_chuẩn kĩ_thuật quốc_gia này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới .
+
+6 . 3 . Trong quá_trình triển_khai thực_hiện Quy_chuẩn này , nếu có vấn_đề phát_sinh , vướng_mắc , các tổ_chức và cá_nhân có liên_quan phản_ánh bằng văn_bản về Bộ Thông_tin và Truyền_thông ( Vụ Khoa_học và Công_nghệ ) để được hướng_dẫn , giải_quyết . / .
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 4 . 1 Hệ_thống thông_tin báo_cáo quốc_gia , Hệ_thống thông_tin báo_cáo của bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh , Hệ_thống thông_tin báo_cáo của Chính_phủ , Thủ_tướng Chính_phủ
+
+1 . 4 . 2 . Mã định_danh điện_tử cơ_quan , đơn_vị
+
+1 . 4 . 3 . Kiểu dữ_liệu
+
+1 . 4 . 4 . Trạng_thái
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Quy_định về các gói tin
+
+2 . 1 . 1 . Cấu_trúc , định_dạng dữ_liệu gói tin chế_độ báo_cáo
+
+2 . 1 . 2 . Cấu_trúc , định_dạng dữ_liệu gói tin biểu_mẫu báo_cáo
+
+2 . 1 . 3 . Cấu_trúc , định_dạng dữ_liệu gói tin biểu_mẫu báo_cáo đề_cương
+
+2 . 1 4 Cấu_trúc , định_dạng dữ_liệu gỏi tín số_liệu báo_cáo
+
+2 . 1 . 5 . Cấu_trúc , định_dạng dữ_liệu gói tin số_liệu báo_cáo danh_sách
+
+2 . 1 . 6 . Cấu_trúc , định_dạng dữ_liệu gói tin gửi đề_cương báo_cáo
+
+2 . 1 . 7 . Cấu_trúc , định_dạng dữ_liệu gói tin trạng_thái báo_cáo
+
+2 . 1 . 8 . Cấu_trúc , định dang dữ_liệu gói tin danh_mục kì báo_cáo
+
+2 . 1 . 9 . Cấu_trúc , định_dạng dữ_liệu gói tin danh_mục chỉ_tiêu báo_cáo
+
+2 . 1 . 10 . Cấu_trúc , định_dạng dữ_liệu gói tin bộ chỉ_số ( KPl )
+
+2 . 1 . 11 . Cấu_trúc , định_dạng dữ_liệu gói tin danh_mục nhóm chỉ_số
+
+2 . 1 . 12 . Cấu_trúc , định_dạng dữ_liệu gói tin danh_mục phân tổ chỉ_số
+
+2 . 1 . 13 . Cấu_trúc , định_dạng dữ_liệu gói tin dữ_liệu chỉ_số ( kpi )
+
+2 . 2 . Quy_định về kí số
+
+3 . Phương_pháp Đo Và Đánh_giá Kết_quả
+
+3 . 1 . Đo gửi gói tin
+
+3 . 2 . Đo nhận gói tin
+
+3 . 3 . Đánh_giá kết_quả
+
+4 . Quy_định Về Quản_lý
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+6 . Tổ_chức Thực_hiện

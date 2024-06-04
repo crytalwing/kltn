@@ -1,0 +1,349 @@
+Thông_tư số 20/2015/tt-btttt ngày 21 tháng 07 năm 2015 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 132/2013/NĐ-CP ngày 16 tháng 10 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về IPv6 đối_với thiết_bị định_tuyến biên khách_hàng .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về IPv6 đối_với thiết_bị định_tuyến biên khách_hàng ( qcvn 90 : 2015 / bt ) .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 02 năm 2016 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 90 : 2015 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Ipv6 Đối_với Thiết_bị Định_tuyến Biên Khách_hàng
+
+National technical regulation on IPv6 Customer Edge_routers
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Thuật_ngữ viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Yêu_cầu chung
+
+2 . 2 . Yêu_cầu cấu_hình phía mạng Wan
+
+2 . 2 . 1 . Yêu_cầu phía Wan
+
+2 . 2 . 2 . Yêu_cầu tầng liên_kết
+
+2 . 2 . 3 . Yêu_cầu cấp_phát địa_chỉ
+
+2 . 2 . 4 . Yêu_cầu chuyển_giao tiền_tố
+
+2 . 3 . Yêu_cầu cấu_hình phía mạng Lan
+
+2 . 3 . 1 . Các yêu_cầu Ula
+
+2 . 3 . 2 . Các yêu_cầu về Lan
+
+2 . 4 . Yêu_cầu hỗ_trợ các công_nghệ chuyển_đổi
+
+2 . 4 . 1 . 6rd
+
+2 . 4 . 2 . DS - Lite
+
+3 . Phương_pháp_đo
+
+4 . Quy_định Về Quản_lý
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+6 . Tổ_chức Thực_hiện
+
+Thư_mục_tài_liệu Tham_khảo
+
+Lời_nói_đầu
+
+Qcvn 90 : 2015 / bt được xây_dựng trên cơ_sở tài_liệu Rfc 7084 của Nhóm đặc_trách về kĩ_thuật Internet ( ietf ) .
+
+Qcvn 90 : 2015 / bt do Viện Khoa_học Kỹ_thuật Bưu_điện biên_soạn , Vụ Khoa_học và Công_nghệ thẩm_định và trình_duyệt , Bộ Thông_tin và Truyền_thông ban_hành kèm theo <TT rel="DC"> Thông_tư số 20/2015/TT-BTTTT ngày 21 tháng 7 năm 2015 </TT>
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Ipv6 Đối_với Thiết_bị Định_tuyến Biên Khách_hàng
+
+National technical regulation on IPv6 Customer Edge_routers
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn này quy_định các yêu_cầu kĩ_thuật và phương_pháp đo đối_với thiết_bị định_tuyến biên khách_hàng IPv6 ( gọi tắt là Ce Router IPv6 ) .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn này áp_dụng đối_với các tổ_chức , cá_nhân có hoạt_động_sản_xuất , nhập_khẩu , sử_dụng và khai_thác các thiết_bị định_tuyến biên khách_hàng IPv6 tại Việt_nam .
+
+1 . 3 . Tài_liệu viện_dẫn
+
+Qcvn 89 : 2015 / bt , Quy_chuẩn kĩ_thuật quốc_gia về IPv6 đối_với thiết_bị nút .
+
+Tcvn 9802-3:2015, Giao_thức Internet phiên_bản 6 ( IPv6 ) - Phần 3 : Giao_thức phát_hiện nút mạng lân_cận .
+
+Rfc 1122 , " Requirements for Internet_hosts - Communication_layers " , October 1989 .
+
+Rfc 2464 , " Transmission of IPv6 Packets over Ethernet_networks " , December 1998 .
+
+Rfc 3315 , " Dynamic Host Configuration Protocol for IPv6 ( DHCPv6 ) " , July 2003 .
+
+Rfc 3633 , " IPv6 Prefix Options for Dynamic Host Configuration_protocol ( dhcp ) version 6 " , December 2003 .
+
+Rfc 3646 , " dns Configuration options for Dynamic Host Configuration Protocol for IPv6 ( DHCPv6 ) " , December 2003 .
+
+Rfc 3704 , " Ingress Filtering for Multihomed_networks " , March 2004 .
+
+Rfc 3736 , " Stateless Dynamic Host Configuration_protocol ( dhcp ) Service for IPv6 " , April 2004 .
+
+Rfc 4191 , " Default Router Preferences and More - Specific_routes " , November 2005 .
+
+Rfc 4193 , " Unique Local IPv6 Unicast_addresses " , October 2005 .
+
+Rfc 4443 , " Internet Control Message_protocol ( ICMPv6 ) for the Internet Protocol Version 6 ( IPv6 ) Specification " , March 2006 .
+
+Rfc 4862 , " IPv6 Stateless Address_autoconfiguration " , September 2007 .
+
+Rfc 5072 , " ip Version 6 over Pp " , September 2007 .
+
+Rfc 5942 , " IPv6 Subnet_model : The_relationship between Links and Subnet_prefixes " , July 2010 .
+
+Rfc 5969 " lPv6 Rapid Deployment on IPv4 lnfrastructures ( 6rd ) - Protocol_specification " , August 2010 .
+
+Rfc 6106 , " IPv6 router Advertisement Options for Dns_configuration " , November 2010 .
+
+Rfc 6333 , " Dual - Stack Lite Broadband Deployments Following IPv4 Exhaustion " , August 2011 .
+
+Rfc 6334 , " Dynamic Host Configuration Protocol for IPv6 ( DHCPv6 ) Option for Dual - Stack_lite " , August 2011 .
+
+Rfc 7083 , " Modification to Default Values of Sol _ max _ rt and Inf _ max _ rt " , November 2013 .
+
+IPv6 Ready - Conformance Test Scenario Ce_router - Technical_document - Revision 1 . 0 . 0b2 , IPv6 Forum , March 12 , 2015 .
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 4 . 1 . Doanh_nghiệp cung_cấp dịch_vụ
+
+Doanh_nghiệp cung_cấp dịch_vụ Internet theo quy_định của pháp_luật . Trong quy_chuẩn này , là doanh_nghiệp cung_cấp dịch_vụ hỗ_trợ truy_nhập Internet sử_dụng IPv6 , và cũng có_thể hỗ_trợ truy_nhập Internet sử_dụng IPv4 .
+
+1 . 4 . 2 . Mạng người sử_dụng đầu_cuối
+
+Mạng có một hoặc nhiều đường kết_nối gắn các Host IPv6 với Ce Router IPv6 .
+
+1 . 4 . 3 . Thiết_bị định_tuyến biên khách_hàng IPv6 ( ce Router IPv6 )
+
+Thiết_bị nút mạng dành cho gia_đình hoặc văn_phòng sử_dụng để chuyển_tiếp gói tin IPv6 . Ce Router IPv6 kết_nối_mạng người sử_dụng đầu_cuối tới mạng của doanh_nghiệp cung_cấp dịch_vụ .
+
+1 . 4 . 4 . Host_iPv6
+
+Thiết_bị thực_hiện một ngăn xếp IPv6 ( IPv6 stack ) nhận kết_nối IPv6 thông_qua Ce Router IPv6 . Trong quy_chuẩn này , Host IPv6 thuộc mạng người sử_dụng đầu_cuối .
+
+Vị_trí , mối liên_hệ giữa mạng của doanh_nghiệp cung_cấp dịch_vụ , mạng người sử_dụng đầu_cuối , Ce Router IPv6 và Host IPv6 được minh_hoạ trong Hình 1 .
+
+Hình 1 - Mô_hình mạng người sử_dụng đầu_cuối điển_hình
+
+1 . 4 . 5 . Giao_diện Lan
+
+Giao_diện của Ce Router IPv6 gắn với một liên_kết trong mạng người sử_dụng đầu_cuối . Một Ce Router IPv6 có_thể có một hoặc nhiều giao_diện Lan .
+
+1 . 4 . 6 . Giao_diện Wan
+
+Giao_diện của Ce Router IPv6 gắn với một liên_kết để cung_cấp kết_nối tới mạng của doanh_nghiệp cung_cấp dịch_vụ .
+
+1 . 4 . 7 . Dual Stack_lite ( DS - Lite )
+
+Công_nghệ cho phép vừa tiếp_tục hỗ_trợ các dịch_vụ IPv4 và vừa khuyến_khích triển_khai IPv6 . DS - Lite cho phép doanh_nghiệp cung_cấp dịch_vụ băng rộng chia_sẻ các địa_chỉ IPv4 giữa các khách_hàng bằng cách kết_hợp hai công_nghệ đã biết là IPv4 trong IPv6 và Nat .
+
+1 . 4 . 8 . Địa_chỉ Ula
+
+Địa_chỉ có tính duy_nhất phạm_vi toàn_cầu và sử_dụng cho truyền_thông cục_bộ . Địa_chỉ này không sử_dụng để định_tuyến Internet toàn_cầu , nhưng có_thể sử_dụng để định_tuyến bên trong một khu_vực hạn_chế hơn , như một site . Địa_chỉ này cũng có_thể được định_tuyến giữa một tập hạn_chế các site .
+
+1 . 4 . 9 . Bản tin ICMPv6 Destination_unreachable
+
+Bản tin báo lỗi để hồi_đáp cho gói tin không_thể phân_phát đến địa_chỉ đích vì các lí_do không phải do nghẽn mạng .
+
+1 . 4 . 10 . 6rd
+
+Một cơ_chế giao_thức để triển_khai IPv6 đến các site thông_qua mạng IPv4 của doanh_nghiệp cung_cấp dịch_vụ .
+
+1 . 4 . 11 . Thuật_ngữ chỉ mức_độ yêu_cầu
+
+Các từ in hoa " phải , Nên , Có_thể " , Không Nên , Không Được được sử_dụng trong các Tcvn nêu tại mục 1 . 3 và Required , Must , Shall , Should , May , Should_not , Must_not , Shall Not được sử_dụng trong các Rfc nêu tại mục 1 . 3 nhằm Chỉ_thị mức_độ yêu_cầu tuân_thủ các đặc_tả kĩ_thuật , yêu_cầu kĩ_thuật quy_định trong các tài_liệu này .
+
+1 . 5 . Thuật_ngữ viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Yêu_cầu chung
+
+Ce Router IPv6 thực_hiện định_tuyến IPv6 và phải đảm_bảo_lưu_lượng sử_dụng địa_chỉ Ula của Ce Router IPv6 đó không truyền ra ngoài giao_diện Wan , và không bắt_nguồn từ giao_diện Wan .
+
+2 . 1 . 1 . Một Ce Router IPv6 cũng là một thiết_bị nút IPv6 . Ce Router IPv6 phải tuân_thủ Qcvn 89 : 2015 / bt Quy_chuẩn kĩ_thuật quốc_gia về IPv6 đối_với thiết_bị nút .
+
+2 . 1 . 2 . Ce Router IPv6 phải thực_hiện Ic mp theo quy_định trong Rfc 4443 . Cụ_thể , các kết_nối điểm - điểm phải được điều_khiển như trong Phần 3 . 1 của Rfc 4443 .
+
+2 . 1 . 3 . Ce Router IPv6 không được chuyển_tiếp bất_kì lưu_lượng IPv6 nào giữa những giao_diện Lan và giao_diện Wan cho đến khi Ce Router IPv6 đó thực_hiện thành_công quá_trình nhận tiền_tố chuyển_giao và địa_chỉ IPv6 .
+
+2 . 1 . 4 . Khi Ce Router IPv6 không có router mặc_định trên giao_diện Wan thì Ce Router IPv6 không được quảng_bá nó như một router mặc_định trên các giao_diện Lan của Ce Router IPv6 đó , nghĩa_là trường Router Lifetime được thiết_lập về 0 trên tất_cả các bản tin quảng_bá router Ra mà nó khởi tạo ( quy_định trong Tcvn 9802-3:2015).
+
+2 . 1 . 5 . Nếu Ce Router IPv6 đang quảng_bá và mất ( các ) router mặc_định IPv6 của Ce Router IPv6 đó và / hoặc phát_hiện mất kết_nối trên giao_diện Wan thì Ce Router IPv6 phải gửi một hay nhiều bản tin Ra với trường Router Lifetime_thiết_lập bằng 0 .
+
+2 . 2 . Yêu_cầu cấu_hình phía mạng Wan
+
+2 . 2 . 1 . Yêu_cầu phía Wan
+
+2 . 2 . 1 . 1 . Khi Ce Router IPv6 gắn vào đường kết_nối giao_diện Wan , Ce Router IPv6 phải đóng vai_trò như một Host IPv6 cho mục_đích gán địa_chỉ giao_diện giữ trạng_thái theo quy_định trong Rfc 3315 hay không giữ trạng_thái theo quy_định trong Rfc 4862 .
+
+2 . 2 . 1 . 2 . Ce Router IPv6 phải tạo ra một địa_chỉ link - local và hoàn_thành việc phát_hiện địa_chỉ trùng_lặp quy_định trong Rfc 4862 trước khi gửi bản tin Rs trên giao_diện . Địa_chỉ nguồn được sử_dụng trong bản tin Rs tiếp_theo phải là địa_chỉ link - local trên giao_diện Wan .
+
+2 . 2 . 1 . 3 . Khi thiếu thông_tin định_tuyến , Ce Router IPv6 phải thực_hiện Rd theo quy_định trong Tcvn 9802-3:2015 để phát_hiện router mặc_định và thiết_lập tuyến mặc_định vào bảng định_tuyến của Ce Router IPv6 đó với địa_chỉ router được phát_hiện làm router kế_tiếp .
+
+2 . 2 . 1 . 4 . Ce Router IPv6 phải đóng vai_trò là router yêu_cầu , phục_vụ cho mục_đích chuyển_giao tiền_tố DHCPv6 theo quy_định trong Rfc 3633 .
+
+2 . 2 . 1 . 5 . Ce Router IPv6 phải sử_dụng Duid nhất_quán đối_với các bản tin DHCPv6 . Duid không được thay_đổi giữa các lần thiết_lập lại giao_diện mạng hoặc khởi_động lại Ce Router IPv6 .
+
+2 . 2 . 2 . Yêu_cầu tầng liên_kết
+
+2 . 2 . 2 . 1 . Nếu giao_diện Wan của Ce Router IPv6 hỗ_trợ đóng_gói Ethernet thì Ce Router IPv6 đó phải hỗ_trợ truyền gói tin IPv6 qua Ethernet theo quy_định trong Rfc 2464 .
+
+2 . 2 . 2 . 2 . Nếu giao_diện Wan của Ce Router IPv6 hỗ_trợ đóng_gói Pp thì Ce Router IPv6 đó phải hỗ_trợ truyền gói tin IPv6 qua Pp theo quy_định trong Rfc 5072 .
+
+2 . 2 . 2 . 3 . Nếu giao_diện Wan của Ce Router IPv6 hỗ_trợ đóng_gói Pp , trong môi_trường dual - stack với Ipcp và IPv6CP chạy trên một kênh logic Pp thì các giao_thức điều_khiển mạng Ncp phải được đối_xử độc_lập với nhau và bắt_đầu , kết_thúc một_cách độc_lập .
+
+2 . 2 . 3 . Yêu_cầu cấp_phát địa_chỉ
+
+2 . 2 . 3 . 1 . Ce Router IPv6 phải hỗ_trợ tự_động cấu_hình địa_chỉ Slac như quy_định trong Rfc 4862 .
+
+2 . 2 . 3 . 2 . Ce Router IPv6 phải tuân theo những khuyến_nghị trong phần 4 của Rfc 5942 , và quá_trình xử_lí cờ L trong tuỳ chọn thông_tin tiền_tố của bản tin Ra .
+
+2 . 2 . 3 . 3 . Ce Router IPv6 phải hỗ_trợ tập_tính client trong DHCPv6 quy_định trong Rfc 3315 .
+
+2 . 2 . 3 . 4 . Ce Router IPv6 phải hỗ_trợ những tuỳ chọn DHCPv6 sau : Ia _ na , chấp_nhận cấu_hình lại như quy_định trong Rfc 3315 , và Dns _ servers như quy_định trong Rfc 3646 .
+
+2 . 2 . 3 . 5 . Nếu Ce Router IPv6 nhận một bản tin Ra với cờ M_thiết_lập là 1 thì Ce Router IPv6 phải thực_hiện cấp_phát địa_chỉ theo DHCPv6 ( yêu_cầu một tuỳ chọn Ia _ na ) .
+
+2 . 2 . 3 . 6 . Nếu Ce Router IPv6 không nhận được địa_chỉ IPv6 toàn_cục từ Slac hoặc DHCPv6 , thì Ce Router IPv6 Phải tạo địa_chỉ IPv6 toàn_cục từ ( các ) tiền_tố được chuyển_giao và cấu_hình chúng trên một trong các giao_diện mạng ảo nội_bộ , trừ khi đã cấu_hình yêu_cầu địa_chỉ IPv6 toàn_cục trên giao_diện Wan .
+
+2 . 2 . 3 . 7 . Ce Router IPv6 phải hỗ_trợ tuỳ chọn Sol _ max _ rt như quy_định trong Rfc 7083 và yêu_cầu tuỳ chọn Sol _ max _ rt trong một Oro .
+
+2 . 2 . 3 . 8 . Ce Router IPv6 phải theo mô_hình weak host như quy_định trong Rfc 1122 . Khi các gói tin bắt_nguồn từ một giao_diện , gói tin đó sẽ sử_dụng địa_chỉ nguồn từ một giao_diện khác nếu giao_diện đầu_ra không có địa_chỉ trong dải phạm_vi phù_hợp .
+
+2 . 2 . 4 . Yêu_cầu chuyển_giao tiền_tố
+
+2 . 2 . 4 . 1 . Ce Router IPv6 phải hỗ_trợ tập_tính của router yêu_cầu chuyển_giao tiền_tố DHCPv6 như được quy_định trong Rfc 3633 ( tuỳ chọn Ia _ pd ) .
+
+2 . 2 . 4 . 2 . Nếu Ce Router IPv6 đưa ra gợi_ý cho router chuyển_giao về kích_cỡ tiền_tố yêu_cầu thì Ce Router IPv6 phải yêu_cầu một tiền_tố đủ lớn để cấp_phát / 64 cho mỗi giao_diện của nó , được làm_tròn tới bốn bít gần nhất .
+
+2 . 2 . 4 . 3 . Ce Router IPv6 phải chấp_nhận một tiền_tố chuyển_giao có kích_thước khác với kích_thước tiền_tố đã đưa ra trong gợi_ý .
+
+2 . 2 . 4 . 4 . Mặc_định , Ce Router IPv6 phải khởi tạo chuyển_giao tiền_tố DHCPv6 khi nhận được bản tin Ra chứa cờ M hoặc cờ O với giá_trị bằng 1 .
+
+2 . 2 . 4 . 5 . Khi Ce Router IPv6 nhận được gói tin có địa_chỉ đích với tiền_tố thuộc tiền_tố đã chuyển_giao cho Ce Router IPv6 nhưng không thuộc tiền_tố do Ce Router IPv6 gán cho Lan thì gói tin đó phải bị loại_bỏ .
+
+2 . 2 . 4 . 6 . Nếu Ce Router IPv6 yêu_cầu cả tuỳ chọn Ia _ na và Ia _ pd trong DHCPv6 thì Ce Router IPv6 phải chấp_nhận tuỳ chọn Ia _ pd trong bản tin quảng_bá và bản tin trả_lời , thậm_chí bản tin không có bất_kì địa_chỉ nào , trừ khi đã cấu_hình để chỉ nhận địa_chỉ Wan IPv6 thông_qua DHCPv6 .
+
+2 . 2 . 4 . 7 . Mặc_định , Ce Router IPv6 không được khởi tạo bất_kì giao_thức định_tuyến động nào trên giao_diện Wan .
+
+2 . 3 . Yêu_cầu cấu_hình phía mạng Lan
+
+2 . 3 . 1 . Các yêu_cầu Ula
+
+2 . 3 . 1 . 1 . Ce Router IPv6 phải duy_trì nhất_quán tiền_tố Ula sau mỗi lần khởi_động lại .
+
+2 . 3 . 1 . 2 . Mặc_định , Ce Router IPv6 phải đóng vai_trò như một router biên theo mục 4 . 3 của Rfc 4193 và lọc các gói tin có địa_chỉ IPv6 nguồn và đích cục_bộ phù_hợp .
+
+2 . 3 . 1 . 3 . Ce Router IPv6 không được quảng_bá nó như một router mặc_định trong trường_hợp tất_cả các tiền_tố được cấu_hình và chuyển_giao của Ce Router IPv6 đó là các tiền_tố Ula .
+
+2 . 3 . 2 . Các yêu_cầu về Lan
+
+2 . 3 . 2 . 1 . Ce Router IPv6 phải hỗ_trợ tập_tính của router trong việc phát_hiện nút mạng lân_cận cho IPv6 theo quy_định trong Tcvn 9802-3:2015.
+
+2 . 3 . 2 . 2 . Ce Router IPv6 phải gán một tiền_tố kích_thước / 64 phân_biệt từ ( các ) tiền_tố đã được chuyển_giao của router đó cho mỗi giao_diện Lan .
+
+2 . 3 . 2 . 3 . Ce Router IPv6 phải quảng_bá nó là một router có ( các ) tiền_tố được chuyển_giao sử_dụng tuỳ chọn thông_tin định_tuyến Route Information Option được quy_định trong mục 2 . 3 của Rfc 4191 . Quảng_bá này độc_lập với việc có hay không có kết_nối IPv6 trên giao_diện Wan .
+
+2 . 3 . 2 . 4 . Ce Router IPv6 không được quảng_bá nó như một router mặc_định nếu Ce Router IPv6 đó không có tiền_tố được cấu_hình hay được chuyển_giao .
+
+2 . 3 . 2 . 5 . Ce Router IPv6 phải tạo trên mỗi giao_diện Lan một giao_diện quảng_bá theo quy_định trong Tcvn 9802-3:2015.
+
+2 . 3 . 2 . 6 . Mặc_định , các cờ tuỳ chọn thông_tin tiền_tố A và L trong bản tin Ra phải thiết_lập bằng 1 .
+
+2 . 3 . 2 . 7 . Ce Router IPv6 phải hỗ_trợ máy_chủ DHCPvô cấp_phát địa_chỉ IPv6 theo quy_định trong Rfc 3315 hoặc máy_chủ DHCPv6 không giữ trạng_thái theo quy_định trong Rfc 3736 trên các giao_diện Lan .
+
+2 . 3 . 2 . 8 . Ce Router IPv6 phải hỗ_trợ việc cung_cấp thông_tin Dns trong các tuỳ chọn của DHCPv6 là Dns _ servers IPv6 và Domain _ list IPv6 theo quy_định trong Rfc 3646 .
+
+2 . 3 . 2 . 9 . Ce Router IPv6 phải hỗ_trợ cung_cấp thông_tin Dns trong tuỳ chọn Rdns và Dnsl theo quy_định trong Rfc 6106 .
+
+2 . 3 . 2 . 10 . Nếu tiền_tố được chuyển_giao thay_đổi , thì ngay lúc đó Ce Router IPv6 phải quảng_bá tiền_tố cũ với trường Preferred Lifetime bằng 0 và giá_trị Valid Lifetime bằng 0 hoặc bằng giá_trị nhỏ hơn giữa giá_trị Valid Lifetime hiện_tại và 2 giờ trong bản tin Ra như được mô_tả trong mục 5 . 5 . 3 của Rfc 4862 .
+
+2 . 3 . 2 . 11 . Ce Router IPv6 phải gửi một bản tin ICMPv6 Destination_unreachable , có giá_trị trường Code bằng 5 đối_với những gói tin đã chuyển đến Ce Router IPv6 nhưng sử_dụng địa_chỉ từ một tiền_tố không hợp_lệ .
+
+2 . 4 . Yêu_cầu hỗ_trợ các công_nghệ chuyển_đổi
+
+2 . 4 . 1 . 6rd
+
+Nếu Ce Router IPv6 hỗ_trợ 6rd thì 6rd phải được thực_hiện theo quy_định trong Rfc 5969 . Các yêu_cầu sau đây đối_với Ce Router IPv6 cũng được áp_dụng :
+
+2 . 4 . 1 . 1 . Ce Router IPv6 phải hỗ_trợ cấu_hình 6rd thông_qua tuỳ chọn 6rd Dhcpv4 mã 212 .
+
+2 . 4 . 1 . 2 . Nếu Ce Router IPv6 có khả_năng tự_động cấu_hình IPv4 thông_qua Ipcp thì Ce Router IPv6 phải hỗ_trợ cấu_hình 6rd người sử_dụng nhập vào .
+
+2 . 4 . 1 . 3 . Nếu Ce Router IPv6 hỗ_trợ các cơ_chế cấu_hình khác tuỳ chọn 6rd DHCPv4 mã 212 thì Ce Router IPv6 phải hỗ_trợ 6rd trong mô_hình hub and spoke .
+
+2 . 4 . 1 . 4 . Một Ce Router IPv6 phải cho phép các giao_diện Wan IPv6 thuần và 6rd hoạt_động riêng_rẽ cũng như hoạt_động đồng_thời .
+
+2 . 4 . 1 . 5 . Mỗi gói tin gửi trên giao_diện Wan thuần hoặc 6rd phải có địa_chỉ nguồn là địa_chỉ nhận được từ việc kết_hợp của tiền_tố chuyển_giao với một giao_diện cụ_thể , như quy_định trong phần 4 . 3 của Rfc 3704 .
+
+2 . 4 . 1 . 6 . Ce Router IPv6 phải cho phép các tiền_tố chuyển_giao khác nhau cũng như giống nhau được cấu_hình qua mỗi giao_diện Wan ( 6rd hoặc thuần ) .
+
+2 . 4 . 1 . 7 . Nếu các quy_tắc chuyển_tiếp có ràng_buộc giữa 6rd và IPv6 thuần , thì theo mặc_định , Ce Router IPv6 phải ưu_tiên IPv6 thuần .
+
+2 . 4 . 2 . DS - Lite
+
+Nếu Ce Router IPv6 hỗ_trợ DS - Lite thì DS - Lite phải thực_hiện theo quy_định trong Rfc 6333 . Các yêu_cầu cho Ce Router IPv6 sau đây được áp_dụng :
+
+2 . 4 . 2 . 1 . Ce Router IPv6 phải hỗ_trợ cấu_hình DS - Lite qua tuỳ chọn DHCPv6 DS - Lite quy_định trong Rfc 6334 .
+
+2 . 4 . 2 . 2 . Ce Router IPv6 không được thực_hiện Nat trên lưu_lượng IPv4 đã đóng_gói sử_dụng DS - Lite .
+
+3 . Phương_pháp_đo
+
+Phương_pháp đo kiểm các yêu_cầu kĩ_thuật nêu tại mục 2 được thực_hiện theo tài_liệu IPv6 Ready - Conformance Test Scenario Ce_router - Technical_document - Revision 1 . 0 . 0b2 .
+
+4 . Quy_định Về Quản_lý
+
+4 . 1 . Các thiết_bị định_tuyến biên khách_hàng IPv6 thuộc phạm_vi điều_chỉnh nêu tại mục 1 . 1 phải tuân_thủ các quy_định kĩ_thuật trong Quy_chuẩn này .
+
+4 . 2 . Khi áp_dụng các tài_liệu viện_dẫn được nêu trong mục 1 . 3 , tại các nơi có thuật_ngữ chỉ mức_độ yêu_cầu , chỉ bắt_buộc áp_dụng các mức_độ yêu_cầu Phải , Không Được ( trong các Tcvn ) và Required , Must , Shall , Must_not , Shall_not ( trong các Rfc ) .
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+Các tổ_chức , cá_nhân liên_quan có trách_nhiệm thực_hiện công_bố hợp quy các thiết_bị định_tuyến biên khách_hàng IPv6 tuân_thủ Quy_chuẩn này và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành .
+
+6 . Tổ_chức Thực_hiện
+
+6 . 1 . Cục Viễn_thông , Trung_tâm Internet Việt_nam và các Sở Thông_tin và Truyền_thông có trách_nhiệm tổ_chức hướng_dẫn , triển_khai quản_lí thiết_bị định_tuyến biên khách_hàng IPv6 theo Quy_chuẩn kĩ_thuật này .
+
+6 . 2 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn kĩ_thuật này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới . / .
+
+Thư_mục_tài_liệu Tham_khảo
+
+[ 1 ] Rfc 7084 , Basic Requirements for IPv6 Customer Edge_routers , November 2013 .

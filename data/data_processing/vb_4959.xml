@@ -1,0 +1,79 @@
+Thông_tư số 13/2023/tt-btttt ngày 23 tháng 11 năm 2023 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tần_số vô_tuyến_điện ngày 23 tháng 11 năm 2009 ; Luật sửa_đổi , bổ_sung một_số điều của Luật Tần_số vô_tuyến_điện ngày 09 tháng 11 năm 2022 ;
+
+Căn_cứ Nghị_định số 48/2022/NĐ-CP ngày 26 tháng 7 năm 2022 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Căn_cứ Quyết_định số 71/2013/QĐ-TTg ngày 21 tháng 11 năm 2013 của Thủ_tướng Chính_phủ ban_hành Quy_hoạch phổ tần_số vô_tuyến_điện quốc_gia ; Quyết_định số 38/2021/QĐ-TTg ngày 29 tháng 12 năm 2021 của Thủ_tướng Chính_phủ sửa_đổi , bổ_sung một_số điều của Quyết_định số 71/2013/QĐ-TTg ngày 21 tháng 11 năm 2013 của Thủ_tướng Chính_phủ ban_hành Quy_hoạch phổ tần_số vô_tuyến_điện quốc_gia ;
+
+Theo đề_nghị của Cục_trưởng Cục Tần_số vô_tuyến_điện ;
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư Quy_hoạch băng tần 3560-4000 MHz cho hệ_thống thông_tin di_động mặt_đất công_cộng Imt của Việt_nam .
+
+1 . Phạm_vi điều_chỉnh :
+
+Thông_tư này quy_hoạch băng tần 3560-4000 MHz để triển_khai các hệ_thống thông_tin di_động mặt_đất công_cộng Imt1 ( sau đây gọi là hệ_thống Imt ) của Việt_nam .
+
+2 . Đối_tượng áp_dụng :
+
+Thông_tư này áp_dụng đối_với tổ_chức , cá_nhân tham_gia quản_lý , sử_dụng tần_số vô_tuyến_điện ; tổ_chức , cá_nhân sản_xuất , nhập_khẩu , kinh_doanh thiết_bị vô_tuyến_điện để sử_dụng tại Việt_nam .
+
+Điều 2 . Nội_dung quy_hoạch
+
+1 . Băng_tần 3560-4000 MHz được sử_dụng để triển_khai hệ_thống thông_tin di_động mặt_đất công_cộng theo tiêu_chuẩn Imt - 2020 và các phiên_bản tiếp_theo .
+
+Băng_tần 3560-4000 MHz được phân_chia như sau :
+
+a ) Băng_tần 3600-3980 MHz được phân_chia thành 04 khối băng tần theo phương_thức truyền_dẫn song công phân_chia theo thời_gian ( sau đây gọi là phương_thức Tdd2 ) như sau :
+
+Khối C1 có độ rộng 100 MHz , từ tần_số 3600 MHz đến 3700 MHz ;
+
+Khối C2 có độ rộng 100 MHz , từ tần_số 3700 MHz đến 3800 MHz ;
+
+Khối C3 có độ rộng 100 MHz , từ tần_số 3800 MHz đến 3900 MHz ;
+
+Khối C4 có độ rộng 80 MHz , từ tần_số 3900 MHz đến 3980 MHz ;
+
+b ) Các băng tần 3560-3600 MHz và 3980-4000 MHz được sử_dụng làm băng tần bảo_vệ ;
+
+c ) Căn_cứ vào khả_năng xử_lí nhiễu có hại cho các đài trái_đất thuộc hệ_thống cố_định qua vệ_tinh hoạt_động trong băng tần 3400-3560 MHz , Bộ Thông_tin và Truyền_thông quyết_định thời_điểm đưa khối C1 vào sử_dụng .
+
+2 . Giới_hạn tối_đa tổng_độ rộng băng tần mà một tổ_chức được cấp phép sử_dụng trong nhóm hai băng tần 2500-2600 MHz3 và 3700-3980 MHz ( khi chưa đưa khối C1 vào sử_dụng ) là 180 MHz , trong nhóm hai băng tần 2500-2600 MHz và 3600-3980 MHz ( khi đưa khối C1 vào sử_dụng ) là 200 MHz .
+
+3 . Tổ_chức được cấp giấy_phép sử_dụng băng tần trong băng tần 3600-3980 MHz có trách_nhiệm đồng_bộ về khung dữ_liệu của phương_thức Td và phối_hợp với tổ_chức khác được cấp giấy_phép trong băng tần này để tránh nhiễu có hại .
+
+Điều 3 . Điều_kiện sử_dụng đối_với hệ_thống Imt hoạt_động trong băng tần 3600-3980 MHz
+
+Hệ_thống Imt hoạt_động trong băng tần 3600-3980 MHz phải đáp_ứng các điều_kiện sử_dụng như sau :
+
+1 . Điều_kiện để tránh nhiễu có hại cho đài trái_đất thuộc hệ_thống cố_định qua vệ_tinh ( sau đây gọi là đài trái_đất ) trong Danh_sách quy_định tại khoản 3 Điều 4 Thông_tư này : mật_độ thông_lượng công_suất ( pfd ) của phát_xạ từ hệ_thống Imt phải đáp_ứng quy_định tại Mục 1 Phụ_lục I ban_hành kèm theo Thông_tư này .
+
+2 . Điều_kiện để tránh nhiễu có hại cho đài trái_đất có chức_năng đo xa , giám_sát và điều_khiển vệ_tinh ( sau đây gọi là đài Tt & c ) và đài trái_đất hoạt_động trong mạng vệ_tinh mặt_đất Inmarsat Hải_phòng ( sau đây gọi là đài Hples ) quy_định tại Mục 2 Phụ_lục I ban_hành kèm theo Thông_tư này :
+
+a ) Không triển_khai thiết_bị trạm gốc của hệ_thống Imt ( sau đây gọi là trạm gốc Imt ) sử_dụng băng tần 3600-3980 MHz trong cự_li từ 0 km đến 05 km tính từ vị_trí đặt ăng - ten của đài Tt & c hoặc tính từ vị_trí đặt ăng - ten của đài Hples , trừ trường_hợp đặc_biệt được đơn_vị chủ_quản của đài Tt & c ( nếu trong phạm_vi của đài Tt & c ) hoặc đài Hples ( nếu trong phạm_vi của đài Hples ) đánh_giá việc sử_dụng trạm gốc Imt là an_toàn , không gây nhiễu có hại cho đài Tt & c , đài Hples ;
+
+b ) Mật_độ thông_lượng công_suất ( pfd ) của phát_xạ từ hệ_thống Imt phải đáp_ứng quy_định tại Mục 3 Phụ_lục I ban_hành kèm theo Thông_tư này .
+
+3 . Điều_kiện để tránh nhiễu có hại cho đài đo độ cao vô_tuyến ( Radio_altimeter ) : trạm gốc Imt phải có mức công_suất phát_xạ đẳng_hướng tương_đương ( eirp ) và công_suất phát_xạ giả trong băng tần 4200-4400 MHz đáp_ứng quy_định tại Phụ_lục Ii ban_hành kèm theo Thông_tư này .
+
+Điều 4 . Điều_kiện sử_dụng đối_với các đài trái_đất
+
+1 . Tổ_chức , cá_nhân sử_dụng đài trái_đất hoạt_động trong băng tần 3560-4000 MHz phải chuyển_đổi tần_số hoạt_động ra khỏi băng tần này trước ngày 01 tháng 4 năm 2024 , trừ các đài trái_đất quy_định tại Mục 2 Phụ_lục I ban_hành kèm theo Thông_tư này .
+
+2 . Tổ_chức , cá_nhân sử_dụng đài trái_đất hoạt_động trong băng tần 3400-3560 MHz và 4000-4200 MHz có trách_nhiệm lắp_đặt bộ lọc đáp_ứng mức suy hao tối_thiểu 60 dB đối_với tín_hiệu thu trong băng tần 3600-3980 MHz .
+
+3 . Danh_sách các đài trái_đất được cấp giấy_phép sử_dụng tần_số vô_tuyến_điện trong băng tần 3400-3560 MHz và 4000-4200 MHz được Cục Tần_số vô_tuyến_điện - Bộ Thông_tin và Truyền_thông cập_nhật và gửi cho tổ_chức sử_dụng hệ_thống Imt hoạt_động trong băng tần 3600-3980 MHz .
+
+Điều 5 . Trách_nhiệm phối_hợp xử_lí nhiễu có hại giữa hệ_thống Imt với các hệ_thống khác
+
+Tổ_chức sử_dụng hệ_thống Imt hoạt_động trong băng tần 3600-3980 MHz và tổ_chức , cá_nhân sử_dụng đài trái_đất trong Danh_sách quy_định tại khoản 3 Điều 4 Thông_tư này và đài trái_đất quy_định tại Mục 2 Phụ_lục I ban_hành kèm theo Thông_tư này có trách_nhiệm phối_hợp với nhau để đáp_ứng các điều_kiện tránh nhiễu có hại theo các quy_định tương_ứng tại khoản 1 và 2 Điều 3 Thông_tư này .
+
+Điều 6 . Điều_khoản thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 07 tháng 01 năm 2024 .
+
+2 . Chánh Văn_phòng , Cục_trưởng Cục Tần_số vô_tuyến_điện , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+3 . Trường_hợp sau ngày Thông_tư này có hiệu_lực , Quy_hoạch phổ tần_số vô_tuyến_điện quốc_gia có thay_đổi quy_định về sử_dụng tần_số vô_tuyến_điện_áp_dụng đối_với các đài trái_đất ( bao_gồm cả đài Tt & c và đài Hples ) hoạt_động trong băng tần 3400-4200 MHz thì áp_dụng theo quy_định của Quy_hoạch phổ tần_số vô_tuyến_điện quốc_gia .
+
+4 . Trong quá_trình triển_khai , thực_hiện nếu có khó_khăn , vướng_mắc về việc phối_hợp xử_lí nhiễu có hại , các tổ_chức , cá_nhân liên_quan báo_cáo Cục Tần_số vô_tuyến_điện - Bộ Thông_tin và Truyền_thông để được hướng_dẫn thực_hiện các giải_pháp kĩ_thuật cần_thiết để xử_lí nhiễu có hại . / .

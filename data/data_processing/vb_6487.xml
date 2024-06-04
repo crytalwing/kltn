@@ -1,0 +1,101 @@
+Thông_tư số 38/2020/tt-btttt ngày 16 tháng 11 năm 2020 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều Luật tiêu_chuẩn và quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị vô_tuyến mạng diện_rộng công_suất thấp ( lpwan ) băng tần 920 MHz đến 923 MHz .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị vô_tuyến mạng diện_rộng công_suất thấp ( lpwan ) băng tần 920 MHz đến 923 MHz ( qcvn 122 : 2020 / bt ) .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2021 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 122 : 2020 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Thiết_bị Vô_tuyến Mạng Diện_rộng Công_suất Thấp ( lpwan ) Băng_tần 920 Mhz Đến 923 Mhz
+
+National technical regulation on radio equipment in the Low Power Wide Area_networks ( lpwan ) operating in the 920 MHz to 923 MHz frequency band
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Thuật_ngữ và định_nghĩa
+
+1 . 5 . Ký_hiệu
+
+1 . 6 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Yêu_cầu chung
+
+2 . 1 . 1 . Tính_năng ngắt máy_phát
+
+2 . 1 . 2 . Thiết_bị đo kiểm phụ_trợ
+
+2 . 1 . 3 . Phân_loại máy thu
+
+2 . 2 . Các điều_kiện đo kiểm , nguồn và nhiệt_độ môi_trường
+
+2 . 2 . 1 . Tín_hiệu đo_kiểm
+
+2 . 2 . 2 . Nguồn điện đo_kiểm
+
+2 . 2 . 3 . Điều_kiện đo kiểm thông_thường
+
+2 . 2 . 4 . Điều_kiện đo kiểm khắc_nghiệt
+
+2 . 2 . 5 . Đo_kiểm thiết_bị với các mức công_suất tương_thích
+
+2 . 2 . 6 . Ăng ten giả
+
+2 . 2 . 7 . Thiết_bị không có đầu kết_nối Rf_ngoài
+
+2 . 2 . 8 . Phép đo dẫn và phép đo bức_xạ
+
+2 . 2 . 9 . Máy thu đo
+
+2 . 3 . Giải_thích kết_quả đo
+
+2 . 4 . Yêu_cầu và phương_pháp đo
+
+2 . 4 . 1 . Tần_số hoạt_động
+
+2 . 4 . 2 . Phát_xạ không mong_muốn trong miền phát_xạ giả
+
+2 . 4 . 3 . Công_suất phát_xạ hiệu_dụng
+
+2 . 4 . 4 . Chu_kì hoạt_động
+
+2 . 4 . 5 . Băng_thông chiếm_dụng
+
+2 . 4 . 6 . Phát_xạ ngoài băng của máy_phát
+
+2 . 4 . 7 . Công_suất tức_thời
+
+2 . 4 . 8 . Hoạt_động của máy phát dưới điều_kiện điện_áp_thấp
+
+2 . 4 . 9 . Quá_tải đầu_vào máy thu
+
+3 . Quy_định Về Quản_lý
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+5 . Tổ_chức Thực_hiện

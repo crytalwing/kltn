@@ -1,0 +1,291 @@
+Thông_tư số 18/2017/tt-btc ngày 28 tháng 02 năm 2017 của bộ tài_chính
+
+Căn_cứ <LT rel="CC"> Luật Giao_dịch điện_tử ngày 29 tháng 11 năm 2005 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 </NĐ> của Chính_phủ về việc ứng_dụng công_nghệ thông_tin trong hoạt_động của các cơ_quan nhà_nước ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 </NĐ> của Chính_phủ quy_định về việc cung_cấp thông_tin và dịch_vụ công trực_tuyến trên trang thông_tin điện_tử hoặc cổng thông_tin điện_tử của cơ_quan nhà_nước ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+
+Thực_hiện <QĐ rel="None"> Quyết_định số 714/QĐ-TTg ngày 22 tháng 5 năm 2015 </QĐ> của Thủ_tướng Chính_phủ ban_hành Danh_mục cơ_sở dữ_liệu quốc_gia cần ưu_tiên triển_khai tạo nền_tảng phát_triển Chính_phủ điện_tử ;
+
+Theo đề_nghị của Cục_trưởng Cục Tin_học và Thống_kê tài_chính ;
+
+Bộ_trưởng Bộ Tài_chính ban_hành <TT rel="None"> Thông_tư quy_định Hệ_thống Danh_mục điện_tử dùng chung </TT> trong lĩnh_vực Tài_chính .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về việc xây_dựng , cập_nhật , khai_thác và sử_dụng Hệ_thống Danh_mục điện_tử dùng chung trong lĩnh_vực Tài_chính .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với các đối_tượng sau :
+
+1 . Các đơn_vị thuộc , trực_thuộc Bộ Tài_chính .
+
+2 . Sở Tài_chính các tỉnh , thành_phố trực_thuộc trung_ương và Phòng Tài_chính - Kế_hoạch các huyện , quận , thị_xã , thành_phố thuộc tỉnh , thành_phố trực_thuộc trung_ương .
+
+3 . Các cơ_quan , tổ_chức , đơn_vị và cá_nhân trong và ngoài ngành Tài_chính có hoạt_động liên_quan đến xây_dựng , cập_nhật , khai_thác và sử_dụng Hệ_thống Danh_mục điện_tử dùng chung trong lĩnh_vực Tài_chính .
+
+Điều 3 . Giải_thích thuật_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Danh_mục là hệ_thống bảng mã phân_loại do cơ_quan nhà_nước có thẩm_quyền ban_hành và sử_dụng thống_nhất .
+
+2 . Hệ_thống Danh_mục điện_tử dùng chung trong lĩnh_vực Tài_chính ( gọi tắt là Hệ_thống Danh_mục dùng chung ) là một cơ_sở dữ_liệu tập_hợp các danh_mục được phân_loại , kiểm_tra , đánh_giá , xử_lý , tích_hợp , số_hoá , chuẩn_hoá và sắp_xếp , lưu_trữ một_cách hệ_thống để cập_nhật , khai_thác và sử_dụng trong lĩnh_vực Tài_chính thông_qua phương_tiện điện_tử .
+
+3 . Người quản_trị cơ_sở dữ_liệu là cán_bộ , công_chức , viên_chức của Bộ Tài_chính , được giao nhiệm_vụ quản_trị , vận_hành Hệ_thống Danh_mục dùng chung .
+
+4 . Người sử_dụng Hệ_thống Danh_mục dùng chung ( gọi tắt là Người sử_dụng ) là cán_bộ , công_chức , viên_chức của các cơ_quan , tổ_chức , đơn_vị truy_cập vào cơ_sở dữ_liệu theo những quyền khai_thác nhất_định để thực_hiện các nhiệm_vụ do cấp có thẩm_quyền giao .
+
+5 . Lược_đồ Xml ( ngôn_ngữ đánh_dấu mở_rộng - Extensible Markup_language ) là lược đồ dữ_liệu sử_dụng nền_tảng công_nghệ Xml để mô_tả cấu_trúc dữ_liệu trao_đổi giữa các hệ_thống thông_tin được mã_hoá_bàng ngôn_ngữ Xml .
+
+Điều 4 . Nguyên_tắc xây_dựng , quản_lý , khai_thác và sử_dụng Hệ_thống Danh_mục dùng chung
+
+1 . Việc xây_dựng , quản_lý , khai_thác và sử_dụng Hệ_thống Danh_mục dùng chung phải dựa trên cơ_sở chức_năng , nhiệm_vụ , quyền_hạn của các đơn_vị có liên_quan và tuân_thủ các quy_định pháp_lí về việc sử_dụng , cung_cấp thông_tin , dữ_liệu hệ_thống danh_mục do cơ_quan nhà_nước có thẩm_quyền ban_hành , đảm_bảo đúng thẩm_quyền và đúng pháp_luật , phù_hợp với tình_hình thực_tế quản_lí của ngành Tài_chính .
+
+2 . Hệ_thống Danh_mục dùng chung cung_cấp các dữ_liệu chuẩn về danh_mục để sử_dụng thống_nhất trong các phần_mềm ứng_dụng , hệ_thống thông_tin quản_lý , cơ_sở dữ_liệu chuyên_ngành , cơ_sở dữ_liệu quốc_gia về Tài_chính , công_tác kế_toán , thống_kê và hoạt_động nghiệp_vụ trong lĩnh_vực Tài_chính , đảm_bảo việc tổng_hợp , trao_đổi dữ_liệu giữa các đơn_vị trong và ngoài ngành Tài_chính phục_vụ công_tác quản_lí nhà_nước của Bộ Tài_chính .
+
+3 . Dữ_liệu , thông_tin trong Hệ_thống Danh_mục dùng chung phải được thu_thập , cung_cấp đầy_đủ , chính_xác , kịp_thời , thống_nhất , có hệ_thống và đảm_bảo tính pháp_lý .
+
+4 . Các danh_mục do Chính_phủ , Thủ_tướng Chính_phủ , bộ , ngành , địa_phương ban_hành theo quy_định của pháp_luật được cập_nhật vào Hệ_thống Danh_mục dùng chung theo cơ_chế phối_hợp , chia_sẻ , kết_nối , tích_hợp dữ_liệu giữa Bộ Tài_chính và các bộ , ngành , địa_phương .
+
+5 . Hệ_thống Danh_mục dùng chung được xây_dựng , phát_triển phù_hợp với Khung kiến_trúc chính_phủ điện_tử Việt_nam , kiến_trúc chính_phủ điện_tử cấp Bộ , đáp_ứng tiêu_chuẩn , quy_chuẩn kĩ_thuật xây_dựng cơ_sở dữ_liệu quốc_gia , các tiêu_chuẩn , quy_chuẩn kĩ_thuật ứng_dụng công_nghệ thông_tin , an_toàn , an_ninh thông_tin và định mức kinh_tế - kĩ_thuật do cơ_quan nhà_nước có thẩm_quyền ban_hành .
+
+6 . Thực_hiện phân_định rõ_ràng quyền_hạn , trách_nhiệm theo chức_năng , nhiệm_vụ của cơ_quan , người sử_dụng có quyền cập_nhật , khai_thác và sử_dụng Hệ_thống Danh_mục dùng chung .
+
+7 . Việc cập_nhật , chỉnh_sửa Hệ_thống Danh_mục dùng chung thông_qua phương_tiện điện_tử được thực_hiện bằng tài_khoản người sử_dụng .
+
+8 . Việc khai_thác , sử_dụng phải đúng mục_đích .
+
+9 . Hệ_thống Danh_mục dùng chung được quản_lí chặt_chẽ , đảm_bảo_an_toàn , an_ninh thông_tin , đảm_bảo thuận_tiện cho khai_thác sử_dụng , tạo thuận_lợi cho hoạt_động qua môi_trường mạng .
+
+Điều 5 . Những hành_vi không được thực_hiện
+
+1 . Truy_cập trái_phép vào Hệ_thống Danh_mục dùng chung .
+
+2 . Không thực_hiện , hoặc cố_tình trì_hoãn việc cung_cấp , tiếp_nhận , cập_nhật thông_tin , dữ_liệu vào Hệ_thống Danh_mục dùng chung .
+
+3 . Cản_trở hoặc ngăn_chặn trái_phép quá_trình truyền , gửi , nhận dữ_liệu giữa Hệ_thống Danh_mục dùng chung với các phần_mềm ứng_dụng , hệ_thống thông_tin , cơ_sở dữ_liệu chuyên_ngành , Cơ_sở dữ_liệu quốc_gia về Tài_chính .
+
+4 . Làm sai_lệch hoặc thay_đổi , xoá , huỷ dữ_liệu trái_phép trong Hệ_thống Danh_mục dùng chung .
+
+5 . Cung_cấp thông_tin trái_phép hoặc lợi_dụng việc cung_cấp thông_tin về Hệ_thống Danh_mục dùng chung để trục_lợi .
+
+6 . Làm lộ phương_thức kết_nối dữ_liệu và tài_khoản cùng mật_khẩu truy_cập vào Hệ_thống Danh_mục dùng chung đã được cấp .
+
+Điều 6 . Quy_định về Hệ_thống Danh_mục dùng chung
+
+Hệ_thống Danh_mục dùng chung bao_gồm :
+
+1 . Các danh_mục do Bộ Tài_chính ban_hành , tạo_lập và quản_lí theo chức_năng nhiệm_vụ quản_lí nhà_nước được nêu tại Phụ_lục I kèm theo Thông_tư này .
+
+2 . Các danh_mục do Chính_phủ , Thủ_tướng Chính_phủ , bộ , ngành ban_hành theo quy_định của pháp_luật được Bộ Tài_chính_sử_dụng thống_nhất trong toàn ngành gồm các danh_mục được nêu tại Phụ_lục Ii kèm theo Thông_tư này . Việc cập_nhật , tích_hợp dữ_liệu danh_mục của các bộ , ngành , địa_phương vào Hệ_thống Danh_mục dùng chung thực_hiện theo cơ_chế phối_hợp , chia_sẻ , kết_nối , tích_hợp dữ_liệu giữa Bộ Tài_chính và các bộ , ngành , địa_phương theo quy_định của pháp_luật có liên_quan .
+
+3 . Hệ_thống Danh_mục dùng chung được quy_định tại khoản 1 và khoản 2 Điều này là các danh_mục_tiêu_chuẩn bắt_buộc áp_dụng trong toàn ngành Tài_chính .
+
+Bộ Tài_chính khuyến_khích và tạo điều_kiện đối_với việc sử_dụng Hệ_thống Danh_mục dùng chung cho hệ_thống thông_tin của các cơ_quan nhà_nước , tổ_chức , doanh_nghiệp có tham_gia trao_đổi dữ_liệu điện_tử với Bộ Tài_chính để đảm_bảo tính kết_nối thông_suốt , đồng_bộ và khả_năng chia_sẻ , trao_đổi thông_tin an_toàn , thuận_tiện giữa các cơ_quan nhà_nước , tổ_chức , doanh_nghiệp với Bộ Tài_chính .
+
+Danh_mục theo Phụ_lục I , Phụ_lục Ii thường_xuyên được rà_soát , cập_nhật theo các văn_bản ban_hành danh_mục theo quy_định của pháp_luật .
+
+Điều 7 . Kinh_phí xây_dựng , phát_triển , tạo_lập thông_tin điện_tử cập_nhật Hệ_thống Danh_mục dùng chung
+
+1 . Kinh_phí xây_dựng , phát_triển Hệ_thống Danh_mục dùng chung được cân_đối , bố_trí trong dự_toán ngân_sách nhà_nước_hàng năm của Bộ Tài_chính và các nguồn kinh_phí hợp_pháp khác theo quy_định của pháp_luật ( nếu có ) .
+
+2 . Kinh_phí tạo_lập , chuyển_đổi thông_tin điện_tử và số_hoá thông_tin cập_nhật vào Hệ_thống Danh_mục dùng chung được bố_trí trong dự_toán kinh_phí thường_xuyên theo quy_định của Bộ Tài_chính về nội_dung chi , mức chi tạo_lập , chuyển_đổi thông_tin điện_tử , số_hoá thông_tin trên môi_trường mạng phục_vụ hoạt_động thường_xuyên của cơ_quan , đơn_vị sử_dụng ngân_sách nhà_nước .
+
+Chương_ii
+
+Quy_định Cụ_thể
+
+Điều 8 . Xây_dựng Hệ_thống Danh_mục dùng chung
+
+1 . Hệ_thống Danh_mục dùng chung được xây_dựng phù_hợp với mô_hình xây_dựng Cơ_sở dữ_liệu quốc_gia về Tài_chính do Bộ_trưởng Bộ Tài_chính quy_định , là hệ_thống cơ_sở dữ_liệu cung_cấp các loại dữ_liệu danh_mục ( dữ_liệu tham_chiếu - Data_reference ) đảm_bảo tích_hợp hệ_thống , thống_nhất , đồng_bộ dữ_liệu , thông_tin giữa các hệ_thống thông_tin , cơ_sở dữ_liệu trong lĩnh_vực Tài_chính .
+
+2 . Xây_dựng Hệ_thống Danh_mục dùng chung bao_gồm các hoạt_động :
+
+a ) Tổ_chức xây_dựng , nâng_cấp , phát_triển cơ_sở dữ_liệu ;
+
+b ) Thu_thập , chuẩn_hoá , tích_hợp , cập_nhật dữ_liệu ;
+
+c ) Lưu_trữ , bảo_mật , đảm_bảo_an_toàn thông_tin trong cơ_sở dữ_liệu ;
+
+d ) Đào_tạo , tập_huấn , bồi_dưỡng , tổ_chức cán_bộ quản_lý , vận_hành cơ_sở dữ_liệu ;
+
+đ ) Các hoạt_động khác theo quy_định của pháp_luật .
+
+3 . Dữ_liệu danh_mục trước khi được cập_nhật vào Hệ_thống Danh_mục dùng chung phải được kiểm_tra , phân_loại , đánh_giá , xử_lý , tích_hợp , số_hoá và chuẩn_hoá theo quy_định . Tuỳ theo loại dữ_liệu danh_mục , tần_suất , hình_thức , nội_dung , đặc_điểm , tính_chất của dữ_liệu , mức_độ xử_lí và cấp_độ phổ_biến của dữ_liệu được tổ_chức cập_nhật vào cơ_sở dữ_liệu cho hợp_lý , khoa_học , đảm_bảo chính_xác , thuận_tiện và hiệu_quả trong quản_lý , khai_thác và sử_dụng , đảm_bảo yêu_cầu_an_toàn , bảo_mật dữ_liệu .
+
+Điều 9 . Cung_cấp dữ_liệu để xây_dựng Hệ_thống Danh_mục dùng chung
+
+1 . Hình_thức cung_cấp dữ_liệu :
+
+a ) Việc cung_cấp dữ_liệu được thực_hiện bằng hình_thức tích_hợp , trao_đổi , gửi dữ_liệu qua mạng điện_tử hoặc gửi dữ_liệu bằng văn_bản qua đường bưu_chính ;
+
+b ) Việc cung_cấp dữ_liệu bằng hình_thức gửi dữ_liệu qua mạng điện_tử thực_hiện theo quy_định , quy_trình , quy_chuẩn kĩ_thuật do cơ_quan quản_lí cơ_sở dữ_liệu thống_nhất quy_định .
+
+2 . Thời_hạn cập_nhật dữ_liệu vào Hệ_thống Danh_mục dùng chung chậm nhất sau 01 ngày làm_việc kể từ ngày các đơn_vị chịu trách_nhiệm cập_nhật được phân_công tại Phụ_lục I , Phụ_lục Ii kèm theo Thông_tư này nhận được thông_tin , dữ_liệu do các đơn_vị cung_cấp theo thời_hạn quy_định trong các văn_bản ban_hành danh_mục hoặc quy_chế phối_hợp giữa Bộ Tài_chính và các bộ , ngành , địa_phương .
+
+3 . Cơ_quan quản_lí Hệ_thống Danh_mục dùng chung và các đơn_vị , tổ_chức có liên_quan chịu trách_nhiệm về tính pháp_lý , sự chính_xác , trung_thực của các dữ_liệu do mình cung_cấp .
+
+4 . Kết_nối , chia_sẻ , tích_hợp dữ_liệu với Hệ_thống Danh_mục dùng chung :
+
+a ) Việc kết_nối , chia_sẻ dữ_liệu giữa các ứng_dụng , hệ_thống thông_tin , cơ_sở dữ_liệu với Hệ_thống Danh_mục dùng chung được thực_hiện theo tiêu_chuẩn , quy_chuẩn kĩ_thuật quốc_gia về ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước . Việc kết_nối trong các đơn_vị thuộc Bộ Tài_chính được thực_hiện thông_qua mạng hạ_tầng truyền_thông_thống_nhất của ngành Tài_chính và các giải_pháp kĩ_thuật công_nghệ thông_tin thống_nhất giữa đơn_vị quản_lí ứng_dụng với Bộ Tài_chính ( Cục Tin_học và Thống_kê tài_chính ) ;
+
+b ) Tuỳ theo loại dữ_liệu và điều_kiện hạ_tầng kĩ_thuật công_nghệ thông_tin , loại dữ_liệu danh_mục , tần_suất , hình_thức , nội_dung , đặc_điểm , tính_chất của dữ_liệu , mức_độ xử_lí và cấp_độ phổ_biến của dữ_liệu , các quy_định về quản_lí vận_hành hệ_thống thông_tin , phần_mềm ứng_dụng , cơ_sở dữ_liệu chuyên_ngành do các đơn_vị thuộc Bộ Tài_chính quản_lí phải thực_hiện kết_nối vào Hệ_thống Danh_mục dùng chung để sử_dụng thống_nhất dữ_liệu danh_mục ;
+
+c ) Các cơ_sở dữ_liệu quốc_gia , hệ_thống thông_tin của các bộ , ngành , địa_phương được thực_hiện kết_nối với Hệ_thống Danh_mục dùng chung nếu đáp_ứng đủ các điều_kiện dưới đây :
+
+- Có cơ_sở hạ_tầng thông_tin để kết_nối ;
+
+- Đáp_ứng tiêu_chuẩn kết_nối theo quy_định về tiêu_chuẩn , quy_chuẩn kĩ_thuật quốc_gia về ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước ;
+
+- Có văn_bản quy_định , văn_bản đề_nghị , quy_chế phối_hợp , chia_sẻ , kết_nối , tích_hợp dữ_liệu được thống_nhất giữa Bộ Tài_chính và các bộ , ngành , địa_phương .
+
+Điều 10 . Chỉnh_sửa thông_tin Hệ_thống Danh_mục dùng chung
+
+1 . Chỉnh_sửa dữ_liệu , thông_tin về danh_mục trong Hệ_thống Danh_mục dùng chung là việc điều_chỉnh thông_tin của danh_mục khi có sự thay_đổi hoặc có sự sai_sót trong quá_trình thu_thập , cập_nhật thông_tin , dữ_liệu về danh_mục dùng chung trong cơ_sở dữ_liệu .
+
+2 . Việc chỉnh_sửa thông_tin về danh_mục dùng chung phải đảm_bảo các yêu_cầu sau đây :
+
+a ) Chỉ chỉnh_sửa thông_tin về danh_mục khi có sự thay_đổi thông_tin theo quy_định hoặc phát_hiện có sai_sót trong quá_trình thu_thập , cập_nhật , thông_tin về danh_mục trong Hệ_thống Danh_mục dùng chung ;
+
+b ) Có văn_bản của người có thẩm_quyền phê_duyệt hoặc đề_nghị về việc thay_đổi thông_tin về danh_mục trong Hệ_thống Danh_mục dùng chung .
+
+Điều 11 . Lưu_trữ , đảm_bảo_an_toàn Hệ_thống Danh_mục dùng chung
+
+1 . Việc lưu_trữ dữ_liệu danh_mục Hệ_thống Danh_mục dùng chung phải đảm_bảo đầy_đủ thông_tin như : Thông_tin về văn_bản ban_hành danh_mục , ngày ban_hành danh_mục , ngày tạo_lập danh_mục , người tạo_lập danh_mục , lịch_sử quá_trình sửa_đổi , bổ_sung , thay_thế danh_mục .
+
+2 . Đảm_bảo_an_toàn cơ_sở dữ_liệu :
+
+a ) Sử_dụng kênh mã_hoá và xác_thực người dùng cho các hoạt_động : đăng_nhập quản_trị hệ_thống ; đăng_nhập vào các chức_năng ứng_dụng ; tích_hợp , gửi nhận dữ_liệu tự_động giữa các hệ_thống máy_chủ ; nhập và biên_tập dữ_liệu ;
+
+b ) Thực_hiện mã_hoá đường truyền cơ_sở dữ_liệu ;
+
+c ) Áp_dụng các biện_pháp đảm_bảo tính xác_thực và bảo_vệ sự toàn_vẹn của dữ_liệu trong cơ_sở dữ_liệu ;
+
+d ) Thực_hiện lưu vết ( ghi log ) việc tạo , thay_đổi , xoá thông_tin dữ_liệu để phục_vụ cho việc quản_lý , giám_sát hệ_thống ;
+
+đ ) Thiết_lập và duy_trì hệ_thống sao lưu , dự_phòng , phục_hồi dữ_liệu trong các hệ_thống lưu_trữ , dự_phòng dữ_liệu của Bộ Tài_chính theo quy_định ; thực_hiện các biện_pháp quản_lý , nghiệp_vụ , kĩ_thuật đảm_bảo_an_toàn dữ_liệu , an_toàn truy_cập dữ_liệu trên đường truyền ; bảo_mật dữ_liệu , bảo_vệ khôi_phục_dịch_vụ hệ_thống , đảm_bảo_an_toàn máy_tính , an_toàn mạng để cơ_sở dữ_liệu hoạt_động liên_tục , ổn_định .
+
+Điều 12 . Ứng_dụng công_nghệ thông_tin cho Hệ_thống Danh_mục dùng chung
+
+1 . Hệ_thống Danh_mục dùng chung được thiết_kế , xây_dựng và phát_triển dựa trên nền_tảng công_nghệ phù_hợp về hệ điều_hành , công_cụ xây_dựng , phát_triển phần_mềm , hệ quản_trị cơ_sở dữ_liệu đảm_bảo việc tích_hợp , trao_đổi , chia_sẻ dữ_liệu được thông_suốt , kịp_thời và đảm_bảo_an_ninh , an_toàn thông_tin .
+
+2 . Hạ_tầng kĩ_thuật công_nghệ thông_tin cho Hệ_thống Danh_mục dùng chung bao_gồm hệ_thống các máy_chủ , máy trạm , hệ_thống lưu_trữ dữ_liệu , thiết_bị mạng , thiết_bị ngoại_vi và các thiết_bị hỗ_trợ khác phải tuân_thủ các tiêu_chuẩn , quy_chuẩn kĩ_thuật quốc_gia về ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước theo quy_định của pháp_luật và quy_định của Bộ Tài_chính .
+
+Điều 13 . Khai_thác và sử_dụng Hệ_thống Danh_mục dùng chung
+
+1 . Các đơn_vị thuộc , trực_thuộc Bộ Tài_chính , Sở Tài_chính các tỉnh , thành_phố trực_thuộc trung_ương và Phòng Tài_chính - Kế_hoạch các huyện , quận , thị_xã , thành_phố thuộc tỉnh , thành_phố trực_thuộc trung_ương khai_thác , sử_dụng Hệ_thống Danh_mục dùng chung thông_qua mạng hạ_tầng truyền_thông_thống_nhất của ngành Tài_chính . Phương_thức khai_thác , sử_dụng được thực_hiện như sau :
+
+a ) Khai_thác , sử_dụng qua giao_diện website phần_mềm ứng_dụng của cơ_sở dữ_liệu ;
+
+b ) Kết_nối thông_qua sử_dụng dịch_vụ web ( web service ) giữa các hệ_thống thông_tin với Hệ_thống Danh_mục dùng chung ;
+
+c ) Kết_nối thông_qua hệ_thống nền_tảng chia_sẻ , tích_hợp dùng chung của Bộ Tài_chính ( lgsp ) hoặc qua hệ_thống kết_nối , liên_thông các hệ_thống thông_tin ở trung_ương và địa_phương theo quy_định ;
+
+d ) Kết_nối trực_tiếp đến các cơ_sở dữ_liệu trong các trường_hợp trao_đổi dữ_liệu đặc_thù , mục_đích trao_đổi đặc_thù hoặc các hệ_thống nền_tảng chia_sẻ , tích_hợp dùng chung chưa sẵn_sàng thiết_lập ;
+
+đ ) Việc khai_thác và sử_dụng được thực_hiện bằng các cách_thức sau đây :
+
+- Truy_cập để tải dữ_liệu trên website ;
+
+- Truy_cập hệ_thống để tích_hợp , chia_sẻ , trao_đổi dữ_liệu ;
+
+- Truy_cập trao_đổi dữ_liệu qua phương_thức dịch_vụ web ( web service ) ;
+
+- Gửi tập_tin ( file ) dữ_liệu qua thư điện_tử .
+
+2 . Các bộ , ngành , địa_phương , các tổ_chức , cá_nhân ngoài ngành Tài_chính có hoạt_động trao_đổi dữ_liệu với Bộ Tài_chính thực_hiện khai_thác , sử_dụng Hệ_thống Danh_mục dùng chung thông_qua mạng truyền số_liệu chuyên_dùng của các cơ_quan Đảng , Nhà_nước ; trên Cổng thông_tin điện_tử của Bộ Tài_chính ; qua mạng internet được thiết_lập đầy_đủ các giải_pháp an_toàn mạng .
+
+3 . Bộ Tài_chính ( Cục Tin_học và Thống_kê tài_chính ) thực_hiện phối_hợp với các bộ , ngành , địa_phương , các tổ_chức , cá_nhân ngoài ngành Tài_chính để xem_xét yêu_cầu khai_thác Hệ_thống Danh_mục dùng chung để cung_cấp và hướng_dẫn cụ_thể về các yêu_cầu kĩ_thuật khai_thác và sử_dụng Hệ_thống nếu các yêu_cầu của đơn_vị là hợp_lệ , dữ_liệu cung_cấp thuộc trách_nhiệm quản_lí của Bộ Tài_chính .
+
+4 . Thời_gian xử_lý , cung_cấp dữ_liệu khi nhận được đề_nghị phối_hợp cung_cấp dữ_liệu danh_mục đối_với các dữ_liệu danh_mục thuộc phạm_vi cung_cấp , quản_lí của Bộ Tài_chính là :
+
+a ) Đối_với dữ_liệu danh_mục có dung_lượng nhỏ dưới 100mb , có tần_suất cập_nhật thấp thì trong thời_hạn chậm nhất là 03 ngày làm_việc kể từ ngày nhận được yêu_cầu khai_thác hợp_lệ ;
+
+b ) Trường_hợp nội_dung yêu_cầu dữ_liệu danh_mục có dung_lượng lớn từ 100mb trở lên , tần_suất cập_nhật danh_mục hàng ngày thì thời_hạn chậm nhất là 15 ngày làm_việc kể từ ngày nhận được văn_bản yêu_cầu hợp_lệ và hai bên thống_nhất xong giải_pháp kĩ_thuật trao_đổi , tích_hợp dữ_liệu . Việc cung_cấp các dữ_liệu có dung_lượng lớn , tần_suất cập_nhật danh_mục hàng ngày , đơn_vị đề_nghị cung_cấp dữ_liệu cần phối_hợp với Cục Tin_học và Thống_kê tài_chính để xây_dựng các giải_pháp kĩ_thuật trao_đổi , tích_hợp dữ_liệu danh_mục với Hệ_thống Danh_mục dùng chung .
+
+Điều 14 . Nhiệm_vụ , quyền_hạn của các đơn_vị liên_quan
+
+1 . Nhiệm_vụ , quyền_hạn của Cục Tin_học và Thống_kê tài_chính :
+
+a ) Xây_dựng , quản_lí tập_trung , thống_nhất sử_dụng Hệ_thống Danh_mục dùng chung ;
+
+b ) Chủ_trì , phối_hợp với các đơn_vị thuộc , trực_thuộc Bộ Tài_chính giúp Bộ_trưởng Bộ Tài_chính thực_hiện thu_thập , kiểm_tra tính pháp_lí của các dữ_liệu trước khi cập_nhật và cung_cấp dữ_liệu về danh_mục điện_tử dùng chung ; thực_hiện phối_hợp với các cơ_quan , đơn_vị chuyên_môn trực_thuộc các bộ , cơ_quan ngang bộ xây_dựng quy_chế phối_hợp , chia_sẻ , kết_nối , tích_hợp dữ_liệu về danh_mục trình cấp có thẩm_quyền ban_hành và tổ_chức triển_khai thực_hiện ;
+
+c ) Tổ_chức thực_hiện và giám_sát thực_hiện việc điều_chỉnh thông_tin về danh_mục trong Hệ_thống Danh_mục dùng chung ;
+
+d ) Đảm_bảo_an_toàn Hệ_thống Danh_mục dùng chung ;
+
+đ ) Tổ_chức xây_dựng , chuẩn_hoá và công_bố các dịch_vụ cung_cấp dữ_liệu danh_mục thuộc phạm_vi quản_lí của Bộ Tài_chính , cấu_trúc dữ_liệu được công_bố dưới dạng lược đồ Xml mô_tả đầy_đủ cấu_trúc dữ_liệu cung_cấp từ Hệ_thống Danh_mục dùng chung ;
+
+e ) Chủ_trì , phối_hợp với các đơn_vị liên_quan quản_lý , cấp quyền truy_cập , hỗ_trợ các đơn_vị khai_thác sử_dụng Hệ_thống Danh_mục dùng chung ;
+
+g ) Tổ_chức các lớp đào_tạo , hướng_dẫn khai_thác sử_dụng cho các đơn_vị khai_thác Hệ_thống Danh_mục dùng chung ;
+
+h ) Thu_thập , cập_nhật dữ_liệu danh_mục điện_tử dùng chung được phân_công tại Phụ_lục I , Phụ_lục Ii kèm theo Thông_tư này ; Chậm nhất sau 01 ngày làm_việc kể từ khi nhận được bằng văn_bản hoặc dữ_liệu điện_tử về danh_mục do các đơn_vị cung_cấp ( văn_bản , dữ_liệu ban_hành hoặc sửa_đổi , bổ_sung danh_mục ) phải tổ_chức cập_nhật vào Hệ_thống Danh_mục dùng chung và đảm_bảo cho các đơn_vị liên_quan có quyền khai_thác theo quy_định ;
+
+i ) Đối_với các danh_mục tại Phụ_lục I nhưng chưa có quy_định chính_thức về cấu_trúc mã_số , Cục Tin_học và Thống_kê tài_chính có trách_nhiệm phối_hợp với các đơn_vị tạo_lập danh_mục và cập_nhật vào Hệ_thống Danh_mục dùng chung theo nguyên_tắc các danh_mục này sử_dụng lại các bộ mã_số chuẩn đã được quy_định về cấu_trúc mã_số ( như mã_số thuế , mã_số đơn_vị có quan_hệ với ngân_sách ) để đảm_bảo không phát_sinh cấu_trúc mã_số mới ;
+
+k ) Trong quá_trình vận_hành Hệ_thống Danh_mục dùng chung , Cục_trưởng Cục Tin_học và Thống_kê tài_chính báo_cáo Bộ_trưởng Bộ Tài_chính quy_định bổ_sung , sửa_đổi , thay_thế danh_mục dùng chung đảm_bảo phù_hợp với yêu_cầu quản , lý , kịp_thời áp_dụng vào các quy_trình nghiệp_vụ ứng_dụng công_nghệ thông_tin trong lĩnh_vực Tài_chính . Định_kì kiểm_tra , báo_cáo Bộ_trưởng Bộ Tài_chính về việc tổ_chức thực_hiện của các đơn_vị thuộc , trực_thuộc Bộ Tài_chính ;
+
+l ) Nghiên_cứu , xây_dựng và trình Bộ_trưởng Bộ Tài_chính ban_hành Quy_chế quản_lý , khai_thác , bảo_vệ và duy_trì Hệ_thống Danh_mục dùng chung .
+
+2 . Nhiệm_vụ , quyền_hạn của các đơn_vị có hoạt_động liên_quan đến xây_dựng , cập_nhật , khai_thác và sử_dụng Hệ_thống Danh_mục dùng chung thuộc , trực_thuộc Bộ Tài_chính :
+
+a ) Phối_hợp với Cục Tin_học và Thống_kê tài_chính tổ_chức xây_dựng , phát_triển , duy_trì sử_dụng thống_nhất Hệ_thống Danh_mục dùng chung ;
+
+b ) Thu_thập , cập_nhật dữ_liệu danh_mục thuộc phạm_vi quản_lí nhà_nước của đơn_vị vào Hệ_thống Danh_mục dùng chung . Trách_nhiệm thu_thập , cập_nhật dữ_liệu danh_mục điện_tử dùng chung được quy_định tại Phụ_lục I kèm theo Thông_tư này ;
+
+c ) Các đơn_vị thuộc , trực_thuộc Bộ Tài_chính khi được giao nhiệm_vụ xây_dựng , phát_triển các phần_mềm ứng_dụng , hệ_thống thông_tin , cơ_sở dữ_liệu chuyên_ngành , Cơ_sở dữ_liệu quốc_gia về Tài_chính có trách_nhiệm :
+
+- Khảo_sát xác_định đầy_đủ các thuộc_tính của các bảng danh_mục trong hệ_thống , phân_tích , xác_định các bảng danh_mục sử_dụng thống_nhất từ Hệ_thống Danh_mục dùng chung ;
+
+- Phân_tích , thiết_kế kiến_trúc dữ_liệu của hệ_thống , kiến_trúc trao_đổi , tích_hợp dữ_liệu danh_mục với Hệ_thống Danh_mục dùng chung để làm cơ_sở cho việc thiết_kế , xây_dựng , triển_khai , quản_lý , vận_hành hệ_thống để Hệ_thống thông_tin tương_thích và kết_nối thông_suốt ;
+
+- Chủ_trì , phối_hợp với Cục Tin_học và Thống_kê tài_chính và các đơn_vị có liên_quan sử_dụng kiến_trúc dữ_liệu trao_đổi làm cơ_sở thiết_kế dữ_liệu của hệ_thống ; thiết_kế phương_án kĩ_thuật và công_nghệ kết_nối đến Hệ_thống Danh_mục dùng chung đảm_bảo tuân_thủ các tài_liệu công_bố về cấu_trúc dữ_liệu danh_mục dùng chung , đảm_bảo sự tương_thích , sử_dụng dữ_liệu thông_suốt khi trao_đổi giữa các hệ_thống ;
+
+d ) Thủ_trưởng đơn_vị thuộc , trực_thuộc Bộ Tài_chính chịu trách_nhiệm về tính pháp_lý , tính chính_xác của các thông_tin , dữ_liệu thuộc phạm_vi quản_lí của mình trước khi chỉnh_sửa , cập_nhật , tích_hợp thông_tin , dữ_liệu trong Hệ_thống Danh_mục dùng chung ;
+
+đ ) Thủ_trưởng các đơn_vị thuộc , trực_thuộc Bộ Tài_chính có thẩm_quyền cho phép khai_thác thông_tin về danh_mục thuộc phạm_vi quản_lí nhà_nước của đơn_vị mình .
+
+3 . Nhiệm_vụ , quyền_hạn của Sở Tài_chính các tỉnh , thành_phố trực_thuộc trung_ương :
+
+a ) Phối_hợp với Cục Tin_học và Thống_kê tài_chính tổ_chức xây_dựng , phát_triển , duy_trì sử_dụng thống_nhất Hệ_thống Danh_mục dùng chung ;
+
+b ) Xử_lý , chuẩn_hoá dữ_liệu về danh_mục mã_số đơn_vị có quan_hệ với ngân_sách trên địa_bàn và các danh_mục khác được phân_cấp quản_lí cập_nhật vào Hệ_thống Danh_mục dùng chung thực_hiện theo_dõi , kiểm_tra việc cập_nhật các thông_tin thuộc lĩnh_vực chuyên_môn của đơn_vị mình trên Hệ_thống . Chịu trách_nhiệm về tính chính_xác , đầy_đủ các thông_tin thuộc thẩm_quyền quản_lí đã được cập_nhật vào Hệ_thống Danh_mục dùng chung và đảm_bảo tính thống_nhất với hồ_sơ giấy lưu_trữ tại đơn_vị ;
+
+c ) Tổ_chức quán_triệt và thực_hiện các văn_bản , hướng_dẫn về quản_lý , vận_hành , khai_thác Hệ_thống Danh_mục dùng chung của Bộ Tài_chính . Ban_hành các văn_bản hướng_dẫn thuộc thẩm_quyền để tổ_chức vận_hành , khai_thác Hệ_thống Danh_mục dùng chung phù_hợp với điều_kiện của cơ_quan , đơn_vị theo hướng_dẫn của Bộ Tài_chính ;
+
+d ) Được cấp tài_khoản để khai_thác sử_dụng các thông_tin trên Hệ_thống Danh_mục dùng chung . Thực_hiện bảo_mật các thông_tin về tài_khoản cá_nhân , đơn_vị truy_cập hệ_thống theo quy_định . Trường_hợp bị thất_lạc hoặc mất mật_khẩu đăng_nhập vào Hệ_thống Danh_mục dùng chung phải phối_hợp trao đối_với bộ_phận quản_trị phần_mềm để được cấp lại mật_khẩu ;
+
+đ ) Kiến_nghị và đề_xuất với Bộ Tài_chính sửa_đổi , bổ_sung các quy_định có liên_quan đến chế_độ cập_nhật , sử_dụng , quản_lí và khai_thác thông_tin trên Hệ_thống Danh_mục dùng chung .
+
+4 . Các cơ_quan , tổ_chức , đơn_vị và cá_nhân khai_thác và sử_dụng Hệ_thống Danh_mục dùng chung qua mạng điện_tử phải tuân_thủ đúng quy_định của <LT rel="CC"> Luật Giao_dịch điện_tử </LT> , <LT rel="CC"> Luật Công_nghệ thông_tin </LT> , <LT rel="DC"> Luật An_toàn thông_tin mạng </LT> và các quy_định của pháp_luật có liên_quan .
+
+Chương_iii
+
+Điều_khoản Thi_hành
+
+Điều 15 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành từ ngày 01 tháng 5 năm 2017 .
+
+2 . Bãi_bỏ <QĐ rel="None"> Quyết_định số 35/QĐ-BTC ngày 06/01/2010 </QĐ> của Bộ_trưởng Bộ Tài_chính về việc quy_định hệ_thống danh_mục điện_tử dùng chung ngành Tài_chính kể từ ngày Thông_tư này có hiệu_lực thi_hành .
+
+3 . Các văn_bản được trích_dẫn tại Thông_tư này được sửa_đổi , bổ_sung , thay_thế_thì áp_dụng theo các văn_bản sửa_đổi , bổ_sung , thay_thế đó .
+
+Điều 16 . Tổ_chức thực_hiện
+
+1 . Chánh Văn_phòng Bộ , Cục_trưởng Cục Tin_học và Thống_kê tài_chính , Tổng_cục_trưởng Tổng_cục Thuế , Tổng_cục_trưởng Tổng_cục Hải_quan , Tổng_cục_trưởng Tổng_cục Dự_trữ Nhà_nước , Tổng_giám_đốc Kho_bạc Nhà_nước , Chủ_tịch Ủy_ban Chứng_khoán Nhà_nước , Giám_đốc Sở Tài_chính các tỉnh , thành_phố trực_thuộc trung_ương , Thủ_trưởng các đơn_vị thuộc và trực_thuộc Bộ Tài_chính trong phạm_vi chức_năng , quyền_hạn của mình có trách_nhiệm tổ_chức triển_khai , hướng_dẫn thực_hiện và kiểm_tra việc thi_hành Thông_tư này .
+
+2 . Trong quá_trình thực_hiện , nếu có phát_sinh vướng_mắc , đề_nghị cơ_quan , đơn_vị , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_chính để nghiên_cứu , xem_xét , giải_quyết .

@@ -1,0 +1,401 @@
+Thông_tư số 13/2017/tt-btttt ngày 23 tháng 06 năm 2017 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Giao_dịch điện_tử ngày 29 tháng 11 năm 2005 ;
+
+Căn_cứ Luật An_toàn thông_tin mạng ngày 19 tháng 11 năm 2015 ;
+
+Căn_cứ Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+
+Căn_cứ Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính_phủ về đảm_bảo_an_toàn hệ_thống thông_tin theo cấp_độ ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Thực_hiện Quyết_định số 714/QĐ-TTg ngày 22 tháng 5 năm 2015 của Thủ_tướng Chính_phủ ban_hành Danh_mục cơ_sở dữ_liệu quốc_gia cần ưu_tiên triển_khai tạo nền_tảng phát_triển chính_phủ điện_tử ;
+
+Theo đề_nghị của Cục_trưởng Cục Tin_học_hoá ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định các yêu_cầu kĩ_thuật về kết_nối các hệ_thống thông_tin , cơ_sở dữ_liệu với cơ_sở dữ_liệu quốc_gia .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định các yêu_cầu kĩ_thuật về kết_nối các hệ_thống thông_tin , cơ_sở dữ_liệu với cơ_sở dữ_liệu quốc_gia ( sau đây gọi tắt là kết_nối ) , bao_gồm : nguyên_tắc , yêu_cầu kĩ_thuật , tài_liệu kĩ_thuật , cấu_trúc dữ_liệu trao_đổi phục_vụ kết_nối ; trách_nhiệm của các bên liên_quan thực_hiện kết_nối .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với cơ_quan chủ_quản cơ_sở dữ_liệu quốc_gia , chủ_quản hệ_thống thông_tin kết_nối với cơ_sở dữ_liệu quốc_gia ; đơn_vị chuyên_trách về công_nghệ thông_tin của các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ ; Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ và chữ_viết tắt dưới đây được hiểu như sau :
+
+1 . Hệ_thống thông_tin được quy_định trong Thông_tư này bao_gồm hệ_thống thông_tin , cơ_sở dữ_liệu kết_nối với cơ_sở dữ_liệu quốc_gia theo quy_định của pháp_luật .
+
+2 . Kết_nối khai_thác : là kết_nối giữa hệ_thống thông_tin với cơ_sở dữ_liệu quốc_gia để truy vấn và nhận dữ_liệu có trong cơ_sở dữ_liệu quốc_gia .
+
+3 . Kết_nối cập_nhật : là kết_nối giữa hệ_thống thông_tin với cơ_sở dữ_liệu quốc_gia để khai_thác dữ_liệu từ cơ_sở dữ_liệu quốc_gia và bổ_sung , cập_nhật dữ_liệu vào cơ_sở dữ_liệu quốc_gia .
+
+4 Cấu_trúc dữ_liệu trao_đổi : là cấu_trúc của các thông_điệp dữ_liệu được trao_đổi giữa cơ_sở dữ_liệu quốc_gia và các hệ_thống thông_tin có kết_nối với cơ_sở dữ_liệu quốc_gia .
+
+5 . Thực_thể ( entity ) : là sự_vật cụ_thể hoặc trừu_tượng đã , đang và sẽ tồn_tại trên thực_tế gồm cả các mối liên_kết giữa các sự_vật này .
+
+6 . Phần_tử dữ_liệu ( data element ) : là đơn_vị mô_tả dữ_liệu bao_gồm một tập các thuộc_tính và đại_diện cho các thực_thể cùng tập thuộc_tính đó .
+
+7 . Mô_hình dữ_liệu ( data model ) : là thiết_kế kĩ_thuật sử_dụng các kí_hiệu , ngôn_ngữ để thể_hiện cấu_trúc , nội_dung của dữ_liệu .
+
+8 . Mô_hình dữ_liệu mức khái_niệm ( conceptual data model ) : là mô_hình dữ_liệu mức tổng_quát , thể_hiện các phần_tử dữ_liệu cơ_bản và mối quan_hệ giữa chúng .
+
+9 . Mô_hình dữ_liệu mức logic ( logical data model ) : là mô_hình dữ_liệu thể_hiện chi_tiết mô_hình dữ_liệu mức khái_niệm , mô_tả nội_dung đầy_đủ của dữ_liệu cần phản_ánh và độc_lập với công_nghệ được sử_dụng .
+
+10 . Mô_hình dữ_liệu mức vật_lí ( physical data model ) : là mô_hình dữ_liệu chi_tiết của mô_hình dữ_liệu mức logic và triển_khai trên cơ_sở tiêu_chuẩn kĩ_thuật , công_nghệ được lựa_chọn sử_dụng .
+
+11 . Lược_đồ Xml : là hình_thức thể_hiện của mô_hình dữ_liệu mức vật_lí sử_dụng nền_tảng công_nghệ Xml .
+
+12 . Lgsp : là nền_tảng tích_hợp , chia_sẻ dữ_liệu cấp Bộ , cấp tỉnh chứa các dịch_vụ dùng chung để chia_sẻ dữ_liệu giữa các hệ_thống thông_tin của các cơ_quan , đơn_vị thuộc phạm_vi một Bộ , ngành , địa_phương và đóng vai_trò trung_gian phục_vụ kết_nối các hệ_thống thông_tin trong nội_bộ của Bộ , ngành , địa_phương với các hệ_thống bên ngoài ; mô_hình kết_nối của Lgsp theo kiến_trúc Chính_phủ điện_tử của cơ_quan cấp Bộ chủ_quản hoặc kiến_trúc chính_quyền điện_tử của cơ_quan cấp tỉnh chủ_quản phù_hợp Khung kiến_trúc Chính_phủ điện_tử Việt_nam .
+
+13 . Ngsp : là hệ_thống kết_nối , liên_thông các hệ_thống thông_tin ở Trung_ương và địa_phương ; đóng vai_trò trung_gian phục_vụ kết_nối giữa các hệ_thống thông_tin lớn ( hệ_thống thông_tin quốc_gia ; cơ_sở dữ_liệu quốc_gia ; hệ_thống thông_tin có quy_mô , phạm_vi từ Trung_ương đến địa_phương ) , giữa các hệ_thống thông_tin của các cơ_quan cấp Bộ , cấp tỉnh khác nhau hoặc giữa các Lgsp ; mô_hình kết_nối của Ngsp theo Khung kiến_trúc Chính_phủ điện_tử Việt_nam .
+
+14 . Xml , Uml , Tcp , Ip , Wsdl , Soap , Utf8 , Htp , Htps : là các tiêu_chuẩn kĩ_thuật thuộc Danh_mục_tiêu_chuẩn kĩ_thuật về ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước được Bộ Thông_tin và Truyền_thông ban_hành .
+
+Điều 4 . Nguyên_tắc kết_nối
+
+1 . Tuân_thủ các quy_định tại Điều 7 và Điều 13 Nghị_định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước .
+
+2 . Bảo_đảm quyền khai_thác dữ_liệu hợp_pháp theo quy_định của pháp_luật ; không làm hạn_chế quyền khai_thác , sử_dụng cơ_sở dữ_liệu quốc_gia của các cơ_quan nhà_nước , tổ_chức , cá_nhân do yếu_tố kĩ_thuật .
+
+3 . Tuân_thủ các quy_định của pháp_luật về an_toàn thông_tin mạng , các quy_định về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ đối_với cơ_sở dữ_liệu quốc_gia và các hệ_thống thông_tin kết_nối với cơ_sở dữ_liệu quốc_gia .
+
+4 . Phù_hợp với Khung kiến_trúc Chính_phủ điện_tử Việt_nam , kiến_trúc Chính_phủ điện_tử cấp_bộ , kiến_trúc chính_quyền điện_tử cấp tỉnh .
+
+Điều 5 . Điều_kiện kết_nối
+
+1 . Đối_với kết_nối khai_thác
+
+a ) Hệ_thống thông_tin và cơ_sở dữ_liệu quốc_gia phải cùng tuân_thủ các yêu_cầu kĩ_thuật được quy_định tại Thông_tư này ;
+
+b ) Tài_liệu kĩ_thuật phục_vụ kết_nối của cơ_sở dữ_liệu quốc_gia phải đáp_ứng các quy_định tại Điều 6 , Điều 7 Thông_tư này ; hệ_thống thông_tin phải tuân_thủ các tài_liệu kĩ_thuật phục_vụ kết_nối của cơ_sở dữ_liệu quốc_gia đã ban_hành .
+
+2 . Đối_với kết_nối cập_nhật
+
+a ) Đáp_ứng các điều_kiện kết_nối khai_thác tại Khoản 1 Điều này ;
+
+b ) Dữ_liệu cập_nhật bao_gồm : thông_tin định_danh của phần_tử dữ_liệu và thông_tin cần cập_nhật của phần_tử dữ_liệu đó ; dữ_liệu đặc_tả của dữ_liệu cần cập_nhật ( trong trường_hợp cần_thiết ) ;
+
+c ) Quy_trình kết_nối , cập_nhật dữ_liệu từ các hệ_thống thông_tin với cơ_sở dữ_liệu quốc_gia phải phù_hợp với quy_trình nghiệp_vụ liên_quan theo các quy_định về cập_nhật dữ_liệu với cơ_sở dữ_liệu quốc_gia tương_ứng .
+
+Điều 6 . Tài_liệu kĩ_thuật phục_vụ kết_nối của cơ_sở dữ_liệu quốc_gia
+
+1 . Cơ_quan chủ_quản cơ_sở dữ_liệu quốc_gia có trách_nhiệm xây_dựng va ban_hành các tài_liệu kĩ_thuật phục_vụ kết_nối , khai_thác dữ_liệu từ cơ_sở dữ_liệu quốc_gia .
+
+2 . Tài_liệu kĩ_thuật phục_vụ kết_nối của cơ_sở dữ_liệu quốc_gia được ban_hành theo một trong các hình_thức sau :
+
+a ) Quy_chuẩn kĩ_thuật quốc_gia ;
+
+b ) Quy_định kĩ_thuật .
+
+3 . Tài_liệu kĩ_thuật phục_vụ kết_nối của cơ_sở dữ_liệu quốc_gia được ban_hành trước khi dự_án xây_dựng cơ_sở dữ_liệu quốc_gia được nghiệm_thu và đưa vào vận_hành . Đối_với các cơ_sở dữ_liệu quốc_gia đã được vận_hành trước thời_điểm Thông_tư này có hiệu_lực , cơ_quan chủ_quản cơ_sở dữ_liệu quốc_gia có trách_nhiệm xây_dựng và ban_hành tài_liệu kĩ_thuật phục_vụ kết_nối trong thời_hạn 12 tháng kể từ ngày Thông_tư này có hiệu_lực .
+
+4 . Công_bố tài_liệu
+
+a ) Tài_liệu quy_định tại Điểm a Khoản 1 Điều 7 Thông_tư này và các tài_liệu khác liên_quan đến thông_số kết_nối được cung_cấp cho chủ_quản hệ_thống thông_tin tại thời_điểm chấp_nhận yêu_cầu kết_nối ;
+
+b ) Các tài_liệu quy_định tại Điều 7 Thông_tư này phải được gửi Bộ Thông_tin và Truyền_thông để thống_nhất quản_lý ;
+
+c ) Các tài_liệu quy_định tại Điều 7 Thông_tư này trừ các tài_liệu theo quy_định tại Điểm a Khoản này phải được đăng_tải trên cổng thông_tin điện_tử của cơ_quan chủ_quản cơ_sở dữ_liệu quốc_gia sau khi ban_hành .
+
+Điều 7 . Nội_dung tài_liệu kĩ_thuật phục_vụ kết_nối của cơ_sở dữ_liệu quốc_gia
+
+1 . Tài_liệu kĩ_thuật phục_vụ kết_nối khai_thác bao_gồm :
+
+a ) Mô_tả thông_số kĩ_thuật về địa_chỉ , giao_diện kết_nối ; các dịch_vụ cung_cấp dữ_liệu ; các hàm giao_tiếp giữa các hệ_thống ; công_nghệ mã_hoá , an_toàn , bảo_mật và công_nghệ , kĩ_thuật khác ;
+
+b ) Mô_tả khả_năng đáp_ứng yêu_cầu về kết_nối , khả_năng cung_cấp dữ_liệu cho các hệ_thống thông_tin khai_thác tối_thiểu theo yêu_cầu tại Điều 21 Thông_tư này ; mô_tả trình_tự tiếp_nhận và kết_nối về mặt kĩ_thuật ;
+
+c ) Cấu_trúc dữ_liệu trao_đổi quy_định chi_tiết tại Chương Ii của Thông_tư này ;
+
+d ) Dữ_liệu đặc_tả : thể_hiện các thông_tin mô_tả về tập dữ_liệu được trao_đổi như thời_gian , đơn_vị thu_thập ; thời_gian , đơn_vị phê_duyệt dữ_liệu ; phạm_vi dữ_liệu và các thông_tin mô_tả khác của dữ_liệu hoặc tập dữ_liệu được thu_thập , cập_nhật ;
+
+đ ) Thông_tin về thu_thập dữ_liệu : thể_hiện cách_thức , tình_huống khi thu_thập dữ_liệu từ thực_tế bảo_đảm dữ_liệu được hiểu thống_nhất về ý_nghĩa thông_tin ;
+
+e ) Chất_lượng , độ chính_xác dữ_liệu ( nếu có ) : thể_hiện mức_độ chính_xác khi dữ_liệu được thu_thập có tính_chất gần đúng khi đo_đạc hoặc phụ_thuộc vào độ chính_xác của thiết_bị đo ;
+
+g ) Thông_tin về trình_diễn dữ_liệu ( nếu có ) : thể_hiện cách_thức , yêu_cầu khi trình_diễn dữ_liệu trên máy_tính , trên bản in hoặc các thiết_bị , phương_tiện khác để bảo_đảm dữ_liệu phản_ánh đúng thông_tin đã thu_thập trong trường_hợp dữ_liệu cần yêu_cầu trình_diễn .
+
+2 . Tài_liệu kĩ_thuật phục_vụ kết_nối cập_nhật bao_gồm :
+
+a ) Các nội_dung theo quy_định tại Khoản 1 Điều này ;
+
+b ) Quy_định về các điều_kiện duy_trì dữ_liệu bao_gồm việc thay_đổi , huỷ_bỏ dữ_liệu ; về chia_sẻ thông_tin số giữa các cơ_quan nhà_nước .
+
+3 . Các nội_dung kĩ_thuật cần_thiết khác theo đặc_thù của từng cơ_sở dữ_liệu quốc_gia ( nếu có ) và các nội_dung khác theo hướng_dẫn của Bộ Thông_tin và Truyền_thông .
+
+Chương_ii
+
+Cấu_trúc Dữ_liệu Trao_đổi
+
+Điều 8 . Yêu_cầu chung đối_với cấu_trúc dữ_liệu trao_đổi
+
+1 . Yêu_cầu về sự phù_hợp giữa các cơ_sở dữ_liệu quốc_gia
+
+a ) Một thực_thể chỉ được định_nghĩa bởi một phần_tử dữ_liệu thống_nhất trong các cấu_trúc dữ_liệu phục_vụ trao_đổi của các cơ_sở dữ_liệu quốc_gia ;
+
+b ) Cấu_trúc dữ_liệu chứa phần_tử dữ_liệu chung trong các cơ_sở dữ_liệu quốc_gia tuân_thủ quy_định của cơ_quan chủ_quản cơ_sở dữ_liệu quốc_gia chứa dữ_liệu gốc của phần_tử dữ_liệu chung đó .
+
+2 . Yêu_cầu về khả_năng đáp_ứng
+
+a ) Cấu_trúc dữ_liệu trao_đổi có khả_năng mô_tả thông_điệp dữ_liệu trong tình_huống nội_dung thông_tin không_thể xác_định giá_trị hoặc xác_định được nhưng không đầy_đủ ;
+
+b ) Cấu_trúc dữ_liệu trao_đổi có khả_năng mô_tả thông_điệp dữ_liệu trong các trường_hợp trao_đổi : nội_dung thông_tin có dữ_liệu ; nội_dung thông_tin không có dữ_liệu và nội_dung thông_tin có dữ_liệu nhưng không được phép trao_đổi theo thẩm_quyền ;
+
+c ) Cấu_trúc dữ_liệu trao_đổi phải linh_hoạt trong việc mô_tả thông_điệp dữ_liệu ; có sự đa_dạng về số_lượng thành_phần của nội_dung thông_tin được trao_đổi phụ_thuộc vào sự phân_quyền , yêu_cầu truy vấn , khai_thác dữ_liệu .
+
+Điều 9 . Yêu_cầu chung đối_với mô_hình dữ_liệu trong cấu_trúc dữ_liệu trao_đổi
+
+Mô_hình dữ_liệu trong cấu_trúc dữ_liệu trao_đổi phải đáp_ứng các yêu_cầu sau :
+
+1 . Chỉ_định_nghĩa phần_tử dữ_liệu mô_tả các thực_thể cần_thiết phục_vụ nghiệp_vụ quản_lí nhà_nước và cần trao_đổi giữa các hệ_thống thông_tin với cơ_sở dữ_liệu quốc_gia .
+
+2 . Mô_tả dữ_liệu độc_lập với công_nghệ sử_dụng để lưu_trữ , xử_lí và trao_đổi được sử_dụng trong các hệ_thống thông_tin trừ các công_nghệ được quy_định tại Thông_tư này .
+
+Điều 10 . Các thành_phần của mô_hình dữ_liệu
+
+1 . Sơ_đồ : hiển_thị dưới dạng đồ_hoạ , bản_vẽ các phân_tử dữ_liệu , thuộc_tính , mối quan_hệ giữa các phần_tử dữ_liệu .
+
+2 . Phần_tử dữ_liệu .
+
+3 . Thuộc_tính ( trường dữ_liệu ) : những đặc_tính , tính_chất của các phân_tử dữ_liệu thể_hiện bằng giá_trị .
+
+4 . Mối quan_hệ giữa hai phần_tử dữ_liệu dựa trên ràng_buộc trong nghiệp_vụ .
+
+5 . Liệt_kê các phần_tử dữ_liệu , thuộc_tính và các thông_tin mô_tả , ràng_buộc dữ_liệu khác có giải_thích ý_nghĩa chi_tiết kèm theo .
+
+Điều 11 . Các mức_độ chi_tiết mô_hình dữ_liệu
+
+Mô_hình dữ_liệu trong cấu_trúc dữ_liệu phải bao_gồm các mức_độ chi_tiết sau :
+
+1 . Mô_hình dữ_liệu mức khái_niệm .
+
+2 . Mô_hình dữ_liệu mức logic .
+
+3 . Mô_hình dữ_liệu mức vật_lý .
+
+Điều 12 . Yêu_cầu đối_với mô_hình dữ_liệu mức khái_niệm
+
+Mô_hình dữ_liệu mức khái_niệm phải đáp_ứng các yêu_cầu sau :
+
+1 . Cung_cấp thông_tin tổng_quát về phạm_vi của toàn_bộ dữ_liệu được trao_đổi giữa các hệ_thống thông_tin với cơ_sở dữ_liệu quốc_gia ; tạo cơ_sở cho việc phân_định vai_trò trách_nhiệm của các cơ_quan nhà_nước trong việc xây_dựng , cung_cấp , duy_trì , quản_lý , thiết_lập quyền chia_sẻ nội_dung trong cơ_sở dữ_liệu .
+
+2 . Bao_gồm một_số hữu_hạn các phần_tử dữ_liệu quan_trọng nhất thể_hiện nội_dung chính của dữ_liệu được trao_đổi ; các nội_dung thông_tin được quy_định trực_tiếp trong các văn_bản quy_phạm_pháp_luật ( nếu có ) ; phần_tử dữ_liệu chỉ bao_gồm các thuộc_tính cơ_bản , đại_diện , thể_hiện đặc_tính chủ_yếu .
+
+3 . Định_dạng mô_tả : sử_dụng ngôn_ngữ Uml ( sơ_đồ lớp không kèm phương_thức ) và mô_tả kèm theo ; phù_hợp với bộ tiêu_chuẩn quốc_gia Tcvn 7789 : 2007 ( iso / iec 11179 ) về sổ đăng_kí siêu dữ_liệu .
+
+Điều 13 . Yêu_cầu đối_với mô_hình dữ_liệu mức logic
+
+Mô_hình dữ_liệu mức logic phải đáp_ứng các yêu_cầu sau :
+
+1 . Cung_cấp thông_tin đầy_đủ và toàn_diện về nội_dung của các thông_điệp dữ_liệu trao_đổi giữa các hệ_thống thông_tin với cơ_sở dữ_liệu quốc_gia .
+
+2 . Mở_rộng và chi_tiết hoá mô_hình dữ_liệu mức khái_niệm ; chứa toàn_bộ các phần_tử dữ_liệu , các thuộc_tính của phần_tử dữ_liệu với các thông_tin bao_gồm : tên , mô_tả , kiểu dữ_liệu , phạm_vi giá_trị , thuộc_tính định_danh của phần_tử dữ_liệu .
+
+3 . Định_dạng mô_tả : sử_dụng ngôn_ngữ Uml ( sơ_đồ lớp không kèm phương_thức ) và mô_tả kèm theo ; phù_hợp với bộ tiêu_chuẩn quốc_gia Tcvn 7789 : 2007 ( iso / iec 11179 ) về sổ đăng_kí siêu dữ_liệu .
+
+Điều 14 . Yêu_cầu đối_với mô_hình dữ_liệu mức vật_lí
+
+Mô_hình dữ_liệu mức vật_lí phải đáp_ứng các yêu_cầu sau :
+
+1 . Định_dạng mô_tả : sử_dụng ngôn_ngữ Xml , tuân_thủ lược đồ Xml tiêu_chuẩn ; cú_pháp hoàn_chỉnh , rõ_ràng , chặt_chẽ ( well - defined ) .
+
+2 . Thể_hiện đầy_đủ cấu_trúc dữ_liệu của mô_hình dữ_liệu mức logic .
+
+3 . Chỉ rõ không_gian tên ( namespace ) của lược đồ dữ_liệu Xml .
+
+4 . Bao_gồm mã nguồn lược đồ Xml .
+
+5 . Đáp_ứng đủ điều_kiện để sử_dụng trực_tiếp phục_vụ trích xuất dữ_liệu từ cơ_sở dữ_liệu quốc_gia sang thông_điệp dữ_liệu trao_đổi hoặc phân_tích các thông_điệp dữ_liệu trao_đổi được thu_nhận từ cơ_sở dữ_liệu quốc_gia của các hệ_thống thông_tin .
+
+Điều 15 . Sử_dụng bảng danh_mục và mã trong cấu_trúc dữ_liệu trao_đổi
+
+1 . Cấu_trúc dữ_liệu trao_đổi phải sử_dụng chung bảng danh_mục và mã theo các yêu_cầu sau :
+
+a ) Thuộc_tính của phần_tử dữ_liệu mô_tả thông_tin thuộc các bảng danh_mục và mã được cơ_quan nhà_nước có thẩm_quyền ban_hành , sử_dụng giá_trị mã tương_ứng trong bảng danh_mục và mã đó ;
+
+b ) Trường_hợp có nhiều bảng danh_mục và mã được ban_hành thì ưu_tiên sử_dụng bảng danh_mục và mã được sử_dụng phổ_biến bởi nhiều hệ_thống thông_tin hiện_hành ;
+
+c ) Bảng danh_mục và mã được sử_dụng phải được chỉ rõ trong các tài_liệu mô_tả và công_bố cho các cơ_quan , đơn_vị có liên_quan sử_dụng .
+
+2 . Cục Tin_học_hoá - Bộ Thông_tin và Truyền_thông tổng_hợp bảng danh_mục và mã sử_dụng chung ; hướng_dẫn áp_dụng bảng danh_mục và mã sử_dụng trong cấu_trúc dữ_liệu trao_đổi .
+
+Chương_iii
+
+Mô_hình Kết_nối Và Yêu_cầu Kỹ_thuật Tối_thiểu Phục_vụ Kết_nối
+
+Điều 16 . Mô_hình kết_nối
+
+1 . Mô_hình kết_nối hệ_thống thông_tin với cơ_sở dữ_liệu quốc_gia thực_hiện theo các trường_hợp sau :
+
+a ) Kết_nối thông_qua Lgsp và Ngsp ;
+
+b ) Kết_nối thông_qua Ngsp trong trường_hợp Lgsp chưa sẵn_sàng ;
+
+c ) Kết_nối thông_qua Lgsp trong trường_hợp Ngsp chưa sẵn_sàng ;
+
+d ) Kết_nối trực_tiếp đến các cơ_sở dữ_liệu quốc_gia trong các trường_hợp Ngsp và Lgsp chưa sẵn_sàng .
+
+2 . Trong trường_hợp Ngsp hoặc Lgsp sẵn_sàng nhưng không đáp_ứng được yêu_cầu phục_vụ kết_nối , chủ_quản hệ_thống thông_tin phải báo_cáo và đề_xuất phương_án kết_nối với cơ_quan quản_lí cấp trên xem_xét , quyết_định .
+
+Điều 17 . Chức_năng của Ngsp và Lgsp
+
+Chức_năng của Ngsp và Lgsp trong kết_nối các hệ_thống thông_tin với cơ_sở dữ_liệu quốc_gia bao_gồm :
+
+1 . Tiếp_nhận , chuyển_tiếp yêu_cầu dữ_liệu , dữ_liệu từ các hệ_thống thông_tin đến cơ_sở dữ_liệu quốc_gia và ngược_lại .
+
+2 . Hỗ_trợ chuyển_đổi kĩ_thuật để đáp_ứng sự tương_thích về giao_thức , định_dạng dữ_liệu và các yếu_tố kĩ_thuật khác .
+
+3 . Các chức_năng cần_thiết khác theo hướng_dẫn của Cục Tin_học_hoá - Bộ Thông_tin và Truyền_thông theo yêu_cầu thực_tế .
+
+Điều 18 . Định_dạng dữ_liệu
+
+Định_dạng dữ_liệu phải đáp_ứng các yêu_cầu sau :
+
+1 . Ngôn_ngữ để mô_tả dữ_liệu trong tệp dữ_liệu , thông_điệp dữ_liệu trao_đổi là ngôn_ngữ Xml . Dữ_liệu được mô_tả bằng ngôn_ngữ Xml sử_dụng bộ trình_diễn kí_tự Utf8 .
+
+2 . Nội_dung dữ_liệu chặt_chẽ , đúng cú_pháp ( well - defined ) ; tuân_thủ và tham_chiếu đến lược đồ dữ_liệu Xml qua không_gian tên ( namespace ) .
+
+3 . Các thông_tin , dữ_liệu thuộc phạm_vi chuyên_ngành đặc_thù sử_dụng các ngôn_ngữ mô_tả mở_rộng từ ngôn_ngữ Xml phù_hợp .
+
+Điều 19 . Sử_dụng tiêu_chuẩn kĩ_thuật về giao_thức kết_nối
+
+Yêu_cầu sử_dụng các tiêu_chuẩn kĩ_thuật về giao_thức trong kết_nối bao_gồm :
+
+1 . Sử_dụng bộ giao_thức mạng Tcp / ip để trao_đổi dữ_liệu trong môi_trường mạng .
+
+2 . Sử_dụng giao_thức Htp hoặc Htps ( yêu_cầu trong trường_hợp bảo_mật dữ_liệu ) để truy_cập dịch_vụ cung_cấp dữ_liệu .
+
+3 . Sử_dụng dịch_vụ web ( Web service ) làm phương_thức để kết_nối giữa các hệ_thống thông_tin với cơ_sở dữ_liệu quốc_gia .
+
+4 . Sử_dụng ngôn_ngữ Wsdl trong dịch_vụ mô_tả dịch_vụ web .
+
+5 . Sử_dụng giao_thức Soap để đóng_gói yêu_cầu và dữ_liệu phục_vụ trao_đổi giữa các hệ_thống thông_tin .
+
+Điều 20 . Giao_diện khai_thác dữ_liệu
+
+1 . Lược_đồ dữ_liệu Xml phải được xây_dựng và đặt không_gian tên ( namespace ) trùng với địa_chỉ trang thông_tin điện_tử hoặc cổng thông_tin điện_tử chính_thức của cơ_quan chủ_quản cơ_sở dữ_liệu quốc_gia và có_thể tải về lược đồ dữ_liệu qua địa_chỉ đó .
+
+2 . Các dịch_vụ cung_cấp dữ_liệu được triển_khai cùng với dịch_vụ mô_tả dữ_liệu bằng ngôn_ngữ Wsdl .
+
+Điều 21 . Chức_năng và đặc_tính cơ_sở dữ_liệu quốc_gia
+
+Cơ_sở dữ_liệu quốc_gia phải có các chức_năng và đặc_tính cơ_bản phục_vụ kết_nối với các hệ_thống thông_tin như sau :
+
+1 . Cung_cấp dữ_liệu theo phạm_vi
+
+a ) Cung_cấp dữ_liệu đơn_lẻ phục_vụ sử_dụng trực_tiếp cho các hệ_thống thông_tin ;
+
+b ) Cung_cấp dữ_liệu theo gói phục_vụ các hệ_thống thông_tin lưu_trữ và sử_dụng .
+
+2 . Cung_cấp dữ_liệu theo thời_gian cập_nhật
+
+a ) Cung_cấp dữ_liệu đầy_đủ theo yêu_cầu không phụ_thuộc vào thời_điểm cập_nhật dữ_liệu ;
+
+b ) Cung_cấp dữ_liệu đã thay_đổi từ thời_điểm được chỉ_định cho tới thời_điểm yêu_cầu cung_cấp dữ_liệu .
+
+3 . Cung_cấp dữ_liệu theo đặc_điểm lịch_sử của dữ_liệu
+
+a ) Cung_cấp dữ_liệu có giá_trị tại thời_điểm yêu_cầu ( mặc_định , khi không được chỉ_định đặc_tính thời_gian của dữ_liệu ) ;
+
+b ) Cung_cấp dữ_liệu có giá_trị tại thời_điểm được chỉ_định ( trong trường_hợp cơ_sở dữ_liệu quốc_gia có lưu_trữ dữ_liệu lịch_sử ) .
+
+4 . Cung_cấp dữ_liệu chủ_động / thụ_động
+
+a ) Cung_cấp dữ_liệu thụ_động khi có yêu_cầu khai_thác từ các hệ_thống thông_tin ;
+
+b ) Chủ_động thông_báo hoặc cung_cấp dữ_liệu cho các hệ_thống thông_tin theo yêu_cầu đăng_kí trước .
+
+5 . Tần_suất cung_cấp dữ_liệu của cơ_sở dữ_liệu quốc_gia đối_với hệ_thống thông_tin kết_nối vào cơ_sở dữ_liệu quốc_gia
+
+a ) Cung_cấp dữ_liệu trực_tuyến ngay sau khi được yêu_cầu ;
+
+b ) Cung_cấp dữ_liệu theo định_kì trong trường_hợp dữ_liệu lớn và không có sẵn .
+
+Chương_iv
+
+Tổ_chức Thực_hiện
+
+Điều 22 . Xử_lí vướng_mắc về kĩ_thuật kết_nối
+
+1 . Trong trường_hợp có vướng_mắc về kĩ_thuật trong việc kết_nối các hệ_thống thông_tin với cơ_sở dữ_liệu quốc_gia , chủ_quản hệ_thống thông_tin chủ_trì phối_hợp với các bên liên_quan giải_quyết vướng_mắc .
+
+2 . Trong trường_hợp không thống_nhất được phương_án giải_quyết với các bên liên_quan , chủ_quản hệ_thống thông_tin có trách_nhiệm gửi văn_bản đề_nghị Bộ Thông_tin và Truyền_thông để giải_quyết theo mẫu tại Phụ_lục ban_hành kèm theo Thông_tư này .
+
+3 . Bộ Thông_tin và Truyền_thông chủ_trì , phối_hợp với các bên liên_quan giải_quyết vướng_mắc về kĩ_thuật trong kết_nối .
+
+Điều 23 . Trách_nhiệm của các cơ_quan chủ_quản cơ_sở dữ_liệu quốc_gia
+
+1 . Thực_hiện các yêu_cầu kĩ_thuật về kết_nối theo quy_định tại Thông_tư này và các quy_định của pháp_luật có liên_quan .
+
+2 . Chủ_trì phối_hợp với Cục Tin_học_hoá - Bộ Thông_tin và Truyền_thông và các cơ_quan có liên_quan xây_dựng , ban_hành các tài_liệu kĩ_thuật phục_vụ kết_nối của cơ_sở dữ_liệu quốc_gia ; lấy ý_kiến đồng thuận của Bộ Thông_tin và Truyền_thông trước khi ban_hành .
+
+3 . Tuân_thủ các tài_liệu kĩ_thuật đã ban_hành khi xây_dựng , vận_hành cơ_sở dữ_liệu quốc_gia ; triển_khai các biện_pháp_bảo_đảm an_toàn thông_tin cho cơ_sở dữ_liệu quốc_gia trong quá_trình trao_đổi dữ_liệu với các hệ_thống thông_tin .
+
+4 . Chủ_trì phối_hợp với Bộ Thông_tin và Truyền_thông ( Cục Tin_học_hoá ) hướng_dẫn , hỗ_trợ , phối_hợp các chủ_quản hệ_thống thông_tin thực_hiện triển_khai kết_nối ; giải_thích , làm rõ các nội_dung liên_quan đến các tài_liệu của cơ_sở dữ_liệu quốc_gia khi có yêu_cầu ; cập_nhật tài_liệu và thông_báo cho các bên có liên_quan khi có sự thay_đổi các thông_số kết_nối .
+
+5 . Đối_với cơ_sở dữ_liệu quốc_gia đã được vận_hành trước thời_điểm Thông_tư này có hiệu_lực , cơ_quan chủ_quản cơ_sở dữ_liệu quốc_gia có trách_nhiệm :
+
+a ) Rà_soát hiện_trạng cơ_sở dữ_liệu quốc_gia đang vận_hành để đáp_ứng khả_năng kết_nối và thực_hiện các quy_định tại Thông_tư này ;
+
+b ) Xây_dựng các tài_liệu được quy_định trong Thông_tư này bảo_đảm khả_năng kết_nối với các hệ_thống thông_tin ;
+
+c ) Căn_cứ các tài_liệu được xây_dựng và các quy_định kĩ_thuật , tổ_chức thực_hiện sửa_đổi các hạng_mục , thành_phần chịu trách_nhiệm tiếp_nhận kết_nối với các hệ_thống thông_tin nếu chưa đáp_ứng được yêu_cầu .
+
+6 . Tổng_hợp về tình_hình kết_nối , cập_nhật dữ_liệu của cơ_sở dữ_liệu quốc_gia ; tình_hình thực_hiện các quy_định tại Thông_tư này gửi Bộ Thông_tin và Truyền_thông trước ngày 15 tháng 12 hàng năm .
+
+Điều 24 . Trách_nhiệm của chủ_quản hệ_thống thông_tin
+
+1 . Thực_hiện các quy_định về kết_nối được quy_định tại Thông_tư này và các quy_định của pháp_luật có liên_quan .
+
+2 . Tuân_thủ các tài_liệu kĩ_thuật của cơ_sở dữ_liệu quốc_gia khi xây_dựng các hệ_thống thông_tin , triển_khai kết_nối .
+
+3 . Thông_báo , phản_ánh về tình_hình kết_nối , khai_thác cơ_sở dữ_liệu quốc_gia với cơ_quan chủ_quản cơ_sở dữ_liệu quốc_gia và đơn_vị chuyên_trách về công_nghệ thông_tin thuộc Bộ , ngành , địa_phương mình .
+
+Điều 25 . Trách_nhiệm của đơn_vị chuyên_trách về công_nghệ thông_tin của các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ ; Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương
+
+1 . Tổ_chức hướng_dẫn , phổ_biến , đôn_đốc các cơ_quan , đơn_vị thuộc Bộ , ngành địa_phương mình thực_hiện các quy_định tại Thông_tư này .
+
+2 . Chủ_trì phối_hợp với cơ_quan nhà_nước có thẩm_quyền thực_hiện kết_nối hoặc hướng_dẫn các cơ_quan nhà_nước thuộc Bộ , ngành , địa_phương mình kết_nối đến cơ_sở dữ_liệu quốc_gia hoặc thông_qua Lgsp kết_nối đến cơ_sở dữ_liệu quốc_gia .
+
+3 . Thực_hiện kết_nối Lgsp với Ngsp hoặc Lgsp với cơ_sở dữ_liệu quốc_gia theo quy_định tại Thông_tư này , phù_hợp với Khung kiến_trúc Chính_phủ điện_tử Việt_nam .
+
+4 . Tổng_hợp việc thực_hiện các quy_định tại Thông_tư này , kết_quả_thực_hiện kết_nối đến cơ_sở dữ_liệu quốc_gia của các cơ_quan nhà_nước thuộc Bộ , ngành , địa_phương mình ; báo_cáo Bộ Thông_tin và Truyền_thông trước ngày 15 tháng 12 hàng năm .
+
+Điều 26 . Trách_nhiệm của các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông
+
+1 . Trách_nhiệm của Cục Tin_học_hoá
+
+a ) Phổ_biến , hướng_dẫn việc thực_hiện các nội_dung của Thông_tư ; tham_mưu cho Bộ Thông_tin và Truyền_thông xử_lí các vấn_đề phát_sinh trong quá_trình thực_hiện Thông_tư ;
+
+b ) Tổ_chức kiểm_tra việc tuân_thủ các quy_định tại Thông_tư này ;
+
+c ) Làm_đầu_mối tiếp_nhận , giải_quyết các vướng_mắc kĩ_thuật trong quá_trình triển_khai kết_nối ;
+
+d ) Đôn_đốc , theo_dõi , tổng_hợp tình_hình kết_nối các hệ_thống thông_tin với các cơ_sở dữ_liệu quốc_gia ;
+
+đ ) Xây_dựng , quản_lý , vận_hành Ngsp bảo_đảm kết_nối các hệ_thống thông_tin với cơ_sở dữ_liệu quốc_gia tuân_thủ các quy_định tại Thông_tư này và Khung kiến_trúc Chính_phủ điện_tử Việt_nam .
+
+2 . Trách_nhiệm của Cục An_toàn thông_tin
+
+a ) Hướng_dẫn các cơ_quan , tổ_chức thực_hiện các biện_pháp , giải_pháp nhằm bảo_đảm an_toàn thông_tin trong kết_nối trao_đổi dữ_liệu với cơ_sở dữ_liệu quốc_gia .
+
+b ) Đôn_đốc , kiểm_tra theo thẩm_quyền công_tác bảo_đảm an_toàn hệ_thống thông_tin , phương_án kết_nối an_toàn giữa hệ_thống thông_tin với cơ_sở dữ_liệu quốc_gia .
+
+Điều 27 . Hiệu_lực và trách_nhiệm thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 10 tháng 8 năm 2017 .
+
+2 . Chánh Văn_phòng , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông và các cơ_quan , tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+3 . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Thông_tin và Truyền_thông để xem_xét , giải_quyết . / .

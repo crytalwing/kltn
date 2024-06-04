@@ -1,0 +1,265 @@
+Thông_tư số 120/2020/tt-btc ngày 31 tháng 12 năm 2020 của bộ tài_chính
+
+Căn_cứ <LT rel="CC"> Luật_chứng_khoán số 54/2019/QH14 ngày 26 tháng 11 năm 2019 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 155/2020/NĐ-CP ngày 31 tháng 12 năm 2020 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật_chứng_khoán ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 87/2017/NĐ-CP ngày 26 tháng 7 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_chính ;
+
+Theo đề_nghị của Chủ_tịch Ủy_ban Chứng_khoán Nhà_nước ;
+
+Bộ_trưởng Bộ Tài_chính ban_hành Thông_tư quy_định giao_dịch cổ_phiếu niêm_yết , đăng_kí giao_dịch và chứng_chỉ quỹ , trái_phiếu doanh_nghiệp , chứng quyền có bảo_đảm niêm_yết trên hệ_thống giao_dịch chứng_khoán .
+
+Điều 1 . Phạm_vi điều_chỉnh và đối_tượng áp_dụng
+
+1 . Thông_tư này quy_định giao_dịch cổ_phiếu niêm_yết , đăng_kí giao_dịch và chứng_chỉ quỹ , trái_phiếu doanh_nghiệp , chứng quyền có bảo_đảm niêm_yết trên hệ_thống giao_dịch chứng_khoán .
+
+2 . Đối_tượng áp_dụng :
+
+a ) Nhà đầu_tư ;
+
+b ) Công_ti chứng_khoán , thành_viên lưu ký , thành_viên bù_trừ , công_ti quản_lí quỹ đầu_tư chứng_khoán ;
+
+c ) Sở giao_dịch chứng_khoán Việt_nam ; Sở giao_dịch chứng_khoán Hà_nội , Sở giao_dịch chứng_khoán Thành_phố Hồ_chí_minh ( sau đây gọi là Sở giao_dịch chứng_khoán ) ;
+
+d ) Tổng_công_ti lưu kí và bù_trừ chứng_khoán Việt_nam ;
+
+đ ) Cơ_quan , tổ_chức , cá_nhân khác có liên_quan .
+
+Điều 2 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Biên_độ dao_động giá là giới_hạn dao_động giá chứng_khoán quy_định trong ngày giao_dịch được tính theo tỉ_lệ phần_trăm ( % ) so với giá tham_chiếu .
+
+2 . Ngắt mạch thị_trường ( Circuit breaker ) là cơ_chế tạm dừng giao_dịch tự_động trong phiên giao_dịch khi giá chứng_khoán hoặc chỉ_số chứng_khoán biến_động_chạm các ngưỡng xác_định trên hệ_thống giao_dịch chứng_khoán .
+
+3 . Giá tham_chiếu là mức giá do Sở giao_dịch chứng_khoán xác_định và được dùng làm cơ_sở để xác_định_giá cao nhất ( giá_trần ) , giá thấp nhất ( giá_sàn ) trong ngày giao_dịch .
+
+4 . Phương_thức khớp Lệnh tập_trung là phương_thức giao_dịch được thực_hiện trên hệ_thống giao_dịch chứng_khoán trên cơ_sở so khớp các Lệnh mua và Lệnh bán chứng_khoán . Phương_thức khớp Lệnh tập_trung bao_gồm khớp Lệnh định_kì và khớp Lệnh liên_tục .
+
+5 . Khớp Lệnh định_kì là phương_thức giao_dịch được thực_hiện trên hệ_thống giao_dịch chứng_khoán trên cơ_sở so khớp các Lệnh mua và Lệnh bán chứng_khoán tại một thời_điểm xác_định .
+
+6 . Khớp Lệnh liên_tục là phương_thức giao_dịch được thực_hiện trên hệ_thống giao_dịch chứng_khoán trên cơ_sở so khớp các Lệnh mua và Lệnh bán chứng_khoán ngay khi Lệnh được nhập vào hệ_thống giao_dịch chứng_khoán .
+
+7 . Phương_thức giao_dịch thoả_thuận là phương_thức giao_dịch trong đó các bên tham_gia giao_dịch thông_qua thành_viên giao_dịch tự thoả_thuận về các điều_kiện giao_dịch trên hệ_thống giao_dịch chứng_khoán ; hoặc các bên tham_gia giao_dịch thoả_thuận , thực_hiện giao_dịch , sau đó thông_qua thành_viên giao_dịch ghi_nhận kết_quả giao_dịch vào hệ_thống giao_dịch chứng_khoán .
+
+8 . Giao_dịch trong ngày là giao_dịch mua và bán cùng một mã chứng_khoán nhà đầu_tư chưa sở_hữu với cùng một khối_lượng giao_dịch , thực_hiện trên cùng một tài_khoản và trong cùng một ngày giao_dịch .
+
+9 . Giao_dịch mua bắt_buộc ( buy in ) là giao_dịch mua chứng_khoán để bảo_đảm có đủ số_lượng chứng_khoán thanh_toán cho các giao_dịch thiếu chứng_khoán theo quy_định pháp_luật .
+
+10 . Giao_dịch kí_quỹ tại công_ti chứng_khoán ( sau đây gọi là giao_dịch kí_quỹ ) là giao_dịch mua chứng_khoán có sử_dụng tiền vay của công_ti chứng_khoán , trong đó chứng_khoán có được từ giao_dịch này và các chứng_khoán khác được giao_dịch kí_quỹ của nhà đầu_tư được sử_dụng làm tài_sản bảo_đảm cho khoản vay trên .
+
+11 . Giao_dịch bán khống có tài_sản bảo_đảm ( sau đây gọi là giao_dịch bán khống có bảo_đảm ) là giao_dịch bán chứng_khoán đã được vay trên hệ_thống vay và cho vay chứng_khoán của Tổng_công_ti lưu kí và bù_trừ chứng_khoán Việt_nam . Người bán sau đó có nghĩa_vụ mua lại số chứng_khoán đó để hoàn_trả khoản đã vay .
+
+12 . Chứng_khoán chờ về là chứng_khoán mà nhà đầu_tư đã mua trên hệ_thống giao_dịch chứng_khoán tại các ngày giao_dịch trước đó và đang trong quá_trình hoàn_tất chuyển quyền sở_hữu .
+
+13 . Giao_dịch chứng_khoán lô lẻ là giao_dịch có số_lượng chứng_khoán nhỏ hơn một đơn_vị giao_dịch .
+
+Điều 3 . Tổ_chức giao_dịch chứng_khoán
+
+1 . Sở giao_dịch chứng_khoán tổ_chức giao_dịch chứng_khoán theo phương_thức khớp Lệnh tập_trung và phương_thức giao_dịch thoả_thuận theo nguyên_tắc sau :
+
+a ) Phương_thức khớp Lệnh tập_trung trên hệ_thống giao_dịch chứng_khoán phải bảo_đảm nguyên_tắc ưu_tiên về giá và thời_gian ;
+
+b ) Phương_thức giao_dịch thoả_thuận trên hệ_thống giao_dịch chứng_khoán được thực_hiện theo nguyên_tắc các bên tham_gia giao_dịch tự thoả_thuận , thống_nhất các nội_dung giao_dịch .
+
+2 . Chứng_khoán quy_định tại khoản 1 Điều 1 Thông_tư này được giao_dịch trên hệ_thống giao_dịch chứng_khoán không bao_gồm các trường_hợp chuyển quyền sở_hữu ngoài hệ_thống giao_dịch chứng_khoán theo quy_định pháp_luật về đăng_ký , lưu ký , bù_trừ và thanh_toán giao_dịch chứng_khoán . Sở giao_dịch chứng_khoán được tổ_chức các phiên giao_dịch mua bắt_buộc ( buy in ) thông_qua hệ_thống giao_dịch chứng_khoán .
+
+3 . Sở giao_dịch chứng_khoán Việt_nam ban_hành quy_chế giao_dịch chứng_khoán bao_gồm các nội_dung cơ_bản sau : phương_thức giao_dịch ; thời_gian giao_dịch ; cách xác_định_giá tham_chiếu ; biên_độ dao_động giá chứng_khoán ; cơ_chế ngắt mạch thị_trường ( nếu có ) ; các loại Lệnh giao_dịch ; việc sửa Lệnh , huỷ Lệnh giao_dịch ; việc xác_lập giao_dịch và loại_bỏ giao_dịch chứng_khoán ; việc tạm ngừng giao_dịch , đình_chỉ một phần hoặc toàn_bộ giao_dịch của một mã chứng_khoán ; việc công_bố thông_tin về kết_quả giao_dịch và các nội_dung khác có liên_quan .
+
+Điều 4 . Biên_độ dao_động giá
+
+1 . Sở giao_dịch chứng_khoán Việt_nam Quyết_định biên_độ dao_động giá sau khi được Ủy_ban Chứng_khoán Nhà_nước chấp_thuận .
+
+2 . Trong trường_hợp cần_thiết để ổn_định thị_trường , Ủy_ban Chứng_khoán Nhà_nước Quyết_định điều_chỉnh biên_độ dao_động giá và công_bố thông_tin trên cổng thông_tin điện_tử của Ủy_ban Chứng_khoán Nhà_nước .
+
+Điều 5 . Ngắt mạch thị_trường
+
+1 . Sở giao_dịch chứng_khoán Việt_nam Quyết_định cơ_chế ngắt mạch thị_trường sau khi được Ủy_ban Chứng_khoán Nhà_nước chấp_thuận .
+
+2 . Căn_cứ điều_kiện thực_tiễn của thị_trường , Ủy_ban Chứng_khoán Nhà_nước Quyết_định áp_dụng cơ_chế ngắt mạch thị_trường hoặc cơ_chế ngắt mạch thị_trường kết_hợp với biên_độ dao_động giá .
+
+Điều 6 . Tài_khoản giao_dịch chứng_khoán
+
+1 . Nhà đầu_tư phải mở tài_khoản giao_dịch chứng_khoán tại công_ti chứng_khoán là thành_viên giao_dịch để thực_hiện giao_dịch chứng_khoán theo quy_định tại Thông_tư này ; chịu trách_nhiệm cung_cấp đầy_đủ , chính_xác các thông_tin nhận_biết khách_hàng khi mở tài_khoản giao_dịch chứng_khoán và tuân_thủ các quy_định sau :
+
+a ) Trong thời_gian chưa triển_khai hoạt_động bù_trừ , thanh_toán giao_dịch chứng_khoán theo cơ_chế đối_tác bù_trừ trung_tâm , nhà đầu_tư thực_hiện giao_dịch chứng_khoán , thanh_toán giao_dịch chứng_khoán thông_qua tài_khoản giao_dịch chứng_khoán và tài_khoản lưu kí chứng_khoán mà không phải mở tài_khoản kí_quỹ bù_trừ .
+
+b ) Sau khi hoạt_động bù_trừ , thanh_toán giao_dịch chứng_khoán theo cơ_chế đối_tác bù_trừ trung_tâm được triển_khai thực_hiện , nhà đầu_tư phải có tài_khoản kí_quỹ bù_trừ tại thành_viên bù_trừ trước khi thực_hiện giao_dịch chứng_khoán . Trường_hợp nhà đầu_tư mở tài_khoản kí_quỹ bù_trừ tại thành_viên bù_trừ là ngân_hàng lưu kí thì nhà đầu_tư chỉ được mở tài_khoản giao_dịch chứng_khoán tại thành_viên giao_dịch là thành_viên bù_trừ hoặc tại thành_viên giao_dịch không bù_trừ có hợp_đồng uỷ_thác bù_trừ , thanh_toán với thành_viên bù_trừ chung là ngân_hàng lưu kí nơi nhà đầu_tư mở tài_khoản kí_quỹ bù_trừ .
+
+2 . Nhà đầu_tư được mở nhiều tài_khoản giao_dịch chứng_khoán theo nguyên_tắc tại mỗi công_ti chứng_khoán nhà đầu_tư chỉ được mở 01 tài_khoản giao_dịch chứng_khoán , ngoại_trừ các trường_hợp quy_định tại các khoản 4 , 5 , 6 , 7 , 8 Điều này , Điều 9 , Điều 10 và Điều 11 Thông_tư này .
+
+3 . Ứng với mỗi tài_khoản giao_dịch chứng_khoán , nhà đầu_tư chỉ được mở 01 tài_khoản kí_quỹ bù_trừ tại thành_viên bù_trừ .
+
+4 . Công_ti quản_lí quỹ đầu_tư chứng_khoán được mở nhiều tài_khoản giao_dịch chứng_khoán tại mỗi công_ti chứng_khoán theo nguyên_tắc :
+
+a ) 01 tài_khoản giao_dịch chứng_khoán để thực_hiện hoạt_động_kinh_doanh chứng_khoán của chính mình :
+
+b ) 02 tài_khoản giao_dịch chứng_khoán để quản_lí danh_mục đầu_tư cho nhà đầu_tư uỷ_thác , trong đó 01 tài_khoản để giao_dịch chứng_khoán cho nhà đầu_tư uỷ_thác trong nước , 01 tài_khoản để giao_dịch chứng_khoán cho nhà đầu_tư uỷ_thác nước_ngoài .
+
+c ) Mỗi quỹ đầu_tư , công_ti đầu_tư chứng_khoán do công_ti quản_lí quỹ quản_lí được mở 01 tài_khoản giao_dịch chứng_khoán đứng_tên của quỹ đầu_tư , công_ti đầu_tư chứng_khoán tại mỗi công_ti chứng_khoán .
+
+5 . Chi_nhánh công_ti quản_lí quỹ nước_ngoài tại Việt_nam được mở 02 tài_khoản giao_dịch chứng_khoán tại mỗi công_ti chứng_khoán , trong đó 01 tài_khoản giao_dịch chứng_khoán để thực_hiện giao_dịch cho chính mình và 01 tài_khoản giao_dịch chứng_khoán để thực_hiện giao_dịch cho nhà đầu_tư nước_ngoài uỷ_thác .
+
+6 . Công_ti chứng_khoán được mở tài_khoản giao_dịch chứng_khoán theo nguyên_tắc sau :
+
+a ) Công_ti chứng_khoán có nghiệp_vụ tự doanh và là thành_viên giao_dịch của Sở giao_dịch chứng_khoán Việt_nam chỉ được mở 01 tài_khoản giao_dịch chứng_khoán tự doanh tại chính công_ty , không được mở bất_cứ tài_khoản giao_dịch chứng_khoán tại các công_ti chứng_khoán khác , ngoại_trừ trường_hợp quy_định tại điểm d khoản này .
+
+b ) Trường_hợp công_ti chứng_khoán đã huỷ_bỏ tư_cách thành_viên của Sở giao_dịch chứng_khoán Việt_nam , công_ti chứng_khoán được mở tài_khoản giao_dịch chứng_khoán tại 01 công_ti chứng_khoán khác là thành_viên giao_dịch của Sở giao_dịch chứng_khoán Việt_nam để xử_lí_số chứng_khoán còn lại trên tài_khoản tự doanh .
+
+c ) Công_ti chứng_khoán được mở 01 tài_khoản giao_dịch tạo_lập thị_trường đối_với chứng_khoán niêm_yết , đăng_kí giao_dịch và 01 tài_khoản phòng_ngừa rủi_ro chứng quyền có bảo_đảm tại chính công_ti để thực_hiện giao_dịch cho các nghiệp_vụ này .
+
+d ) Công_ti chứng_khoán không phải là thành_viên lập quỹ hoán_đổi danh_mục được mở tài_khoản giao_dịch chứng_khoán tại thành_viên lập quỹ hoán_đổi danh_mục . Tài_khoản này được sử_dụng để thực_hiện giao_dịch hoán_đổi chứng_chỉ quỹ hoán_đổi danh_mục trên thị_trường sơ_cấp , giao_dịch bán trên thị_trường thứ cấp đối_với chứng_khoán cơ_cấu và chứng_chỉ quỹ hoán_đổi danh_mục có được từ giao_dịch hoán_đổi , giao_dịch mua chứng_khoán cơ_cấu và chứng_chỉ quỹ hoán_đổi danh_mục trên thị_trường thứ cấp để thực_hiện giao_dịch hoán_đổi , không dùng để thực_hiện các giao_dịch chứng_khoán khác .
+
+đ ) Các tài_khoản giao_dịch chứng_khoán khác theo quy_định pháp_luật liên_quan .
+
+7 . Tổ_chức kinh_doanh chứng_khoán nước_ngoài được mở 02 tài_khoản giao_dịch chứng_khoán tại mỗi công_ti chứng_khoán như sau :
+
+a ) 01 tài_khoản giao_dịch chứng_khoán để thực_hiện hoạt_động tự doanh .
+
+b ) 01 tài_khoản giao_dịch môi_giới để thực_hiện hoạt_động môi_giới cho các nhà đầu_tư nước_ngoài khác .
+
+8 . Doanh_nghiệp bảo_hiểm được mở 02 tài_khoản giao_dịch chứng_khoán tại mỗi công_ti chứng_khoán như sau :
+
+a ) 01 tài_khoản giao_dịch chứng_khoán để giao_dịch từ nguồn vốn chủ sở_hữu . Trường_hợp_doanh_nghiệp bảo_hiểm có nhà đầu_tư nước_ngoài sở_hữu trên 50 % vốn điều_lệ , giao_dịch chứng_khoán trên tài_khoản này chịu sự điều_chỉnh bởi quy_định pháp_luật về sở_hữu nước_ngoài trên thị_trường chứng_khoán .
+
+b ) 01 tài_khoản giao_dịch chứng_khoán để giao_dịch từ nguồn thu phí bảo_hiểm trong nước của các quỹ chủ hợp_đồng bảo_hiểm theo quy_định pháp_luật về kinh_doanh bảo_hiểm . Giao_dịch chứng_khoán trên tài_khoản này không chịu sự điều_chỉnh bởi quy_định pháp_luật về sở_hữu nước_ngoài trên thị_trường chứng_khoán .
+
+9 . Công_ti chứng_khoán không được sử_dụng lại các mã tài_khoản giao_dịch chứng_khoán đã đóng để mở tài_khoản giao_dịch chứng_khoán cho khách_hàng mới .
+
+Điều 7 . Giao_dịch chứng_khoán
+
+1 . Trong thời_gian chưa triển_khai hoạt_động bù_trừ , thanh_toán giao_dịch chứng_khoán theo cơ_chế đối_tác bù_trừ trung_tâm , giao_dịch mua chứng_khoán được thực_hiện như sau :
+
+a ) Nhà đầu_tư chỉ được đặt Lệnh mua chứng_khoán khi có đủ tiền trên tài_khoản giao_dịch chứng_khoán , ngoại_trừ giao_dịch kí_quỹ theo quy_định tại Điều 9 Thông_tư này . Trường_hợp nhà đầu_tư mở tài_khoản lưu kí chứng_khoán tại ngân_hàng lưu kí và mở tài_khoản giao_dịch chứng_khoán tại công_ti chứng_khoán , nhà đầu_tư được đặt Lệnh mua chứng_khoán và công_ti chứng_khoán được thực_hiện Lệnh mua chứng_khoán khi có bảo_lãnh thanh_toán hoặc xác_nhận của ngân_hàng lưu kí về việc ngân_hàng lưu kí chấp_nhận yêu_cầu thanh_toán giao_dịch chứng_khoán của nhà đầu_tư .
+
+b ) Công_ti chứng_khoán chịu trách_nhiệm theo_dõi số_dư chứng_khoán , số_dư tiền ( ngoại_trừ trường_hợp nhà đầu_tư mở tài_khoản lưu kí tại ngân_hàng lưu ký ) , kiểm_tra tính hợp_lệ , hợp_pháp các Lệnh giao_dịch của nhà đầu_tư .
+
+2 . Sau khi hoạt_động bù_trừ , thanh_toán giao_dịch chứng_khoán theo cơ_chế đối_tác bù_trừ trung_tâm được triển_khai , giao_dịch mua chứng_khoán được thực_hiện như sau :
+
+a ) Nhà đầu_tư đặt Lệnh mua chứng_khoán phải có đủ tài_sản kí_quỹ bù_trừ tại thành_viên bù_trừ theo quy_định pháp_luật về đăng_ký , lưu ký , bù_trừ và thanh_toán giao_dịch chứng_khoán .
+
+b ) Công_ti chứng_khoán nơi nhà đầu_tư mở tài_khoản giao_dịch chỉ được nhập Lệnh vào hệ_thống giao_dịch chứng_khoán khi nhà đầu_tư đã đáp_ứng yêu_cầu về kí_quỹ bù_trừ theo quy_định và yêu_cầu của thành_viên bù_trừ . Trường_hợp nhà đầu_tư mở tài_khoản giao_dịch , tài_khoản kí_quỹ bù_trừ tại công_ti chứng_khoán và mở tài_khoản lưu kí tại ngân_hàng lưu ký , công_ti chứng_khoán nhập Lệnh vào hệ_thống giao_dịch chứng_khoán khi có bảo_lãnh hoặc xác_nhận của ngân_hàng lưu kí về việc đáp_ứng yêu_cầu kí_quỹ bù_trừ và thanh_toán của nhà đầu_tư trên cơ_sở thoả_thuận giữa công_ti chứng_khoán và ngân_hàng lưu ký .
+
+c ) Việc theo_dõi , xác_nhận số_dư chứng_khoán , số_dư tiền trước khi giao_dịch chứng_khoán thực_hiện theo quy_định pháp_luật bù_trừ , thanh_toán giao_dịch chứng_khoán .
+
+3 . Nhà đầu_tư chỉ được đặt Lệnh bán đối_với chứng_khoán được phép giao_dịch đã có sẵn trên tài_khoản lưu kí của nhà đầu_tư tại ngày giao_dịch , ngoại_trừ các trường_hợp : thành_viên lập quỹ hoán_đổi danh_mục được bán chứng_chỉ quỹ hoán_đổi danh_mục , bán chứng_khoán cơ_cấu khi bảo_đảm có đủ chứng_chỉ quỹ hoán_đổi danh_mục , chứng_khoán cơ_cấu để chuyển_giao trước thời_hạn thanh_toán theo quy_chế của Tổng_công_ti lưu kí và bù_trừ chứng_khoán Việt_nam ; giao_dịch trong ngày theo quy_định tại Điều 10 Thông_tư này ; bán chứng_khoán chờ về .
+
+Tuỳ vào tình_hình thị_trường , Ủy_ban Chứng_khoán Nhà_nước triển_khai hoạt_động bán chứng_khoán chờ về .
+
+4 . Nhà đầu_tư không được đặt các Lệnh giao_dịch cùng mua , cùng bán đồng_thời cùng một mã chứng_khoán trong cùng một đợt khớp Lệnh định_kỳ , trừ các Lệnh đã được nhập vào hệ_thống giao_dịch chứng_khoán tại đợt giao_dịch trước đó , chưa được khớp nhưng vẫn còn hiệu_lực .
+
+5 . Công_ti chứng_khoán có trách_nhiệm kiểm_soát việc đặt Lệnh cùng mua , cùng bán trong cùng một đợt giao_dịch khớp Lệnh định_kì của nhà đầu_tư trên tài_khoản giao_dịch mở tại công_ti mình .
+
+6 . Tổ_chức kinh_doanh chứng_khoán nước_ngoài được phép sử_dụng tài_khoản giao_dịch môi_giới quy_định tại điểm b khoản 7 Điều 6 Thông_tư này để vừa đặt Lệnh mua và Lệnh bán cùng một mã chứng_khoán trong từng đợt khớp Lệnh ( định_kì hoặc liên lục ) hoặc giao_dịch thoả_thuận , nhưng phải đảm_bảo nguyên_tắc Lệnh mua và Lệnh bán chứng_khoán không phải của cùng một nhà đầu_tư nước_ngoài .
+
+Điều 8 . Công_ti đại_chúng giao_dịch cổ_phiếu của chính mình
+
+1 . Công_ti đại_chúng mua lại cổ_phiếu của chính mình trên hệ_thống giao_dịch chứng_khoán phải tuân_thủ các quy_định sau đây :
+
+a ) Công_ti đại_chúng phải thực_hiện giao_dịch mua lại cổ_phiếu của chính mình theo đúng nội_dung đã công_bố thông_tin theo quy_định tại khoản 4 Điều 37 Luật_chứng_khoán .
+
+b ) Nguyên_tắc xác_định_giá đặt mua lại cổ_phiếu của chính mình của công_ti đại_chúng theo phương_thức khớp Lệnh hoặc thoả_thuận được quy_định như sau :
+
+- Giá đặt mua Giá tham_chiếu + ( Giá tham_chiếu x 50 % Biên_độ dao_động giá cổ_phiếu ) .
+
+- Khối_lượng đặt mua : Trong mỗi ngày giao_dịch , tổng khối_lượng đặt mua tối_thiểu là 3 % và tối_đa là 10 % khối_lượng giao_dịch đã đăng_kí với Ủy_ban Chứng_khoán Nhà_nước ( khối_lượng đặt mua không bao_gồm khối_lượng huỷ Lệnh và quy_định này được miễn_trừ khi khối_lượng mua còn lại ít hơn 3 % ) .
+
+Quy_định này áp_dụng cho tới khi công_ti đại_chúng hoàn_tất giao_dịch mua lại cổ_phiếu của chính mình với khối_lượng đã đăng_kí với Ủy_ban Chứng_khoán Nhà_nước .
+
+2 . Công_ti đại_chúng mua lại cổ_phiếu của chính mình được bán ra cổ_phiếu sau khi mua lại theo quy_định tại khoản 7 Điều 36 Luật_chứng_khoán . Việc bán ra cổ_phiếu thực_hiện trên hệ_thống giao_dịch chứng_khoán theo quy_chế giao_dịch của Sở giao_dịch chứng_khoán Việt_nam hoặc ngoài hệ_thống giao_dịch chứng_khoán theo quy_định pháp_luật về đăng_ký , lưu ký , bù_trừ và thanh_toán giao_dịch chứng_khoán .
+
+3 . Ngoại_trừ trường_hợp quy_định tại khoản 2 Điều này , công_ti đại_chúng mua lại cổ_phiếu của chính mình trước ngày 01/01/2021 bán ra cổ_phiếu đã mua lại theo phương_thức khớp Lệnh hoặc thoả_thuận như sau :
+
+- Giá đặt bán Giá tham_chiếu - ( Giá tham_chiếu x 50 % Biên_độ dao_động giá cổ_phiếu ) .
+
+- Khối_lượng đặt bán : trong mỗi ngày giao_dịch , tổng khối_lượng đặt bán tối_thiểu từ 3 % và tối_đa là 10 % khối_lượng giao_dịch đã đăng_kí với Ủy_ban Chứng_khoán Nhà_nước ( khối_lượng đặt bán không bao_gồm khối_lượng huỷ Lệnh và quy_định này được miễn_trừ khi khối_lượng bán còn lại ít hơn 3 % ) .
+
+Điều 9 . Giao_dịch kí_quỹ
+
+1 . Nhà đầu_tư trước khi thực_hiện giao_dịch kí_quỹ phải kí hợp_đồng giao_dịch kí_quỹ với công_ti chứng_khoán được phép cung_cấp dịch_vụ cho khách_hàng vay tiền mua chứng_khoán theo quy_định pháp_luật . Hợp_đồng giao_dịch kí_quỹ đồng_thời là hợp_đồng cho các khoản vay trên tài_khoản giao_dịch kí_quỹ . Hợp_đồng giao_dịch kí_quỹ tối_thiểu phải bao_gồm nội_dung về tài_sản bảo_đảm cho giao_dịch kí quý , thời_hạn bổ_sung kí_quỹ , xử_lí tài_sản bảo_đảm cho giao_dịch kí_quỹ khi nhà đầu_tư không bổ_sung kí_quỹ ; phương_thức giải_quyết khi có tranh_chấp phát_sinh ; nêu rõ các rủi_ro , thiệt_hại có_thể phát_sinh và chi_phí khách_hàng phải thanh_toán .
+
+2 . Nhà đầu_tư nước_ngoài không được thực_hiện giao_dịch kí_quỹ .
+
+3 . Tại mỗi công_ti chứng_khoán nơi nhà đầu_tư mở tài_khoản giao_dịch chứng_khoán , nhà đầu_tư chỉ được mở 01 tài_khoản giao_dịch kí_quỹ . Tài_khoản giao_dịch kí_quỹ là tài_khoản riêng_biệt hoặc được quản_lí riêng_biệt hoặc được hạch_toán dưới hình_thức tiểu khoản của tài_khoản giao_dịch chứng_khoán hiện có của nhà đầu_tư . Công_ti chứng_khoán phải hạch_toán tách_biệt_tài_khoản giao_dịch kí_quỹ với tài_khoản giao_dịch chứng_khoán thông_thường của từng nhà đầu_tư , tách_biệt_tài_khoản giao_dịch kí_quỹ và tài_khoản giao_dịch chứng_khoán thông_thường giữa các nhà đầu_tư .
+
+4 . Chứng_khoán được giao_dịch kí_quỹ là cổ_phiếu niêm_yết , đăng_kí giao_dịch , chứng_chỉ quỹ niêm_yết trên hệ_thống giao_dịch chứng_khoán và đáp_ứng các tiêu_chí cơ_bản sau : thời_gian niêm_yết , đăng_kí giao_dịch ; quy_mô vốn và kết_quả hoạt_động_kinh_doanh của tổ_chức phát_hành ; tính thanh khoản và biến_động giá ( nếu có ) ; minh_bạch thông_tin và các tiêu_chí khác theo quy_chế của Ủy_ban Chứng_khoán Nhà_nước . Sở giao_dịch chứng_khoán công_bố danh_sách chứng_khoán được giao_dịch kí_quỹ hoặc chứng_khoán không được giao_dịch kí_quỹ trên cơ_sở tiêu_chí do Ủy_ban Chứng_khoán Nhà_nước quy_định .
+
+5 . Trên_cơ_sở danh_sách chứng_khoán được giao_dịch kí_quỹ hoặc chứng_khoán không được giao_dịch kí_quỹ do Sở giao_dịch chứng_khoán công_bố , công_ti chứng_khoán lựa_chọn danh_sách chứng_khoán được thực_hiện giao_dịch kí_quỹ tại công_ti và thực_hiện công_bố thông_tin theo quy_định pháp_luật .
+
+6 . Nhà đầu_tư có nghĩa_vụ đảm_bảo tỉ_lệ kí_quỹ ban_đầu , tỉ_lệ kí_quỹ duy_trì theo hợp_đồng đã kí với công_ti chứng_khoán . Khi tỉ_lệ kí_quỹ trên tài_khoản giao_dịch kí_quỹ của nhà đầu_tư giảm xuống thấp hơn tỉ_lệ kí_quỹ duy_trì , công_ti chứng_khoán phát_hành Lệnh gọi kí_quỹ bổ_sung . Chứng_khoán không được phép giao_dịch kí_quỹ không được tính vào tài_sản bảo_đảm khi xác_định tỉ_lệ kí_quỹ ban_đầu và tỉ_lệ kí_quỹ duy_trì cho giao_dịch kí_quỹ . Trường_hợp nhà đầu_tư không thực_hiện kí_quỹ bổ_sung , công_ti chứng_khoán có quyền bán chứng_khoán là tài_sản bảo_đảm theo điều_khoản tại hợp_đồng mở tài_khoản giao_dịch kí_quỹ . Trước khi thực_hiện bán chứng_khoán là tài_sản bảo_đảm , công_ti chứng_khoán thực_hiện công_bố thông_tin theo quy_định pháp_luật và thông_báo kết_quả giao_dịch bán chứng_khoán là tài_sản bảo_đảm cho nhà đầu_tư biết để thực_hiện nghĩa_vụ báo_cáo sở_hữu , công_bố thông_tin về giao_dịch theo quy_định pháp_luật ( nếu có ) .
+
+7 . Công_ti chứng_khoán không còn đáp_ứng điều_kiện được cung_cấp dịch_vụ cho khách_hàng vay tiền mua chứng_khoán phải ngừng ngay việc kí mới , gia_hạn hợp_đồng mở tài_khoản giao_dịch kí_quỹ , ngừng cho vay vốn để thực_hiện giao_dịch kí_quỹ và báo_cáo bằng văn_bản cho Ủy_ban Chứng_khoán Nhà_nước trong vòng 48 giờ kể từ khi xảy ra sự_kiện trên .
+
+8 . Ủy_ban Chứng_khoán Nhà_nước ban_hành quy_chế hướng_dẫn hoạt_động giao_dịch kí_quỹ tại công_ti chứng_khoán .
+
+9 . Trong trường_hợp cần_thiết để ổn_định thị_trường , Ủy_ban Chứng_khoán Nhà_nước có quyền yêu_cầu tạm ngừng giao_dịch kí_quỹ tại công_ti chứng_khoán .
+
+Điều 10 . Giao_dịch trong ngày
+
+1 . Nhà đầu_tư được thực_hiện các giao_dịch trong ngày sau khi đã kí hợp_đồng giao_dịch trong ngày với công_ti chứng_khoán được cung_cấp dịch_vụ cho vay chứng_khoán . Hợp_đồng giao_dịch trong ngày phải có điều_khoản cho phép công_ti chứng_khoán thực_hiện các giao_dịch vay , giao_dịch mua bắt_buộc để hỗ_trợ thanh_toán trong trường_hợp phát_sinh thiếu_hụt chứng_khoán để chuyển_giao theo quy_định pháp_luật bù_trừ , thanh_toán giao_dịch chứng_khoán . Hợp_đồng giao_dịch trong ngày phải nêu rõ các rủi_ro phát_sinh , thiệt_hại và chi_phí phát_sinh mà nhà đầu_tư phải thanh_toán .
+
+2 . Hoạt_động giao_dịch trong ngày phải bảo_đảm tuân_thủ các nguyên_tắc sau :
+
+a ) Tại mỗi công_ti chứng_khoán nơi nhà đầu_tư mở tài_khoản giao_dịch chứng_khoán , nhà đầu_tư chỉ được mở 01 tài_khoản giao_dịch trong ngày . Tài_khoản giao_dịch trong ngày là tài_khoản riêng_biệt hoặc được quản_lí riêng_biệt hoặc được hạch_toán dưới hình_thức tiểu khoản của tài_khoản giao_dịch chứng_khoán hiện có của nhà đầu_tư . Công_ti chứng_khoán phải hạch_toán tách_biệt_tài_khoản giao_dịch trong ngày với tài_khoản giao_dịch chứng_khoán thông_thường và tài_khoản giao_dịch kí_quỹ ( nếu có ) của từng nhà đầu_tư ;
+
+b ) Nhà đầu_tư thực_hiện các giao_dịch trong ngày phải tuân_thủ quy_định tại khoản 4 Điều 7 Thông_tư này , không được thực_hiện các giao_dịch trong ngày đối_với giao_dịch chứng_khoán lô lẻ và giao_dịch thoả_thuận ;
+
+c ) Công_ti chứng_khoán có quyền lựa_chọn mã chứng_khoán có trong danh_sách chứng_khoán niêm_yết , đăng_kí giao_dịch được phép giao_dịch kí_quỹ tại công_ti chứng_khoán để thực_hiện giao_dịch trong ngày cho nhà đầu_tư . Danh_sách các chứng_khoán được giao_dịch trong ngày phải được công_ti chứng_khoán công_khai trên trang thông_tin điện_tử của công_ti chứng_khoán ;
+
+d ) Nhà đầu_tư có trách_nhiệm đặt các Lệnh giao_dịch , bảo_đảm tổng_số chứng_khoán trên các Lệnh bán phải bằng với tổng_số chứng_khoán cùng mã trên các Lệnh mua trong cùng ngày giao_dịch và ngược_lại . Trường_hợp tổng_số chứng_khoán của các Lệnh bán đã thực_hiện nhiều hơn tổng_số chứng_khoán của các Lệnh mua đã thực_hiện hoặc ngược_lại thì công_ti chứng_khoán có trách_nhiệm thanh_toán thay cho nhà đầu_tư số tiền hoặc chứng_khoán thiếu_hụt tại ngày thanh_toán ;
+
+đ ) Công_ti chứng_khoán phải từ_chối thực_hiện Lệnh giao_dịch trong ngày của nhà đầu_tư khi không_thể bảo_đảm có đủ tiền để thanh_toán và chứng_khoán để chuyển_giao tại ngày thanh_toán ;
+
+e ) Nhà đầu_tư có trách_nhiệm bồi_thường thiệt_hại , thanh_toán cho công_ti chứng_khoán mọi chi_phí phát_sinh liên_quan tới hoạt_động mua bắt_buộc , vay chứng_khoán , vay tiền để hỗ_trợ thanh_toán trong trường_hợp không có đủ tiền để thanh_toán , không có đủ chứng_khoán để chuyển_giao tại ngày thanh_toán theo quy_định tại hợp_đồng giao_dịch trong ngày đã kí với công_ti chứng_khoán và pháp_luật liên_quan ;
+
+g ) Công_ti chứng_khoán có quyền yêu_cầu nhà đầu_tư kí_quỹ tiền hoặc chứng_khoán trước khi cho phép nhà đầu_tư thực_hiện giao_dịch trong ngày ;
+
+h ) Trong một ngày giao_dịch , tổng giá_trị giao_dịch trong ngày ( xác_định trên tổng giá_trị mua và giá_trị bán đã thực_hiện ) tại mỗi công_ti chứng_khoán không được vượt quá một tỉ_lệ theo quy_định so với vốn chủ sở_hữu của công_ty . Khối_lượng chứng_khoán được giao_dịch trong ngày tại mỗi công_ti chứng_khoán không được vượt quá một tỉ_lệ theo quy_định so với khối_lượng chứng_khoán đang lưu_hành . Các tỉ_lệ này thực_hiện theo quy_chế của Ủy_ban Chứng_khoán Nhà_nước .
+
+3 . Hoạt_động giao_dịch trong ngày không được thực_hiện trong khoảng thời_gian năm ( 05 ) ngày làm_việc , trước ngày đăng_kí cuối_cùng để thực_hiện quyền cho cổ_đông_gắn với mã chứng_khoán được giao_dịch trong ngày .
+
+4 . Trong trường_hợp cần_thiết để ổn_định thị_trường , Ủy_ban Chứng_khoán Nhà_nước có quyền yêu_cầu tạm ngừng các hoạt_động giao_dịch trong ngày .
+
+5 . Công_ti chứng_khoán không đáp_ứng điều_kiện được cung_cấp dịch_vụ cho vay chứng_khoán phải ngừng ngay việc kí mới , gia_hạn hợp_đồng giao_dịch trong ngày , ngừng cho phép nhà đầu_tư thực_hiện các giao_dịch trong ngày và báo_cáo bằng văn_bản cho Ủy_ban Chứng_khoán Nhà_nước trong vòng 48 giờ kể từ khi xảy ra sự_kiện trên .
+
+6 . Tuỳ vào tình_hình thị_trường , Ủy_ban Chứng_khoán Nhà_nước triển_khai hoạt_động giao_dịch trong ngày , Ủy_ban Chứng_khoán Nhà_nước ban_hành quy_chế hướng_dẫn giao_dịch trong ngày .
+
+Điều 11 . Giao_dịch bán khống có bảo_đảm
+
+1 . Hợp_đồng giao_dịch vay chứng_khoán trên hệ_thống vay và cho vay chứng_khoán tại Tổng_công_ti lưu kí và bù_trừ chứng_khoán Việt_nam để thực_hiện giao_dịch bán không có bảo_đảm tối_thiểu phải bao_gồm nội_dung về tài_sản bảo_đảm , lãi_suất vay , thời_hạn vay , gia_hạn vay , xử_lí tài_sản bảo_đảm khi nhà đầu_tư không hoàn_trả chứng_khoán , phương_thức giải_quyết khi có tranh_chấp phát_sinh , nêu rõ các rủi_ro , thiệt_hại có_thể phát_sinh và chi_phí .
+
+2 . Nhà đầu_tư mở tài_khoản giao_dịch bán khống có bảo_đảm tại công_ti chứng_khoán được cung_cấp dịch_vụ cho vay chứng_khoán , nơi nhà đầu_tư mở tài_khoản giao_dịch để thực_hiện giao_dịch bán khống có bảo_đảm . Tài_khoản giao_dịch bán khống có bảo_đảm là tài_khoản riêng_biệt hoặc được hạch_toán dưới hình_thức tiểu khoản của tài_khoản giao_dịch chứng_khoán hiện có của nhà đầu_tư . Công_ti chứng_khoán phải hạch_toán tách_biệt_tài_khoản bán không có bảo_đảm với tài_khoản giao_dịch kí_quỹ , tài_khoản giao_dịch trong ngày và tài_khoản chứng_khoán thông_thường của từng nhà đầu_tư .
+
+3 . Các chứng_khoán được phép giao_dịch bán khống có bảo_đảm là cổ_phiếu , chứng_chỉ quỹ niêm_yết , đăng_kí giao_dịch trên hệ_thống giao_dịch chứng_khoán và đáp_ứng các tiêu_chí về thời_gian niêm_yết , đăng_kí giao_dịch ; về quy_mô vốn và kết_quả hoạt_động_kinh_doanh của tổ_chức phát_hành ; về tính thanh khoản và biến_động giá ( nếu có ) ; minh_bạch thông_tin và các tiêu_chí khác theo hướng_dẫn của Ủy_ban Chứng_khoán Nhà_nước . Sở giao_dịch chứng_khoán công_bố danh_sách chứng_khoán được giao_dịch bán khống có bảo_đảm hoặc chứng_khoán không được giao_dịch bán khống có bảo_đảm trên cơ_sở tiêu_chí do Ủy_ban Chứng_khoán Nhà_nước quy_định .
+
+4 . Hoạt_động bán khống có bảo_đảm không được thực_hiện trong khoảng thời_gian năm ( 05 ) ngày làm_việc trước ngày đăng_kí cuối_cùng để thực_hiện quyền cho cổ_đông_gắn với mã chứng_khoán được giao_dịch bán khống có bảo_đảm .
+
+5 . Tuỳ vào tình_hình thị_trường , Ủy_ban Chứng_khoán Nhà_nước triển_khai hoạt_động bán khống có bảo_đảm . Ủy_ban Chứng_khoán Nhà_nước ban_hành quy_chế hướng_dẫn giao_dịch bán khống có bảo_đảm .
+
+6 . Trong trường_hợp cần_thiết để đảm_bảo_an_toàn cho hoạt_động của thị_trường chứng_khoán , Ủy_ban Chứng_khoán Nhà_nước có_thể yêu_cầu các công_ti chứng_khoán tạm ngừng thực_hiện hoạt_động giao_dịch bán khống có bảo_đảm .
+
+Điều 12 . Giao_dịch tạo_lập thị_trường
+
+1 . Hoạt_động giao_dịch tạo_lập thị_trường phải tuân_thủ nguyên_tắc sau :
+
+a ) Thành_viên giao_dịch tham_gia tạo_lập thị_trường phải trung_thực và thiện_chí khi thực_hiện chức_năng tạo_lập thị_trường vì mục_tiêu bảo_đảm thị_trường hoạt_động hiệu_quả , ổn_định ;
+
+b ) Tuỳ vào điều_kiện thị_trường , thành_viên giao_dịch tham_gia tạo_lập thị_trường được yết_giá hai chiều hoặc yết_giá một_chiều đối_với mã chứng_khoán đã đăng_kí tạo_lập thị_trường theo quy_chế của Sở giao_dịch chứng_khoán Việt_nam và hợp_đồng tạo_lập thị_trường . Mã_chứng_khoán cần tạo thanh khoản , thời_hạn tạo_lập thị_trường , phương_thức yết_giá , giới_hạn chênh_lệch giá giữa giá chào mua và giá chào_bán , tỉ_lệ báo_giá , thời_gian duy_trì báo_giá , các trường_hợp được tạm ngừng giao_dịch thực_hiện theo quy_chế của Sở giao_dịch chứng_khoán Việt_nam và hợp_đồng tạo_lập thị_trường ( nếu có ) ;
+
+c ) Thành_viên giao_dịch tham_gia tạo_lập thị_trường chỉ được đặt Lệnh giới_hạn cho các giao_dịch tạo_lập thị_trường . Thành_viên giao_dịch tham_gia tạo_lập thị_trường được đồng_thời thực_hiện giao_dịch tạo_lập thị_trường và tự doanh nhưng phải bảo_đảm nguyên_tắc về giá theo quy_chế của Sở giao_dịch chứng_khoán Việt_nam .
+
+2 . Thành_viên giao_dịch tham_gia tạo_lập thị_trường được yết_giá để đồng_thời mua , bán mã chứng_khoán mà thành_viên đó được chỉ_định là nhà tạo_lập thị_trường trong cùng đợt khớp Lệnh . Các giao_dịch này phải được thực_hiện trên tài_khoản tạo_lập thị_trường .
+
+3 . Sở giao_dịch chứng_khoán Việt_nam có trách_nhiệm xây_dựng và ban_hành quy_chế hướng_dẫn hoạt_động tạo_lập thị_trường sau khi Ủy_ban Chứng_khoán Nhà_nước chấp_thuận .
+
+4 . Sở giao_dịch chứng_khoán Việt_nam có quyền chấm_dứt hoặc đình_chỉ hoạt_động tạo_lập thị_trường của thành_viên giao_dịch đối_với một hoặc một_số chứng_khoán trong trường_hợp_thành_viên giao_dịch không thực_hiện đầy_đủ nghĩa_vụ trách_nhiệm và quy_chế của Sở giao_dịch chứng_khoán Việt_nam và vi_phạm các điều_khoản của hợp_đồng tạo_lập thị_trường ( nếu có ) .
+
+Điều 13 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 02 năm 2021 và thay_thế <TT rel="None"> Thông_tư số 203/2015/TT-BTC ngày 21 tháng 12 năm 2015 </TT> của Bộ_trưởng Bộ Tài_chính hướng_dẫn về giao_dịch trên thị_trường chứng_khoán .
+
+Điều 14 . Tổ_chức thực_hiện
+
+Ủy_ban Chứng_khoán Nhà_nước , Sở giao_dịch chứng_khoán Việt_nam , Sở giao_dịch chứng_khoán Hà_nội , Sở giao_dịch chứng_khoán Thành_phố Hồ_chí_minh , Tổng_công_ti lưu kí và bù_trừ chứng_khoán Việt_nam , công_ti chứng_khoán , thành_viên lưu ký , thành_viên bù_trừ , công_ti quản_lí quỹ đầu_tư chứng_khoán và các tổ_chức , cá_nhân khác có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .

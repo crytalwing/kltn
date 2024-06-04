@@ -1,0 +1,1609 @@
+Thông_tư số 17/2020/tt-btttt ngày 20 tháng 08 năm 2020 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Luật Tần_số vô_tuyến_điện ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều Luật tiêu_chuẩn và quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị thu truyền_hình số mặt_đất Dvb - t2 .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị thu truyền_hình số mặt_đất Dvb - t2 ( qcvn 63 : 2020 / bt ) .
+
+Điều 2 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2021 .
+
+2 . Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị thu truyền_hình số mặt_đất Dvb - t2 , Ký_hiệu Qcvn 63 : 2012 / bt quy_định tại Khoản 1 Điều 1 Thông_tư số 20/2012/TT-BTTTT ngày 04 tháng 12 năm 2012 của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_chuẩn kĩ_thuật quốc_gia về viễn_thông và Khoản 1 Điều 1 Thông_tư số 15/2013/TT-BTTTT ngày 01 tháng 7 năm 2013 của Bộ_trưởng Bộ Thông_tin và Truyền_thông sửa_đổi , bổ_sung Thông_tư số 20/2012/TT-BTTTT ngày 04 tháng 12 năm 2012 của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_chuẩn kĩ_thuật quốc_gia hết hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2021 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 63 : 2020 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Thiết_bị Thu Truyền_hình Số Mặt_đất_dvb - t2
+
+National technical regulation on digital receiver used in Dvb - t2 digital terrestrial television broadcasting
+
+Lời_nói_đầu
+
+Qcvn 63 : 2020 / bt thay_thế Qcvn 63 : 2012 / bt .
+
+Qcvn 63 : 2020 / bt do Cục Viễn_thông biên_soạn , Vụ Khoa_học và Công_nghệ trình_duyệt , Bộ Khoa_học và Công_nghệ thẩm_định , Bộ Thông_tin và Truyền_thông ban_hành kèm theo Thông_tư số 17/2020/TT-BTTTT ngày 20 tháng 8 năm 2020 .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Thiết_bị Thu Truyền_hình Số Mặt_đất_dvb - t2
+
+National technical regulation on digital receiver used in Dvb - t2 digital terrestrial television broadcasting
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn kĩ_thuật quốc_gia này quy_định yêu_cầu kĩ_thuật tối_thiểu đối_với thiết_bị thu tín_hiệu truyền_hình số mặt_đất không khoá mã ( Free To_air - Fta ) theo chuẩn Dvb - t2 , hỗ_trợ Sdtv và / hoặc Hd_tv tại Việt_nam .
+
+Quy_chuẩn này áp_dụng cho cả thiết_bị thu hoạt_động độc_lập ( stb ) và thiết_bị thu được tích_hợp trong máy thu_hình ( iDTV ) , hỗ_trợ Sdtv và / hoặc Hd_tv .
+
+Quy_chuẩn này áp_dụng cho thiết_bị thu truyền_hình số mặt_đất Dvb - t2 có mã_số Hs quy_định tại Phụ_lục B .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn này áp_dụng đối_với các tổ_chức , cá_nhân có hoạt_động_sản_xuất , nhập_khẩu thiết_bị thu truyền_hình số mặt_đất Dvb - t2 tại Việt_nam .
+
+1 . 3 . Tài_liệu viện_dẫn
+
+Tcvn 5712 : 1999 , Công_nghệ thông_tin . Bộ mã kí_tự tiếng Việt 8 bit .
+
+Ci Plus Specification V1 . 3 .
+
+Etsi En 300 468 V1 . 15 . 1 ( 2016 - 03 ) , Digital Video_broadcasting ( dvb ) ; Specification for Service_information ( si ) in Dvb systems .
+
+Etsi En 300 743 V1 . 6 . 1 ( 2018 - 07 ) , Digital Video_broadcasting ( dvb ) ; Subtitling systems .
+
+Etsi En 300 744 V1 . 6 . 2 ( 2015 - 10 ) , Digital Video_broadcasting ( dvb ) ; Framing structure , channel coding and modulation for digital terrestrial television .
+
+Etsi En 302 755 V1 . 4 . 1 ( 2015 - 07 ) , Digital Video_broadcasting ( dvb ) ; Frame structure channel coding and modulation for a second generation digital terrestrial television broadcasting system ( dvb - t2 ) .
+
+Etsi En 50221 , Common Interface Specification for Conditional Access and other Digital Video Broadcasting Decoder_applications , Feb . 1997 .
+
+Etsi Tr 101 154 V2 . 4 . 1 ( 2018 - 02 ) , Digital Video_broadcasting ( dvb ) ; Specification for the use of Video and Audio Coding in Broadcasting_applications .
+
+Etsi Tr 101 211 V1 . 12 . 1 ( 2013 - 12 ) , Digital Video_broadcasting ( dvb ) ; Guidelines on implementation and usage of Service_information ( si ) .
+
+Etsi Ts 102 114 , Dts Coherent_acoustics ; Core and Extensions with Additional_profiles .
+
+Iec 48b sec 316 Rca .
+
+Iec 60603 - 14 , Connectors for frequencies below 3 MHz for use with printed boards .
+
+Iec 6169-2, Radio - frequency connectors - Part 2 : Sectional specification - Radio frequency coaxial connectors of type 9 , 52 .
+
+Iso / iec 11172 - 3 , Information technology - Coding of moving pictures and associated audio for digital storage media at up to about 1 . 5 Mb / s .
+
+Iso / iec 13818 - 1 , Information technology - Generic coding of moving pictures and associated audio information : Systems .
+
+Iso / iec 13818 - 2 , Information technology - Generic coding of moving pictures and associated audio information : Video .
+
+Iso / iec 14496 - 3 , Information technology - Coding of audio - visual objects - Part 3 : Audio .
+
+Iso / iec 14496 - 10 , Information technology - Coding of audio - visual objects - Part 10 : Advanced Video_coding .
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 4 . 1 . Chế_độ A ( mode A )
+
+Chế_độ tín_hiệu Dvb - t2 sử_dụng Single_plp .
+
+1 . 4 . 2 . Chế_độ B ( mode B )
+
+Chế_độ tín_hiệu Dvb - t2 có sử_dụng Multi_plp . Chế_độ B có_thể có Multi Plp nhưng không sử_dụng Common Plp hoặc có_thể có Multi_plp và Common_plp .
+
+1 . 4 . 3 . iDTV ( integrated Digital_television )
+
+Là thiết_bị đầu_cuối người dùng có màn_hình hiển_thị , cổng kết_nối đầu_vào Rf có giao_diện kiểu giắc cái trở_kháng 75 Ohm , đầu_ra dịch_vụ được giải_mã đưa đến màn_hình hiển_thị của thiết_bị .
+
+1 . 4 . 4 . Stb ( Set - Top - Box )
+
+Thiết_bị đầu_cuối người dùng không có màn_hình hiển_thị , đầu_ra của dịch_vụ được giải_mã đưa đến màn_hình bên ngoài thông_qua giao_diện âm_thanh và hình_ảnh ( ví_dụ : Hd mi ) .
+
+1 . 4 . 5 . Thiết_bị thu ( receiver )
+
+Thiết_bị thu tín_hiệu truyền_hình số mặt_đất phát theo chuẩn Dvb - t2 . Thiết_bị thu phải có bộ dò kênh Rf , bộ giải điều_chế , giải ghép kênh và giải_mã . Thiết_bị thu có_thể là thiết_bị độc_lập ( stb ) hoặc thiết_bị tích_hợp trong máy thu_hình ( iDTV ) . Thiết_bị thu cũng có_thể là loại chỉ hỗ_trợ Sdtv ( thiết_bị thu Sdtv ) hoặc hỗ_trợ đồng_thời Sdtv và Hd_tv ( thiết_bị thu Hd_tv ) .
+
+1 . 4 . 6 . Thiết_bị thu Hd_tv ( hd tv level receiver )
+
+Thiết_bị thu hỗ_trợ thu tín_hiệu có độ phân_giải cao ( hd tv ) và độ phân_giải tiêu_chuẩn ( sdtv ) để hiển_thị trên màn_hình với độ phân_giải nguyên gốc .
+
+1 . 4 . 7 . Thiết_bị thu Sdtv ( sdtv level receiver )
+
+Thiết_bị thu chỉ hỗ_trợ thu tín_hiệu có độ phân_giải tiêu_chuẩn ( sdtv ) để hiển_thị trên màn_hình với độ phân_giải nguyên gốc , không hỗ_trợ độ phân_giải cao ( hd tv ) .
+
+1 . 4 . 8 . Up_converter
+
+Bộ chuyển_đổi nâng tần .
+
+1 . 4 . 9 . Đánh_giá Qef ( Quasi Error_free )
+
+Đánh_giá chất_lượng đạt yêu_cầu khi có không quá một sự_kiện lỗi không mong_muốn trong 1 h , tương_ứng với Ber = 10 - 11 trong dữ_liệu truyền_tải Ts tại đầu_vào của bộ giải_mã Mpeg - 2 .
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Yêu_cầu chung
+
+2 . 1 . 1 . Yêu_cầu thu và giải_mã tín_hiệu
+
+Thiết_bị thu phải có khả_năng thu và giải điều_chế tín_hiệu Dvb - t2 phát theo tiêu_chuẩn Etsi En 302 755 trong mạng đơn tần hoặc mạng đa tần .
+
+2 . 1 . 2 . Yêu_cầu về nguồn điện đối_với Stb
+
+Stb phải có khả_năng hoạt_động trong các điều_kiện về nguồn điện như sau :
+
+- Điện_áp : từ 100 Vac tới 240 Vac ;
+
+- Tần_số điện_áp : 47 , 5 Hz đến 52 Hz .
+
+2 . 1 . 3 . Nâng_cấp phần_mềm
+
+Thiết_bị thu phải có ít_nhất một cơ_chế để nâng_cấp phần_mềm hệ_thống .
+
+Thiết_bị thu phải có cơ_chế phát_hiện phần_mềm hệ_thống được tải về bị lỗi trước khi phần_mềm này được sử_dụng để thay_thế phần_mềm làm_việc hiện_tại . Nếu phần_mềm hệ_thống nhận được bị lỗi , thiết_bị thu phải giữ nguyên phiên_bản phần_mềm hệ_thống hiện_tại để hoạt_động bình_thường . Trong trường_hợp tải về mất quá nhiều thời_gian do đường truyền kém , thiết_bị thu phải hỗ_trợ người sử_dụng huỷ_bỏ việc tải xuống và tiếp_tục sử_dụng phiên_bản phần_mềm hiện_tại .
+
+Đối_với mỗi phiên_bản mới của phần_mềm hệ_thống , các nhà sản_xuất phải cung_cấp phần hướng_dẫn cách tải về phần_mềm mới . Nhà sản_xuất chịu trách_nhiệm cung_cấp và phân_phối các phiên_bản mới của phần_mềm hệ_thống .
+
+2 . 2 . Yêu_cầu tính_năng
+
+2 . 2 . 1 . Hiển_thị Chỉ_thị chất_lượng tín_hiệu và Chỉ_thị cường_độ tín_hiệu
+
+Thiết_bị thu phải có hỗ_trợ khả_năng hiển_thị về chất_lượng tín_hiệu ( sqi ) và về cường_độ tín_hiệu ( si ) trên màn_hình máy thu_hình . Phương_thức hiển_thị thông_tin Sqi , Ssi do nhà sản_xuất tự thực_hiện .
+
+2 . 2 . 2 . Thông_tin dịch_vụ
+
+2 . 2 . 2 . 1 . Xử_lí các bảng báo_hiệu Psi / si
+
+Thiết_bị thu phải có phần_mềm hệ_thống để phân_tích và xử_lí các thông_tin dịch_vụ đang hoạt_động đồng_thời kiểm_soát các phần_cứng / phần_mềm theo các chuẩn En 300 468 và Etsi Tr 101 211 .
+
+Thiết_bị thu phải có khả_năng xử_lí các bảng sau : Nit , Pat , Pmt , Sdt , Eit , Tdt . Các bảng thông_tin trên được mô_tả trong quy_chuẩn đối_với phần tín_hiệu phát của Dvb - t2 .
+
+Thiết_bị có khả_năng giám_sát , cập_nhật đúng và đủ trạng_thái kênh hoặc dịch_vụ mà không cần có sự tác_động của người sử_dụng trong các trường_hợp sau :
+
+- Trường_hợp không có sự thay_đổi trạng_thái kênh hoặc dịch_vụ : Thiết_bị thu phải giữ nguyên_trạng_thái kênh hoặc dịch_vụ .
+
+- Trường_hợp có sự thay_đổi tên kênh : Trong khoảng thời_gian 40 s kể từ khi thay_đổi tên kênh , thiết_bị thu phải tự cập_nhật đúng tên mới của kênh .
+
+- Trường_hợp xoá 1 kênh chương_trình : Trong khoảng thời_gian 40 s kể từ khi xoá 1 kênh , thiết_bị thu phải xoá kênh đó khỏi danh_sách kênh .
+
+- Trường_hợp xoá 1 kênh chương_trình đồng_thời thay_đổi vị_trí 1 kênh : Trong khoảng thời_gian 40 s kể từ khi xoá 1 kênh và thay_đổi vị_trí 1 kênh , thiết_bị thu phải xoá được kênh bị xoá đồng_thời cập_nhật đúng vị_trí mới của kênh đã được thay_đổi vị_trí trong danh_sách kênh .
+
+- Trường_hợp kênh chỉ có 1 kênh âm_thanh : Thiết_bị thu phải thu được đúng 1 kênh âm_thanh và giải_mã đúng tên nhãn của kênh âm_thanh đó .
+
+- Trường_hợp chèn thêm 1 kênh âm_thanh mới vào 1 kênh chương_trình : Trong khoảng thời_gian 40 s kể từ khi chèn thêm 1 kênh âm_thanh vào 1 kênh chương_trình , thiết_bị thu phải thu được thêm 1 kênh âm_thanh mới và giải_mã đúng tên nhãn của kênh âm_thanh đó .
+
+2 . 2 . 2 . 2 . Đồng_hồ thời_gian thực
+
+Thiết_bị thu phải có một đồng_hồ thời_gian thực và đồng_hồ này phải được cập_nhật bởi các dữ_liệu từ các bảng Tdt .
+
+2 . 2 . 2 . 3 . Các tính_năng của Epg cho bảng Eit thực và các bảng Eit khác
+
+Thiết_bị thu phải cung_cấp các chức_năng cơ_bản của Epg như sau :
+
+- Eit thực ( hiện_tại / tiếp_theo / lịch_trình ) ;
+
+- Eit khác ( hiện_tại / tiếp_theo / lịch_trình ) .
+
+Tính_năng Epg của thiết_bị thu phải có khả_năng cung_cấp thông_tin về các chương_trình dự_kiến được phát trong ít_nhất 7 ngày tiếp_theo . Thông_tin về chương_trình gồm : tên chương_trình , thời_gian bắt_đầu và kết_thúc chương_trình / sự_kiện , các bản tin ngắn ( nếu có ) .
+
+2 . 2 . 3 . Bộ quản_lí chương_trình
+
+Thiết_bị thu phải có bộ quản_lí chương_trình cho phép người sử_dụng khả_năng truy_cập vào thông_tin hệ_thống và kiểm_soát các hoạt_động của thiết_bị thu . Bộ quản_lí chương_trình phải bao_gồm chức_năng quản_lí danh_sách dịch_vụ và chức_năng quản_lí sự_kiện Epg cơ_bản .
+
+Bộ quản_lí chương_trình phải hỗ_trợ ngôn_ngữ tiếng Việt và tiếng Anh . Ký_tự tiếng Việt phải tuân theo bảng mã Utf - 8 trong Tcvn 5712 : 1999 .
+
+Yêu_cầu :
+
+- Chức_năng quản_lí danh_sách dịch_vụ : Thiết_bị có khả_năng dò kênh , xoá kênh , di_chuyển vị_trí kênh .
+
+- Chức_năng quản_lí sự_kiện : Thiết_bị có khả_năng hiển_thị được thời_gian hiện_tại , thời_gian bắt_đầu và kết_thúc chương_trình , thứ_tự kênh , tên chương_trình / sự_kiện , các bản tin ngắn ( nếu có ) .
+
+2 . 2 . 4 . Phụ_đề
+
+Thiết_bị thu phải có khả_năng giải_mã và hiển_thị dịch_vụ phụ_đề Dvb được phát theo chuẩn Etsi En 300 743 . Thiết_bị thu phải hỗ_trợ phụ_đề tiếng Việt .
+
+Yêu_cầu :
+
+- Thiết_bị thu có khả_năng hỗ_trợ ngôn_ngữ phụ_đề tiếng Anh và tiếng Việt trong các chương_trình .
+
+- Thiết_bị có khả_năng hiển_thị_đúng ngôn_ngữ phụ_đề dựa trên việc cài_đặt tuỳ_chọn ngôn_ngữ .
+
+- Trong trường_hợp không có ngôn_ngữ phụ_đề ưu_tiên thì thiết_bị thu phải hiển_thị ngôn_ngữ phụ_đề thứ nhất có sẵn trong danh_sách .
+
+2 . 2 . 5 . Đánh_số kênh logic
+
+Thiết_bị thu phải có khả_năng xử_lí thông_tin dịch_vụ từ bảng đánh_số kênh logic ( lcn Logical Channel_number ) để hỗ_trợ đánh_số , sắp_xếp , tìm_kiếm kênh .
+
+Thiết_bị thu hỗ_trợ Lcn bằng cách sử_dụng bộ mô_tả kênh logic với trường đặc_tả descriptor _ tag bằng 0x83 với cấu_trúc và cú_pháp như sau :
+
+Trong đó :
+
+descriptor _ tag : đặt bằng 0x83 ;
+
+service _ id : trường 16 bit sử_dụng để nhận_dạng dịch_vụ trong luồng dữ_liệu truyền_tải ( ts ) ;
+
+visible _ service _ flag : cờ báo hiển_thị dịch_vụ , có giá_trị bằng 1 nếu dịch_vụ có_thể được hiển_thị và lựa_chọn trong danh_mục dịch_vụ trên máy thu ; có giá_trị bằng ' 0 ' nếu dịch_vụ không được hiển_thị và lựa_chọn trong danh_mục dịch_vụ trên máy thu ;
+
+reserved : trường dự_trữ để sử_dụng trong tương_lai , gồm 5 bit được đặt bằng 1 ;
+
+logical _ channel _ number : trường 10 bit biểu_thị mức_độ ưu_tiên khi sắp_xếp thứ_tự dịch_vụ .
+
+Lcn sẽ được đánh_số từ 1 đến 999 . Trong đó , các kênh được đánh_số từ 1 đến 799 bởi nhà cung_cấp dịch_vụ ; kênh Lcn dự_phòng được đánh_số từ 800 đến 999 .
+
+Yêu_cầu thiết_bị thu phải có khả_năng đánh_số thứ_tự kênh , sắp_xếp , dò kênh trong các trường_hợp : các kênh có đủ thông_tin về Lcn , một_số kênh không mang thông_tin về Lcn , 2 kênh trùng số kênh Lcn .
+
+2 . 3 . Yêu_cầu giao_diện
+
+2 . 3 . 1 . Cổng kết_nối đầu_vào Rf
+
+Thiết_bị thu phải có cổng kết_nối đầu_vào Rf theo tiêu_chuẩn Iec 61169 - 2 kiểu giắc cái , trở_kháng 75 ohm .
+
+2 . 3 . 2 . Hd_mi
+
+Stb hỗ_trợ Hd_tv phải có giao_diện đầu_ra HD Ml để xuất tín_hiệu video và audio .
+
+2 . 3 . 3 . Đầu_ra video tổng_hợp
+
+Stb phải có đầu_ra video nén tương_thích với yêu_cầu đối_với giao_diện Pal trong chuẩn Iec 48b - 316 ( rca pho no ) .
+
+2 . 3 . 4 . Giao_diện âm_thanh Rca
+
+Stb phải có đầu_ra âm_thanh tương_tự Rca , kiểu giắc cái theo chuẩn Iec 60603 - 14 .
+
+2 . 3 . 5 . Giao_diện hỗ_trợ truy_nhập có điều_kiện
+
+Trường_hợp nếu có giao_diện hỗ_trợ truy_nhập có điều_kiện , thiết_bị thu phải có ít_nhất một giao_diện Cl tuân_thủ_tiêu_chuẩn Etsi En 50221 hoặc giao_diện Cl Plus phiên_bản 1 . 3 .
+
+2 . 4 . Yêu_cầu kĩ_thuật
+
+2 . 4 . 1 . Tần_số và băng_thông kênh
+
+Thiết_bị thu phải có khả_năng thu được tất_cả các kênh cấp cho truyền_hình số mặt_đất ( dt ) nằm trong quy_hoạch tần_số Vhf / uhf của Việt_nam như trong Bảng 1 .
+
+Bảng 1 - Bảng_phân kênh tần_số băng tần Vhf / uhf của Việt_nam
+
+Thiết_bị thu phải có khả_năng dò kênh trong dải_tần_số từ [ - 50 kHz ; 50 kHz ] so với tần_số trung_tâm của tín_hiệu Dvb - t2 .
+
+2 . 4 . 2 . Băng_thông tín_hiệu
+
+Thiết_bị thu đối_với Dvb - t2 phải hỗ_trợ cả các chế_độ băng_thông sóng mang tiêu_chuẩn và chế_độ băng_thông sóng mang mở_rộng . Thiết_bị thu đối_với Dvb - t2 phải bám theo sự thay_đổi tham_số mạng từ chế_độ băng_thông sóng mang tiêu_chuẩn đến chế_độ băng_thông sóng mang mở_rộng một_cách tự_động , không cần bất_cứ tác_động nào của người dùng .
+
+2 . 4 . 3 . Các chế_độ Rf
+
+Thiết_bị thu phải có khả_năng thu tín_hiệu Dvb - t2 với các tham_số là một tổ_hợp cho phép bất_kì của bộ tham_số trong Bảng 2 .
+
+Bảng 2 - Các chế_độ Rf của Dvb - t2 được hỗ_trợ
+
+2 . 4 . 4 . Hỗ_trợ Multi_plp
+
+Thiết_bị thu phải có khả_năng thu tín_hiệu đầu vào Chế_độ B sử_dụng Multiple_plp và không sử_dụng Common_plp .
+
+2 . 4 . 5 . Hỗ_trợ Multi_plp và Common_plp
+
+Thiết_bị thu phải có khả_năng thu tín_hiệu đầu vào Chế_độ B sử_dụng Multiple_plp và Common_plp .
+
+2 . 4 . 6 . Hỗ_trợ Normal_mode
+
+Thiết_bị thu phải hỗ_trợ Normal_mode .
+
+2 . 4 . 7 . Khả_năng thích_ứng khi thay_đổi các tham_số điều_chế
+
+Thiết_bị thu phải có khả_năng tự_động thích_ứng với thay_đổi của tham_số điều_chế của dữ_liệu P1 , dữ_liệu L1 trước và sau báo_hiệu . Thời_gian để luồng tín_hiệu truyền_tải đầu_ra đạt trạng_thái không bị lỗi không lớn hơn 5 s kể từ thời_điểm có sự thay_đổi trong tham_số của dữ_liệu P1 và / hoặc dữ_liệu L1 trước báo_hiệu . Thời_gian để luồng tín_hiệu truyền_tải đầu_ra đạt trạng_thái không bị lỗi không lớn hơn 2 s kể từ thời_điểm có sự thay_đổi trong tham_số của dữ_liệu L1 sau báo_hiệu .
+
+2 . 4 . 8 . Yêu_cầu C / n đối_với kênh Gauss
+
+C / n tối_thiểu để thiết_bị thu đáp_ứng Qef không lớn hơn giá_trị tương_ứng xác_định bằng biểu_thức ( Eq . 1 ) .
+
+2 . 4 . 9 . Yêu_cầu C / n đối_với kênh vọng 0 dB
+
+C / n tối_thiểu để thiết_bị thu đáp_ứng Qef khi có nhiễu từ kênh vọng 0 dB không được lớn hơn giá_trị tương_ứng xác_định bằng biểu_thức ( Eq . 1 ) .
+
+2 . 4 . 10 . Mức tín_hiệu tối_thiểu đầu_vào thiết_bị thu trên kênh Gauss
+
+Thiết_bị thu phải có khả_năng thu và giải_mã đáp_ứng yêu_cầu Qef đối_với tín_hiệu đầu_vào có mức không nhỏ hơn mức xác_định bằng biểu_thức ( Eq . 2 ) ( với băng_thông tín_hiệu thường ) và ( Eq . 3 ) ( với băng_thông tín_hiệu mở_rộng ) trên toàn_bộ dải_tần_số hoạt_động .
+
+2 . 4 . 11 . Mức tín_hiệu tối_thiểu đầu_vào thiết_bị thu trên kênh vọng 0 dB
+
+Thiết_bị thu phải có khả_năng thu và giải_mã đáp_ứng yêu_cầu Qef đối_với tín_hiệu đầu_vào có mức không nhỏ hơn mức xác_định bằng biểu_thức ( Eq . 2 ) ( với băng_thông tín_hiệu thường ) và ( Eq . 3 ) ( với băng_thông tín_hiệu mở_rộng ) trên toàn_bộ dải_tần_số hoạt_động .
+
+2 . 4 . 12 . Hệ_số tạp_âm ( nf ) trên kênh Gauss
+
+Thiết_bị thu phải có hệ_số tạp_âm ( nf ) không lớn hơn giá_trị trong Bảng A . 7 .
+
+2 . 4 . 13 . Mức tín_hiệu đầu_vào tối_đa
+
+Thiết_bị thu phải có khả_năng thu đáp_ứng Qef khi tín_hiệu đầu_vào Dvb - t2 lên đến - 25 dBm .
+
+2 . 4 . 14 . Khả_năng chống nhiễu đối_với các tín_hiệu tương_tự trong các kênh khác
+
+Thiết_bị thu phải có khả_năng thu đáp_ứng Qef khi có sóng mang Vsb / pal lân_cận với công_suất cao hơn tối_đa 33 dB hoặc khi có tín_hiệu tương_tự trên các kênh khác ngoài kênh lân_cận với công_suất cao hơn tối_đa 44 dB .
+
+Các yêu_cầu trong mục này áp_dụng khi thiết_bị thu thu tín_hiệu Dvb - t2 với chế_độ 32k , 256 Qam , R = 4 / 5 , / Tu = 1 / 8 .
+
+2 . 4 . 15 . Khả_năng chống nhiễu đối_với các tín_hiệu_số trên các kênh khác
+
+Trên các dải_tần được hỗ_trợ , thiết_bị thu phải có khả_năng thu đáp_ứng Qef khi có tín_hiệu nhiễu Dvb - t2 gây ra tỉ_số nhiễu trên tín_hiệu ( i / c ) tối_thiểu như trong Bảng 3 .
+
+Bảng 3 - I / c yêu_cầu tối_thiểu đối_với việc thu Qef với tín_hiệu Dvb - t2 nhiễu nằm trên các kênh lân_cận , kênh ảnh và các kênh khác
+
+Yêu_cầu trên áp_dụng đối_với tín_hiệu Dvb - t2 ở tất_cả các chế_độ Rf có_thể có như trong 2 . 4 . 3 .
+
+2 . 4 . 16 . Khả_năng chống nhiễu đồng kênh từ các tín_hiệu Tv tương_tự
+
+Thiết_bị thu phải có khả_năng thu đáp_ứng Qef với mức C / i tối_đa quy_định trong Bảng 4 khi tín_hiệu 8 MHz Dvb - t2 bị gây nhiễu bởi tín_hiệu Pal D / k đồng kênh bao_gồm video , âm_thanh Fm .
+
+Bảng 4 - Tín_hiệu trên nhiễu C / i để thu đáp_ứng Qef khi tín_hiệu Dvb - t2 bị nhiễu bởi sóng mang Tv tương_tự
+
+2 . 4 . 17 . Khả_năng chống nhiễu đối_với tín_hiệu Lte 700 MHz trên các kênh khác
+
+Trên các dải_tần được hỗ_trợ , thiết_bị thu phải có khả_năng thu đáp_ứng Qef khi có tín_hiệu nhiễu 4g Lte 700 MHz gây ra tỉ_số nhiễu trên tín_hiệu ( i / c ) tối_thiểu như trong Bảng 5 trong khi duy_trì thu Qef .
+
+Công_suất tín_hiệu nhiễu Lte , cả Bs và Ue thay_đổi theo tải lưu_lượng và loại lưu_lượng . Công_suất của tín_hiệu Lte được định_nghĩa_là công_suất trong phần hoạt_động của tín_hiệu Lte thay_đổi theo thời_gian , được gọi là mức công_suất được cấp phép ( i ) .
+
+Các giá_trị I / c phải đáp_ứng cho tín_hiệu Lte với tải lưu_lượng từ 0 % đến 100 % ( bs ) và cho tải lưu_lượng từ tốc_độ bit thấp đến tốc_độ bit cao ( ue ) . Tải lưu_lượng thấp có_thể là yêu_cầu khắt_khe nhất . Yêu_cầu I / c tối_thiểu phải được đáp_ứng để gây nhiễu mức tín_hiệu mức công_suất được cấp phép trong khoảng - 25 dBm trong trường_hợp tín_hiệu Ue và - 15 dBm trong trường_hợp tín_hiệu Bs được xác_định là công_suất được cấp phép của tín_hiệu nhiễu , ở đầu_vào của máy thu .
+
+Các yêu_cầu của mục này áp_dụng với các chế_độ { 32ke , 256 Qam R , Pp4 , R = 2 / 3 , Tu = 1/16, 8 MHz } và { 32ke , 256 Qam R , Pp4 , R = 3 / 5 , / Tu = 19/256, 8 MHz } .
+
+Bảng 5 - Bảng I / c yêu_cầu tối_thiểu đối_với việc thu Qef với tín_hiệu Lte 700 MHz nhiễu trên kênh lân_cận và kênh khác . Giá_trị I / c được định_nghĩa cho tín_hiệu Lte có băng_thông là 9 , 015 Mhz trên hệ_thống Lte 10 MHz
+
+2 . 4 . 18 . Yêu_cầu C / ( n + i ) khi có nhiễu trong khoảng bảo_vệ trong mạng Sfn
+
+Đối_với các chế_độ Dvb - t2 như trong Bảng 2 , khi có nhiễu vọng với độ trễ nằm trong khoảng từ 1 , 95 s đến 0 , 95 lần độ dài khoảng bảo_vệ ( Guard_interval - Gi ) , thiết_bị thu phải có khả_năng thu đáp_ứng yêu_cầu Qef với mức C / n tối_thiểu không lớn hơn mức quy_định đối_với profile 2 xác_định bằng biểu_thức ( Eq . 1 ) .
+
+Với cường_độ vọng xác_định , khi độ trễ của nhiễu vọng thay_đổi trong khoảng từ 1 , 95 s đến 0 , 95 lần độ dài khoảng bảo_vệ ( Guard_interval - Gi ) , giá_trị C / n tối_thiểu để thiết_bị thu đáp_ứng Qef chỉ được thay_đổi không vượt quá 1 dB so với giá_trị median .
+
+2 . 4 . 19 . Yêu_cầu C / ( n + i ) khi có nhiều ngoài khoảng bảo_vệ trong mạng Sfn
+
+Khi có tín_hiệu vọng ngoài khoảng bảo_vệ Gi và có các mức suy hao so với tín_hiệu Dvb - t2 quy_định trong Bảng 6 , thiết_bị thu phải có khả_năng thu tín_hiệu Dvb - t2 8 MHz đáp_ứng Qef .
+
+Bảng 6 - Tín_hiệu vọng ngoài khoảng bảo_vệ của tín_hiệu Dvb - t2 8 MHz
+
+2 . 4 . 20 . Bộ giải ghép Mpeg
+
+2 . 4 . 20 . 1 . Tốc_độ luồng dữ_liệu tối_đa
+
+Bộ giải ghép Mpeg của thiết_bị thu phải đáp_ứng yêu_cầu lớp truyền_tải Mpeg - 2 quy_định tại Iso / iec 13818 - 1 , phù_hợp với chuẩn Etsi Ts 101 154 và phải có khả_năng giải_mã dữ_liệu chuẩn Iso / iec 13818 - 1 với tốc_độ dữ_liệu 50 , 34 Mbit / s đối_với Dvb - t2 .
+
+2 . 4 . 20 . 2 . Hỗ_trợ tốc_độ bit thay_đổi ( ghép kênh thống_kê )
+
+Bộ giải ghép Mpeg của thiết_bị thu phải hỗ_trợ tốc_độ bit thay_đổi trong dòng truyền_tải tốc_độ bit không đổi .
+
+2 . 4 . 21 . Bộ giải_mã video
+
+2 . 4 . 21 . 1 . Đồng_bộ video - audio
+
+Thiết_bị thu phải đảm_bảo giải_mã được tín_hiệu Dvb - t2 sao cho audio không được đi trước 20 ms và không đi sau 20 ms so với video .
+
+2 . 4 . 21 . 2 . Giải_mã video Mpeg - tốc_độ bit tối_thiểu
+
+Thiết_bị thu phải có khả_năng giải_mã tín_hiệu video có độ phân_giải 720x576 pixel và tốc_độ bit 600 kbps .
+
+2 . 4 . 21 . 3 . Giải_mã Mpeg - 2 Sd
+
+a ) Yêu_cầu chung
+
+- Thiết_bị thu phải có khả_năng giải_mã tín_hiệu video 25 Hz_mpeg - 2 Sdtv_mpeg - 2 Main Profile at Main Lever theo chuẩn Iso / iec 13818 - 2 và phù_hợp với yêu_cầu trong Etsi Ts 101 154 ;
+
+- Thiết_bị thu phải có khả_năng giải_mã video có độ phân_giải 720x576 , 544x576 , 480x576 và 352x576 ;
+
+b ) Khuôn_dạng hình_ảnh
+
+Thiết_bị thu phải có khả_năng giải_mã tín_hiệu video 25 Hz_mpeg - 2 Sdtv có tỉ_lệ khuôn_dạng 4 : 3 và 16 : 9 ;
+
+Thiết_bị thu phải hỗ_trợ người dùng lựa_chọn chế_độ chuyển_đổi khuôn_dạng hiển_thị trên màn_hình_như sau :
+
+- Hiển_thị đầy_đủ khuôn_hình tín_hiệu video 16 : 9 trên màn_hình 4 : 3 ở chế_độ letterbox ( hiển_thị co hẹp độ cao , giữ nguyên độ rộng màn_hình ) ;
+
+- Hiển_thị nguyên_dạng chiều cao và khuôn_hình tín_hiệu video 16 : 9 trên màn_hình 4 : 3 ( cắt bớt phần chiều rộng của hình_ảnh ) ;
+
+- Hiển_thị đầy_đủ khuôn_hình tín_hiệu video 4 : 3 trên màn_hình 16 : 9 ở chế_độ pilarbox ( hiển_thị co hẹp độ rộng , giữ nguyên độ cao màn_hình ) .
+
+2 . 4 . 21 . 4 . Giải_mã Mpeg 4 Sd
+
+a ) Yêu_cầu chung
+
+Thiết_bị thu phải có khả_năng giải_mã tín_hiệu video 25 Hz_mpeg - 4 Sdtv H . 264 / avc Main Profile at Level 3 theo chuẩn Iso Iec 14496 - 10 và phù_hợp với yêu_cầu trong Etsi Ts 101 154 ( điều 5 . 5 và 5 . 6 , quy_định đối_với Sdtv 25 Hz ) ;
+
+Thiết_bị thu phải có khả_năng giải_mã video có độ phân_giải 720x576 , 544x576 , 480x576 và 352x576 ;
+
+b ) Khuôn_dạng hình_ảnh
+
+Thiết_bị thu phải có khả_năng giải_mã tín_hiệu video 25 Hz_mpeg - 4 Sdtv H . 264 / avc Main Profile at Level 3 có tỉ_lệ khuôn_dạng 4 : 3 và 16 : 9
+
+Thiết_bị thu phải hỗ_trợ người dùng lựa_chọn chế_độ chuyển_đổi khuôn_dạng hiển_thị trên màn_hình_như sau :
+
+- Hiển_thị đầy_đủ khuôn_hình tín_hiệu video 16 : 9 trên màn_hình 4 : 3 ở chế_độ letterbox ( hiển_thị co hẹp độ cao , giữ nguyên độ rộng màn_hình ) ;
+
+- Hiển_thị nguyên_dạng chiều cao và khuôn_hình tín_hiệu video 16 : 9 trên màn_hình 4 : 3 ( cắt bớt phần chiều rộng của hình_ảnh ) ;
+
+- Hiển_thị đầy_đủ khuôn_hình tín_hiệu video 4 : 3 trên màn_hình 16 : 9 ở chế_độ pilarbox ( hiển_thị co hẹp độ rộng , giữ nguyên độ cao màn_hình ) .
+
+2 . 4 . 21 . 5 . Giải_mã Mpeg - 4 Hd
+
+Thiết_bị thu phải có khả_năng giải_mã tín_hiệu H . 264 / avc High Profile at Level 4 theo chuẩn Iso / iec 14496 - 10 và phù_hợp với yêu_cầu trong tiêu_chuẩn Etsi Ts 101 154 ( điều 5 . 7 - H . 264 / avc Hd_tv ) .
+
+Thiết_bị thu phải hỗ_trợ độ phân_giải 1920x1080i và 1280x720p .
+
+2 . 4 . 21 . 6 . Chuyển_đổi tín_hiệu Hd sang đầu_ra Sd
+
+Stb hỗ_trợ Hd_tv phải có khả_năng chuyển_đổi để xuất tín_hiệu Hd thu được thành tín_hiệu Sd có độ phân_giải 720x576 qua giao_diện ngoài ( YPbPr hoặc giao_diện khác ) . Tín_hiệu Sd được chuyển_đổi phải có khả_năng hiển_thị dạng letterbox 16 : 9 ( hiển_thị co hẹp độ cao , giữ nguyên độ rộng màn_hình ) trên màn_hình 4 : 3 .
+
+2 . 4 . 22 . Bộ giải_mã audio
+
+2 . 4 . 22 . 1 . Giải_mã Mpeg - 1 Layer_ii
+
+Thiết_bị thu phải có bộ giải_mã âm_thanh stereo có khả_năng đáp_ứng các yêu_cầu tối_thiểu về giải_mã dựa trên chuẩn Mpeg 1 Layer_ii ( Musicaim " , tiêu_chuẩn Iso / iec 11172 - 3 ) và tuân_thủ hướng_dẫn triển_khai Dvb sử_dụng trong hệ_thống Mpeg - 2 , hình_ảnh và âm_thanh trong các ứng_dụng quảng_bá vệ_tinh , cáp và mặt_đất theo tiêu_chuẩn Etsi Ts 101 154 .
+
+2 . 4 . 22 . 2 . Giải_mã Mpeg - 4 He - ac
+
+Thiết_bị thu phải có bộ giải_mã He - ac đáp_ứng các yêu_cầu sau :
+
+- Có khả_năng giải_mã He - ac Level 2 ( mono , stereo ) ở tần_số lấy mẫu 48 kHz tuân theo chuẩn Etsi Ts 101 154 , Phụ_lục H .
+
+- Có khả_năng giải_mã He - ac Level 4 ( đa kênh , lên tới 5 . 1 ) ở tần_số lấy mẫu 48 kHz tuân theo chuẩn Etsi Ts 101 154 , Phụ_lục H .
+
+2 . 4 . 22 . 3 . Hỗ_trợ He - ac trên giao_diện đầu_ra Hd_mi
+
+Nếu có cổng Hd mi , thiết_bị thu phải có khả_năng cung_cấp các định_dạng âm_thanh sau qua cổng Hd mi :
+
+- Âm_thanh He - ac nguyên gốc :
+
+- Pcm stereo từ luồng bit âm_thanh được giải_mã hoặc downmix ;
+
+- Pcm đa kênh từ luồng bit âm_thanh được giải_mã .
+
+2 . 4 . 22 . 4 . Hỗ_trợ He - ac trên giao_diện đầu_ra audio tương_tự
+
+Nếu có cổng audio tương_tự ( rca ) , thiết_bị thu phải có khả_năng giải_mã và downmix âm_thanh được mã_hoá He - ac để đưa ra cổng audio tương_tự ( rca ) .
+
+3 . Phương_pháp_đo
+
+3 . 1 . Yêu_cầu tính_năng
+
+3 . 1 . 1 . Hiển_thị Chỉ_thị chất_lượng tín_hiệu và Chỉ_thị cường_độ tín_hiệu
+
+3 . 1 . 1 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts B
+
+3 . 1 . 1 . 2 . Thủ_tục đo
+
+1 . Chuẩn_bị môi_trường đo và thiết_lập cấu_hình thiết_bị đo .
+
+2 . Thiết_lập thông_số_đo kiểm Fft Size : 32k Ext , Guard Interval : 1/128, Pilot pattern . Pp7 .
+
+3 . Cấu_hình để mức tín_hiệu đầu_vào máy thu là - 50 dBm .
+
+4 . Đặt bộ Up Converter về kênh 35 ( tần_số 586 MHz ) .
+
+5 . Phát luồng truyền_tải .
+
+6 . Thực_hiện dò kênh .
+
+7 Sau khi dò sẽ được 1 kênh .
+
+8 . Kiểm_tra trên thiết_bị thu có hiển_thị về cường_độ tín_hiệu ( Signal_strength ) và chất_lượng tín_hiệu ( Signal_quality ) .
+
+9 . Thay_đổi mức tín_hiệu trong khoảng từ - 60 dBm đến - 99 dBm . Quan_sát mức cường_độ tín_hiệu và chất_lượng tín_hiệu .
+
+3 . 1 . 1 . 3 . Đánh_giá kết_quả đo
+
+Kết_quả đo được đánh_giá là phù_hợp khi thoả_mãn đồng_thời các điều_kiện :
+
+1 . Thiết_bị thu hiển_thị thông_tin về cường_độ tín_hiệu và chất_lượng tín_hiệu .
+
+2 . Mức cường_độ tín_hiệu và chất_lượng tín_hiệu thay_đổi tương_ứng theo mức tín_hiệu đầu_vào thực_tế .
+
+3 . 1 . 2 . Thông_tin dịch_vụ
+
+3 . 1 . 2 . 1 . Xử_lí các bảng báo_hiệu Psi / si
+
+3 . 1 . 2 . 1 . 1 . Cấu_hình đo_kiểm
+
+Ts được sử_dụng : Ts H , Ts I
+
+3 . 1 . 2 . 1 . 2 . Thủ_tục đo
+
+1 . Chuẩn_bị môi_trường đo và thiết_lập cấu_hình thiết_bị đo .
+
+2 . Thiết_lập thông_số_đo kiểm Fft Size : 32k Ext , Guard Interval : 1/128, Pilot pattern : Pp7
+
+3 . Thiết_lập mức tín_hiệu đầu_vào máy thu là - 60 dBm .
+
+4 . Đặt bộ Up Converter về kênh 35 ( tần_số 586 MHz ) .
+
+5 . Phát luồng truyền_tải để kiểm_tra .
+
+6 . Thực_hiện dò kênh .
+
+7 . Kiểm_tra kết_quả sau khi dò kênh .
+
+8 . Thực_hiện đối_với các luồng truyền_tải còn lại .
+
+3 . 1 . 2 . 1 . 3 . Đánh_giá kết_quả đo
+
+Kết_quả đo được đánh_giá là phù_hợp khi thoả_mãn đồng_thời các yêu_cầu của 2 . 2 . 2 . 1 .
+
+3 . 1 . 2 . 2 . Đồng_hồ thời_gian thực
+
+3 . 1 . 2 . 2 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts B
+
+3 . 1 . 2 . 2 . 2 . Thủ_tục đo
+
+Các bước thực_hiện :
+
+1 . Chuẩn_bị môi_trường đo và thiết_lập cấu_hình thiết_bị đo .
+
+2 . Thiết_lập thông_số_đo kiểm Fft Size : 32k Ext , Guard Interval : 1/128, Pilot pattern : Pp7 .
+
+3 . Thiết_lập mức tín_hiệu đầu_vào thiết_bị thu là - 60 dBm .
+
+4 . Đặt bộ Up Converter về kênh 35 ( tần_số 586 MHz ) .
+
+5 . Xác_định thời_gian và ngày được hiển_thị bên trong giao_diện người sử_dụng .
+
+6 . Bật chế_độ thông_tin của Tdt được hiển_thị trong luồng truyền_tải .
+
+7 . Phát luồng truyền_tải .
+
+8 . Thực_hiện dò kênh .
+
+9 . Kiểm_tra thông_tin về thời_gian được hiển_thị trên các kênh .
+
+10 . Bật chế_độ thông_tin của Tdt không được hiển_thị trong luồng truyền_tải .
+
+11 . Phát luồng truyền_tải .
+
+12 . Thực_hiện dò kênh .
+
+13 . Kiểm_tra thông_tin về thời_gian được hiển_thị trên các kênh .
+
+3 . 1 . 2 . 2 . 3 . Đánh_giá kết_quả đo
+
+Kết_quả đo được đánh_giá là phù_hợp khi thoả_mãn đồng_thời các điều_kiện :
+
+1 . Đối_với chế_độ thông_tin của Tdt được hiển_thị trong luồng truyền_tải : Thiết_bị thu hiển_thị thời_gian là thời_gian thực_tế .
+
+2 . Đối_với chế_độ thông_tin của Tdt không được hiển_thị trong luồng truyền_tải : Thiết_bị thu hiển_thị thời_gian của luồng truyền_tải .
+
+3 . 1 . 2 . 3 . Các tính_năng của Epg cho bảng Eit thực và các bảng Eit khác
+
+3 . 1 . 2 . 3 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts I
+
+3 . 1 . 2 . 3 . 2 . Thủ_tục đo
+
+Các bước thực_hiện :
+
+1 . Chuẩn_bị môi_trường đo và thiết_lập cấu_hình thiết_bị đo .
+
+2 . Thiết_lập thông_số_đo kiểm Fft Size : 32k Ext , Guard Interval : 1/128, Pilot pattern : Pp7 .
+
+3 . Thiết_lập mức tín_hiệu đầu_vào thiết_bị thu là - 60 dBm .
+
+4 . Đặt bộ Up Converter về kênh 35 ( tần_số 586 MHz ) .
+
+5 . Thiết_lập thông_số_đo kiểm .
+
+6 . Bật chế_độ thông_tin của Tdt không được hiển_thị trong luồng truyền_tải .
+
+7 . Phát luồng truyền_tải .
+
+8 . Thực_hiện dò kênh .
+
+9 . Kiểm_tra thông_tin chương_trình .
+
+3 . 1 . 2 . 3 . 3 . Đánh_giá kết_quả đo
+
+Kết_quả đo được đánh_giá là phù_hợp khi thoả_mãn đồng_thời các điều_kiện :
+
+1 . Thiết_bị thu thu được đúng số kênh , đúng tên kênh .
+
+2 . Với mỗi kênh , thiết_bị thu hiển_thị được thông_tin về chương_trình hiện_tại , chương_trình kế_tiếp và bảng thông_tin chương_trình cho 7 ngày tiếp_theo . Thông_tin về chương_trình bao_gồm tên chương_trình , thời_gian bắt_đầu và thời_gian kết_thúc chương_trình , bản tin ngắn ( nếu có ) .
+
+3 . 1 . 3 . Bộ quản_lí chương_trình
+
+3 . 1 . 3 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts I
+
+3 . 1 . 3 . 2 . Thủ_tục đo
+
+Các bước thực_hiện :
+
+1 . Chuẩn_bị môi_trường đo và thiết_lập cấu_hình thiết_bị đo .
+
+2 . Thiết_lập thông_số_đo kiểm Fft Size : 32k Ext , Guard Interval : 1/128, Pilot pattern : Pp7 .
+
+3 . Thiết_lập mức tín_hiệu đầu_vào thiết_bị thu là - 60 dBm .
+
+4 . Đặt bộ Up Converter về kênh 35 ( tần_số 586 MHz ) .
+
+5 . Phát luồng truyền_tải .
+
+6 . Thực_hiện dò kênh .
+
+7 . Kiểm_tra chức_năng quản_lí sự_kiện Epg .
+
+8 . Kiểm_tra thông_tin kênh chương_trình .
+
+3 . 1 . 3 . 3 . Đánh_giá kết_quả đo
+
+Kết_quả đo được đánh_giá là phù_hợp khi thoả_mãn đồng_thời các điều_kiện :
+
+1 . Thiết_bị thu và hiển_thị được kênh trong bảng danh_sách kênh , thực_hiện được chức_năng quản_lí danh_sách kênh như dò kênh , xoá kênh , di_chuyển kênh .
+
+2 . Thiết_bị thu hiển_thị được thời_gian hiện_tại , thời_gian bắt_đầu / kết_thúc chương_trình , thứ_tự kênh , tên sự_kiện / tên chương_trình , các bản tin ngắn ( nếu có ) .
+
+3 . Thiết_bị thu hiển_thị được thông_tin về sự_kiện Epg trong các kênh thu được . Sự_kiện phải hiển_thị được bằng ngôn_ngữ tiếng Anh và tiếng Việt . Kí_tự tiếng Việt_tuân theo bảng mã Utf - 8 trong Tcvn 5712 : 1999 .
+
+3 . 1 . 4 . Phụ_đề
+
+3 . 1 . 4 . 1 . Cấu_hình đo
+
+3 . 1 . 4 . 2 . Thủ_tục đo
+
+1 . Chuẩn_bị môi_trường đo và cài_đặt máy đo .
+
+2 . Thiết_lập thông_số_đo kiểm Fft Size : 32k Ext , Guard Interval : 1/128, Pilot pattern : Pp7 .
+
+3 . Cấu_hình để mức tín_hiệu đầu_vào máy thu là - 50 dBm .
+
+4 . Đặt bộ Up Converter về kênh 35 ( tần_số 586 MHz ) .
+
+5 . Phát luồng truyền_tải .
+
+6 . Thực_hiện dò kênh .
+
+7 . Lựa_chọn kênh âm_thanh ngôn_ngữ tiếng Việt , chuyển cài_đặt tuỳ_chọn ngôn_ngữ phụ_đề là tiếng Việt . Kiểm_tra tên kênh âm_thanh và khả_năng hiển_thị phụ_đề tiếng Việt .
+
+8 . Chuyển cài_đặt tuỳ_chọn ngôn_ngữ phụ_đề sang chế_độ chế_độ tự_động nhận phụ_đề . Kiểm_tra tên kênh âm_thanh và khả_năng hiển_thị phụ_đề tiếng Việt .
+
+9 . Lựa_chọn kênh âm_thanh ngôn_ngữ tiếng Anh , chuyển cài_đặt tuỳ_chọn ngôn_ngữ phụ_đề là tiếng Anh . Kiểm_tra tên kênh âm_thanh và khả_năng hiển_thị phụ_đề tiếng Anh .
+
+10 . Chuyển cài_đặt tuỳ_chọn ngôn_ngữ phụ_đề sang chế_độ chế_độ tự_động nhận phụ_đề . Kiểm_tra tên kênh âm_thanh và khả_năng hiển_thị phụ_đề tiếng Anh .
+
+11 . Lựa_chọn kênh âm_thanh ngôn_ngữ gốc , chuyển cài_đặt tuỳ_chọn ngôn_ngữ sang chế_độ ngôn_ngữ phụ_đề ưu_tiên 1 là tiếng Anh , ưu_tiên 2 là tiếng Việt ( hoặc ngược_lại ) . Kiểm_tra tên kênh âm_thanh và khả_năng hiển_thị phụ_đề .
+
+12 . Tắt cài_đặt tuỳ_chọn ngôn_ngữ ưu_tiên . Kiểm_tra tên kênh âm_thanh và khả_năng hiển_thị phụ_đề theo ngôn_ngữ gốc .
+
+3 . 1 . 4 . 3 . Đánh_giá kết_quả đo
+
+Kết_quả đo được đánh_giá là phù_hợp khi thoả_mãn đồng_thời các điều_kiện :
+
+1 . Thiết_bị thu thu được 1 kênh chương_trình , bao_gồm có kênh âm_thanh ngôn_ngữ tiếng Anh , tiếng Việt và kênh âm_thanh ngôn_ngữ gốc .
+
+2 . Kết_quả bước 7 : Đúng tên kênh , phụ_đề hiển_thị đúng theo ngôn_ngữ tiếng Việt .
+
+3 . Kết_quả bước 8 : Đúng tên kênh , phụ_đề hiển_thị_đúng ngôn_ngữ tiếng Việt .
+
+4 . Kết_quả bước 9 : Đúng tên kênh , phụ_đề hiển_thị_đúng ngôn_ngữ tiếng Anh .
+
+5 . Kết_quả bước 10 : Đúng tên kênh , phụ_đề hiển_thị_đúng ngôn_ngữ tiếng Anh .
+
+6 . Kết_quả bước 11 : Đúng tên kênh , phụ_đề hiển_thị theo ngôn_ngữ ưu_tiên .
+
+7 . Kết_quả bước 12 : Đúng tên kênh , phụ_đề hiển_thị theo ngôn_ngữ thứ nhất có sẵn trong danh_sách .
+
+3 . 1 . 5 . Đánh_số kênh logic
+
+3 . 1 . 5 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts Q
+
+3 . 1 . 5 . 2 . Thủ_tục đo
+
+1 . Chuẩn_bị môi_trường đo và cái đặt máy đo .
+
+2 . Thiết_lập thông_số_đo kiểm Fft Size : 32k Ext , Guard Interval : 1/128, Pilot pattern : Pp7 .
+
+3 . Cấu_hình để mức tín_hiệu đầu_vào máy thu là - 50 dBm .
+
+4 . Đặt bộ Up Converter về kênh 35 ( tần_số 586 MHz ) .
+
+5 . Phát luồng truyền_tải .
+
+6 . Thực_hiện dò kênh .
+
+7 . Kiểm_tra nội_dung đánh_số , sắp_xếp , tìm_kiếm kênh được cập_nhật trong bảng danh_sách kênh .
+
+3 . 1 . 5 . 3 . Đánh_giá kết_quả đo :
+
+Kết_quả đo được đánh_giá là phù_hợp khi thoả_mãn đồng_thời các điều_kiện :
+
+1 . Đối_với kênh đầy_đủ thông_tin về Lcn : Thiết_bị đánh_số , sắp_xếp kênh đúng thứ_tự kênh trong bảng danh_sách kênh .
+
+2 . Trường_hợp có một_số kênh không mang thông_tin về Lcn : Kênh không mang thông_tin về Lcn sẽ được chuyển về nằm trong dải_kênh dự_phòng từ 800 đến 999 , các kênh còn lại vẫn giữ nguyên số thứ_tự kênh trong bảng danh_sách kênh .
+
+3 . Trường_hợp có 2 kênh trùng số kênh Lcn : 1 kênh chuyển về nằm trong dải_kênh dự_phòng từ 800 đến 999 , kênh còn lại vẫn giữ nguyên số thứ_tự kênh trong bảng danh_sách kênh .
+
+3 . 2 . Yêu_cầu kĩ_thuật
+
+3 . 2 . 1 . Tần_số
+
+3 . 2 . 1 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts P .
+
+3 . 2 . 1 . 2 . Thủ_tục đo
+
+1 . Thiết_lập các thiết_bị đo .
+
+2 . Sử_dụng chế_độ Dvb - t2 tương_ứng với : 32k mở_rộng , 256 Qam xoay , Gi 1/16, Pp4 , R2 / 3 , Tr - papr .
+
+3 . Sử_dụng mức đầu_vào là - 50 dBm .
+
+4 . Bắt_đầu với tần_số 178 MHz ( Kênh 6 ) .
+
+5 . Sử_dụng Qmp1 để đánh_giá tại tần_số trung_tâm và các tần_số với độ lệch tần - 50 kHz , 50 kHz từ tần_số trung_tâm kênh . Trước khi thay_đổi tần_số và độ lệch tần_số , cần ngắt kết_nối tín_hiệu khởi_đầu_vào thiết_bị thu .
+
+6 . Lặp_lại bài đo từ bước 4 đến 5 đối_với khoảng tần_số kênh nhỏ nhất và lớn nhất của Dt .
+
+3 . 2 . 2 . Băng_thông tín_hiệu
+
+3 . 2 . 2 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts P .
+
+3 . 2 . 2 . 2 . Thủ_tục đo
+
+1 . Thiết_lập các thiết_bị đo .
+
+2 . Dùng tần_số phát Uhf_iv / v 586 MHz và mức đầu_vào thiết_bị thu là - 50 dBm . Chọn chế_độ Dvb - t2 tương_ứng :
+
+- Chế_độ Single_plp ;
+
+- Uhf : 32k tiêu_chuẩn / mở_rộng , 256 Qam xoay , Gi1 / 16 , Pp4 , R2 / 3 , Tr - papr ; 32k , 256 Qam , 011/128, Pp7 , R5 / 6 .
+
+3 . Kết_nối thiết_bị thu và thực_hiện tìm_kiếm kênh tự_động hoặc nhân_công . Việc tìm_kiếm được thực_hiện với băng_thông tín_hiệu khởi tạo có giá_trị ngẫu_nhiên , không được xác_định trước .
+
+4 . Sử_dụng Qmp1 .
+
+3 . 2 . 3 . Các chế_độ Rf
+
+3 . 2 . 3 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts P .
+
+3 . 2 . 3 . 2 . Thủ_tục đo
+
+1 . Thiết_lập các thiết_bị đo .
+
+2 . Sử_dụng tần_số kênh 586 MHz và mức đầu_vào - 50 dBm .
+
+3 . Đo tất_cả các tổ_hợp tham_số Dvb - t2 liệt_kê trong các bảng dưới đây , sử_dụng Qmp1 .
+
+Bảng 7 - Đo các chế_độ Dvb - t2 - Các kích_cỡ Fft
+
+Bảng 8 - Đo các chế_độ Dvb - t2 - giản đồ tín_hiệu ( xoay / không xoay )
+
+Bảng 9 - Đo các chế_độ Dvb - t2 - Mẫu pilot
+
+Bảng 10 - Đo các chế_độ Dvb - t2 - Khoảng bảo_vệ
+
+Bảng 11 - Đo các chế_độ Dvb - t2 - Giảm_papr
+
+3 . 2 . 4 . Hỗ_trợ Multi_plp
+
+3 . 2 . 4 . 1 . Cấu_hình đo
+
+Bài đo sử_dụng các thiết_lập tham_số Chế_độ B ( Multiple_plp ) được định_nghĩa trong Bảng A . 4 .
+
+3 . 2 . 4 . 2 . Thủ_tục đo
+
+1 . Cấu_hình hệ_thống .
+
+2 . Thực_hiện tìm_kiếm kênh tự_động trong thiết_bị thu .
+
+3 . Kiểm_tra khả_năng giải_mã dịch_vụ trong các Ts của thiết_bị thu .
+
+3 . 2 . 5 . Hỗ_trợ Multi_plp và Common_plp
+
+3 . 2 . 5 . 1 . Cấu_hình đo
+
+Bài đo dùng các thiết_lập tham_số Chế_độ B ( Multiple_plp ) định_nghĩa trong Bảng A . 4 .
+
+Plp0 tương_ứng với Common_plp và mang thông_tin thiết_bị có khả_năng hỗ_trợ . Trong bài đo này , thông_tin được sử_dụng là Eit và bài đo được thực_hiện để xác_nhận thiết_bị thu có khả_năng giải_mã nội_dung thông_tin được sử_dụng .
+
+Plp0 mang thông_tin Psi / si , Ts1 được phát ở chế_độ Plp1 , Ts2 được phát ở chế_độ Plp2 .
+
+Thiết_bị thu cần có khả_năng giải_mã được dịch_vụ và thông_tin Eit của hai Ts được sử_dụng .
+
+3 . 2 . 5 . 2 . Thủ_tục đo
+
+1 . Cấu_hình hệ_thống .
+
+2 . Thực_hiện tìm kênh tự_động trong thiết_bị thu .
+
+3 . Kiểm_tra khả_năng giải_mã dịch_vụ trong các Ts của thiết_bị thu .
+
+3 . 2 . 6 . Hỗ_trợ Normal_mode
+
+3 . 2 . 6 . 1 . Cấu_hình đo
+
+Bài đo sử_dụng các thiết_lập tham_số Chế_độ A ( Single_plp ) định_nghĩa trong Bảng 12 .
+
+Bảng 12 - Các tham_số đối_với đầu vào Chế_độ A ( Single_plp )
+
+3 . 2 . 6 . 2 . Thủ_tục đo
+
+1 . Cấu_hình hệ_thống .
+
+2 . Thực_hiện tìm_kiếm kênh tự_động trong thiết_bị thu .
+
+3 . Kiểm_tra khả_năng giải_mã dịch_vụ trong các Ts của thiết_bị thu theo Qmp1 .
+
+3 . 2 . 7 . Khả_năng thích_ứng với sự thay_đổi trong các tham_số điều_chế
+
+3 . 2 . 7 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts P .
+
+3 . 2 . 7 . 2 . Thủ_tục đo
+
+1 . Thiết_lập các thiết_bị đo .
+
+2 . Sử_dụng kênh tần_số 586 MHz .
+
+3 . Sử_dụng chế_độ Dvb - t2 : Fft size mở_rộng 32k , 256 Qam xoay , Gi 1/16, R 2/3 và băng_thông tín_hiệu 8 MHz .
+
+4 . Thay_đổi các tham_số phát trong các trường P1 signaling theo : Fft size : 32k , 16k , 8k , 4k , 2k và 1k .
+
+5 . Thay_đổi các tham_số phát trong các trường L1 pre - signaling như sau :
+
+- Chế_độ băng_thông sóng mang mở_rộng : có / không ;
+
+- Papr : không sử_dụng , Tr ;
+
+- Khoảng bảo_vệ : G1 / 32 , G1 / 16 , G1 / 8 , G1 / 4 , G1 / 128 , G19 / 128 , G19 / 256 ;
+
+- Mẫu pilot : Pp2 , Pp4 , Pp6 , Pp7 ;
+
+- Số kí_hiệu dữ_liệu trong khung : 60 , 62 ;
+
+6 . Thay_đổi các tham_số phát trong các trường L1_post - signaling như sau :
+
+- Tỷ_lệ mã : R 3/5, R 2/3, R 3/4;
+
+- Điều_chế : 256 Qam ;
+
+7 . Kiểm_tra khả_năng thích_ứng với các thiết_lập tham_số mới trong khoảng thời_gian quy_định của thiết_bị thu .
+
+3 . 2 . 8 . Yêu_cầu C / n đối_với kênh Gauss
+
+3 . 2 . 8 . 1 . Cấu_hình đo
+
+Sử_dụng Chế_độ A ( Single_plp ) và thiết_lập tham_số với yêu_cầu sau :
+
+3 . 2 . 8 . 2 . Thủ_tục đo
+
+1 . Thiết_lập các thiết_bị đo .
+
+2 . Dùng chế_độ Dvb - t2 theo : 32k mở_rộng , 256 Qam xoay , R2 / 3 , Gi1 / 128 .
+
+3 . Đặt Up Converter về kênh 21 ( tần_số 474 MHz ) .
+
+4 . Đo mức đầu_vào đưa đến bộ suy hao .
+
+5 . Xác_định sự suy_giảm của suy hao và các dây_cáp .
+
+6 . Cấu_hình để mức tín_hiệu đầu_vào thiết_bị thu bằng - 50 dBm .
+
+7 . Sử_dụng giá_trị C / n đối_với chế_độ Dvb - t2 xác_định bằng biểu_thức ( Eq . 1 ) .
+
+8 . Thực_hiện tìm_kiếm kênh .
+
+9 . Tăng C / n từ giá_trị thấp lên giá_trị cao cho đến khi hoàn_thành Qmp2 .
+
+10 . Điền giá_trị dB đo được vào báo_cáo đo .
+
+11 . Lặp_lại bài đo đối_với các tần_số , các băng_thông tín_hiệu và các chế_độ Dvb - t2 còn lại ở báo_cáo đo .
+
+Bảng 13 - Các tần_số và các băng_thông tín_hiệu Dvb - t2 sử_dụng để đo
+
+Chú_thích : Phần bôi_đen là các chế_độ không cần đo .
+
+3 . 2 . 9 . Yêu_cầu C / n đối_với kênh vọng 0 dB
+
+3 . 2 . 9 . 1 . Cấu_hình đo
+
+Trung_tâm kênh 0 độ phải được dùng trong bộ mô_phỏng ( tín_hiệu vọng 0 dB ) . Sử_dụng các thiết_lập tham_số Chế_độ A ( Single_plp ) định_nghĩa ở Bảng 14 .
+
+Bảng 14 - Các tham_số chế_độ Dvb - t2 dùng trong các bài đo
+
+3 . 2 . 9 . 2 . Thủ_tục đo
+
+Kiểm_tra trạng_thái đồng_bộ với Sfn .
+
+1 . Thiết_lập các thiết_bị đo .
+
+2 . Sử_dụng chế_độ Dvb - t2 theo : 32k mở_rộng , 256 Qam , Pp7 , R2 / 3 , G1 / 128 và băng_thông tín_hiệu 8 MHz .
+
+3 . Đặt Up Converter tới tần_số 586 MHz ( k35 ) .
+
+4 . Đặt bộ mô_phỏng fading về tín_hiệu vọng 0 dB . ( đường truyền thứ hai : trễ 1 , 95 s , sai pha bằng 0 tại trung_tâm kênh và suy_giảm 0 dB )
+
+5 . Đo mức đầu_vào cấp tới bộ suy hao .
+
+6 . Xác_định sự suy_giảm của bộ suy hao và các dây_cáp .
+
+7 . Cấu_hình để mức tín_hiệu đầu_vào thiết_bị thu bằng - 50 dBm .
+
+8 . Tăng C / n từ giá_trị thấp đến giá_trị cao cho đến khi hoàn_thành Qmp2 .
+
+9 . Điền giá_trị C / n đo được vào báo_cáo đo .
+
+10 . Kiểm_tra sự tìm_kiếm kênh đã tìm được các dịch_vụ tại C / n đo được ở trên .
+
+11 . Lặp_lại bài đo đối_với các tổ_hợp chế_độ Dvb - t2 còn lại với băng_thông tín_hiệu là 8 MHz như trong báo_cáo đo .
+
+Bảng 15 - Bài đo bắt_buộc đối_với C / n quy_định cho tín_hiệu vọng 0 dB , trễ 1 , 95 s
+
+3 . 2 . 10 . Mức tín_hiệu tối_thiểu đầu_vào thiết_bị thu trên kênh Gauss
+
+3 . 2 . 10 . 1 . Cấu_hình đo
+
+Sử_dụng Chế_độ A ( Single_plp ) và các khác_biệt đối_với các thiết_lập tham_số theo định_nghĩa trong Bảng 14 .
+
+3 . 2 . 10 . 2 . Thủ_tục đo
+
+1 . Thiết_lập các thiết_bị đo .
+
+2 . Sử_dụng chế_độ Dvb - t2 theo : 32k mở_rộng , 256 Qam xoay , R2 / 3 , Gi1 / 128 .
+
+3 . Đặt bộ Up Converter tới kênh 21 .
+
+4 . Đo mức đầu_vào cấp đến bộ suy hao .
+
+5 . Xác_định sự suy_giảm của bộ suy hao và các dây_cáp .
+
+6 . Tính_toán mức tín_hiệu đầu_vào thiết_bị thu .
+
+7 . Thực_hiện tìm_kiếm kênh .
+
+8 . Tăng mức đầu_vào thiết_bị thu từ giá_trị thấp đến giá_trị cao cho đến khi hoàn_thành Qmp2 .
+
+9 . Điền giá_trị đo được vào báo_cáo đo .
+
+10 . Lặp_lại bài đo đối_với các tần_số , các băng tần tín_hiệu và các chế_độ Dvb - t2 còn lại trong báo_cáo đo .
+
+Bảng 16 - Báo_cáo đo mức đầu_vào thiết_bị thu thoả_mãn Qmp2 - Dvb - t2
+
+Chú_thích : Phần bôi_đen là các chế_độ không cần đo .
+
+3 . 2 . 11 . Mức tín_hiệu tối_thiểu đầu_vào thiết_bị thu trên kênh vọng 0 dB
+
+3 . 2 . 11 . 1 . Cấu_hình đo
+
+Sử_dụng các thiết_lập tham_số Chế_độ A ( Single_plp ) định_nghĩa ở Bảng 14 . Ts được sử_dụng : Ts P .
+
+3 . 2 . 11 . 2 . Thủ_tục đo
+
+Kiểm_tra trạng_thái đồng_bộ Sfn .
+
+1 . Thiết_lập các thiết_bị đo .
+
+2 . Sử_dụng chế_độ Dvb - t2 theo 32k mở_rộng , 256 Qam , Pp7 , R2 / 3 , Gi1 / 128 và bảng thông_tin hiệu 8 MHz .
+
+3 . Đặt bộ Up Converter tới tần_số 586 MHz ( Kênh 35 ) .
+
+4 . Đặt bộ mô_phỏng fading về tín_hiệu vọng 0 dB ( trễ 1 , 95 s , pha bằng 0 tại trung_tâm kênh và suy hao 0 dB đối_với đường truyền thứ hai ) .
+
+5 . Xác_định sự suy_giảm của bộ suy hao và các dây_cáp .
+
+6 . Đo mức đầu_vào cấp đến bộ suy hao .
+
+7 . Tính_toán mức tín_hiệu đầu_vào thiết_bị thu .
+
+8 . Tăng mức đầu_vào thiết_bị thu từ giá_trị thấp đến giá_trị cao cho đến khi hoàn_thành Qmp2 .
+
+9 . Điền giá_trị đo được vào báo_cáo đo .
+
+10 . Kiểm_tra việc tìm_kiếm kênh đã tìm được các dịch_vụ trên mức tín_hiệu đầu_vào tối_thiểu .
+
+11 . Lặp_lại bài đo đối_với phần còn lại của các chế_độ Dvb - t2 với băng_thông tín_hiệu là 8 MHz trên báo_cáo đo .
+
+Bảng 17 - Các tần_số và các bảng thông tín_hiệu cần đo
+
+Chú_thích : Phần bôi_đen là các chế_độ không cần đo .
+
+3 . 2 . 12 . Hệ_số tạp_âm trên kênh Gauss
+
+Xác_định các mức sóng mang tối_thiểu Cm in đối_với kênh Gauss đã được đo theo 2 . 4 . 10 .
+
+Xác_định C / Nmin yêu_cầu đối_với kênh Gauss đã được đo theo 2 . 4 . 8 .
+
+Tính hệ_số tạp_âm NF [ dB ] đối_với các tần_số được hỗ_trợ theo công_thức đối_với tín_hiệu Dvb - t2 8 MHz mở_rộng :
+
+NF [ dB ] = N + 105 , 1dBm = Cm in - C / Nmin + 105 , 1dBm
+
+Đối_với tín_hiệu Dvb - t2 8 MHz thông_thường :
+
+NF [ dB ] = N + 105 , 2dBm = Cm in - C / Nmin + 105 , 2dBm .
+
+Bảng 18 - Các tần_số và các băng_thông tín_hiệu bắt_buộc hỗ_trợ
+
+3 . 2 . 13 . Mức tín_hiệu đầu_vào tối_đa
+
+3 . 2 . 13 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts P ( dvb - t2 )
+
+3 . 2 . 13 . 2 . Thủ_tục đo
+
+1 . Thiết_lập thiết_bị đo .
+
+2 . Kiểm_tra bộ suy hao ( att ) .
+
+3 . Sử_dụng chế_độ 32k ext , 256 Qam , Pp2 , R = 4 / 5 , Tu = 1 / 8 đối_với Dvb - t2 .
+
+4 . Đặt bộ Up converter về kênh 35 .
+
+5 . Kiểm_tra bộ suy hao và cáp nối .
+
+6 . Bật_thiết_bị thu .
+
+7 . Kiểm_tra khả_năng giải_mã video .
+
+8 . Xác_định quan_hệ giữa mức đầu_vào thiết_bị thu và giá_trị bộ suy hao .
+
+9 . Sử_dụng bộ suy hao để thiết_lập mức đầu_vào thiết_bị thu bằng - 25 dBm .
+
+10 . Kiểm_tra khả_năng đáp_ứng Qef bằng thủ_tục Qmp1 .
+
+11 . Điền kết_quả đo vào Bảng 19 .
+
+12 . Lặp_lại phép đo với các chế_độ khác trong Bảng 19 .
+
+Bảng 19 - Các chế_độ đo kiểm_tra mức tín_hiệu đầu_vào tối_đa
+
+3 . 2 . 14 . Khả_năng chống nhiễu đối_với các tín_hiệu tương_tự trong các kênh khác
+
+3 . 2 . 14 . 1 . Cấu_hình đo
+
+Luồng truyền_tải : Ts P ( dvb - t2 ) .
+
+3 . 2 . 14 . 2 . Thủ_tục đo
+
+1 . Thiết_lập các thiết_bị đo
+
+2 . Sử_dụng tín_hiệu Pal có : Colour bar 75 %
+
+3 . Điều_chế sóng mang âm_thanh Fm với âm_tần 1 kHz và độ lệch tần_số điều_chế là 50 kHz .
+
+4 . Kiểm_tra các mức tín_hiệu của tín_hiệu Dvb - t2 và tín_hiệu tương_tự có đúng không bằng máy phân_tích phổ spectrum analyser .
+
+5 . Điều_chỉnh mức của sóng mang Fm đến mức - 13 dB so với sóng mang hình
+
+6 . Sử_dụng chế_độ Dvb - t2 theo : { 32k , 256 Qam , R = 4 / 5 , / Tu = 1 / 8 } và băng_thông tín_hiệu 8 MHz .
+
+7 . Đặt bộ Up_converter ( mong_muốn ) đối_với sóng mang Dvb - t2 tới tần_số 586 , 0 MHz ( Kênh 35 )
+
+8 . Đặt bộ Up_converter ( nhiễu ) đối_với sóng mang Tv tương_tự tới kênh 36 ( 594 MHz )
+
+9 . Đặt mức đầu_vào thiết_bị thu đối_với tín_hiệu Tv tương_tự về mức - 25 dBm nhờ sử_dụng " att I
+
+10 . Giảm mức tín_hiệu Dvb - t2 nhờ dùng " att C " tới một mức tín_hiệu để Qmp2 hoàn_thành .
+
+11 . Điền mức tín_hiệu đo được khác_biệt giữa các tín_hiệu Dvb - t2 và tín_hiệu Tv tương_tự theo dB vào báo_cáo đo .
+
+12 . Lặp_lại bài đo đối_với Tv tương_tự trên tần_số 578 MHz ( Kênh 34 ) .
+
+13 . Lặp_lại bài đo đối_với Tv tương_tự trên các tần_số 570 MHz ( Kênh 33 ) , 602 MHz ( Kênh 37 ) và kênh 658 MHz ( Kênh 44 ) .
+
+Bảng 20 - Kết_quả đo
+
+3 . 2 . 15 . Khả_năng chống nhiễu đối_với các tín_hiệu_số trên các kênh khác
+
+3 . 2 . 15 . 1 . Cấu_hình đo
+
+Kiểm_tra để đảm_bảo tín_hiệu Tv số trên các kênh lân_cận hoặc các kênh khác không gây ra phát_xạ ngoài băng khi thu tín_hiệu Tv_số mong_muốn .
+
+Sử_dụng các thiết_lập tham_số Chế_độ A ( Single_plp ) đã định_nghĩa trong Bảng 14 .
+
+3 . 2 . 15 . 2 . Thủ_tục đo
+
+1 . Thiết_lập các thiết_bị đo .
+
+2 . Sử_dụng chế_độ Dvb - t2 theo : { 32k mở_rộng , 256 Qam xoay , Pp4 , R = 2 / 3 , / tu = 1 / 16 } và băng_thông tín_hiệu 8 MHz .
+
+3 . Đặt bộ Up_converter kênh A đến tần_số 586 MHz ( Kênh 35 ) .
+
+4 . Đặt Up_converter kênh B đến tần_số 594 MHz ( Kênh 36 ) .
+
+5 . Đặt mức đầu_vào thiết_bị thu đối_với tín_hiệu Dvb - t2 trên kênh B là - 20 dBm .
+
+6 . Giảm mức tín_hiệu Dvb - t2 trong kênh A đến mức Qmp 2 được hoàn_thành .
+
+7 . Điền mức tín_hiệu đo được khác_biệt giữa các tín_hiệu kênh A và kênh B theo dB vào báo_cáo đo .
+
+8 . Lặp_lại bài đo khi bộ Up_converter kênh B được đặt đến các tần_số 578 MHz ( Kênh 34 ) , 570 MHz ( Kênh 33 ) , 602 MHz ( Kênh 37 ) .
+
+9 . Lặp_lại bài đo theo thủ_tục trên đối_với kênh ảnh . Đặt mức đầu_vào thiết_bị thu đối_với tín_hiệu Dvb - t2 trong kênh B là - 20 dBm .
+
+10 . Đặt bộ Up_converter kênh A tới 666 MHz ( Kênh 45 ) .
+
+11 . Đặt bộ Up_converter kênh B tới 674 MHz ( Kênh 46 ) .
+
+12 . Đặt mức đầu_vào đối_với tín_hiệu Dvb - t2 trong kênh B là - 20 dBm .
+
+13 . Giảm mức tín_hiệu Dvb - t2 trong kênh A về mức tín_hiệu khi Qmp 2 được hoàn_thành .
+
+14 . Điền mức tín_hiệu đo được khác_biệt giữa các tín_hiệu kênh A và kênh B theo dB vào báo_cáo đo .
+
+15 . Lặp_lại bài đo khi bộ Up_converter kênh B được đặt tới các tần_số 650 MHz ( Kênh 43 ) , 658 MHz ( Kênh 44 ) , 682 MHz ( Kênh 47 ) .
+
+16 . Lặp_lại bài đo theo thủ_tục trên đối_với kênh ảnh . Đặt mức đầu_vào thiết_bị thu đối_với tín_hiệu Dvb - t2 ở kênh B là - 20 dBm .
+
+Bảng 21 - Các tần_số thuộc Uhf băng Iv / v và băng_thông tín_hiệu bắt_buộc hỗ_trợ
+
+Bảng 22 - Các tần_số thuộc Uhf băng Iv / v và băng_thông tín_hiệu bắt_buộc hỗ_trợ
+
+3 . 2 . 16 . Khả_năng chống nhiễu đồng kênh từ các tín_hiệu Tv tương_tự
+
+3 . 2 . 16 . 1 . Cấu_hình đo
+
+Độ lệch tần_số giữa sóng mang Dvb - t2 và sóng mang Tv tương_tự là 0 Hz .
+
+Nguồn Dvb - t2 và nguồn Tv tương_tự phải được kết_nối với cùng tín_hiệu tham_chiếu ( 10 MHz ) .
+
+Sử_dụng các thiết_lập tham_số Chế_độ A ( Single_plp ) định_nghĩa trong Bảng 14 .
+
+3 . 2 . 16 . 2 . Thủ_tục đo
+
+1 . Thiết_lập các thiết_bị đo .
+
+2 . Đặt bộ Up_converter đối_với Dvb - t2 tới tần_số 586 MHz ( Kênh 35 ) .
+
+3 . Đặt bộ Up_converter đối_với sóng mang video tương_ứng của Tv tương_tự tới tần_số 583 , 25 MHz ( Kênh 35 ) .
+
+4 . Sử_dụng tín_hiệu Pal : Colour bar 75 % .
+
+5 . Điều_chế sóng mang âm_thanh Fm có âm_tần 1 kHz với độ lệch tần_số điều_chế là 50 kHz .
+
+6 . Điều_chỉnh mức của sóng mang Fm đến mức - 13 dB so với sóng mang hình .
+
+7 . Sử_dụng chế_độ của bộ điều_chế Dvb - t2 theo : { 32k mở_rộng , Pp2 , 256 Qam xoay , R = 3 / 4 , / tu = 1 / 8 } và băng_thông tín_hiệu of 8 MHz .
+
+8 . Xác_định mức C / i dùng trong các bộ suy hao Att C và Att I .
+
+9 . Đo các mức của tín_hiệu Dvb - t2 và tín_hiệu tương_tự ( Ví_dụ : bằng máy phân_tích phổ hoặc máy đo phù_hợp ) .
+
+10 . Đặt mức đầu_vào thiết_bị thu tới - 50 dBm đối_với tín_hiệu Dvb - t2 .
+
+11 . Tăng C / i từ giá_trị thấp đến giá_trị cao cho đến khi Qmp2 được hoàn_thành theo " 30 s error free video " .
+
+12 . Điền C / i vào báo_cáo đo .
+
+13 . Lặp_lại bài đo đối_với chế_độ Dvb - t2 : { 32k mở_rộng , Pp4 , 256 Qam xoay , R = 2 / 3 ,
+
+14 . / tu = 1/16} với băng_thông tín_hiệu of 8 MHz .
+
+15 . Lặp_lại bài đo đối_với chế_độ Dvb - t2 : { 32k mở_rộng , Pp4 , 256 Qam xoay , R = 3 / 5 ,
+
+16 . / tu = 19/256} với băng_thông tín_hiệu of 8 MHz
+
+Bảng 23 - Kết_quả đo
+
+3 . 2 . 17 . Khả_năng chống nhiễu đối_với tín_hiệu Lte 700 MHz trên các kênh khác
+
+3 . 2 . 17 . 1 . Cấu_hình đo
+
+Sử_dụng chế_độ A ( Single_plp ) và các thiết_lập tham_số Lf được định_nghĩa trong Bảng 14 .
+
+3 . 2 . 17 . 2 . Thủ_tục đo
+
+1 . Thiết_lập các thiết_bị đo .
+
+2 Sử_dụng chế_độ Dvb - t2 { 32ke , 256 Qam R , Pp4 , R = 2/3, G = 1/16, 8MHz } .
+
+3 . Đặt bộ Up Converter thuộc kênh A tới tần_số 690 MHz ( kênh 48 ) .
+
+4 . Đặt bộ Up Converter thuộc kênh B tới tần_số 708 MHz .
+
+5 . Đặt bộ tạo nhiễu Lte tới chế_độ lưu_lượng hình_ảnh Ue
+
+6 . Đặt mức đầu_vào máy thu cho tín_hiệu Lte trên kênh B là công_suất được cấp phép - 25 dBm ( Chú_ý công_suất rms được đo bằng đồng_hồ đo công_suất trung_bình đủ để loại_bỏ sự giảm mạnh công_suất của tín_hiệu xuống - 42 , 7 dBm ) .
+
+7 . Giảm mức tín_hiệu mong_muốn trong kênh A xuống mức tín_hiệu khi thủ_tục đo kiểm chất_lượng ở thủ_tục 2 vẫn được thực_hiện .
+
+8 . Điền sự chênh_lệch mức tín_hiệu đo được giữa tín_hiệu kênh A và kênh B ( Công_suất được cấp phép ) bằng dB vào báo_cáo đo .
+
+9 . Lặp_lại bài đo khi Up Converter thuộc kênh B được đặt thành tần_số 718 , 0 MHz , 728 , 0 MHz
+
+10 . Đặt bộ Up Converter thuộc kênh B tới tần_số 763 MHz .
+
+11 . Đặt bộ tạo nhiễu Lte tới chế_độ tải lưu_lượng Bs 0 % .
+
+12 . Đặt mức tín_hiệu đầu_vào máy thu cho tín_hiệu Lte trong kênh B tới công_suất được cấp phép - 15 dBm ( Chú_ý công_suất rms được đo bằng đồng_hồ đo công_suất trung_bình đủ để loại_bỏ sự giảm mạnh công_suất của tín_hiệu xuống - 23 , 3 dBm ) .
+
+13 . Giảm mức tín_hiệu mong_muốn trong kênh A xuống mức tín_hiệu khi thủ_tục đo kiểm chất_lượng ở thủ_tục 2 vẫn được thực_hiện .
+
+14 . Điền sự chênh_lệch mức tín_hiệu đo được giữa tín_hiệu kênh A và kênh B ( Công_suất được cấp phép ) bằng dB vào báo_cáo đo .
+
+15 . Lặp_lại bài đo khi Up Converter thuộc kênh B được đặt thành tần_số 773 , 0 MHz , 783 , 0 MHz .
+
+16 . Lặp_lại bài đo cho chế_độ Dvb - t2 { 32ke , 256 Qam R , Pp4 , R = 3 / 5 , G = 19 / 256 , 8MHz } .
+
+Bảng 24 - Kết_quả đo nhiễu lưu_lượng luồng hình_ảnh Ue
+
+Bảng 25 - Kết_quả đo nhiễu tải lưu_lượng Bs 0 %
+
+3 . 2 . 18 . Yêu_cầu C / ( n + i ) khi có nhiễu trong khoảng bảo_vệ trong mạng Sfn
+
+3 . 2 . 18 . 1 . Cấu_hình đo
+
+Các thông_số Dvb - t2 thông_thường trong bài đo này :
+
+3 . 2 . 18 . 2 . Thủ_tục đo
+
+Kiểm_tra trạng_thái đồng_bộ Sfn .
+
+1 . Thiết_lập các thiết_bị đo .
+
+2 . Sử_dụng chế_độ Dvb - t2 theo : { 32k mở_rộng , 256 Qam , Pp4 , R = 2 / 3 , / tu = 1 / 16 } và băng_thông tín_hiệu 8 MHz .
+
+3 . Đặt bộ Up Converter đến tần_số trung_tâm 586 MHz ( Kênh 35 ) .
+
+4 . Mở công_tắc switch .
+
+5 . Đặt mức đầu_vào thiết_bị thu là - 50 dBm đối_với tín_hiệu mong_muốn .
+
+6 . Đặt trễ khác_biệt liên_quan đến channel simulator về 1 , 95 s đối_với tín_hiệu vọng .
+
+7 . Đặt mức suy_giảm liên_quan đến channel simulator về 0 dB đối_với tín_hiệu vọng .
+
+8 . Đặt C / n tới tỉ_lệ mà thiết_bị thu bị khoá và sự thu_nhận không_thể thực_hiện được .
+
+9 . Đóng công_tắc switch .
+
+10 . Tăng_giá_trị C / n cho đến khi hoàn_thành Qmp2 .
+
+11 . Điền giá_trị C / n yêu_cầu theo dB vào báo_cáo đo .
+
+12 . Đo phần còn lại của các giá_trị C / n yêu_cầu đối_với các tín_hiệu vọng 0 dB âm và dương . Điền các kết_quả vào báo_cáo đo . Trong khi thay_đổi trễ , tín_hiệu Rf đầu_vào phải bị ngắt kết_nối .
+
+13 . Đo phần còn lại của các tổ_hợp ( không đánh_dấu xám ) của các trễ liên_quan và các mức suy_giảm liên_quan . Trễ của tín_hiệu vọng được bảo_toàn không đổi khi sự thay_đổi của suy_giảm từ 21 dB về 1 dB được thực_hiện . Tìm giá_trị C / n yêu_cầu khi việc thu_nhận hoàn_thành Qmp2 . Trong khi thay_đổi trễ và mức suy_giảm , tín_hiệu Rf đầu_vào phải được ngắt kết_nối .
+
+14 . Tiếp_tục đo từ bước 4 bằng cách lặp lại bài đo đối_với phần còn lại của các chế_độ Dvb - t2 và băng_thông tín_hiệu 8 MHz trong báo_cáo đo .
+
+Bảng 26 - Kết_quả đo
+
+Chú_thích : Phần bôi_đen là các chế_độ không cần đo .
+
+3 . 2 . 19 . Yêu_cầu C / ( n + i ) ngoài khoảng bảo_vệ trong các Sfn
+
+3 . 2 . 19 . 1 . Cấu_hình đo
+
+Các tham_số Dvb - t2 thông_thường trong bài đo này :
+
+3 . 2 . 19 . 2 . Thủ_tục đo
+
+Kiểm_tra trạng_thái đồng_bộ Sfn .
+
+1 . Thiết_lập các thiết_bị đo .
+
+2 . Sử_dụng chế_độ Dvb - t2 : { 32k , 256 Qam , Pp4 , R = 3 / 5 , / Tu = 1 / 16 } và băng_thông tín_hiệu 8 MHz .
+
+3 . Đặt Up Converter đến tần_số 586 MHz ( Kênh 35 ) .
+
+4 . Mở công_tắc switch .
+
+5 . Đặt mức đầu_vào thiết_bị thu là - 50 dBm đối_với tín_hiệu mong_muốn .
+
+6 . Đặt khác_biệt trễ liên_quan tới channel simulator là 230 s đối_với tín_hiệu vọng .
+
+7 . Đóng công_tắc switch .
+
+6 . Tăng sự suy_giảm tín_hiệu vọng từ giá_trị thấp đến giá_trị cao cho đến khi hoàn_thành Qmp2 .
+
+9 . Điền kết_quả suy_giảm tín_hiệu vọng theo dB vào báo_cáo đo .
+
+10 . Lặp_lại bài đo với phần còn lại của các tổ_hợp của các trễ và mức suy_giảm liên_quan được định_nghĩa trong báo_cáo đo . Mở công_tắc switch trước khi thay_đổi trễ và mức suy_giảm .
+
+11 . Lặp_lại bài đo đối_với phần còn lại của các chế_độ Dvb - t2 trong báo_cáo đo đối_với băng_thông tín_hiệu là 8 MHz .
+
+Bảng 27 - Kết_quả đo
+
+Chú_thích : Phần bôi_đen là các chế_độ không cần đo .
+
+3 . 2 . 20 . Yêu_cầu đối_với bộ giải ghép Mpeg
+
+3 . 2 . 20 . 1 . Tốc_độ luồng dữ_liệu tối_đa
+
+3 . 2 . 20 . 1 . 1 . Cấu_hình đo
+
+Dữ_liệu sử_dụng : Ts G , Ts P
+
+3 . 2 . 20 . 1 . 2 . Thủ_tục đo
+
+1 . Chuẩn_bị và kết_nối thiết_bị đo .
+
+2 . Chọn kênh tần_số 586 MHz trên bộ chuyển_đổi Up_converter và thiết_lập tham_số_đo : Fft size 32k , 256 Qam , R = 5 / 6 , / Tu = 1 / 128 đối_với Dvb - t2 .
+
+3 . Lựa_chọn chương_trình tương_ứng dòng truyền_tải có tốc_độ dữ_liệu cao .
+
+4 . Kiểm_tra khả_năng tuân_thủ bằng thủ_tục Qmp1 .
+
+3 . 2 . 20 . 2 . Hỗ_trợ tốc_độ bit thay_đổi
+
+3 . 2 . 20 . 2 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts E .
+
+3 . 2 . 20 . 2 . 2 . Thủ_tục đo
+
+1 . Chuẩn_bị và kết_nối thiết_bị đo .
+
+2 . Lựa_chọn chương_trình sử_dụng tốc_độ bit thay_đổi trên menu thiết_bị thu .
+
+3 . Cấu_hình đo không sử_dụng bộ tạo nhiễu cộng .
+
+4 . Đặt mức tín_hiệu vào đầu thu bằng - 60 dBm .
+
+5 . Kiểm_tra hình_ảnh trong 5 min theo thủ_tục Qmp1 .
+
+3 . 2 . 21 . Giải_mã video
+
+3 . 2 . 21 . 1 . Đồng_bộ video - audio
+
+3 . 2 . 21 . 1 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts A .
+
+3 . 2 . 21 . 1 . 2 . Thủ_tục đo
+
+Stb :
+
+1 . Chuẩn_bị và kết_nối thiết_bị đo .
+
+2 . Đặt mức tín_hiệu đầu_vào thiết_bị thu bằng - 50 dBm .
+
+3 . Sử_dụng Ts A để đo độ trễ giữa audio - video .
+
+4 . Xác_định độ trễ audio - video .
+
+5 . Xác_nhận độ trễ audio - video đáp_ứng yêu_cầu .
+
+iDTV :
+
+1 . Chuẩn_bị và kết_nối thiết_bị đo .
+
+2 . Sử_dụng phương_pháp đánh_giá chủ_quan Qmp1 để đánh_giá độ trễ audio - video .
+
+3 . 2 . 21 . 2 . Tốc_độ bit tối_thiểu
+
+3 . 2 . 21 . 2 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts P ( dvb - t2 ) .
+
+3 . 2 . 21 . 2 . 2 . Thủ_tục đo
+
+1 . Chuẩn_bị và kết_nối thiết_bị đo .
+
+2 . Chọn chương_trình từ dữ_liệu đo có tốc_độ bit 600 kbps , độ phân_giải video 720x576 có chứa audio .
+
+3 . Kiểm_tra khả_năng giải_mã hình_ảnh .
+
+3 . 2 . 21 . 3 . Giải_mã Mpeg - 2 Sd
+
+3 . 2 . 21 . 3 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts H .
+
+3 . 2 . 21 . 3 . 2 . Thủ_tục đo
+
+1 . Chuẩn_bị và kết_nối thiết_bị đo .
+
+2 . Lựa_chọn chương_trình truyền_hình mã_hoá Mpeg - 2 .
+
+3 . Đặt mức tín_hiệu đầu_vào thiết_bị thu bằng - 50 dBm .
+
+4 . Sử_dụng dữ_liệu Ts H và thực_hiện kiểm_tra bằng phương_pháp Qmp1 để đánh_giá khả_năng hiển_thị các độ phân_giải trong Bảng 28 .
+
+Bảng 28 - Giải_mã Sdtv_mpeg - 2 - phân_giải
+
+3 . 2 . 21 . 4 . Giải_mã Mpeg 4 Sd
+
+3 . 2 . 21 . 4 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts B
+
+3 . 2 . 21 . 4 . 2 . Thủ_tục đo
+
+1 . Chuẩn_bị và kết_nối thiết_bị đo .
+
+2 . Lựa_chọn chương_trình truyền_hình mã_hoá Mpeg - 4 Sd .
+
+3 . Đặt mức tín_hiệu đầu_vào thiết_bị thu bằng - 50 dBm .
+
+4 . Sử_dụng dữ_liệu Ts B và thực_hiện kiểm_tra bằng phương_pháp Qmp1 để đánh_giá khả_năng hiển_thị các độ phân_giải trong Bảng 29 .
+
+Bảng 29 - Giải_mã Sdtv_mpeg - 2 - phân_giải
+
+3 . 2 . 21 . 5 . Giải_mã Mpeg - 4 Hd
+
+3 . 2 . 21 . 5 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts M .
+
+3 . 2 . 21 . 5 . 2 . Thủ_tục đo
+
+1 . Chuẩn_bị và kết_nối thiết_bị đo .
+
+2 . Lựa_chọn chương_trình truyền_hình mã_hoá Mpeg - 4 Hd .
+
+3 . Đặt mức tín_hiệu đầu_vào thiết_bị thu bằng - 50 dBm .
+
+4 . Sử_dụng dữ_liệu Ts M và thực_hiện kiểm_tra bằng phương_pháp Qmp1 để đánh_giá khả_năng hiển_thị các độ phân_giải 1920x1080i và 1280x720p .
+
+3 . 2 . 21 . 6 . Chuyển_đổi tín_hiệu Hd sang đầu_ra Sd
+
+3 . 2 . 21 . 6 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts M .
+
+3 . 2 . 21 . 6 . 2 . Thủ_tục đo
+
+1 . Chuẩn_bị và kết_nối thiết_bị đo .
+
+2 . Lựa_chọn chương_trình truyền_hình mã_hoá Mpeg - 4 Hd , độ phân_giải 1920x1080i và 1280x720p .
+
+3 . Sử_dụng dữ_liệu Ts M và thực_hiện kiểm_tra bằng phương_pháp Qmp1 để đánh_giá khả_năng hiển_thị tín_hiệu chuyển_đổi sang Sd trên màn_hình .
+
+3 . 2 . 22 . Giải_mã Audio
+
+3 . 2 . 22 . 1 . Giải_mã Mpeg - 1 Layer_ii
+
+3 . 2 . 22 . 1 . 1 . Cấu_hình đo
+
+Ts được sử_dụng : Ts D , Ts I .
+
+3 . 2 . 22 . 1 . 2 . Thủ_tục đo
+
+1 . Chuẩn_bị môi_trường đo kiểm và lắp_đặt các thiết_bị .
+
+2 . Điều_chỉnh thiết_bị thu dịch_vụ chỉ có nội_dung âm_thanh được mã_hoá bởi Mpeg - 1 Layer_ii .
+
+3 . Trên giao_diện người dùng , thiết_lập đầu_ra âm_thanh stereo ở Mpeg - 1 Layer_ii .
+
+4 . Kiểm_tra âm_thanh trên đầu_ra stereo và điền vào phần kết_quả .
+
+Kết_quả cần đạt
+
+Thiết_bị thu giải_mã được tín_hiệu âm_thanh Mpeg - 1 Layer_ii .
+
+3 . 2 . 22 . 2 . Giải_mã Mpeg - 4 He - ac
+
+3 . 2 . 22 . 2 . 1 . Cấu_hình đo
+
+Luồng truyền_tải phải bao_gồm các dịch_vụ có :
+
+- Thành_phần âm_thanh He - ac Level 2 ở tần_số lấy mẫu 48 kHz ( mono , stereo ) với các luồng bit báo_hiệu tương_ứng .
+
+- Thánh_phần âm_thanh He - ac Level 4 ở tần_số lấy mẫu 48 kHz ( mono , stereo ) với các luồng bit báo_hiệu tương_ứng .
+
+Ts được sử_dụng : Ts O .
+
+3 . 2 . 22 . 2 . 2 . Thủ_tục đo
+
+1 . Thiết_lập hệ_thống .
+
+2 . Chạy luồng truyền_tải và lựa_chọn dịch_vụ phù_hợp .
+
+3 . Kiểm_tra đầu_ra Hd mi có đúng định_dạng luồng bit và âm_thanh nghe được có chính_xác .
+
+4 . Lựa_chọn chế_độ âm_thanh stereo ở hệ_thống danh_mục chọn .
+
+5 . Kiểm_tra đầu_ra Hd mi có đúng định_dạng luồng bit và âm_thanh nghe được chính_xác ở cả đầu_ra âm_thanh số và tương_tự đối_với tốc_độ bit và tốc_độ lấy mẫu đã chọn .
+
+6 . Lựa_chọn chế_độ âm_thanh đa kênh ở hệ_thống danh_mục chọn .
+
+7 . Kiểm_tra đầu_ra Hd mi có đúng định_dạng luồng bit và âm_thanh nghe được chính_xác ở cả đầu_ra âm_thanh số và tương_tự đối_với tốc_độ bit và tốc_độ lấy mẫu đã chọn .
+
+3 . 2 . 22 . 2 . 3 . Kết_quả cần đạt
+
+Thiết_bị thu giải_mã được tín_hiệu âm_thanh He - ac Level 2 và 4 ở tần_số lấy mẫu 48 kHz .
+
+3 . 2 . 22 . 3 . Hỗ_trợ He - ac trên giao_diện đầu_ra Hd_mi
+
+3 . 2 . 22 . 3 . 1 . Cấu_hình đo
+
+Luồng truyền_tải phải bao_gồm các dịch_vụ có :
+
+- Thành_phần âm_thanh He - ac Level 2 ở tần_số lấy mẫu 48 kHz ( mono , stereo ) với các luồng bit báo_hiệu tương_ứng .
+
+- Thành_phần âm_thanh He - ac Level 4 ở tần_số lẫy mẫu 48 kHz ( mono , stereo ) với các luồng bit báo_hiệu tương_ứng .
+
+Ts được sử_dụng : Ts O .
+
+3 . 2 . 22 . 3 . 2 . Thủ_tục đo
+
+1 . Thiết_lập hệ_thống .
+
+2 . Kiểm_tra đầu_ra Hd mi có đúng định_dạng luồng bit và âm_thanh nghe được chính_xác .
+
+3 . Lựa_chọn chế_độ âm_thanh stereo ở hệ_thống danh_mục chọn .
+
+4 . Kiểm_tra đầu_ra Hd mi có đúng định_dạng luồng bit và âm_thanh nghe được chính_xác ở cả đầu_ra âm_thanh số và tương_tự .
+
+5 . Lựa_chọn chế_độ âm_thanh đa kênh ở hệ_thống danh_mục chọn .
+
+6 . Kiểm_tra đầu_ra Hd mi có đúng định_dạng luồng bit và âm_thanh nghe được chính_xác ở cả đầu_ra âm_thanh số và tương_tự .
+
+3 . 2 . 22 . 3 . 3 . Kết_quả cần đạt
+
+Khi thiết_lập chế_độ stereo ở danh_mục chọn của thiết_bị thu , He - ac Level 2 stereo được giải_mã thành Pcm stereo ở đầu_ra Hd mi .
+
+Khi thiết_lập chế_độ đa kênh ở danh_mục chọn của thiết_bị thu , giải_mã He - ac Level 4 đa kênh phải được hỗ_trợ tất_cả các chuẩn định_dạng dưới đây :
+
+- He - ac nguyên gốc ;
+
+- Pcm stereo downmix ;
+
+- Pcm đa kênh .
+
+3 . 2 . 22 . 4 . Hỗ_trợ He - ac trên giao_diện đầu_ra audio tương_tự
+
+3 . 2 . 22 . 4 . 1 . Cấu_hình đo
+
+Luồng truyền_tải phải bao_gồm các dịch_vụ có :
+
+- Thành_phần âm_thanh He - ac Level 2 ở tần_số lấy mẫu 48 kHz ( mono , stereo ) với các luồng bit báo_hiệu tương_ứng .
+
+- Thành_phần âm_thanh He - ac Level 4 ở tần_số lẫy mẫu 48 kHz ( mono , stereo ) với các luồng bit báo_hiệu tương_ứng .
+
+Ts được sử_dụng : Ts O .
+
+3 . 2 . 22 . 4 . 2 . Thủ_tục đo
+
+1 . Thiết_lập hệ_thống .
+
+2 . Lựa_chọn chế_độ âm_thanh stereo ở hệ_thống danh_mục chọn .
+
+3 . Kiểm_tra âm_thanh ở đầu_ra âm_thanh tương_tự nghe có chính_xác không .
+
+4 . Lựa_chọn chế_độ âm_thanh đa kênh ở hệ_thống danh_mục chọn .
+
+5 . Kiểm_tra âm_thanh ở đầu_ra âm_thanh tương_tự nghe có chính_xác không .
+
+3 . 2 . 22 . 4 . 3 . Kết_quả cần đạt
+
+- Khi thiết_lập stereo ở danh_mục chọn của thiết_bị thu , giải_mã He - ac Level 2 ( stereo ) phải có ở giao_diện âm_thanh tương_tự .
+
+- Khi thiết_lập đa kênh ở danh_mục chọn của thiết_bị thu , giải_mã He - ac Level 4 ( đa kênh ) phải có ở giao_diện âm_thanh tương_tự .
+
+4 . Quy_định Quản_lý
+
+Các thiết_bị thu truyền_hình số mặt_đất Dvb - t2 thuộc phạm_vi điều_chỉnh quy_định tại điều 1 . 1 phải tuân_thủ các quy_định kĩ_thuật trong Quy_chuẩn này .
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+Tổ_chức , cá_nhân liên_quan có trách_nhiệm thực_hiện công_bố hợp quy_thiết_bị thu truyền_hình số mặt_đất Dvb - t2 thuộc phạm_vi điều_chỉnh quy_định tại điều 1 . 1 và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành .
+
+6 . Tổ_chức Thực_hiện
+
+6 . 1 . Cục Viễn_thông và các Sở Thông_tin và Truyền_thông có trách_nhiệm tổ_chức hướng_dẫn và triển_khai quản_lí các thiết_bị thu truyền_hình số mặt_đất Dvb - t2 theo Quy_chuẩn này .
+
+6 . 2 . Quy_chuẩn này được áp_dụng thay_thế Qcvn 63 : 2012 / bt Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị thu truyền_hình số mặt_đất Dvb - t2
+
+6 . 3 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới .
+
+6 . 4 . Trong quá_trình triển_khai thực_hiện quy_chuẩn này , nếu có vấn_đề phát_sinh , vướng_mắc , các tổ_chức , cá_nhân phản_ánh bằng văn_bản về Bộ Thông_tin và Truyền_thông ( Vụ Khoa_học và Công_nghệ ) để được hướng_dẫn , giải_quyết . / .

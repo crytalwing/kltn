@@ -1,0 +1,507 @@
+Thông_tư số 45/2021/tt-bgtvt ngày 31 tháng 12 năm 2021 của bộ giao_thông vận_tải
+
+Căn_cứ Luật Giao_thông đường_bộ ngày 13 tháng 11 năm 2008 ;
+
+Căn_cứ Luật Đầu_tư theo phương_thức đối_tác công tư ngày 16 tháng 6 năm 2020 ;
+
+Căn_cứ Nghị_định số 12/2017/NĐ-CP ngày 10 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Giao_thông vận_tải ;
+
+Căn_cứ Quyết_định số 19/2020/QĐ-TTg ngày 17 tháng 6 năm 2020 của Thủ_tướng Chính_phủ về việc thu phí dịch_vụ sử_dụng đường_bộ theo hình_thức điện_tử tự_động không dừng ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Kết_cấu_hạ_tầng và Tổng_cục_trưởng Tổng_cục Đường_bộ Việt_nam ,
+
+Bộ_trưởng Bộ Giao_thông vận_tải ban_hành Thông_tư quy_định về hoạt_động trạm thu phí đường_bộ .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về hoạt_động trạm thu phí đường_bộ trên mạng_lưới đường_bộ ở Việt_nam .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với các tổ_chức , cá_nhân liên_quan đến hoạt_động trạm thu phí đường_bộ trên mạng_lưới đường_bộ ở Việt_nam .
+
+Điều 3 . Giải_thích từ_ngữ
+
+1 . Trạm thu phí đường_bộ ( sau đây gọi tắt là trạm thu phí ) là nơi thực_hiện việc thu tiền dịch_vụ sử_dụng đường_bộ đối_với phương_tiện tham_gia giao_thông đường_bộ .
+
+2 . Đơn_vị quản_lí thu là tổ_chức được cơ_quan có thẩm_quyền chuyển_giao quyền thu hoặc cho phép thu tiền dịch_vụ sử_dụng đường_bộ .
+
+3 . Đơn_vị vận_hành thu là tổ_chức được Đơn_vị quản_lí thu giao nhiệm_vụ hoặc kí hợp_đồng dịch_vụ để thực_hiện công_việc thu tiền dịch_vụ sử_dụng đường_bộ tại trạm thu phí hoặc là Đơn_vị quản_lí thu trong trường_hợp Đơn_vị quản_lí thu tự thực_hiện .
+
+4 . Nhà cung_cấp dịch_vụ thu là đơn_vị được quy_định tại khoản 7 Điều 3 Quyết_định số 19/2020/QĐ-TTg ngày 17 tháng 6 năm 2020 của Thủ_tướng Chính_phủ về việc thu phí sử_dụng đường_bộ theo hình_thức điện_tử tự_động không dừng ( sau đây gọi tắt là Quyết_định số 19/2020/QĐ-TTg) và được Đơn_vị quản_lí thu kí hợp_đồng dịch_vụ để cung_cấp dịch_vụ thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng .
+
+5 . Đơn_vị vận_hành hệ_thống quản_lý , giám_sát thu là đơn_vị được cơ_quan có thẩm_quyền giao hoặc uỷ_quyền việc quản_lý , vận_hành hệ_thống quản_lý , giám_sát , khai_thác dữ_liệu thu .
+
+6 . Hạ_tầng trạm thu phí bao_gồm : nhà điều_hành ; giá long môn và cổng trạm thu phí ( nếu có ) ; mặt_đường và hệ_thống điện chiếu sáng trong phạm_vi trạm thu phí ; đảo phân làn ( nếu có ) ; cabin thu phí ( nếu có ) ; các trang_bị an_toàn và hệ_thống an_toàn giao_thông tại trạm thu phí .
+
+7 . Hệ_thống phần_mềm , thiết_bị lắp_đặt tại trạm thu phí , trực_tiếp tương_tác với phương_tiện giao_thông đi qua trạm ( sau đây được gọi là hệ_thống Front - End ) bao_gồm các thiết_bị điện_tử như đầu_đọc thẻ , ăng ten , ca - me - ra nhận_dạng biển số , thiết_bị nhận_diện xe vào trạm , ba - ri - e tốc_độ cao và các hệ_thống phần_cứng , phần_mềm , thiết_bị tự_động_hoá khác . Hệ_thống Front - End kết_nối với hệ_thống Back - End để gửi thông_tin giao_dịch và thu_nhận thông_tin của phương_tiện , thẻ đầu_cuối .
+
+8 . Hệ_thống điều_hành trung_tâm ( sau đây được gọi là hệ_thống Back - End ) bao_gồm các phân hệ , hệ_thống phần_cứng , phần_mềm đặt tại Trung_tâm dữ_liệu , phục_vụ các yêu_cầu_kinh_doanh và vận_hành thiết_yếu nhất của hệ_thống thu phí tự_động không dừng . Hệ_thống Back - End thực_hiện thu_nhận , xử_lí các giao_dịch được gửi về từ hệ_thống Front - End và thực_hiện các chức_năng quản_lí tài_khoản , khách_hàng ( chủ phương_tiện ) , thẻ đầu_cuối , phương_tiện giao_thông đăng_kí sử_dụng thẻ đầu_cuối , thanh_toán bù_trừ , báo_cáo đối_soát , kết_nối với ngân_hàng và các nghiệp_vụ quản_lý , điều_hành khác .
+
+9 . Hệ_thống quản_lý , giám_sát thu là hệ_thống phần_mềm và hạ_tầng công_nghệ thông_tin có chức_năng để quản_lý , giám_sát , khai_thác dữ_liệu lưu_lượng và doanh_thu xe qua trạm thu phí .
+
+Điều 4 . Nguyên_tắc hoạt_động trạm thu phí đường_bộ
+
+1 . Tiêu_chí thành_lập trạm thu phí đường_bộ :
+
+a ) Phải đặt trong phạm_vi của dự_án ( không áp_dụng với phương_thức thu phí quy_định tại điểm a khoản 1 Điều 9 Thông_tư này ) .
+
+b ) Phải được cấp có thẩm_quyền phê_duyệt trong Báo_cáo nghiên_cứu khả_thi của dự_án đầu_tư hoặc trong Đề_án khai_thác tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ .
+
+c ) Thực_hiện hình_thức thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng và sử_dụng công_nghệ thu tiền dịch_vụ sử_dụng đường_bộ tiên_tiến , hiện_đại ; trường_hợp áp_dụng hình_thức khác phải được cấp có thẩm_quyền cho phép .
+
+d ) Trường_hợp trạm thu phí hoàn vốn cho dự_án đối_tác công tư phải đảm_bảo hiệu_quả đầu_tư của dự_án .
+
+e ) Công_khai_vị_trí trạm thu phí trên phương_tiện thông_tin đại_chúng trung_ương và địa_phương ; tại Ủy_ban nhân_dân cấp huyện , xã nơi đặt trạm thu phí kể từ khi cấp có thẩm_quyền phê_duyệt theo quy_định tại điểm a khoản này .
+
+2 . Nguyên_tắc hoạt_động trạm thu phí đường_bộ : Hoạt_động trạm thu phí đường_bộ phải được công_khai , minh_bạch ; bảo_đảm an_toàn , bảo_mật thông_tin cá_nhân của người sử_dụng , chỉ cung_cấp thông_tin khi có sự đồng_ý của người sử_dụng hoặc theo yêu_cầu của cơ_quan nhà_nước thẩm_quyền theo quy_định của pháp_luật .
+
+Chương_ii
+
+Hoạt_động Trạm Thu Phí Đường_bộ
+
+Điều 5 . Quản_lí và tổ_chức vận_hành trạm thu phí
+
+1 . Đối_với dự_án xây_dựng và vận_hành theo phương_thức đối_tác công tư , hạ_tầng trạm thu phí , hệ_thống Front - End là hạng_mục của dự_án cần được xây_dựng và hoàn_thành trước khi Dự_án đưa vào vận_hành khai_thác .
+
+2 . Đối_với dự_án xây_dựng và vận_hành theo hình_thức khác tại khoản 1 Điều này , trường_hợp được cấp có thẩm_quyền chấp_thuận chủ_trương thu phí đường_bộ , hạ_tầng trạm thu phí thực_hiện trong dự_án , hoàn_thành trước khi đưa vào vận_hành khai_thác . Đơn_vị quản_lí thu đề_xuất với cơ_quan có thẩm_quyền hình_thức đầu_tư .
+
+3 . Đối_với dự_án đang trong giai_đoạn khai_thác : Đơn_vị quản_lí thu đề_xuất hình_thức tổ_chức thu , nguồn kinh_phí , hình_thức đầu_tư hệ_thống Front - End với cơ_quan có thẩm_quyền để quyết_định .
+
+Điều 6 . Vận_hành và bảo_trì hệ_thống Back - End
+
+1 . Hệ_thống Back - End do Nhà cung_cấp dịch_vụ thu quản_lý , vận_hành khai_thác , bảo_trì và được thu_hồi vốn thông_qua chi_phí dịch_vụ thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng .
+
+2 . Ngoài trung_tâm dữ_liệu được quy_định tại điểm d khoản 1 Điều 6 Quyết_định số 19/2020/QĐ-TTg, hệ_thống thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng phải có trung_tâm dữ_liệu dự_phòng hoặc hệ_thống sao lưu dữ_liệu cho trung_tâm dữ_liệu . Trung_tâm dữ_liệu , trung_tâm dữ_liệu dự_phòng hoặc hệ_thống sao lưu của hệ_thống thu tiền dịch_vụ sử_dụng đường_bộ diện tử không dừng được Nhà cung_cấp dịch_vụ thu đặt ( hoặc thuê đặt chỗ ) tại trung_tâm dữ_liệu có mức đảm_bảo kĩ_thuật đạt mức 3 trở lên được quy_định tại Phụ_lục A tiêu_chuẩn Tcvn 9250 : 2012 Trung_tâm dữ_liệu - Yêu_cầu về hạ_tầng kĩ_thuật viễn_thông ; và phải tuân_thủ theo các quy_định tại Thông_tư số 03/2013/TT-BTTTT ngày 22 tháng 01 năm 2013 của Bộ_trưởng Bộ Thông_tin và Truyền_thông quy_định áp_dụng tiêu_chuẩn , quy_chuẩn kĩ_thuật đối_với Trung_tâm dữ_liệu .
+
+Điều 7 . Vận_hành và bảo_trì hạ_tầng trạm thu phí , hệ_thống Front - End
+
+Đơn_vị vận_hành thu thực_hiện công_tác vận_hành và bảo_trì hạ_tầng trạm thu phí và hệ_thống Front - End theo nhiệm_vụ được giao hoặc hợp_đồng dịch_vụ thu với Đơn_vị quản_lí thu . Chi_phí vận_hành và bảo_trì được lấy từ chi_phí vận_hành thu phí và chi_phí bảo_trì , vận_hành dự_án trong giai_đoạn vận_hành , khai_thác hoặc chi_phí hệ thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng .
+
+Điều 8 . Thời_gian làm_việc , trang_phục phù_hiệu
+
+1 . Trạm thu phí hoạt_động 24/24 giờ vào tất_cả các ngày trong năm , kể_cả ngày nghỉ và ngày lễ ( trừ những trường_hợp dừng thu , tạm dừng thu khi có văn_bản của cấp có thẩm_quyền ) .
+
+2 . Khi trạm thu phí phải ngừng hoạt_động do nguyên_nhân bất_khả_kháng , Đơn_vị vận_hành thu phải có biện_pháp_bảo_đảm không xảy ra ùn_tắc giao_thông tại khu_vực trạm thu phí ; đồng_thời , phải báo_cáo ngay cho Đơn_vị quản_lí thu và cơ_quan có thẩm_quyền để có biện_pháp khắc_phục , đưa trạm thu phí vào hoạt_động trong thời_gian sớm nhất .
+
+3 . Người lao_động làm_việc tại trạm thu phí phải mặc đồng_phục trong khi thực_hiện nhiệm_vụ . Mẫu đồng_phục của người lao_động tại trạm thu phí do Đơn_vị vận_hành thu quyết_định nhưng phải đảm_bảo có phù_hiệu , biểu_trưng của Đơn_vị vận_hành thu , biển tên , chức_danh được bố_trí ở vị_trí dễ nhận_biết .
+
+Điều 9 . Hình_thức và phương_thức thu tiền dịch_vụ sử_dụng đường_bộ
+
+1 . Thu tiền dịch_vụ sử_dụng đường_bộ được thực_hiện theo hình_thức điện_tử không dừng và hình_thức một dừng .
+
+a ) Hình_thức điện_tử không dừng là hình_thức thu tiền dịch_vụ sử_dụng đường_bộ tự_động , phương_tiện tham_gia giao_thông đường_bộ không phải dừng lại để trả tiền_sử_dụng đường_bộ khi qua trạm thu phí ;
+
+b ) Hình_thức một dừng là hình_thức thu tiền dịch_vụ sử_dụng đường_bộ mà khi qua trạm thu phí , phương_tiện giao_thông đường_bộ thực_hiện một lần dừng khi qua cửa kiểm_soát làn thu phí để trả tiền dịch_vụ sử_dụng đường_bộ ;
+
+2 . Thu tiền dịch_vụ sử_dụng đường_bộ được thực_hiện theo phương_thức mở và phương_thức kín .
+
+a ) Phương_thức mở là phương_thức thu mà chủ phương_tiện phải trả một mức tiền tại trạm thu phí không phụ_thuộc vào chiều dài quãng đường phương_tiện đã đi được trên đoạn đường thu tiền dịch_vụ sử_dụng đường_bộ mà chỉ phụ_thuộc vào kiểu loại phương_tiện ;
+
+b ) Phương_thức kín là phương_thức thu mà chủ phương_tiện phải trả một mức tiền tại trạm thu phí dựa vào chiều dài quãng đường phương_tiện đã đi được trên đoạn đường thu tiền dịch_vụ sử_dụng đường_bộ và kiểu loại phương_tiện .
+
+3 . Các đoạn tuyến cao_tốc ; các đoạn tuyến cao_tốc nối_tiếp nhau ; các tuyến cao_tốc ; các tuyến cao_tốc liên_kết với nhau được tổ_chức thu thành một hệ_thống thu thực_hiện theo phương_thức kín .
+
+4 . Làn thu phí hỗn_hợp ( làn thu phí áp_dụng cả hình_thức điện_tử không dừng và hình_thức một dừng ) tại trạm thu phí được bố_trí theo quy_định tại điểm a , điểm b khoản 3 Điều 5 Quyết_định số 19/2020/QĐ-TTg.
+
+5 . Hình_thức và phương_thức thu tiền dịch_vụ sử_dụng đường_bộ được cấp có thẩm_quyền quyết_định trong Báo_cáo nghiên_cứu khả_thi của dự_án đầu_tư hoặc trong Đề_án khai_thác tài_sản kết_cấu_hạ_tầng giao_thông đường_bộ .
+
+Điều 10 . Dữ_liệu thu
+
+1 . Dữ_liệu thu bao_gồm dữ_liệu thông_tin chủ phương_tiện của hệ_thống thu hệ_thống thu tiền dịch_vụ sử_dụng đường_bộ không dừng và dữ_liệu về lịch_sử giao_dịch thu .
+
+2 . Dữ_liệu thông_tin chủ phương_tiện của hệ_thống thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng bao_gồm các thông_tin sau :
+
+a ) Thông_tin liên_hệ của chủ phương_tiện : Số chứng_minh nhân_dân , hoặc số thẻ căn_cước công_dân , hoặc số hộ_chiếu ; mã_số doanh_nghiệp , địa_chỉ nơi cư_trú hoặc địa_chỉ trụ_sở chính ; số điện_thoại liên_lạc và địa_chỉ hộp_thư điện_tử ( nếu có ) tiếp_nhận chứng_từ thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng ;
+
+b ) Mã_số định_danh của phương_tiện giao_thông đường_bộ được nhận chi_trả từ tài_khoản thu phí ;
+
+c ) Tải_trọng phương_tiện , số chỗ ngồi , loại xe , biển kiểm_soát xe .
+
+3 . Dữ_liệu về lịch_sử giao_dịch thu phí bao_gồm :
+
+a ) Các tập_tin dữ_liệu thông_tin giao_dịch khi phương_tiện giao_thông_qua trạm thu phí ;
+
+b ) Các tập_tin dữ_liệu về lưu_lượng , doanh_thu thu phí , vé lượt , vé tháng , vé quý ;
+
+c ) Các tập_tin video giám_sát làn , giám_sát cabin ( nếu có ) , giám_sát toàn_cảnh ;
+
+d ) Các tập_tin hình_ảnh chụp phương_tiện lưu_thông_qua trạm thu phí đường_bộ bao_gồm : Hình_ảnh chụp biển số đảm_bảo đọc rõ biển số ; hình_ảnh chụp toàn_cảnh phương_tiện lưu_thông phải đảm_bảo nhận được loại phương_tiện ;
+
+đ ) Thông_tin số tiền trong tài_khoản thu tiền dịch_vụ sử_dụng đường_bộ và lịch_sử giao_dịch của tài_khoản thu của hệ_thống thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng .
+
+4 . Dữ_liệu thu phải tuân_thủ theo quy_định trong mục 5 . 3 . 5 Tcvn 10849 : 2015 Hệ_thống thu phí điện_tử và các quy_định của cơ_quan có thẩm_quyền .
+
+5 . Chế_độ lưu dữ_liệu thu
+
+a ) Lưu_trữ tối_thiểu 1 năm : Các tập_tin video giám_sát toàn_cảnh , giám_sát cabin ( nếu có ) ;
+
+b ) Lưu_trữ tối_thiểu 5 năm : Các tập_tin video giám_sát làn ; các tập_tin hình_ảnh chụp phương_tiện lưu_thông_qua trạm thu phí ;
+
+c ) Lưu_trữ từ thời_điểm đưa trạm thu phí vào hoạt_động đến thời_điểm sau 10 năm kể từ khi thanh_lí hợp_đồng Pp : Dữ_liệu thông_tin chủ phương_tiện của hệ_thống thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng ; các tập_tin dữ_liệu thông_tin giao_dịch khi phương_tiện giao_thông_qua trạm thu phí ; các tập_tin dữ_liệu về lưu_lượng , doanh_thu thu tiền dịch_vụ sử_dụng đường_bộ , vé lượt , vé tháng , vé quý .
+
+Điều 11 . Kết_nối dữ_liệu thu
+
+1 . Dữ_liệu thu được kết_nối theo quy_định trong mục 5 . 3 . 6 Tcvn 10849 : 2015 Hệ_thống thu phí điện_tử và yêu_cầu kết_nối Back - End giữa các Nhà cung_cấp dịch_vụ thu .
+
+2 . Đối_với dự_án thực_hiện phương_thức kín , Đơn_vị vận_hành thu phải kết_nối , đồng_bộ dữ_liệu về lịch_sử giao_dịch thu phí lên hệ_thống Back - End của Nhà cung_cấp dịch_vụ thu ngay khi phương_tiện đi qua trạm thu phí đầu_vào .
+
+3 . Các Nhà cung_cấp dịch_vụ thu phải đảm_bảo cơ_chế kết_nối , chia_sẻ , đồng_bộ dữ_liệu trên nguyên_tắc sẵn_sàng , khả_thi , thuận_tiện , tránh trùng_lặp , lãng_phí khi thực_hiện quản_lý , vận_hành thu và theo yêu_cầu của cơ_quan có thẩm_quyền . Chi_phí kết_nối dữ_liệu thu giữa các Back - End do các Nhà cung_cấp dịch_vụ thu thoả_thuận với nhau , phù_hợp với quy_định của pháp_luật .
+
+4 . Các dữ_liệu được nêu tại khoản 2 và khoản 3 Điều 10 Thông_tư này phải được kết_nối về Hệ_thống quản_lý , giám_sát thu của cơ_quan có thẩm_quyền ( nếu có ) .
+
+5 . Kết_nối dữ_liệu thu phải đảm_bảo tốc_độ truyền_dẫn , tính dự_phòng ; đáp_ứng yêu_cầu_an_ninh và bảo_mật thông_tin / dữ_liệu theo các quy_định được nêu trong mục 5 . 3 . 7 Tcvn 10849 : 2015 Hệ_thống thu phí điện_tử và các quy_định hiện_hành về bảo_đảm an_toàn hệ_thống thông_tin .
+
+Điều 12 . Quản_lý , khai_thác dữ_liệu thu
+
+1 . Tổng_cục Đường_bộ Việt_nam quản_lý , khai_thác dữ_liệu thu của các trạm thu phí đường_bộ trên Hệ_thống quản_lý , giám_sát thu của Tổng_cục Đường_bộ Việt_nam ; khai_thác dữ_liệu thu điện_tử không dừng thông_qua tài_khoản đăng_nhập và mật_khẩu được cung_cấp để truy_cập vào cổng thông_tin dành cho cơ_quan quản_lí nhà_nước của hệ_thống Back - end của Nhà cung_cấp dịch_vụ thu . Việc quản_lí khai_thác dữ_liệu phải thực_hiện theo quy_định pháp_luật về bảo_mật thông_tin .
+
+2 . Sở Giao_thông vận_tải quản_lý , khai_thác dữ_liệu thu của các trạm thu phí đường_bộ trên Hệ_thống quản_lý , giám_sát thu của cơ_quan có thẩm_quyền ( nếu có ) ; khai_thác dữ_liệu thu điện_tử không dừng của các trạm thu phí đường_bộ do địa_phương quản_lí thông_qua tài_khoản đăng_nhập và mật_khẩu được cung_cấp để truy_cập vào cổng thông_tin dành cho cơ_quan quản_lí nhà_nước của hệ_thống Back - End của Nhà cung_cấp dịch_vụ thu .
+
+3 . Nhà cung_cấp dịch_vụ thu quản_lí dữ_liệu thu điện_tử không dừng trên hệ_thống Back - End theo quy_định của hợp_đồng dịch_vụ thu .
+
+4 . Đơn_vị quản_lí thu và Đơn_vị vận_hành thu quản_lí dữ_liệu thu theo hình_thức một dừng tại trạm thu phí thuộc phạm_vi quản_lý .
+
+5 . Đơn_vị quản_lí thu và Đơn_vị vận_hành thu được khai_thác dữ_liệu thu điện_tử không dừng của các trạm thu phí thuộc phạm_vi quản_lí thông_qua tài_khoản đăng_nhập được cung_cấp để truy_cập vào cổng thông_tin của hệ_thống Back - End của Nhà cung_cấp dịch_vụ thu .
+
+6 . Chủ phương_tiện được khai_thác dữ_liệu tài_khoản thu tiền dịch_vụ sử_dụng đường_bộ ( quy_định tại Điều 14 Thông_tư này ) của chủ phương_tiện trên hệ_thống thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng thông_qua tài_khoản đăng_nhập được cung_cấp để truy_cập vào cổng thông_tin khách_hàng của hệ_thống Back - End của Nhà cung_cấp dịch_vụ thu .
+
+Điều 13 . Quản_lý , giám_sát hoạt_động trạm thu phí đường_bộ
+
+1 . Đơn_vị quản_lí thu , Đơn_vị vận_hành thu và Nhà cung_cấp dịch_vụ thu phải có trách_nhiệm thường_xuyên kiểm_tra , giám_sát hoạt_động của trạm thu phí để bảo_đảm hoạt_động thu đúng quy_định ; cung_cấp đầy_đủ thông_tin , dữ_liệu , số_liệu , tài_liệu theo yêu_cầu của cơ_quan_chức_năng về các vấn_đề liên_quan đến công_tác giám_sát , thanh_tra , kiểm_tra , điều_tra , xử_lí các vấn_đề liên_quan an_ninh , an_toàn giao_thông trong quá_trình khai_thác .
+
+2 . Cơ_quan có thẩm_quyền quản_lý , kiểm_tra , giám_sát hoạt_động trạm thu phí đường_bộ bằng Hệ_thống quản_lý , giám_sát thu hoặc các phương_pháp nghiệp_vụ khác và xử_lí vi_phạm hoạt_động của trạm thu phí theo quy_định của pháp_luật , theo quy_định của hợp_đồng .
+
+3 . Hệ_thống quản_lý , giám_sát thu có vai_trò , chức_năng cung_cấp thông_tin phục_vụ_việc giám_sát hoạt_động thu tiền dịch_vụ sử_dụng đường_bộ tại trạm thu phí được quy_định chi_tiết tại Phụ_lục 1 ban_hành kèm theo Thông_tư này .
+
+4 . Các bên : Đơn_vị quản_lí thu , Đơn_vị vận_hành thu , Nhà cung_cấp dịch_vụ thu có trách_nhiệm phối_hợp , cung_cấp , cập_nhật thông_tin trên Hệ_thống quản_lý , giám_sát thu theo yêu_cầu của cơ_quan có thẩm_quyền
+
+Chương_iii
+
+Quản_lý Tiền_thu
+
+Điều 14 . Mở và sử_dụng tài_khoản thu tiền_sử_dụng dịch_vụ đường_bộ của chủ phương_tiện
+
+1 . Mở tài_khoản , sử_dụng tài_khoản thu tiền dịch_vụ sử_dụng đường_bộ thực_hiện theo Điều 10 , Điều 11 Quyết_định số 19/2020/QĐ-TTg.
+
+2 . Toàn_bộ số tiền trong tài_khoản thu tiền dịch_vụ sử_dụng đường_bộ phải được quản_lí độc_lập và tách_biệt với các khoản tiền khác của Nhà cung_cấp dịch_vụ thu và chỉ được sử_dụng cho các mục_đích quy_định tại khoản 3 Điều này .
+
+3 . Tài_khoản thu tiền dịch_vụ sử_dụng đường_bộ được sử_dụng để thực_hiện các giao_dịch thu , chi sau đây :
+
+a ) Nhận tiền nộp vào tài_khoản trả trước ;
+
+b ) Thanh_toán các khoản phải hoàn_trả cho chủ phương_tiện ;
+
+c ) Chuyển trả cho các Đơn_vị quản_lí thu ; chi_trả dịch_vụ thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng cho Nhà cung_cấp dịch_vụ thu ;
+
+d ) Nộp tiền vào ngân_sách nhà_nước tiền phạt theo quy_định của pháp_luật .
+
+đ ) Chi_trả các dịch_vụ khác theo quy_định của pháp_luật .
+
+4 . Chủ phương_tiện nộp tiền vào tài_khoản thu tiền dịch_vụ sử_dụng đường_bộ ( thông_qua các hình_thức nộp trực_tiếp , liên_thông tài_khoản ngân_hàng và các hình_thức khác ) để sử_dụng dịch_vụ thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng theo quy_định .
+
+5 . Trường_hợp phương_tiện giao_thông đường_bộ được gắn thẻ đầu_cuối mà số tiền trong tài_khoản thu tiền dịch_vụ sử_dụng đường_bộ không đủ để chi_trả khi qua làn thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng thì phương_tiện phải sử_dụng làn thu phí hỗn_hợp .
+
+Điều 15 . Trách_nhiệm của Nhà cung_cấp dịch_vụ thu và Đơn_vị quản_lí thu
+
+1 . Nhà cung_cấp dịch_vụ thu có trách_nhiệm :
+
+a ) Phát_hành chứng_từ thu tiền dịch_vụ sử_dụng đường_bộ đúng đối_tượng , đúng giá_trị cho từng đối_tượng phải trả tại trạm thu phí ; không được thu , gây cản_trở đối_với các trường_hợp không thuộc đối_tượng trả tiền dịch_vụ sử_dụng đường_bộ theo quy_định của pháp_luật tại trạm thu phí , không được thay_đổi mức thu tiền dịch_vụ sử_dụng đường_bộ khi chưa có chấp_thuận bằng văn_bản của cơ_quan nhà_nước ;
+
+b ) Thực_hiện kiểm_toán doanh_thu hàng năm theo quy_định của pháp_luật và hợp_đồng dịch_vụ thu ;
+
+c ) Thường_xuyên kiểm_tra , giám_sát hoạt_động thu tiền dịch_vụ sử_dụng đường_bộ để đảm_bảo thực_hiện theo đúng hợp_đồng hoặc theo quy_định của pháp_luật ;
+
+d ) Hoàn_trả doanh_thu thu tiền dịch_vụ sử_dụng đường_bộ cho Đơn_vị quản_lí thu sau khi trừ đi giá dịch_vụ của trạm thu phí theo Hợp_đồng dịch_vụ thu ;
+
+đ ) Quản_lí đối_với toàn_bộ số tiền của các chủ phương_tiện nộp vào tài_khoản thu tiền dịch_vụ sử_dụng đường_bộ của Nhà cung_cấp dịch_vụ thu theo quy_định của pháp_luật ;
+
+e ) Phát_hành hoá_đơn_giá_trị gia_tăng cho các khoản giá dịch_vụ của trạm thu phí đã thanh_toán trong tháng và chuyển_hoá_đơn_giá_trị gia_tăng cho Đơn_vị quản_lí thu liên_quan ;
+
+2 . Đơn_vị quản_lí thu có trách_nhiệm :
+
+a ) Báo_cáo cơ_quan có thẩm_quyền việc sử_dụng tài_khoản thu tiền dịch_vụ sử_dụng đường_bộ của nhà cung_cấp dịch_vụ , bao_gồm : biện_pháp quản_lí sử_dụng tài_khoản thu tiền dịch_vụ sử_dụng đường_bộ của Nhà cung_cấp dịch_vụ thu , có cam_kết / thoả_thuận với ngân_hàng về việc quản_lí sử_dụng tài_khoản thu tiền dịch_vụ sử_dụng đường_bộ của Nhà cung_cấp dịch_vụ thu ;
+
+b ) Kê_khai và nộp thuế theo quy_định của pháp_luật ;
+
+c ) Lập báo_cáo doanh_thu thu tiền dịch_vụ sử_dụng đường_bộ và tình_hình thu tiền dịch_vụ sử_dụng đường_bộ định_kì hàng tháng , quý , 6 tháng , hàng năm và báo_cáo Cơ_quan có thẩm_quyền theo quy_định ;
+
+d ) Kiểm_tra , đối_chiếu , tiếp_nhận khoản doanh_thu tiền dịch_vụ sử_dụng đường_bộ được Nhà cung_cấp dịch_vụ thu chuyển trả . Sử_dụng khoản kinh_phí này để hoàn vốn cho hợp_đồng Pp .
+
+Điều 16 . Đối_soát số thu và chuyển tiền vào tài_khoản thu tiền_sử_dụng dịch_vụ đường_bộ ; chứng_từ , hoá_đơn điện_tử cho hoạt_động thu
+
+1 . Đối_soát số tiền chủ phương_tiện đã nộp vào tài_khoản trả trước : Hàng ngày , Nhà cung_cấp dịch_vụ thu thực_hiện đối soát số tiền chủ phương_tiện đã nộp vào tài_khoản trả trước với ngân_hàng , đại_lí và các đơn_vị trung_gian thanh_toán . Hàng tháng , nếu số tiền trong tài_khoản trả trước của chủ phương_tiện được tính lãi tiền gửi , Nhà cung_cấp dịch_vụ thu có trách_nhiệm cộng số lãi phát_sinh trong tháng vào tài_khoản trả trước của chủ phương_tiện theo quy_định_tính lãi của ngân_hàng .
+
+2 . Đối_soát số thu tiền dịch_vụ sử_dụng đường_bộ giữa Nhà cung_cấp dịch_vụ thu và Đơn_vị quản_lí thu được thực_hiện theo các nguyên_tắc sau :
+
+a ) Nhà cung_cấp dịch_vụ thu thực_hiện đối soát số_liệu thu tiền dịch_vụ sử_dụng đường_bộ hàng ngày ngay sau thời_điểm chốt số_liệu ( 24 giờ tính từ thời_điểm chốt số_liệu trở về trước ) với Đơn_vị quản_lí thu làm căn_cứ xác_nhận số thu tiền dịch_vụ sử_dụng đường_bộ đã thu được trong ngày , thời_điểm chốt số_liệu được thống_nhất trong hợp_đồng cung_cấp dịch_vụ thu ;
+
+b ) Trước ngày mùng 5 hàng tháng , Nhà cung_cấp dịch_vụ thu và Đơn_vị quản_lí thu thực_hiện đối_soát và chốt công_nợ cho tháng liền trước đó ;
+
+c ) Trong thời_hạn 30 ngày kể từ ngày kết_thúc mỗi năm tài_chính , Nhà cung_cấp dịch_vụ thu và Đơn_vị quản_lí thu thực_hiện chốt công_nợ và quyết_toán cho năm liền trước đó .
+
+3 . Nhà cung_cấp dịch_vụ thu có trách_nhiệm xây_dựng quy_trình đối_soát , chuyển tiền phù_hợp với quy_định của Thông_tư này và quy_định pháp_luật có liên_quan .
+
+4 . Đơn_vị quản_lí thu có trách_nhiệm phối_hợp với Nhà cung_cấp dịch_vụ thu để thực_hiện quy_trình đối_soát và khắc_phục , điều_chỉnh các lỗi , sai_số phát_hiện được thông_qua quá_trình đối_soát .
+
+5 . Nhà cung_cấp dịch_vụ thu có trách_nhiệm công_khai số thu hàng ngày , số tiền các phương_tiện còn nợ tại từng trạm thu phí ( nếu có ) .
+
+6 . Hàng ngày , Đơn_vị vận_hành thu , Nhà cung_cấp dịch_vụ thu có trách_nhiệm kiểm_tra , cập_nhật số_liệu chính_xác trên Hệ_thống quản_lý , giám_sát thu các nội_dung sau : Số tiền thu được , số tiền dịch_vụ sử_dụng đường_bộ các phương_tiện còn nợ tại từng trạm thu phí , số tiền chuyển cho các dự_án Pp ( chi_tiết từng dự_án ) ,
+
+số tiền còn giữ lại ; doanh_thu , lưu_lượng và giải_trình chênh_lệch doanh_thu , lưu_lượng .
+
+Điều 17 . Chuyển tiền thu tiền dịch_vụ sử_dụng đường_bộ và thanh_toán chi_phí cung_cấp dịch_vụ
+
+1 . Trên_cơ_sở số_liệu đã thống_nhất sau khi thực_hiện đối soát hàng ngày với Đơn_vị quản_lí thu , Nhà cung_cấp dịch_vụ thu chuyển toàn_bộ số tiền thu dịch_vụ sử_dụng đường_bộ ( bao_gồm cả thuế giá_trị gia_tăng ) tại mỗi trạm thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng cho Đơn_vị quản_lí thu sau khi trừ đi chi_phí dịch_vụ thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng theo hợp_đồng dịch_vụ thu giữa Nhà cung_cấp dịch_vụ thu và Doanh_nghiệp dự_án Pp . Thời_gian chuyển trả theo quy_định tại khoản 1 Điều 14 Quyết_định số 19/2020/QĐ-TTg và hợp_đồng dịch_vụ thu giữa Nhà cung_cấp dịch_vụ thu và Doanh_nghiệp dự_án Pp nhưng không vượt quá 12 giờ kể từ thời_điểm chốt số_liệu . Trường_hợp vào các ngày lễ , ngày nghỉ mà hệ_thống ngân_hàng nghỉ làm_việc không thực_hiện được việc chuyển tiền qua hệ_thống ngân_hàng thì sẽ chuyển ngay ( không quá 06 giờ ) khi hệ_thống ngân_hàng làm_việc trở_lại .
+
+2 . Nhà cung_cấp dịch_vụ thu có trách_nhiệm xây_dựng quy_trình thực_hiện giao_dịch thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng ; kê_khai và nộp các loại thuế trên phần thu dịch_vụ sử_dụng đường_bộ giữ lại .
+
+3 . Đơn_vị quản_lí thu có trách_nhiệm kê_khai và nộp các loại thuế theo quy_định của pháp_luật về thuế .
+
+Điều 18 . Chi_phí vận_hành , chi_phí dịch_vụ thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng , chi_phí giám_sát hoạt_động thu phí
+
+1 . Chi_phí vận_hành thu tiền dịch_vụ sử_dụng đường_bộ là các chi_phí cần_thiết để hoàn_thành các công_việc thu tiền_sử_dụng đường_bộ đối_với phương_tiện tham_gia giao_thông đường_bộ . Chi_phí vận_hành thu tiền dịch_vụ sử_dụng đường_bộ được xác_định theo quy_định của cơ_quan nhà_nước ban_hành hoặc hợp_đồng cung_cấp dịch_vụ thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng đã kí_kết .
+
+2 . Chi_phí dịch_vụ thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng là khoản tiền mà Nhà cung_cấp dịch_vụ thu được hưởng để hoàn vốn cho đầu_tư , xây_dựng , cải_tạo , quản_lý , vận_hành , bảo_trì dự_án thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng . Chi_phí dịch_vụ thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng của mỗi trạm thu phí được xác_định cụ_thể tại Hợp_đồng cung_cấp dịch_vụ thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng và được trích trực_tiếp từ doanh_thu thu tiền dịch_vụ sử_dụng đường_bộ của các dự_án đầu_tư xây_dựng đường_bộ có thu tiền dịch_vụ sử_dụng đường_bộ .
+
+Chi_phí dịch_vụ thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng sẽ được điều_chỉnh tuỳ theo quy_định tại các điều_khoản Hợp_đồng cung_cấp dịch_vụ thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng hoặc quy_định của pháp_luật có liên_quan .
+
+3 . Chi_phí giám_sát hoạt_động thu tiền dịch_vụ sử_dụng đường_bộ
+
+Đơn_vị quản_lí thu có trách_nhiệm bố_trí cán_bộ thực_hiện công_tác kiểm_tra giám_sát thu , đối soát số_liệu thu tiền dịch_vụ sử_dụng đường_bộ với Nhà cung_cấp dịch_vụ thu hoặc với Doanh_nghiệp dự_án Pp trong trường_hợp thu liên_thông . Chi_phí cho công_tác kiểm_tra giám_sát thu , đối_soát của Đơn_vị quản_lí thu được lấy từ chi_phí vận_hành thu .
+
+Cơ_quan có thẩm_quyền tổ_chức triển_khai vận_hành Hệ_thống quản_lý , giám_sát thu ; lập , trình cơ_quan quản_lí cấp trên quyết_định giao dự_toán hàng năm từ nguồn chi thường_xuyên cho hoạt_động_kinh_tế đường_bộ theo quy_định của Bộ Tài_chính .
+
+Chương_iv
+
+Trách_nhiệm Trong Hoạt_động Thu
+
+Điều 19 . Trách_nhiệm của chủ phương_tiện giao_thông đường_bộ
+
+1 . Thực_hiện trách_nhiệm của chủ phương_tiện giao_thông đường_bộ được quy_định tại Điều 22 Quyết_định số 19/2020/QĐ-TTg.
+
+2 . Trả tiền_sử_dụng đường_bộ theo quy_định , chấp_hành các quy_định của cơ_quan có thẩm_quyền và Đơn_vị quản_lí thu khi tham_gia giao_thông đường_bộ trên các tuyến đường có thu phí .
+
+3 . Chủ phương_tiện giao_thông đường_bộ sử_dụng vé tháng , vé quý phải dán thẻ đầu_cuối và thực_hiện theo hình_thức thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng .
+
+4 . Chỉ được sử_dụng duy_nhất 01 thẻ đầu_cuối cho 01 phương_tiện tham_gia giao_thông đường_bộ . Trường_hợp thẻ đầu_cuối bị hư_hỏng , sự_cố làm ảnh_hưởng đến thiết_bị của Nhà cung_cấp dịch_vụ thu hoặc tài_khoản thu phí của chủ phương_tiện tham_gia giao_thông đường_bộ ; hoặc muốn đổi Nhà cung_cấp dịch_vụ thu chủ phương_tiện tham giao_thông đường_bộ liên_hệ với Nhà cung_cấp dịch_vụ thu để xử_lý .
+
+Điều 20 . Trách_nhiệm của Đơn_vị quản_lí thu
+
+1 . Chủ_trì xây_dựng và phê_duyệt quy_trình thu tiền dịch_vụ sử_dụng đường_bộ phù_hợp với hình_thức và phương_thức thu tiền dịch_vụ sử_dụng đường_bộ tại trạm thu phí ; quy_định nội_bộ về kiểm_tra , xử_lí vi_phạm , xử_lí_sự_cố trong quá_trình thực_hiện thu tiền dịch_vụ sử_dụng đường_bộ .
+
+2 . Thông_báo_công_khai liên_tục trước 05 ngày và niêm_yết công_khai tại trạm thu phí khi bắt_đầu tổ_chức thu về thời_điểm bắt_đầu được thu tiền dịch_vụ sử_dụng đường_bộ , địa_điểm trạm thu phí , công_nghệ thu , hình_thức thu , đối_tượng thu , mức thu và đối_tượng được miễn , giảm tiền dịch_vụ sử_dụng đường_bộ . Trong trường_hợp có thay_đổi về mức thu , công_nghệ thu , hình_thức thu , đối_tượng thu , đơn_vị thu phải thông_báo_công_khai và niêm_yết tương_tự như khi bắt_đầu tổ_chức thu trước 30 ngày ( hoặc theo văn_bản của cơ_quan có thẩm_quyền ) . Hình_thức thông_báo_công_khai bao_gồm đăng_tải trên các phương_tiện thông_tin đại_chúng tại địa_phương và Trung_ương ; đồng_thời , gửi thông_báo đến Hiệp_hội Vận_tải ô_tô Việt_nam .
+
+Đối_với dự_án được đầu_tư theo phương_thức đối_tác công tư , trong suốt quá_trình thu , Đơn_vị quản_lí thu ( hoặc uỷ_quyền cho Đơn_vị vận_hành thu ) phải công_khai các thông_tin trên biển_báo điện_tử ( biển Vms ) được gắn tại khu_vực nhà điều_hành trạm thu phí , bao_gồm : tên dự_án , giá_trị công_trình dự_án ( trong trường_hợp dự_án chưa được quyết_toán thì công_bố theo tổng mức đầu_tư ) , tổng_thời_gian được thu tiền dịch_vụ sử_dụng đường_bộ , thời_điểm bắt_đầu thu , thời_gian thu còn lại , doanh_thu tháng trước của trạm thu phí ( số_liệu doanh_thu cập_nhật chậm nhất vào ngày 10 của tháng tiếp_theo ) , số điện_thoại để tiếp_nhận thông_tin phản_ánh .
+
+3 . Báo_cáo thống_kê , kế_toán , hạch_toán , quyết_toán doanh_thu , kê_khai và nộp các khoản thuế theo quy_định của pháp_luật .
+
+4 . Quản_lí tài_sản được giao quản_lý , tài_sản nhận bàn_giao từ nhà_nước , tài_sản trạm thu phí hình_thành trong quá_trình đầu_tư theo đúng quy_định hiện_hành và hợp_đồng đã kí với cơ_quan có thẩm_quyền .
+
+5 . Nộp tiền_sử_dụng tài_sản nhà_nước hoặc tiền thuê quyền khai_thác tài_sản hạ_tầng đường_bộ ( nếu có ) theo quy_định của pháp_luật về quản_lí và sử_dụng tài_sản công .
+
+6 . Bàn_giao lại tài_sản trạm thu phí cho cơ_quan có thẩm_quyền hoặc đơn_vị được cơ_quan có thẩm_quyền chỉ_định khi kết_thúc hợp_đồng . Tài_sản bàn_giao phải trong trạng_thái hoạt_động bình_thường theo quy_định của hợp_đồng .
+
+7 . Chấp_hành_quyết_định tạm dừng thu , dừng thu , trừ thời_gian thu của cơ_quan có thẩm_quyền hoặc của đơn_vị được cơ_quan có thẩm_quyền giao nhiệm_vụ quản_lí công_tác thu tiền dịch_vụ sử_dụng đường_bộ .
+
+8 . Cung_cấp đầy_đủ thông_tin , dữ_liệu , số_liệu , tài_liệu theo yêu_cầu của cơ_quan_chức_năng về các vấn_đề liên_quan đến công_tác giám_sát , thanh_tra , kiểm_tra , điều_tra , xử_lí các vấn_đề liên_quan an_ninh , an_toàn giao_thông trong quá_trình khai_thác .
+
+Điều 21 . Trách_nhiệm của Đơn_vị vận_hành thu
+
+1 . Thực_hiện nhiệm_vụ được Đơn_vị quản_lí thu giao hoặc thực_hiện theo hợp_đồng dịch_vụ thu kí_kết với Đơn_vị quản_lí thu . Phối_hợp với các cơ_quan_chức_năng của địa_phương nơi đặt trạm thu phí để giữ_gìn an_ninh , trật_tự trong quá_trình thu tiền dịch_vụ sử_dụng đường_bộ , đảm_bảo_an_toàn giao_thông , tránh ùn_tắc giao_thông , bảo_đảm không xảy ra các hiện_tượng tiêu_cực , cản_trở , gây phiền_hà trong hoạt_động thu tiền dịch_vụ sử_dụng đường_bộ ; xử_lí kịp_thời các hành_vi vi_phạm trong quá_trình thu .
+
+2 . Quản_lí lao_động , giải_quyết chế_độ cho người lao_động làm_việc tại trạm thu phí theo quy_định của pháp_luật .
+
+3 . Sao lưu dữ_liệu thu theo quy_định tại khoản 5 Điều 10 Thông_tư này để phục_vụ công_tác giám_sát , hậu kiểm .
+
+4 . Chấp_hành việc cơ_quan có thẩm_quyền lắp_đặt thiết_bị , phần_mềm quản_lý , giám_sát dữ_liệu thu và chịu trách_nhiệm phối_hợp và đảm_bảo kết_nối trực_tuyến , ổn_định và liên_tục với Hệ_thống quản_lý , giám_sát thu của cơ_quan có thẩm_quyền và thực_hiện các quy_định tại Điều 13 Thông_tư này .
+
+5 . Trong trường_hợp hệ_thống_thiết_bị công_nghệ phục_vụ công_tác thu phí bị trục_trặc , hư_hỏng , Đơn_vị vận_hành thu phải kịp_thời có báo_cáo cơ_quan có thẩm_quyền hoặc báo_cáo Đơn_vị quản_lí thu ; đồng_thời , khẩn_trương khắc_phục các sự_cố của hệ_thống . Thời_gian khắc_phục sự_cố không quá 48 giờ , kể từ thời_điểm hệ_thống bị trục_trặc , hư_hỏng . Trong thời_gian khắc_phục sự_cố , Đơn_vị vận_hành thu phải thông_báo_công_khai tại trạm và trên phương_tiện truyền_thông , thông_tin đại_chúng ; có biện_pháp đảm_bảo thu nhanh gọn , an_toàn , tránh ùn_tắc giao_thông và có biện_pháp giám_sát chống thất_thoát doanh_thu thu tiền dịch_vụ sử_dụng đường_bộ .
+
+6 . Đảm_bảo_vệ_sinh môi_trường khu_vực trạm thu phí ; đảm_bảo tuân_thủ phương_án tổ_chức giao_thông trên tuyến đường đặt trạm thu phí do cấp có thẩm_quyền phê_duyệt .
+
+7 . Chấp_hành_quyết_định tạm dừng thu , dừng thu của cơ_quan có thẩm_quyền hoặc của đơn_vị được cơ_quan có thẩm_quyền giao nhiệm_vụ quản_lí công_tác thu tiền dịch_vụ sử_dụng đường_bộ .
+
+8 . Không để xảy ra các hành_vi sau :
+
+a ) Gian_lận tiền dịch_vụ sử_dụng đường_bộ hoặc thông_đồng gian_lận trong hoạt_động thu tiền dịch_vụ sử_dụng đường_bộ ;
+
+b ) Can_thiệp vào hệ_thống công_nghệ thu , hệ_thống giám_sát , quản_lí thu , hệ_thống_thiết_bị kiểm_tra tải_trọng phương_tiện và tiêu_cực trong lĩnh_vực giám_sát tải_trọng phương_tiện ; báo_cáo sai doanh_thu nhằm gian_lận doanh_thu dịch_vụ sử_dụng đường_bộ ;
+
+c ) Tổ_chức bán vé , soát vé không kịp_thời , sách_nhiễu đối_với người mua vé ; không bán đầy_đủ hoặc hạn_chế , giới_hạn thời_gian bán các loại vé tháng , vé quý theo quy_định ; gây cản_trở , ùn_tắc giao_thông đường_bộ tại khu_vực trạm thu phí ; thu tiền dịch_vụ sử_dụng đường_bộ không đúng quy_định ;
+
+d ) Nhận tiền_mặt của người sử_dụng phương_tiện giao_thông đường_bộ mà không giao vé hoặc giao vé không đúng chủng_loại phương_tiện lưu_thông_qua trạm thu phí ; để phương_tiện giao_thông đường_bộ ( đối_tượng phải mua vé ) không có vé đi qua trạm thu phí ;
+
+đ ) Không thực_hiện việc bảo_trì tài_sản của trạm thu phí ; tự_ý tháo_dỡ , thanh_lý , nhượng bán tài_sản của trạm thu phí ; không thực_hiện việc hiệu chuẩn , kiểm_định đối_với nhóm thiết_bị cần phải thực_hiện công_tác hiệu chuẩn , kiểm_định theo quy_định ;
+
+e ) Sử_dụng công_nghệ hoặc các phương_thức khác để truyền dữ_liệu lên Hệ_thống quản_lý , giám_sát thu không đúng thực_tế hoặc can_thiệp vào phần_mềm giám_sát thu tiền dịch_vụ sử_dụng đường_bộ dẫn đến sai khác lưu_lượng , doanh_thu tại trạm thu phí .
+
+9 . Có trách_nhiệm bồi_thường thiệt_hại cho Đơn_vị quản_lí thu trong trường_hợp tạm dừng thu , dừng thu , trừ thời_gian thu do lỗi của Đơn_vị vận_hành thu hoặc các trường_hợp khác theo quy_định tại hợp_đồng .
+
+Điều 22 . Trách_nhiệm của Nhà cung_cấp dịch_vụ thu
+
+1 . Thực_hiện trách_nhiệm của Nhà cung_cấp dịch_vụ thu được quy_định tại Điều 26 Quyết_định số 19/2020/QĐ-TTg, trừ trường_hợp có quy_định khác của cơ_quan có thẩm_quyền .
+
+2 . Sao lưu dữ_liệu thu theo quy_định tại khoản 5 Điều 10 Thông_tư này để phục_vụ công_tác giám_sát , hậu kiểm .
+
+3 . Đảm_bảo chỉ_số đánh_giá hiệu_năng vận_hành ( sau đây gọi tắt là Kpi ) hệ_thống kết_nối liên_thông và phối_hợp giữa các Nhà cung_cấp dịch_vụ thu theo quy_định tại Phụ_lục 2 ban_hành kèm theo Thông_tư này .
+
+4 . Đảm_bảo chỉ_số Kpi hệ_thống thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng tại các trạm thu phí phải đạt yêu_cầu tối_thiểu của cơ_quan có thẩm_quyền .
+
+5 . Chấp_hành_quyết_định tạm dừng thu , dừng thu của cơ_quan có thẩm_quyền hoặc của đơn_vị được cơ_quan có thẩm_quyền giao nhiệm_vụ quản_lí công_tác thu tiền dịch_vụ sử_dụng đường_bộ .
+
+6 . Phối_hợp với Đơn_vị vận_hành hệ_thống quản_lý , giám_sát thu thực_hiện đối soát dữ_liệu thu hàng ngày trên hệ_thống .
+
+7 . Không để xảy ra các hành_vi sau :
+
+a ) Gian_lận tiền dịch_vụ sử_dụng đường_bộ hoặc thông_đồng gian_lận trong hoạt_động thu tiền dịch_vụ sử_dụng đường_bộ ;
+
+b ) Can_thiệp vào hệ_thống công_nghệ thu , hệ_thống giám_sát , quản_lí thu , hệ_thống_thiết_bị kiểm_tra tải_trọng phương_tiện và tiêu_cực trong lĩnh_vực giám_sát tải_trọng phương_tiện ; báo_cáo sai doanh_thu nhằm gian_lận doanh_thu sử_dụng đường_bộ ;
+
+c ) Sử_dụng sai mục_đích tiền trong tài_khoản thu tiền dịch_vụ sử_dụng đường_bộ .
+
+8 . Có trách_nhiệm bồi_thường thiệt_hại cho Đơn_vị quản_lí thu trong trường_hợp tạm dừng thu , dừng thu , trừ thời_gian thu do lỗi của Nhà cung_cấp dịch_vụ thu hoặc các trường_hợp khác theo quy_định tại hợp_đồng .
+
+Điều 23 . Trách_nhiệm của Đơn_vị vận_hành hệ_thống quản_lý , giám_sát thu
+
+1 . Bố_trí đầy_đủ cán_bộ vận_hành , bảo_đảm hoạt_động ổn_định , liên_tục Hệ_thống quản_lý , giám_sát thu .
+
+2 . Phối_hợp với Đơn_vị quản_lí thu , Đơn_vị vận_hành thu , Nhà cung_cấp dịch_vụ thu thực_hiện đối soát dữ_liệu thu trên Hệ_thống quản_lý , giám_sát thu .
+
+3 . Thống_nhất với Đơn_vị quản_lí thu , Đơn_vị vận_hành thu , Nhà cung_cấp dịch_vụ thu cung_cấp báo_cáo theo điểm a , khoản 1 , Điều 25 Thông_tư này hoặc báo_cáo đột_xuất theo yêu_cầu của cơ_quan có thẩm_quyền thông_qua Hệ_thống quản_lý , giám_sát thu .
+
+4 . Tiếp_nhận , báo_cáo cấp có thẩm_quyền các khiếu_nại của Đơn_vị quản_lí thu , Đơn_vị vận_hành thu , Nhà cung_cấp dịch_vụ thu trong quá_trình thực_hiện .
+
+5 . Thông_báo các hành_vi gian_lận , vi_phạm_pháp_luật của chủ phương_tiện giao_thông đường_bộ cho Đơn_vị quản_lí thu và các cơ_quan có thẩm_quyền xử_lí theo quy_định của pháp_luật và các quy_định của hợp_đồng .
+
+6 . Thực_hiện bảo_trì , bảo_dưỡng , nâng_cấp Hệ_thống quản_lý , giám_sát thu bảo_đảm vận_hành ổn_định , liên_tục .
+
+7 . Bảo_đảm_bảo_mật thông_tin , an_toàn dữ_liệu thu theo quy_định .
+
+Điều 24 . Trách_nhiệm của cơ_quan quản_lí Nhà_nước
+
+1 . Tổng_cục Đường_bộ Việt_nam là cơ_quan thực_hiện chức_năng quản_lí nhà_nước về trạm thu phí và hoạt_động thu tiền dịch_vụ sử_dụng đường_bộ trên hệ_thống quốc_lộ , đường_cao_tốc thuộc hệ_thống đường trung_ương quản_lý . Chịu trách_nhiệm tổ_chức thực_hiện , thanh_tra , kiểm_tra việc hoạt_động của hệ_thống thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng và trạm thu phí trên hệ_thống đường_bộ theo quy_định của pháp_luật và Thông_tư này .
+
+2 . Cơ_quan có thẩm_quyền của địa_phương thực_hiện chức_năng quản_lí nhà_nước về trạm thu phí và hoạt_động thu tiền dịch_vụ sử_dụng đường_bộ trên hệ_thống đường địa_phương ; trên quốc_lộ , đường_cao_tốc mà cơ_quan có thẩm_quyền là Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương . Chịu trách_nhiệm tổ_chức thực_hiện , thanh_tra , kiểm_tra việc hoạt_động của hệ_thống thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng và trạm thu phí trên hệ_thống đường_bộ theo quy_định của pháp_luật và Thông_tư này .
+
+Điều 25 . Chế_độ báo_cáo
+
+1 . Đơn_vị quản_lí thu , Nhà cung_cấp dịch_vụ thu có trách_nhiệm thực_hiện báo_cáo định_kì gửi về cơ_quan có thẩm_quyền hoặc đơn_vị được cơ_quan có thẩm_quyền giao nhiệm_vụ quản_lí công_tác thu , quy_định như sau :
+
+a ) Tên báo_cáo : Báo_cáo định_kì về doanh_thu dịch_vụ sử_dụng đường_bộ , lưu_lượng phương_tiện tham_gia giao_thông_qua trạm thu phí và Báo_cáo định_kì việc quản_lý , sử_dụng tài_sản ;
+
+b ) Nội_dung yêu_cầu báo_cáo : Doanh_thu dịch_vụ sử_dụng đường_bộ , lưu_lượng phương_tiện tham_gia giao_thông_qua trạm ; tình_hình quản_lý , sử_dụng tài_sản ;
+
+c ) Đối_tượng thực_hiện báo_cáo : Đơn_vị quản_lí thu , Nhà cung_cấp dịch_vụ thu ;
+
+d ) Cơ_quan nhận báo_cáo : Cơ_quan có thẩm_quyền hoặc đơn_vị được cơ_quan có thẩm_quyền giao nhiệm_vụ quản_lí công_tác thu ;
+
+đ ) Phương_thức gửi , nhận báo_cáo : Gửi trực_tiếp hoặc qua dịch_vụ bưu_chính ;
+
+e ) Thời_hạn gửi báo_cáo :
+
+Báo_cáo doanh_thu dịch_vụ sử_dụng đường_bộ và lưu_lượng phương_tiện tham_gia giao_thông_qua trạm thu phí : Báo_cáo hàng tháng trước ngày 10 của tháng tiếp_theo ; báo_cáo 6 tháng đầu năm trước ngày 10 tháng 7 hàng năm ; báo_cáo năm trước ngày 28 tháng 02 của năm tiếp_theo .
+
+Báo_cáo việc quản_lý , sử_dụng tài_sản : Báo_cáo 6 tháng đầu năm trước ngày 10 tháng 7 hàng năm ; báo_cáo năm trước ngày 10 tháng 01 của năm tiếp_theo .
+
+g ) Tần_suất thực_hiện báo_cáo :
+
+Báo_cáo doanh_thu dịch_vụ sử_dụng đường_bộ và lưu_lượng phương_tiện tham_gia giao_thông_qua trạm thu phí : Báo_cáo định_kì hàng tháng , 6 tháng đầu năm và hàng năm .
+
+Báo_cáo việc quản_lý , sử_dụng tài_sản : Báo_cáo định_kì 6 tháng đầu năm và hàng năm .
+
+h ) Thời_gian chốt số_liệu báo_cáo :
+
+Báo_cáo hàng tháng : Từ ngày 01 đến hết tháng báo_cáo ;
+
+Báo_cáo 6 tháng đầu năm : Từ ngày 01 tháng 01 đến hết ngày 30 tháng 6 năm báo_cáo ;
+
+Báo_cáo năm : Từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 năm báo_cáo .
+
+i ) Mẫu biểu số_liệu báo_cáo :
+
+Báo_cáo doanh_thu dịch_vụ sử_dụng đường_bộ và lưu_lượng phương_tiện tham_gia giao_thông_qua trạm thu phí : Theo Mẫu_số 1 đến Mẫu_số 7 của Phụ_lục 3 ban_hành kèm theo Thông_tư này ;
+
+Báo_cáo việc quản_lý , sử_dụng tài_sản : Theo Mẫu_số 8 Phụ_lục 3 ban_hành kèm theo Thông_tư này .
+
+2 . Ngoài các báo_cáo định_kì theo quy_định tại khoản 1 điều này , Đơn_vị quản_lí thu , Nhà cung_cấp dịch_vụ thu có trách_nhiệm báo_cáo đột_xuất theo yêu_cầu của cơ_quan có thẩm_quyền hoặc của đơn_vị được cơ_quan có thẩm_quyền giao nhiệm_vụ quản_lí công_tác thu .
+
+3 . Đơn_vị quản_lí thu , Nhà cung_cấp dịch_vụ thu chịu trách_nhiệm về tính chính_xác của số_liệu báo_cáo . Riêng báo_cáo cả năm về doanh_thu dịch_vụ sử_dụng đường_bộ phải có kiểm_toán độc_lập kiểm_toán hoặc xác_nhận của cơ_quan thuế .
+
+Chương V
+
+Tạm Dừng Thu , Dừng Thu , Trừ Thời_gian Thu
+
+Điều 26 . Tạm dừng thu
+
+1 . Tạm dừng thu khi Doanh_nghiệp dự_án Pp , Đơn_vị quản_lí thu vi_phạm chất_lượng bảo_trì công_trình đường_bộ đã được cơ_quan có thẩm_quyền có văn_bản nhắc_nhở 02 lần kèm theo thời_hạn khắc_phục . Chi_tiết cụ_thể về các hành_vi vi_phạm chất_lượng bảo_trì công_trình được quy_định trong Phụ_lục 4 ban_hành kèm theo Thông_tư này . Thời_gian tạm dừng thu được tính từ thời_điểm yêu_cầu ghi trong văn_bản tạm dừng cho đến khi Doanh_nghiệp dự_án Pp , Đơn_vị quản_lí thu khắc_phục xong , nhưng không ít hơn 01 ngày .
+
+2 . Tạm dừng thu khi Doanh_nghiệp dự_án Pp , Đơn_vị quản_lí thu , Đơn_vị vận_hành thu , Nhà cung_cấp dịch_vụ thu để xảy ra các tình_huống có nguy_cơ mất an_toàn giao_thông , ùn_tắc giao_thông kéo_dài trên tuyến đường , đã được cơ_quan có thẩm_quyền yêu_cầu khắc_phục 02 lần bằng văn_bản kèm theo thời_hạn khắc_phục nhưng không khắc_phục hoặc chậm khắc_phục . Thời_gian tạm dừng thu được tính từ thời_điểm yêu_cầu ghi trong văn_bản dừng cho đến khi Doanh_nghiệp dự_án Pp , Đơn_vị quản_lí thu , Đơn_vị vận_hành thu , Nhà cung_cấp dịch_vụ thu khắc_phục xong , nhưng không ít hơn 01 ngày .
+
+3 . Tạm dừng thu khi Đơn_vị vận_hành thu có các hành_vi vi_phạm điểm a , điểm b khoản 8 Điều 21 Thông_tư này , Nhà cung_cấp dịch_vụ thu có các hành_vi vi_phạm điểm a , điểm b khoản 7 Điều 22 Thông_tư này . Thời_gian tạm dừng thu được tính từ thời_điểm yêu_cầu ghi trong văn_bản tạm dừng cho đến khi Đơn_vị vận_hành thu , Nhà cung_cấp dịch_vụ thu khắc_phục xong hậu_quả của lỗi vi_phạm và được cơ_quan có thẩm_quyền có văn_bản cho phép thu phí trở_lại .
+
+4 . Tạm dừng thu khi Đơn_vị vận_hành thu có hành_vi vi_phạm khoản 4 Điều 21 Thông_tư này , đã được cơ_quan có thẩm_quyền yêu_cầu thực_hiện ít_nhất 02 lần bằng văn_bản kèm theo thời_hạn khắc_phục . Thời_gian tạm dừng thu được tính từ thời_điểm yêu_cầu ghi trong văn_bản tạm dừng cho đến khi Đơn_vị vận_hành thu hoàn_thành các nội_dung quy_định tại khoản 4 Điều 21 Thông_tư này .
+
+5 . Tạm dừng thu khi hệ_thống công_nghệ , thiết_bị phục_vụ trực_tiếp cho việc thu tiền dịch_vụ sử_dụng đường_bộ bị trục_trặc , hư_hỏng không được khắc_phục kịp_thời theo quy_định tại khoản 5 Điều 21 Thông_tư này , thời_gian tạm dừng thu được tính từ thời_điểm yêu_cầu ghi trong văn_bản tạm dừng cho đến khi Đơn_vị vận_hành thu khắc_phục xong sự_cố và được cơ_quan có thẩm_quyền có văn_bản cho phép thu phí trở_lại .
+
+6 . Tạm dừng thu khi có yêu_cầu của cơ_quan có thẩm_quyền trong trường_hợp có dịch_bệnh , thiên_tai , chiến_tranh hoặc phục_vụ an_ninh , quốc_phòng hoặc thực_hiện theo chủ_trương , chính_sách của Nhà_nước .
+
+7 . Tạm dừng thu trong trường_hợp Đơn_vị quản_lí thu , Đơn_vị vận_hành thu hoặc Nhà cung_cấp dịch_vụ thu cố_tình trì_hoãn , không tuân_thủ các quyết_định của cơ_quan có thẩm_quyền .
+
+8 . Các trường_hợp tạm dừng thu không do lỗi của Đơn_vị quản_lí thu , Đơn_vị vận_hành thu , Nhà cung_cấp dịch_vụ thu được xử_lí theo quy_định của pháp_luật hoặc hợp_đồng dịch_vụ thu .
+
+Điều 27 . Dừng thu
+
+1 . Trường_hợp dự_án hết thời_gian thu hoàn vốn theo hợp_đồng , Đơn_vị quản_lí thu phải chủ_động dừng thu hoặc chấp_hành_quyết_định dừng thu của của cơ_quan có thẩm_quyền ( hoặc của đơn_vị được cơ_quan có thẩm_quyền giao nhiệm_vụ quản_lí công_tác thu tiền dịch_vụ sử_dụng đường_bộ ) . Việc xác_định thời_gian dừng thu được xác_định theo hợp_đồng thu của cơ_quan có thẩm_quyền với Đơn_vị quản_lí thu hoặc hợp_đồng với Doanh_nghiệp dự_án Pp .
+
+2 . Dừng thu phí trong các trường_hợp quy_định tại khoản 2 , Điều 52 Luật Đầu_tư theo phương_thức đối_tác công tư .
+
+Điều 28 . Trừ thời_gian thu
+
+1 . Trừ thời_gian thu khi Đơn_vị vận_hành thu , Nhà cung_cấp dịch_vụ thu không thực_hiện việc sao lưu dữ_liệu thu hoặc sao lưu dữ_liệu không đầy_đủ theo quy_định tại Điều 10 của Thông_tư này , trừ trường_hợp có_lí_do chính_đáng được cấp có thẩm_quyền chấp_thuận . Thời_gian thu bị trừ là 02 ngày trong trường_hợp không sao lưu dữ_liệu từ 10 đến 15 ngày ; thời_gian thu bị trừ là 04 ngày trong trường_hợp không sao lưu dữ_liệu từ 16 ngày đến hết 30 ngày ; đối_với trường_hợp không sao lưu dữ_liệu từ ngày 31 trở_đi , cứ 05 ngày không sao lưu dữ_liệu thì thời_gian thu bị trừ 02 ngày .
+
+2 . Trừ thời_gian thu khi Đơn_vị quản_lí thu , Đơn_vị vận_hành thu , Nhà cung_cấp dịch_vụ thu không thực_hiện báo_cáo theo quy_định tại Điều 25 Thông_tư này hoặc không nộp phí sử_dụng tài_sản nhà_nước , không nộp tiền thuê quyền khai_thác tài_sản hạ_tầng đường_bộ theo quy_định hiện_hành khi cơ_quan có thẩm_quyền có văn_bản nhắc_nhở 02 lần , mỗi lần cách nhau không dưới 05 ngày . Thời_gian thu bị trừ là 01 ngày trong trường_hợp chậm nộp báo_cáo từ 10 ngày đến 30 ngày ; thời_gian thu bị trừ 02 ngày trong trường_hợp chậm nộp báo_cáo từ 31 ngày đến 60 ngày ; đối_với trường_hợp chậm nộp báo_cáo từ 61 ngày trở_đi , cứ 05 ngày chậm nộp báo_cáo thì thời_gian thu bị trừ 01 ngày .
+
+Điều 29 . Tổ_chức tạm dừng thu , dừng thu , trừ thời_gian thu
+
+1 . Cơ_quan có thẩm_quyền quyết_định tạm dừng thu , dừng thu hoặc trừ thời_gian thu :
+
+a ) Tổng_cục Đường_bộ Việt_nam quyết_định việc tạm dừng thu , dừng thu hoặc trừ thời_gian thu đối_với các trạm thu phí trên hệ_thống quốc_lộ , đường_cao_tốc thuộc mạng_lưới đường_bộ do Trung_ương quản_lý ;
+
+b ) Đối_với các trạm thu phí trên hệ_thống đường địa_phương và các trạm thu phí trên quốc_lộ , đường_cao_tốc mà cơ_quan có thẩm_quyền là Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương , cơ_quan có thẩm_quyền của địa_phương quyết_định việc tạm dừng thu , dừng thu hoặc trừ thời_gian thu theo thẩm_quyền .
+
+2 . Thời_gian do việc tạm dừng thu trong các trường_hợp quy_định tại khoản 1 , khoản 2 , khoản 3 , khoản 4 , khoản 5 , khoản 7 Điều 26 Thông_tư này không được tính để kéo_dài thời_gian thu tiền dịch_vụ sử_dụng đường_bộ theo hợp_đồng đã kí giữa cơ_quan có thẩm_quyền và Doanh_nghiệp dự_án Pp .
+
+3 . Doanh_thu mỗi ngày tạm dừng thu được tính bằng doanh_thu bình_quân một ngày của tháng sau liền kề sau khi tạm dừng thu . Đối_với trường_hợp Đơn_vị vận_hành thu có hành_vi vi_phạm_quy_định tại điểm a , điểm b khoản 8 Điều 21 Thông_tư này , Nhà cung_cấp dịch_vụ thu có hành_vi vi_phạm điểm a , điểm b khoản 7 Điều 22 Thông_tư này ngoài việc bị tạm dừng thu theo quy_định tại khoản 3 Điều 26 Thông_tư này , doanh_thu mỗi ngày tạm dừng thu được xác_định bằng 03 lần ngày có doanh_thu cao nhất của tháng sau liền kề .
+
+Doanh_thu bình_quân một ngày trong tháng là doanh_thu bình_quân một ngày của tổng_doanh_thu vé lượt , vé tháng , vé quý được ghi_nhận trong tháng .
+
+4 . Trong thời_gian tạm dừng thu , Đơn_vị quản_lí thu , Đơn_vị vận_hành thu , Nhà cung_cấp dịch_vụ thu có trách_nhiệm đảm_bảo giao_thông thông_suốt , an_toàn , không được phép gây cản_trở , ùn_tắc giao_thông và thông_báo rộng_rãi trên các phương_tiện thông_tin đại_chúng ở Trung_ương và địa_phương , cũng như công_khai tại trạm thu phí .
+
+5 . Các trường_hợp trừ thời_gian thu được tính trừ vào cuối thời_điểm hoàn vốn của dự_án khi quyết_toán hợp_đồng dự_án .
+
+Chương_vi
+
+Điều_khoản Thi_hành
+
+Điều 30 . Xử_lí chuyển_tiếp
+
+1 . Đối_với các hợp_đồng dự_án đang đàm_phán , chưa kí_kết , cơ_quan thẩm_quyền căn_cứ vào quy_định của Thông_tư này để rà_soát điều_chỉnh , cập_nhật các điều_khoản liên_quan trong hợp_đồng dự_án .
+
+2 . Đối_với các trạm thu phí đã được xác_định vị_trí và kí_kết_hợp_đồng , phụ_lục hợp_đồng theo hình_thức đối_tác công tư đã kí trước ngày Thông_tư này có hiệu_lực thì thực_hiện theo hợp_đồng , phụ_lục hợp_đồng đã ký . Đối_với chi_phí vận_hành thu tiền dịch_vụ sử_dụng đường_bộ từ thời_điểm chuyển sang thu tiền dịch_vụ sử_dụng đường_bộ điện_tử không dừng thì thực_hiện theo quy_định tại Thông_tư này , các quy_định khác có liên_quan và Hợp_đồng đã ký .
+
+Điều 31 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 31 tháng 03 năm 2022 và thay_thế Thông_tư số 15/2020/TT-BGTVT ngày 22 tháng 7 năm 2020 của Bộ Giao_thông vận_tải quy_định về hoạt_động của trạm thu phí dịch_vụ sử_dụng đường_bộ .
+
+2 . Trường_hợp các văn_bản viện_dẫn tại Thông_tư này được sửa_đổi , bổ_sung , thay_thế_thì áp_dụng các quy_định tại các văn_bản sửa_đổi , bổ_sung , thay_thế đó .
+
+Điều 32 . Tổ_chức thực_hiện
+
+1 . Chánh Văn_phòng Bộ , Chánh Thanh_tra Bộ , các Vụ_trưởng , Tổng_cục_trưởng Tổng_cục Đường_bộ Việt_nam , thủ_trưởng các cơ_quan , tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị các tổ_chức , cá_nhân kịp_thời phản_ánh về Bộ Giao_thông vận_tải để xem_xét , giải_quyết .

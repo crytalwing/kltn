@@ -1,0 +1,1125 @@
+Thông_tư số 34/2020/tt-btttt ngày 06 tháng 11 năm 2020 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Tần_số vô_tuyến_điện ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều <LT rel="CC"> Luật tiêu_chuẩn và quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị vô_tuyến cự_li ngắn băng tần 1 GHz đến 40 GHz .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị vô_tuyến cự_li ngắn băng tần 1 GHz đến 40 GHz ( qcvn 74 : 2020 / bt ) .
+
+Điều 2 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2021 .
+
+2 . Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị vô_tuyến cự_li ngắn dải_tần 1 GHz - 40 GHz , Ký_hiệu Qcvn 74 : 2013 / bt quy_định tại khoản 6 Điều 1 <TT rel="HHL"> Thông_tư số 16/2013/TT-BTTTT ngày 10 tháng 7 năm 2013 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_chuẩn kĩ_thuật quốc_gia hết hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2021 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 74 : 2020 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Thiết_bị Vô_tuyến Cự_ly Ngắn_băng_tần 1 Ghz Đến 40 Ghz National technical regulation on Short Range_device ( srd ) - Radio equipment to be used in the 1 GHz to 40 GHz frequency range
+
+Lời_nói_đầu
+
+Qcvn 74 : 2020 / bt thay_thế Qcvn 74 : 2013 / bt .
+
+Qcvn 74 : 2020 / bt do Viện Khoa_học Kỹ_thuật Bưu_điện biên_soạn , Vụ Khoa_học và Công_nghệ trình_duyệt , Bộ Khoa_học và Công_nghệ thẩm_định , Bộ Thông_tin và Truyền_thông ban_hành kèm theo <TT rel="DC"> Thông_tư số 34/2020/TT </TT>- Bt ngày 06 tháng 11 năm 2020 .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Thiết_bị Vô_tuyến Cự_ly Ngắn_băng_tần 1 Ghz Đến 40 Ghz
+
+National technical regulation on Short Range_device ( srd ) - Radio equipment to be used in the 1 GHz to 40 GHz frequency range
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn này áp_dụng cho các loại thiết_bị vô_tuyến cự_li ngắn ( srd ) sau :
+
+- Máy thu phát vô_tuyến cự_li ngắn loại phổ_dụng : cảnh_báo , điều_khiển , đo_đạc từ xa , truyền dữ_liệu . . . ;
+
+- Máy nhận_dạng vật_thể bằng sóng vô_tuyến_điện ( rfid ) ;
+
+- Máy xác_định vô_tuyến : thiết_bị phát_hiện đối_tượng , di_chuyển vật_thể và các ứng_dụng cảnh_báo hoặc báo_động từ xa .
+
+Quy_chuẩn này áp_dụng đối_với sản_phẩm , hàng_hoá là thiết_bị vô_tuyến cự_li ngắn có mã_số Hs quy_định tại Phụ_lục D .
+
+Tất_cả các thiết_bị vô_tuyến cự_li ngắn phải tuân_thủ các quy_định về quy_hoạch tần_số và phân kênh tần_số của Việt_nam . Các loại thiết_bị vô_tuyến liệt_kê ở trên hoạt_động trong băng tần 1 GHz đến 40 GHz ( như quy_định trong Bảng 1 ) cho các trường_hợp :
+
+- Có kết_nối ra ( rf ) với ăng ten riêng_biệt ( ăng ten rời ) hoặc ăng ten được kết_hợp bên trong máy thu phát vô_tuyến ( ăng ten liền ) ;
+
+- Mọi loại điều_chế khác nhau ;
+
+- Có thoại hoặc phi_thoại .
+
+Bảng 1 - Băng tần được phép sử_dụng cho thiết_bị vô_tuyến cự_li ngắn băng tần 1 GHz đến 40 GHz
+
+Quy_chuẩn này áp_dụng cho các trạm cố_định , trạm di_động và trạm di_chuyển được và không áp_dụng cho các ứng_dụng sử_dụng công_nghệ Uwb .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn kĩ_thuật này được áp_dụng cho các cơ_quan , tổ_chức , cá_nhân Việt_nam và nước_ngoài có hoạt_động_sản_xuất , kinh_doanh thiết_bị thuộc phạm_vi điều_chỉnh của Quy_chuẩn này trên toàn lãnh_thổ Việt_nam .
+
+1 . 3 . Tài_liệu viện_dẫn
+
+[ 1 ] Cispr 16-1-1 ( 2015 ) : " Specification for radio disturbance and immunity measuring apparatus and methods ; Part 1-1: Radio disturbance and immunity measuring apparatus - Measuring apparatus " .
+
+[ 2 ] Cispr 16-1-4 ( 2010 ) : " Specification for radio disturbance and immunity measuring apparatus and methods ; Part 1-4: Radio disturbance and immunity measuring apparatus - Antennas and test sites for radiated disturbance measurements .
+
+[ 3 ] Cispr 16-1-5 ( 2014 ) : " Specification for radio disturbance and immunity measuring apparatus and methods ; Part 1-5: Radio disturbance and immunity measuring apparatus - Antenna calibration sites and reference test sites for 5 MHz to 18 GHz " .
+
+[ 4 ] Recommendation_itu - t O . 41 ( 1994 ) : " Psophometer for use on telephone - type circuits " .
+
+[ 5 ] Recommendation_itu - t O . 153 ( 1992 ) : " Basic parameters for the measurement of error performance at bit rates below the primary rate " .
+
+[ 6 ] Commission Implementing_decision ( eu ) 2017/1483 of 8 August 2017 amending Decision 2006/771/EC on harmonisation of the radio spectrum for use bi short - range devices and repealing Decision 2006/804/EC.
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 4 . 1 . Kênh lân_cận ( adjacent channels )
+
+Hai kênh tần_số nằm cách tần_số trung_tâm của kênh danh định một khoảng tần_số bằng băng_thông của kênh danh định .
+
+1 . 4 . 2 . Cảnh_báo ( alarm )
+
+Dùng thông_tin vô_tuyến để chỉ điều_kiện nguy_hiểm ở một vị_trí nào đó .
+
+1 . 4 . 3 . Ăng ten giả ( artificial antenna )
+
+Một tải giả không bức_xạ , có trở_kháng danh định bằng trở_kháng ra của thiết_bị cần đo . Mức trở_kháng này dò nhà cung_cấp_thiết_bị quy_định .
+
+1 . 4 . 4 . Băng tần_số được ấn_định ( assigned frequency band )
+
+Băng tần_số mà thiết_bị vô_tuyến được phép hoạt_động để thực_hiện đầy_đủ các chức_năng đã được thiết_kế cho thiết_bị .
+
+1 . 4 . 5 . Chip ( chip )
+
+Đơn_vị điều_chế dùng trong điều_chế trải phổ chuỗi trực_tiếp ( ds ) .
+
+1 . 4 . 6 . Tốc_độ chip ( chip rate )
+
+Số chip được truyền trong 1 s .
+
+1 . 4 . 7 . Đo dẫn ( conducted measurements )
+
+Các phép đo được thực_hiện bằng cách sử_dụng kết_nối trực_tiếp với thiết_bị được đo .
+
+1 . 4 . 8 . Thời_gian bật tích_luỹ ( Ton _ cum ) ( cumulative on - time ( Ton _ cum ) )
+
+Tổng_thời_gian bật Ton trong thời_gian quan_sát Tobs .
+
+1 . 4 . 9 . Ăng ten rời ( dedicated antenna )
+
+Ăng ten có_thể tháo rời và được đo kiểm với thiết_bị vô_tuyến , được thiết_kế như một phần không_thể thiếu của thiết_bị .
+
+1 . 4 . 10 . Trải phổ chuỗi trực_tiếp ( direct sequence spread specrum )
+
+Phương_thức điều_chế bằng cách sử_dụng kết_hợp dữ_liệu cần phát và chuỗi mã cố_định để điều_chế trực_tiếp sóng mang .
+
+1 . 4 . 11 . Tần_suất phát ( duty cycle ( dc ) )
+
+Tỉ_lệ phần_trăm giữa tổng_thời_gian phát Ton _ cum trên tổng_thời_gian quan_sát Tobs trong băng_thông giám_sát Fobs .
+
+1 . 4 . 12 . Công_suất bức_xạ đẳng_hướng tương_đương ( equivalent iso tro pi cal y radiated power )
+
+Công_suất bức_xạ tối_đa của máy phát và ăng ten của nó .
+
+1 . 4 . 13 . Trạm cố_định ( fixed station )
+
+Thiết_bị dự_định dùng tại một vị_trí cố_định .
+
+1 . 4 . 14 . Trải phổ nhảy tần ( frequency hopping spread spectrum )
+
+Một phương_thức trải phổ trong đó tín_hiệu phát chiếm một_số tần_số nhất_định theo thời_gian theo một lịch_trình đã lập sẵn .
+
+1 . 4 . 15 . Hệ_thống nhận_dạng ( identification system )
+
+Hệ_thống gồm máy phát , máy thu ( hoặc kết_hợp cả hai ) và ăng ten . Hệ_thống này nhận_dạng vật_thể thông_qua một bộ phát đáp .
+
+1 . 4 . 16 . Ăng ten liền ( integral antenna )
+
+Ăng ten cố_định , có_thể_tích_hợp sẵn , được thiết_kế như một phần không_thể thiếu của thiết_bị .
+
+1 . 4 . 17 . Máy_di_động ( mobile station )
+
+Thiết_bị được gắn trên các phương_tiện di_động hoặc dùng như một thiết_bị di_động .
+
+1 . 4 . 18 . Băng_thông_quan_sát ( Fobs ) ( observation bandwidth )
+
+Băng_thông được sử_dụng trong mục_đích đánh_giá thời_gian phát .
+
+1 . 4 . 19 . Thời_gian quan_sát ( Tobs ) ( observation period )
+
+Khoảng thời_gian_tham_chiếu .
+
+1 . 4 . 20 . Băng_thông chiếm_dụng ( occupied bandwidth )
+
+Độ rộng của băng tần_số sao cho công_suất bức_xạ trung_bình bên ngoài băng_thông này chỉ bằng 0 , 5 % công_suất bức_xạ tổng .
+
+1 . 4 . 21 . off - time ( Toff )
+
+Khoảng thời_gian giữa hai lần truyền liên_tiếp .
+
+1 . 4 . 22 . on - time ( Ton )
+
+Khoảng thời_gian trên một kênh hoạt_động ( oc ) dùng cho mục_đích phát .
+
+1 . 4 . 23 . Kênh hoạt_động ( oc ) ( Operating_channel )
+
+Dải_tần từ Flow đến Fhigh , thiết_bị chỉ được phát tín_hiệu trong dải_tần này .
+
+1 . 4 . 24 . Độ rộng kênh hoạt_động ( ocw ) ( Operating Channel_width )
+
+Băng_thông giữa hai tần_số Flow và Fhigh .
+
+1 . 4 . 25 . Tần_số hoạt_động ( operating frequency )
+
+Tần_số danh định của thiết_bị được hoạt_động / vận_hành . Thuật_ngữ này có_thể sử_dụng tương_đương với " tần_số hoạt_động trung_tâm " .
+
+Chú_thích : Thiết_bị có_thể hoạt_động ở nhiều tần_số hoạt_động .
+
+1 . 4 . 26 . Dải_tần_số hoạt_động ( operating frequency range )
+
+Dải_tần_số cho phép thiết_bị thực_hiện việc điều_chỉnh bằng cách chỉnh mạch , chuyển mạch hoặc thiết_lập lại các trạng_thái .
+
+1 . 4 . 27 . Bức_xạ ngoài băng ( out - of - band emissions )
+
+Bức_xạ trên một tần_số hoặc một_vài tần_số đồng_thời cùng với bức_xạ chính ngoài băng_thông cần_thiết do quá_trình điều_chế gây ra nhưng không phải là bức_xạ giả .
+
+1 . 4 . 28 . Thiết_bị di_động ( portable station )
+
+Thiết_bị có_thể di_chuyển được .
+
+1 . 4 . 29 . Đo bức_xạ ( radiated measurements )
+
+Các phép đo liên_quan đến đo giá_trị tuyệt_đối trường bức_xạ .
+
+1 . 4 . 30 . Xác_định bằng vô_tuyến_điện ( radiodetermination )
+
+Xác_định vị_trí , tốc_độ và một_số đặc_điểm khác của vật_thể hoặc thu_thập thông_tin về các thông_số vật_thể bằng phương_pháp truyền sóng vô_tuyến .
+
+1 . 4 . 31 . Trải_phổ ( spread apectrum )
+
+Kỹ_thuật điều_chế trong đó năng_lượng tín_hiệu phát được phân_bố trải rộng trên phổ tần_số vô_tuyến .
+
+1 . 4 . 32 . Bức_xạ giả ( spurious emissions )
+
+Bức_xạ trên một tần_số hoặc một vải tần_số ngoài băng_thông cần_thiết và sự suy_giảm mức bức_xạ này không ảnh_hưởng đến chất_lượng truyền tin .
+
+1 . 4 . 33 . Điều_khiển từ xa ( telecomand )
+
+Việc sử_dụng thông_tin vô_tuyến_điện để truyền các tín_hiệu khởi tạo , thay_đổi hoặc kết_thúc một quá_trình từ khoảng_cách xa .
+
+1 . 4 . 34 . Đo_đạc từ xa ( telemetry )
+
+Dùng thông_tin vô_tuyến để thu_thập và ghi lại số_liệu từ khoảng_cách xa .
+
+1 . 4 . 35 . Bộ phát đáp ( transponder )
+
+Thiết_bị thu_nhận và phát lại tín_hiệu thu được ban_đầu .
+
+1 . 4 . 36 . Công_nghệ Băng siêu rộng ( Ultra Wide_band ( uwb ) technology )
+
+Công_nghệ dành cho thông_tin vô_tuyến cự_li ngắn , liên_quan đến việc tạo và truyền năng_lượng tần_số vô_tuyến có chủ_đích trên một dải_tần_số rất lớn , có_thể chồng_lấn một_số dải_tần được phân_bổ cho các dịch_vụ thông_tin vô_tuyến như được định_nghĩa trong Khuyến_nghị Sm . 1755 của Itu - r .
+
+1 . 4 . 37 . Kênh lân_cận kế_tiếp ( alternate adjacent channels )
+
+Những kênh tần_số có độ lệch tần_số so với kênh danh định bằng hai lần băng_thông kênh danh định .
+
+Hình 1 - Định_nghĩa kênh lân_cận và kênh lân_cận kế_tiếp
+
+1 . 5 . Ký_hiệu
+
+Dam Kích_thước khẩu_độ của ăng ten bức_xạ
+
+E Cường_độ điện_trường
+
+f Tần_số
+
+P_Công_suất
+
+R Khoảng_cách
+
+t Thời_gian
+
+Bước_sóng
+
+1 . 6 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Điều_kiện môi_trường
+
+Các yêu_cầu kĩ_thuật áp_dụng trong điều_kiện môi_trường vận_hành thiết_bị được nhà sản_xuất công_bố . Thiết_bị phải tuân_thủ tất_cả các yêu_cầu kĩ_thuật của Quy_chuẩn này được khi áp_dụng các phép đo đáp_ứng yêu_cầu trong Phụ_lục A dưới điều_kiện môi_trường vận_hành của thiết_bị .
+
+2 . 2 . Đo kiểm_tra sự tuân_thủ các yêu_cầu kĩ_thuật
+
+2 . 2 . 1 . Điều_kiện môi_trường để đo_kiểm
+
+Các yêu_cầu kĩ_thuật của quy_chuẩn này áp_dụng trong điều_kiện môi_trường hoạt_động của thiết_bị do nhà sản_xuất công_bố / khai_báo . Thiết_bị này phải tuân_thủ mọi yêu_cầu kĩ_thuật của quy_chuẩn này khi hoạt_động trong giới_hạn biên của điều_kiện hoạt_động môi_trường được khai_báo .
+
+2 . 2 . 2 . Thiết_bị đo_kiểm
+
+2 . 2 . 2 . 1 . Tổng_quát
+
+Tài_liệu kĩ_thuật và hướng_dẫn vận_hành để thực_hiện đo kiểm phải được cung_cấp , hỗ_trợ đầy_đủ .
+
+Phương_tiện cố_định thiết_bị đo cho thiết_bị có ăng ten tích_hợp có_thể được cung_cấp ( xem 2 . 2 . 7 . 3 ) .
+
+Để đơn_giản_hoá và hài_hoà các quy_trình đo giữa các phòng đo khác nhau , các phép đo phải được thực_hiện trên các mẫu thiết_bị đáp_ứng yêu_cầu trong 2 . 2 . 2 . 2 đến 2 . 2 . 2 . 4 . Khi đó , các yêu_cầu đặt ra trong quy_chuẩn này sẽ được đáp_ứng mà không cần thực_hiện các phép đo trên tất_cả các tần_số .
+
+2 . 2 . 2 . 2 . Lựa_chọn mô_hình đo_kiểm
+
+Nếu thiết_bị có một_số chức_năng tuỳ chọn nhưng không gây ảnh_hưởng đến các thông_số vô_tuyến ( rf ) , chỉ cần đo kiểm thiết_bị với một cấu_hình sao cho kết_hợp được tất_cả các đặc_điểm phức_tạp nhất . Thiết_bị cần đo kiểm phải có đầu kết_nối ra có trở_kháng Rf 50 để đo công_suất dẫn .
+
+Trong trường_hợp thiết_bị dùng ăng ten trong , nhưng không có đầu kết_nối cố_định Rf 50 , phải có một mẫu thiết_bị thứ hai có kết_nối tạm_thời ăng ten bên ngoài trở_kháng 50 , phù_hợp với yêu_cầu đo kiểm ( xem 2 . 2 . 2 . 4 ) .
+
+2 . 2 . 2 . 3 . Đo_kiểm thiết_bị với các mức công_suất khác nhau
+
+Nếu thiết_bị cần đo có mức công_suất phát khác nhau do nhiều khối công_suất riêng tạo thành , hoặc bằng cách cộng thêm các tầng công_suất hoặc thiết_bị có tần_số phát thay_đổi , tất_cả các thông_tin trên phải được khai_báo trong tài_liệu kĩ_thuật . Mỗi khối công_suất hoặc mỗi tầng công_suất cộng thêm cần được đo kiểm kết_hợp với thiết_bị . Số mẫu thử cần_thiết và các phép thử cần được dựa trên các yêu_cầu của 2 . 2 . 2 . Trong trường_hợp tối_giản , các phép đo công_suất bức_xạ ( e . i . r . p . ) , bức_xạ giả phải được thực_hiện cho từng tổ_hợp và phải được ghi lại trong báo_cáo đo kiểm .
+
+2 . 2 . 2 . 4 . Đo_kiểm thiết_bị không có đầu nối Rf 50 bên ngoài ( thiết_bị dùng ăng ten liền )
+
+2 . 2 . 2 . 4 . 1 . Thiết_bị có đầu nối ăng ten tạm_thời hoặc cố_định bên trong hoặc sử_dụng bộ ghép đo chuyên_dụng
+
+Để hỗ_trợ cho việc đo kiểm , các đầu truy_nhập thiết_bị , đầu kết_nối cố_định hoặc tạm_thời cần được ghi rõ trên sơ_đồ mạch . Nhà cung_cấp_thiết_bị có_thể trang_bị các hộp ghép đo phù_hợp . Việc sử_dụng hộp ghép đo , kết_nối ăng ten trong hoặc kết_nối tạm_thời ăng ten ngoài cụ_thể phải được ghi lại trong báo_cáo đo kiểm .
+
+Thông_tin về hộp ghép đo được cho trong 2 . 2 . 7 . 3 .
+
+2 . 2 . 2 . 4 . 2 . Thiết_bị có đầu nối ăng ten tạm_thời
+
+Có_thể đo bức_xạ cho thiết_bị có kết_nối với ăng ten chuẩn . Nhà cung_cấp_thiết_bị phải phối_hợp , hỗ_trợ các phòng đo khi xác_định kết_quả phép đo bức_xạ , tháo ăng ten và lắp đầu kết_nối tạm_thời ăng ten ngoài .
+
+Nói một_cách khác , có hai loại thiết_bị cần đo trong phòng đo : Một loại thiết_bị được nối với đầu kết_nối tạm_thời , một loại thiết_bị có ăng ten đang được kết_nối . Các phép đo được thực_hiện bằng cách sử_dụng kết_hợp giữa hai loại thiết_bị trên . Bên có thiết_bị cần đo phải công_bố hai mẫu thiết_bị như nhau trong quy_chuẩn , ngoại_trừ đầu kết_nối ăng ten .
+
+2 . 2 . 2 . 5 . Đo_kiểm các thiết_bị không hoạt_động liên_tục
+
+Khi thực_hiện các phép đo máy phát trên thiết_bị được thiết_kế để hoạt_động không liên_tục , cần đảm_bảo để không bật máy vượt quá chu_kì hoạt_động tối_đa . Chu_kì hoạt_động thực_tế được sử_dụng phải được ghi lại và nêu trong báo_cáo đo kiểm .
+
+Chú_thích : Không nên nhầm_lẫn chu_kì làm_việc tối_đa của máy phát đang thử với chu_kì làm_việc của thiết_bị trong điều_kiện hoạt_động bình_thường .
+
+Khi thực_hiện các phép đo máy phát trên thiết_bị được thiết_kế cho hoạt_động không liên_tục , có_thể chu_kì hoạt_động được sử_dụng lớn hơn chu_kì hoạt_động bình_thường_khi vận_hành . Trong trường_hợp này , cần chú_ý để tránh các hiệu_ứng làm nóng có ảnh_hưởng xấu đến thiết_bị và các thông_số được đo . Thời_gian tương_ứng chu_trình tối_đa khi đo phải được phòng đo thông_báo trước .
+
+2 . 2 . 3 . Thiết_kế cơ và điện
+
+2 . 2 . 3 . 1 . Tổng_quát
+
+Máy_phát và máy thu có_thể là các khối riêng hoặc nằm kết_hợp trong một khối .
+
+2 . 2 . 3 . 2 . Chức_năng tự_động tắt máy_phát
+
+Nếu máy phát có chức_năng ngắt tự_động , chức_năng này phải ngắt trong thời_gian đo . Trong trường_hợp không_thể ngắt chức_năng này , một phương_pháp đo thích_hợp sẽ được mô_tả và ghi lại .
+
+2 . 2 . 3 . 3 . Ngăn chức_năng giảm ồn và tiết_kiệm pin ở máy thu
+
+Nếu máy thu có chức_năng làm yên_lặng , khử ồn hoặc tiết_kiệm pin , chức_năng này phải được ngắt trong thời_gian đo . Trong trường_hợp không_thể ngắt chức_năng này , một phương_pháp đo thích_hợp sẽ được mô_tả và ghi lại .
+
+2 . 2 . 4 . Thiết_bị đo kiểm phụ_trợ
+
+Thông_tin cài_đặt và nguồn tín_hiệu đo đặc_dụng phải được gửi kèm cùng thiết_bị khi đo kiểm .
+
+2 . 2 . 5 . Nguồn điện đo_kiểm
+
+2 . 2 . 5 . 1 . Tổng_quát
+
+Thiết_bị phải được kiểm_tra bằng cách sử_dụng nguồn điện đo thích_hợp theo quy_định tại 2 . 2 . 5 . 2 hoặc 2 . 2 . 5 . 3 . Trong trường_hợp được cấp nguồn bằng nguồn điện bên ngoài và bên trong , thiết_bị phải được kiểm_tra bằng cách sử_dụng nguồn năng_lượng bên ngoài như quy_định tại 2 . 2 . 5 . 2 , sau đó lặp lại sử_dụng nguồn điện bên trong như quy_định tại 2 . 2 . 5 . 3 .
+
+Nguồn năng_lượng đo được sử_dụng phải được nêu trong báo_cáo đo kiểm .
+
+2 . 2 . 5 . 2 . Nguồn điện đo kiểm bên ngoài
+
+Trong quá_trình đo , nguồn điện của thiết_bị phải được thay_thế bằng nguồn năng_lượng đo bên ngoài có khả_năng tạo ra điện_áp đo bình_thường và cực_đoan như trong 2 . 2 . 6 . 2 và 2 . 2 . 7 . 2 . Trở_kháng bên trong của nguồn điện đo bên ngoài phải đủ thấp để mức_độ ảnh_hưởng đến kết_quả đo không đáng_kể . Đối_với mục_đích đo , điện_áp của nguồn điện đo bên ngoài phải được đo tại các đầu_vào của thiết_bị . Nguồn năng_lượng đo bên ngoài phải được tách rời phù_hợp và được áp_dụng càng gần các cực của pin thiết_bị càng tốt . Đối_với các phép đo bức_xạ , bất_kì dây_dẫn công_suất bên ngoài nào cũng phải được bố_trí sao cho không ảnh_hưởng đến các phép đo .
+
+Trong các đo , điện_áp nguồn đo phải nằm trong phạm_vi dung_sai < 1 % so với điện_áp ở đầu mỗi đo . Giá_trị của dung_sai này có_thể rất quan_trọng đối_với các phép đo nhất_định . Sử_dụng dung_sai nhỏ hơn sẽ cung_cấp giá_trị độ không đảm_bảo đo tốt hơn cho các phép đo này .
+
+2 . 2 . 5 . 3 . Nguồn điện đo kiểm bên trong
+
+Đối_với các phép đo bức_xạ trên thiết_bị cầm tay có ăng ten liền , nên sử_dụng pin bên trong được sạc đầy . Pin được sử_dụng phải được cung_cấp hoặc khuyến_nghị bởi nhà sản_xuất . Nếu sử_dụng pin bên trong , điện_áp phải nằm trong phạm_vi dung_sai nhỏ hơn 5 % so với điện_áp ban_đầu . Trong trường_hợp không phù_hợp , một chú_thích cho hiệu_ứng này sẽ được thêm vào báo_cáo đo kiểm .
+
+Đối_với các phép đo dẫn hoặc trong trường_hợp sử_dụng bộ ghép đo , nguồn điện bên ngoài tại mức điện_áp quy_định có_thể thay_thế cho các pin đi kèm thiết_bị . Việc này phải được ghi lại trong báo_cáo đo kiểm .
+
+2 . 2 . 6 . Các điều_kiện đo kiểm chuẩn
+
+2 . 2 . 6 . 1 . Nhiệt_độ và độ_ẩm chuẩn
+
+Nhiệt_độ và độ_ẩm của phòng đo trong dải các giá_trị sau :
+
+- Nhiệt_độ : từ 15 C đến 35 C ;
+
+- Độ_ẩm : từ 20 % đến 75 % .
+
+Ở những nơi không xác_lập được các điều_kiện đo trên , cần ghi rõ các giá_trị cụ_thể về môi_trường đo vào báo_cáo đo kiểm .
+
+2 . 2 . 6 . 2 . Nguồn điện đo kiểm chuẩn
+
+2 . 2 . 6 . 2 . 1 . Điện_áp lưới_điện
+
+Điện_áp nguồn nối với thiết_bị đo phải là điện_áp danh định .
+
+Nhà cung_cấp_thiết_bị phải khai_báo điện_áp danh định cho từng thiết_bị cụ_thể .
+
+Tần_số nguồn điện xoay chiều phải nằm trong khoảng từ 49 Hz đến 51 Hz .
+
+2 . 2 . 6 . 2 . 2 . Nguồn năng_lượng pin
+
+Khi thiết_bị vô_tuyến dùng nguồn ắc_quy , điện_áp đo thông_dụng là 1 , 1 nhân với điện_áp danh định của ắc_quy ( 6 V , 12 V , v . v ) .
+
+2 . 2 . 6 . 2 . 3 . Các nguồn công_suất khác
+
+Khi thiết_bị hoạt_động với các loại nguồn khác , hoặc loại ắc_quy khác , điện_áp đo phải được nhà cung_cấp_thiết_bị khai_báo và phải được các phòng đo chấp_thuận . Các giá_trị này phải được ghi lại trong báo_cáo đo kiểm .
+
+2 . 2 . 7 . Các điều_kiện chung
+
+2 . 2 . 7 . 1 . Các tín_hiệu đo kiểm chuẩn và điều_chế đo_kiểm
+
+2 . 2 . 7 . 1 . 1 . Tổng_quát
+
+Tín_hiệu điều_chế đo là tín_hiệu dùng đề điều_chế sóng mang , phụ_thuộc vào loại thiết_bị cần đo và các phép đo yêu_cầu . Các tín_hiệu điều_chế đo chỉ áp_dụng cho các thiết_bị có đầu kết_nối điều_chế ngoài . Đối_với các thiết_bị không có đầu kết_nối điều_chế ngoài , sử_dụng ngay điều_chế trong của máy để đo điều_chế .
+
+Tín_hiệu sử_dụng đo phải đảm_bảo có các đặc_tính sau :
+
+- Đặc_trưng cho quá_trình hoạt_động bình_thường ;
+
+- Có băng_thông chiếm_dụng lớn nhất .
+
+Đối_với máy phát gián_đoạn , tín_hiệu đo phải đảm_bảo :
+
+- Tín_hiệu Rf tạo ra cho mỗi lần phát giống nhau ;
+
+- Quá_trình phát tín_hiệu phải ổn_định theo thời_gian ;
+
+- Chuỗi tín_hiệu phát phải được lặp lại một_cách chính_xác ;
+
+- Chi_tiết về tín_hiệu đo phải được ghi lại trong báo_cáo đo kiểm .
+
+Đối_với các thiết_bị cự_li ngắn không có đầu kết_nối đo điều_chế ngoài , sử_dụng điều_chế đang vận_hành để đo . Đối_với thoại_băng hẹp ( băng_thông Rf 120 kHz ) , cần phải sử_dụng tín_hiệu không điều_chế .
+
+2 . 2 . 7 . 1 . 2 . Tín_hiệu đo chuẩn đối_với dữ_liệu
+
+Đối_với thiết_bị có đầu kết_nối ngoài để điều_chế dữ_liệu , sử_dụng tín_hiệu đo chuẩn như sau :
+
+a ) D - m2 : Tín_hiệu thử là chuỗi nhị_phân giả ngẫu_nhiên , gồm ít_nhất 511 bit , được lặp_lại liên_tục , phù_hợp với Khuyến_nghị Itu - t O . 153 . Nếu chuỗi tín_hiệu không được lặp_lại liên_tục , cần ghi rõ phương_pháp áp_dụng thực_tế trong báo_cáo đo kiểm .
+
+b ) D - m3 : Trong trường_hợp dùng các tin báo chọn_lọc , có kèm theo bộ tạo mã / giải_mã trong thiết_bị đo kiểm , phải có sự thoả_thuận giữa nhà cung_cấp_thiết_bị và phòng đo kiểm về tín_hiệu đo .
+
+2 . 2 . 7 . 2 . Ăng ten giả
+
+Có_thể dùng ăng ten giả để đo thiết_bị cự_li ngắn , nhưng nó phải thuộc loại tải thuần trở . Vswr trên đầu kết_nối Rf 50 không được vượt quá 1 , 5 : 1 cho toàn_bộ dải_tần sổ đo kiểm .
+
+2 . 2 . 7 . 3 . Bộ ghép đo
+
+2 . 2 . 7 . 3 . 1 . Tổng_quát
+
+Đối_với các thiết_bị dùng ăng ten liền có khẩu_độ mở nhỏ và không có đầu kết_nối ra Rf 50 , cần sử_dụng hộp ghép đo thích_hợp .
+
+Hộp ghép đo là một loại thiết_bị vô_tuyến dùng để ghép ăng ten bên trong máy với thiết_bị đầu_cuối Rf 50 ở tất_cả các tần_số cần đo ( Hình 2 ) .
+
+Các hộp ghép đo phải được mô_tả đầy_đủ . Ngoài_ra , hộp ghép đo có_thể cung_cấp :
+
+a ) Kết_nối với nguồn điện bên ngoài ;
+
+b ) Một phương_thức cung_cấp đầu_vào hoặc đầu_ra từ thiết_bị . Điều này có_thể bao_gồm khớp nối đến hoặc từ ăng ten . Trong trường_hợp đánh_giá thiết_bị giọng nói , giao_diện âm_thanh có_thể được cung_cấp bằng kết_nối trực_tiếp hoặc bằng bộ ghép âm hoặc trong trường_hợp thiết_bị không nói , thiết_bị kiểm_tra cũng có_thể cung_cấp phương_tiện ghép phù_hợp , ví_dụ : cho dữ_liệu hoặc video đầu_ra .
+
+Các hộp ghép đo thưởng được cung_cấp bởi nhà sản_xuất .
+
+Các đặc_tính hiệu_suất của thiết_bị đo phải được phòng đo chấp_thuận và phải tuân theo các thông_số cơ_bản sau :
+
+a ) Suy_hao do ghép không được lớn hơn 30 dB ;
+
+b ) Tính_chất băng_thông thích_hợp ;
+
+c ) Sự_biến_thiên suy hao do ghép không vượt quá 2 dB trên dải_tần_số được sử_dụng trong phép đo ;
+
+d ) Mạch liên_kết được nối với bộ đấu nối Rf phải là mạch không được chứa các thiết_bị tích_cực hoặc không tuyến_tính ;
+
+e ) Vswr tại ổ_cắm 50 không được lớn hơn 1 , 5 trên dải_tần_số của các phép đo ;
+
+f ) Suy_hao do ghép phải độc_lập với vị_trí của bộ ghép đo và không bị ảnh_hưởng bởi sự lân_cận của các đối_tượng hoặc người xung_quanh . Suy_hao do ghép phải lặp_lại được khi thiết_bị đo kiểm được tháo ra và thay_thế . Thông_thường , bộ ghép đo ở một vị_trí cố_định và quy_định vị_trí cho Eut ;
+
+g ) Suy_hao do ghép sẽ không thay_đổi đáng_kể khi điều_kiện môi_trường thay_đổi .
+
+Hình 2 - Bộ ghép đo
+
+Đầu đo trường ( hoặc ăng ten nhỏ ) cần được kết cuối đúng . Các đặc_điểm và xác_nhận sẽ được bao_gồm trong báo_cáo đo kiểm .
+
+2 . 2 . 7 . 3 . 2 . Cách sử_dụng
+
+Thiết_bị kiểm_tra có_thể được sử_dụng để tạo thuận_lợi cho một_số phép đo máy phát và máy thu trong trường_hợp thiết_bị có ăng ten rời .
+
+Bộ ghép đo chỉ được sử_dụng cho các phép đo công_suất tương_đối hoặc cho các phép đo không phụ_thuộc vào tỉ_lệ ghép .
+
+2 . 2 . 7 . 4 . Các vị_trí đo và bố_trí tổng_thể cho các phép đo bức_xạ
+
+Sơ_đồ bố_trí đo bức_xạ và mô_tả chi_tiết được cho trong Phụ_lục A .
+
+2 . 2 . 7 . 5 . Máy thu đo
+
+Thuật_ngữ " máy thu đo " dùng để chỉ một vôn kế chọn_lọc tần_số hoặc máy phân_tích phổ . Một máy dò Rms được sử_dụng nếu không được xác_định khác cho một_phép đo cụ_thể . Băng_thông đo của máy thu đo , nếu có_thể , phải theo Cispr 16 [ 1 ] , [ 2 ] và [ 3 ] . Để có được độ nhạy cần_thiết , có_thể cần băng_thông đo hẹp hơn và trong những trường_hợp như_vậy , điều này phải được nêu trong mẫu báo_cáo đo kiểm . Tốt nhất là băng_thông của máy thu đo phải được đưa ra trong Bảng 2 .
+
+Bảng 2 - Đo băng_thông ưu_tiên
+
+Khi dùng băng_thông hẹp để đo , sử_dụng công_thức biến_đổi sau đây :
+
+Trong đó :
+
+A là giá_trị đo được ở băng_thông đo thấp ;
+
+B là giá_trị quy về băng_thông chuẩn , hoặc
+
+Nếu phổ đo là các vạch phổ rời_rạc , sử_dụng trực_tiếp giá_trị đo A ( Vạch_phổ rời_rạc được định_nghĩa như là các xung_đỉnh với mức cao hơn giá_trị trung_bình 6 dB trong băng_thông đo ) .
+
+2 . 2 . 8 . Giải_thích kết_quả đo
+
+2 . 2 . 8 . 1 . Tổng_quát
+
+Việc giải_thích các kết_quả được ghi lại trong một báo_cáo đo kiểm cho các phép đo được mô_tả trong Quy_chuẩn này sẽ như sau :
+
+- Giá_trị đo được liên_quan đến giới_hạn tương_ứng sẽ được sử_dụng để Quyết_định xem một thiết_bị có đáp_ứng các yêu_cầu của quy_chuẩn này hay không ;
+
+- Giá_trị của độ không đảm_bảo đo đối_với phép đo của từng thông_số phải được đưa vào báo_cáo đo kiểm ;
+
+- Giá_trị được ghi lại của độ không đảm_bảo đo phải là , đối_với mỗi phép đo , bằng hoặc nhỏ hơn các số_liệu trong Bảng 3 .
+
+Đối_với các phương_pháp đo , theo quy_chuẩn này , các số_liệu độ không đảm_bảo đo phải được tính_toán và sẽ tương_ứng với hệ_số giãn_nở ( hệ_số che_phủ ) k = 1 , 96 hoặc k = 2 ( cung_cấp mức tin_cậy tương_ứng 95 % và 95 , 45 % trong trường_hợp các phân_phối đặc_trưng cho độ không đảm_bảo đo thực_tế là bình_thường ( Gaussian ) ) . Nguyên_tắc tính_toán độ không đảm_bảo đo được nêu trong Etsi Tr 100 028 , cụ_thể trong Phụ_lục F của Etsi Tr 100 028-2.
+
+Bảng 3 dựa trên các yếu_tố mở_rộng như_vậy .
+
+Bảng 3 - Độ không bảo_đảm đo tối_đa
+
+Hệ_số mở_rộng cụ_thể được sử_dụng để đánh_giá độ không đảm_bảo đo phải được nêu rõ .
+
+2 . 2 . 8 . 2 . Độ không bảo_đảm đo lớn hơn độ không bảo_đảm tối_đa chấp_nhận được
+
+Việc giải_thích kết_quả đo theo điều này chỉ có_thể chấp_nhận đối_với các phát_xạ bức_xạ trên 26 , 5 GHz trong trường_hợp không_thể đạt được độ không đảm_bảo đo tuân_thủ các mức đã quy_định trong Bảng 3 .
+
+Trong những trường_hợp này , chỉ có_thể chấp_nhận sử_dụng quy_trình giải_thích thay_thế được quy_định trong 2 . 2 . 8 . 2 .
+
+Phải giải_thích kết_quả khi so_sánh các giá_trị đo với các giới_hạn đặc_tả như sau :
+
+a ) Khi giá_trị đo cộng với chênh_lệch giữa độ không đảm_bảo đo tối_đa chấp_nhận được và độ không đảm_bảo đo được tính_toán bởi kĩ_thuật_viên kiểm_tra không vượt quá giá_trị giới_hạn , thiết_bị được đo đáp_ứng các yêu_cầu của quy_chuẩn này .
+
+b ) Khi giá_trị đo cộng với chênh_lệch giữa độ không đảm_bảo đo tối_đa chấp_nhận được và độ không đảm_bảo đo được tính bởi kĩ_thuật_viên kiểm_tra vượt quá giá_trị giới_hạn thi thiết_bị đo không đáp_ứng các yêu_cầu của quy_chuẩn này .
+
+c ) Độ không đảm_bảo đo được tính_toán bởi kĩ_thuật_viên kiểm_tra thực_hiện phép đo phải được ghi lại trong báo_cáo đo kiểm .
+
+d ) Độ không đảm_bảo đo được tính_toán bởi kĩ_thuật_viên kiểm_tra có_thể là giá_trị tối_đa cho một phạm_vi các giá_trị đo hoặc có_thể là độ không đảm_bảo đo cho phép đo cụ_thể chưa được đo . Phương_pháp được sử_dụng phải được ghi lại trong báo_cáo đo kiểm .
+
+2 . 3 . Yêu_cầu đối_với máy_phát
+
+2 . 3 . 1 . Yêu_cầu đo đối_với máy_phát
+
+2 . 3 . 1 . 1 . Áp_dụng
+
+Các yêu_cầu chung trong 2 . 3 . 1 . 2 sẽ được áp_dụng cho tất_cả Eut khi ở chế_độ phát .
+
+2 . 3 . 1 . 2 . Phương_pháp đo và giới_hạn đối_với các tham_số của máy_phát
+
+Nếu máy phát có khả_năng điều_chỉnh công_suất sóng mang , cần đo kiểm các thông_số của nó ở mức công_suất phát cao nhất , như nhà cung_cấp_thiết_bị khai_báo . Sau đó thiết_bị phải được đưa về mức công_suất phát thấp nhất và thực_hiện lại phép đo bức_xạ giả ( xem 2 . 3 . 4 ) .
+
+Nếu thiết_bị cần đo có đầu kết_nối ngoài cố_định Rf 50 và có ăng ten tích_hợp hoặc ăng ten trong , mọi phép đo cần được thực_hiện với đầu_ra này . Nếu đầu kết_nối không phải là bộ ghép Rf 50 đã chuẩn_hoá , phải sử_dụng một_mạch trở_kháng có kết cuối thích_hợp . Sau đó , công_suất bức_xạ đẳng_hướng tương_đương được tính theo độ tăng ích của ăng ten sử_dụng .
+
+Nếu hệ_thống gồm cả bộ phát đáp , phép đo phải được thực_hiện cùng với bộ phát đáp đó .
+
+Ngoài_ra , các phép đo kiểm sau đây được thực_hiện với ăng ten liền hoặc ăng ten rời :
+
+a ) Công_suất bức_xạ đẳng_hướng tương_đương e . i . r . p . ( xem 2 . 3 . 2 )
+
+b ) Bức_xạ giả ( xem 2 . 3 . 3 )
+
+2 . 3 . 2 . Công_suất bức_xạ đẳng_hướng tương_đương ( e . i . r . p . )
+
+2 . 3 . 2 . 1 . Áp_dụng
+
+Yêu_cầu công_suất bức_xạ đẳng_hướng tương_đương sẽ được áp_dụng cho tất_cả các máy phát .
+
+2 . 3 . 2 . 2 . Mô_tả
+
+e . i . r . p . là công_suất bức_xạ cực_đại của máy phát trên ăng ten , của nó , được đo và tính theo trình_tự cho trong các điều sau :
+
+2 . 3 . 2 . 3 . Phương_pháp đo
+
+2 . 3 . 2 . 3 . 1 . Các yêu_cầu chung
+
+Để đo e . i . r . p . , đầu_tiên cần xác_định phương_pháp đo phù_hợp ( xem 2 . 3 . 2 . 3 . 2 và 2 . 3 . 2 . 3 . 3 ) . Để chọn phương_pháp đo áp_dụng , phải xác_định độ rộng băng_thông máy phát ở mức - 6 dB , bằng cách dùng một máy thu đo có độ rộng băng_thông đo bằng 100 kHz .
+
+- Tại 2 . 3 . 2 . 3 . 2 đối_với các máy phát không trải phổ có độ rộng băng_thông - 6 dB lên đến 20 MHz và các máy phát trải phổ có băng_thông kênh lên đến 1 MHz ;
+
+- Tại 2 . 3 . 2 . 3 . 3 cho tất_cả các băng_thông máy phát khác .
+
+Sử_dụng quy_trình đo áp_dụng như được mô_tả trong điều này và Phụ_lục A , đầu ra_công_suất phải được đo và ghi lại trong báo_cáo đo kiểm . Phương_pháp đo phải được ghi lại trong báo_cáo đo kiểm .
+
+Các phép đo phải được thực_hiện ở điều_kiện đo bình_thường ( xem 2 . 2 . 6 ) .
+
+Khi đo , máy phát phải hoạt_động ở chế_độ bức_xạ liên_tục .
+
+2 . 3 . 2 . 3 . 2 . Các máy phát không trải phổ với độ rộng băng_thông - 6 dB có độ rộng kênh tối_đa lên tới 20 MHz và các máy phát trải phổ có độ rộng kênh tối_đa lên tới 1 MHz
+
+2 . 3 . 2 . 3 . 2 . 1 . Tổng_quát
+
+Phương_pháp đo trong 2 . 3 . 2 . 3 . 2 . 2 hoặc 2 . 3 . 2 . 3 . 2 . 3 chỉ được sử_dụng cho :
+
+- Thiết_bị không trải phổ có độ rộng băng_thông tính ở mức - 6 dB là 20 MHz hoặc nhỏ hơn và chu_kì hoạt_động trên 50 % ;
+
+- Thiết_bị trải phổ có độ rộng băng_thông kênh tính ở mức - 6 dB là 1 MHz hoặc nhỏ hơn .
+
+Phải sử_dụng một máy phân_tích phổ hoặc vôn kế chọn tần và điều_chỉnh đến tần_số sóng mang của máy phát tại đó dò được mức cao nhất .
+
+Đối_với các hệ_thống Fhss , phải sử_dụng tần_số nhảy cung_cấp mức Chỉ_thị cao nhất và ghi lại tần_số này trong báo_cáo đo kiểm .
+
+Các máy phát loại khác được đo theo 2 . 3 . 2 . 3 . 3 .
+
+2 . 3 . 2 . 3 . 2 . 2 . Thiết_bị đo là thiết_bị điều_chế đường bao cố_định
+
+Hình 3 - Bố_trí phép đo
+
+Vì lí_do thực_tế , các phép đo chỉ được thực_hiện_tại mức công_suất cao nhất mà máy phát được dự_định hoạt_động . Phải sử_dụng bố_trí phép đo trong Hình 3 .
+
+Tốt nhất là phải thực_hiện phép đo trong trường_hợp không có điều_chế .
+
+Nếu không_thể đo trong trường_hợp không có điều_chế , thì phải ghi rõ việc này trong các báo_cáo đo kiểm .
+
+Máy_phát phải được thiết_lập ở chế_độ phát liên_tục . Nếu không_thể thực_hiện được điều này , các phép đo phải được thực_hiện trong khoảng thời_gian ngắn hơn thời_gian cụm tín_hiệu ( burst ) được phát . Có_thể cần kéo_dài thời_gian của cụm tín_hiệu .
+
+Máy_phát phải được kết_nối với ăng ten giả và phải đo công_suất đã cung_cấp cho ăng ten giả này .
+
+Công_suất bức_xạ đẳng_hướng tương_đương sau đó được tính từ giá_trị đo được , độ tăng ích ( độ lợi ) ăng ten đã biết , liên_quan đến ăng ten đẳng_hướng và bất_kì suy hao nào do cáp và đầu nối trong hệ_thống đo .
+
+2 . 3 . 2 . 3 . 2 . 3 . Thiết_bị đo là thiết_bị điều_chế đường bao không cố_định
+
+Phép đo được thực_hiện với các tín_hiệu D - m2 hoặc D - m3 phù_hợp .
+
+Ưu_tiên chế_độ phát liên_tục , ngược_lại , dùng chế_độ phát gián_đoạn .
+
+Máy_phát được nối với ăng ten giả và đo công_suất đến ăng ten này . Thiết_bị đo phải có băng_thông đo không thấp hơn 16 lần băng_thông của kênh .
+
+Công_suất e . i . r . p . được tính từ : giá_trị đo được , độ tăng ích ăng ten , suy hao cáp nối và suy hao đầu kết_nối Rf .
+
+2 . 3 . 2 . 3 . 3 . Các máy phát khác với máy phát được xác_định trong 2 . 3 . 2 . 3 . 2
+
+Phương_pháp đo này sử_dụng cho :
+
+a ) Thiết_bị có độ rộng băng_thông tính ở mức - 6 dB lớn hơn 20 MHz , và thiết_bị có chu_kì hoạt_động dưới 50 % , hoặc
+
+b ) Thiết_bị trải phổ có băng_thông trên 1 MHz . Công_suất bức_xạ đẳng_hướng tương_đương phải được xác_định và ghi lại .
+
+Trong trường_hợp đo bức_xạ trên các hệ_thống ăng ten thông_minh sử_dụng phân_phối công_suất đối_xứng trên các chuỗi phát có sẵn , nếu có_thể , Eut phải được cấu_hình để chỉ một chuỗi phát ( ăng ten ) được kích_hoạt trong khi các chuỗi phát khác bị vô_hiệu_hoá . Trong trường_hợp không_thể thực_hiện được , phương_pháp đã sử_dụng phải được ghi lại trong báo_cáo đo kiểm . Nếu chỉ đo được một chuỗi phát , thì kết_quả đo cho chuỗi phát hoạt_động phải được hiệu_chỉnh cho có hiệu_lực cho toàn_bộ hệ_thống ( tất_cả các chuỗi phát ) .
+
+Chú_thích : Công_suất ( tính bằng mW ) cho một chuỗi phát cần phải được nhân với số_lượng chuỗi phát để thu được tổng_công_suất cho hệ_thống .
+
+Phép đo phải được thực_hiện bằng cách sử_dụng hoạt_động bình_thường của thiết_bị với điều_chế đo được áp_dụng ( xem 2 . 2 . 8 . 1 ) .
+
+Thủ_tục đo kiểm như sau :
+
+Bước 1 :
+
+- Dùng các phương_tiện thích_hợp , ghép đầu_ra máy phát với bộ tách sóng ;
+
+- Nối đầu_ra của bộ tách sóng với kênh thẳng_đứng của máy hiện sóng ;
+
+- Điều_chỉnh kết_hợp bộ tách sóng diode và máy hiện sóng , để tạo ra các đỉnh đường bao và chu_kì hoạt_động của tín_hiệu ra ;
+
+- Quan_trắc chu_kì hoạt_động của thiết_bị [ Tx on / ( Tx on + Tx off ) ] được ghi là x ( 0 < x < 1 ) .
+
+Bước 2 :
+
+- Dùng bộ đo công_suất băng rộng Rf đã chuẩn_hoá để xác_định công_suất ra trung_bình của máy phát ; giá_trị quan_trắc được gọi là A ;
+
+- e . i . r . p . được tính từ công_suất đo được A , chu_kì_quan_trắc x , và độ tăng ích của ăng ten G ( theo dBi ) theo công_thức :
+
+P = A + G + 10 log ( 1 / x )
+
+P không được vượt quá giá_trị quy_định trong 2 . 3 . 2 . 4 .
+
+Lặp_lại phép đo cho những tần_số cao nhất , trung_gian và thấp nhất của băng tần sử_dụng và ghi lại các tần_số này vào báo_cáo đo kiểm .
+
+Các thiết_bị Fhss phải được nhảy tần liên_tục trên 3 tần_số riêng_rẽ .
+
+2 . 3 . 2 . 4 . Giới_hạn
+
+Trong điều_kiện đo bình_thường , công_suất e . i . r . p . cực_đại của máy phát không được vượt quá các giá_trị cho trong Bảng 4 .
+
+Bảng 4 - Công_suất bức_xạ cực_đại ( e . i . r . p . )
+
+2 . 3 . 3 . Phạm_vi các tần_số hoạt_động được cho phép
+
+2 . 3 . 3 . 1 . Áp_dụng
+
+Phạm_vi tần_số hoạt_động được phép sẽ áp_dụng cho tất_cả các máy phát .
+
+2 . 3 . 3 . 2 . Mô_tả
+
+Dải_tần_số hoạt_động cho phép bao_gồm toàn_bộ các tần_số mà thiết_bị có_thể khai_thác trong băng tần được ấn_định . Dải_tần_số hoạt_động của thiết_bị phải được nhà sản_xuất khai_báo .
+
+Dải_tần_số hoạt_động của thiết_bị được xác_định bằng hai tần_số : chiếm_dụng thấp nhất và cao nhất của đường bao công_suất theo 2 . 3 . 2 . 4 ( Bảng 4 ) .
+
+Fh là tần_số cao nhất của đường bao phổ công_suất , là tần_số xa nhất phía trên tần_số có công_suất cực_đại , tại đó công_suất ra rơi xuống dưới mức - 75 dBm / Hz so với mật_độ phổ công_suất e . i . r . p . ( - 30 dBm trong băng_thông đo chuẩn 30 kFlz ) .
+
+Fl là tần_số thấp nhất của đường bao phổ công_suất , là tần_số xa nhất phía dưới tần_số có công_suất cực_đại , tại đó công_suất ra rơi xuống dưới mức - 75 dBm / Hz so với mật_độ phổ công_suất e . i . r . p . ( - 30 dBm trong băng_thông đo chuẩn 30 kHz ) .
+
+Khi có các chế_độ bức_xạ khác nhau , tất_cả các chế_độ và băng_thông liên_quan của chúng phải được nêu rõ .
+
+2 . 3 . 3 . 3 . Phương_pháp đo
+
+Phương_pháp đo thiết_bị sử_dụng điều_chế Fhss và điều_chế tần_số theo từng nấc được cho trong 2 . 3 . 3 . 4 .
+
+Đề đo dải_tần_số hoạt_động cần sử_dụng thủ_tục đo bức_xạ dẫn như trong Phụ_lục A và ghi lại các kết_quả đo trong báo_cáo đo kiểm .
+
+Thủ_tục đo dải_tần_số hoạt_động như sau :
+
+a ) Xác_lập máy phân_tích phổ ở chế_độ lấy trung_bình về ảnh với tần_số quét tối_thiểu là 50 Hz .
+
+b ) Chọn tần_số hoạt_động thấp nhất của thiết_bị cần đo và kích_hoạt nó phát ở chế_độ có điều_chế . Bức_xạ Rf của thiết_bị sẽ thể_hiện trên màn_hình máy phân_tích phổ .
+
+c ) Sử_dụng núm đánh_dấu tần_số của máy phân_tích phổ để tìm tần_số thấp nhất , tại đó mật_độ phổ công_suất rơi xuống dưới mức như trong 2 . 3 . 3 . 2 , ghi lại tần_số này trong báo_cáo đo kiểm .
+
+d ) Sử_dụng núm đánh_dấu tần_số của máy phân_tích phổ để tìm tần_số cao nhất , tại đó mật_độ phổ công_suất rơi xuống dưới mức như trong 2 . 3 . 3 . 2 , ghi lại tần_số này trong kết báo_cáo đo kiểm .
+
+e ) Độ lệch tần_số giữa kết_quả đo trong c ) và d ) chính là dải_tần_số hoạt_động của thiết_bị cần đo . Ghi kết_quả này vào báo_cáo đo kiểm .
+
+Phải lặp lại phép đo này cho từng tần_số mà nhà sản_xuất thiết_bị đã công_bố .
+
+2 . 3 . 3 . 4 . Phương_pháp đo đối_với thiết_bị sử_dụng điều_chế Fhss
+
+Sử_dụng thủ_tục đo dẫn có_thể áp_dụng như mô_tả trong Phụ_lục A , dải_tần_số hoạt_động của thiết_bị phải được đo và ghi lại trong báo_cáo đo kiểm .
+
+Trong các phép đo này , chuỗi dữ_liệu đo , như được chỉ_định trong 2 . 2 . 8 . 1 , sẽ được sử_dụng . Trong quá_trình đo , máy phát phải được đặt ở chế_độ truyền liên_tục . Nếu điều này là không_thể , các phép đo phải được thực_hiện trong khoảng thời_gian ngắn hơn thời_gian phát tín_hiệu liên_tục . Có_thể cần phải kéo_dài thời_gian phát tín_hiệu liên_tục .
+
+Mức công_suất máy phát phải được đặt thành mức công_suất tối_đa nếu có_thể điều_khiển được .
+
+Các phép đo này phải được thực_hiện trong điều_kiện hoạt_động bình_thường . Quy_trình đo phải như sau :
+
+a ) Xác_lập máy phân_tích phổ ở chế_độ lấy trung_bình về ảnh với tần_số quét tối_thiểu là 50 Hz .
+
+b ) Chọn tần_số nhảy thấp nhất của thiết_bị cần đo và kích_hoạt nó phát ở chế_độ có điều_chế .
+
+c ) Tìm tần_số thấp nhất dưới tần_số hoạt_động , mà tại đó mật_độ phổ công_suất rơi xuống dưới mức quy_định trong 2 . 3 . 3 . 2 , ghi lại tần_số này trong báo_cáo đo kiểm .
+
+d ) Chọn tần_số nhảy_cao nhất của máy cần đo , mà ở đó mật_độ phổ công_suất rơi xuống dưới mức quy_định trong 2 . 3 . 3 . 2 và ghi lại tần_số này trong kết_quả đo kiểm .
+
+e ) Độ lệch tần_số giữa kết_quả đo trong bước c ) và d ) chính là dải_tần_số hoạt_động của thiết_bị cần đo . Ghi kết_quả này vào báo_cáo đo kiểm .
+
+Phép đo được lặp_lại cho mọi tần_số mà nhà sản_xuất thiết_bị công_bố .
+
+2 . 3 . 3 . 5 . Giới_hạn
+
+Độ rộng đường bao phổ công_suất chính là dải_tần_số hoạt_động của thiết_bị . Đối_với các thiết_bị cho phép điều_chỉnh hoặc lựa_chọn tần_số hoạt_động , đường bao phổ công_suất có các vị_trí khác nhau trong băng tần cho phép . Dải_tần_số hoạt_động được xác_định bởi tần_số thấp nhất Fl và cao nhất Fh , tạo ra từ việc hiệu_chỉnh thiết_bị theo các tần_số này .
+
+Băng_thông chiếm_dụng ( bằng 99 % phần bức_xạ cần_thiết ) và băng_thông cần_thiết phải nằm trong băng tần ấn_định .
+
+Đối_với mọi loại thiết_bị Srd , dải_tần_số phải nằm trong băng tần cho trong 2 . 3 . 2 . 4 . ( Bảng 4 ) . Đối_với các thiết_bị không phải là thiết_bị Srd thì dải_tần_số hoạt_động của thiết_bị giữa các quốc_gia có_thể khác nhau .
+
+2 . 3 . 4 . Các phát_xạ không mong_muốn trong vùng giả
+
+2 . 3 . 4 . 1 . Áp_dụng
+
+Yêu_cầu đối_với các phát_xạ không mong_muốn trong vùng giả phải được áp_dụng cho tất_cả các máy phát .
+
+2 . 3 . 4 . 2 . Mô_tả
+
+Theo CEPT / ERC / Khuyến_nghị 74-01E và Khuyến_nghị Itu - r Sm . 329 - 12 , ranh_giới giữa các miền ngoài băng tần và giả là 250 % băng_thông chiếm từ tần_số trung_tâm của bức_xạ . Phát_xạ ngoài băng và giả được đo bằng mật_độ năng_lượng quang_phổ trong điều_kiện hoạt_động bình_thường .
+
+Phát_xạ không mong_muốn trong miền giả ( phát_xạ giả ) là các phát_xạ nằm trong băng tần_số cách 250 % độ rộng băng_thông cần_thiết về cả hai phía trên và dưới của tần_số phát_xạ trung_tâm .
+
+2 . 3 . 4 . 3 . Phương_pháp đo
+
+2 . 3 . 4 . 3 . 1 . Các yêu_cầu chung
+
+Mức phát_xạ giả sẽ được đo như sau :
+
+a ) Mức công_suất trên tải xác_định ( phát_xạ dẫn ) và mức công_suất bức_xạ hiệu_dụng từ hộp ghép đo và cấu_trúc thiết_bị , hoặc
+
+b ) Công_suất bức_xạ hiệu_dụng từ hộp ghép đo với ăng ten trong hoặc ăng ten dành riêng , trong trường_hợp thiết_bị phù_hợp với loại ăng ten đó và không có đầu kết_nối Rf cố_định .
+
+Đối_với các phép đo trên 1 000 MHz , giá_trị cực_đại phải được đo bằng máy phân_tích phổ . Phải sử_dụng chức_năng " giữ tối_đa " của máy phân_tích phổ . Đối_với các phép đo lên đến 1 000 MHz , máy dò cực_đại được thiết_lập theo thông_số kĩ_thuật của Cispr 16 [ 1 ] , [ 2 ] và [ 3 ] sẽ được sử_dụng .
+
+Việc hiệu_chỉnh Rbw được mô_tả trong 2 . 2 . 7 . 5 sẽ được áp_dụng cho các kết_quả đo được nếu có .
+
+2 . 3 . 4 . 3 . 2 . Phát_xạ giả dẫn
+
+Phương_pháp đo này áp_dụng cho máy phát có đầu kết_nối Rf cố_định .
+
+Một_số yêu_cầu bổ_sung cho thiết_bị Fhss được cho trong 2 . 3 . 4 . 3 . 5 .
+
+a ) Máy_phát được nối với máy thu đo qua một tải đo và một bộ suy hao có trở_kháng Rf 50 và nếu thấy cần_thiết thì nối thêm bộ lọc phù_hợp để tránh quá_tải cho máy thu đo . Độ rộng băng_thông của máy thu đo được điều_chỉnh đến mức sao cho độ nhạy thu của nó thấp hơn mức phát_xạ giả cho trong Bảng 4 khoảng 6 dB ( xem 2 . 3 . 4 . 4 ) . Độ rộng băng_thông này cần ghi lại trong báo_cáo đo kiểm .
+
+Để đo phát_xạ giả dưới mức hài bậc 2 của tần_số sóng mang , cần dùng một bộ lọc nhọn ( bộ lọc cắt đột_ngột Q ) có tâm ở tần_số sóng mang , với độ suy hao tín_hiệu tối_thiểu cỡ 30 dB .
+
+Để đo phát_xạ giả trên mức hài bậc 2 của tần_số sóng mang , cần dùng một bộ lọc nhọn băng_thông cao có mức cắt lớn hơn 40 dB . Tần_số cắt của bộ lọc phải xấp_xỉ 1 , 5 lần tần_số sóng mang .
+
+Các biện_pháp phòng_ngừa có_thể được yêu_cầu để đảm_bảo rằng tải đo không tạo ra hoặc bộ lọc thông cao không làm suy_giảm , sóng hài của sóng mang .
+
+b ) Máy_phát đo phải hoạt_động ở chế_độ không điều_chế với mức công_suất cao nhất . Nếu không cắt bỏ được điều_chế , đo với trạng_thái này , nhưng phải ghi lại trong báo_cáo đo kiểm .
+
+c ) Đối_với các tần_số mang nằm trong dải_tần từ 1 GHz đến 20 GHz , tần_số máy thu đo phải được điều_chỉnh ở mức cao hơn từ 25 MHz đến gấp 10 lần tần_số mang , nhưng không vượt quá 40 GHz . Đối_với các tần_số trên 20 GHz máy thu đo phải được điều_chỉnh ở mức cao hơn từ 25 MHz đến gấp 2 lần tần_số mang , nhưng không vượt quá 100 GHz . Tần_số và mức phát_xạ giả đo được phải được ghi lại trong báo_cáo đo kiểm .
+
+d ) Nếu máy thu đo không được hiệu chuẩn theo công_suất ra phát , mức của các thành_phần sóng tách được phải được xác_định bằng cách thay máy phát bằng bộ tạo tín_hiệu và hiệu_chỉnh nó để tạo lại tần_số và mức phát_xạ giả như trong điều c ) . Cần ghi lại mức công_suất tuyệt_đối của mỗi phát_xạ .
+
+e ) Tần_số và mức của mỗi phát_xạ giả đo được cần ghi lại trong báo_cáo đo kiểm .
+
+f ) Nếu mức công_suất phát có_thể điều_chỉnh được , tiến_hành lặp lại các bước đo từ bước c ) đến e ) ở mức công_suất thấp nhất có_thể
+
+g ) Lặp_lại các phép đo bước từ c ) đến f ) cho máy phát trong trạng_thái chờ , nếu có .
+
+2 . 3 . 4 . 3 . 3 . Phương_pháp đo - bức_xạ giả của vỏ máy
+
+Phương_pháp đo này áp_dụng cho máy phát có đầu kết_nối Rf cố_định .
+
+Đối_với máy phát không có đầu kết_nối ăng ten cố_định , xem 2 . 3 . 4 . 3 . 4 .
+
+Một_số yêu_cầu bổ_sung cho thiết_bị Fhss được cho trong 2 . 3 . 4 . 3 . 5 .
+
+a ) Vị_trí thử được chọn theo Phụ_lục A với các yêu_cầu về dải_tần_số quy_định cần đo . Ăng ten thử lúc đầu được đặt theo chiều phân_cực đứng và được nối với máy thu đo . Băng_thông của máy thu đo được điều_chỉnh sao cho độ nhạy của nó nhỏ hơn mức phát_xạ giả giới_hạn như quy_định trong Bảng 4 là 6 dB . ( xem 2 . 3 . 4 . 4 ) . Độ rộng băng_thông_sử_dụng phải được ghi lại trong báo_cáo đo kiểm .
+
+Máy_phát cần đo được nối với ăng ten giả và đặt cố_định trên giá đỡ ở vị_trí chuẩn và phát ở chế_độ không điều_chế . Nếu không loại_bỏ được điều_chế , đo với điều_chế đó , nhưng phải ghi lại trong báo_cáo đo kiểm .
+
+b ) Đối_với các tần_số mang nằm trong dải_tần_số từ 1 GHz đến 20 GHz , tần_số máy thu đo phải được điều_chỉnh ở mức cao hơn từ 25 MHz đến gấp 10 lần tần_số mang , nhưng không được vượt quá 40 GHz . Đối_với các tần_số trên 20 GHz thì tần_số máy thu đo phải được điều_chỉnh ở mức cao hơn từ 25 MHz đến gấp 2 lần tần_số mang , nhưng không vượt được quá 100 GHz , ngoại_trừ kênh mà máy phát hoạt_động và các kênh kế_cận . Tần_số của mỗi phát_xạ giả được dò ra và ghi lại . Nếu vị_trí thử bị nhiễu từ các vật bên ngoài thì cần phòng đo có màn che và làm giảm khoảng_cách giữa ăng ten thử và máy phát .
+
+c ) Máy thu đo được hiệu_chỉnh lại tại mỗi tần_số cần đo mức phát_xạ và ăng ten đo được nâng lên hoặc hạ xuống qua mức tín_hiệu cực_đại mà máy thu đo nhận được .
+
+d ) Máy_phát phải quay được 360 theo trục thẳng_đứng , để tìm mức tín_hiệu thu cực_đại .
+
+e ) Ăng ten thử được nâng lên hoặc hạ xuống nhiều lần qua mức trường cực_đại thu được và ghi lại mức trường cực_đại này .
+
+f ) Ăng ten thay_thế ( xem A . 3 . 2 ) thay chỗ cho ăng ten phát tại đúng vị_trí ăng ten phát , theo phân_cực đứng . Ăng ten này được nối với bộ tạo tín_hiệu .
+
+g ) Tại mỗi tần_số_đo phát_xạ cần hiệu_chỉnh máy phát tín_hiệu , ăng ten thay_thế và máy thu đo . Ăng ten thử được nâng lên hoặc hạ xuống qua mức tín_hiệu cao nhất mà máy thu đo tách được . Mức của bộ tạo tín_hiệu cùng mức tín_hiệu máy thu đo như trong bước e ) cần được ghi lại .
+
+h ) Tần_số và mức phát_xạ giả của mỗi lần đo và băng_thông máy thu đo cần được ghi lại trong báo_cáo đo kiểm .
+
+i ) Lặp_lại phép đo theo bước từ c ) đến h ) với ăng ten phân_cực ngang .
+
+j ) Nếu có_thể điều_chỉnh công_suất của thiết_bị người dùng , tiến_hành lặp lại các bước đo từ c ) đến h ) ở mức công_suất thấp nhất có_thể .
+
+k ) Nếu có_thể , lặp lại các bước từ c ) đến i ) cho máy phát ở trạng_thái chờ .
+
+2 . 3 . 4 . 3 . 4 . Phương_pháp đo - các phát_xạ giả bị bức_xạ
+
+Phương_pháp này áp_dụng cho máy phát có ăng ten liền ( ăng ten trong ) .
+
+Một_số yêu_cầu thêm cho thiết_bị Fhss được cho trong 2 . 3 . 4 . 3 . 5 .
+
+a ) Vị_trí thử được chọn theo Phụ_lục A với đầy_đủ các yêu_cầu về dải_tần_số quy_định cần đo . Ăng ten thử lúc đầu được định_hướng theo chiều phân_cực đứng và được nối với máy thu đo , thông_qua bộ lọc phù_hợp để tránh quá_tải cho máy thu đo nếu cần . Băng_thông của máy thu đo được điều_chỉnh sao cho độ nhạy của nó nhỏ hơn 6 dB so với mức phát_xạ giả giới_hạn quy_định trong Bảng 5 ( xem 2 . 3 . 4 . 4 ) . Độ rộng băng_thông phải được ghi lại trong báo_cáo đo kiểm .
+
+Để đo phát_xạ giả dưới mức hài bậc 2 của tần_số sóng mang cần dùng bộ lọc nhọn ( bộ lọc cắt đột_ngột Q ) có tâm ở tần_số sóng mang , với độ suy hao tín_hiệu tối_thiểu cỡ 30 dB .
+
+Để đo phát_xạ giả trên mức hài bậc 2 của tần_số sóng mang cần dùng bộ lọc nhọn băng_thông cao có mức cắt ( loại_bỏ ) lớn hơn 40 dB . Tần_số cắt của bộ lọc phải xấp_xỉ gấp 1 , 5 lần tần_số sóng mang .
+
+Máy_phát cần đo phải được đặt và cố_định ở vị_trí chuẩn và phát ở chế_độ không điều_chế . Nếu không loại_bỏ được điều_chế , thử với điều_chế đó nhưng phải ghi lại trong báo_cáo đo kiểm .
+
+b ) Sử_dụng phương_pháp đo tương_tự từ bước b ) và k ) của 2 . 3 . 4 . 3 . 3 .
+
+2 . 3 . 4 . 3 . 5 . Yêu_cầu bổ_sung cho thiết_bị sử_dụng điều_chế Fhss
+
+Các phép đo được thực_hiện khi máy phát đang nhảy tần giữa 2 tần_số cách_biệt bởi thay_đổi bước nhảy cực_đại do nhà sản_xuất khai_báo , một trong số đó là tần_số thấp nhất .
+
+Các phép đo được lặp_lại trên 2 tần_số phân_cách bởi bước nhảy cực_đại do nhà sản_xuất khai_báo , một trong số đó là tần_số cao nhất .
+
+2 . 3 . 4 . 4 . Giới_hạn
+
+Công_suất phát_xạ giả không được vượt quá các giá_trị trong Bảng 5 .
+
+Bảng 5 - Phát_xạ giả
+
+2 . 3 . 5 . Chu_kì hoạt_động
+
+2 . 3 . 5 . 1 . Áp_dụng
+
+Chu_kì hoạt_động ( dc ) sẽ được áp_dụng cho tất_cả các thiết_bị truyền ngoại_trừ những thiết_bị sử_dụng Lbt , hoặc Da .
+
+Không áp_dụng chỉ_tiêu này cho các thiết_bị Nghe trước khi nói ( lbt ) .
+
+Các máy phát Rfid hoạt_động ở dải_tần_số từ 2 446 MHz đến 2 454 MHz truyền tại công_suất đỉnh với mức bức_xạ tối_đa dưới 500 mW e . i . r . p . cũng được loại_trừ .
+
+Đối_với thiết_bị hoạt_động trong dải_tần_số từ 2 446 MHz đến 2 454 MHz , với công_suất bức_xạ nhỏ hơn 100 uW e . i . r . p . , không có chu_kì hoạt_động nào được chỉ_định .
+
+2 . 3 . 5 . 2 . Mô_tả
+
+Chu_kì hoạt_động là tỉ_lệ được biểu_thị bằng phần_trăm của khoảng thời_gian phát_tích_luỹ Ton _ cum trong khoảng thời_gian quan_sát Tobs . trên băng_thông_quan_sát Fobs .
+
+Trừ khi có quy_định khác , Tobs là 1 h và băng_thông_quan_sát Fobs là băng tần hoạt_động . Mỗi lần phát gồm có phát_xạ Rf hoặc chuỗi các phát_xạ Rf cách nhau bởi các khoang < TDis .
+
+Một thiết_bị có_thể hoạt_động đồng_thời trên một_số băng tần ( nghĩa_là đa truyền ) , chu_kì hoạt_động của từng băng tần áp_dụng cho mỗi truyền .
+
+Trong trường_hợp điều_chế đa sóng trong một dải , chu_kì hoạt_động áp_dụng cho toàn_bộ tín_hiệu được sử_dụng để truyền ( ví_dụ : Ofdm ) .
+
+Phải lưu_ý rằng trên một_số băng tần , giá_trị chu_kì hoạt_động có_thể phụ_thuộc vào sự hiện_diện của dịch_vụ vô_tuyến chính .
+
+Thiết_bị có_thể được kích_hoạt bằng tay , bởi thời_gian nội_bộ hoặc bởi kích_thích bên ngoài . Tuỳ_thuộc vào phương_pháp kích_hoạt thời_gian có_thể dự_đoán được hoặc ngẫu_nhiên .
+
+2 . 3 . 5 . 3 . Phương_pháp đo
+
+Việc đánh_giá chu_kì hoạt_động tổng_thể phải được thực_hiện trong chu_kì đại_diện của Tobs trên băng_thông_quan_sát Fobs . Trừ khi có quy_định khác , Tobs là 1 h và băng_thông_quan_sát Fobs là băng tần hoạt_động .
+
+Thời_gian đại_diện sẽ là thời_gian tích_cực nhất trong việc sử_dụng thiết_bị bình_thường . Theo hướng_dẫn , " Sử_dụng bình_thường " được coi là đại_diện cho hành_vi của thiết_bị trong quá_trình truyền 99 % lượng [ các bức_xạ ] được tạo ra trong suốt thời_gian hoạt_động .
+
+Các quy_trình như thiết_lập , vận_hành và bảo_trì không được coi là một phần của hoạt_động bình_thường .
+
+Đối_với các thiết_bị hoạt_động thủ_công hoặc phụ_thuộc sự_kiện , có hoặc không có chức_năng điều_khiển bằng phần_mềm , nhà sản_xuất sẽ khai_báo xem thiết_bị đã được kích_hoạt hay chưa , tuân theo chu_trình được lập_trình sẵn hoặc liệu máy phát có bật cho đến khi kích_hoạt được giải_phóng hay thiết_bị được đặt lại thủ_công . Nhà sản_xuất cũng sẽ đưa ra mô_tả về ứng_dụng cho thiết_bị và bao_gồm một kiểu sử_dụng thông_thường . Mẫu sử_dụng điển_hình theo công_bố của nhà sản_xuất sẽ được sử_dụng để xác_định chu_kì hoạt_động và so_sánh với giới_hạn trong Bảng 6 .
+
+Trong trường_hợp cần có xác_nhận , phải bổ_sung thêm một máy phát khác trong quá_trình đo .
+
+2 . 3 . 5 . 4 . Giới_hạn
+
+Bảng 6 định_nghĩa chu_kì hoạt_động tối_đa trong vòng 1 h .
+
+Bảng 6 - Các giới_hạn về chu_kì hoạt_động
+
+Đối_với các thiết_bị có chu_kì hoạt_động 100 % truyền sóng mang không điều_chế trong hầu_hết thời_gian , thiết_bị tắt thời_gian chờ sẽ được triển_khai để cải_thiện việc sử_dụng phổ hiệu_quả .
+
+2 . 3 . 6 . Những yêu_cầu bổ_sung cho thiết_bị Fhss
+
+2 . 3 . 6 . 1 . Áp_dụng
+
+Các yêu_cầu này chỉ áp_dụng cho thiết_bị sử_dụng điều_chế Fhss .
+
+2 3 . 6 . 2 . Mô_tả
+
+Thiết_bị sử_dụng Fhss sẽ truyền qua nhiều kênh bằng cách di_chuyển tần_số truyền từ kênh này sang kênh khác .
+
+2 . 3 . 6 . 3 . Phương_pháp đo
+
+Phải khai_báo tổng_số bước nhảy , thời_gian dừng , băng_thông trên mỗi bước nhảy và sự tách_biệt tối_đa của bước nhảy .
+
+2 . 3 . 6 . 4 . Giới_hạn
+
+Đối_với thiết_bị điều_chế Fhss , cần sử_dụng ít_nhất 20 kênh nhảy > 90 % băng tần ấn_định .
+
+Thời_gian lưu lại trên một kênh không được vượt quá 1 s . Khi thiết_bị hoạt_động ( phát hoặc thu ) mỗi kênh của chuỗi nhảy phải chiếm ít_nhất một lần trong chu_kì hoạt_động , nhưng không vượt quá 4 lần thời_gian lưu lại trên một bước nhảy và số_lượng kênh .
+
+2 . 4 . Yêu_cầu đối_với máy thu
+
+2 . 4 . 1 . Loại máy thu
+
+Thiết_bị Srd được chia thành ba loại máy thu , xem Bảng 7 , mỗi loại có một bộ yêu_cầu máy thu liên_quan và tiêu_chí hiệu_suất tối_thiểu . Tập_hợp các yêu_cầu máy thu phụ_thuộc vào sự lựa_chọn loại máy thu của nhà sản_xuất thiết_bị .
+
+Nhà sản_xuất phải xác_định đúng chủng_loại máy thu . Đặc_biệt , nhà sản_xuất và người dùng cần đặc_biệt chú_ý đến khả_năng gây nhiễu từ các hệ_thống khác hoạt_động trong cùng một dải hoặc lân_cận đến Srd có_thể gây ảnh_hưởng tiêu_cực đến tính_mạng con_người .
+
+Các loại máy thu được xác_định trong Bảng 7 .
+
+Bảng 7 - Các loại máy thu
+
+Loại máy thu 1 hoặc 2 phải được sử_dụng cho tất_cả các thiết_bị sử_dụng Lbt hoặc Da để giảm_thiểu nhiễu . Loại máy thu 2 có_thể được yêu_cầu cho các kĩ_thuật truy_nhập phổ .
+
+2 . 4 . 2 . Các tiêu_chuẩn thực_hiện chung
+
+Đối_với mục_tiêu kiểm_tra hiệu_suất máy thu , máy thu phải tạo ra đầu_ra thích_hợp trong điều_kiện bình_thường như được chỉ ra dưới đây :
+
+- Tỷ_lệ Snd / nd là 20 dB , được đo ở đầu_ra máy thu thông_qua mạng đo trọng số điện_thoại như mô_tả trong Khuyến_nghị Itu - t O . 41 [ 4 ] ; hoặc là
+
+- Sau khi giải điều_chế , tín_hiệu dữ_liệu có tỉ_lệ lỗi bit là 10-2 mà không cần hiệu_chỉnh ; hoặc là
+
+- Sau khi giải điều_chế , tỉ_lệ chấp_nhận bản tin là 80 % ; hoặc là
+
+- Tỷ_lệ cảnh_báo sai hoặc tiêu_chí cảm_biến thích_hợp theo công_bố của nhà sản_xuất .
+
+Trừ khi có quy_định khác , khi thực_hiện phép đo , các thiết_bị phải cấu_hình hoạt_động bình_thường hoặc cấu_hình trong trường_hợp xấu nhất liên_quan đến yêu_cầu được kiểm_tra . Đối_với mỗi yêu_cầu trong quy_chuẩn này , cấu_hình trong trường_hợp xấu nhất này sẽ được nhà sản_xuất khai_báo và ghi lại trong báo_cáo đo để đảm_bảo rằng thiết_bị đang hoạt_động phù_hợp với mục_đích sử_dụng . Phần_mềm đặc_biệt hoặc các phương_pháp thay_thế khác có_thể được sử_dụng để vận_hành thiết_bị ở chế_độ này .
+
+2 . 4 . 3 . Độ chọn_lọc kênh lân_cận
+
+2 . 4 . 3 . 1 . Áp_dụng
+
+Yêu_cầu này áp_dụng cho các máy thu loại 1 được phân kênh .
+
+2 . 4 . 3 . 2 . Mô_tả
+
+Độ chọn_lọc kênh lân_cận là thước_đo năng_lực hoạt_động của máy thu , khi có nhiều tín_hiệu có hại có tần_số khác với tín_hiệu có_ích một khoảng bằng độ phân_cách kênh lân_cận của thiết_bị .
+
+2 . 4 . 3 . 3 . Phương_pháp đo
+
+Phép đo chỉ thực_hiện trong điều_kiện bình_thường .
+
+Hai bộ tạo tín_hiệu A và B được nối với máy thu qua một_mạch kết_hợp hoặc :
+
+a ) Qua bộ ghép đo hoặc ăng ten thử đến máy thu ăng ten liền , ăng ten rời hoặc ăng ten thử , hoặc
+
+b ) Nối trực_tiếp với đầu kết_nối ăng ten thu cố_định hoặc tạm_thời .
+
+Ghi lại phương_pháp ghép tín_hiệu với máy thu đo trong báo_cáo đo kiểm .
+
+Bộ tạo tín_hiệu A hoạt_động ở tần_số danh định của máy thu , cho trường_hợp điều_chế bình_thường tín_hiệu mong_muốn . Bộ tạo tín_hiệu B tạo tín_hiệu không điều_chế và được điều_chỉnh ở tần_số trung_tâm của kênh lân_cận , ngay phía trên của tần_số tín_hiệu mong_muốn .
+
+Lúc đầu , tín_hiệu B_tắt , dùng tín_hiệu A có mức đủ lớn để xác_lập đáp_ứng thu tin_cậy , sau đó tăng mức tín_hiệu A thêm 3 dB .
+
+Bật tín_hiệu B , sau đó điều_chỉnh ở mức đủ đáp_ứng chỉ_tiêu tín_hiệu mong_muốn , ghi lại mức tín_hiệu này .
+
+Các phép đo được lặp_lại với tín_hiệu B không điều_chế và được điều_chỉnh ở tần_số kênh lân_cận , ngay phía dưới tần_số của tín_hiệu mong_muốn .
+
+Ghi lại độ chọn_lọc kênh lân_cận cho kênh trên và dưới ( tính theo dBm ) của tín_hiệu không mong_muốn .
+
+Đối_với các hệ_thống gắn thẻ ( ví_dụ : nhận_dạng Rf , chống trộm , kiểm_soát truy_nhập , vị_trí và các hệ_thống tương_tự ) , bộ tạo tín_hiệu A có_thể được thay_thế bằng thẻ vật_lí được định_vị ở 70 % phạm_vi hệ_thống đo được tính bằng mét .
+
+Trong trường_hợp này , độ chọn_lọc lân_cận phải được ghi là mức tính theo dBm của mức thấp nhất của tín_hiệu không mong_muốn ( bộ tạo tín_hiệu B ) dẫn đến việc không đọc được thẻ .
+
+2 . 4 . 3 . 4 . Giới_hạn
+
+Độ chọn_lọc kênh lân_cận của thiết_bị trong các điều_kiện quy_định không được nhỏ hơn - 30 dBm + k . Hệ_số hiệu_chỉnh k được tính như sau :
+
+k = - 20 logf - 10 log Bw
+
+trong đó :
+
+f là tần_số tính theo GHz ;
+
+Bw là độ rộng kênh tính theo MHz .
+
+Hệ_số k bị giới_hạn trong phạm_vi như sau : - 40 dB < k < 0 dB .
+
+Độ chọn_lọc kênh lân_cận đo được phải được ghi trong báo_cáo đo kiểm .
+
+2 . 4 . 4 . Độ chặn
+
+2 . 4 . 4 . 1 . Áp_dụng
+
+Yêu_cầu này áp_dụng cho tất_cả các máy thu Srd loại 1 , 2 và 3 .
+
+2 . 4 . 4 . 2 . Mô_tả
+
+Độ chặn là thước_đo năng_lực của máy thu khi nhận tín_hiệu điều_chế mong_muốn không làm ảnh_hưởng đến độ nhạy thu , sự suy hao của độ nhạy máy thu do tín_hiệu không mong_muốn đầu_vào gây ra ở tần_số bất_kì khác với các tần_số của đáp_ứng giả hoặc băng_thông bị chiếm .
+
+2 . 4 . 4 . 3 . Các phương_pháp đo
+
+Phép đo chỉ thực_hiện trong điều_kiện bình_thường .
+
+Hai bộ tạo tín_hiệu A và B được nối với máy thu qua một_mạch kết_hợp hoặc :
+
+a ) Qua bộ ghép đo hoặc ăng ten thử đến máy thu ăng ten liền , ăng ten rời , hoặc
+
+b ) Nối trực_tiếp đến đầu kết_nối thu cố_định hoặc tạm_thời .
+
+Phải ghi lại phương_pháp ghép bộ tạo tín_hiệu với máy thu trong báo_cáo đo kiểm .
+
+Bộ tạo tín_hiệu A hoạt_động ở tần_số danh định của máy thu , với điều_chế bình_thường của tín_hiệu mong_muốn . Bộ tạo tín_hiệu B tạo tín_hiệu không điều_chế và điều_chỉnh ở tần_số_đo xấp_xỉ 10 lần , 20 lần và 50 lần độ rộng băng_thông kênh thu , cao hơn biên trên của kênh thu .
+
+Lúc đầu , tắt bộ tạo tín_hiệu B và bộ tạo tín_hiệu A hoạt_động ở tần_số danh định của máy thu . Sau đó tăng mức tín_hiệu A thêm 3 dB .
+
+Sau đó , bật tín_hiệu B và điều_chỉnh ở mức đủ yêu_cầu và ghi lại mức tín_hiệu này .
+
+Các phép đo được lặp_lại với tần_số thử cho bộ tạo tín_hiệu B xấp_xỉ bằng 10 , 20 và 50 lần của độ rộng băng_thông kênh thu , thấp hơn tần_số biên thấp nhất của kênh thu .
+
+Độ chặn hoặc độ khử nhạy cần được ghi lại ( tính theo dBm ) cho mức thấp nhất của tín_hiệu không mong_muốn ( kênh B ) .
+
+Đối_với các hệ_thống gắn thẻ ( ví_dụ : nhận_dạng Rf , chống trộm , kiểm_soát truy_nhập , vị_trí và các hệ_thống tương_tự ) , bộ tạo tín_hiệu A có_thể được thay_thế bằng thẻ vật_lí được định_vị ở 70 % dải hệ_thống đo được tính bằng mét . Trong trường_hợp này , độ chặn hoặc độ khử nhạy phải được ghi lại dưới dạng tỉ_lệ tính theo dB của mức thấp nhất của tín_hiệu không mong_muốn ( bộ tạo tín_hiệu B ) ( dẫn đến việc không đọc được thẻ ) chia cho độ nhạy khai_báo của máy thu và cộng thêm 3 dB .
+
+2 . 4 . 4 . 4 . Giới_hạn
+
+Mức chặn , đối_với bất_kì tần_số nào trong phạm_vi được chỉ_định , không được nhỏ hơn các giá_trị được cho trong Bảng 7 , ngoại_trừ tại các tần_số mà các đáp_ứng giả được tìm thấy .
+
+Bảng 7 - Giới_hạn độ chặn hoặc độ khử nhạy
+
+Hệ_số hiệu_chỉnh k được tính như sau :
+
+k = - 20 log f - 10 log Bw
+
+Trong đó : f là tần_số tính theo GHz
+
+Bw là độ rộng băng_thông_tin theo MHz
+
+Hệ_số k nằm trong giới_hạn : - 40 < k < 0 dB
+
+Độ chọn_lọc kênh lân_cận đo được phải được ghi lại trong báo_cáo kết_quả đo .
+
+2 . 4 . 5 . Bức_xạ giả
+
+2 . 4 . 5 . 1 . Áp_dụng
+
+Các yêu_cầu sau đây không áp_dụng cho máy thu dùng kết_hợp với máy phát đặt cố_định cùng một chỗ . Cố_định cùng một vị_trí được quy_định là khoảng_cách giữa máy thu phát dưới 3 m . Trong trường_hợp như vậy máy thu phải được đo cùng với máy phát theo cùng một phương_thức khai_thác .
+
+2 . 4 . 5 . 2 . Mô_tả
+
+Bức_xạ giả từ máy thu là các thành_phần bức_xạ ở tần_số bất_kì bởi thiết_bị và ăng ten máy thu .
+
+Mức bức_xạ giả phải được đo bằng :
+
+a ) Mức công_suất trên tải quy_định ( bức_xạ dẫn ) và mức công_suất bức_xạ hiệu_dụng từ hộp đo và cấu_trúc thiết_bị , hoặc
+
+b ) Công_suất bức_xạ hiệu_dụng từ bộ ghép đo và ăng ten trong hoặc ăng ten dành riêng , trong trường_hợp thiết_bị di_động phù_hợp với loại ăng ten đó nhưng không có đầu kết_nối Rf cố_định .
+
+2 . 4 . 5 . 3 . Phương_pháp đo bức_xạ giả
+
+2 . 4 . 5 . 3 . 1 . Các yêu_cầu chung
+
+Đối_với các phép đo trên 1 000 MHz , giá_trị cực_đại phải được đo bằng máy phân_tích phổ . Phải sử_dụng chức_năng " giữ tối_đa " của máy phân_tích phổ . Đối_với các phép đo lên đến 1 000 MHz , máy dò cực_đại được thiết_lập theo thông_số kĩ_thuật của Cispr 16 [ 1 ] , [ 2 ] và [ 3 ] sẽ được sử_dụng .
+
+2 . 4 . 5 . 3 . 2 . Phương_pháp đo các thành_phần giả dẫn
+
+Để tránh làm hỏng máy thu , có_thể nối máy thu đo với tải thử và bộ suy hao Rf 50 , kết_hợp_thành một khối với máy phát .
+
+Máy thu đo được sử_dụng phải có đủ độ động và độ nhạy để đạt được độ chính_xác đo cần_thiết ở giới_hạn quy_định . Băng_thông của máy thu đo phải được điều_chỉnh cho đến khi độ nhạy của máy thu đo ít_nhất là 6 dB dưới giới_hạn bức_xạ giả được nêu trong 2 . 4 . 5 . 4 . Băng_thông này sẽ được ghi lại trong báo_cáo đo kiểm :
+
+a ) Các thiết_bị đầu_cuối của máy thu phải được nối với máy thu đo có trở_kháng vào Rf 50 và máy thu ở trạng_thái hoạt_động .
+
+b ) Đối_với các tần_số mang trong dải_tần từ 1 GHz đến 20 GHz , tần_số máy thu đo phải được điều_chỉnh ở mức cao hơn từ 25 MHz đến gấp 10 lần tần_số mang , nhưng không được vượt quá 40 GHz . Đối_với các tần_số mang trên 20 GHz , máy thu đo phải được hiệu_chỉnh ở mức cao hơn từ 25 MHz đến gấp 2 lần tần_số mang , nhưng không vượt quá 100 GHz . Tần_số và mức bức_xạ giả đo được phải được ghi lại trong kết_quả đo kiểm .
+
+c ) Nếu máy thu đo không được hiệu chuẩn theo công_suất vào thu , mức của các thành_phần tách sóng phải được xác_định bằng cách thay máy thu bằng một bộ tạo tín_hiệu phát và hiệu_chỉnh nó để tạo tần_số và mức bức_xạ giả như trong b ) . Mức công_suất tuyệt_đối của mỗi thành_phần bức_xạ cần được ghi lại .
+
+d ) Tần_số và mức của mỗi thành_phần bức_xạ giả đo được cần được ghi lại trong báo_cáo đo kiểm .
+
+2 . 4 . 5 . 3 . 3 . Phương_pháp đo bức_xạ vỏ máy
+
+Phương_pháp này áp_dụng cho các máy thu có đầu kết_nối Rf cố_định .
+
+a ) Vị_trí đo thử chọn theo Phụ_lục A với đủ các yêu_cầu về dải_tần quy_định của phép đo sử_dụng . Ăng ten đo ban_đầu phải đặt theo chiều phân_cực đứng và nối với máy thu đo . Độ rộng băng_thông của máy thu đo phải được điều_chỉnh , sao cho độ nhạy của nó so với mức giới_hạn bức_xạ giả ghi trong 2 . 4 . 5 . 4 nhỏ hơn ít_nhất dưới 6 dB . Ghi lại độ rộng băng_thông vào báo_cáo đo kiểm .
+
+Máy thu đo phải đặt và cố_định trên giá đỡ tại vị_trí chuẩn và nối với ăng ten giả .
+
+b ) Đối_với các tần_số mang trong dải_tần từ 1 GHz đến 20 GHz tần_số của máy thu đo phải được điều_chỉnh ở mức cao hơn từ 25 MHz đến gấp 10 lần tần_số mang , nhưng không vượt quá 40 GHz . Đối_với các tần_số lớn hơn 20 GHz máy thu đo phải điều_chỉnh cao hơn từ 25 MHz đến gấp 2 lần tần_số mang , nhưng không vượt quá 100 GHz . Tần_số của mỗi thành_phần bức_xạ giả phải được ghi lại . Nếu vị_trí thử bị nhiễu bức_xạ từ các vật bên ngoài , cần phòng có màn che hoặc giảm khoảng_cách giữa máy phát và ăng ten đo .
+
+c ) Tại mỗi tần_số bức_xạ cần được ghi lại , máy thu đo phải hiệu_chỉnh và ăng ten đo được nâng lên hoặc hạ xuống trong dải mức tín_hiệu cao nhất mà máy thu đo tách được .
+
+d ) Quay máy thu 360 theo trục thẳng , để tìm mức tín_hiệu cực_đại .
+
+e ) Nâng lên , hạ xuống ăng ten thử qua điểm có mức tín_hiệu lớn nhất . Ghi lại mức tín_hiệu này .
+
+f ) Ăng ten thay_thế ( xem A . 3 . 2 ) được thay cho ăng ten thu tại cùng vị_trí và theo chiều phân_cực đứng . Nó được nối với bộ tạo tín_hiệu .
+
+g ) Tách thành_phần tín_hiệu tại mỗi tần_số khi chỉnh máy tạo tín_hiệu , ăng ten thay_thế và máy thu đo . Ăng ten thử được nâng lên , hạ xuống quanh mức tín_hiệu cực_đại . Ghi lại mức tín_hiệu của máy thu đo như trong bước e ) . Mức này sau khi tính đến độ tăng ích ăng ten thay_thế , suy hao cáp sẽ là thành_phần bức_xạ giả ở tần_số cần đo .
+
+h ) Ghi lại tần_số , mức thành_phần bức_xạ giả , băng_thông máy thu đo .
+
+i ) Lặp_lại các bước đo từ b ) đến h ) cho ăng ten thử phân_cực ngang .
+
+2 . 4 . 5 . 3 . 4 . Phương_pháp đo các thành_phần bức_xạ giả
+
+Phương_pháp này áp_dụng cho các máy thu có ăng ten liền ( trong máy ) .
+
+a ) Vị_trí đo thử chọn theo Phụ_lục A với đủ các yêu_cầu dải_tần quy_định của phép đo sử_dụng . Ăng ten thử ban_đầu được đặt theo chiều phân_cực đứng và nối với máy thu đo . Độ rộng băng_thông của máy thu đo được điều_chỉnh sao cho độ nhạy của nó so với mức giới_hạn bức_xạ giả trong trong 2 . 4 . 5 . 4 nhỏ hơn ít_nhất dưới 6 dB . Ghi lại độ rộng băng_thông vào trong báo_cáo đo kiểm .
+
+Máy thu thử_nghiệm được đặt và cố_định trên giá đỡ tại vị_trí chuẩn .
+
+b ) Các phép đo được thực_hiện như bước từ b ) đến i ) của 2 . 4 . 5 . 3 . 3 .
+
+2 . 4 . 5 . 4 . Giới_hạn
+
+Công_suất của mỗi thành_phần bức_xạ giả bất_kì không được vượt quá 2 nW cho dải_tần_số từ 25 MHz đến 1 GHz và 20 nW cho dải_tần_số trên 1 GHz .
+
+3 . Quy_định Về Quản_lý
+
+3 . 1 . Các thiết_bị vô_tuyến cự_li ngắn băng tần 1 GHz đến 40 GHz thuộc phạm_vi điều_chỉnh tại 1 . 1 phải tuân_thủ các quy_định kĩ_thuật trong quy_chuẩn này .
+
+3 . 2 . Việc đo kiểm / thử_nghiệm đối_với yêu_cầu kĩ_thuật quy_định tại 2 . 4 . 3 và 2 . 4 . 4 Quy_chuẩn này được thực_hiện bởi phòng thử_nghiệm trong nước được chỉ_định , phòng thử_nghiệm ngoài nước được thừa_nhận hoặc các phòng thử_nghiệm trong nước và ngoài nước được công_nhận phù_hợp với tiêu_chuẩn Iso 17025 , hoặc kết_quả đo kiểm / thử_nghiệm của nhà sản_xuất .
+
+3 . 3 . Việc đo kiểm / thử_nghiệm đối_với yêu_cầu kĩ_thuật quy_định tại Quy_chuẩn này ( trừ 2 . 4 . 3 và 2 . 4 . 4 ) được thực_hiện bởi phòng thử_nghiệm trong nước được chỉ_định , hoặc phòng thử_nghiệm ngoài nước được thừa_nhận .
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+Các tổ_chức , cá_nhân liên_quan có trách_nhiệm thực_hiện các quy_định về chứng_nhận hợp quy và công_bố hợp quy_thiết_bị vô_tuyến cự_li ngắn băng tần 1 GHz đến 40 GHz và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành .
+
+5 . Tổ_chức Thực_hiện
+
+5 . 1 . Cục Viễn_thông và các Sở Thông_tin và Truyền_thông có trách_nhiệm tổ_chức triển_khai hướng_dẫn , quản_lí và kiểm_tra các doanh_nghiệp thực_hiện Quy_chuẩn này .
+
+5 . 2 . Quy_chuẩn này được áp_dụng thay_thế cho Quy_chuẩn kĩ_thuật quốc_gia Qcvn 74 : 2013 / bt Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị vô_tuyến cự_li ngắn dải_tần 1 GHz - 40 GHz
+
+5 . 3 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện_tại văn_bản mới .
+
+5 . 4 . Trong quá_trình triển_khai thực_hiện Quy_chuẩn , nếu có vấn_đề phát_sinh , vướng_mắc , các tổ_chức và cá_nhân phản_ánh bằng văn_bản về Bộ Thông_tin và Truyền_thông ( Vụ Khoa_học và Công_nghệ ) để được hướng_dẫn , giải_quyết . / .

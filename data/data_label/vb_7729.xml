@@ -1,0 +1,291 @@
+Thông_tư số 15/2018/tt-bgdđt ngày 27 tháng 07 năm 2018 của bộ giáo_dục và đào_tạo
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 69/2017/NĐ-CP ngày 25 tháng 5 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Giáo_dục và Đào_tạo ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 64/2007/NĐ-CP ngày 10 tháng 4 năm 2007 </NĐ> của Chính_phủ về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 43/2011/NĐ-CP ngày 13 tháng 6 năm 2011 </NĐ> của Chính_phủ về việc cung_cấp thông_tin và dịch_vụ công trực_tuyến trên trang thông_tin điện_tử hoặc cổng thông_tin điện_tử của cơ_quan nhà_nước ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 </NĐ> của Chính_phủ về quản_lý , cung_cấp , sử_dụng dịch_vụ Internet và thông_tin trên mạng ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 27/2018/NĐ-CP ngày 01 tháng 3 năm 2018 </NĐ> của Chính_phủ sửa_đổi , bổ_sung một_số Điều của <NĐ rel="None"> Nghị_định số 72/2013/NĐ-CP ngày 15 tháng 7 năm 2013 </NĐ> của Chính_phủ về quản_lý , cung_cấp , sử_dụng dịch_vụ Internet và thông_tin trên mạng ;
+
+Căn_cứ <CT rel="CC"> Chỉ_thị số 34/2008/CT-TTg ngày 03 tháng 12 năm 2008 </CT> về việc tăng_cường sử_dụng hệ_thống thư điện_tử trong hoạt_động của cơ_quan nhà_nước ;
+
+Theo đề_nghị của Cục_trưởng Cục công_nghệ thông_tin ,
+
+Bộ_trưởng Bộ Giáo_dục và Đào_tạo ban_hành Thông_tư quy_định tổ_chức hoạt_động , sử_dụng thư điện_tử và trang thông_tin điện_tử của các cơ_sở giáo_dục đại_học , các trường cao_đẳng sư_phạm .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh và đối_tượng áp_dụng
+
+1 . Thông_tư này quy_định về tổ_chức hoạt_động , sử_dụng thư điện_tử , trang thông_tin điện_tử hoặc cổng thông_tin điện_tử ( sau đây gọi chung là trang thông_tin điện_tử ) của các cơ_sở giáo_dục đại_học , các trường cao_đẳng sư_phạm .
+
+2 . Thông_tư này áp_dụng đối_với các đại_học , học_viện , các trường đại_học , các trường cao_đẳng sư_phạm và các viện nghiên_cứu khoa_học được giao nhiệm_vụ đào_tạo trình_độ tiến_sĩ ( sau đây gọi chung là cơ_sở giáo_dục đại_học ) .
+
+Điều 2 . Giải_thích từ_ngữ
+
+Trong văn_bản này các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Nhóm thư điện_tử ( email group ) là tập_hợp các địa_chỉ thư điện_tử được lập để chia_sẻ thông_tin nội_bộ giữa các địa_chỉ thư điện_tử tham_gia nhóm . Khi một thành_viên trong nhóm gửi đến địa_chỉ chung của nhóm thì các thành_viên trong nhóm đều nhận được .
+
+2 . Rs ( Really Simple_syndication ) là một chuẩn định_dạng nhằm mục_đích chia_sẻ nội_dung trên mạng máy_tính .
+
+3 . Chuẩn_dublin Core về dữ_liệu đặc_tả là một tập bao_gồm 15 yếu_tố dữ_liệu đặc_tả cơ_bản được sử_dụng để mô_tả tài_nguyên . Trong đó , dữ_liệu đặc_tả ( metadata ) là những thông_tin mô_tả các đặc_tính của dữ_liệu như nội_dung , định_dạng , chất_lượng , điều_kiện và các đặc_tính khác nhằm tạo thuận_lợi cho quá_trình tìm_kiếm , truy_cập , quản_lí và lưu_trữ dữ_liệu .
+
+Điều 3 . Yêu_cầu chung về hệ_thống thư điện_tử và trang thông_tin điện_tử
+
+1 . Việc thiết_kế , xây_dựng thư điện_tử và trang thông_tin điện_tử phải đáp_ứng các yêu_cầu sau :
+
+a ) Tuân_thủ các tiêu_chuẩn kĩ_thuật về ứng_dụng công_nghệ thông_tin quy_định tại <TT rel="DC"> Thông_tư 39/2017/TT-BTTTT ngày 15 tháng 12 năm 2017 </TT> của Bộ Thông_tin và Truyền_thông ban_hành danh_mục_tiêu_chuẩn kĩ_thuật về ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước .
+
+b ) Sử_dụng tên_miền quốc_gia Việt_nam . vn cấp 2 ( tên_miền riêng ) .
+
+2 . Hệ_thống thư điện_tử , trang thông_tin điện_tử của cơ_sở giáo_dục đại_học được thiết_lập theo một trong các phương_thức sau :
+
+a ) Tự đầu_tư thiết_lập hệ_thống .
+
+b ) Thuê dịch_vụ công_nghệ thông_tin hoặc sử_dụng dịch_vụ miễn_phí .
+
+3 . Việc quản_lí thư điện_tử và trang thông_tin điện_tử tại các cơ_sở giáo_dục đại_học đảm_bảo các nội_dung sau :
+
+a ) Có quy_chế quản_lý , vận_hành , sử_dụng thư điện_tử và trang thông_tin điện_tử .
+
+b ) Có giải_pháp kĩ_thuật duy_trì hoạt_động liên_tục , ổn_định , an_toàn thông_tin cho hệ_thống thư điện_tử và trang thông_tin điện_tử .
+
+c ) Có kế_hoạch nâng_cấp , bảo_trì thường_xuyên đáp_ứng yêu_cầu của thực_tế và lấy người sử_dụng làm trung_tâm .
+
+4 . Việc đầu_tư xây_dựng và bố_trí nhân_lực quản_lý , vận_hành hệ_thống thư điện_tử và trang thông_tin điện_tử do cơ_sở giáo_dục đại_học thực_hiện . Kinh_phí triển_khai , vận_hành hệ_thống thư điện_tử và trang thông_tin điện_tử được cân_đối trong dự_toán chi của cơ_sở giáo_dục đại_học .
+
+Chương_ii
+
+Thư Điện_tử
+
+Điều 4 . Quản_lý , vận_hành , sử_dụng thư điện_tử
+
+1 . Cơ_sở giáo_dục đại_học có trách_nhiệm cung_cấp miễn_phí thư điện_tử tên_miền riêng ( gồm địa_chỉ và không_gian lưu_trữ ) cho các đơn_vị trực_thuộc , cán_bộ quản_lý , giảng_viên ; khuyến_khích cung_cấp thư điện_tử cho nghiên_cứu_sinh , học_viên cao_học , sinh_viên phục_vụ công_tác quản_lý , điều_hành và giao_dịch trên môi_trường mạng .
+
+2 . Quy_chế quản_lý , vận_hành , sử_dụng thư điện_tử của cơ_sở giáo_dục đại_học bao_gồm tối_thiểu các quy_định sau :
+
+a ) Quy_định về cung_cấp , quản_trị thư điện_tử .
+
+b ) Quy_định về nội_dung thông_tin gửi , nhận qua thư điện_tử .
+
+c ) Quy_định trách_nhiệm của các đơn_vị , cá_nhân khi sử_dụng thư điện_tử .
+
+3 . Việc quản_lý , quản_trị , vận_hành hệ_thống thư điện_tử tại cơ_sở giáo_dục đại_học được giao cho một đơn_vị thực_hiện .
+
+Điều 5 . Nhóm thư điện_tử dùng chung
+
+1 . Bộ Giáo_dục và Đào_tạo thiết_lập nhóm thư điện_tử dùng chung để trao_đổi thông_tin giữa Bộ Giáo_dục và Đào_tạo với các cơ_sở giáo_dục đại_học .
+
+2 . Các nhóm thư điện_tử dùng chung do Bộ Giáo_dục và Đào_tạo cung_cấp và quản_lí bao_gồm :
+
+a ) Nhóm thư điện_tử của thủ_trưởng các cơ_sở giáo_dục đại_học :
+
+Hieutruong . Daihoc @ moet . gov . vn
+
+b ) Nhóm thư điện_tử của văn_thư các cơ_sở giáo_dục đại_học :
+
+Van_thu . Daihoc @ moet . gov . vn .
+
+3 . Cơ_sở giáo_dục đại_học có trách_nhiệm liên_hệ với Bộ Giáo_dục và Đào_tạo ( Cục Công_nghệ thông_tin ) để đăng_kí , cập_nhật kịp_thời địa_chỉ thư điện_tử của thủ_trưởng và bộ_phận văn_thư vào nhóm thư điện_tử dùng chung .
+
+Chương_iii
+
+Trang Thông_tin Điện_tử
+
+Điều 6 . Chức_năng và nhiệm_vụ của trang thông_tin điện_tử
+
+1 . Xây_dựng mối quan_hệ trực_tuyến giữa cơ_sở giáo_dục đại_học với các tổ_chức , cá_nhân có liên_quan .
+
+2 . Công_khai , minh_bạch thông_tin của cơ_sở giáo_dục đại_học theo quy_định hiện_hành .
+
+3 . Cung_cấp đầy_đủ , chính_xác , kịp_thời các thông_tin chính_thống của cơ_sở giáo_dục đại_học trên môi_trường mạng .
+
+Điều 7 . Nguyên_tắc cung_cấp thông_tin lên trang thông_tin điện_tử
+
+1 . Thông_tin cung_cấp trên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học phải đúng với quan_điểm , chủ_trương , đường_lối của Đảng , chính_sách , pháp_luật của Nhà_nước và có giá_trị pháp_lý .
+
+2 . Thông_tin cung_cấp trên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học phải tuân_thủ các quy_định của pháp_luật về an_toàn , an_ninh mạng , bảo_vệ bí_mật nhà_nước , báo_chí , sở_hữu trí_tuệ và quản_lí thông_tin trên Internet .
+
+3 . Việc đăng_tải , trích_dẫn , sử_dụng lại thông_tin trên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học phải ghi rõ thông_tin về tác_giả , nguồn của thông_tin .
+
+Điều 8 . Quản_lý , vận_hành , sử_dụng trang thông_tin điện_tử
+
+1 . Thủ_trưởng cơ_sở giáo_dục đại_học Quyết_định thành_lập Ban Biên_tập trang thông_tin điện_tử để quản_lí nội_dung của trang thông_tin điện_tử , phân_công một lãnh_đạo cơ_sở giáo_dục đại_học làm trưởng Ban Biên_tập .
+
+2 . Quy_chế quản_lý , vận_hành , sử_dụng trang thông_tin điện_tử do Thủ_trưởng cơ_sở giáo_dục đại_học ban_hành cần quy_định tối_thiểu các nội_dung sau :
+
+a ) Nội_dung cần công_khai trên trang thông_tin điện_tử .
+
+b ) Quy_trình tiếp_nhận , xử_lý , biên_tập , cập_nhật và xử_lí thông_tin đăng_tải trên trang thông_tin điện_tử .
+
+c ) Thời_hạn cung_cấp , cập_nhật thông_tin trên trang thông_tin điện_tử .
+
+d ) Trách_nhiệm của các đơn_vị , cá_nhân trong việc cung_cấp , tổng_hợp , thẩm_định và duyệt nội_dung đăng_tải trên trang thông_tin điện_tử .
+
+đ ) Quy_định về quản_lý , vận_hành kĩ_thuật trang thông_tin điện_tử .
+
+3 . Cơ_sở giáo_dục đại_học giao một đơn_vị trực_thuộc chịu trách_nhiệm quản_lý , vận_hành kĩ_thuật đảm_bảo hoạt_động ổn_định và an_toàn thông_tin cho trang thông_tin điện_tử .
+
+Điều 9 . Áp_dụng công_nghệ , tiêu_chuẩn kĩ_thuật
+
+Trang thông_tin điện_tử của cơ_sở giáo_dục đại_học áp_dụng các công_nghệ , tiêu_chuẩn , giải_pháp kĩ_thuật sau :
+
+1 . Bộ mã kí_tự chữ tiếng Việt_unicode theo tiêu_chuẩn Tcvn 6909 : 2001 trong việc lưu_trữ dữ_liệu và trao_đổi thông_tin trên trang thông_tin điện_tử .
+
+2 . Giải_pháp kĩ_thuật hỗ_trợ người dùng truy_cập trang thông_tin điện_tử từ các thiết_bị di_động .
+
+3 . Giải_pháp hỗ_trợ người khuyết_tật truy_cập thông_tin theo quy_định .
+
+4 . Giải_pháp cung_cấp công_cụ tìm_kiếm toàn_văn .
+
+5 . Giải_pháp cho phép chia_sẻ nội_dung Rs .
+
+6 . Chuẩn_dublin Core về dữ_liệu đặc_tả .
+
+Điều 10 . Thông_tin chung về tổ_chức , hành_chính
+
+Các cơ_sở giáo_dục đại_học cung_cấp , cập_nhật thường_xuyên , chính_xác các thông_tin chung về tổ_chức , hành_chính trên trang thông_tin điện_tử , bao_gồm :
+
+1 . Thông_tin giới_thiệu gồm : Sứ_mạng , tầm nhìn , chiến_lược phát_triển ; sơ_đồ , cơ_cấu tổ_chức , chức_năng , nhiệm_vụ , quyền_hạn của cơ_sở giáo_dục đại_học và các đơn_vị trực_thuộc ; tóm_lược quá_trình hình_thành và phát_triển của cơ_sở giáo_dục đại_học ; họ và tên , chức_vụ , điện_thoại , địa_chỉ thư điện_tử và nhiệm_vụ đảm_nhiệm của lãnh_đạo cơ_sở giáo_dục đại_học .
+
+2 . Thông_tin giao_dịch gồm : Địa_chỉ , điện_thoại , số fax , địa_chỉ thư điện_tử chính_thức của cơ_sở giáo_dục đại_học để giao_dịch và tiếp_nhận các thông_tin .
+
+3 . Hệ_thống các quy_định , văn_bản quản_lí điều_hành liên_quan đến hoạt_động của cơ_sở giáo_dục đại_học .
+
+4 . Thông_tin về thủ_tục hành_chính gồm :
+
+a ) Danh_mục các dịch_vụ trực_tuyến được tổ_chức thực_hiện trên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học .
+
+b ) Danh_mục các thủ_tục hành_chính thuộc thẩm_quyền giải_quyết của cơ_sở giáo_dục đại_học kèm theo quy_trình , hồ_sơ , thủ_tục , thông_tin giao_dịch của người xử_lí trực_tiếp , thời_hạn giải_quyết , phí và lệ_phí ( nếu có ) .
+
+5 . Thông_tin tuyên_truyền , phổ_biến , hướng_dẫn thực_hiện pháp_luật , chế_độ , chính_sách , quy_hoạch của cơ_sở giáo_dục đại_học .
+
+6 . Mục lấy ý_kiến góp_ý của tổ_chức , cá_nhân gồm : Danh_sách các vấn_đề cần xin ý_kiến ; nội_dung vấn_đề xin ý_kiến ; địa_chỉ , thư điện_tử tiếp_nhận ý_kiến và thời_hạn tiếp_nhận ý_kiến .
+
+7 . Khuyến_khích các đơn_vị trực_thuộc cơ_sở giáo_dục đại_học thiết_lập trang tin điện_tử riêng nằm trong hệ_thống trang thông_tin điện_tử của cơ_sở giáo_dục đại_học .
+
+Điều 11 . Thông_tin công_khai đối_với cơ_sở giáo_dục đại_học
+
+Thông_tin công_khai của cơ_sở giáo_dục đại_học và thời_hạn đăng tin lên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học thực_hiện theo quy_định tại <TT rel="DC"> Thông_tư số 36/2017/TT-BGDĐT ngày 28 tháng 12 năm 2017 </TT> ban_hành quy_chế thực_hiện công_khai đối_với cơ_sở giáo_dục và đào_tạo thuộc hệ_thống giáo_dục quốc dân , bao_gồm :
+
+1 . Nhóm thông_tin công_khai cam_kết chất_lượng giáo_dục và chất_lượng giáo_dục thực_tế .
+
+2 . Nhóm thông_tin công_khai điều_kiện đảm_bảo chất_lượng giáo_dục .
+
+3 . Nhóm thông_tin công_khai thu_chi tài_chính .
+
+Điều 12 . Thông_tin về tuyển_sinh trình_độ đại_học , cao_đẳng sư_phạm
+
+1 . Thông_tin về tuyển_sinh đại_học hệ chính_quy , cao_đẳng nhóm ngành đào_tạo giáo_viên hệ chính_quy và thời_hạn đăng tin lên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học thực_hiện theo quy_định tại Quy_chế tuyển_sinh đại_học hệ chính_quy , cao_đẳng nhóm ngành đào_tạo giáo_viên hệ chính_quy , bao_gồm :
+
+a ) Đề_án tuyển_sinh , thông_tin tuyển_sinh .
+
+b ) Thông_tin liên_quan đến điều_kiện , hồ_sơ , thủ_tục , thời_gian và địa_điểm đăng_kí dự thi , sơ_tuyển , xét tuyển .
+
+c ) Thông_tin cần_thiết để thí_sinh đăng_kí xét tuyển .
+
+d ) Kết_quả trúng_tuyển , điểm trúng_tuyển , danh_sách thí_sinh trúng_tuyển .
+
+đ ) Quy_chế tuyển_sinh của trường ( nếu có ) .
+
+2 . Thông_tin về đào_tạo từ xa trình_độ đại_học và thời_hạn đăng tin lên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học thực_hiện theo quy_định tại <TT rel="DC"> Thông_tư số 10/2017/TT-BGDĐT ngày 28 tháng 4 năm 2017 </TT> của Bộ Giáo_dục và Đào_tạo ban_hành quy_chế đào_tạo từ xa trình_độ đại_học , bao_gồm :
+
+a ) Thông_báo tuyển_sinh và các thông_tin liên_quan đến chương_trình đào_tạo từ xa , kết_quả tuyển_sinh .
+
+b ) Những quy_định liên_quan đến đào_tạo từ xa , chương_trình đào_tạo từ xa , các điều_kiện đảm_bảo chất_lượng cho việc thực_hiện chương_trình đào_tạo từ xa , thông_tin về kiểm_định chất_lượng của cơ_sở giáo_dục đại_học , tình_hình việc_làm của người học sau khi tốt_nghiệp đối_với từng ngành đào_tạo và từng khoá học .
+
+Điều 13 . Thông_tin về tuyển_sinh và đào_tạo trình_độ thạc_sĩ
+
+Thông_tin về tuyển_sinh , đào_tạo trình_độ thạc_sĩ và thời_hạn đăng tin lên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học thực_hiện theo quy_định tại <TT rel="DC"> Thông_tư số 15/2014/TT-BGDĐT ngày 15 tháng 5 năm 2014 </TT> của Bộ Giáo_dục và Đào_tạo ban_hành quy_chế đào_tạo trình_độ thạc_sĩ , bao_gồm :
+
+1 . Thông_tin về phương_thức tuyển_sinh , số lần tuyển_sinh , thời_điểm tuyển_sinh trong năm và địa_điểm tuyển_sinh .
+
+2 . Thông_tin về việc học bổ_sung , quy_định về học bổ_sung kiến_thức .
+
+3 . Thông_tin thông_báo tuyển_sinh .
+
+4 . Danh_sách thí_sinh đủ điều_kiện dự thi .
+
+5 . Danh_sách thí_sinh trúng_tuyển .
+
+6 . Các thông_tin quy_định tại khoản 9 Điều 34 Quy_chế đào_tạo trình_độ thạc_sĩ ban_hành kèm theo <TT rel="DC"> Thông_tư số 15/2014/TT-BGDĐT ngày 15 tháng 5 năm 2014 </TT> của Bộ Giáo_dục và Đào_tạo .
+
+Điều 14 . Thông_tin về tuyển_sinh và đào_tạo trình_độ tiến_sĩ
+
+Thông_tin về tuyển_sinh , đào_tạo trình_độ tiến_sĩ và thời_hạn đăng tin lên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học thực_hiện theo quy_định tại <TT rel="DC"> Thông_tư số 08/2017/TT-BGDĐT ngày 04 tháng 4 năm 2017 </TT> của Bộ Giáo_dục và Đào_tạo ban_hành quy_chế tuyển_sinh và đào_tạo trình_độ tiến_sĩ , bao_gồm :
+
+1 . Thông_tin liên_quan đến tuyển_sinh , đào_tạo trình_độ tiến_sĩ , thông_báo tuyển_sinh . Thông_báo tuyển_sinh nêu rõ điều_kiện dự_tuyển , ngành đào_tạo , danh_sách người hướng_dẫn , chỉ_tiêu tuyển_sinh , hồ_sơ , thời_gian nhận hồ_sơ , kế_hoạch và phương_thức tuyển_sinh .
+
+2 . Thời_gian , địa_điểm tổ_chức đánh_giá luận_án , tóm_tắt và toàn_văn luận_án , những điểm mới của luận_án bằng tiếng Việt và tiếng Anh hoặc tiếng nước_ngoài khác .
+
+3 . Toàn_văn luận_án và tóm_tắt luận_án hoàn_chỉnh cuối_cùng có chữ_kí của nghiên_cứu_sinh , chữ_kí của người hướng_dẫn và xác_nhận của thủ_trưởng cơ_sở giáo_dục đại_học sau khi đã bổ_sung , sửa_chữa theo yêu_cầu của Hội_đồng đánh_giá luận_án cấp trường , viện và Hội_đồng thẩm_định ( nếu có ) .
+
+Điều 15 . Thông_tin kiểm_định chất_lượng giáo_dục và cấp văn_bằng , chứng_chỉ
+
+Công_khai trên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học các thông_tin kiểm_định chất_lượng giáo_dục và cấp văn_bằng_chứng_chỉ , gồm :
+
+1 . Giấy chứng_nhận kiểm_định chất_lượng giáo_dục được công_bố chậm nhất 10 ngày làm_việc sau khi được cấp theo quy_định tại <TT rel="DC"> Thông_tư số 12/2017/TT-BGDĐT ngày 19 tháng 5 năm 2017 </TT> ban_hành quy_định về kiểm_định chất_lượng giáo_dục đại_học .
+
+2 . Thông_tin về kết_quả đánh_giá ngoài , Nghị_quyết và kiến_nghị của hội_đồng kiểm_định chất_lượng giáo_dục , kết_quả công_nhận đạt hay không đạt tiêu_chuẩn chất_lượng giáo_dục .
+
+3 . Thông_tin về văn_bằng , chứng_chỉ của hệ_thống giáo_dục quốc theo quy_định về quản_lí văn_bằng giáo_dục đại_học và chứng_chỉ của hệ_thống giáo_dục quốc dân .
+
+Điều 16 . Niên_giám thống_kê về giáo_dục
+
+Công_khai trên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học các thông_tin về niên_giám , thống_kê giáo_dục , gồm :
+
+1 . Niên_giám thống_kê của cơ_sở giáo_dục đại_học ít_nhất 5 năm gần nhất hoặc từ ngày thành_lập đối_với cơ_sở giáo_dục đại_học mới thành_lập .
+
+2 . Niên_giám thống_kê gồm các thông_tin cơ_bản sau : Năm_học , số_lượng giảng_viên , giáo_viên , giáo_sư , phó_giáo_sư , tiến_sĩ , thạc_sĩ ; số_lượng sinh_viên , theo các loại_hình và trình_độ đào_tạo ; số_lượng sinh_viên tuyển_sinh đầu_vào ; số_lượng sinh_viên tốt_nghiệp ra trường .
+
+Điều 17 . Thông_tin khác
+
+Các thông_tin khác cần công_khai trên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học gồm :
+
+1 . Hệ_thống thư_viện số ( giáo_trình , bài giảng , học liệu số ) tích_hợp trên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học .
+
+2 . Hệ_thống học_tập trực_tuyến ( e - Learning ) , phòng họp ảo tích_hợp trên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học .
+
+3 . Thông_tin về các tổ_chức Đảng , Đoàn_thanh_niên Cộng_sản Hồ_chí_minh , hội sinh_viên và các đoàn_thể khác .
+
+4 . Thông_cáo báo_chí , trả_lời phỏng_vấn và phát_ngôn chính_thức của cơ_sở giáo_dục đại_học về các vấn_đề có liên_quan .
+
+5 . Giải_đáp yêu_cầu của sinh_viên về các vấn_đề có liên_quan đến cơ_sở giáo_dục đại_học .
+
+6 . Thông_tin_học_bổng , tín_dụng vay vốn và các dịch_vụ hỗ_trợ khác cho sinh_viên .
+
+7 . Thông_tin tư_vấn hỗ_trợ việc_làm , tư_vấn hướng_nghiệp .
+
+8 . Các thông_tin khác theo quy_định .
+
+Chương_iv
+
+Tổ_chức Thực_hiện
+
+Điều 18 . Trách_nhiệm của các cơ_sở giáo_dục đại_học
+
+1 . Các cơ_sở giáo_dục đại_học chịu trách_nhiệm triển_khai sử_dụng thư điện_tử và trang thông_tin điện_tử theo quy_định tại Thông_tư này .
+
+2 . Đưa nội_dung xây_dựng , nâng_cấp , quản_lý , vận_hành hệ_thống thư điện_tử , trang thông_tin điện_tử vào kế_hoạch công_tác 5 năm và hàng năm .
+
+3 . Chịu trách_nhiệm quản_lí tài_khoản thư điện_tử tham_gia nhóm thư điện_tử , chịu trách_nhiệm nội_dung thông_tin gửi vào nhóm thư điện_tử và kiểm_tra xử_lí thư điện_tử nhận được trong nhóm thư điện_tử dùng chung_quy_định tại Điều 5 Thông_tư này .
+
+4 . Báo_cáo kết_quả triển_khai sử_dụng thư điện_tử và trang thông_tin điện_tử về Bộ Giáo_dục và Đào_tạo ( qua Cục Công_nghệ thông_tin ) hàng năm hoặc đột_xuất khi có yêu_cầu .
+
+5 . Tạo điều_kiện thuận_lợi cho công_tác kiểm_tra , đánh_giá , xếp_hạng kết_quả hoạt_động của hệ_thống thư điện_tử và nội_dung thông_tin trên trang thông_tin điện_tử của cơ_sở giáo_dục đại_học .
+
+Điều 19 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành từ ngày 11 tháng 9 năm 2018 .
+
+2 . Thông_tư này thay_thế <TT rel="None"> Thông_tư số 07/2010/TT-BGDĐT ngày 01 tháng 3 năm 2010 </TT> của Bộ Giáo_dục và Đào_tạo quy_định về tổ_chức hoạt_động , sử_dụng thư điện_tử và trang thông_tin điện_tử của các cơ_sở giáo_dục đại_học .
+
+Điều 20 . Trách_nhiệm thi_hành
+
+Chánh Văn_phòng , Cục_trưởng Cục Công_nghệ thông_tin , Thủ_trưởng các đơn_vị liên_quan thuộc Bộ Giáo_dục và Đào_tạo ; Giám_đốc đại_học , học_viện ; Hiệu_trưởng trường đại_học ; Hiệu_trưởng các trường cao_đẳng sư_phạm , các tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .

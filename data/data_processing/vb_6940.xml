@@ -1,0 +1,1061 @@
+Thông_tư số 20/2019/tt-btnmt ngày 18 tháng 12 năm 2019 của bộ tài_nguyên và môi_trường
+
+Căn_cứ Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Cục_trưởng Cục Công_nghệ thông_tin và Dữ_liệu tài_nguyên môi_trường , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư ban_hành quy_trình kĩ_thuật xây_dựng , duy_trì , vận_hành hệ_thống thông_tin ngành tài_nguyên và môi_trường .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này quy_trình kĩ_thuật xây_dựng , duy_trì , vận_hành hệ_thống thông_tin ngành tài_nguyên và môi_trường .
+
+Điều 2 . Thông_tư này có hiệu_lực kể từ ngày 05 tháng 02 năm 2020 .
+
+Thông_tư này bãi_bỏ một_số nội_dung của các Thông_tư sau : Chương_ii Phần Ii Thông_tư số 26/2014/TT-BTNMT ngày 28 tháng 5 năm 2014 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Quy_trình và Định_mức kinh_tế - kĩ_thuật xây_dựng cơ_sở dữ_liệu tài_nguyên và môi_trường ; Điều 18 Thông_tư số 58/2015/TT-BTNMT ngày 8 tháng 12 năm 2015 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định thẩm_định , kiểm_tra và nghiệm_thu dự_án ứng_dụng công_nghệ thông_tin tài_nguyên và môi_trường kể từ khi Thông_tư này có hiệu_lực .
+
+Điều 3 . Bộ_trưởng , Thủ_trưởng các cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương , Cục_trưởng Cục Công_nghệ thông_tin và Dữ_liệu tài_nguyên môi_trường , Thủ_trưởng các đơn_vị trực_thuộc Bộ Tài_nguyên và Môi_trường , Giám_đốc Sở Tài_nguyên và Môi_trường các tỉnh , thành_phố trực_thuộc Trung_ương và tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+Trong quá_trình thực_hiện nếu có khó_khăn vướng_mắc , đề_nghị các cơ_quan , đơn_vị phản_ánh về Bộ Tài_nguyên và Môi_trường để sửa_đổi , bổ_sung cho phù_hợp . / .
+
+Quy_trình Kỹ_thuật
+
+Xây_dựng , Duy_trì , Vận_hành Các Hệ_thống Thông_tin Ngành Tài_nguyên Và Môi_trường ( Ban_hành kèm theo Thông_tư số / 2019 / t - btnmt ngày_tháng năm 2019 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường )
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Quy_trình kĩ_thuật xây_dựng , duy_trì , vận_hành hệ_thống thông_tin ngành tài_nguyên và môi_trường quy_định các bước thực_hiện trong việc :
+
+a ) Xây_dựng phần_mềm hỗ_trợ quản_lý , khai_thác , vận_hành cơ_sở dữ_liệu ngành tài_nguyên và môi_trường ;
+
+b ) Duy_trì , vận_hành hệ_thống thông_tin ngành tài_nguyên và môi_trường ;
+
+c ) Kiểm_tra , nghiệm_thu phần_mềm hỗ_trợ ; kiểm_tra , duy_trì , vận_hành hệ_thống thông_tin ngành tài_nguyên và môi_trường .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Quy_trình này áp_dụng cho các cơ_quan nhà_nước , các đơn_vị sự_nghiệp công_lập , các tổ_chức và cá_nhân có liên_quan thực_hiện các công_việc về ứng_dụng công_nghệ thông_tin trong ngành tài_nguyên và môi_trường .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong văn_bản này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Phần_mềm hỗ_trợ việc quản_lý , khai_thác cơ_sở dữ_liệu ngành tài_nguyên và môi_trường : Là phần_mềm được phát_triển , nâng_cấp , chỉnh_sửa theo các yêu_cầu riêng của các đơn_vị nhằm ứng các nghiệp_vụ về việc xây_dựng , quản_lý , khai_thác và vận_hành cơ_sở dữ_liệu ngành tài_nguyên và môi_trường .
+
+2 . Hệ_thống phần_cứng công_nghệ thông_tin là tập_hợp hạ_tầng phần_cứng vật_lí các thiết_bị công_nghệ thông_tin bao_gồm :
+
+a ) Hệ_thống máy_chủ
+
+b ) Hệ_thống_thiết_bị mạng
+
+c ) Hệ_thống_thiết_bị lưu_trữ , sao lưu dữ_liệu
+
+d ) Hệ_thống cáp mạng
+
+đ ) Hệ_thống_thiết_bị hội_nghị truyền_hình
+
+e ) Hệ_thống thoại Ip
+
+3 . Phần_mềm hệ_thống là phần_mềm quản_lí điều_hành thiết_bị phần_cứng công_nghệ thông_tin , các phần_mềm phục_vụ quản_lí người dùng và quản_lí các quá_trình truy_cập của người dùng và các quá_trình đòi_hỏi cần quản_lí trong quá_trình khai_thác , bao_gồm :
+
+a ) Dịch_vụ Dns , Wins , Ldap , Directory , Proxy , Cluster , Dhcp , Ca , Radius , Nms , . . . và tương_đương
+
+b ) Phần_mềm quản_lý , giám_sát mạng
+
+c ) Phần_mềm dò quét lỗ_hổng an_ninh mạng , website
+
+d ) Phần_mềm sao lưu , phục_hồi
+
+đ ) Phần_mềm giám_sát mạng không dây
+
+e ) Phần_mềm hỗ_trợ người dùng
+
+g ) Phần_mềm thu_thập và phân_tích logs
+
+h ) Phần_mềm tường lửa , phòng_chống tấn_công mạng , QoS
+
+i ) Phần_mềm cân_bằng tải
+
+k ) Phần_mềm chống tấn_công từ_chối dịch_vụ
+
+l ) Phần_mềm quản_lí máy_chủ ảo hoá
+
+m ) Phần_mềm mạng riêng ảo Vpn
+
+n ) Phần_mềm xử_lí dữ_liệu không_gian ( Arc_gis , MapInfo , )
+
+o ) Phần_mềm hệ quản_trị cơ_sở dữ_liệu ( Oracle , Microsoft Sql_server , )
+
+q ) Phần_mềm nguồn mở .
+
+Chương_ii
+
+Quy_trình Xây_dựng Phần_mềm Hỗ_trợ Việc Quản_lý , Khai_thác Cơ_sở Dữ_liệu Ngành Tài_nguyên Và Môi_trường
+
+Điều 4 . Sơ_đồ quy_trình xây_dựng phần_mềm hỗ_trợ việc quản_lý , khai_thác cơ_sở dữ_liệu ngành tài_nguyên và môi_trường
+
+Điều 5 . Quy_trình chi_tiết xây_dựng phần_mềm hỗ_trợ việc quản_lý , khai_thác cơ_sở dữ_liệu ngành tài_nguyên và môi_trường
+
+1 . Xác_định yêu_cầu
+
+a ) Các bước thực_hiện
+
+Thu_thập các quy_trình nghiệp_vụ của tổ_chức , đơn_vị sử_dụng hệ_thống .
+
+- Thu_thập thông_tin về cơ_cấu tổ_chức của đơn_vị .
+
+- Mô_hình_hoá chi_tiết các quy_trình , nghiệp_vụ của tổ_chức , đơn_vị bằng ngôn_ngữ Uml .
+
+Xác_định các yêu_cầu chức_năng
+
+- Xác_định tên và mô_tả từng chức_năng .
+
+- Xác_định người sử_dụng chức_năng .
+
+- Xác_định các thông_tin cần cập_nhật , quản_lý .
+
+- Đưa ra hình_vẽ minh_hoạ giao_diện ( nếu có ) . Đặc_tả dữ_liệu
+
+- Xác_định hiện_trạng dữ_liệu hiện có .
+
+- Đưa ra các yêu_cầu quản_lí dữ_liệu .
+
+Xác_định các yêu_cầu khác
+
+- Xác_định yêu_cầu về tính sử_dụng .
+
+- Xác_định yêu_cầu về tính ổn_định .
+
+- Xác_định yêu_cầu về tốc_độ xử_lý .
+
+- Xác_định yêu_cầu về tính hỗ_trợ .
+
+- Xác_định yêu_cầu về công_nghệ và các ràng_buộc .
+
+- Xác_định các yêu_cầu về giao_tiếp .
+
+- Xác_định các yêu_cầu khác ( nếu có ) .
+
+b ) Sản_phẩm
+
+Tài_liệu yêu_cầu người dùng ( urd - User Requirements_document - theo Mẫu Xd . 01 ) .
+
+2 . Phân_tích và thiết_kế
+
+2 . 1 . Phân_tích yêu_cầu
+
+a ) Các bước thực_hiện
+
+Xác_định lại các quy_trình nghiệp_vụ được tin_học_hoá
+
+- Mô_hình_hoá lại các quy_trình nghiệp_vụ sẽ được tin_học_hoá .
+
+- Mô_tả chi_tiết các bước trong từng quy_trình .
+
+Xác_định_danh_sách chức_năng hệ_thống
+
+- Liệt_kê danh_sách các chức_năng của hệ_thống .
+
+- Mô_tả chi_tiết từng chức_năng , đưa ra các yêu_cầu đối_với từng chức_năng ( nếu có ) .
+
+- Xác_định các tác_nhân của từng chức_năng . Xác_định các yêu_cầu về thông_tin dữ_liệu
+
+- Xác_định thông_tin các đối_tượng cần quản_lý .
+
+- Xác_định các mối quan_hệ giữa các đối_tượng quản_lý .
+
+Xác_định các yêu_cầu về giao_diện của phần_mềm
+
+- Xác_định các giao_diện người dùng .
+
+- Xác_định các giao_diện phần_cứng .
+
+- Xác_định các giao_diện phần_mềm .
+
+- Xác_định các giao_tiếp truyền_thông .
+
+Xác_định các yêu_cầu phi chức_năng của phần_mềm
+
+- Xác_định các yêu_cầu về hiệu_năng .
+
+- Xác_định các yêu_cầu_an_toàn và bảo_mật .
+
+- Xác_định các yêu_cầu về chất_lượng .
+
+- Xác_định các yêu_cầu khác . b ) Sản_phẩm
+
+Tài_liệu đặc_tả yêu_cầu phần_mềm ( srs - Software Requirements_specification - Theo mẫu Xd . 02 ) .
+
+2 . 2 . Thiết_kế hệ_thống
+
+a ) Các bước thực_hiện
+
+Thiết_kế kiến_trúc phần_mềm . Thiết_kế biểu_đồ Thsd .
+
+Thiết_kế biểu_đồ tuần_tự ( sequence diagram ) . Thiết_kế biểu_đồ lớp ( class ) .
+
+Thiết_kế mô_hình cơ_sở dữ_liệu ( database ) Thiết_kế giao_diện phần_mềm .
+
+b ) Sản_phẩm
+
+Báo_cáo thuyết_minh kiến_trúc phần_mềm ( theo mẫu Xd . 03 ) .
+
+Báo_cáo thuyết_minh biểu_đồ Thsd ( theo mẫu Xd . 04 ) . Báo_cáo thuyết_minh biểu_đồ tuần_tự ( theo mẫu Xd . 05 ) . Báo_cáo thuyết_minh biểu_đồ lớp ( theo mẫu Xd . 06 ) .
+
+Báo_cáo thuyết_minh mô_hình cơ_sở dữ_liệu ( theo mẫu Xd . 07 ) .
+
+Báo_cáo thiết_kế giao_diện phần_mềm ( theo mẫu Xd . 08 ) .
+
+2 . 3 . Lập_trình
+
+a ) Các bước thực_hiện
+
+Viết mã nguồn .
+
+Tích_hợp mã nguồn .
+
+2 . 4 . Kiểm_tra , kiểm_thử
+
+a ) Các bước thực_hiện
+
+Kiểm_tra mã nguồn theo quy_tắc lập_trình ( coding convention ) .
+
+Kiểm_thử mức thành_phần .
+
+Kiểm_thử mức hệ_thống .
+
+b ) Sản_phẩm
+
+Báo_cáo kiểm_tra theo quy_tắc lập_trình ( theo mẫu Xd . 09 ) .
+
+Báo_cáo kiểm_tra các thành_phần của hệ_thống ( theo mẫu Xd . 10 ) .
+
+Báo_cáo kiểm_tra toàn_bộ hệ_thống ( theo mẫu Xd . 11 ) .
+
+2 . 5 . Hoàn_thiện , đóng_gói sản_phẩm
+
+a ) Các bước thực_hiện
+
+Viết tài_liệu mô_tả giới_thiệu phần_mềm .
+
+Viết tài_liệu hướng_dẫn cài_đặt phần_mềm .
+
+Xây_dựng tài_liệu hướng_dẫn sử_dụng phần_mềm .
+
+Đóng_gói phần_mềm .
+
+b ) Sản_phẩm
+
+Tài_liệu mô_tả giới_thiệu phần_mềm .
+
+Tài_liệu hướng_dẫn cài_đặt và sử_dụng phần_mềm .
+
+Phần_mềm đã được đóng_gói hoàn_chỉnh .
+
+2 . 6 . Cài_đặt , chuyển_giao , hướng_dẫn sử_dụng
+
+a ) Các bước thực_hiện
+
+Cài_đặt phần_mềm trên hạ_tầng của đơn_vị sử_dụng .
+
+Đào_tạo , hướng_dẫn người dùng sử_dụng phần_mềm .
+
+Bàn_giao tài_liệu hướng_dẫn cài_đặt và sử_dụng phần_mềm .
+
+b ) Sản_phẩm
+
+Biên_bản bàn_giao sản_phẩm ( theo mẫu Xd . 12 ) .
+
+2 . 7 . Bảo_trì , bảo_hành phần_mềm
+
+a ) Các bước thực_hiện
+
+Chỉnh_sửa và khắc_phục các lỗi phát_sinh trong quá_trình sử_dụng phần_mềm .
+
+Phát_hành các bản vá_lỗi .
+
+Xử_lí_sự_cố liên_quan đến dữ_liệu ( khôi_phục dữ_liệu , tối_ưu_hoá , ) .
+
+Bản vá_lỗi phần_mềm hoặc phần_mềm đã được vá_lỗi .
+
+2 . 8 . Quản_lí và cập_nhật yêu_cầu thay_đổi
+
+a ) Các bước thực_hiện
+
+Ghi_nhận yêu_cầu thay_đổi .
+
+Cập_nhật các sản_phẩm để đáp_ứng yêu_cầu thay_đổi .
+
+b ) Sản_phẩm
+
+Báo_cáo yêu_cầu thay_đổi ( theo mẫu Xd . 14 ) .
+
+Phần_mềm đã được cập_nhật .
+
+( Danh_mục các sản_phẩm của Chương Ii tại Bảng_số 01 ) .
+
+Chương_iii
+
+Quy_trình Duy_trì , Vận_hành Hệ_thống Thông_tin Ngành Tài_nguyên Và Môi_trường
+
+Mục_i . Quy_trình Duy_trì , Vận_hành Phần_mềm Hỗ_trợ Việc Quản_lý , Khai_thác Cơ_sở Dữ_liệu Ngành Tài_nguyên Và Môi_trường
+
+Điều 6 . Sơ_đồ quy_trình duy_trì , vận_hành phần_mềm hỗ_trợ việc quản_lý , khai_thác cơ_sở dữ_liệu ngành tài_nguyên và môi_trường
+
+Điều 7 . Quy_trình chi_tiết duy_trì , vận_hành phần_mềm hỗ_trợ việc quản_lý , khai_thác cơ_sở dữ_liệu ngành tài_nguyên và môi_trường
+
+1 . Kiểm_tra , giám_sát
+
+a ) Các bước thực_hiện
+
+Kiểm_tra , giám_sát trạng_thái hoạt_động hệ_thống ;
+
+Kiểm_tra nhật_kí hoạt_động hệ_thống ;
+
+Kiểm_tra , giám_sát các chức_năng của hệ_thống ;
+
+Kiểm_tra , giám_sát các dịch_vụ của hệ_thống ;
+
+Kiểm_tra , theo_dõi hiện_trạng hệ_thống , sao lưu .
+
+b ) Sản_phẩm
+
+Nhật_kí duy_trì vận_hành hệ_thống ( theo Mẫu Vh . 01 ) .
+
+2 . Ghi_nhận sự_cố
+
+a ) Các bước thực_hiện
+
+Ghi_nhận sự_cố ( trong trường_hợp yêu_cầu mở_rộng chức_năng ) ;
+
+Xác_minh sự_cố ;
+
+Cập_nhật danh_mục sự_cố .
+
+a ) Sản_phẩm
+
+Nhật_kí duy_trì vận_hành hệ_thống ( theo Mẫu Vh . 01 ) .
+
+Danh_mục sự_cố ( theo Mẫu Vh . 02 ) .
+
+3 . Phân_tích_sự_cố
+
+a ) Các bước thực_hiện
+
+Phân_loại , đối_chiếu danh_mục sự_cố .
+
+Phân_tích các nguyên_nhân có_thể gây ra sự_cố .
+
+Đề_xuất giải_pháp khắc_phục sự_cố .
+
+b ) Sản_phẩm
+
+Báo_cáo phân_tích và đề_xuất giải_pháp khắc_phục sự_cố ( theo Mẫu Vh . 03 ) .
+
+4 . Khắc_phục sự_cố
+
+a ) Các bước thực_hiện
+
+Nghiên_cứu giải_pháp được đề_xuất .
+
+Thực_hiện giải_pháp khắc_phục .
+
+Kiểm_tra hệ_thống sau khi thực_hiện giải_pháp khắc_phục .
+
+Cập_nhật danh_mục sự_cố .
+
+b ) Sản_phẩm
+
+Báo_cáo khắc_phục sự_cố ( theo Mẫu Vh . 04 ) .
+
+Danh_mục sự_cố ( theo Mẫu Vh . 02 ) .
+
+5 . Báo_cáo thống_kê , nhật_kí
+
+b ) Sản_phẩm
+
+Báo_cáo duy_trì , vận_hành ( theo Mẫu Vh . 05 ) . Báo_cáo này là căn_cứ để trình cấp có thẩm_quyền phê_duyệt nhiệm_vụ nâng_cấp , mở_rộng phần_mềm .
+
+6 . Sao lưu , phục_hồi hệ_thống
+
+a ) Các bước thực_hiện
+
+Thực_hiện sao lưu hệ_thống theo định_kỳ , đột_xuất , kiểm_tra tính toàn_vẹn của dữ_liệu sao lưu . Cập_nhật nhật_ký .
+
+Thực_hiện phục_hồi hệ_thống khi có yêu_cầu ( theo Mẫu Vh . 06 ) .
+
+b ) Sản_phẩm
+
+Nhật_kí duy_trì vận_hành hệ_thống ( theo Mẫu Vh . 01 ) .
+
+Báo_cáo phục_hồi hệ_thống ( theo Mẫu Vh . 06 ) .
+
+7 . Cài_đặt bản vá_lỗi
+
+a ) Các bước thực_hiện
+
+Kiểm_tra các bản nâng_cấp , vá_lỗi của hệ_thống .
+
+Thực_hiện nâng_cấp , cập_nhật vá lỗi hệ_thống .
+
+b ) Sản_phẩm
+
+Nhật_kí duy_trì vận_hành hệ_thống ( theo Mẫu Vh . 01 ) .
+
+Báo_cáo nâng_cấp hệ_thống ( theo Mẫu Vh . 07 ) .
+
+8 . Hỗ_trợ người dùng
+
+a ) Các bước thực_hiện
+
+Tiếp_nhận yêu_cầu người dùng ( trực_tiếp , điện_thoại , email ) ;
+
+Hỗ_trợ trong việc cài_đặt phần_mềm ;
+
+Xử_lí yêu_cầu người dùng ;
+
+Ghi_nhận kết_quả xử_lý .
+
+b ) Sản_phẩm
+
+Nhật_kí hỗ_trợ người dùng ( theo Vh . 08 ) .
+
+Mục_ii . Quy_trình Duy_trì , Vận_hành Hệ_thống Phần_cứng Công_nghệ_thông_tin
+
+Điều 8 . Sơ_đồ quy_trình duy_trì , vận_hành hệ_thống phần_cứng công_nghệ thông_tin
+
+Điều 9 . Quy_trình chi_tiết duy_trì , vận_hành hệ_thống phần_cứng công_nghệ thông_tin
+
+1 . Kiểm_tra , giám_sát
+
+a ) Các bước thực_hiện
+
+Kiểm_tra , giám_sát trạng_thái hoạt_động hệ_thống .
+
+Kiểm_tra nhật_kí hoạt_động hệ_thống .
+
+Kiểm_tra , giám_sát các chức_năng của hệ_thống .
+
+b ) Sản_phẩm
+
+Nhật_kí duy_trì vận_hành hệ_thống ( theo mẫu Vh . 01 ) .
+
+2 . Ghi_nhận sự_cố
+
+a ) Các bước thực_hiện
+
+Ghi_nhận sự_cố .
+
+Xác_minh sự_cố .
+
+Cập_nhật danh_mục sự_cố .
+
+b ) Sản_phẩm
+
+Nhật_kí duy_trì vận_hành hệ_thống ( theo mẫu Vh . 01 ) .
+
+Danh_mục sự_cố ( theo mẫu Vh . 02 ) .
+
+3 . Phân_tích_sự_cố
+
+a ) Các bước thực_hiện
+
+Phân_loại , đối_chiếu danh_mục sự_cố .
+
+Phân_tích các nguyên_nhân có_thể gây ra sự_cố .
+
+Đề_xuất giải_pháp khắc_phục sự_cố .
+
+b ) Sản_phẩm
+
+Báo_cáo phân_tích và đề_xuất giải_pháp khắc_phục sự_cố ( theo mẫu Vh . 03 ) .
+
+4 . Khắc_phục sự_cố
+
+a ) Các bước thực_hiện
+
+Nghiên_cứu giải_pháp được đề_xuất .
+
+Thực_hiện giải_pháp khắc_phục .
+
+Kiểm_tra hệ_thống sau khi thực_hiện giải_pháp khắc_phục .
+
+Cập_nhật danh_mục sự_cố .
+
+b ) Sản_phẩm
+
+Báo_cáo khắc_phục sự_cố ( theo mẫu Vh . 04 ) .
+
+5 . Báo_cáo thống_kê , nhật_kí
+
+a ) Các bước thực_hiện
+
+Tổng_hợp , xây_dựng báo_cáo trong quá_trình duy_trì vận_hành hệ_thống .
+
+b ) Sản_phẩm
+
+Báo_cáo duy_trì vận_hành ( theo mẫu Vh . 05 ) .
+
+6 . Bảo_dưỡng hệ_thống
+
+a ) Các bước thực_hiện :
+
+Lập kế_hoạch bảo_dưỡng , thông_báo cho các bộ phân liên_quan về lịch bảo_dưỡng định_kỳ ;
+
+Vệ_sinh các thiết_bị ;
+
+Kiểm_tra các kết_nối của các thiết_bị ngoại_vi , kết_nối nguồn , kết_nối_mạng , kết_nối hệ_thống của các thiết_bị ;
+
+Kiểm_tra môi_trường hoạt_động , độ_ẩm , nhiệt_độ , hệ_thống làm mát của hệ_thống ;
+
+Lấy bản ghi nhật_kí hệ_thống hoạt_động ( log dữ_liệu ) , kiểm_tra các đèn cảnh_báo ;
+
+Chạy các chương_trình kiểm_tra hiệu_năng máy_tính , máy_chủ về trạng_thái hoạt_động của thiết_bị ;
+
+Kiểm_tra danh_mục các phần_mềm được phép chạy trên máy_chủ và loại_bỏ các phần_mềm không được phép trên máy_tính , máy_chủ ;
+
+Kiểm_tra toàn_bộ hệ_thống và ghi_nhận hiện_trạng phục_vụ cho các kì bảo_dưỡng tiếp_theo ;
+
+Thay_thế / sửa_chữa các thiết_bị hỏng_hóc phát_sinh trong giai_đoạn bảo_dưỡng .
+
+b ) Sản_phẩm
+
+Nhật_kí bảo_dưỡng , thay_thế ( theo mẫu Vh . 09 ) .
+
+Báo_cáo bảo_dưỡng , thay_thế ( theo mẫu Vh . 10 ) .
+
+7 . Cập_nhật firmware
+
+a ) Các bước thực_hiện :
+
+Lập kế_hoạch cập_nhật , thông_báo đến các bộ_phận liên_quan ;
+
+Thực_hiện sao lưu dữ_liệu ;
+
+Kiểm_tra các phiên_bản firmware của hệ_thống ;
+
+Thực_hiện nâng_cấp , cập_nhật hệ_thống ;
+
+Kiểm_tra vận_hành thử sau nâng_cấp .
+
+b ) Sản_phẩm
+
+Báo_cáo nâng_cấp ( theo mẫu Vh . 07 ) .
+
+Mục_iii . Quy_trình Duy_trì , Vận_hành Phần_mềm Hệ_thống
+
+Điều 10 . Sơ_đồ quy_trình duy_trì , vận_hành phần_mềm hệ_thống
+
+Điều 11 . Quy_trình chi_tiết duy_trì , vận_hành phần_mềm hệ_thống
+
+1 . Kiểm_tra , giám_sát hệ_thống
+
+a ) Các bước thực_hiện
+
+Kiểm_tra các cổng kết_nối của phần_mềm , dịch_vụ ;
+
+Kiểm_tra các service của phần_mềm , dịch_vụ trên hệ điều_hành máy_chủ dịch_vụ ;
+
+Kiểm_tra các tính_năng của phần_mềm , dịch_vụ ;
+
+Kiểm_tra nhật_kí logs hoạt_động của phần_mềm , dịch_vụ .
+
+b ) Sản_phẩm
+
+Nhật_kí duy_trì vận_hành ( theo mẫu Vh . 01 ) .
+
+2 . Ghi_nhận sự_cố
+
+a ) Các bước thực_hiện
+
+Ghi_nhận sự_cố . Xác_minh sự_cố .
+
+Cập_nhật danh_mục sự_cố .
+
+b ) Sản_phẩm
+
+Danh_mục sự_cố ( theo mẫu Vh . 02 ) .
+
+3 . Phân_tích_sự_cố
+
+a ) Các bước thực_hiện
+
+Phân_loại , đối_chiếu danh_mục sự_cố .
+
+Phân_tích các nguyên_nhân có_thể gây ra sự_cố .
+
+Đề_xuất giải_pháp khắc_phục sự_cố .
+
+b ) Sản_phẩm
+
+Báo_cáo phân_tích và đề_xuất giải_pháp khắc_phục sự_cố ( theo mẫu Vh . 03 ) .
+
+4 . Khắc_phục sự_cố
+
+a ) Các bước thực_hiện
+
+Nghiên_cứu giải_pháp được đề_xuất .
+
+Thực_hiện giải_pháp khắc_phục .
+
+Kiểm_tra hệ_thống sau khi thực_hiện giải_pháp khắc_phục .
+
+Cập_nhật danh_mục sự_cố .
+
+b ) Sản_phẩm
+
+Báo_cáo khắc_phục sự_cố ( theo mẫu Vh . 04 ) .
+
+5 . Báo_cáo duy_trì , vận_hành ( theo sơ_đồ quy_trình là Báo_cáo thống_kê , nhật_ký )
+
+a ) Các bước thực_hiện
+
+Tổng_hợp , xây_dựng báo_cáo trong quá_trình duy_trì vận_hành phần_mềm hệ_thống .
+
+b ) Sản_phẩm
+
+Báo_cáo duy_trì vận_hành ( theo mẫu Vh . 05 ) .
+
+6 . Cập_nhật
+
+a ) Các bước thực_hiện :
+
+Lập kế_hoạch , thông_báo cho các bộ phân liên_quan ;
+
+Thực_hiện sao lưu các dữ_liệu cần_thiết ;
+
+Tiền_hành cập_nhật dịch_vụ ;
+
+Kiểm_tra vận_hành sau cập_nhật .
+
+b ) Sản_phẩm
+
+Báo_cáo nâng_cấp hệ_thống ( theo mẫu Vh . 07 ) .
+
+7 . Sao lưu
+
+a ) Các bước thực_hiện :
+
+Lập kế_hoạch phương_án sao lưu .
+
+Kiểm_tra , xác_định các nội_dung cần sao lưu .
+
+Thực_hiện sao lưu .
+
+Kiểm_tra tính toàn_vẹn , đầy_đủ của các bản_sao lưu .
+
+b ) Sản_phẩm
+
+Báo_cáo sao lưu ( theo mẫu Vh . 11 ) .
+
+8 . Phục_hồi
+
+a ) Các bước thực_hiện :
+
+Lập kế_hoạch phương_án phục_hồi khôi_phục dữ_liệu ;
+
+Kiểm_tra hệ_thống ;
+
+Thực_hiện phục_hồi ;
+
+Kiểm_tra hoạt_động của dịch_vụ sau khi thực_hiện phục_hồi .
+
+b ) Sản_phẩm
+
+Báo_cáo phục_hồi hệ_thống ( theo mẫu Vh . 06 ) .
+
+9 . Quản_lí thông_tin , cấu_hình
+
+a ) Các bước thực_hiện : Lập kế_hoạch thực_hiện ;
+
+Thực_hiện cấu_hình , thay_đổi , cập_nhật dữ_liệu ;
+
+Kiểm_tra hoạt_động phần_mềm sau cấu_hình , thay_đổi .
+
+b ) Sản_phẩm
+
+Nhật_kí quản_lí thông_tin cấu_hình ( theo mẫu Vh . 12 ) .
+
+( Danh_mục các sản_phẩm của Chương Iii tại Bảng_số 2 ) .
+
+Chương_iv
+
+Quy_trình Kiểm_tra , Nghiệm_thu Sản_phẩm Công_nghệ_thông_tin Ngành Tài_nguyên Và Môi_trường
+
+Mục_i . Quy_trình Kiểm_tra , Nghiệm_thu Phần_mềm Hỗ_trợ Việc Quản_lý , Khai_thác Cơ_sở Dữ_liệu Ngành Tài_nguyên Và Môi_trường
+
+Điều 12 . Sơ_đồ quy_trình kiểm_tra , nghiệm_thu phần_mềm hỗ_trợ việc quản_lý , khai_thác cơ_sở dữ_liệu ngành tài_nguyên và môi_trường
+
+Điều 13 . Quy_trình chi_tiết kiểm_tra , nghiệm_thu phần_mềm hỗ_trợ việc quản_lý , khai_thác cơ_sở dữ_liệu ngành tài_nguyên và môi_trường
+
+1 . Tiếp_nhận hồ_sơ , sản_phẩm
+
+a ) Các bước thực_hiện :
+
+Tiếp_nhận hồ_sơ , sản_phẩm ;
+
+Kiểm_tra khối_lượng sản_phẩm theo thiết_kế kĩ_thuật đã được phê_duyệt ;
+
+Lập biên_bản bàn_giao sản_phẩm ;
+
+Kiểm_tra hồ_sơ kiểm_tra , nghiệm_thu cấp đơn_vị thi_công .
+
+b ) Sản_phẩm :
+
+Biên_bản bàn_giao tài_liệu , sản_phẩm ( Mẫu Kt . 06 ) ;
+
+Phiếu ý_kiến kiểm_tra hồ_sơ kiểm_tra , nghiệm_thu cấp đơn_vị thi_công ( Mẫu Kt . 01 ) .
+
+2 . Kiểm_tra Xác_định yêu_cầu phần_mềm
+
+a ) Các bước thực_hiện :
+
+Kiểm_tra các nội_dung , sản_phẩm của bước Xác_định yêu_cầu tại Quy_trình phát_triển phần_mềm .
+
+Kiểm_tra quy_trình nghiệp_vụ .
+
+- Mô_hình nghiệp_vụ ;
+
+- Mô_tả quy_trình nghiệp_vụ .
+
+Kiểm_tra yêu_cầu chức_năng của người dùng .
+
+b ) Sản_phẩm :
+
+Phiếu ý_kiến kiểm_tra xác_định yêu_cầu phần_mềm ( Mẫu Kt . 02 ) .
+
+3 . Kiểm_tra phân_tích , thiết_kế phần_mềm
+
+a ) Các bước thực_hiện :
+
+Kiểm_tra các nội_dung , sản_phẩm của bước Phân_tích , thiết_kế phần_mềm tại Quy_trình phát_triển phần_mềm bao_gồm :
+
+- Kiểm_tra quy_trình nghiệp_vụ được tin_học_hoá ( chưa thấy nêu trong Mẫu P2 . 1 ) ;
+
+- Kiểm_tra danh_sách chức_năng hệ_thống ;
+
+- Kiểm_tra danh_sách đối_tượng quản_lí và thông_tin chi_tiết ;
+
+- Kiến_trúc phần_mềm ( so với kiến_trúc tổng_thể của hệ_thống đã được phê_duyệt ) ;
+
+- Kiểm_tra thuyết_minh biểu_đồ trường_hợp sử_dụng ;
+
+- Kiểm_tra thuyết_minh biểu_đồ tuần_tự ;
+
+- Kiểm_tra thuyết_minh biểu_đồ lớp ;
+
+- Kiểm_tra thiết_kế mô_hình dữ_liệu ;
+
+- Kiểm_tra thiết_kế giao_diện của phần_mềm .
+
+b ) Sản_phẩm
+
+Phiếu ý_kiến kiểm_tra phân_tích , thiết_kế phần_mềm ( Mẫu Kt . 03 ) .
+
+4 . Kiểm_tra chức_năng phần_mềm
+
+a ) Các bước thực_hiện :
+
+Kiểm_tra chức_năng phần_mềm , bao_gồm :
+
+- Kiểm_tra sản_phẩm Báo_cáo về quy_tắc lập_trình ;
+
+- Kiểm_tra Báo_cáo kiểm_tra các thành_phần của hệ_thống ;
+
+- Kiểm_tra Báo_cáo toàn_bộ hệ_thống ;
+
+- Kiểm_tra các chức_năng phần_mềm .
+
+b ) Sản_phẩm :
+
+Phiếu ý_kiến kiểm_tra chất_lượng phần_mềm ( Mẫu Kt . 04 ) ;
+
+5 . Kiểm_tra bộ cài_đặt , tài_liệu hướng_dẫn vận_hành , sử_dụng phần_mềm
+
+a ) Các bước thực_hiện :
+
+Kiểm_tra các nội_dung , sản_phẩm của bước Cài_đặt , chuyển_giao , hướng_dẫn sử_dụng tại quy_trình phát_triển phần_mềm bao_gồm :
+
+- Bộ cài_đặt ứng_dụng : Vận_hành trên các môi_trường và các điều_kiện triển_khai thực_tế theo phê_duyệt .
+
+- Hướng_dẫn cài_đặt , sử_dụng .
+
+b ) Sản_phẩm :
+
+Phiếu ý_kiến kiểm_tra triển_khai phần_mềm ứng_dụng ( Mẫu Kt . 05 ) .
+
+6 . Lập hồ_sơ kiểm_tra , nghiệm_thu :
+
+a ) Các bước thực_hiện :
+
+Kiểm_tra , nghiệm_thu công_tác sửa_chữa , hoàn_chỉnh các sai_sót trong quá_trình thi_công của đơn_vị thi_công ;
+
+Tổng_hợp các ý_kiến kiểm_tra ;
+
+Lập hồ_sơ nghiệm_thu dự_án .
+
+b ) Sản_phẩm :
+
+Biên_bản kiểm_tra , nghiệm_thu theo Mẫu Kt . 15 , kèm các Phiếu ghi ý_kiến kiểm_tra ;
+
+Biên_bản xác_nhận sửa_chữa sau khi kiểm_tra giữa đơn_vị kiểm_tra với đơn_vị thi_công theo Mẫu Kt . 16 ;
+
+Báo_cáo kiểm_tra , nghiệm_thu chất_lượng , khối_lượng theo Mẫu Kt . 17 ;
+
+Biên_bản nghiệm_thu hoàn_thành dự_án theo Mẫu Kt . 18 ;
+
+Các văn_bản liên_quan khác .
+
+Mục_ii . Quy_trình Kiểm_tra Việc Duy_trì , Vận_hành Hệ_thống Phần_mềm Và Cơ_sở Dữ_liệu Ngành Tài_nguyên Và Môi_trường
+
+Điều 14 . Sơ_đồ quy_trình kiểm_tra việc duy_trì , vận_hành hệ_thống phần_mềm và cơ_sở dữ_liệu ngành tài_nguyên và môi_trường
+
+Điều 15 . Quy_trình chi_tiết kiểm_tra việc duy_trì , vận_hành hệ_thống phần_mềm và cơ_sở dữ_liệu ngành tài_nguyên và môi_trường
+
+1 . Tiếp_nhận hồ_sơ , sản_phẩm
+
+a ) Các bước thực_hiện
+
+Tiếp_nhận hồ_sơ , sản_phẩm ;
+
+Kiểm_tra khối_lượng sản_phẩm theo thiết_kế kĩ_thuật đã được phê_duyệt ;
+
+Lập biên_bản bàn_giao sản_phẩm ;
+
+Kiểm_tra hồ_sơ kiểm_tra , nghiệm_thu cấp đơn_vị thi_công .
+
+b ) Sản_phẩm
+
+Nhận hồ_sơ của đơn_vị thi_công ( do đơn_vị thi_công giao_nộp ) ;
+
+Biên_bản bàn_giao tài_liệu , sản_phẩm ( theo mẫu Kt . 06 ) ;
+
+Phiếu ý_kiến kiểm_tra hồ_sơ kiểm_tra , nghiệm_thu cấp đơn_vị thi_công ( theo mẫu Kt . 01 ) .
+
+2 . Kiểm_tra các sản_phẩm duy_trì , vận_hành hệ_thống phần_mềm và cơ_sở dữ_liệu ngành tài_nguyên và môi_trường
+
+2 . 1 . Kiểm_tra việc kiểm_tra , giám_sát hệ_thống
+
+a ) Các bước thực_hiện
+
+Kiểm_tra nhật_kí duy_trì vận_hành hệ_thống .
+
+b ) Sản_phẩm
+
+Phiếu ý_kiến kiểm_tra kết_quả kiểm_tra giám_sát Htpmcsdl ( theo mẫu Kt . 07 ) .
+
+2 . 2 . Kiểm_tra việc ghi_nhận sự_cố
+
+a ) Các bước thực_hiện
+
+Kiểm_tra nhật_kí duy_trì vận_hành hệ_thống ;
+
+Kiểm_tra danh_mục sự_cố .
+
+b ) Sản_phẩm
+
+Phiếu ý_kiến kiểm_tra kết_quả kiểm_tra giám_sát Htpmcsdl ( theo mẫu Kt . 07 ) .
+
+2 . 3 . Kiểm_tra việc phân_tích_sự_cố
+
+a ) Các bước thực_hiện
+
+Kiểm_tra báo_cáo phân_tích và đề_xuất giải_pháp khắc_phục sự_cố .
+
+b ) Sản_phẩm :
+
+Phiếu ý_kiến kiểm_tra kết_quả kiểm_tra giám_sát Htpmcsdl ( theo mẫu Kt . 07 ) .
+
+2 . 4 . Kiểm_tra việc khắc_phục sự_cố
+
+a ) Các bước thực_hiện :
+
+Kiểm_tra báo_cáo khắc_phục sự_cố ;
+
+Kiểm_tra danh_mục sự_cố .
+
+b ) Sản_phẩm :
+
+Phiếu ý_kiến kiểm_tra kết_quả kiểm_tra giám_sát Htpmcsdl ( theo mẫu Kt . 07 ) .
+
+2 . 5 . Kiểm_tra việc sao lưu phục_hồi hệ_thống
+
+a ) Các bước thực_hiện :
+
+Kiểm_tra nhật_kí duy_trì vận_hành hệ_thống ;
+
+Kiểm_tra báo_cáo phục_hồi hệ_thống .
+
+b ) Sản_phẩm
+
+Phiếu ý_kiến kiểm_tra kết_quả sao lưu phục_hồi hệ_thống ( kt . 08 ) .
+
+2 . 6 . Kiểm_tra việc cài_đặt bản vá_lỗi
+
+a ) Các bước thực_hiện
+
+Kiểm_tra nhật_kí duy_trì vận_hành hệ_thống ;
+
+Kiểm_tra báo_cáo nâng_cấp hệ_thống .
+
+b ) Sản_phẩm
+
+Phiếu ý_kiến kiểm_tra cài_đặt bản vá_lỗi ( Mẫu Kt . 09 ) .
+
+2 . 7 . Kiểm_tra việc hỗ_trợ người dùng
+
+a ) Các bước thực_hiện
+
+Kiểm_tra nhật_kí hỗ_trợ người dùng .
+
+b ) Sản_phẩm
+
+Phiếu ý_kiến kiểm_tra hỗ_trợ người dùng ( theo mẫu Kt . 10 )
+
+3 . Lập hồ_sơ kiểm_tra , nghiệm_thu
+
+a ) Các bước thực_hiện
+
+Kiểm_tra , nghiệm_thu công_tác sửa_chữa , hoàn_chỉnh các sai_sót trong quá_trình thi_công của đơn_vị thi_công ;
+
+Tổng_hợp các ý_kiến kiểm_tra ;
+
+Lập hồ_sơ nghiệm_thu dự_án .
+
+b ) Sản_phẩm
+
+Biên_bản kiểm_tra , nghiệm_thu theo Mẫu Kt . 15 , kèm các Phiếu ghi ý_kiến kiểm_tra ;
+
+Biên_bản xác_nhận sửa_chữa sau khi kiểm_tra giữa đơn_vị kiểm_tra với đơn_vị thi_công theo Mẫu Kt . 16 ;
+
+Báo_cáo kiểm_tra , nghiệm_thu chất_lượng , khối_lượng theo Mẫu Kt . 17 ;
+
+Biên_bản nghiệm_thu hoàn_thành dự_án theo Mẫu Kt . 18 ( nếu có ) ;
+
+Các văn_bản liên_quan khác .
+
+Mục_iii . Quy_trình Kiểm_tra Việc Duy_trì , Vận_hành Hệ_thống Phần_cứng Công_nghệ_thông_tin
+
+Điều 16 . Sơ_đồ quy_trình kiểm_tra việc duy_trì , vận_hành hệ_thống phần_cứng công_nghệ thông_tin
+
+Điều 17 . Quy_trình chi_tiết kiểm_tra việc kiểm_tra duy_trì , vận_hành hệ_thống phần_cứng công_nghệ thông_tin
+
+1 . Tiếp_nhận hồ_sơ , sản_phẩm
+
+Thực_hiện hiện như khoản 1 Điều 15 về tiếp_nhận hồ_sơ , sản_phẩm .
+
+2 . Kiểm_tra các sản_phẩm duy_trì , vận_hành hệ_thống phần_cứng công_nghệ thông_tin
+
+2 . 1 . Kiểm_tra việc kiểm_tra , giám_sát hệ_thống
+
+Thực_hiện hiện như điểm 2 . 1 khoản 2 Điều 15 .
+
+2 . 2 . Kiểm_tra việc ghi_nhận sự_cố
+
+Thực_hiện hiện như điểm 2 . 2 khoản 2 Điều 15 .
+
+2 . 3 . Kiểm_tra việc phân_tích_sự_cố
+
+Thực_hiện hiện như điểm 2 . 3 khoản 2 Điều 15 .
+
+2 . 4 . Kiểm_tra việc khắc_phục sự_cố
+
+Thực_hiện hiện như điểm 2 . 4 khoản 2 Điều 15 .
+
+2 . 5 . Kiểm_tra bảo_dưỡng hệ_thống
+
+a ) Các bước thực_hiện :
+
+Kiểm_tra nhật_kí bảo_dưỡng , thay_thế ;
+
+Kiểm_tra báo_cáo bảo_dưỡng , thay_thế .
+
+b ) Sản_phẩm :
+
+Phiếu ý_kiến kiểm_tra kết_quả duy_trì vận_hành , bảo_dưỡng hệ_thống phần_cứng ( theo Mẫu Kt . 11 ) .
+
+2 . 6 . Kiểm_tra việc cập_nhật firmware
+
+a ) Các bước thực_hiện :
+
+Kiểm_tra báo_cáo cập_nhật .
+
+b ) Sản_phẩm :
+
+Phiếu ý_kiến kiểm_tra nâng_cấp Firmware hệ_thống phần_cứng ( Mẫu Kt . 12 ) .
+
+3 . Lập hồ_sơ kiểm_tra , nghiệm_thu
+
+Thực_hiện hiện như Khoản 1 Điều 15 về tiếp_nhận hồ_sơ , sản_phẩm .
+
+Mục_iv . Quy_trình Kiểm_tra Việc Duy_trì , Vận_hành Phần_mềm Hệ_thống
+
+Điều 18 . Sơ_đồ quy_trình kiểm_tra việc duy_trì , vận_hành hệ_thống phần_mềm hệ_thống
+
+Điều 19 . Quy_trình chi_tiết các bước kiểm_tra việc duy_trì , vận_hành phần_mềm hệ_thống
+
+1 . Tiếp_nhận hồ_sơ , sản_phẩm
+
+Thực_hiện hiện như khoản 1 Điều 15 về tiếp_nhận hồ_sơ , sản_phẩm .
+
+2 . Kiểm_tra các sản_phẩm duy_trì vận_hành phần_mềm hệ_thống
+
+2 . 1 . Kiểm_tra việc kiểm_tra , giám_sát hệ_thống
+
+Thực_hiện hiện như điểm 2 . 1 khoản 2 Điều 15 .
+
+2 . 2 . Kiểm_tra việc ghi_nhận sự_cố
+
+Thực_hiện hiện như điểm 2 . 2 khoản 2 Điều 15 .
+
+2 . 3 . Kiểm_tra việc phân_tích_sự_cố
+
+Thực_hiện hiện như điểm 2 . 3 khoản 2 Điều 15 .
+
+2 . 4 . Kiểm_tra việc khắc_phục sự_cố
+
+Thực_hiện hiện như điểm 2 . 4 khoản 2 Điều 15 .
+
+2 . 5 . Kiểm_tra việc cập_nhật phần_mềm
+
+a ) Các bước thực_hiện :
+
+Kiểm_tra báo_cáo cập_nhật .
+
+b ) Sản_phẩm :
+
+Phiếu ý_kiến kiểm_tra cập_nhật phần_mềm ( theo Mẫu Kt . 13 ) .
+
+2 . 6 . Kiểm_tra việc sao lưu , phục_hồi
+
+a ) Các bước thực_hiện :
+
+Kiểm_tra nhật_kí duy_trì vận_hành hệ_thống ; Kiểm_tra báo_cáo phục_hồi hệ_thống .
+
+b ) Sản_phẩm :
+
+Phiếu ý_kiến kiểm_tra kết_quả sao lưu phục_hồi hệ_thống ( theo Mẫu Kt . 08 ) .
+
+2 . 7 . Kiểm_tra việc quản_lí thông_tin cấu_hình
+
+a ) Các bước thực_hiện :
+
+Kiểm_tra nhật_kí quản_lí thông_tin .
+
+b ) Sản_phẩm :
+
+Phiếu ý_kiến kiểm_tra thông_tin cấu_hình ( theo Mẫu Kt . 14 ) .
+
+3 . Lập hồ_sơ kiểm_tra , nghiệm_thu
+
+Thực_hiện như mục khoản 1 Điều 15 về tiếp_nhận hồ_sơ , sản_phẩm
+
+( Danh_mục các sản_phẩm của Chương Iv tại Bảng_số 3 ) .
+
+Bảng_số 1 . Danh_mục sản_phẩm bước xây_dựng phần_mềm hỗ_trợ việc quản_lý , khai_thác cơ_sở dữ_liệu ngành tài_nguyên và môi_trường
+
+Bảng_số 2 . Danh_mục sản_phẩm bước duy_trì , vận_hành hệ_thống thông_tin ngành tài_nguyên và môi_trường
+
+Bảng_số 3 . Danh_mục sản_phẩm bước kiểm_tra , nghiệm_thu sản_phẩm công_nghệ thông_tin ngành tài_nguyên và môi_trường

@@ -1,0 +1,333 @@
+Thông_tư số 30/2018/tt-btnmt ngày 26 tháng 12 năm 2018 của bộ tài_nguyên và môi_trường
+
+Căn_cứ Luật khí_tượng thuỷ_văn năm 2015 ;
+
+Căn_cứ Nghị_định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính_phủ quy_định chi_tiết một_số điều của Luật khí_tượng thuỷ_văn ;
+
+Căn_cứ Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Tổng_cục_trưởng Tổng_cục Khí_tượng Thuỷ_văn , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư quy_định kĩ_thuật về quan_trắc và cung_cấp thông_tin , dữ_liệu khí_tượng thuỷ_văn đối_với trạm khí_tượng thuỷ_văn chuyên_dùng .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định kĩ_thuật về quan_trắc và cung_cấp thông_tin , dữ_liệu đối_với trạm khí_tượng thuỷ_văn chuyên_dùng .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với cơ_quan , tổ_chức , cá_nhân có liên_quan đến quan_trắc và cung_cấp thông_tin , dữ_liệu khí_tượng thuỷ_văn chuyên_dùng .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Trạm khí_tượng thuỷ_văn chuyên_dùng là nơi được lựa_chọn theo các yêu_cầu kĩ_thuật chuyên_môn để thực_hiện quan_trắc khí_tượng thuỷ_văn theo mục_đích riêng do Bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương ( sau đây viết tắt là Bộ , ngành , địa_phương ) , tổ_chức , cá_nhân xây_dựng , quản_lí và khai_thác , gồm các loại : trạm khí_tượng bề_mặt , trạm khí_tượng nông_nghiệp , trạm khí_tượng trên cao , trạm ra đa thời_tiết , trạm thuỷ_văn , trạm hải_văn , trạm đo mưa và các loại trạm chuyên_đề khác .
+
+2 . Vị_trí quan_trắc khí_tượng thuỷ_văn là nơi đặt công_trình , lắp_đặt phương_tiện đo và thực_hiện quan_trắc khí_tượng thuỷ_văn .
+
+3 . Công_trình quan_trắc khí_tượng thuỷ_văn là cơ_sở vật_chất đáp_ứng yêu_cầu kĩ_thuật chuyên_ngành để lắp_đặt phương_tiện đo khí_tượng thuỷ_văn và truyền_thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn .
+
+4 . Phương_pháp quan_trắc_thủ_công là hoạt_động đo , ghi trực_tiếp giá_trị của yếu_tố trên phương_tiện đo do con_người thực_hiện .
+
+5 . Phương_pháp quan_trắc tự_động là hoạt_động đo , ghi giá_trị của yếu_tố bằng phương_tiện đo tự_động và truyền phát cho người sử_dụng theo nhu_cầu .
+
+6 . Siêu dữ_liệu là thông_tin mô_tả về dữ_liệu gồm nội_dung , định_dạng , chất_lượng , nguồn_gốc , điều_kiện và các đặc_tính khác nhằm chỉ_dẫn về phương_thức tiếp_cận , cơ_quan quản_lý , địa_chỉ truy_cập , nơi lưu_trữ , bảo_quản dữ_liệu .
+
+7 . Cấu_trúc dữ_liệu là cách tổ_chức dữ_liệu số thể_hiện sự phân_cấp , liên_kết của các nhóm dữ_liệu .
+
+8 . Kiểu thông_tin của dữ_liệu là tên , kiểu giá_trị và độ dài trường thông_tin .
+
+9 . Phương_tiện đo hay thiết_bị đo là phương_tiện kĩ_thuật để thực_hiện phép đo .
+
+Chương_ii
+
+Quy_định Kỹ_thuật
+
+Mục 1 . Quan_trắc Khí_tượng Thủy_văn Chuyên_dùng
+
+Điều 4 . Yếu_tố quan_trắc khí_tượng thuỷ_văn chuyên_dùng
+
+Căn_cứ quy_định của pháp_luật hoặc nhu_cầu , mục_đích sử_dụng thông_tin , dữ_liệu Bộ , ngành , địa_phương , tổ_chức , cá_nhân lựa_chọn yếu_tố quan_trắc khí_tượng thuỷ_văn đối_với từng loại trạm khí_tượng thuỷ_văn chuyên_dùng , cụ_thể :
+
+1 . Yếu_tố quan_trắc tại trạm khí_tượng bề_mặt :
+
+a ) Bức_xạ ;
+
+b ) Áp_suất khí_quyển ;
+
+c ) Gió bề_mặt ;
+
+d ) Bốc_hơi ;
+
+đ ) Nhiệt_độ không_khí ;
+
+e ) Nhiệt_độ đất ;
+
+g ) Độ_ẩm không_khí ;
+
+h ) Mưa ;
+
+i ) Tầm nhìn_xa ;
+
+k ) Thời_gian nắng ;
+
+l ) Mây .
+
+2 . Yếu_tố quan_trắc tại trạm khí_tượng nông_nghiệp :
+
+a ) Các yếu_tố khí_tượng theo quy_định tại khoản 1 Điều này ;
+
+b ) Nhiệt_độ đất tại các lớp đất sâu , nhiệt_độ nước mặt ruộng ;
+
+c ) Độ_ẩm đất tại các độ sâu 5cm , 10cm , 20cm , 30cm , 40cm , 50cm , 60cm , 70cm , 80cm , 90cm và 100cm ;
+
+d ) Gió ở độ cao từ 2m đến 10m ;
+
+đ ) Nhiệt_độ không_khí trong quần_thể cây_trồng ;
+
+e ) Độ_ẩm không_khí trong quần_thể cây_trồng .
+
+3 . Yếu_tố quan_trắc tại trạm khí_tượng trên cao :
+
+a ) Trạm thám không vô_tuyến : áp_suất khí_quyển ; nhiệt_độ không_khí ; độ_ẩm không_khí ; hướng gió và tốc_độ gió ;
+
+b ) Trạm đo gió ( pilot hoặc pilotsonde ) : hướng gió và tốc_độ gió .
+
+4 . Yếu_tố quan_trắc tại trạm ra đa thời_tiết :
+
+a ) Trường phản_hồi vô_tuyến ;
+
+b ) Trường gió hướng_tâm .
+
+5 . Yếu_tố quan_trắc tại trạm thuỷ_văn :
+
+a ) Mực nước ;
+
+b ) Mưa ;
+
+c ) Nhiệt_độ nước ;
+
+d ) Yếu_tố phụ : hướng nước chảy , gió , sóng , diễn_biến lòng_sông ;
+
+đ ) Lưu_lượng nước ;
+
+e ) Lưu_lượng chất lơ_lửng .
+
+6 . Yếu_tố quan_trắc tại trạm hải_văn :
+
+a ) Gió bề_mặt_biển ;
+
+b ) Tầm nhìn xa phía biển ;
+
+c ) Mực nước biển ;
+
+d ) Sóng biển ;
+
+đ ) Trạng_thái mặt_biển ;
+
+e ) Nhiệt_độ nước biển ;
+
+g ) Độ muối nước biển ;
+
+h ) Sóng biển ;
+
+i ) Dòng_chảy biển .
+
+7 . Yếu_tố quan_trắc khí_tượng thuỷ_văn chuyên_dùng khác theo nhu_cầu , mục_đích sử_dụng .
+
+Điều 5 . Mật_độ trạm khí_tượng thuỷ_văn chuyên_dùng
+
+1 . Căn_cứ yêu_cầu , mục_đích sử_dụng thông_tin , dữ_liệu khí_tượng thuỷ_văn Bộ , ngành , địa_phương , tổ_chức , cá_nhân Quyết_định mật_độ trạm khí_tượng thuỷ_văn chuyên_dùng .
+
+2 . Mật_độ trạm khí_tượng thuỷ_văn chuyên_dùng trong một_số trường_hợp cụ_thể như sau :
+
+a ) Khoảng_cách giữa các trạm đo mưa từ 10km đến 15km đối_với một trong các vùng sau : đồi núi ; sườn đón gió ; tổng_lượng mưa năm trung_bình nhiều năm từ 1 . 600 mm trở lên ; khu_vực đô_thị loại Iii trở lên ;
+
+b ) Khoảng_cách giữa các trạm đo mưa từ 15km đến 20km đối_với vùng trung_du , đồng_bằng ;
+
+c ) Phục_vụ tính_toán lượng nước đến hồ chứa : ở lưu_vực sông , suối cung_cấp_nước cho hồ chứa có dung_tích toàn_bộ từ 500 . 000m3 trở lên thì bố_trí từ 10km đến 15km một trạm đo mưa ; ở các nhánh sông , suối chảy đến hồ chứa có diện_tích lưu_vực từ 100km2 trở lên thì bố_trí một trạm quan_trắc lưu_lượng nước ;
+
+d ) Quan_trắc ở vườn quốc_gia : mỗi vườn quốc_gia bố_trí tối_thiểu một trạm khí_tượng ; tuỳ theo quy_mô diện_tích của vườn quốc_gia có_thể bố_trí thêm trạm khí_tượng nhưng bảo_đảm khoảng_cách giữa các trạm từ 25km đến 30km .
+
+Điều 6 . Vị_trí đặt trạm khí_tượng thuỷ_văn chuyên_dùng
+
+1 . Trạm khí_tượng bề_mặt , khí_tượng nông_nghiệp :
+
+a ) Phải thông_thoáng , không bị các vật che_chắn ;
+
+b ) Đại_diện cho khu_vực quan_trắc , kết_quả quan_trắc khách_quan , chính_xác .
+
+2 . Trạm khí_tượng trên cao và ra đa thời_tiết :
+
+a ) Phải thông_thoáng , không bị các vật che_chắn ;
+
+b ) Không có vật cản đối_diện một góc quá 60 tại điểm thả bóng thám_không ;
+
+c ) Các tia quét từ ra đa không bị chặn bởi địa_hình ; không có chướng_ngại_vật xuất_hiện ở những góc quét lớn hơn nửa búp sóng phía trên đường chân_trời .
+
+3 . Trạm thuỷ_văn :
+
+a ) Vị_trí quan_trắc mực nước : bảo_đảm tính đại_diện cho khu_vực quan_trắc ; quan_trắc được mực nước từ thấp nhất đến cao nhất ;
+
+b ) Vị_trí quan_trắc lưu_lượng nước , lưu_lượng chất lơ_lửng : hạn_chế ảnh_hưởng của sóng , gió , chảy quẩn , chảy vật và các vật trôi_nổi ; lòng_sông không có hoặc ít chướng_ngại_vật ; bờ sông ổn_định , mặt_cắt đơn , không có bãi tràn , kiểm_soát ( khống_chế ) được lượng nước trong lưu_vực .
+
+4 . Trạm hải_văn :
+
+a ) Vị_trí quan_trắc gió phải thông_thoáng , không bị các vật che_chắn , đảm_bảo đặc_trưng yếu_tố gió tại khu_vực quan_trắc ;
+
+b ) Vị_trí quan_trắc mực nước , sóng bảo_đảm tính đại_diện cho khu_vực quan_trắc , thông_thoáng về phía biển , quan_trắc được mực nước từ thấp nhất đến cao nhất .
+
+Điều 7 . Công_trình quan_trắc khí_tượng thuỷ_văn chuyên_dùng
+
+1 . Các loại công_trình quan_trắc :
+
+a ) Công_trình quan_trắc khí_tượng bề_mặt , khí_tượng nông_nghiệp : vườn quan_trắc để lắp_đặt các thiết_bị quan_trắc , tháp ( cột ) lắp_đặt thiết_bị đo tự_động ;
+
+b ) Công_trình quan_trắc khí_tượng trên cao : nhà_chế khí , khu_vực bơm bóng , vườn để lắp_đặt thiết_bị quan_trắc bề_mặt và thả bóng thám_không ;
+
+c ) Công_trình quan_trắc ra đa thời_tiết : tháp ăng ten ;
+
+d ) Công_trình quan_trắc thuỷ_văn : mốc độ cao ; công_trình quan_trắc mực nước ( tuyến bậc cọc , thuỷ_chí , giếng tự ghi mực nước , công_trình lắp_đặt thiết_bị đo tự_động ) ; công_trình quan_trắc lưu_lượng nước sông ( công_trình cáp chính , cáp thuỷ_trực , tiêu xác_định vị_trí thuỷ_trực , công_trình lắp_đặt thiết_bị đo tự_động ) ;
+
+đ ) Công_trình quan_trắc hải_văn : mốc độ cao ; công_trình quan_trắc mực nước ( tuyến bậc cọc , thuỷ_chí , giếng tự ghi mực nước , công_trình lắp_đặt thiết_bị đo tự_động ) ; công_trình quan_trắc sóng ; công_trình quan_trắc dòng_chảy .
+
+2 . Yêu_cầu kĩ_thuật lắp_đặt , bảo_dưỡng các loại công_trình quan_trắc :
+
+a ) Công_trình phải ổn_định , chắc_chắn ; an_toàn , thuận_tiện cho việc lắp_đặt , vận_hành và bảo_dưỡng thiết_bị ; công_trình được bảo_dưỡng tối_thiểu một năm một lần , đảm_bảo_an_toàn và chất_lượng số_liệu quan_trắc ;
+
+b ) Kỹ_thuật công_trình quan_trắc được quy_định tại Phụ_lục 1 ban_hành kèm theo Thông_tư này .
+
+Điều 8 . Phương_tiện đo khí_tượng thuỷ_văn
+
+1 . Căn_cứ mục_đích , yêu_cầu sử_dụng có_thể lựa_chọn thông_số kĩ_thuật của phương_tiện đo khí_tượng thuỷ_văn chuyên_dùng theo Phụ_lục 2 ban_hành kèm theo Thông_tư này .
+
+2 . Yêu_cầu kĩ_thuật lắp_đặt phương_tiện đo các yếu_tố khí_tượng bề_mặt :
+
+a ) Vị_trí lắp_đặt phương_tiện đo các yếu_tố khí_tượng bề_mặt được bố_trí trong vườn quan_trắc quy_định tại Mục I Phụ_lục 1 ban_hành kèm theo Thông_tư này ;
+
+b ) Phương_tiện đo gió được lắp_đặt ở độ cao từ 10m đến 12m so với mặt_đất , bảo_đảm thông_thoáng , hướng Bắc của phương_tiện đo phải đúng với hướng Bắc thực ;
+
+c ) Phương_tiện đo nhiệt_độ , độ_ẩm không_khí được lắp_đặt ở độ cao 1 , 5m so với mặt_đất hoặc mặt nền , bảo_đảm thông_thoáng và tránh ánh_sáng mặt_trời chiếu trực_tiếp ;
+
+d ) Phương_tiện đo mưa có miệng hứng nước mưa được lắp_đặt ở độ cao cách mặt_đất hoặc mặt nền từ 1 , 5m trở lên , bảo_đảm thông_thoáng , ngang bằng ;
+
+đ ) Phương_tiện đo thời_gian nắng , bức_xạ mặt_trời được lắp_đặt ở độ cao từ 1 , 5m trở lên so với mặt_đất hoặc mặt nền , không bị che nắng , trục bộ cảm_biến đúng hướng Bắc - Nam , bảo_đảm ngang bằng và đúng vĩ_độ địa_phương ;
+
+e ) Phương_tiện đo bốc_hơi được lắp_đặt ở độ cao 0 , 27m so với mặt_đất , bề_mặt thiết_bị đo phải ngang bằng , bảo_đảm thông_thoáng ;
+
+g ) Phương_tiện đo áp_suất khí_quyển được lắp_đặt ở độ cao từ 1 , 5m trở lên so với mặt_đất , không bị mưa , ánh_sáng mặt_trời chiếu trực_tiếp ; vị_trí đặt thiết_bị đo áp_suất khí_quyển phải được dẫn_độ cao quốc_gia ;
+
+h ) Phương_tiện đo nhiệt_độ đất được đặt trên bề_mặt_đất và các lớp đất sâu theo nhu_cầu quan_trắc , bảo_đảm thông_thoáng , không bị che ánh nắng mặt_trời .
+
+3 . Yêu_cầu kĩ_thuật lắp_đặt phương_tiện đo các yếu_tố khí_tượng nông_nghiệp thực_hiện theo quy_định tại khoản 2 Điều này trừ phương_tiện đo gió được lắp_đặt ở độ cao từ 2m đến 10m , bảo_đảm thông_thoáng , hướng Bắc của phương_tiện đo phải đúng với hướng Bắc thực .
+
+4 . Yêu_cầu kĩ_thuật lắp_đặt phương_tiện đo các yếu_tố khí_tượng trên cao thực_hiện theo quy_định tại điểm b , điểm c và điểm g khoản 2 Điều này .
+
+5 . Yêu_cầu kĩ_thuật lắp_đặt phương_tiện đo yếu_tố thuỷ_văn_tự_động :
+
+a ) Phương_tiện đo mực nước không tiếp_xúc với nước : được lắp_đặt cố_định tại vị_trí cao hơn mực nước cao nhất đã xuất_hiện tối_thiểu 1 , 0m ;
+
+b ) Phương_tiện đo mực nước tiếp_xúc với nước : được lắp_đặt cố_định tại vị_trí thấp hơn mực nước thấp nhất đã xuất_hiện tối_thiểu 0 , 2m ;
+
+c ) Phương_tiện đo lưu_lượng nước không tiếp_xúc với nước : được lắp_đặt chắc_chắn tại vị_trí cố_định cao hơn mực nước cao nhất đã xuất_hiện tối_thiểu 1 , 0m ;
+
+d ) Phương_tiện đo lưu_lượng nước tiếp_xúc với nước : được lắp_đặt chắc_chắn , bảo_đảm khả_năng quan_trắc được lưu_lượng nước của mặt_cắt ngang sông tốt nhất .
+
+6 . Yêu_cầu kĩ_thuật lắp_đặt phương_tiện đo yếu_tố hải_văn_tự_động :
+
+a ) Phương_tiện đo sóng không tiếp_xúc với nước : được lắp_đặt cố_định tại vị_trí cao hơn mực nước cao nhất đã xuất_hiện tối_thiểu 5 , 0m ;
+
+b ) Phương_tiện đo sóng tiếp_xúc với nước : được lắp_đặt cố_định ở độ sâu tối_thiểu 5 , 0m khi nước_ròng nhất ;
+
+c ) Phương_tiện đo mực nước không tiếp_xúc với nước : được lắp_đặt cố_định tại vị_trí cao hơn mực nước cao nhất đã xuất_hiện tối_thiểu 5 , 0m ;
+
+d ) Phương_tiện đo mực nước tiếp_xúc với nước : được lắp_đặt cố_định tại vị_trí thấp hơn mực nước thấp nhất đã xuất_hiện tối_thiểu 1 , 0m ;
+
+đ ) Phương_tiện đo gió bề_mặt_biển : được lắp_đặt ở độ cao từ 10m đến 12m bảo_đảm thông_thoáng , hướng Bắc của thiết_bị đo đúng với hướng Bắc thực .
+
+7 . Việc kiểm_định , hiệu chuẩn phương_tiện đo khí_tượng thuỷ_văn thực_hiện theo quy_định tại Điều 19 Luật khí_tượng thuỷ_văn .
+
+Điều 9 . Tần_suất , phương_pháp quan_trắc khí_tượng thuỷ_văn
+
+1 . Tần_suất quan_trắc :
+
+a ) Đối_với các công_trình thuộc đối_tượng phải quan_trắc khí_tượng thuỷ_văn quy_định tại khoản 3 Điều 13 Luật khí_tượng thuỷ_văn thực_hiện theo quy_định tại khoản 1 Điều 4 Nghị_định số 38/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính_phủ quy_định chi_tiết một_số điều của Luật khí_tượng thuỷ_văn ( sau đây gọi tắt là Nghị_định số 38/2016/NĐ-CP);
+
+b ) Đối_với công_trình khí_tượng thuỷ_văn chuyên_dùng khác thì Bộ , ngành , địa_phương , tổ_chức , cá_nhân căn_cứ nhu_cầu , mục_đích Quyết_định tần_suất quan_trắc phù_hợp .
+
+2 . Phương_pháp quan_trắc khí_tượng thuỷ_văn chuyên_dùng thực_hiện theo quy_định tại Phụ_lục 3 ban_hành kèm theo Thông_tư này .
+
+Mục 2 . Cung_cấp Thông_tin , Dữ_liệu Quan_trắc Khí_tượng Thủy_văn Chuyên_dùng
+
+Điều 10 . Nội_dung và trách_nhiệm cung_cấp thông_tin , dữ_liệu
+
+1 . Thông_tin , dữ_liệu cung_cấp gồm siêu dữ_liệu và dữ_liệu các yếu_tố quan_trắc khí_tượng thuỷ_văn chuyên_dùng .
+
+2 . Chủ_công_trình thuộc đối_tượng quy_định tại điểm a khoản 1 Điều 9 Thông_tư này và các chủ_công_trình khí_tượng thuỷ_văn chuyên_dùng khác cung_cấp thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn theo quy_định tại khoản 2 và khoản 3 Điều 5 Nghị_định số 38/2016/NĐ-CP.
+
+3 . Trách_nhiệm về cung_cấp thông_tin , dữ_liệu :
+
+a ) Lập danh_mục , khối_lượng thông_tin , dữ_liệu cung_cấp ;
+
+b ) Đảm_bảo_an_toàn , an_ninh thông_tin , dữ_liệu trước khi cung_cấp ;
+
+c ) Cung_cấp siêu dữ_liệu lần đầu , khi có thay_đổi thông_tin thông_báo kịp_thời cho cơ_quan thu_nhận thông_tin , dữ_liệu ;
+
+d ) Cung_cấp dữ_liệu cho cơ_quan thu_nhận đúng cấu_trúc , định_dạng ;
+
+đ ) Trong quá_trình cung_cấp thông_tin , dữ_liệu nếu gặp sự_cố thông_báo cho cơ_quan thu_nhận thông_tin , dữ_liệu lí_do và biện_pháp khắc_phục .
+
+4 . Khuyến_khích chủ_công_trình khí_tượng thuỷ_văn chuyên_dùng không thuộc đối_tượng quy_định tại khoản 3 Điều 13 Luật khí_tượng thuỷ_văn cung_cấp thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn cho hệ_thống dự_báo , cảnh_báo khí_tượng thuỷ_văn quốc_gia .
+
+Điều 11 . Cơ_quan thu_nhận thông_tin , dữ_liệu
+
+1 . Tổng_cục Khí_tượng Thuỷ_văn , Bộ Tài_nguyên và Môi_trường thu_nhận thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn chuyên_dùng cung_cấp cho hệ_thống dự_báo , cảnh_báo khí_tượng thuỷ_văn quốc_gia và cơ_sở dữ_liệu khí_tượng thuỷ_văn quốc_gia .
+
+2 . Sở Tài_nguyên và Môi_trường các tỉnh , thành_phố trực_thuộc Trung_ương thu_nhận thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn chuyên_dùng trên địa_bàn địa_phương .
+
+3 . Cơ_quan tiếp_nhận thông_tin , dữ_liệu có trách_nhiệm :
+
+a ) Tổ_chức tiếp_nhận thông_tin , dữ_liệu , kiểm_tra danh_mục , khối_lượng , cấu_trúc , định_dạng , mức_độ an_toàn thông_tin , dữ_liệu ;
+
+b ) Khi phát_hiện thông_tin , dữ_liệu không đảm_bảo_an_toàn , chưa đúng thời_gian cung_cấp , cấu_trúc , định_dạng , không đúng danh_mục , khối_lượng theo quy_định , cơ_quan thu_nhận thông_báo ngay cho tổ_chức , cá_nhân để có biện_pháp khắc_phục ;
+
+c ) Thông_báo kết_quả thu_nhận thông_tin , dữ_liệu quan_trắc khí_tượng thuỷ_văn chuyên_dùng .
+
+Điều 12 . Thời_gian , cấu_trúc , phương_thức cung_cấp , thu_nhận thông_tin , dữ_liệu
+
+1 . Thời_gian cung_cấp :
+
+a ) Thông_tin , dữ_liệu cung_cấp cho hệ_thống dự_báo , cảnh_báo khí_tượng thuỷ_văn quốc_gia thực_hiện theo quy_định tại khoản 2 Điều 5 Nghị_định số 38/2016/NĐ-CP;
+
+b ) Thông_tin , dữ_liệu cung_cấp cho cơ_sở dữ_liệu khí_tượng thuỷ_văn quốc_gia : 01 lần / năm , trước ngày 31 tháng 3 hàng năm .
+
+2 . Cấu_trúc thông_tin , dữ_liệu cung_cấp :
+
+a ) Thông_tin , dữ_liệu dạng số có cấu_trúc , định_dạng thực_hiện theo quy_định tại Phụ_lục 4 ban_hành kèm theo Thông_tư này ;
+
+b ) Thông_tin , dữ_liệu dạng văn_bản và các vật_mang tin khác cung_cấp theo tình_trạng thực_tế .
+
+3 . Phương_thức cung_cấp :
+
+a ) Phương_thức cung_cấp thông_tin , dữ_liệu cho hệ_thống dự_báo , cảnh_báo khí_tượng thuỷ_văn quốc_gia thực_hiện theo quy_định tại khoản 4 Điều 5 Nghị_định số 38/2016/NĐ-CP;
+
+b ) Phương_thức cung_cấp thông_tin , dữ_liệu cho cơ_sở dữ_liệu khí_tượng thuỷ_văn quốc_gia thực_hiện theo quy_định tại Thông_tư số 07/2016/TT-BTNMT ngày 16 tháng 5 năm 2016 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định các bộ dữ_liệu , chuẩn dữ_liệu và xây_dựng , quản_lí cơ_sở dữ_liệu khí_tượng thuỷ_văn quốc_gia .
+
+Chương_iii
+
+Tổ_chức Thực_hiện
+
+Điều 13 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 11 tháng 02 năm 2019 .
+
+Điều 14 . Trách_nhiệm thi_hành
+
+1 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và các cơ_quan , tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thực_hiện Thông_tư này .
+
+2 . Tổng_cục_trưởng Tổng_cục Khí_tượng Thuỷ_văn có trách_nhiệm giúp Bộ_trưởng Bộ Tài_nguyên và Môi_trường hướng_dẫn , đôn_đốc , kiểm_tra việc thực_hiện Thông_tư này .

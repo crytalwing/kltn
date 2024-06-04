@@ -1,0 +1,363 @@
+Thông_tư số 07/2021/tt-btnmt ngày 30 tháng 06 năm 2021 của bộ tài_nguyên và môi_trường
+
+Căn_cứ <LT rel="CC"> Luật Đo_đạc và bản_đồ ngày 14 tháng 6 năm 2018 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 27/2019/NĐ-CP ngày 13 tháng 3 năm 2019 </NĐ> của Chính_phủ quy_định chi_tiết một_số điều của <LT rel="CC"> Luật Đo_đạc và bản_đồ </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 36/2008/NĐ-CP ngày 28 tháng 3 năm 2008 </NĐ> của Chính_phủ về quản_lí tàu_bay không người lái và các phương_tiện bay siêu nhẹ ; <NĐ rel="None"> Nghị_định số 79/2011/NĐ-CP ngày 05 tháng 9 năm 2011 </NĐ> của Chính_phủ về sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 36/2008/NĐ-CP ngày 28 tháng 3 năm 2008 </NĐ> của Chính_phủ về quản_lí tàu_bay không người lái và các phương_tiện bay siêu nhẹ và <NĐ rel="None"> Nghị_định số 58/2010/NĐ-CP ngày 01 tháng 6 năm 2010 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Dân_quân tự_vệ ;
+
+Theo đề_nghị của Cục_trưởng Cục Đo_đạc , Bản_đồ và Thông_tin địa_lí Việt_nam , Vụ_trưởng Vụ Pháp_chế và Vụ_trưởng Vụ Khoa_học và Công_nghệ ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành <TT rel="None"> Thông_tư quy_định kĩ_thuật </TT> thu_nhận và xử_lí dữ_liệu ảnh số từ tàu_bay không người lái phục_vụ xây_dựng , cập_nhật cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 và thành_lập bản_đồ địa_hình tỉ_lệ 1 : 500 , 1 : 1 . 000 .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định các yêu_cầu kĩ_thuật về thu_nhận và xử_lí dữ_liệu ảnh số từ tàu_bay không người lái phục_vụ xây_dựng , cập_nhật cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 và thành_lập bản_đồ địa_hình tỉ_lệ 1 : 500 , 1 : 1 . 000 .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với các cơ_quan , tổ_chức , cá_nhân liên_quan đến hoạt_động đo_đạc bản_đồ và xây_dựng , cập_nhật cơ_sở dữ_liệu nền địa_lí quốc_gia , thành_lập bản_đồ địa_hình bằng phương_pháp thu_nhận và xử_lí dữ_liệu ảnh số từ tàu_bay không người lái .
+
+Điều 3 . Giải_thích từ_ngữ và chữ_viết tắt
+
+1 . Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+a ) Khu bay là phạm_vi cần thực_hiện bay chụp thu_nhận dữ_liệu từ tàu_bay không người lái ;
+
+b ) Phân khu bay là các khu_vực được chia nhỏ từ khu bay để thực_hiện bay chụp thu_nhận dữ_liệu phù_hợp với khả_năng của thiết_bị và các điều_kiện khác ;
+
+c ) Thiết_bị điều_khiển mặt_đất là thiết_bị dùng để điều_khiển tàu_bay không người lái ;
+
+d ) Trạm cố_định là trạm được đặt thiết_bị thu Gns tại một điểm đã có toạ_độ , độ cao chính_xác , được sử_dụng để cung_cấp dữ_liệu cải_chính phục_vụ giải_pháp đo động thời_gian thực hoặc dữ_liệu phục_vụ giải_pháp đo động xử_lí sau .
+
+2 . Từ_ngữ viết tắt
+
+a ) Dem ( Digital Elevation_model ) là mô_hình số độ cao , thể_hiện độ cao của bề_mặt địa_hình ;
+
+b ) Dsm ( Digital Surface_model ) là mô_hình số bề_mặt , thể_hiện độ cao lớp trên cùng của bề_mặt trái_đất được nhìn từ trên xuống ;
+
+c ) Gns ( Global Navigation Satellite_system ) là hệ_thống dẫn đường bằng vệ_tinh toàn_cầu ;
+
+d ) GeoTIFF ( Tagged Image File Format for Gis applications ) là định_dạng ảnh_gắn với toạ_độ địa_lý ;
+
+đ ) Gsd ( Ground Sample_distance ) là kích_thước một điểm_ảnh ( pixel ) của tấm ảnh hàng không được chiếu trên mặt_đất hay_là khoảng_cách lấy mẫu trên mặt_đất ;
+
+e ) Uav ( Unmanned Aerial_vehicles ) là tàu_bay không người lái .
+
+Chương_ii
+
+Quy_định Kỹ_thuật
+
+Mục 1 . Quy_định về tàu_bay không người lái và hệ_thống_thiết_bị
+
+Điều 4 . Quy_định về Uav
+
+1 . Việc sử_dụng Uav phải tuân_thủ các quy_định tại <NĐ rel="DC"> Nghị_định số 36/2008/NĐ-CP ngày 28 tháng 3 năm 2008 </NĐ> của Chính_phủ về quản_lí tàu_bay không người lái và các phương_tiện bay siêu nhẹ và <NĐ rel="DC"> Nghị_định số 79/2011/NĐ-CP ngày 05 tháng 9 năm 2011 </NĐ> của Chính_phủ về sửa_đổi , bổ_sung một_số điều của <NĐ rel="DC"> Nghị_định số 36/2008/NĐ-CP ngày 28 tháng 3 năm 2008 </NĐ> của Chính_phủ về quản_lí tàu_bay không người lái và các phương_tiện bay siêu nhẹ và <NĐ rel="DC"> Nghị_định số 58/2010/NĐ-CP ngày 01 tháng 6 năm 2010 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Dân_quân tự_vệ .
+
+2 . Thiết_bị Uav phải thoả_mãn các tiêu_chuẩn được quy_định tại <TT rel="DC"> Thông_tư số 35/2017/TT-BQP ngày 12 tháng 02 năm 2017 </TT> của Bộ_trưởng Bộ Quốc_phòng quy_định tiêu_chuẩn đủ điều_kiện bay ; tiêu_chuẩn , thủ_tục cấp giấy_phép cho cơ_sở thiết_kế , sản_xuất , sửa_chữa , bảo_dưỡng , thử_nghiệm tàu_bay , động_cơ tàu_bay , cánh_quạt tàu_bay và trang_bị , thiết_bị của tàu_bay không người lái , phương_tiện bay siêu nhẹ ; khai_thác tàu_bay không người lái và phương_tiện bay siêu nhẹ và đáp_ứng các yêu_cầu dưới đây mới được phép sử_dụng để thu_nhận dữ_liệu ảnh số phục_vụ xây_dựng , cập_nhật cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 và thành_lập bản_đồ địa_hình tỉ_lệ 1 : 500 , 1 : 1 . 000 :
+
+a ) Có khả_năng bay ở chế_độ tự_động và bán tự_động ;
+
+b ) Có trọng_lượng cất_cánh không vượt quá 25 , 0 kg ;
+
+c ) Có khả_năng chịu gió tối_thiểu 8 m / s .
+
+3 . Thiết_bị vô_tuyến_điện đi kèm Uav phải được đăng_kí tần_số theo quy_định tại <TT rel="DC"> Thông_tư số 05/2015/TT-BTTTT ngày 23 tháng 3 năm 2015 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông quy_định chi_tiết và hướng_dẫn thủ_tục cấp giấy_phép sử_dụng tần_số vô_tuyến_điện ; cho thuê , cho mượn thiết_bị vô_tuyến_điện ; sử_dụng chung tần_số vô_tuyến_điện .
+
+Điều 5 . Máy_ảnh số và thiết_bị Gns_gắn trên Uav
+
+Máy_ảnh số gắn trên Uav phải tích_hợp thiết_bị Gns phục_vụ xác_định các nguyên_tố định_hướng ngoài trong quá_trình thu_nhận dữ_liệu ảnh số , phải đảm_bảo các yêu_cầu sau :
+
+1 . Máy_ảnh số gắn trên Uav :
+
+a ) Có tiêu_cự cố_định trong quá_trình bay chụp ;
+
+b ) Có chế_độ chụp tự_động liên_tục ;
+
+c ) Chụp được ảnh màu tự_nhiên Rgb với độ phân_giải hình_ảnh không nhỏ hơn 20 megapixel .
+
+2 . Thiết_bị Gns_gắn trên Uav phải thu được tín_hiệu đa tần từ các hệ_thống dẫn đường bằng vệ_tinh , có tần_số thu tín_hiệu tối_thiểu 1 Hz đáp_ứng giải_pháp đo động xử_lí sau hoặc đo động thời_gian thực .
+
+Điều 6 . Thiết_bị điều_khiển mặt_đất và phần_mềm xử_lí dữ_liệu
+
+1 . Thiết_bị điều_khiển mặt_đất có màn_hình hiển_thị , cài_đặt được phần_mềm với các chức_năng cơ_bản sau :
+
+a ) Thiết_kế các tuyến bay tự_động trên cơ_sở lựa_chọn các Uav và máy_ảnh khác nhau , với các thông_số cơ_bản như ranh_giới phân khu bay , độ phân_giải mặt_đất , độ phủ ngang , độ phủ dọc của ảnh và các thông_số liên_quan khác ;
+
+b ) Điều_khiển hoạt_động và hiển_thị các thông_số của Uav như vị_trí , độ cao , tốc_độ , hướng bay , tình_trạng pin ; giám_sát được trạng_thái hoạt_động của máy_ảnh , Gns , trạng_thái kết_nối giữa thiết_bị điều_khiển với Uav và các thông_số liên_quan khác .
+
+2 . Phần_mềm xử_lí dữ_liệu phải có khả_năng xử_lí dữ_liệu đầu_vào bao_gồm các dữ_liệu thu_nhận từ Uav và dữ_liệu trạm cố_định ; tạo_lập các sản_phẩm gồm : đám mây điểm , Dsm , Dem , bình_đồ ảnh .
+
+Mục 2 . Quy_định kĩ_thuật về sản_phẩm
+
+Điều 7 . Cơ_sở toán_học
+
+1 . Các sản_phẩm đám mây điểm , Dsm , Dem , bình_đồ ảnh được thành_lập theo Hệ quy chiếu và Hệ toạ_độ quốc_gia Vn - 2000 , múi chiếu , kinh_tuyến trục thực_hiện theo quy_định tại <TT rel="DC"> Thông_tư số 973/2001/TT-TCĐC ngày 20 tháng 6 năm 2001 </TT> của Tổng_cục Địa_chính hướng_dẫn áp_dụng hệ quy chiếu và hệ toạ_độ quốc_gia Vn - 2000 .
+
+2 . Hệ_độ cao sử_dụng trong xây_dựng mô_hình số độ cao là hệ độ cao quốc_gia hiện_hành .
+
+Điều 8 . Quy_định về ảnh gốc và độ cao bay chụp
+
+1 . Các quy_định về ảnh gốc gồm :
+
+a ) Chất_lượng ảnh
+
+Ảnh gốc phải có độ tương_phản đồng_đều , độ sáng , độ nét , mầu_sắc đối_tượng đảm_bảo chất_lượng hình_ảnh cho quá_trình xử_lí dữ_liệu , có khả_năng phân_biệt rõ_ràng các đối_tượng trên ảnh bằng trực_quan ; độ nhoè của hình_ảnh không vượt quá 0 , 25 Gsd ;
+
+b ) Độ_phủ ảnh : độ phủ ngang của ảnh gốc phải đảm_bảo từ 60 % tới 80 % , độ phủ dọc không nhỏ hơn 70 % ;
+
+c ) Độ phân_giải mặt_đất của ảnh gốc không được vượt quá giá_trị quy_định tương_ứng với tỉ_lệ bản_đồ và khoảng cao đều đường bình độ cơ_bản cần thành_lập theo Bảng 1 dưới đây :
+
+Bảng 1
+
+2 . Độ cao bay chụp
+
+Độ cao bay so với bề_mặt mặt_đất được lựa_chọn khi chụp ảnh , được tính_toán từ độ phân_giải mặt_đất của ảnh theo công_thức :
+
+H = f x Gsd / S
+
+Trong đó :
+
+f là chiều dài tiêu_cự ống_kính máy chụp ảnh ( m ) ;
+
+S là kích_thước pixel ( m ) ;
+
+Gsd là độ phân_giải mặt_đất của ảnh ( m ) .
+
+Điều 9 . Quy_định về sản_phẩm và độ chính_xác dữ_liệu
+
+Sản_phẩm sau xử_lí dữ_liệu gồm đám mây điểm , Dsm , Dem và bình_đồ ảnh được quy_định như sau :
+
+1 . Sản_phẩm đám mây điểm , Dsm , Dem
+
+a ) Dữ_liệu đám mây điểm được lưu_trữ ở định_dạng Las ;
+
+b ) Dữ_liệu Dsm , Dem có cấu_trúc dạng lưới ô vuông với kích_thước ô lưới quy_định tại Bảng 2 dưới đây :
+
+Bảng 2
+
+c ) Dữ_liệu Dsm , Dem được lưu_trữ ở định_dạng raster ( GeoTiFF - 32 bit ) và định_dạng Asci ;
+
+d ) Phạm_vi dữ_liệu Dsm , Dem phải được cắt chờm biên khu bay 1cm theo tỉ_lệ bản_đồ cần thành_lập và không được có dữ_liệu trống bên trong khu_vực bay ;
+
+đ ) Sai_số trung phương về độ cao của Dem không được vượt quá các giá_trị quy_định tại Bảng 3 dưới đây :
+
+Bảng 3
+
+Trường_hợp_thành_lập bản_đồ địa_hình với khoảng cao đều 0 , 5 m chỉ áp_dụng cho khu_vực có địa_hình ổn_định , bằng_phẳng , quang_đãng , những nơi có thực_phủ thưa_thớt , sai_số trung phương về độ cao của Dem không được vượt quá 0 , 125 m ;
+
+e ) Sai_số giới_hạn về độ cao của Dem không được vượt quá 2 lần sai_số trung phương . Các sai_lệch của các trị đo kiểm_tra không được vượt quá sai_số giới_hạn , số_lượng các trị đo có giá_trị nằm trong khoảng ( 70 % - 100 % ) sai_số giới_hạn không được vượt quá 10 % ;
+
+g ) Sử_dụng máy toàn đạc điện_tử hoặc thiết_bị Gns để đo kiểm_tra Dem ngoài thực_địa . Điểm được sử_dụng để làm trạm đo là các điểm thuộc lưới đo vẽ cấp 2 trở lên quy_định tại <TT rel="DC"> Thông_tư số 68/2015/TT-BTNMT ngày 22 tháng 12 năm 2015 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định kĩ_thuật đo_đạc trực_tiếp địa_hình phục_vụ thành_lập bản_đồ địa_hình và cơ_sở dữ_liệu nền địa_lí tỉ_lệ 1 : 500 , 1 : 1 . 000 , 1 : 2 . 000 , 1 : 5 . 000 .
+
+2 . Sản_phẩm bình_đồ ảnh
+
+a ) Dữ_liệu bình_đồ ảnh có định_dạng GeoTiFF 24-bit, phải có màu_sắc tự_nhiên hài_hoà không quá sáng hoặc quá tối , không bị loá , không có mây che ;
+
+b ) Độ phân_giải của bình_đồ ảnh được quy_định theo Bảng 4 dưới đây :
+
+Bảng 4
+
+c ) Sai_số vị_trí điểm_ảnh trên bình_đồ ảnh so với điểm khống_chế đo vẽ gần nhất không được vượt quá 0 , 4 mm theo tỉ_lệ bản_đồ cần thành_lập ;
+
+d ) Bình_đồ ảnh phải cắt chờm 1cm ra ngoài khung trong mảnh bản_đồ ; trường_hợp bình_đồ ảnh không kín mảnh bản_đồ thì phải cắt chờm 1cm ngoài biên khu bay .
+
+Mục 3 . Quy_định về thu_nhận và xử_lí dữ_liệu
+
+Điều 10 . Quy_trình thu_nhận và xử_lí dữ_liệu
+
+Quy_trình thu_nhận và xử_lí dữ_liệu từ Uav gồm các bước theo sơ_đồ sau :
+
+Điều 11 . Công_tác chuẩn_bị
+
+1 . Căn_cứ yêu_cầu nhiệm_vụ cụ_thể về thu_nhận và xử_lí dữ_liệu ảnh số từ tàu_bay không người lái phục_vụ xây_dựng , cập_nhật cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2 . 000 , 1 : 5 . 000 và thành_lập bản_đồ địa_hình tỉ_lệ 1 : 500 , 1 : 1 . 000 , tiến_hành khảo_sát để lập Thiết_kế kĩ_thuật - dự_toán và triển_khai thi_công , bao_gồm các nội_dung sau :
+
+a ) Khảo_sát các điều_kiện về địa_hình , địa_vật , khí_tượng liên_quan đến công_tác bay chụp và xử_lí dữ_liệu Uav . Khảo_sát , ước_tính khối_lượng khu_vực bề_mặt địa_hình bị che_khuất bởi thực_phủ dày hoặc các công_trình không_thể xác_định độ cao bằng phương_pháp thu_nhận ảnh từ Uav với diện_tích từ 6cm2 trở lên theo tỉ_lệ bản_đồ cần thành_lập , phải áp_dụng giải_pháp đo vẽ bổ_sung ngoại nghiệp độ cao địa_hình ;
+
+b ) Lựa_chọn khu_vực nơi cất và hạ_cánh Uav đảm_bảo_an_toàn , tránh các khu_vực có chướng_ngại_vật hàng không chiều cao lớn ảnh_hưởng đến việc cất và hạ_cánh .
+
+2 . Lập hồ_sơ đề_nghị cấp phép bay theo quy_định tại <NĐ rel="DC"> Nghị_định số 36/2008/NĐ-CP ngày 28 tháng 3 năm 2008 </NĐ> của Chính_phủ .
+
+Điều 12 . Thiết_kế bay chụp
+
+1 . Căn_cứ vào phạm_vi , hình_dạng , đặc_điểm địa_hình của khu bay và thiết_bị Uav sử_dụng , tiến_hành_xác_định các phân khu bay để đảm_bảo thuận_lợi cho việc tổ_chức bay và bố_trí các trạm cố_định .
+
+2 . Việc thiết_kế tuyến bay Uav được thực_hiện theo nguyên_tắc phải phủ kín khu bay , đảm_bảo độ chính_xác và tiết_kiệm kinh_phí nhất .
+
+3 . Trên_cơ_sở ranh_giới khu bay , độ phân_giải mặt_đất của ảnh , độ phủ dọc và độ phủ ngang của ảnh , hướng bay , các thông_số chụp ảnh của máy_ảnh , các thông_số kĩ_thuật của Uav , tiến_hành_xác_định độ cao bay và các tuyến bay cụ_thể cho từng phân khu bay .
+
+4 . Phạm_vi bay chụp của mỗi phân khu phải đảm_bảo phủ chờm ra ngoài đường_biên của phân khu bay tối_thiểu bằng độ rộng của một tuyến bay .
+
+5 . Căn_cứ theo phạm_vi , hình_dạng , điều_kiện địa_hình , điều_kiện khí_tượng của từng phân khu bay để lựa_chọn hướng bay sao cho thời_gian bay là ngắn nhất .
+
+6 . Sản_phẩm thiết_kế tuyến bay thể_hiện trên nền bản_đồ địa_hình có tỉ_lệ phù_hợp , với các nội_dung sau : ranh_giới phân khu bay , các tuyến bay , độ phủ , các thông_số bay chụp .
+
+Điều 13 . Đo nối trạm cố_định , điểm khống_chế ảnh , điểm kiểm_tra
+
+1 . Bố_trí và đo nối toạ_độ , độ cao trạm cố_định
+
+a ) Trạm cố_định ưu_tiên bố_trí ở trung_tâm phân khu bay ở vị_trí thông_thoáng đủ điều_kiện thu_nhận tín_hiệu Gns , cách ranh_giới của phân khu bay chụp không lớn hơn 10km ;
+
+b ) Các điểm trạm cố_định được đặt trên các mốc đã có sẵn hoặc được đánh_dấu bằng cọc gỗ hoặc đinh sắt có đánh_dấu sơn ở thực_địa và phải đảm_bảo_tồn_tại trong suốt thời_gian thi_công và kiểm_tra nghiệm_thu ;
+
+c ) Toạ_độ và độ cao của các điểm trạm cố_định được xác_định bằng phương_pháp toàn đạc điện_tử hoặc công_nghệ Gns với độ chính_xác tương_đương lưới đo vẽ cấp 1 ; quy_trình đo_đạc , xử_lí dữ_liệu thực_hiện theo quy_định tại <TT rel="DC"> Thông_tư số 68/2015/TT-BTNMT </TT>. Trường_hợp các phương_pháp trên không đáp_ứng được yêu_cầu độ chính_xác về độ cao thì phải áp_dụng phương_pháp thuỷ chuẩn hình_học để xác_định độ cao ;
+
+d ) Trường_hợp phân khu bay có các trạm định_vị vệ_tinh quốc_gia thì được phép sử_dụng các trạm này làm trạm cố_định để phục_vụ quá_trình bay chụp thu_nhận dữ_liệu .
+
+2 . Bố_trí và đo nối điểm khống_chế ảnh , điểm kiểm_tra
+
+a ) Trong mỗi phân khu bay phải bố_trí tối_thiểu 5 điểm khống_chế ảnh mặt_phẳng và độ cao , ưu_tiên bố_trí vào các góc phân khu ; đối_với phân khu bay lớn phải đảm_bảo mật_độ tối_thiểu 1 điểm / 1km2 ; đối_với các phân khu bay hình tuyến bố_trí các điểm khống_chế ảnh không thẳng hàng dọc theo hai bên tuyến , đảm_bảo mật_độ tối_thiểu 1 điểm / 1km chiều dài ;
+
+b ) Trong mỗi phân khu bay phải bố_trí tối_thiểu 2 điểm kiểm_tra mặt_phẳng , độ cao và đảm_bảo mật_độ 1 điểm / 5km2 rải đều trong phân khu và xa các điểm khống_chế ảnh ; đối_với phân khu bay có hình_dạng phức_tạp cần bố_trí thêm các điểm kiểm_tra ở các góc ; đối_với các phân khu bay hình tuyến , số_lượng điểm kiểm_tra phải đảm_bảo mật_độ tối_thiểu 1 điểm / 3 km chiều dài ;
+
+c ) Các điểm khống_chế ảnh và điểm kiểm_tra phải được chọn tại các địa_vật rõ nét hoặc các đối_tượng có độ tương_phản cao so với bề_mặt xung_quanh như : điểm giao nhau của các đối_tượng_hình tuyến hoặc điểm địa_vật độc_lập , các vạch sơn trên mặt_đường giao_thông . Các đối_tượng được chọn phải có độ rộng tối_thiểu là 3 Gsd , trường_hợp độ rộng_lớn hơn 10 Gsd phải chọn vào vị_trí góc ( nếu rõ nét ) hoặc tại điểm giao nhau giữa đường trung_tâm của đối_tượng này với đường_biên của đối_tượng kia . Vị_trí chọn điểm khống_chế ảnh , điểm kiểm_tra theo Mẫu_số 01 Phụ_lục kèm theo Thông_tư này ;
+
+d ) Trường_hợp trong phân khu bay không có địa_vật , đối_tượng rõ nét thì phải đánh_dấu vị_trí điểm khống_chế ảnh , điểm kiểm_tra bằng các tiêu khống_chế trước khi bay chụp . Tiêu khống_chế cần_thiết_kế ở dạng hình , hình hoặc hình chữ T , chữ L . Tiêu khống_chế phải có độ rộng tối_thiểu 3 Gsd , độ dài tối_thiểu 5 Gsd . Hình_dạng tiêu khống_chế bố_trí ngoài thực_địa theo Mẫu_số 02 Phụ_lục kèm theo Thông_tư này ;
+
+đ ) Điểm khống_chế ảnh , điểm kiểm_tra phải được đánh_dấu bằng cọc gỗ , đinh sắt hoặc đánh_dấu sơn ở thực_địa , đảm_bảo_tồn_tại trong thời_gian thi_công và kiểm_tra nghiệm_thu ;
+
+e ) Sau khi xác_định vị_trí điểm khống_chế ảnh , điểm kiểm_tra phải vẽ sơ_đồ và chụp ảnh tại thực_địa để dễ nhận_biết trong quá_trình xử_lí dữ_liệu . Tại mỗi vị_trí các điểm khống_chế ảnh , điểm kiểm_tra phải thực_hiện chụp tối_thiểu 04 ảnh theo các hướng Đông , Tây , Nam , Bắc để đảm_bảo nhìn bao_quát được toàn_bộ xung_quanh vị_trí điểm ;
+
+g ) Toạ_độ và độ cao của điểm khống_chế ảnh , điểm kiểm_tra được xác_định bằng phương_pháp toàn đạc điện_tử hoặc công_nghệ Gns với độ chính_xác tương_đương lưới đo vẽ cấp 2 ; quy_trình đo_đạc , xử_lí dữ_liệu thực_hiện theo quy_định tại <TT rel="DC"> Thông_tư số 68/2015/TT-BTNMT </TT>. Trường_hợp các phương_pháp trên không đáp_ứng được yêu_cầu độ chính_xác về độ cao thì phải áp_dụng phương_pháp thuỷ chuẩn hình_học để xác_định độ cao .
+
+Điều 14 . Tổ_chức bay chụp ảnh
+
+1 . Bay chụp ảnh Uav
+
+a ) Liên_hệ với cơ_quan quản_lí tại địa_phương theo phép bay đã được cấp để đăng_kí sử_dụng Uav ; thống_nhất về khu_vực , thời_gian bay , độ cao bay theo phép bay ;
+
+b ) Trước khi bay phải thực_hiện kiểm_tra tình_trạng hoạt_động của Uav , máy chụp ảnh , Gns , thiết_bị điều_khiển mặt_đất và các thiết_bị khác kèm theo ;
+
+c ) Thực_hiện bay chụp ảnh theo đúng mục_đích , đúng khu_vực và thời_gian được cấp phép bay ; trong suốt quá_trình bay chụp phải giám_sát hoạt_động của Uav và các thiết_bị . Trường_hợp điều_kiện thời_tiết không đảm_bảo hoặc một trong các thiết_bị có liên_quan đến thu_nhận dữ_liệu khi bay chụp hoạt_động không ổn_định phải dừng bay và điều_khiển Uav về vị_trí xuất_phát ;
+
+d ) Sau mỗi ca bay phải thực_hiện sao lưu dữ_liệu vào thiết_bị lưu_trữ trên máy_tính và kiểm_tra , đánh_giá sơ_bộ dữ_liệu .
+
+2 . Đo Gns tại trạm cố_định
+
+a ) Sử_dụng máy thu Gns đa tần_số , thu tín_hiệu 1 giây trong suốt quá_trình bay chụp ;
+
+b ) Máy thu Gns phải được bật trước khi bay tối_thiểu 5 phút và tắt máy thu Gns sau khi Uav hạ_cánh 5 phút ;
+
+c ) Chiều cao ăng - ten máy thu Gns tại trạm cố_định được đo độc_lập 3 lần bằng thước thép , đọc số đến mm vào thời_điểm bắt_đầu bay , giữa ca bay và trước khi kết_thúc ca bay .
+
+Điều 15 . Xử_lí dữ_liệu sau bay chụp
+
+1 . Sao lưu dữ_liệu ảnh gốc từ máy_ảnh , dữ_liệu đo Gns từ trạm cố_định và dữ_liệu thu Gns từ Uav .
+
+2 . Tính_toán xác_định toạ_độ tâm chụp và các nguyên_tố định_hướng ảnh từ dữ_liệu đo Gns của trạm cố_định và dữ_liệu thu_nhận Gns từ Uav .
+
+3 . Kiểm_tra chất_lượng dữ_liệu sau bay chụp
+
+a ) Kiểm_tra khái_quát các điều_kiện bay chụp như tốc_độ máy_bay , cấp_độ gió , thời_gian chụp so với thiết_kế , chất_lượng dữ_liệu thu Gns ;
+
+b ) Kiểm_tra độ chờm ảnh ra biên các phân khu bay so với thiết_kế , các khu_vực bay hở , sót ;
+
+c ) Kiểm_tra độ phủ dọc , độ phủ ngang của ảnh chụp so với thiết_kế ; độ phủ dọc , độ phủ ngang của ảnh chụp không được nhỏ hơn 5 % so với thiết_kế ;
+
+d ) Kiểm_tra chất_lượng ảnh chụp , đánh_giá chất_lượng hình_ảnh thông_qua độ rõ nét hình_ảnh , độ tương_phản , điều_kiện ánh_sáng , bóng nắng , bóng mây che_khuất ; đánh_giá chất_lượng hình_ảnh tại khu_vực có bố_trí các điểm khống_chế ảnh và điểm kiểm_tra .
+
+4 . Trường_hợp phạm_vi bay , chất_lượng ảnh chụp không đạt yêu_cầu phải tiến_hành bay bù .
+
+Điều 16 . Bình_sai khối ảnh
+
+1 . Tạo_lập môi_trường làm_việc ( lập project ) để bình_sai khối ảnh . Mỗi khối ảnh được tạo_lập từ một hoặc nhiều phân khu bay . Trong mỗi project thiết_lập cơ_sở toán_học , nhập dữ_liệu ảnh gốc , toạ_độ tâm chụp , toạ_độ , độ cao các điểm khống_chế ảnh , điểm kiểm_tra và thông_số máy_ảnh .
+
+2 . Bình_sai khối ảnh :
+
+a ) Chọn , đo tất_cả điểm khống_chế ảnh , điểm kiểm_tra có xuất_hiện trên các tấm ảnh ;
+
+b ) Tiến_hành liên_kết , bình_sai khối ảnh . Quá_trình liên_kết , bình_sai khối ảnh phải sử_dụng tối_đa_số_lượng ảnh có trong khối ảnh .
+
+3 . Đánh_giá chất_lượng bình_sai khối ảnh
+
+Sau khi bình_sai khối ảnh , phải kiểm_tra sai_số các nguyên_tố định_hướng trong của máy_ảnh , sai_số tại các điểm khống_chế ảnh , điểm kiểm_tra và thoả_mãn các yêu_cầu sau :
+
+a ) Sai_số các nguyên_tố định_hướng trong của máy_ảnh phải ổn_định : sai_số toạ_độ điểm chính ảnh không được vượt quá 1/2 giá_trị pixel , sai_số tiêu_cự không được vượt quá 5 % ;
+
+b ) Sai_số trung phương vị_trí mặt_phẳng và độ cao của các điểm khống_chế ảnh ngoại nghiệp sau bình_sai khối ảnh phải bảo_đảm về mặt_phẳng không vượt quá 0 , 2 mm tính theo tỉ_lệ bản_đồ , về độ cao không vượt quá 1/5 khoảng cao đều đường bình độ cơ_bản ; sai_số giới_hạn không vượt quá 2 lần sai_số trung phương ;
+
+c ) Số chênh giữa toạ_độ , độ cao tại các điểm kiểm_tra sau bình_sai so với toạ_độ , độ cao đo ngoại nghiệp không được phép vượt quá 0 , 3 mm theo tỉ_lệ bản_đồ về mặt_phẳng và 1/4 khoảng cao đều đường bình độ cơ_bản về độ cao .
+
+Điều 17 . Tạo đám mây_điểm
+
+1 . Khi kết_quả bình_sai khối ảnh đạt yêu_cầu , tiến_hành tạo đám mây điểm dày_đặc từ kết_quả khối ảnh đã được tính_toán bình_sai theo kích_thước không nhỏ hơn độ phân_giải của ảnh gốc . Rà_soát , loại_bỏ các điểm có giá_trị độ cao đột_biến so với khu_vực xung_quanh .
+
+2 . Trường_hợp có nhiều khối ảnh , phải thực_hiện tiếp biên đám mây điểm giữa các khối ảnh liền kề . Sai_số tiếp biên không được vượt quá 0 , 3 mm tính theo tỉ_lệ bản_đồ về mặt_phẳng và 1/4 khoảng cao đều đường bình độ cơ_bản về độ cao của bản_đồ cần thành_lập .
+
+Điều 18 . Thành_lập mô_hình số bề_mặt
+
+Sử_dụng đám mây điểm để tạo_lập mô_hình số bề_mặt cho khu bay . Thiết_lập kích_thước ô lưới của Dsm theo tỉ_lệ bản_đồ cần thành_lập được quy_định tại Bảng 2 của Thông_tư này . Biên_tập , cắt mô_hình số bề_mặt theo dạng hình chữ_nhật phủ chờm 1cm ra ngoài khung trong của mảnh bản_đồ cần thành_lập .
+
+Điều 19 . Thành_lập bình_đồ ảnh
+
+1 . Sử_dụng mô_hình số bề_mặt và ảnh gốc để thành_lập bình_đồ ảnh theo khối ảnh với độ phân_giải ảnh quy_định tại Bảng 4 của Thông_tư này . Bình_đồ ảnh phải đảm_bảo tông ảnh đồng_đều , độ tương_phản trung_bình .
+
+2 . Độ chính_xác của bình_đồ ảnh tại vị_trí các điểm khống_chế ảnh , điểm kiểm_tra ngoại nghiệp phải đảm_bảo sai_số về mặt_phẳng theo quy_định tại điểm c khoản 2 Điều 9 của Thông_tư này .
+
+3 . Tiếp_biên giữa các khối ảnh liền kề theo địa_vật cùng tên trên bình_đồ ảnh phải đảm_bảo sai_số về mặt_phẳng không được vượt quá 0 , 5 mm theo tỉ_lệ bản_đồ cần thành_lập .
+
+4 . Cắt , chia mảnh bình_đồ ảnh theo dạng hình chữ_nhật phủ chờm 1cm ra ngoài khung trong của mảnh bản_đồ cần thành_lập .
+
+Điều 20 . Thành_lập mô_hình số độ cao
+
+1 . Thành_lập Dem gồm các nội_dung công_việc sau :
+
+a ) Sử_dụng dữ_liệu đám mây điểm , bình_đồ ảnh tiến_hành phân_loại , khoanh vùng địa_hình , địa_vật , thực_phủ , mặt_nước , xác_định các khu_vực phải đo vẽ bổ_sung ngoại nghiệp độ cao địa_hình do không_thể xác_định bằng phương_pháp thu_nhận ảnh từ Uav với diện_tích từ 6cm2 trở lên theo tỉ_lệ bản_đồ cần thành_lập ;
+
+b ) Đối_với các khu_vực phải đo vẽ bổ_sung ngoại nghiệp độ cao địa_hình , việc đo vẽ chi_tiết địa_hình được thực_hiện theo quy_định tại <TT rel="DC"> Thông_tư số 68/2015/TT-BTNMT </TT>;
+
+c ) Xác_định bề_mặt mặt_đất , tiến_hành lọc bỏ các đối_tượng nằm phía trên mặt_đất từ dữ_liệu đám mây điểm ;
+
+d ) Thực_hiện nội suy độ cao mặt_đất tại các khu_vực đã được lọc bỏ từ các điểm độ cao xung_quanh ; tạo Dem sơ_bộ cho toàn_bộ khu bay ;
+
+đ ) Sử_dụng bình_đồ ảnh , Dsm , dữ_liệu số_hoá mặt_nước , dữ_liệu đo vẽ bổ_sung ngoại nghiệp độ cao địa_hình tiến_hành chuẩn_hoá , hiệu_chỉnh Dem sơ_bộ ; tạo Dem cho toàn_bộ khu bay .
+
+2 . Mô_hình số độ cao sau khi được chuẩn_hoá , tạo_lập tiến_hành thực_hiện biên_tập , cắt theo hình chữ_nhật chờm phủ 1cm ra ngoài khung trong của mảnh bản_đồ .
+
+3 . Sản_phẩm Dem sau khi tạo_lập phải được đơn_vị thi_công kiểm_tra , đánh_giá chất_lượng theo quy_định sau :
+
+a ) Kiểm_tra , đánh_giá độ chính_xác , độ phù_hợp giữa Dem với bình_đồ ảnh và các dữ_liệu phân_loại , lọc điểm , mức_độ kiểm_tra 100 % số mảnh của khu bay ;
+
+b ) Đo kiểm_tra , đánh_giá độ chính_xác về độ cao của Dem tại thực_địa với mức_độ 3 % số mảnh của khu bay .
+
+Điều 21 . Kiểm_tra , đóng_gói sản_phẩm
+
+1 . Công_tác kiểm_tra , thẩm_định , nghiệm_thu chất_lượng sản_phẩm được thực_hiện theo quy_định tại <TT rel="DC"> Thông_tư số 24/2018/TT-BTNMT ngày 15 tháng 11 năm 2018 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định về kiểm_tra , thẩm_định , nghiệm_thu chất_lượng sản_phẩm đo_đạc và bản_đồ . Nội_dung và mức kiểm_tra sản_phẩm Dem thực_hiện theo quy_định tại mục Ii . 2 . 3 Phụ_lục 1a của <TT rel="DC"> Thông_tư số 24/2018/TT-BTNMT </TT> đối_với sản_phẩm Dtm .
+
+2 . Đóng_gói sản_phẩm
+
+a ) Các sản_phẩm Dsm , Dem đóng_gói theo mảnh bản_đồ kèm siêu dữ_liệu ;
+
+b ) Bình_đồ ảnh đóng_gói theo mảnh bản_đồ , các sản_phẩm khác đóng_gói theo khu bay .
+
+3 . Giao_nộp dữ_liệu , sản_phẩm sau :
+
+a ) Dữ_liệu và thành_quả đo_đạc điểm trạm cố_định , điểm khống_chế ảnh , điểm kiểm_tra ;
+
+b ) Dữ_liệu Gns trên Uav , dữ_liệu ảnh gốc , kết_quả tính toạ_độ tâm chụp , các thông_số kiểm_định máy_ảnh sau bình_sai khối ảnh ;
+
+c ) Dữ_liệu đám mây điểm , mô_hình số bề_mặt , mô_hình số độ cao , bình_đồ ảnh ;
+
+d ) Báo_cáo tổng_kết kĩ_thuật ;
+
+đ ) Các sản_phẩm khác ( nếu có ) phải được quy_định cụ_thể trong thiết_kế kĩ_thuật - dự_toán được cấp có thẩm_quyền phê_duyệt .
+
+Chương_iii
+
+Điều_khoản Thi_hành
+
+Điều 22 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 16 tháng 8 năm 2021 .
+
+Điều 23 . Tổ_chức thực_hiện
+
+1 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , Quyết_định . / .

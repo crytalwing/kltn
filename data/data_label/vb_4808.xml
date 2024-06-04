@@ -1,0 +1,221 @@
+Thông_tư số 21/2023/tt-btttt ngày 31 tháng 12 năm 2023 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Công_nghệ thông_tin năm 2006 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 48/2022/NĐ-CP ngày 26 tháng 7 năm 2022 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 42/2022/NĐ-CP ngày 24 tháng 6 năm 2022 </NĐ> của Chính_phủ quy_định về việc cung_cấp thông_tin và dịch_vụ công trực_tuyến của cơ_quan nhà_nước trên môi_trường mạng ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 </NĐ> của Chính_phủ về quản_lý , kết_nối và chia_sẻ dữ_liệu số của cơ_quan nhà_nước ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 </NĐ> của Chính_phủ về thực_hiện cơ_chế một cửa , một cửa liên_thông trong giải_quyết thủ_tục hành_chính ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 107/2021/NĐ-CP ngày 06 tháng 12 năm 2021 </NĐ> sửa_đổi , bổ_sung một_số điều của <NĐ rel="None"> Nghị_định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 </NĐ> của Chính_phủ về thực_hiện cơ_chế một cửa , một cửa liên_thông trong giải_quyết thủ_tục hành_chính ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 </NĐ> của Chính_phủ về thực_hiện thủ_tục hành_chính trên môi_trường điện_tử ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 </NĐ> của Chính_phủ về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 59/2022/NĐ-CP ngày 05 tháng 9 năm 2022 </NĐ> của Chính_phủ quy_định về định_danh và xác_thực điện_tử ;
+
+Theo đề_nghị của Cục_trưởng Cục Chuyển_đổi số quốc_gia ;
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành <TT rel="None"> Thông_tư quy_định về </TT> chức_năng , tính_năng kĩ_thuật của Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về chức_năng , tính_năng kĩ_thuật của Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh .
+
+Chức_năng , tính_năng kĩ_thuật quy_định trong Thông_tư này là cơ_bản , Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh có_thể được bổ_sung các chức_năng , tính_năng kĩ_thuật khác đáp_ứng yêu_cầu đặc_thù riêng .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ ; Tổng_cục , Cục và cơ_quan tương_đương .
+
+2 . Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương ; cơ_quan chuyên_môn thuộc Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương ; Ủy_ban nhân_dân huyện , quận , thị_xã , thành_phố thuộc tỉnh , thành_phố trực_thuộc trung_ương ; Ủy_ban nhân_dân xã , phường , thị_trấn thuộc huyện , quận , thị_xã , thành_phố thuộc tỉnh , thành_phố trực_thuộc trung_ương .
+
+3 . Các tổ_chức , cá_nhân có liên_quan trong việc cung_cấp giải_pháp , xây_dựng , phát_triển , nâng_cấp , mở_rộng , vận_hành Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh .
+
+4 . Các tổ_chức , cá_nhân có liên_quan trong việc kết_nối các hệ_thống khác với Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , những từ_ngữ dưới đây được hiểu như sau :
+
+1 . Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh là hệ_thống thông_tin được hình_thành trên cơ_sở Cổng Dịch_vụ công cấp_bộ , cấp tỉnh và Hệ_thống thông_tin một cửa điện_tử cấp_bộ , cấp tỉnh để tiếp_nhận , giải_quyết , theo_dõi , đánh_giá chất_lượng thực_hiện thủ_tục hành_chính , cung_cấp dịch_vụ công trực_tuyến thuộc thẩm_quyền giải_quyết của bộ , cơ_quan ngang bộ , Ủy_ban nhân_dân các cấp .
+
+2 . Phân hệ giải_quyết thủ_tục hành_chính có chức_năng hỗ_trợ việc tiếp_nhận , giải_quyết , theo_dõi tình_hình tiếp_nhận , giải_quyết , kết_quả giải_quyết thủ_tục hành_chính của các cơ_quan nhà_nước ; kết_nối , tích_hợp , chia_sẻ dữ_liệu với hệ_thống quản_lí văn_bản để xử_lí hồ_sơ trên môi_trường mạng ; kết_nối , tích_hợp với Cổng Dịch_vụ công_quốc_gia để đăng_tải công_khai kết_quả giải_quyết thủ_tục hành_chính và cung_cấp các dịch_vụ công trực_tuyến .
+
+3 . Người dùng là tổ_chức , cá_nhân sử_dụng Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh để khai_thác thông_tin , thực_hiện các dịch_vụ phục_vụ nhu_cầu của mình .
+
+Chương_ii
+
+Quy_định Kỹ_thuật Đối_với Hệ_thống Thông_tin Giải_quyết Thủ_tục Hành_chính Cấp_bộ , Cấp Tỉnh
+
+Điều 4 . Yêu_cầu chung
+
+1 . Việc xây_dựng Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh bảo_đảm đáp_ứng các yêu_cầu sau :
+
+a ) Thiết_kế trực_quan để bảo_đảm trải nghiệm tốt và khả_năng tương_tác của người dùng ;
+
+b ) Bảo_đảm khả_năng truy_cập thuận_tiện , an_toàn , bảo_mật cho người dùng .
+
+2 . Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh bảo_đảm các yêu_cầu sau :
+
+a ) Tuân_thủ Khung kiến_trúc Chính_phủ điện_tử , Chính_phủ số Việt_nam và Kiến_trúc Chính_phủ điện_tử , Chính_phủ số cấp_bộ hiện_hành đối_với Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ ; Kiến_trúc Chính_quyền điện_tử , Chính_quyền số cấp tỉnh hiện_hành đối_với Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp tỉnh ;
+
+b ) Kết_nối , chia_sẻ , khai_thác dữ_liệu với các hệ_thống thông_tin , cơ_sở dữ_liệu của các cơ_quan nhà_nước ( gồm Cổng Dịch_vụ công_quốc_gia ; các hệ_thống thông_tin nội_bộ của bộ , tỉnh ; các cơ_sở dữ_liệu quốc_gia ; hệ_thống thông_tin có quy_mô , phạm_vi từ trung_ương đến địa_phương ) để sử_dụng lại thông_tin , dữ_liệu đã có , phục_vụ giải_quyết thủ_tục hành_chính trên môi_trường mạng ;
+
+c ) Bảo_đảm khả_năng kết_nối , chia_sẻ dữ_liệu khác theo Quyết_định của Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , Chủ_tịch Ủy_ban nhân_dân cấp tỉnh .
+
+Điều 5 . Yêu_cầu chức_năng
+
+Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh bao_gồm nhiều phân hệ có chức_năng đáp_ứng các mục_tiêu sử_dụng khác nhau , kết_nối , chia_sẻ thông_tin , dữ_liệu với nhau , tạo thành một hệ_thống tập_trung và thống_nhất ; bảo_đảm tối_thiểu hai phân hệ chính là Cổng dịch_vụ công cấp_bộ , cấp tỉnh và Phân hệ giải_quyết thủ_tục hành_chính đáp_ứng các yêu_cầu chức_năng sau :
+
+1 . Cổng dịch_vụ công cấp_bộ , cấp tỉnh gồm các chức_năng cơ_bản , tối_thiểu như sau :
+
+a ) Xác_thực người dùng ;
+
+b ) Cung_cấp thông_tin về thủ_tục hành_chính , dịch_vụ công trực_tuyến , bao_gồm : Mức_độ cung_cấp dịch_vụ ; Danh_mục thủ_tục hành_chính , dịch_vụ công trực_tuyến ;
+
+c ) Sử_dụng dịch_vụ công trực_tuyến , bao_gồm : Tạo_lập hồ_sơ điện_tử ; Trao_đổi thông_tin với người dùng trong quá_trình thực_hiện dịch_vụ công trực_tuyến ; Cung_cấp biểu_mẫu điện_tử tương_tác ; Tải ảnh , hồ_sơ , tài_liệu ; Tiếp_nhận hồ_sơ , trả kết_quả giải_quyết thủ_tục hành_chính qua dịch_vụ bưu_chính / bưu_chính công_ích ; Thanh_toán trực_tuyến ; Trả kết_quả giải_quyết thủ_tục hành_chính ;
+
+d ) Ký số và tích_hợp với Cổng kết_nối dịch_vụ chứng_thực chữ_kí số ( sau đây gọi là Cổng eSign ) ;
+
+đ ) Tra_cứu , bao_gồm : Tra_cứu dịch_vụ công theo các tiêu_chí ; Tra_cứu hồ_sơ ;
+
+e ) Phản_ánh kiến_nghị ;
+
+g ) Đánh_giá sự hài_lòng của người dùng ;
+
+h ) Thống_kê tình_trạng giải_quyết hồ_sơ ;
+
+i ) Hỗ_trợ người dùng , bao_gồm : Hướng_dẫn thực_hiện thủ_tục hành_chính , dịch_vụ công trực_tuyến ; Hỏi - đáp , khảo_sát ý_kiến người dùng ; Trợ_lí ảo ;
+
+k ) Các chức_năng khác , bao_gồm : Quản_lí thông_tin người dùng ; Khai_thác Kho quản_lí dữ_liệu điện_tử của tổ_chức , cá_nhân ; Ghi lưu nhật_ký , thống_kê , báo_cáo truy_cập .
+
+2 . Phân hệ giải_quyết thủ_tục hành_chính gồm các chức_năng cơ_bản như sau :
+
+a ) Quản_lí danh_mục thủ_tục , hồ_sơ , biểu_mẫu ;
+
+b ) Quản_lí danh_mục trạng_thái xử_lí thủ_tục hành_chính ;
+
+c ) Giải_quyết hồ_sơ thủ_tục hành_chính ;
+
+d ) Báo_cáo thống_kê ;
+
+đ ) Quản_lí hồ_sơ , tài_liệu ;
+
+e ) Quản_lí danh_mục điện_tử dùng chung ;
+
+g ) Quản_trị hệ_thống ;
+
+h ) Quản_trị và sử_dụng Kho quản_lí dữ_liệu điện_tử của tổ_chức và cá_nhân ;
+
+i ) Theo_dõi quá_trình xử_lí hồ_sơ thủ_tục hành_chính ;
+
+k ) Điều_hành , tác_nghiệp ;
+
+l ) Các tiện_ích ;
+
+m ) Liên_thông , tích_hợp và chia_sẻ thông_tin , dữ_liệu .
+
+3 . Các chức_năng tại khoản 2 Điều này có_thể không có trong Phân hệ giải_quyết thủ_tục hành_chính nhưng bắt_buộc phải có trong phân hệ khác của Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh .
+
+4 . Các yêu_cầu cụ_thể về chức_năng của Cổng dịch_vụ công cấp_bộ , cấp tỉnh quy_định tại Phụ_lục I ban_hành kèm theo Thông_tư này .
+
+5 . Các yêu_cầu cụ_thể về chức_năng của Phân hệ giải_quyết thủ_tục hành_chính quy_định tại Phụ_lục Ii ban_hành kèm theo Thông_tư này .
+
+Điều 6 . Yêu_cầu cấu_trúc , bố_cục
+
+1 . Cấu_trúc , bố_cục của Cổng dịch_vụ công cấp_bộ , cấp tỉnh bao_gồm 03 phần : Phần đầu trang , phần thông_tin chính và phần chân trang .
+
+a ) Phần đầu trang : Là phần nằm ở phía trên cùng của Cổng dịch_vụ công cấp_bộ , cấp tỉnh và hiển_thị thống_nhất thông_tin trên tất_cả các trang của Cổng dịch_vụ công cấp_bộ , cấp tỉnh ;
+
+b ) Phần thông_tin chính : Là phần nằm ở giữa phần đầu trang và phần chân trang thể_hiện các hạng_mục thông_tin của Cổng dịch_vụ công cấp_bộ , cấp tỉnh ;
+
+c ) Phần chân trang : Là phần hiển_thị thông_tin cuối_cùng của Cổng dịch_vụ công cấp_bộ , cấp tỉnh và hiển_thị thống_nhất thông_tin trên tất_cả các trang của Cổng dịch_vụ công cấp_bộ , cấp tỉnh .
+
+2 . Các yêu_cầu cụ_thể về cấu_trúc , bố_cục của Cổng dịch_vụ công cấp_bộ , cấp tỉnh quy_định tại Phụ_lục Iii ban_hành kèm theo Thông_tư này .
+
+3 . Cấu_trúc , bố_cục của các phân hệ thuộc Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh bảo_đảm các yêu_cầu :
+
+a ) Cách sắp_xếp , trình_bày phải khoa_học và hợp_lý , bảo_đảm thuận_tiện cho người dùng và cán_bộ xử_lí hồ_sơ thủ_tục hành_chính ;
+
+b ) Sử_dụng bộ nhận_diện theo các hướng_dẫn , quy_định hiện_hành .
+
+Điều 7 . Yêu_cầu hiệu_năng
+
+1 . Bảo_đảm hiệu_năng tải trang dành cho trải nghiệm người dùng : Là khoảng thời_gian đáp_ứng khi người dùng truy_cập vào Cổng dịch_vụ công cấp_bộ , cấp tỉnh bao_gồm thời_gian hiển_thị nội_dung đầu_tiên , thời_gian hiển_thị nội_dung lâu nhất , tốc_độ tải nội_dung , thời_gian đáp_ứng . Yêu_cầu hiệu_năng cụ_thể quy_định tại Phụ_lục Iv ban_hành kèm theo Thông_tư này .
+
+2 . Bảo_đảm hiệu_năng của Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh bao_gồm : Thời_gian phản_hồi trung_bình , thời_gian phản_hồi chậm nhất , truy_cập đồng_thời , số người dùng hoạt_động đồng_thời . Yêu_cầu hiệu_năng cụ_thể quy_định tại Phụ_lục V ban_hành kèm theo Thông_tư này .
+
+Điều 8 . Yêu_cầu bảo_đảm an_toàn thông_tin
+
+1 . Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh phải được phê_duyệt cấp_độ an_toàn hệ_thống thông_tin , ban_hành quy_chế bảo_đảm an_toàn thông_tin cho hệ_thống và triển_khai đầy_đủ phương_án bảo_đảm an_toàn thông_tin được phê_duyệt theo hồ_sơ đề_xuất cấp_độ trước khi được đưa vào vận_hành khai_thác .
+
+2 . Phương_án bảo_đảm an_toàn thông_tin của Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh đáp_ứng tối_thiểu cấp_độ 3 theo quy_định của pháp_luật .
+
+3 . Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh phải được kiểm_tra , đánh_giá an_toàn thông_tin mạng định_kỳ , đột_xuất theo quy_định và trước khi được đưa vào vận_hành , khai_thác theo quy_định tại Điều 11 , 12 <TT rel="DC"> Thông_tư số 12/2022/TT-BTTTT ngày 12 tháng 8 năm 2022 </TT> của Bộ Thông_tin và Truyền_thông quy_định chi_tiết và hướng_dẫn một_số điều của <NĐ rel="DC"> Nghị_định số 85/2016/NĐ-CP ngày 01/7/2016 </NĐ> của Chính_phủ về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ .
+
+4 . Bảo_đảm tuân_thủ các quy_định về an_toàn thông_tin mạng , bảo_vệ thông_tin , dữ_liệu cá_nhân trong hoạt_động thiết_kế , xây_dựng , vận_hành , kết_nối ; quản_lí tài_khoản và xác_thực .
+
+Điều 9 . Yêu_cầu khác
+
+Ngoài việc đáp_ứng các yêu_cầu được quy_định từ Điều 4 đến Điều 8 Thông_tư này , Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh phải đáp_ứng các yêu_cầu khác được quy_định cụ_thể tại Phụ_lục Vi ban_hành kèm theo Thông_tư này .
+
+Chương_iii
+
+Quy_định Về Kết_nối Phục_vụ Công_tác Giám_sát , Đo_lường , Đánh_giá
+
+Điều 10 . Quy_định chung về kết_nối , thu_thập dữ_liệu đối_với Hệ_thống giám_sát , đo_lường mức_độ cung_cấp và sử_dụng dịch_vụ Chính_phủ số
+
+1 . Dữ_liệu được Hệ_thống giám_sát , đo_lường mức_độ cung_cấp và sử_dụng dịch_vụ Chính_phủ số ( sau đây gọi là Hệ_thống Emc ) thu_thập từ Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh được quy_định tại Phụ_lục Vii ban_hành kèm theo Thông_tư này .
+
+2 . Cơ_quan , tổ_chức có các hoạt_động kết_nối , chia_sẻ dữ_liệu với Hệ_thống Emc có trách_nhiệm lưu lại nhật_kí ( log ) thực_hiện kết_nối để phục_vụ công_tác theo_dõi , kiểm_tra , giám_sát tối_thiểu 01 năm kể từ thời_điểm kết_nối hoàn_thành .
+
+Điều 11 . Trách_nhiệm của cơ_quan , tổ_chức thực_hiện kết_nối với Hệ_thống Emc
+
+1 . Cung_cấp thông_tin để thực_hiện kết_nối Hệ_thống Emc theo mẫu phiếu cung_cấp thông_tin tại Phụ_lục Viii ban_hành kèm theo Thông_tư này .
+
+2 . Phối_hợp với cơ_quan quản_lí Hệ_thống Emc định_kì rà_soát , đánh_giá việc bảo_đảm dữ_liệu thu_thập tại Phụ_lục Vii ban_hành kèm theo Thông_tư này đầy_đủ và chính_xác .
+
+3 . Thông_báo cho cơ_quan quản_lí Hệ_thống Emc khi có sự thay_đổi về mã nhúng , cấu_hình hệ_thống , cấu_hình kết_nối , các vấn_đề khiến dữ_liệu không đầy_đủ xảy ra từ phía Hệ_thống thông_tin giải_quyết thủ_tục hành_chính của đơn_vị .
+
+4 . Thực_hiện cung_cấp đầy_đủ danh_sách tài_khoản người dùng ; danh_sách thủ_tục hành_chính , dịch_vụ công trực_tuyến lên Hệ_thống Emc và thông_báo cho cơ_quan quản_lí Hệ_thống Emc .
+
+5 . Bảo_đảm công_tác theo_dõi , giám_sát an_toàn thông_tin và bảo_mật dữ_liệu khai_thác trên Hệ_thống Emc .
+
+Điều 12 . Trách_nhiệm của cơ_quan quản_lí Hệ_thống Emc
+
+1 . Xây_dựng tài_liệu hướng_dẫn và hỗ_trợ kĩ_thuật thực_hiện kết_nối Hệ_thống Emc và Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh .
+
+2 . Chủ_trì , phối_hợp với cơ_quan chủ_quản Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh và tổ_chức , cá_nhân có liên_quan trong giải_quyết , xử_lí_sự_cố vướng_mắc phát_sinh trong quá_trình kết_nối .
+
+3 . Bảo_đảm an_toàn thông_tin đối_với dữ_liệu mà Hệ_thống Emc thu_thập .
+
+Chương_iv
+
+Điều_khoản Thi_hành
+
+Điều 13 . Trách_nhiệm thi_hành
+
+1 . Bộ_trưởng , Thủ_trưởng cơ_quan ngang bộ , Thủ_trưởng cơ_quan thuộc Chính_phủ , Chủ_tịch Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương và các cơ_quan , tổ_chức , cá_nhân liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Các tổ_chức , cá_nhân có liên_quan có trách_nhiệm tuân_thủ các quy_định của Thông_tư này trong việc cung_cấp giải_pháp , xây_dựng , phát_triển , nâng_cấp , mở_rộng , vận_hành Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh .
+
+3 . Bộ Thông_tin và Truyền_thông ( Cục Chuyển_đổi số quốc_gia ) có trách_nhiệm kiểm_tra , giám_sát , đánh_giá , xếp_hạng và công_bố kết_quả đánh_giá khả_năng đáp_ứng yêu_cầu kĩ_thuật của Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh theo định_kì và đột_xuất khi có yêu_cầu từ tổ_chức , cá_nhân có thẩm_quyền .
+
+Điều 14 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 05 tháng 4 năm 2024 .
+
+2 . Bãi_bỏ <TT rel="None"> Thông_tư số 22/2019/TT-BTTTT ngày 31 tháng 12 năm 2019 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông quy_định về tiêu_chí chức_năng , tính_năng kĩ_thuật của Cổng Dịch_vụ công và Hệ_thống thông_tin một cửa điện_tử cấp_bộ , cấp tỉnh ; bãi_bỏ các Điều 5 , 6 , 7 , 8 , 9 , 10 , 11 , 12 , 13 , 14 <TT rel="None"> Thông_tư số 32/2017/TT-BTTTT ngày 15 tháng 11 năm 2017 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông quy_định về việc cung_cấp dịch_vụ công trực_tuyến và bảo_đảm khả_năng truy_cập thuận_tiện đối_với trang thông_tin điện_tử hoặc Cổng thông_tin điện_tử của cơ_quan nhà_nước và thực_hiện thống_nhất theo quy_định tại Thông_tư này .
+
+Các bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương chỉnh_sửa , nâng_cấp Hệ_thống thông_tin giải_quyết thủ_tục hành_chính cấp_bộ , cấp tỉnh cho phù_hợp với các yêu_cầu quy_định tại Thông_tư này , bảo_đảm tuân_thủ các yêu_cầu trong vòng 01 năm kể từ ngày Thông_tư này có hiệu_lực .
+
+3 . Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị phản_ánh kịp_thời về Bộ Thông_tin và Truyền_thông ( Cục Chuyển_đổi số quốc_gia ) để nghiên_cứu , sửa_đổi , bổ_sung . / .

@@ -1,0 +1,481 @@
+Thông_tư số 28/2017/tt-btttt ngày 07 tháng 11 năm 2017 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Luật Tần_số vô_tuyến_điện ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện từ đối_với thiết_bị truyền_dẫn vô_tuyến cố_định và thiết_bị phụ_trợ .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện từ đối_với thiết_bị truyền_dẫn vô tuyên cố_định và thiết_bị phụ_trợ ( qcvn 114 : 2017 / bt ) .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2018 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 114 : 2017 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Tương_thích Điện_từ Đối_với Thiết_bị Truyền_dẫn Vô_tuyến Cố_định Và Thiết_bị Phụ_trợ
+
+National technical regulation on ElectroMagnetic Compatibility ( emc ) for fixed radio links and ancillary equipment
+
+Lời_nói_đầu
+
+Qcvn 114 : 2017 / bt được xây_dựng dựa trên cơ_sở tiêu_chuẩn Etsi En 301 489-4 V2 . 2 . 1 ( 2015 - 05 ) của Viện tiêu_chuẩn viễn_thông châu Âu ( etsi ) .
+
+Qcvn 114 : 2017 / bt do Viện Khoa_học Kỹ_thuật Bưu_điện biên_soạn , Vụ khoa_học và Công_nghệ thẩm_định và trình_duyệt , Bộ Thông_tin và Truyền_thông ban_hành kèm theo Thông_tư số 28/2017/TT-BTTTT ngày 07 tháng 11 năm 2017 .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Tương_thích Điện_từ Đối_với Thiết_bị Truyền_dẫn Vô_tuyến Cố_định Và Thiết_bị Phụ_trợ
+
+National technical regulation on ElectroMagnetic Compatibility ( emc ) for fixed radio links and ancillary equipment
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn này quy_định các yêu_cầu về tương_thích điện_từ ( emc ) đối_với thiết_bị truyền_dẫn vô_tuyến cố_định và thiết_bị phụ_trợ trong nghiệp_vụ cố_định .
+
+Các chỉ_tiêu kĩ_thuật liên_quan đến cổng ăng ten của thiết_bị vô_tuyến không thuộc phạm_vi của quy_chuẩn này . Các chỉ_tiêu kĩ_thuật này được quy_định trong các tiêu_chuẩn sản_phẩm tương_ứng để sử_dụng hiệu_quả phổ tần_số .
+
+Quy_chuẩn này quy_định các điều_kiện đo kiểm , đánh_giá chỉ_tiêu , tiêu_chí chất_lượng đối_với thiết_bị truyền_dẫn vô_tuyến cố_định và thiết_bị phụ_trợ trong nghiệp_vụ cố_định tương_tự và số như các hệ_thống điểm - điểm , điểm - đa điểm cố_định .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn kĩ_thuật này áp_dụng đối_với các cơ_quan , tổ_chức , cá_nhân Việt_nam và nước_ngoài có hoạt_động_sản_xuất , kinh_doanh và khai_thác các thiết_bị thuộc phạm_vi điều_chỉnh của Quy_chuẩn này trên lãnh_thổ Việt_nam .
+
+1 . 3 . Tài_liệu viện_dẫn
+
+Qcvn 18 : 2014 / bt , Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện từ đối_với thiết_bị thông_tin vô_tuyến_điện .
+
+Itu - r Recommendation F . 746 - 3 : " Radio - frequency channel arrangements for radio - relay systems " .
+
+Itu - r Recommendation F . 1191 - 1 : " Bandwidths and unwanted emissions of digital radio - relay systems " .
+
+Etsi En 302 217-2-2: " Fixed Radio_systems ; Characteristics and requirements for point - to - point equipment and antennas ; Part 2-2: Digital systems operating in frequency bands where frequency co - ordination is applied ; Harmonized En covering the essential requirements of article 3 . 2 of the R & te Directive " .
+
+Etsi En 302 217-3 : " Fixed Radio_systems ; Characteristics and requirements for point - to - point equipment and antennas ; Part 3 : Equipment operating in frequency bands where both frequency coordinated or uncoordinated deployment might be applied ; Harmonized En covering the essential requirements of article 3 . 2 of the R & te Directive "
+
+Etsi En 302 326-2: " Fixed Radio_systems ; Multipoint Equipment and Antennas ; Part 2 : Harmonized En covering the essential requirements of article 3 . 2 of the R & te Directive for Digital Multipoint Radio_equipment " .
+
+Etsi En 301 460-1: " Fixed Radio_systems ; Point - to - multipoint equipment ; Part 1 : Point - to - multipoint digital radio systems below 1 GHz - Common parameters " .
+
+Etsi En 301 997-1: " Transmission and Multiplexing ( tm ) ; Multipoint equipment ; Radio Equipment for use in Multimedia Wireless_systems ( mws ) in the frequency band 40 , 5 GHz to 43 , 5 GHz ; Part 1 : General requirements " .
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 4 . 1 . Trạm gốc ( Base_station ( bs ) )
+
+Tên thay_thế cho trạm trung_tâm ( cs ) .
+
+1 . 4 . 2 . Trạm trung_tâm ( Central_station ( cs ) )
+
+Trạm trung_tâm có_thể chia thành hai hệ_thống :
+
+Hệ_thống chuyển_đổi còn được gọi là trạm điều_khiển trung_tâm ( cs ) - ( giao_diện để chuyển_đổi nội_bộ ) ; và
+
+Hệ_thống vô_tuyến còn được gọi là trạm vô_tuyến trung_tâm ( crs ) - ( băng tần gốc trung_tâm / máy thu phát vô_tuyến )
+
+Chú_thích : Khi triển_khai , thuật_ngữ Trạm gốc cũng được sử_dụng thay cho Trạm trung_tâm . Trong quy_chuẩn này , Trạm gốc hoặc Trạm trung_tâm có_thể hoán_đổi cho nhau .
+
+1 . 4 . 3 . Khoảng_cách kênh ( CHanel Separation ( chs ) )
+
+Khoảng_cách kênh bằng Xs / 2 với sắp_xếp kênh tần_số luân_phiên theo khuyến_nghị Itu - r F . 1191 và bằng Xs với sắp_xếp kênh tần_số đồng kênh và xen_kẽ theo khuyến_nghị Itu - r F . 746 , Xs là khoảng_cách tần_số vô_tuyến giữa các tần_số trung_tâm của các kênh tần_số vô_tuyến tiếp_giáp nhau khi phân_cực giống nhau và trong cùng một hướng truyền .
+
+1 . 4 . 4 . Dải_tần hoạt_động ( operating frequency range )
+
+Phạm_vi dải_tần_số vô_tuyến mà Thiết_bị cần đo kiểm ( eut ) hoạt_động .
+
+1 . 4 . 5 . Trạm_lặp ( Repeater_station ( rs ) )
+
+Các trạm thu phát vô_tuyến ngoài_trời có nhiệm_vụ khuếch_đại tín_hiệu vô_tuyến , có hoặc không có giao_diện thuê_bao .
+
+1 . 4 . 6 . Trạm đầu_cuối ( Terminal_station ( ts ) )
+
+Các trạm thu phát vô_tuyến ngoài_trời có giao_diện thuê_bao .
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Phát_xạ Emc
+
+2 . 1 . 1 . Yêu_cầu chung
+
+Các yêu_cầu về phát_xạ Emc tại các cổng của thiết_bị vô_tuyến và / hoặc thiết_bị phụ_trợ liên_quan được quy_định tại Bảng 1 của Qcvn 18 : 2014 / bt .
+
+Đối_với thiết_bị truyền_dẫn vô_tuyến trong nghiệp_vụ cố_định , chỉ áp_dụng các yêu_cầu cho thiết_bị vô_tuyến và thiết_bị phụ_trợ sử_dụng cố_định trong Bảng 1 .
+
+2 . 1 . 2 . Điều_kiện riêng
+
+Các điều_kiện riêng được quy_định trong Bảng 1 dưới đây liên_quan đến các phép đo về phát_xạ Emc và quy_định trong điều 2 . 1 của Qcvn 18 : 2014 / bt và điều 2 . 3 và 2 . 4 của quy_chuẩn này .
+
+Bảng 1 - Điều_kiện riêng cho các phép do phát_xạ Emc
+
+2 . 2 . Miễn_nhiễm
+
+2 . 2 . 1 . Yêu_cầu chung
+
+Các yêu_cầu về miễn_nhiễm Emc trên các cổng của thiết_bị vô_tuyến và / hoặc thiết_bị phụ_trợ liên_quan được quy_định Bảng 4 của Qcvn 18 : 2014 / bt .
+
+Đối_với thiết_bị truyền_dẫn vô_tuyến trong nghiệp_vụ cố_định , chỉ áp_dụng phần có các yêu_cầu cho thiết_bị vô_tuyến và thiết_bị phụ_trợ sử_dụng cố_định trong Bảng 4 của Qcvn 18 : 2014 / bt .
+
+2 . 2 . 2 . Điều_kiện riêng
+
+Các điều_kiện riêng được quy_định tại Bảng 2 dưới đây , liên_quan đến các phương_pháp thử khả_năng miễn_nhiễm và tiêu_chí chất_lượng quy_định tại điều 2 . 2 của Qcvn 18 : 2014 / bt và điều 2 . 3 và 2 . 5 của quy_chuẩn này .
+
+Bảng 2 - Điều_kiện riêng cho các phép đo khả_năng miễn_nhiễm Emc
+
+2 . 3 . Điều_kiện đo_kiểm
+
+2 . 3 . 1 . Quy_định chung
+
+Đối_với mục_đích quy_chuẩn này , có_thể áp_dụng các điều_kiện đo kiểm tại Phụ_lục A , Qcvn 18 : 2014 / bt khi thích_hợp . Quy_chuẩn này bổ_sung thêm các quy_định về điều_kiện đo kiểm cho các thiết_bị truyền_dẫn vô_tuyến cố_định và thiết_bị phụ_trợ trong nghiệp_vụ cố_định .
+
+2 . 3 . 1 . 1 . Các điều_kiện và cấu_hình đo_kiểm
+
+Mục này quy_định các điều_kiện đo kiểm và cấu_hình đối_với các bài đo phát_xạ và khả_năng miễn_nhiễm như sau :
+
+Máy_phát phải có tối_thiểu thành_phần giữa điểm E và điểm A ' như trong Hình 1 . Ngoài_ra , máy phát có_thể bao_gồm bất_kì các thành_phần khác như trong Hình 1 . Nếu những thành_phần bổ_sung này là một phần của máy phát hoặc hệ_thống phát nó cũng phải đáp_ứng các yêu_cầu của Quy_chuẩn này ;
+
+Chú_thích 1 : Đối_với các mục_đích_xác_định các điểm tham_chiếu , mạng nhánh ( từ điểm B ' đến điểm C ) không lai ghép .
+
+Chú_thích 2 : Điểm B ' và điểm C ' có_thể trùng nhau , phụ_thuộc vào cấu_hình thiết_bị .
+
+Hình 1 - Các thành_phần của một máy_phát
+
+Máy thu phải có tối_thiểu thành_phần giữa điểm E và điểm A như trong Hình 2 . Ngoài_ra , máy thu có_thể bao_gồm bất_kì các thành_phần khác như trong Hình 2 . Nếu những thành_phần bổ_sung này là một phần của máy thu hoặc hệ_thống thu nó cũng phải đáp_ứng các yêu_cầu của Quy_chuẩn này ;
+
+Máy thu phát phải có tối_thiểu các thành_phần nằm trong khoảng từ điểm E ' đến điểm A ' và từ điểm A đến điểm E như trong Hình 1 và Hình 2 và nó có_thể kết_hợp với bất_kì thành_phần khác . Nếu các thành_phần bổ_sung này là một phần của máy thu phát nó cũng phải đáp_ứng các yêu_cầu của Quy_chuẩn này ;
+
+Chú_thích 1 : Đối_với các mục_đích_xác_định các điểm tham_chiếu , mạng nhánh ( từ điểm B đến điểm C ) không lai ghép .
+
+Chú_thích 2 : Điểm B và điểm C có_thể trùng nhau , phụ_thuộc vào cấu_hình thiết_bị
+
+Hình 2 - Các thành_phần của một máy thu
+
+Thiết_bị cần đo kiểm theo các điều_kiện trong phạm_vi tuyên_bố của nhà sản_xuất về độ_ẩm , nhiệt_độ và điện_áp cung_cấp ;
+
+Cấu_hình đo kiểm phải thực_hiện càng gần mục_đích sử_dụng thông_thường càng tốt ;
+
+Nếu thiết_bị là một phần của một hệ_thống , hoặc có_thể được kết_nối với thiết_bị phụ_trợ thì nó phải chấp_nhận đo kiểm khi kết_nối với cấu_hình tối_thiểu của thiết_bị phụ_trợ cần_thiết để sử_dụng các cổng ;
+
+Các cổng hoạt_động bình_thường được kết_nối với thiết_bị phụ_trợ hoặc thiết_bị khác phải hoặc kết_nối với thiết_bị đó hoặc kết cuối đại_diện để mô_phỏng các đặc_tính đầu_vào / đầu_ra của thiết_bị phụ_trợ hoặc thiết_bị khác . Các cổng đầu_vào / đầu_ra tần_số vô_tuyến ( rf ) phải được nối đúng cách ;
+
+Nếu thiết_bị có số_lượng các cổng lớn , chỉ phải lựa_chọn số_lượng cổng đủ để mô_phỏng các điều_kiện hoạt_động thực_tế và đảm_bảo rằng tất_cả các kiểu kết cuối khác nhau được đo kiểm ;
+
+Cổng không được kết_nối với cáp trong thời_gian hoạt_động dự_kiến , ví_dụ như các kết_nối dịch_vụ , kết_nối lập_trình , kết_nối tạm_thời v . v . . . phải không được kết_nối với bất_kì loại cáp nào với mục_đích đo kiểm tương_thích điện_từ ( emc ) . Tại nơi cáp được kết_nối với các cổng này hoặc kết_nối cáp để tăng chiều dài khi đo kiểm Eut phải thực_hiện biện_pháp phòng_ngừa để đảm_bảo rằng việc đánh_giá Eut không bị ảnh_hưởng bởi việc bổ_sung , gia_tăng chiều dài của các cáp này ;
+
+Các điều_kiện đo kiểm , cấu_hình đo kiểm và phương_thức hoạt_động phải được ghi trong báo_cáo đo kiểm .
+
+2 . 3 . 1 . 2 . Đo_kiểm phát_xạ
+
+Áp_dụng điều 2 . 1 của Qcvn 18 : 2014 / bt với những điều_chỉnh như sau .
+
+Kết_nối thông_tin của các hệ_thống điểm - đa điểm phải được thiết_lập , trong đó phải có trạm trung_tâm và ít_nhất một trạm đầu_cuối . Các trạm này được đo kiểm riêng_biệt .
+
+2 . 3 . 1 . 3 . Đo_kiểm miễn_nhiễm
+
+Áp_dụng 2 . 2 . 2 Qcvn 18 : 2014 / bt với những điều_chỉnh như sau .
+
+Hình 3 - Cấu_hình đo kiểm cho máy_phát
+
+Cấu_hình đo kiểm cho các máy phát phải thực_hiện theo nguyên_tắc như tại Hình 3 , và đối_với máy thu phải thực_hiện theo nguyên_tắc như tại Hình 4 , và đối_với máy thu phát phải thực_hiện theo nguyên_tắc như tại Hình 5 .
+
+Các thiết_bị đo phải bố_trí bên ngoài môi_trường thử_nghiệm . Thực_hiện biện_pháp thích_hợp để tránh bất_kì tác_dụng nào của các tín_hiệu không mong_muốn lên các thiết_bị đo .
+
+Khi đo kiểm khả_năng miễn_nhiễm , máy phát phải hoạt_động ở công_suất đầu_ra đánh_giá của nó . Đầu_vào của máy phát phải thực_hiện theo quy_định tại 2 . 3 . 2 . 1 ( xem Hình 3 ) . Kết_nối thông_tin phải được thiết_lập khi bắt_đầu đo kiểm và được duy_trì trong thời_gian đo kiểm .
+
+Hình 4 - Cấu_hình đo kiểm cho máy thu
+
+Khi đo kiểm khả_năng miễn_nhiễm cho máy thu , tín_hiệu đầu_vào Rf mong_muốn của máy thu phải thực_hiện theo quy_định tại 2 . 3 . 2 . 3 ( xem Hình 4 ) . Kết_nối thông_tin phải được thiết_lập khi bắt_đầu đo kiểm và được duy_trì trong thời_gian đo_kiểm
+
+Hình 5 - Cấu_hình đo kiểm cho máy thu phát
+
+Trong trường_hợp máy thu phát mà máy phát và máy thu không_thể hoạt_động ở cùng một tần_số , tín_hiệu đầu_vào mong_muốn của máy thu phải thực_hiện theo quy_định tại 2 . 3 . 2 . 3 . Máy_phát phải hoạt_động ở công_suất đầu_ra đánh_giá của nó , và với đầu_vào của nó là đầu_ra của máy thu ( chế_độ lặp_lại ) ( xem Hình 5 ) .
+
+Cấu_hình đo kiểm tương_tự cũng được áp_dụng khi các máy phát và máy thu hoạt_động ở cùng tần_số vô_tuyến .
+
+Phép đo phải thực_hiện theo phương_thức hoạt_động được quy_định tại điều này .
+
+Kết_nối thông_tin phải được thiết_lập khi bắt_đầu đo kiểm và được duy_trì trong suốt thời_gian đo kiểm .
+
+Đối_với các bài đo khả_năng miễn_nhiễm của thiết_bị phụ_trợ mà không tách riêng phần chỉ_tiêu đạt / không đạt , máy thu , máy phát hoặc máy thu phát cùng với các thiết_bị phụ_trợ phải được sử_dụng để đánh_giá liệu các thiết_bị phụ_trợ có đạt hay không đạt .
+
+Cấu_hình tối_thiểu của các hệ_thống điểm - đa điểm phải bao_gồm một trạm trung_tâm và một trạm đầu_cuối , trừ khi các trạm đầu_cuối được yêu_cầu nhiều hơn để thiết_lập một cấu_hình đo kiểm đại_diện .
+
+Kết_nối thông_tin phải được thiết_lập khi bắt_đầu đo kiểm và được duy_trì trong thời_gian đo kiểm giữa trạm trung_tâm và ( các ) trạm đầu_cuối .
+
+Các trạm này được đo kiểm riêng_biệt .
+
+2 . 3 . 2 . Bố_trí tín_hiệu đo_kiểm
+
+Áp_dụng A . 2 Phụ_lục A của Qcvn 18 : 2014 / bt .
+
+2 . 3 . 2 . 1 Bố_trí tín_hiệu đo kiểm tại đầu_vào của máy_phát
+
+Áp_dụng A . 2 . 1 Phụ_lục A của Qcvn 18 : 2014 / bt với những điều_chỉnh như sau .
+
+Đầu_vào của máy phát phải kết_nối thông_qua đầu_vào tương_ứng với nguồn tín_hiệu như trong Hình 3 và Hình 5 .
+
+( Các ) tín_hiệu mong_muốn phải đại_diện cho ( các ) tín_hiệu đầu_vào băng tần gốc tương_ứng khi máy phát hoạt_động bình_thường
+
+2 . 3 . 2 . 2 . Bố_trí tín_hiệu kiểm_tra tại đầu_ra của máy_phát
+
+Áp_dụng A . 2 . 2 Phụ_lục A_Qcvn 18 : 2014 / bt với những điều_chỉnh như sau .
+
+Để thiết_lập kết_nối thông_tin tín_hiệu đầu_ra mong_muốn , tín_hiệu phải gửi từ đầu_ra Rf của máy phát qua bộ suy_giảm phù_hợp thông_qua cáp đồng trục hoặc ống dẫn sóng . Biện_pháp thích_hợp phải được thực_hiện để giảm_thiểu những tác_động của dòng_điện không mong_muốn trên các dây_dẫn bên ngoài của cáp đồng trục hoặc ống dẫn sóng tại thời_điểm Eut được thiết_lập . Có_thể tránh được lỗi không phù_hợp bằng cách đặt các bộ suy hao gần Eut .
+
+Nếu đầu_ra Rf của máy phát không_thể phục_hồi thông_qua việc kết_nối với ăngten khác cùng loại có_thể sử_dụng cách lấy tín_hiệu đầu_ra mong_muốn từ máy phát .
+
+2 . 3 . 2 . 3 . Bố_trí tín_hiệu đo kiểm tại đầu_vào của máy thu
+
+Áp_dụng A . 2 . 3 Phụ_lục A của Qcvn 18 : 2014 / bt với những điều_chỉnh như sau .
+
+Tín_hiệu mong_muốn phải đại_diện tín_hiệu đầu_vào Rf đã điều_chế tương_ứng khi máy thu hoạt_động bình_thường .
+
+Để thiết_lập một liên_kết thông_tin tín_hiệu đầu_vào mong_muốn phải áp_dụng cho các đầu_vào Rf của máy thu qua cáp đồng trục hoặc ống dẫn sóng . Biện_pháp thích_hợp phải được thực_hiện để giảm_thiểu những tác_động của dòng_điện không mong_muốn trên các dây_dẫn bên ngoài của cáp đồng trục hoặc ống dẫn sóng tại thời_điểm Eut được thiết_lập . Có_thể tránh được lỗi không phù_hợp bằng cách đặt các bộ suy hao gần Eut .
+
+Nếu đầu_vào máy thu Rf không_thể áp_dụng thông_qua kết_nối với ăng - ten khác cùng loại có_thể dùng cách lấy tín_hiệu đầu_vào mong_muốn của máy thu . Nguồn tín_hiệu đầu_vào mong_muốn phải được đặt bên ngoài môi_trường đo kiểm .
+
+Đối_với các thiết_bị kĩ_thuật_số , bao_gồm cả thiết_bị điểm - đa điểm , mức tín_hiệu đầu_vào phải ở giá_trị danh định là 15 dB trên mức đầu_vào máy thu với tỉ_lệ lỗi bit ( ber ) là 1 x 10-5.
+
+Mức tín_hiệu đầu_vào cho các thiết_bị tương_tự phải thiết_lập là 15 dB trên mức tín_hiệu đầu_vào từ tỉ_số tín_hiệu tham_chiếu trên nhiễu . Nếu tỉ_số tín_hiệu tham_chiếu trên nhiễu không quy_định trong tiêu_chuẩn sản_phẩm thích_hợp , sử_dụng mức theo quy_định của nhà sản_xuất .
+
+Các mức này gần với mức hoạt_động bình_thường và đầy_đủ để tránh tạp_âm băng_thông_rộng từ các bộ khuếch_đại công_suất mà tạo ra hiện_tượng Em nhiễu ảnh_hưởng đến phép đo .
+
+2 . 3 . 2 . 4 . Bố_trí tín_hiệu đo kiểm tại đầu_ra của máy thu
+
+Áp_dụng A . 2 . 4 Phụ_lục A của Qcvn 18 : 2014 / bt .
+
+2 . 3 . 3 . Băng tần loại_trừ
+
+Áp_dụng A . 3 Phụ_lục A của Qcvn 18 : 2014 / bt .
+
+2 . 3 . 3 . 1 . Băng tần loại_trừ đối_với máy thu
+
+Băng tần loại_trừ là băng tần hoạt_động , mở_rộng tại mỗi đầu 5 % của tần_số trung_tâm .
+
+2 . 3 . 3 . 2 . Băng tần loại_trừ đối_với máy_phát
+
+Các băng tần loại_trừ không được áp_dụng khi đo máy phát ở chế_độ chờ .
+
+Đối_với Quy_chuẩn này , băng tần loại_trừ cần mở_rộng sang hai đầu của tần_số phát cơ_bản , nhưng tách ra từ phát_xạ tần_số trung_tâm là 250 % của khoảng_cách kênh ( chs ) có liên_quan của kênh tần_số vô_tuyến thoả_thuận khi hệ_thống đang vận_hành . Khi Chs không được xác_định , băng tần loại_trừ cần mở_rộng sang hai đầu của tần_số phát cơ_bản , nhưng tách ra từ phát_xạ tần_số trung_tâm là 250 % của băng_thông cần_thiết .
+
+2 . 4 . Đánh_giá chỉ_tiêu
+
+2 . 4 . 1 . Tổng_quát
+
+Áp_dụng B . 1 Phụ_lục B của Qcvn 18 : 2014 / bt .
+
+2 . 4 . 2 . Thiết_bị có_thể cung_cấp kết_nối thông_tin
+
+Việc đánh_giá và các tín_hiệu đo kiểm như trong 2 . 3 áp_dụng cho các thiết_bị vô_tuyến hoặc thiết_bị vô_tuyến kết_hợp với thiết_bị phụ_trợ cho phép thiết_lập kết_nối thông_tin .
+
+2 . 4 . 3 . Thiết_bị không_thể cung_cấp kết_nối thông_tin
+
+Nếu thiết_bị có tính_chất chuyên_biệt ( xem 2 . 5 ) không cho phép thiết_lập kết_nối thông_tin , chẳng_hạn như thiết_bị chuyển mạch bảo_vệ , hoặc thiết_bị phụ_trợ được đo kiểm độc_lập , ( nghĩa_là không kết_nối với thiết_bị vô_tuyến ) , nhà sản_xuất phải làm rõ phương_pháp thử_nghiệm để xác_định mức_độ chất_lượng hoặc độ suy_giảm chất_lượng được chấp_nhận trong và / hoặc sau quá_trình đo kiểm . Nhà sản_xuất phải cung_cấp phương_pháp để đánh_giá độ suy_giảm chất_lượng của thiết_bị .
+
+Việc đánh_giá chỉ_tiêu khi thực_hiện phải đơn_giản , nhưng đồng_thời phải đưa ra được bằng_chứng đủ thuyết_phục rằng các chức_năng chính của thiết_bị đang hoạt_động .
+
+2 . 4 . 4 . Thiết_bị phụ_trợ
+
+Áp_dụng B . 4 Phụ_lục B của Qcvn 18 : 2014 / bt .
+
+2 . 4 . 5 . Phân_loại thiết_bị
+
+Thiết_bị kết_nối vô_tuyến trong quy_chuẩn này chỉ được sử_dụng cố_định và có sử_dụng nguồn điện Ac hoặc Dc . Vì_vậy , đo kiểm phát_xạ và thử khả_năng miễn_nhiễm chỉ áp_dụng các yêu_cầu đối_với thiết_bị vô_tuyến và thiết_bị phụ_trợ được sử_dụng cố ( xem Qcvn 18 : 2014 / bt , điều 2 . 1 và điều 2 . 2 , Bảng 1 và Bảng 4 ) .
+
+2 . 5 . Tiêu_chí chất_lượng
+
+2 . 5 . 1 . Tiêu_chí chất_lượng đối_với hiện_tượng liên_tục áp_dụng cho máy phát ( ct ) và máy thu ( cr )
+
+Áp_dụng C . 1 Phụ_lục C của Qcvn 18 : 2014 / bt với những điều_chỉnh như sau Kết_nối thông_tin phải được duy_trì trong và sau khi đo kiểm .
+
+Tiêu_chí chất_lượng riêng đối_với hiện_tượng liên_tục phải áp_dụng 2 . 5 . 3 .
+
+2 . 5 . 2 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến_áp_dụng cho máy phát ( t ) và máy thu ( tr )
+
+Áp_dụng C . 2 Phụ_lục C của Qcvn 18 : 2014 / bt với những điều_chỉnh như sau . Kết_nối thông_tin phải được duy_trì sau khi đo kiểm .
+
+Tiêu_chí chất_lượng riêng đối_với hiện_tượng đột_biến phải áp_dụng 2 . 5 . 3 .
+
+2 . 5 . 3 . Tiêu_chí chất_lượng riêng
+
+2 . 5 . 3 . 1 Các cổng tín_hiệu_số
+
+Chất_lượng của thiết_bị phải được xác_nhận đối_với các cổng tín_hiệu_số :
+
+Bằng cách đo số bit lỗi gây ra trên cổng tín_hiệu chính trong tất_cả các phơi nhiễm :
+
+Bằng cách đo kiểm chức_năng của cổng tín_hiệu chính và các cổng tín_hiệu khác sau khi phơi nhiễm ;
+
+Bằng cách xác_nhận sai_lệch của phần_mềm và dữ_liệu được lưu trong bộ_nhớ đã không xuất_hiện .
+
+Cho phép các lỗi nền có_thể xảy ra bất_cứ lúc_nào , việc đo kiểm có_thể được lặp_lại đến ba lần để xác_định bất_kì mối liên_hệ giữa các lỗi ngẫu_nhiên và các hiện_tượng Emc .
+
+2 . 5 . 3 . 1 . 1 . Tiêu_chí chất_lượng đối_với hiện_tượng liên_tục
+
+Số lỗi bít tại mỗi phơi nhiễm riêng_biệt phải không vượt quá số lỗi tối_đa quy_định bởi nhà sản_xuất cho hoạt_động dự_kiến .
+
+Số_lượng các lỗi được tính như sau :
+
+( tỷ_lệ tối_đa lỗi bít theo quy_định của nhà sản_xuất ) x ( tốc_độ bit ) x ( thời_gian đo kiểm )
+
+Khi thực_hiện đo kiểm , với mỗi tần_số phơi nhiễm phải có thời_gian nghỉ .
+
+2 . 5 . 3 . 1 . 2 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến
+
+Khi mất liên_kết khung hoặc mất đồng_bộ hoá không được phép có phơi nhiễm riêng_biệt . Kết_quả của sự ứng suất điện từ là không có tín_hiệu cảnh_báo được tạo ra .
+
+Không áp_dụng đo kiểm sự quá điện_áp xung tại nơi có_thể mất liên_kết khung . Đối_với phép đo này , Eut phải hoạt_động như dự_kiến sau khi dừng đo phơi nhiễm .
+
+2 . 5 . 3 . 2 . Cổng tín_hiệu tần_số bằng thoại tương_tự
+
+Chất_lượng của thiết_bị phải được xác_nhận đối_với các cổng tín_hiệu tần_số thoại tương_tự :
+
+Bằng cách đo đột_biến tín_hiệu âm_thanh ( giải điều_chế 1 kHz ) trên cổng tín_hiệu trong quá_trình phơi nhiễm liên_tục trong cả hai hướng đường_dẫn tín_hiệu chuyển_đổi từ tương_tự sang số và từ số sang tương_tự ;
+
+Bằng cách đo kiểm các chức_năng của cổng tín_hiệu chính và các cổng tín_hiệu khác sau khi phơi nhiễm ;
+
+Bằng cách xác_nhận sai_lệch của phần_mềm và dữ_liệu được lưu trong bộ_nhớ đã không xuất_hiện .
+
+2 . 5 . 3 . 2 . 1 . Tiêu_chí chất_lượng đối_với hiện_tượng liên_tục
+
+Mức tín_hiệu tạp_âm thu được từ Eut được đo bằng trở_kháng 600 phải không lớn hơn - 40 dBm .
+
+2 . 5 . 3 . 2 . 2 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến
+
+Eut phải tự_động trở_lại trạng_thái hoạt_động bình_thường sau khi dừng đo phơi nhiễm .
+
+2 . 5 . 3 . 3 . Giao_diện Ethernet và dữ_liệu gói
+
+Giao_diện hoạt_động trong chế_độ gói với các tiêu_chí dưới đây .
+
+2 . 5 . 3 . 3 . 1 . Tiêu_chí chất_lượng đối_với hiện_tượng liên_tục
+
+Đối_với giao_diện được thiết_kế để truyền_tải lưu_lượng dữ_liệu của bên thứ ba , cổng được lựa_chọn phải được kết_nối với thiết_bị đo kiểm ( ví_dụ như máy phân_tích thông_tin dữ_liệu ) như là kết_nối dữ_liệu điểm - điểm duy_nhất . Điều này sẽ tránh được lỗi truyền_tải quá mức gây ra bởi xung_đột dữ_liệu và các vấn_đề kết_nối bus .
+
+Giao_diện phải được thực_hiện phù_hợp và được giám_sát trong suốt thời_gian thử_nghiệm đối_với lỗi khung .
+
+Trong thời_gian phơi nhiễm lỗi khung được vượt không quá 5 % trên ngưỡng dòng tĩnh được phép .
+
+2 . 5 . 3 . 3 . 2 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến
+
+Kết_nối đường truyền dữ_liệu phải được duy_trì .
+
+2 . 5 . 3 . 4 . Dịch_vụ và bảo_trì giao_diện
+
+Các loại cổng này không phải để kết_nối vĩnh_viễn , và do đó không phải đo kiểm miễn_nhiễm . Sau khi kết_thúc việc đo kiểm khả_năng miễn_nhiễm phải xác_nhận rằng chất_lượng của các cổng đáp_ứng thông_số kĩ_thuật của nhà sản_xuất .
+
+2 . 5 . 3 . 5 . Giao_diện đồng_bộ hoá
+
+Chất_lượng của các cổng đồng_hồ phụ_thuộc phải đo kiểm với thiết_bị đồng_bộ cùng với một nguồn ngoài .
+
+2 . 5 . 3 . 5 . 1 . Tiêu_chí chất_lượng đối_với hiện_tượng liên_tục
+
+Trong khi phơi nhiễm , không được mất đồng_bộ hoá .
+
+2 . 5 . 3 . 5 . 2 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến
+
+Sau khi phơi nhiễm không có tín_hiệu cảnh_báo .
+
+Chất_lượng chức_năng theo đặc_điểm kĩ_thuật của nhà sản_xuất phải được xác_nhận chấm_dứt sau khi phơi nhiễm .
+
+2 . 5 . 3 . 6 . Giao_diện cảnh_báo từ xa
+
+Các giao_diện này được quy_định bởi nhà sản_xuất .
+
+2 . 5 . 3 . 6 . 1 . Tiêu_chí chất_lượng đối_với hiện_tượng liên_tục
+
+Không có tín_hiệu cảnh_báo sai xuất_hiện trong quá_trình phơi nhiễm liên_tục .
+
+2 . 5 . 3 . 6 . 2 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến
+
+Không có tín_hiệu cảnh_báo sai xuất_hiện sau khi phơi nhiễm .
+
+2 . 5 . 4 . Tiêu_chí chất_lượng đối_với thiết_bị phụ_trợ được kiểm_tra độc_lập
+
+Áp_dụng C . 4 Phụ_lục C của Qcvn 18 : 2014 / bt .
+
+3 . Quy_định Về Quản_lý
+
+Các thiết_bị truyền_dẫn vô_tuyến trong nghiệp_vụ cố_định và thiết_bị phụ_trợ liên_quan thuộc phạm_vi điều_chỉnh quy_định tại điều 1 . 1 phải tuân_thủ các quy_định kĩ_thuật trong Quy_chuẩn này .
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+Các tổ_chức , cá_nhân liên_quan có trách_nhiệm thực_hiện các quy_định về chứng_nhận và công_bố hợp quy các thiết_bị thông_tin vô_tuyến liên_quan và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành .
+
+5 . Tổ_chức Thực_hiện
+
+5 . 1 . Cục Viễn_thông , các Sở Thông_tin và Truyền_thông có trách_nhiệm tổ_chức hướng_dẫn triển_khai quản_lí các thiết_bị thông_tin vô_tuyến theo Quy_chuẩn này .
+
+5 . 2 . Trong trường_hợp các quy_định nêu tại Quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới .
+
+5 . 6 . Trong quá_trình triển_khai thực_hiện quy_chuẩn này , nếu có vấn_đề phát_sinh , vướng_mắc , các tổ_chức và cá_nhân có liên_quan phản_ánh bằng văn_bản về Bộ Thông_tin và Truyền_thông ( Vụ Khoa_học và Công_nghệ ) để được hướng_dẫn , giải_quyết . / .
+
+Thư_mục_tài_liệu Tham_khảo
+
+[ 1 ] Etsi En 301 489-4 ( v2 . 2 . 1 ) : " Electromagnetic compatibility and Radio spectrum Matters ( erm ) ; ElectroMagnetic Compatibility ( emc ) standard for radio equipment and services ; Part 4 : Specific conditions for fixed radio links and ancillary equipment " .
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Phát_xạ Emc
+
+2 . 2 . Miễn_nhiễm
+
+2 . 3 . Điều_kiện đo_kiểm
+
+2 . 3 . 1 . Quy_định chung
+
+2 . 3 . 2 . Bố_trí tín_hiệu đo_kiểm
+
+2 . 3 . 3 . Băng tần loại_trừ
+
+2 . 4 . Đánh_giá chỉ_tiêu
+
+2 . 4 . 1 . Tổng_quát
+
+2 . 4 . 2 . Thiết_bị có_thể cung_cấp kết_nối thông_tin
+
+2 . 4 . 3 . Thiết_bị không_thể cung_cấp kết_nối thông_tin
+
+2 . 4 . 4 . Thiết_bị phụ_trợ
+
+2 . 4 . 5 . Phân_loại thiết_bị
+
+2 . 5 . Tiêu_chí chất_lượng
+
+2 . 5 . 1 . Tiêu_chí chất_lượng đối_với hiện_tượng liên_tục áp_dụng cho máy phát ( ct ) và máy thu ( cr )
+
+2 . 5 . 2 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến_áp_dụng cho máy phát ( t ) và máy thu ( tr )
+
+2 . 5 . 3 . Tiêu_chí chất_lượng riêng
+
+2 . 5 . 4 Tiêu_chí chất_lượng đối_với thiết_bị phụ_trợ được kiểm_tra độc_lập
+
+3 . Quy_định Về Quản_lý
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+5 . Tổ_chức Thực_hiện
+
+Thư_mục_tài_liệu Tham_khảo

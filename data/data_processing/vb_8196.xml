@@ -1,0 +1,393 @@
+Thông_tư số 26/2017/tt-btttt ngày 17 tháng 10 năm 2017 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Luật Tần_số Vô_tuyến_điện ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện_tử đối_với thiết_bị De ct .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện từ đối_với thiết_bị De ct ( qcvn 113 : 2017 / bt ) .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2018 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 113 : 2017 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Tương_thích Điện_từ Đối_với Thiết_bị De_ct
+
+National technical regulation on ElectroMagnetic Compatibility ( emc ) for Digital Enhanced Cordless_telecommunications ( de ct ) equipment
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Phát_xạ
+
+2 . 2 . Miễn_nhiễm
+
+2 . 3 . Điều_kiện đo_kiểm
+
+2 . 3 . 1 . Quy_định chung
+
+2 . 3 . 2 . Bố_trí tín_hiệu đo_kiểm
+
+2 . 3 . 3 . Băng tần loại_trừ
+
+2 . 3 . 4 . Đáp_ứng bảng hẹp của máy thu hoặc máy thu là một phần của máy thu phát
+
+2 . 3 . 5 . Điều_chế đo kiểm thông_thường
+
+2 . 4 . Đánh_giá chỉ_tiêu
+
+2 . 4 . 1 . Tổng_quát
+
+2 . 4 . 2 . Bố_trí đánh_giá thiết_bị phụ_thuộc thiết_bị chủ và các thiết_bị vô_tuyến gắn thêm
+
+2 . 4 . 3 . Thủ_tục đánh_giá
+
+2 . 4 . 4 . Thiết_bị phụ_trợ
+
+2 . 4 . 5 . Phân_loại thiết_bị
+
+2 . 5 . Tiêu_chí chất_lượng
+
+2 . 5 . 1 . Yêu_cầu chung
+
+2 . 5 . 2 . Tiêu_chí chất_lượng đối_với các hiện_tượng liên_tục áp_dụng cho máy phát ( ct )
+
+2 . 5 . 3 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến_áp_dụng cho máy phát ( t )
+
+2 . 5 . 4 . Tiêu_chí chất_lượng đối_với hiện_tượng liên_tục áp_dụng cho máy thu ( cr )
+
+2 . 5 . 5 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến_áp_dụng cho thiết_bị máy thu ( tr )
+
+2 . 5 . 6 . Tiêu_chí chất_lượng đối_với thiết_bị phụ_trợ liên_quan được kiểm_tra độc_lập
+
+3 . Quy_định Về Quản_lý
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+5 . Tổ_chức Thực_hiện
+
+Thư_mục_tài_liệu Tham_khảo
+
+Lời_nói_đầu
+
+Qcvn 113 : 2017 / bt được xây_dựng trên cơ_sở tiêu_chuẩn Etsi En 301 489-6 V1 . 4 . 1 ( 2015 - 05 ) của Viện Tiêu_chuẩn viễn_thông châu Âu .
+
+Qcvn 113 : 2017 / bt do Viện Khoa_học Kỹ_thuật Bưu_điện biên_soạn , Vụ Khoa_học và Công_nghệ thẩm_định và trình_duyệt , Bộ Thông_tin và Truyền_thông ban_hành kèm theo Thông_tư số 26 / 2017 / t - bt ngày 17 tháng 10 năm 2017 .
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Tương_thích Điện_từ Đối_với Thiết_bị De_ct
+
+National technical regulation on ElectroMagnetic Compatibility ( emc ) for Digital Enhanced Cordless_telecommunications ( de ct ) equipment
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+Quy_chuẩn này quy_định các yêu_cầu về tương_thích điện_từ ( emc ) đối_với thiết_bị De ct và thiết_bị phụ_trợ liên_quan .
+
+Quy_chuẩn này quy_định điều_kiện đo kiểm , phương_pháp đánh_giá chỉ_tiêu , tiêu_chí đánh_giá chất_lượng về tương_thích điện từ đối_với thiết_bị De ct và thiết_bị phụ_trợ liên_quan .
+
+Các chỉ_tiêu kĩ_thuật liên_quan đến cổng ăng ten và phát_xạ từ cổng vỏ của thiết_bị De ct không thuộc phạm_vi quy_chuẩn này , mà được quy_định trong các tiêu_chuẩn , quy_chuẩn sản_phẩm tương_ứng để sử_dụng hiệu_quả phổ tần_số vô_tuyến .
+
+1 . 2 . Đối_tượng áp_dụng
+
+Quy_chuẩn kĩ_thuật này áp_dụng đối_với các cơ_quan , tổ_chức , cá_nhân Việt_nam và nước_ngoài có hoạt_động_sản_xuất , kinh_doanh và khai_thác các thiết_bị thuộc phạm_vi điều_chỉnh của Quy_chuẩn này trên lãnh thi Việt_nam .
+
+1 . 3 . Tài_liệu viện_dẫn
+
+Qcvn 18 : 2014 / bt , Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện từ đối_với thiết_bị thông_tin vô_tuyến_điện .
+
+Recommendation_itu - t O . 153 ( 10 - 1992 ) : " Basic parameters for the measurement of error performance at bit rates below the primary rate " .
+
+Etsi En 300 175-2 ( v2 . 5 . 1 ) ( 08 - 2013 ) : " Digital Enhanced Cordless_telecommunications ( de ct ) ; Common_interface ( Cl ) ; Part 2 : Physical_layer ( phl ) " .
+
+Etsi En 300 175-3 ( v2 . 5 . 1 ) ( 08 - 2013 ) : " Digital Enhanced Cordless_telecommunications ( de ct ) : Common_interface ( Cl ) ; Part 3 : Medium Access_control ( mac ) Layer .
+
+Etsi En 300 176-1 ( v2 . 1 . 1 ) ( 07 - 2009 ) : " Digital Enhanced Cordless_telecommunications ( de ct ) ; Test specification ; Part 1 : Radio " .
+
+Tcvn 7317 : 2003 ( cispr 24 : 1997 ) : Thiết_bị công_nghệ thông_tin - Đặc_tính miễn_nhiễm - Giới_hạn và phương_pháp đo .
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 4 . 1 . Sóng mang ( bearer )
+
+Cụm tín_hiệu cao_tần ( rf ) để thiết_lập và duy_trì đường liên_kết thông_tin cho điều_chế số và điện_thoại không dây , hoạt_động tương_tự như những thiết_bị thông_tin vô_tuyến .
+
+1 . 4 . 2 . Thiết_bị De ct ( de ct equipment )
+
+Thiết_bị viễn_thông_số không dây có chức_năng tăng_cường , trong đó bao_gồm một hoặc vài phần thu phát và / hoặc chỉ có máy thu và / hoặc các phần của thiết_bị tuân_thủ các yêu_cầu kĩ_thuật của tiêu_chuẩn Etsi En 300 175-2.
+
+Chú_thích : Các thiết_bị cung_cấp :
+
+- Truy_nhập không dây vào đường thuê_bao điện_thoại / hoặc thu phát thoại và dữ_liệu trong các mạng riêng , thuộc môi_trường dân_cư , thương_mại và công_nghiệp ; hoặc
+
+- Truy_nhập không dây cố_định vào các mạng công_cộng ( bao_gồm cả các thiết_bị công )
+
+- Thu_phát tín_hiệu đầu_vào số loại điểm - điểm .
+
+Thiết_bị De ct có_thể kết_hợp hoặc bộ_phận thu - phát cầm tay và bộ_phận thu - phát trạm gốc , được quy_định trong tiêu_chuẩn kĩ_thuật Etsi En 300 175-3, hoặc bộ_phận thu - phát trạm gốc và thiết_bị thuê_bao đầu_cuối vô_tuyến , đối_với truy_nhập không dây cố_định .
+
+1 . 4 . 3 . Thiết_bị chủ ( host equipment )
+
+Thiết_bị bất_kì có đầy_đủ chức_năng sử_dụng khi không đấu nối với thiết_bị thông_tin vô_tuyến , mà việc đấu nối là cần_thiết để thiết_bị thông_tin vô_tuyến cung_cấp chức_năng bổ_sung và cài_đặt vật_lí phần thu phát .
+
+1 . 4 . 4 . Thiết_bị phi_thoại ( non - speech equipment )
+
+Điện_thoại không dây hoặc thiết_bị truyền_thông tương_tự dùng để thu và phát dữ_liệu số , xuất_phát / kết_thúc từ mạch xử_lí thoại bên ngoài , hoặc thiết_bị bên ngoài .
+
+1 . 4 . 5 . Thiết_bị thoại ( speech equipment )
+
+Điện_thoại không dây hoặc thiết_bị truyền_thông tương_tự có chứa mạch xử_lí tiếng_nói như micrô và / hoặc loa , dùng để thu và phát các tín_hiệu âm_thanh .
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Phát_xạ
+
+Áp_dụng Bảng 1 của Qcvn 18 : 2014 / bt đo kiểm phát_xạ Emc trên các cổng của thiết_bị và / hoặc thiết_bị phụ_trợ liên_quan .
+
+2 . 2 . Miễn_nhiễm
+
+Áp_dụng Bảng 4 của Qcvn 18 : 2014 / bt cho phép thử miễn_nhiễm đối_với các cổng của thiết_bị và / hoặc thiết_bị phụ_trợ liên_quan .
+
+2 . 3 . Điều_kiện đo_kiểm
+
+2 . 3 . 1 . Quy_định chung
+
+Với mục_đích của quy_chuẩn này , có_thể áp_dụng các điều_kiện đo kiểm của Qcvn 18 : 2014 / bt khi thích_hợp . Các điều_kiện đo kiểm áp_dụng cho thiết_bị vô_tuyến này được quy_định trong các điều từ điều 2 . 3 . 2 đến điều 2 . 3 . 5 .
+
+2 . 3 . 2 . Bố_trí tín_hiệu đo_kiểm
+
+Áp_dụng cách bố_trí tín_hiệu đo kiểm trong điều A . 2 , Phụ_lục A của Qcvn 18 : 2014 / bt .
+
+2 . 3 . 2 . 1 . Bố_trí tín_hiệu đo kiểm tại đầu_vào của máy_phát
+
+Áp_dụng cách bố_trí tín_hiệu đo kiểm trong điều A . 2 . 1 , Phụ_lục A của Qcvn 18 : 2014 / bt với điều_chỉnh máy phát phải được điều_chế bằng loại điều_chế thử_nghiệm thông_thường quy_định cho loại thiết_bị đó ( xem điều 2 . 3 . 5 ) .
+
+- Thiết_bị thoại : Các tín_hiệu âm_thanh đầu_vào có_thể được cấp cho Eut hoặc qua một ống âm_thanh phi_kim_loại , hoặc qua các kết_nối điện , nếu có . Không được cải_tiến thiết_bị này để tạo ra các cổng kết_nối điện , nếu chỉ vì mục_đích thử_nghiệm tương_thích điện từ . Cách bố_trí thích_hợp cho ống âm_thanh được mô_tả trong tiêu_chuẩn Tcvn 7317 : 2003 .
+
+- Thiết_bị phi_thoại : Các tín_hiệu_số đầu_vào phải được cấp cho Eut bằng kết_nối điện đến cổng vào điều_chế , thông_qua một loại cáp nối phù_hợp , bộ ghép đo hoặc thiết_bị chủ ( xem điều 2 . 4 . 2 . 1 và điều 2 . 4 . 2 . 2 ) .
+
+2 . 3 . 2 . 2 . Bố_trí tín_hiệu đo kiểm tại đầu_ra của máy_phát
+
+Áp_dụng cách bố_trí tín_hiệu đo kiểm trong điều A . 2 . 2 , Phụ_lục A của Qcvn 18 : 2014 / bt .
+
+2 . 3 . 2 . 3 . Bố_trí tín_hiệu đo kiểm tại đầu_vào của máy thu
+
+Áp_dụng cách bố_trí tín_hiệu đo kiểm trong điều A . 2 . 3 , Phụ_lục A của Qcvn 18 : 2014 / bt .
+
+Phần thu hoặc phần máy thu độc_lập của một thiết_bị điện_thoại không dây cụ_thể hoặc của một thiết_bị truyền_thông phải được cấp tín_hiệu Rf mong_muốn thích_hợp , được điều_chế theo quy_định cho loại thiết_bị đó ( xem điều 2 . 3 . 5 ) .
+
+2 . 3 . 2 . 4 . Bố_trí tín_hiệu đo kiểm tại đầu_ra của máy thu
+
+Tuân theo điều A . 2 . 4 trong Qcvn 18 : 2014 / bt .
+
+2 . 3 . 2 . 5 . Bố_trí đo kiểm máy phát và máy thu ( như một hệ_thống )
+
+Áp_dụng cách bố_trí tín_hiệu đo kiểm trong điều A . 2 . 5 , Phụ_lục A của Qcvn 18 : 2014 / bt .
+
+Tín_hiệu điều_chế đo kiểm thông_thường được truyền qua hệ_thống đo trở_về khép_kín mạch hệ_thống thu phát cần thử_nghiệm như mô_tả trong tiêu_chuẩn Etsi En 300 175-3 và Etsi En 300 176-1. Ngoài_ra , tín_hiệu đầu_ra của thiết_bị vô_tuyến cần thử_nghiệm sẽ được giám_sát bởi hệ_thống đo .
+
+2 . 3 . 3 . Băng tần loại_trừ
+
+Áp_dụng điều A . 3 , Phụ_lục A của Qcvn 18 : 2014 / bt .
+
+Băng tần loại_trừ cho máy phát , máy thu và phần thu của máy thu phát là các băng tần_số , trên đó không cần thử_nghiệm miễn_nhiễm khi có tín_hiệu Rf bức_xạ .
+
+Băng tần loại_trừ từ 1 781 , 792 MHz đến 1 997 , 344 MHz ( cộng thêm 100 MHz đối_với biên trên và trừ đi 100 MHz đối_với biên dưới ) .
+
+2 . 3 . 4 . Đáp_ứng băng hẹp của máy thu hoặc máy thu là một phần của máy thu phát
+
+Áp_dụng các yêu_cầu trong điều A . 4 Phụ_lục A của Qcvn 18 : 2014 / bt .
+
+Không thực_hiện các phép thử miễn_nhiễm trên các tần_số thuộc đáp_ứng băng hẹp đã được nhận_dạng , ví_dụ , các đáp_ứng giả của các phần máy thu điện_thoại không dây và các thiết_bị truyền_thông tương_tự .
+
+Đối_với các máy thu De ct , tiêu_chí nhận_dạng các đáp_ứng băng hẹp căn_cứ vào sự gia_tăng mức tín_hiệu thoại đầu_ra cho thiết bị thoại , hoặc mức tăng tỉ_lệ lỗi bit ( ber ) của tín_hiệu đầu_vào số đấu vòng từ Eut cho thiết_bị phi_thoại .
+
+Độ lệch tần_số danh định dùng để nhận_dạng các đáp_ứng băng hẹp phải là 2 MHz cho phần đầu của thủ_tục nhận_dạng và 2 , 5 MHz cho phần tiếp_theo .
+
+2 . 3 . 5 . Điều_chế đo kiểm thông_thường
+
+Áp_dụng điều A . 5 Phụ_lục A của Qcvn 18 : 2014 / bt .
+
+Đối_với tất_cả các loại thiết_bị De ct , tín_hiệu mong_muốn tại đầu_vào phải là một sóng mang tần_số vô_tuyến ( rf ) được thiết_lập ở trung_tâm danh định của một trong các kênh De ct Rf , sử_dụng điều_chế Gaussian shaped frequency - shift keying ( bt = 0 , 5 ) và được điều_chế chuỗi bít có tốc_độ 1 152 kb it / s .
+
+Việc giải_mã chuỗi bit phải tuân_thủ cách giải_mã được quy_định trong tiêu_chuẩn Etsi En 300 175-2 và Etsi En 300 175-3.
+
+Phần của chuỗi tín_hiệu đầu_vào số phải phát là một chuỗi bít giống với mẫu D - m2 được quy_định trong khuyến_nghị Itu - t O . 153 và được phản_hồi , phù_hợp với tin báo thử vòng phản_hồi , như mô_tả trong tiêu_chuẩn Etsi En 300 175-3.
+
+Các định thời cụm của sóng mang này phải tuân_thủ các giới_hạn được quy_định trong tiêu_chuẩn Etsi En 300 175-2.
+
+2 . 4 . Đánh_giá chỉ_tiêu
+
+2 . 4 . 1 . Tổng_quát
+
+Tuân theo điều B . 1 trong Qcvn 18 : 2014 / bt
+
+Áp_dụng các yêu_cầu trong B . 1 của Qcvn 18 : 2014 / bt .
+
+2 . 4 . 2 . Bố_trí đánh_giá thiết_bị phụ_thuộc thiết_bị chủ và các thiết_bị vô_tuyến gắn thêm
+
+Đối_với các phần thiết_bị tích_hợp với thiết_bị chủ để cung_cấp đầy_đủ chức_năng hoạt_động của thiết_bị thì sử_dụng một trong hai cách đánh_giá trong điều 2 . 4 . 2 . 1 và điều 2 . 4 . 2 . 2 . Nhà sản_xuất phải công_bố lựa_chọn mục nào cho thiết_bị của mình .
+
+2 . 4 . 2 . 1 Loại A : thiết_bị kết_hợp
+
+Sử_dụng kết_hợp của phần thiết_bị vô_tuyến và loại thiết_bị chủ cụ_thể để đánh_giá mức_độ phù_hợp với tài_liệu nhà sản_xuất công_bố .
+
+Nếu có nhiều hơn một sự kết_hợp , thì mỗi sự kết_hợp phải được thử_nghiệm riêng .
+
+Một sự kết_hợp của thiết_bị chủ và phần vô_tuyến được thử_nghiệm như là một hệ_thống kết_hợp , thì không cần_lặp lại phép thử đối_với :
+
+- Những sự kết_hợp khác giữa thiết_bị chủ và các phần thiết_bị vô_tuyến dựa trên các mẫu máy_chủ tương_tự , với điều_kiện là sự thay_đổi về cơ và điện giữa các mẫu không gây ảnh_hưởng nghiêm_trọng đến miễn_nhiễm và bức_xạ của phần thiết_bị vô_tuyến ;
+
+- Phần_thiết_bị vô_tuyến không được sử_dụng nhưng không có thay_đổi về cơ , điện và phần_mềm theo thiết_bị chủ , khác với những phần đã được mô_tả yêu_cầu tuân_thủ theo tài_liệu này .
+
+2 . 4 . 2 . 2 Loại B : Sử_dụng một_mạch ghim thử_nghiệm ( test jig ) và 3 thiết_bị chủ
+
+Nếu bộ_phận thiết_bị vô_tuyến dự_định sử_dụng với nhiều loại thiết_bị chủ , thì nhà sản_xuất phải cung_cấp các mạch giữ ( mạch ghim ) thích_hợp , phù_hợp với tài_liệu này để đánh_giá .
+
+Mạch ghim thử_nghiệm phải được thiết_kế sao cho khi thay_đổi các phần thiết_bị vô_tuyến , thì miễn_nhiễm và phát_xạ không mong_muốn được tối_thiểu hoá .
+
+Nếu kết_nối giữa bộ_phận thiết_bị vô_tuyến và mạch điều_khiển thiết_bị chủ và / hoặc các cổng nguồn bằng cáp đồng , cáp_quang hoặc các phương_tiện tương_tự khác , thì kết_nối này với máy_chủ phải được xem như là một bộ ghim thử_nghiệm thích_hợp .
+
+Bộ ghim thử_nghiệm phải cho phép bộ_phận thiết_bị vô_tuyến được cấp nguồn và giả lập theo cách đại_diện , như khi nó được nối với hoặc chèn vào thiết_bị chủ .
+
+Ngoài_ra , đối_với các phép thử có dùng mạch ghim , thì bộ_phận thiết_bị vô_tuyến phải được thử_nghiệm với 3 thiết_bị chủ khác nhau . Các thiết_bị chủ này phải được nhà sản_xuất trang_bị và phải được lựa_chọn từ danh_sách các thiết_bị chủ tương_thích đã được nhà sản_xuất công_bố , như là một bộ_phận của tài_liệu sử_dụng kèm theo bộ_phận thiết_bị vô_tuyến .
+
+2 . 4 . 3 . Thủ_tục đánh_giá
+
+2 . 4 . 3 . 1 . Mất các chức_năng điều_khiển của đối_tượng sử_dụng hoặc mất dữ_liệu quy_định phải lưu_trữ
+
+Hệ_thống thử_nghiệm phải thiết_lập đường thông theo đúng cách như Eut sử_dụng thông_thường .
+
+Mọi trường dữ_liệu của đối_tượng sử_dụng trong bộ_nhớ hoặc trong bộ lưu_trữ của Eut phải đầy_đủ , sao cho nó đại_diện cho sự sử_dụng thông_thường .
+
+Thủ_tục đánh_giá phải khẳng_định được rằng kết_nối thông_tin liên_tục được duy_trì và không bị mất các chức_năng điều_khiển và dữ_liệu cần lưu_trữ của đối_tượng sử_dụng , đúng như nhà sản_xuất công_bố .
+
+2 . 4 . 3 . 2 . Thông_mạch âm_thanh
+
+Phép thử này nhằm đánh_giá ảnh_hưởng liên_tục của các hiện_tượng Emc lên các mạch thoại tương_tự của thiết_bị xem nó có phù_hợp hay không .
+
+Hệ_thống thử_nghiệm được bố_trí như trên Hình 1 , sao cho có_thể ghi lại mức tín_hiệu ra của các kênh thoại Eut bằng các thiết_bị đo phù_hợp ( nhưng không nhất_thiết cho từng kênh một_cách đồng_thời ) . Đối_với phần không dây lưu_động ( cp ) có sử_dụng bộ chuyển_đổi thanh - điện , thi cần đo mức áp_suất âm_thanh ( spl ) . Nhiễu nền nhấc tổ_hợp máy điện_thoại do mạch chuyển_đổi thoại ( microphone ) phải được tối_thiểu hoá .
+
+Trước chuỗi các phép thử , mức chuẩn tín_hiệu ra thoại phải được ghi lại trên máy đo như Hình 2 . Đối_với khối Cp có bộ chuyển_đổi thoại , mức này phải là 0 dBPa trên tần_số 1 kHz , tại điểm_chuẩn nghe theo đường thu và - 5 dBPa trên tần_số 1 kHz , tại điểm_chuẩn nói . Đối_với phần không dây cố_định ( cfp ) có các mạch thoại tương_tự và lắp_đặt một_số thiết_bị khác loại thoại tương_tự , thì mức chuẩn phải bằng các tín_hiệu âm_thanh này .
+
+Tại mỗi tần_số thử_nghiệm , phải đo mức tín_hiệu âm_thanh ra so với mức chuẩn .
+
+Nếu có giao_tiếp với bộ chuyển_đổi thanh - điện của Eut , thì phải chú_ý để sao cho nhiễu của trường điện_từ ( em ) được tối_thiểu hoá . Việc sử_dụng bộ ghép âm_thanh phi_kim_loại , được mô_tả trong tiêu_chuẩn Tcvn 7317 : 2003 ( cispr 24 : 1997 ) .
+
+Ghi lại cách bố_trí phép đo vào bản báo_cáo kết_quả thử_nghiệm .
+
+Hình 1 - Thiết_lập phép đo thông mạch đường âm_thanh
+
+Hình 2 - Hiệu chuẩn_thiết_lập phép đo thông mạch đường âm_thanh
+
+2 . 4 . 4 . Thiết_bị phụ_trợ
+
+Áp_dụng các yêu_cầu trong B . 4 , Phụ_lục B của Qcvn18 : 2014 / bt .
+
+2 . 4 . 5 . Phân_loại thiết_bị
+
+Tuân theo điều B . 5 , Phụ_lục B của Qcvn18 : 2014 / bt .
+
+- Nếu thiết_bị điện_thoại không dây và thiết_bị truyền_thông và / hoặc thiết_bị phụ_trợ hoặc kết_hợp cả hai được được khai_báo sử_dụng nguồn một chiều lấy từ phương_tiện vận_tải / xe_cộ thì được xem là thiết_bị di_động dùng trên phương_tiện vận_tải / xe_cộ .
+
+- Nếu thiết_bị điện_thoại không dây và thiết_bị truyền_thông và / hoặc thiết_bị phụ_trợ hoặc kết_hợp cả hai được nuôi bằng nguồn điện_lưới Ac , thì được xem như là thiết_bị sử_dụng cố_định .
+
+2 . 5 . Tiêu_chí chất_lượng
+
+2 . 5 . 1 . Yêu_cầu chung
+
+Nhà sản_xuất phải công_bố các chức_năng cơ_bản của thiết_bị cần kiểm_tra trong và sau các phép thử Emc và phải ghi lại các chức_năng này trong bản báo_cáo kết_quả thử_nghiệm .
+
+Thiết_bị phải đáp_ứng các tiêu_chí chất_lượng tối_thiểu , như quy_định trong các điều 2 . 5 . 2 . điều 2 . 5 . 3 , điều 2 . 5 . 4 , điều 2 . 5 . 5 và những chức_năng bổ_sung mà nhà sản_xuất công_bố .
+
+2 . 5 . 2 . Tiêu_chí chất_lượng đối_với các hiện_tượng liên_tục áp_dụng cho máy phát ( ct )
+
+Việc thiết_lập kết_nối thông_tin liên_tục tại thời_điểm bắt_đầu thử_nghiệm , duy_trì nó trong và sau phép thử và đánh_giá mức Ber được sử_dụng như là tiêu_chí chất_lượng để khẳng_định các chức_năng cơ_bản của máy thu phát được đánh_giá trong và / hoặc sau thử_nghiệm . Tuy_nhiên , trong trường_hợp thiết_bị có chứa các mạch thoại tương_tự , thì thay_vì đánh_giá Ber ta cần đánh_giá mức tín_hiệu ra thoại .
+
+Trong thời_gian thử miễn_nhiễm ,
+
+- Hệ_thống thử_nghiệm phải điều_khiển Eut_sao cho nó phát liên_tục trên khe thời_gian của một kênh xác_định , phù_hợp với các thủ_tục mô_tả trong tiêu_chuẩn Etsi En 300 175-3;
+
+- Hệ_thống thử_nghiệm phải kiểm_chứng được là tỉ_lệ lỗi bit ( ber ) nhỏ hơn hoặc bằng 1 x 10-3; hoặc
+
+- Nếu thiết_bị có chứa các mạch thoại tương_tự , thì mức tín_hiệu ra thoại phải nhỏ hơn ít_nhất 35 dB so với mức nhiễu ghi được trước khi bắt_đầu thử_nghiệm . Điều này phải được kiểm_tra đánh_giá theo thủ_tục ghi trong điều 2 . 4 . 3 . 2 .
+
+Sau khi thử miễn_nhiễm ,
+
+- Hệ_thống thử_nghiệm phải truyền tin báo clear test modes , như mô_tả trong tiêu_chuẩn Etsi En 300 175-3. Điều này chứng_tỏ rằng sóng mang và đường truyền_thông được duy_trì trong suốt chuỗi các thử_nghiệm và rằng Eut vẫn đang hoạt_động ; và
+
+- Eut hoạt_động đúng như dự_định và không bị mất các chức_năng điều_khiển ; dữ_liệu lưu_trữ và kết_nối thông_tin liên_tục được duy_trì trong và sau thử_nghiệm ( xem điều 2 . 4 . 3 . 1 ) .
+
+Nếu Eut có khả_năng phát , thì các phép thử phải được lặp_lại theo phương_thức chờ hoạt_động ( stand bi mode ) , để khẳng_định rằng không có hiện_tượng phát ngoài ý_muốn .
+
+2 . 5 . 3 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến_áp_dụng cho máy phát ( t )
+
+Sau mỗi lần thử phơi nhiễm trong chuỗi các thử_nghiệm , Eut phải hoạt_động sao cho đối_tượng sử_dụng không nhận_biết được có mất kết_nối thông_tin liên_tục hay không .
+
+Sau toàn_bộ chuỗi các phép thử_nghiệm phơi nhiễm , bao_gồm chuỗi các thử phơi nhiễm riêng , Eut phải hoạt_động như dự_định và không mất các chức_năng điều_khiển hoặc lưu_trữ dữ_liệu như nhà sản_xuất công_bố và đường thông phải được duy_trì ( xem điều 2 . 4 . 3 . 1 ) .
+
+Nếu Eut có_thể phát , thì phải thực_hiện các phép thử để khẳng_định rằng không xẩy ra hiện_tượng phát ngoài ý_muốn .
+
+2 . 5 . 4 . Tiêu_chí chất_lượng đối_với hiện_tượng liên_tục áp_dụng cho máy thu ( cr )
+
+Các chức_năng cơ_bản của thiết_bị thu phải được thẩm_định trong mỗi lần phơi nhiễm trong chuỗi phép thử .
+
+Nếu thiết_bị có chứa các mạch thoại tương_tự , thì mức tín_hiệu ra thoại phải nhỏ hơn ít_nhất 35 dB so với mức chuẩn đã ghi_nhận trước đó . Điều này được kiểm_chứng theo thủ_tục ghi trong điều 2 . 4 . 3 . 2 . Không cần đánh_giá mức Ber .
+
+Sau phép thử , Eut phải hoạt_động như dự_định và không bị mất các chức_năng điều_khiển hoặc lưu_trữ dữ_liệu và đường truyền vẫn được duy_trì . Điều này phải được kiểm_chứng bằng cách kiểm_tra các chức_năng cơ_bản .
+
+2 . 5 . 5 . Tiêu_chí chất_lượng đối_với hiện_tượng đột_biến_áp_dụng cho thiết_bị máy thu ( tr )
+
+Sau mỗi lần thử phơi nhiễm , Eut phải hoạt_động như dự_định và đối_tượng sử_dụng không nhận_biết được có mất kết_nối thông_tin liên_tục hay không .
+
+Sau tất_cả các phép thử phơi nhiễm , bao_gồm toàn_bộ các thử phơi nhiễm riêng , Eut phải hoạt_động như dự_định và không mất các chức_năng điều_khiển hoặc lưu_trữ dữ_liệu , như nhà sản_xuất công_bố và đường thông phải được duy_trì . Điều này phải được kiểm_chứng bằng cách kiểm_tra các chức_năng cơ_bản .
+
+2 . 5 . 6 . Tiêu_chí chất_lượng đối_với thiết_bị phụ_trợ liên_quan được kiểm_tra độc_lập
+
+Áp_dụng điều C . 4 , Phụ_lục C trong Qcvn 18 : 2014 / bt .
+
+3 . Quy_định Về Quản_lý
+
+Các thiết_bị De ct và thiết_bị phụ_trợ liên_quan thuộc phạm_vi điều_chỉnh quy_định tại điều 1 . 1 phải tuân_thủ các quy_định kĩ_thuật trong Quy_chuẩn này .
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+Các tổ_chức , cá_nhân liên_quan có trách_nhiệm thực_hiện chứng_nhận hợp quy và công_bố hợp quy và chịu sự kiểm_tra của cơ_quan quản_lí nhà_nước theo các quy_định hiện_hành .
+
+5 . Tổ_chức Thực_hiện
+
+5 . 1 . Cục Viễn_thông và các Sở Thông_tin và Truyền_thông có trách_nhiệm tổ_chức hướng_dẫn , triển_khai quản_lí các thiết_bị vô_tuyến phù_hợp với quy_chuẩn này .
+
+5 . 2 . Trong trường_hợp các quy_định nêu tại quy_chuẩn này có sự thay_đổi , bổ_sung hoặc được thay_thế_thì thực_hiện theo quy_định tại văn_bản mới .
+
+5 . 3 . Trong quá_trình triển_khai thực_hiện quy_chuẩn này , nếu có vấn_đề phát_sinh , vướng_mắc , các tổ_chức và cá_nhân có liên_quan phản_ánh bằng văn_bản về Bộ Thông_tin và Truyền_thông ( Vụ Khoa_học và Công_nghệ ) để được hướng_dẫn , giải_quyết . / .
+
+Thư_mục_tài_liệu Tham_khảo
+
+[ 1 ] Etsi En 301 489-6 V1 . 4 . 1 ( 2015 - 05 ) Electromagnetic compatibility and Radio spectrum Matters ( erm ) ; ElectroMagnetic Compatibility ( emc ) standard for radio equipment and services ; Part 6 : Specific conditions for Digital Enhanced Cordless_telecommunications ( de ct ) equipment

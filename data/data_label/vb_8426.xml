@@ -1,0 +1,227 @@
+Thông_tư số 08/2017/tt-btnmt ngày 06 tháng 06 năm 2017 của bộ tài_nguyên và môi_trường
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 4 năm 2017 </NĐ> của Chính_phủ về quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 </QĐ> của Thủ_tướng Chính_phủ quy_định về thu_nhận , lưu_trữ , xử_lý , khai_thác và sử_dụng dữ_liệu viễn_thám quốc_gia ; <QĐ rel="None"> Quyết_định số 76/2014/QĐ-TTg ngày 24 tháng 12 năm 2014 </QĐ> của Thủ_tướng Chính_phủ sửa_đổi , bổ_sung một_số điều của <QĐ rel="CC"> Quyết_định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 </QĐ> của Thủ_tướng Chính_phủ quy_định về thu_nhận , lưu_trữ , xử_lý , khai_thác và sử_dụng dữ_liệu viễn_thám quốc_gia ;
+
+Theo đề_nghị của Cục_trưởng Cục Viễn_thám quốc_gia , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư quy_định quy_trình đo khống_chế ảnh viễn_thám .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định nội_dung và trình_tự các bước thực_hiện đo khống_chế ảnh viễn_thám , đồng_thời là cơ_sở pháp_lí để quản_lý , thẩm_định và phê_duyệt các dự_án , luận_chứng kinh_tế kĩ_thuật , xây_dựng định mức kinh_tế - kĩ_thuật có sử_dụng đo khống_chế ảnh viễn_thám .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với các cơ_quan quản_lí nhà_nước ; tổ_chức và cá_nhân có liên_quan đến đo khống_chế ảnh viễn_thám trên lãnh_thổ Việt_nam .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Điểm khống_chế ảnh viễn_thám là điểm địa_vật được đánh_dấu vị_trí trên ảnh viễn_thám đồng_thời được xác_định trong Hệ toạ_độ quốc_gia Vn - 2000 , hệ độ cao quốc_gia .
+
+2 . Gns ( Global Navigation Satellite_system ) là hệ_thống dẫn đường bằng vệ_tinh toàn_cầu .
+
+3 . Rinex ( Receiver INdependent EXchange format ) là chuẩn dữ_liệu trị đo Gns theo khuôn_dạng dữ_liệu sử_dụng mã Asci để thuận_tiện cho việc xử_lí không phụ_thuộc máy thu hoặc phần_mềm .
+
+Chương_ii
+
+Quy_trình Đo Khống_chế Ảnh Viễn_thám
+
+Điều 4 . Sơ_đồ quy_trình đo khống_chế ảnh viễn_thám
+
+Hình 1 : Sơ_đồ quy_trình đo khống_chế ảnh viễn_thám
+
+Điều 5 . Công_tác chuẩn_bị
+
+1 . Xác_định khu_vực đo khống_chế ảnh viễn_thám .
+
+2 . Thu_thập các tài_liệu bao_gồm :
+
+a ) Ảnh viễn_thám khu_vực đo khống_chế ;
+
+b ) Sơ_đồ , toạ_độ , độ cao của các điểm toạ_độ và điểm độ cao quốc_gia đã có trong khu_vực đo khống_chế ảnh viễn_thám ;
+
+c ) Thiết_kế kĩ_thuật và các tài_liệu kĩ_thuật khác có liên_quan ;
+
+d ) Tài_liệu bản_đồ địa_hình mới nhất của khu_vực đo khống_chế ảnh viễn_thám .
+
+3 . Xác_định phương_pháp đo khống_chế ảnh viễn_thám bao_gồm : đo bằng công_nghệ Gns đo tĩnh hoặc bằng phương_pháp đường chuyền sử_dụng máy toàn đạc điện_tử hoặc kinh vĩ điện_tử tuỳ theo thiết_kế kĩ_thuật .
+
+4 . Kiểm_tra máy đo_đạc điểm khống_chế ảnh viễn_thám :
+
+a ) Các máy thu tín_hiệu vệ_tinh đo Gns sử_dụng trong đo khống_chế ảnh viễn_thám phải có giấy chứng_nhận kiểm_định còn hiệu_lực ;
+
+b ) Các máy toàn đạc điện_tử , máy kinh vĩ điện_tử , thước invar , thước thép phải có chứng_nhận kiểm_định còn hiệu_lực ;
+
+c ) Các thiết_bị phải được kiểm_tra trước khi đo khống_chế ảnh viễn_thám . Tài_liệu kiểm_tra phải lưu kèm theo kết_quả đo khống_chế ảnh viễn_thám .
+
+Điều 6 . Chọn điểm khống_chế ảnh viễn_thám ở nội_nghiệp
+
+Chọn điểm khống_chế ảnh viễn_thám và đồ hình bố_trí điểm khống_chế ảnh viễn_thám phải tuân_thủ theo các quy_định tại khoản 1 và điểm a , điểm b khoản 2 Điều 9 <TT rel="DC"> Thông_tư số 10/2015/TT-BTNMT ngày 25 tháng 3 năm 2015 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định kĩ_thuật về sản_xuất ảnh viễn_thám quang_học độ phân_giải cao và siêu cao để cung_cấp đến người sử_dụng .
+
+Điều 7 . Thiết_kế sơ_đồ đo nối điểm khống_chế ảnh viễn_thám
+
+1 . Trên sơ_đồ đo nối phải thể_hiện các cảnh ảnh viễn_thám có trong khu_vực cần đo khống_chế ảnh , số_hiệu cảnh ảnh , các điểm gốc đã có trong khu_vực , các điểm khống_chế ảnh viễn_thám , điểm kiểm_tra vừa thiết_kế và các hướng đo nối .
+
+2 . Tuỳ_thuộc phương_pháp đo , loại máy đo và số_lượng máy đo để thiết_kế sơ_đồ đo nối . Có_thể chia khu đo thành các cụm nhỏ để thuận_tiện cho quá_trình đo nối .
+
+3 . Thiết_kế tuyến đo nối khống_chế ảnh viễn_thám :
+
+a ) Thu_thập bản_đồ địa_hình mới nhất phủ trùm khu_vực bố_trí các ca đo khống_chế ảnh trong ngày . Tiến_hành thiết_kế các ca đo phù_hợp với thời_gian đo và có tính đến thời_gian di_chuyển giữa các vị_trí đo khống_chế ảnh ;
+
+b ) Thiết_kế tuyến đường di_chuyển giữa các vị_trí điểm gốc khống_chế ảnh và điểm đo nối khống_chế ảnh .
+
+4 . Thiết_kế đo điểm khống_chế ảnh viễn_thám :
+
+a ) Đo bằng công_nghệ Gns :
+
+Trước khi tiến_hành đo cần lập lịch đo và cần lập bảng dự_báo các vệ_tinh có_thể quan_sát được ;
+
+Căn_cứ vào số_lượng máy thu , đồ hình lưới đo Gns đã thiết_kế và bảng dự_báo vệ_tinh . Lập bảng điều_độ đo ngắm với nội_dung : Thời_gian đo , số_liệu trạm đo , tên trạm đo , số_liệu máy thu v . v . . .
+
+b ) Đo bằng phương_pháp đường chuyền sử_dụng máy toàn đạc điện_tử hoặc máy kinh vĩ điện_tử :
+
+Khi đo_đạc điểm khống_chế ảnh viễn_thám bằng phương_pháp đường chuyền , căn_cứ vào mật_độ điểm khởi tính có_thể thiết_kế dưới dạng đường chuyền đơn hoặc thành mạng_lưới tuỳ vào điều_kiện địa_hình ;
+
+Các thông_số phải được nêu trong thiết_kế kĩ_thuật - dự_toán hoặc phương_án thi_công phải tuân_thủ quy_định tại Bảng 2 Điều 10 của Thông_tư này .
+
+Điều 8 . Xác_định điểm khống_chế , điểm kiểm_tra ở ngoại_nghiệp
+
+1 . Tìm và xác_định điểm gốc đo nối khống_chế , điểm khống_chế ảnh viễn_thám và điểm kiểm_tra ở ngoại nghiệp . Điểm khống_chế ảnh , điểm kiểm_tra phải được đóng cọc gỗ hoặc dùng sơn đánh_dấu vị_trí ở thực_địa ( cọc gỗ có đường_kính từ 3 cm trở lên và có đóng đinh chữ_thập ở tâm cọc , nếu dùng sơn để đánh_dấu thì nét sơn không được to quá 1 cm ) , đảm_bảo_tồn_tại trong thời_gian thi_công và kiểm_tra , nghiệm_thu .
+
+2 . Điểm khống_chế ảnh và điểm kiểm_tra phải đảm_bảo có_thể nhận_biết được với độ chính_xác đến 0 , 5 pixel trên ảnh viễn_thám và không có bất_kì sự thay_đổi nào về vị_trí trong quá_trình thi_công .
+
+3 . Các điểm khống_chế ảnh viễn_thám , điểm kiểm_tra phải chích lên ảnh ngay tại thực_địa .
+
+Điều 9 . Đo và xử_lí_số_liệu đo điểm khống_chế ảnh viễn_thám bằng công_nghệ Gns
+
+1 . Đo điểm khống_chế ảnh viễn_thám :
+
+a ) Điểm khống_chế ảnh viễn_thám phải được bố_trí đo nối từ 02 điểm toạ_độ , độ cao nhà_nước hạng Iii trở lên hoặc điểm địa_chính cơ_sở ;
+
+b ) Các máy tại điểm gốc bật và thu tín_hiệu liên_tục trong các ca đo ;
+
+c ) Tiến_hành đo điểm khống_chế ảnh viễn_thám theo quy_định tại các điểm 6 . 2 , 6 . 3 , 6 . 4 , 6 . 5 , 6 . 6 mục 6 phần Ii <TT rel="None"> Thông_tư số 06/2009/TT-BTNMT ngày 18 tháng 6 năm 2009 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định về quy_chuẩn kĩ_thuật Quốc_gia về xây_dựng lưới toạ_độ ;
+
+d ) Tại trạm máy ở ngoài thực_địa phải tiến_hành ghi sổ đầy_đủ theo các mục của sổ đo . Chữ , số điền viết trong sổ đo phải rõ_ràng , chính_xác , sạch_sẽ và không được tẩy_xoá , nếu viết nhầm phải gạch số sai và viết số đúng lên trên đồng_thời ghi rõ nguyên_nhân . Mẫu sổ đo Gns theo quy_định tại Phụ_lục 7 <TT rel="DC"> Thông_tư số 06/2009/TT-BTNMT ngày 18 tháng 6 năm 2009 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định về quy_chuẩn kĩ_thuật Quốc_gia về xây_dựng lưới toạ_độ .
+
+2 . Tính_toán bình_sai điểm khống_chế ảnh viễn_thám :
+
+a ) Khi sử_dụng các máy thu tín_hiệu vệ_tinh của nhiều hãng sản_xuất khác nhau để đo điểm khống_chế ảnh viễn_thám , dữ_liệu đo phải chuyển_đổi sang cùng một khuôn_dạng Rinex ;
+
+b ) Xử_lí_số_liệu , tính véc tơ cạnh : trong ca đo đồng_bộ với nhiều máy thu , có_thể tính riêng từng véc tơ cạnh , cũng có_thể chọn các véc tơ cạnh độc_lập và cùng tính theo cách xử_lí nhiều véc tơ cạnh ;
+
+c ) Các phần_mềm để tính_toán , xử_lí_số_liệu đo điểm khống_chế ảnh viễn_thám phải phù_hợp với loại máy thu tín_hiệu vệ_tinh để giải tự_động véc tơ cạnh ;
+
+d ) Việc bình_sai điểm khống_chế ảnh viễn_thám được thực_hiện sau khi tính khái lược cạnh và sai_số khép cho toàn_bộ mạng_lưới đạt chỉ_tiêu kĩ_thuật ;
+
+đ ) Tính_toán bình_sai lưới khống_chế ảnh sử_dụng công_nghệ đo bằng Gns phải đảm_bảo các yêu_cầu về độ chính_xác theo quy_định tại Bảng 1 .
+
+Bảng 1 : Các yêu_cầu kĩ_thuật cơ_bản khi sử_dụng công_nghệ Gns
+
+Điều 10 . Đo và xử_lí_số_liệu đo điểm khống_chế ảnh viễn_thám sử_dụng máy toàn đạc điện_tử hoặc máy kinh vĩ điện_tử
+
+1 . Đo điểm khống_chế ảnh viễn_thám
+
+Sử_dụng máy toàn đạc điện_tử hoặc máy kinh vĩ điện_tử tiến_hành đo điểm khống_chế ảnh viễn_thám theo lưới đường chuyền đã được thiết_kế . Khi sử_dụng máy toàn đạc điện_tử hoặc máy kinh vĩ điện_tử để đo điểm khống_chế ảnh và điểm kiểm_tra phải tuân_thủ chỉ_tiêu kĩ_thuật quy_định tại <TT rel="DC"> Thông_tư số 68/2015/TT-BTNMT ngày 22 tháng 12 năm 2015 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường về quy_định kĩ_thuật đo_đạc trực_tiếp địa_hình phục_vụ thành_lập bản_đồ địa_hình và cơ_sở dữ_liệu nền địa_lí tỉ_lệ 1 : 500 , 1 : 1000 , 1 : 2000 , 1 : 5000 .
+
+2 . Tính_toán bình_sai điểm khống_chế ảnh viễn_thám :
+
+a ) Kết_quả đo được tính_toán khái lược bằng phương_pháp bình_sai gần đúng . Khi sai_số khép góc hoặc sai_số khép vòng , sai_số khép giới_hạn tương_đối đường chuyền đạt giới_hạn cho phép thì kết_quả đo này mới được sử_dụng để bình_sai bằng phương_pháp bình_sai chặt_chẽ ;
+
+b ) Tính_toán bình_sai lưới khống_chế ảnh sử_dụng công_nghệ đo bằng phương_pháp đường chuyền quy_định tại Bảng 2 .
+
+Bảng 2 : Các yêu_cầu kĩ_thuật cơ_bản khi sử_dụng phương_pháp đường chuyền
+
+Điều 11 . Tu chỉnh điểm khống_chế ảnh viễn_thám
+
+Tất_cả các điểm khống_chế ảnh và điểm kiểm_tra chích trên ảnh viễn_thám phải được tu chỉnh ở cả 2 mặt của ảnh . Đường_kính lỗ chích không vượt quá 0 , 15 mm trên ảnh .
+
+1 . Ở mặt phải ảnh viễn_thám : các điểm được khoanh vị_trí và ghi tên điểm bằng mực không phai . Các điểm toạ_độ và điểm độ cao quốc_gia được sử_dụng làm cơ_sở để đo nối khống_chế ảnh viễn_thám được chích lên_mặt phải của ảnh viễn_thám theo quy_định tại Hình 2 .
+
+Hình 2 . Tu chỉnh điểm khống_chế ảnh ở mặt phải ảnh viễn_thám
+
+a ) N1002 là tên điểm khống_chế ảnh về mặt_phẳng ( ký_hiệu bằng vòng_tròn màu đỏ đường_kính 01 ( một ) cm và số_hiệu điểm màu đỏ ) ;
+
+b ) H309 là tên điểm khống_chế ảnh về độ cao ( ký_hiệu bằng vòng_tròn màu xanh dương đường_kính 01 ( một ) cm và số_hiệu điểm màu xanh ) ;
+
+c ) N1003 là tên điểm khống_chế ảnh về mặt_phẳng và độ cao ( ký_hiệu bằng vòng_tròn ngoài màu đỏ đường_kính 01 ( một ) cm , vòng_tròn trong màu xanh dương đường_kính 0 , 6 ( không phẩy sáu ) cm và số_hiệu điểm màu đỏ ) ;
+
+d ) 11514 là tên điểm toạ_độ quốc_gia ( ký_hiệu bằng tam_giác màu đỏ mỗi cạnh dài 01 ( một ) cm và số_hiệu điểm màu đỏ ) ;
+
+đ ) 11521 là tên điểm toạ_độ quốc_gia không_thể chích chính_xác trên ảnh viễn_thám ( ký_hiệu bằng tam_giác màu đỏ nét đứt , mỗi cạnh dài 01 ( một ) cm và số_hiệu điểm màu đỏ ) ;
+
+e ) I ( hn - hp ) 7ld là tên điểm độ cao quốc_gia ( ký_hiệu bằng vòng_tròn màu xanh lá cây đường_kính 01 ( một ) cm và số_hiệu điểm màu xanh lá cây ) ;
+
+g ) Kn1001 là tên điểm kiểm_tra khống_chế ảnh ( ký_hiệu bằng vòng_tròn màu đỏ đường_kính 01 ( một ) cm và số_hiệu điểm màu đỏ ) .
+
+2 . Ở mặt_trái ảnh viễn_thám : sơ_đồ ghi_chú điểm vẽ bằng nét mực màu đen được phóng_đại_từ 2 đến 4 lần so với tỉ_lệ ở mặt phải ảnh viễn_thám . Các đường_nét và nền của sơ_đồ phải tương_tự như trên ảnh . Trong ghi_chú điểm phải ghi rõ số_hiệu điểm , mô_tả chi_tiết vị_trí điểm và tên người chích điểm . Các ô vuông có kích_thước 3x3 cm theo quy_định tại Hình 3 .
+
+Hình 3 . Tu chỉnh điểm khống_chế ảnh ở mặt_trái ảnh viễn_thám
+
+a ) N1002 là tên điểm khống_chế ảnh về mặt_phẳng ;
+
+b ) H309 là tên điểm khống_chế ảnh về độ cao ;
+
+c ) 8 , 35 là độ cao của điểm khống_chế ảnh ;
+
+d ) 0 , 6 là tỉ cao hoặc tỉ sâu của điểm khống_chế ảnh .
+
+Điều 12 . Kiểm_tra , nghiệm_thu kết_quả đo điểm khống_chế ảnh viễn_thám
+
+Trước khi giao_nộp kết_quả đo khống_chế ảnh viễn_thám phải tiến_hành kiểm_tra , nghiệm_thu sản_phẩm theo quy_định tại <TT rel="DC"> Thông_tư số 63/2015/TT-BTNMT ngày 21 tháng 12 năm 2015 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định về hướng_dẫn kiểm_tra , thẩm_định và nghiệm_thu công_trình , sản_phẩm đo_đạc và bản_đồ .
+
+Điều 13 . Giao_nộp kết_quả đo điểm khống_chế ảnh viễn_thám
+
+1 . Kết_quả đo khống_chế ảnh viễn_thám đo bằng công_nghệ Gns giao_nộp bao_gồm :
+
+a ) Sơ_đồ bố_trí và đo nối khống_chế ảnh viễn_thám ở dạng giấy và dạng số ;
+
+b ) Hình_ảnh đã tu chỉnh của từng điểm khống_chế ảnh viễn_thám ở tỉ_lệ lớn ở dạng giấy khổ A4 ;
+
+c ) Sổ đo Gns ;
+
+d ) Số_liệu đo khống_chế ảnh viễn_thám ở dạng trị đo nguyên_thuỷ và ở dạng Rinex ghi trên thiết_bị nhớ ;
+
+đ ) Kết_quả xử_lí khái lược và kết_quả bình_sai chính_thức ba giá_trị X , Y , Z ghi trên thiết_bị nhớ bao_gồm cả các tệp trung_gian được tạo ra trong quá_trình tính_toán bình_sai ;
+
+e ) Kết_quả đo_đạc , tính_toán và bình_sai các điểm khống_chế ảnh và điểm kiểm_tra phải là kết_quả qua kiểm_tra nghiệm_thu đã đạt tiêu_chuẩn chất_lượng , có dấu và chữ_kí của đơn_vị thi_công ở dạng giấy và dạng số bao_gồm bảy ( 07 ) bảng theo quy_định tại khoản 3 . 9 mục 3 phần Iii của <TT rel="None"> Thông_tư số 06/2009/TT </TT>- Btnmt ngày 18 tháng 6 năm 2009 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định về quy_chuẩn kĩ_thuật Quốc_gia về xây_dựng lưới toạ_độ .
+
+2 . Kết_quả đo khống_chế ảnh viễn_thám sử_dụng máy toàn đạc điện_tử hoặc máy kinh vĩ điện_tử bao_gồm :
+
+a ) Sơ_đồ bố_trí và đo nối khống_chế ảnh viễn_thám ở dạng giấy và dạng số ;
+
+b ) Hình_ảnh đã tu chỉnh của từng điểm khống_chế ảnh viễn_thám ở tỉ_lệ lớn ở dạng giấy khổ A4 ;
+
+c ) Sổ đo góc bằng , đo cạnh đường chuyền ;
+
+d ) Bảng chiều dài cạnh , phương vị cạnh và các sai_số sau bình_sai ;
+
+đ ) Bảng toạ_độ vuông_góc phẳng sau bình_sai ;
+
+e ) Kết_quả đo_đạc , tính_toán và bình_sai các điểm khống_chế ảnh và điểm kiểm_tra phải là kết_quả qua kiểm_tra nghiệm_thu đã đạt tiêu_chuẩn chất_lượng theo quy_định tại <TT rel="DC"> Thông_tư số 63/2015/TT-BTNMT ngày 21 tháng 12 năm 2015 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định về kiểm_tra , thẩm_định và nghiệm_thu chất_lượng công_trình , sản_phẩm đo_đạc và bản_đồ , bao_gồm : Sổ đo góc bằng , đo cạnh đường chuyền ; Bảng chiều dài cạnh , phương vị cạnh và các sai_số sau bình_sai ; Bảng toạ_độ vuông_góc phẳng sau bình_sai ; Sơ_đồ lưới điểm khống_chế ảnh viễn_thám .
+
+3 . Các kết_quả giao_nộp phải có tên và chữ_kí của người đo ngắm , người tính_toán và ngày_tháng năm hoàn_thành . Cuối_cùng có chữ_kí đóng_dấu của thủ_trưởng đơn_vị trực_tiếp chỉ_đạo thi_công .
+
+Chương_iii
+
+Điều_khoản Thi_hành
+
+Điều 14 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 24 tháng 7 năm 2017 .
+
+Điều 15 . Tổ_chức thực_hiện
+
+1 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ ; Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Cục Viễn_thám quốc_gia , Bộ Tài_nguyên và Môi_trường có trách_nhiệm hướng_dẫn , kiểm_tra việc thực_hiện Thông_tư này .
+
+3 . Trong quá_trình thực_hiện Thông_tư , nếu có vướng_mắc , đề_nghị các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , quyết_định . / .

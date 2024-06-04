@@ -1,0 +1,49 @@
+Thông_tư số 15/2021/tt-btttt ngày 29 tháng 10 năm 2021 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 25/2011/NĐ-CP ngày 06 tháng 4 năm 2011 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Viễn_thông ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Cục_trưởng Cục Viễn_thông ;
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư sửa_đổi , bổ_sung một_số điều của <TT rel="None"> Thông_tư số 07/2015/TT-BTTTT ngày 24 tháng 3 năm 2015 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông quy_định về kết_nối viễn_thông .
+
+Điều 1 . Sửa_đổi , bổ_sung một_số điều của <TT rel="DSD"> Thông_tư số 07/2015/TT-BTTTT ngày 24 tháng 3 năm 2015 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông quy_định về kết_nối viễn_thông :
+
+1 . Sửa_đổi , bổ_sung Mục_ii - Phụ_lục 01 như sau :
+
+Đối_với kết_nối để cung_cấp dịch_vụ viễn_thông khác ( dịch_vụ truyền dữ_liệu , dịch_vụ kết_nối Internet , v . v )
+
+A . Chỉ_tiêu xác_định nghẽn kết_nối
+
+Kết_nối được xác_định , là nghẽn khi đỉnh lưu_lượng trao_đổi cao nhất trong nhóm 95 % ( 95th Percentile ) của mỗi hướng kết_nối ( hướng đi và hướng về ) của một doanh_nghiệp tham_gia kết_nối vượt quá 90 % dung_lượng kết_nối trong 7 ngày liên_tiếp .
+
+B . Phương_pháp đánh_giá
+
+- Căn_cứ vào dung_lượng , lưu_lượng thực_tế ghi tại hệ_thống giám_sát băng_thông ( như Prtg , Cacti , Solar_winds , hoặc các ứng_dụng giám_sát khác . . ) .
+
+- Thời_gian lấy mẫu ( interval ) là 5 phút / lần .
+
+- Đỉnh lưu_lượng trao_đổi cao nhất trong nhóm 95 % : Bỏ 5 % mẫu lưu_lượng trao_đổi cao nhất và lấy mẫu lưu_lượng trao_đổi cao nhất của 95 % mẫu lưu_lượng trao_đổi còn lại trong ngày .
+
+C . Quy_trình , chỉ_tiêu
+
+Quan_trắc lưu_lượng 24 giờ / ngày , 7 ngày / tuần , liên_tục trong 30 ngày từ đó xác_định được lưu_lượng đỉnh theo từng hướng kết_nối .
+
+2 . Sửa_đổi , bổ_sung Mục_ii - Phụ_lục 03 như sau :
+
+Đối_với kết_nối để cung_cấp dịch_vụ viễn_thông khác ( dịch_vụ truyền dữ_liệu , dịch_vụ kết_nối Internet , v . v ) :
+
+Dung_lượng của mỗi hướng kết_nối của một doanh_nghiệp tham_gia kết_nối do các bên tự thoả_thuận và phải đảm_bảo không xảy ra nghẽn kết_nối ;
+
+Trong trường_hợp cần_thiết , các bên căn_cứ các chỉ tiêu chất_lượng kết_nối theo quy_định tại khoản 2 Điều 6 Thông_tư này để tính_toán dung_lượng kết_nối giữa hai bên .
+
+Điều 2 . Điều_khoản thi_hành :
+
+1 . Thông_tư này có hiệu_lực kể từ ngày 22 tháng 12 năm 2021
+
+2 . Chánh Văn_phòng , Cục_trưởng Cục Viễn_thông ; Thủ_trưởng cơ_quan , đơn_vị thuộc Bộ ; Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương ; Tổng_giám_đốc , Giám_đốc các doanh_nghiệp viễn_thông và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+3 . Trong quá_trình thi_hành nếu có vướng_mắc , tổ_chức , cá_nhân cần kịp_thời phản_ánh về Bộ Thông_tin và Truyền_thông ( Cục Viễn_thông ) để được hướng_dẫn hoặc xem_xét , giải_quyết . / .

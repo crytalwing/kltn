@@ -1,0 +1,127 @@
+Thông_tư số 33/2015/tt-btttt ngày 05 tháng 11 năm 2015 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 132/2013/NĐ-CP ngày 16 tháng 10 năm 2013 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị nhận_dạng vô_tuyến ( rfid ) băng tần từ 866 MHz đến 868 MHz .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị nhận_dạng vô_tuyến ( rfid ) băng tần từ 866 MHz đến 868 MHz ( qcvn 95 : 2015 / bt ) .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 6 năm 2016 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 95 : 2015 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Thiết_bị Nhận_dạng Vô_tuyến ( rfid ) Băng_tần Từ 866 MHz Đến 868 MHz
+
+National technical regulation on Radio Frequency Identification_equipment ( rfid ) operating in the band 866 MHz to 868 MHz
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Ký_hiệu
+
+1 . 6 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Yêu_cầu đối_với máy_phát
+
+2 . 1 . 1 . Sai_số tần_số
+
+2 . 1 . 2 . Độ ổn_định tần_số trong điều_kiện điện_áp_thấp
+
+2 . 1 . 3 . Công_suất bức_xạ hiệu_dụng
+
+2 . 1 . 4 . Mặt_nạ_phổ
+
+2 . 1 . 5 . Phát_xạ không mong_muốn trong miền phát_xạ giả
+
+2 . 1 . 6 . Thời_gian truyền
+
+2 . 2 . Yêu_cầu đối_với máy thu
+
+2 . 2 . 1 . Phát_xạ giả
+
+2 . 3 . Yêu_cầu đối_với thẻ
+
+2 . 3 . 1 . Công_suất bức_xạ hiệu_dụng
+
+2 . 3 . 2 . Phát_xạ không mong_muốn
+
+3 . Phương_pháp_đo
+
+3 . 1 . Các yêu_cầu chung
+
+3 . 1 . 1 . Yêu_cầu đối_với thiết_bị cần đo
+
+3 . 1 . 2 . Thiết_bị phụ_trợ
+
+3 . 1 . 3 . Tín_hiệu đo kiểm chuẩn và điều_chế đo_kiểm
+
+3 . 1 . 4 . Ăng ten giả
+
+3 . 1 . 5 . Hộp ghép đo
+
+3 . 1 . 6 . Vị_trí đo và bố_trí các phép đo bức_xạ
+
+3 . 1 . 7 . Các chế_độ hoạt_động của máy_phát
+
+3 . 1 . 8 . Máy thu đo
+
+3 . 2 . Điều_kiện thử_nghiệm , nguồn điện và nhiệt_độ môi_trường
+
+3 . 2 . 1 . Điều_kiện đo kiểm bình_thường
+
+3 . 2 . 2 . Điều_kiện đo kiểm tới hạn
+
+3 . 2 . 3 . Nguồn điện đo_kiểm
+
+3 . 2 . 4 . Giải_thích các kết_quả đo
+
+3 . 3 . Phương_pháp đo đối_với máy_phát
+
+3 . 3 . 1 . Sai_số tần_số
+
+3 . 3 . 2 . Độ ổn_định tần_số trong điều_kiện điện_áp_thấp
+
+3 . 3 . 3 . Công_suất bức_xạ hiệu_dụng
+
+3 . 3 . 4 . Mặt_nạ_phổ
+
+3 . 3 . 5 . Phát_xạ không mong_muốn trong miền phát_xạ giả
+
+3 . 3 . 6 . Thời_gian truyền
+
+3 . 4 . Phương_pháp đo đối_với máy thu
+
+3 . 4 . 1 . Phát_xạ giả
+
+3 . 5 . Phương_pháp đo đối_với thẻ
+
+3 . 5 . 1 . Công_suất bức_xạ hiệu_dụng
+
+3 . 5 . 2 . Phát_xạ không mong_muốn
+
+4 . Quy_định Về Quản_lý
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+6 . Tổ_chức Thực_hiện

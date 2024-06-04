@@ -1,0 +1,173 @@
+Thông_tư số 35/2020/tt-btttt ngày 06 tháng 11 năm 2020 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều Luật tiêu_chuẩn và quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị truyền dữ_liệu băng rộng hoạt_động trong băng tần 2 , 4 GHz .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị truyền dữ_liệu băng rộng hoạt_động trong băng tần 2 , 4 GHz ( qcvn 54 : 2020 / bt ) .
+
+Điều 2 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2021 .
+
+2 . Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị thu phát vô_tuyến sử_dụng kĩ_thuật điều_chế trải phổ trong băng tần 2 , 4 GHz , kí_hiệu Qcvn 54 : 2011 / bt quy_định tại khoản 14 Điều 1 Thông_tư số 29/2011/TT-BTTTT ngày 26 tháng 10 năm 2011 của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_chuẩn kĩ_thuật quốc_gia về viễn_thông hết hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2021 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 54 : 2020 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia
+
+Về Thiết_bị Truyền Dữ_liệu Băng Rộng Hoạt_động Trong Băng_tần 2 , 4 GHz
+
+National technical regulation
+
+on wideband data transmission equipment operating in the 2 , 4 GHz band
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Ký_hiệu
+
+1 . 6 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Điều_kiện môi_trường hoạt_động
+
+2 . 2 . Phân_loại thiết_bị
+
+2 . 2 . 1 . Phân_loại thiết_bị truyền dữ_liệu băng rộng
+
+2 . 2 . 2 . Thiết_bị thích_nghi và không thích_nghi
+
+2 . 2 . 3 . Phân_loại máy thu
+
+2 . 2 . 4 . Phân_loại ăng ten
+
+2 . 3 . Yêu_cầu kĩ_thuật
+
+2 . 3 . 1 . Yêu_cầu kĩ_thuật đối_với thiết_bị nhảy tần ( Thiết_bị Fhss )
+
+2 . 3 . 1 . 1 . Quy_định chung
+
+2 . 3 . 1 . 2 . Công_suất phát Rf
+
+2 . 3 . 1 . 3 . Chu_kì làm_việc , chuỗi phát , khoảng ngừng phát
+
+2 . 3 . 1 . 4 . Thời_gian truyền tích_luỹ , chuỗi nhảy tần và chiếm_giữ tần_số
+
+2 . 3 . 1 . 5 . Khoảng nhảy tần
+
+2 . 3 . 1 . 6 . Hệ_số sử_dụng môi_trường
+
+2 . 3 . 1 . 7 . Khả_năng thích_nghi của thiết_bị Fhss thích_nghi
+
+2 . 3 . 1 . 8 . Băng_thông kênh chiếm_dụng
+
+2 . 3 . 1 . 9 . Phát_xạ không mong_muốn của máy phát trong miền ngoài băng
+
+2 . 3 . 1 . 10 . Phát_xạ không mong_muốn của máy phát trong miền giả
+
+2 . 3 . 1 . 11 . Phát_xạ giả của máy thu
+
+2 . 3 . 1 . 12 . Đặc_tính chặn của máy thu
+
+2 . 3 . 1 . 13 . Khả_năng định_vị vị_trí địa_lí
+
+2 . 3 . 2 . Yêu_cầu kĩ_thuật đối_với thiết_bị truyền dữ_liệu băng rộng khác ( thiết_bị khác Fhss ) . .
+
+2 . 3 . 2 . 1 . Quy_định chung
+
+2 . 3 . 2 . 2 . Công_suất phát Rf
+
+2 . 3 . 2 . 3 . Mật_độ phổ công_suất
+
+2 . 3 . 2 . 4 . Chu_kì làm_việc , chuỗi phát , khoảng ngừng phát
+
+2 . 3 . 2 . 5 . Hệ_số sử_dụng môi_trường
+
+2 . 3 . 2 . 6 . Khả_năng thích_nghi của thiết_bị khác Fhss
+
+2 . 3 . 2 . 7 . Băng_thông kênh chiếm_dụng
+
+2 . 3 . 2 . 8 . Phát_xạ không mong_muốn của máy phát trong miền ngoài băng
+
+2 . 3 . 2 . 9 . Phát_xạ không mong_muốn của máy phát trong miền giả
+
+2 . 3 . 2 . 10 . Phát_xạ giả của máy thu
+
+2 . 3 . 2 . 11 . Đặc_tính chặn của máy thu
+
+2 . 3 . 2 . 12 . Khả_năng định_vị vị_trí địa_lí
+
+3 . Phương_pháp_đo
+
+3 . 1 . Các điều_kiện đo_kiểm
+
+3 . 1 . 1 . Quy_định chung
+
+3 . 1 . 2 . Các điều_kiện đo kiểm bình_thường
+
+3 . 1 . 3 . Các điều_kiện đo kiểm tới hạn
+
+3 . 2 . Điều_kiện đo kiểm khác
+
+3 . 2 . 1 . Chế_độ đo_kiểm
+
+3 . 2 . 2 . Ăng ten và các chế_độ phát
+
+3 . 2 . 3 . Thiết_bị thích_nghi và không thích_nghi
+
+3 . 2 . 4 . Tổng_quan về thiết_bị được đo_kiểm
+
+3 . 2 . 5 . Các phép đo dẫn , đo bức_xạ và các phép đo tương_đối
+
+3 . 3 . Phương_pháp đo_kiểm
+
+3 . 3 . 1 . Thông_tin về sản_phẩm
+
+3 . 3 . 2 . Công_suất phát Rf , chu_kì làm_việc , chuỗi phát , khoảng ngừng phát , sử_dụng môi_trường
+
+3 . 3 . 3 . Mật_độ phổ công_suất
+
+3 . 3 . 4 . Thời_gian truyền tích_luỹ , chuỗi nhảy tần và chiếm_giữ tần_số
+
+3 . 3 . 5 . Khoảng nhảy tần
+
+3 . 3 . 6 . Khả_năng thích_nghi ( Cơ_chế truy_nhập kênh )
+
+3 . 3 . 7 . Băng_thông kênh chiếm_dụng
+
+3 . 3 . 8 . Phát_xạ không mong_muốn của máy phát trong miền ngoài băng
+
+3 . 3 . 9 . Phát_xạ không mong_muốn của máy phát trong miền giả
+
+3 . 3 . 10 . Phát_xạ giả của máy thu
+
+3 . 3 . 11 . Đặc_tính chặn của máy thu
+
+4 . Quy_định Về Quản_lý
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+6 . Tổ_chức Thực_hiện

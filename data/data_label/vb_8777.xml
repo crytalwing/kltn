@@ -1,0 +1,75 @@
+Thông_tư số 26/2016/tt-btttt ngày 07 tháng 12 năm 2016 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 132/2013/NĐ-CP ngày 16 tháng 10 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về tiếp đất cho các trạm viễn_thông .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về tiếp đất cho các trạm viễn_thông ( qcvn 9 : 2016 / bt ) .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 5 năm 2017 . Quy_chuẩn kĩ_thuật quốc_gia về tiếp đất cho các trạm viễn_thông , Ký_hiệu Qcvn 9 : 2010 / bt quy_định tại Khoản 8 Điều 1 <TT rel="HHL"> Thông_tư số 18/2010/TT-BTTTT ngày 30 tháng 7 năm 2010 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_chuẩn kĩ_thuật quốc_gia về viễn_thông hết hiệu_lực pháp_luật kể từ ngày Thông_tư này có hiệu_lực thi_hành .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 9 : 2016 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Tiếp Đất Cho Các Trạm Viễn_thông
+
+National technical regulation on earthing for telecommunications stations
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Hệ_thống tiếp đất
+
+2 . 1 . 1 . Tổ_tiếp đất
+
+2 . 1 . 2 . Tấm tiếp đất chính
+
+2 . 1 . 3 . Cáp tiếp đất
+
+2 . 2 . Cấu_hình kết_nối
+
+2 . 2 . 1 . Mạng_cbn bên trong trạm viễn_thông
+
+2 . 2 . 2 . Mạng liên_kết trong hệ_thống_thiết_bị viễn_thông
+
+2 . 2 . 3 . Kết_nối_mạng Cbn và các mạng Mesh - Bn
+
+2 . 2 . 4 . Cáp kết_nối giữa các mạng Mesh - Bn
+
+2 . 3 . Tiếp đất đối_với hệ_thống phân_phối điện
+
+2 . 3 . 1 . Phân_phối điện Dc của nguồn thứ cấp
+
+2 . 3 . 2 . Phân_phối điện Dc của nguồn cấp ba
+
+2 . 3 . 3 . Phân_phối nguồn điện_lưới Ac và kết_nối dây bảo_vệ
+
+2 . 3 . 4 . Phân_phối điện Ac từ nguồn điện cấp ba
+
+3 . Quy_định Về Quản_lý
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+5 . Tổ_chức Thực_hiện

@@ -1,0 +1,477 @@
+Thông_tư số 16/2022/tt-btnmt ngày 13 tháng 11 năm 2022 của bộ tài_nguyên và môi_trường
+
+Căn_cứ Luật Đo_đạc và bản_đồ ngày 14 tháng 6 năm 2018 ;
+
+Căn_cứ Nghị_định số 27/2019/NĐ-CP ngày 13 tháng 3 năm 2019 của Chính_phủ quy_định chi_tiết một_số điều của Luật Đo_đạc và bản_đồ ; Nghị_định số 136/2021/NĐ-CP ngày 31 tháng 12 năm 2021 của Chính_phủ quy_định sửa_đổi , bổ_sung một_số điều của Nghị_định số 27/2019/NĐ-CP ngày 13 tháng 3 năm 2019 của Chính_phủ quy_định chi_tiết một_số điều của Luật Đo_đạc và bản_đồ ;
+
+Căn_cứ Nghị_định số 68/2022/NĐ-CP ngày 22 tháng 9 năm 2022 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Cục_trưởng Cục Đo_đạc , Bản_đồ và Thông_tin địa_lí Việt_nam , Vụ_trưởng Vụ Kế_hoạch - Tài_chính và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư ban_hành Định_mức kinh_tế - kĩ_thuật thu_nhận và xử_lí dữ_liệu ảnh số từ tàu_bay không người lái phục_vụ xây_dựng , cập_nhật cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2000 , 1 : 5000 và thành_lập bản_đồ địa_hình tỉ_lệ 1 : 500 , 1 : 1000 .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Định_mức kinh_tế - kĩ_thuật thu_nhận và xử_lí dữ_liệu ảnh số từ tàu_bay không người lái phục_vụ xây_dựng , cập_nhật cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2000 , 1 : 5000 và thành_lập bản_đồ địa_hình tỉ_lệ 1 : 500 , 1 : 1000 .
+
+Điều 2 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 30 tháng 12 năm 2022 .
+
+Điều 3 . Tổ_chức thực_hiện
+
+1 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương , Thủ_trưởng các đơn_vị trực_thuộc Bộ Tài_nguyên và Môi_trường , Sở Tài_nguyên và Môi_trường các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Trong quá_trình tổ_chức thực_hiện , nếu có khó_khăn , vướng_mắc , đề_nghị các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , Quyết_định . / .
+
+Định_mức Kinh_tế - Kỹ_thuật Thu_nhận Và Xử_lý Dữ_liệu Ảnh Số Từ Tàu_bay Không Người Lái Phục_vụ Xây_dựng , Cập_nhật Cơ_sở Dữ_liệu Nền Địa_lý Quốc_gia_tỷ_lệ 1 : 2000 , 1 : 5000 Và Thành_lập Bản_đồ Địa_hình Tỷ_lệ 1 : 500 , 1 : 1000
+
+( Ban_hành kèm theo Thông_tư số : / 2022 / t - btnmt ngày_tháng năm 2022 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường )
+
+Phần_i
+
+Quy_định Chung
+
+1 . Phạm_vi điều_chỉnh
+
+Định_mức kinh_tế - kĩ_thuật thu_nhận và xử_lí dữ_liệu ảnh số từ tàu_bay không người lái phục_vụ xây_dựng , cập_nhật cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2000 , 1 : 5000 và thành_lập bản_đồ địa_hình tỉ_lệ 1 : 500 , 1 : 1000 được áp_dụng cho các bước công_việc sau :
+
+1 . 1 . Thu_nhận dữ_liệu ảnh số
+
+a ) Đo nối trạm cố_định , điểm khống_chế ảnh và điểm kiểm_tra ;
+
+b ) Tổ_chức bay chụp ảnh .
+
+1 . 2 . Xử_lí dữ_liệu ảnh số
+
+a ) Xử_lí dữ_liệu sau bay chụp ;
+
+b ) Bình_sai khối ảnh ;
+
+c ) Tạo đám mây điểm ;
+
+d ) Thành_lập mô_hình số bề_mặt ;
+
+đ ) Thành_lập bình_đồ ảnh ;
+
+e ) Thành_lập mô_hình số độ cao .
+
+2 . Đối_tượng áp_dụng
+
+Định_mức kinh_tế - kĩ_thuật này được áp_dụng đối_với cơ_quan nhà_nước , tổ_chức và cá_nhân có liên_quan đến việc thu_nhận và xử_lí dữ_liệu ảnh số từ tàu_bay không người lái phục_vụ xây_dựng , cập_nhật cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2000 , 1 : 5000 và thành_lập bản_đồ địa_hình tỉ_lệ 1 : 500 , 1 : 1000 và được sử_dụng để tính đơn_giá sản_phẩm , làm căn_cứ lập dự_toán và quyết_toán giá_trị sản_phẩm hoàn_thành của các dự_án , công_trình và nhiệm_vụ về thu_nhận và xử_lí dữ_liệu ảnh số từ tàu_bay không người lái phục_vụ xây_dựng , cập_nhật cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2000 , 1 : 5000 và thành_lập bản_đồ địa_hình tỉ_lệ 1 : 500 , 1 : 1000 do các cơ_quan , tổ_chức và cá_nhân thực_hiện .
+
+3 . Căn_cứ xây_dựng định_mức
+
+- Thông_tư liên_tịch số 57/2015/TTLT-BTNMT-BNV ngày 08 tháng 12 năm 2015 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường , Bộ_trưởng Bộ Nội_vụ quy_định mã_số và tiêu_chuẩn chức_danh nghề_nghiệp viên_chức chuyên_ngành đo_đạc bản_đồ ( đã được sửa_đổi , bổ_sung tại Thông_tư số 12/2022/TT-BTNMT ngày 24 tháng 10 năm 2022 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường sửa_đổi , bổ_sung một_số quy_định về tiêu_chuẩn chức_danh nghề_nghiệp viên_chức ngành tài_nguyên và môi_trường ) ;
+
+- Thông_tư số 16/2021/TT-BTNMT ngày 27 tháng 9 năm 2021 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định xây_dựng định mức kinh_tế - kĩ_thuật thuộc phạm_vi quản_lí nhà_nước của Bộ Tài_nguyên và Môi_trường ;
+
+- Thông_tư số 07/2021/TT-BTNMT ngày 30 tháng 6 năm 2021 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định kĩ_thuật thu_nhận và xử_lí dữ_liệu ảnh số từ tàu_bay không người lái phục_vụ xây_dựng , cập_nhật cơ_sở dữ_liệu nền địa_lí quốc_gia tỉ_lệ 1 : 2000 , 1 : 5000 và thành_lập bản_đồ địa_hình tỉ_lệ 1 : 500 , 1 : 1000 ;
+
+- Thông_tư số 14/2019/TT-BTNMT ngày 16 tháng 8 năm 2019 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Định_mức kinh_tế - kĩ_thuật đo_đạc trực_tiếp phục_vụ thành_lập bản_đồ địa_hình tỉ_lệ 1 : 500 , 1 : 1000 và bản_đồ địa_hình quốc_gia tỉ_lệ 1 : 2000 , 1 : 5000 ;
+
+- Trang_thiết_bị kĩ_thuật sử_dụng phổ_biến trong công_tác đo_đạc , bản_đồ và thông_tin địa_lí theo quy_định ;
+
+- Quy_định hiện_hành của Nhà_nước về quản_lý , sử_dụng công_cụ lao_động ( dụng_cụ , thiết_bị , máy_móc ) và bảo_hộ lao_động cho người sản_xuất ;
+
+- Tổ_chức sản_xuất , trình_độ lao_động công_nghệ của người lao_động trong Ngành đo_đạc và bản_đồ theo quy_định .
+
+4 . Quy_định viết tắt
+
+Bảng_số 01
+
+5 . Quy_định về sử_dụng định_mức
+
+5 . 1 . Định_mức lao_động là hao_phí thời_gian_lao_động cần_thiết của người lao_động trực_tiếp sản_xuất ra một sản_phẩm ( hoặc thực_hiện một bước công_việc hoặc một công_việc cụ_thể ) và thời_gian nghỉ được hưởng nguyên lương theo quy_định của pháp_luật hiện_hành . Định_mức lao_động quy_định trong Phần_ii của định mức kinh_tế - kĩ_thuật này chưa bao_gồm mức hao_phí thời_gian nghỉ được hưởng nguyên lương đối_với lao_động trực_tiếp và hệ_số điều_chỉnh thời_tiết .
+
+5 . 2 . Quy_định về mức hao_phí thời_gian nghỉ được hưởng nguyên lương đối_với lao_động trực_tiếp
+
+Thời_gian nghỉ được hưởng nguyên lương đối_với lao_động trực_tiếp , bao_gồm : nghỉ_phép , nghỉ tăng thêm theo thâm_niên ( nếu có ) , nghỉ lễ tết , nghỉ hội_họp , học_tập , tập_huấn được tính là 34 ngày trên tổng_số 312 ngày làm_việc của một ( 01 ) năm .
+
+Mức hao_phí thời_gian nghỉ được hưởng nguyên lương được áp_dụng đối_với tất_cả các bước công_việc .
+
+5 . 3 . Hệ_số điều_chỉnh thời_tiết : Mức lao_động kĩ_thuật khi phải ngừng_nghỉ_việc do thời_tiết của lao_động kĩ_thuật ngoại nghiệp được tính bằng 25 % so với mức lao_động kĩ_thuật ngoại nghiệp quy_định trong nội_dung định mức này .
+
+6 . Các quy_định khác
+
+6 . 1 . Phương_pháp xây_dựng định mức kinh_tế - kĩ_thuật
+
+a ) Định_mức lao_động và Định_mức tiêu_hao vật_liệu : theo các phương_pháp tại Điều 22 Thông_tư số 16/2021/TT-BTNMT ngày 27 tháng 9 năm 2021 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định xây_dựng định mức kinh_tế - kĩ_thuật thuộc phạm_vi quản_lí nhà_nước của Bộ Tài_nguyên và Môi_trường ;
+
+b ) Định_mức dụng_cụ lao_động và Định_mức sử_dụng máy_móc , thiết_bị : định_mức được tính_toán tương_ứng với định mức lao_động ;
+
+c ) Định_mức tiêu_hao năng_lượng : định_mức điện_năng tính_toán theo thời_gian sử_dụng dụng_cụ ( mức dụng_cụ lao_động ) , máy_móc và thiết_bị ( mức sử_dụng máy_móc , thiết_bị ) dùng điện và công_suất của dụng_cụ , thiết_bị dùng điện .
+
+Mức Điện_năng dụng_cụ = Mức_dụng_cụ * ( Công_suất tiêu_hao ) * 8 * 1 , 05
+
+Mức Điện_năng thiết_bị = Mức thiết_bị * ( Công_suất tiêu_hao ) * 8 * 1 , 05
+
+d ) Định_mức tiêu_hao nhiên_liệu : định mức xăng ô_tô tính_toán theo quãng đường di_chuyển và mức tiêu_hao xăng cho 100 km .
+
+Mức Xăng_ô_tô = ( Công_suất tiêu_hao xăng cho 100 km ) * Quãng đường ( quy về 100 km ) .
+
+6 . 2 . Quy_định diện_tích phủ 01 ca bay theo độ phân_giải ảnh
+
+Diện_tích phủ 01 ca bay theo độ phân_giải ảnh quy_định trong Bảng_số 02 :
+
+Bảng_số 02
+
+6 . 3 . Quy_định độ phân_giải ảnh tương_ứng với tỉ_lệ bản_đồ và khoảng cao đều đường bình độ cơ_bản
+
+Độ phân_giải ảnh tương_ứng với tỉ_lệ bản_đồ và khoảng cao đều đường bình độ cơ_bản quy_định trong Bảng_số 03 :
+
+Bảng_số 03
+
+6 . 4 . Quy_định diện_tích mảnh bản_đồ
+
+Diện_tích thực_địa của mảnh bản_đồ theo quy_định chia mảnh trong hệ Vn - 2000 quy_định trong Bảng_số 04 :
+
+Bảng_số 04
+
+Phần_ii
+
+Định_mức Kinh_tế - Kỹ_thuật
+
+1 . Thu_nhận dữ_liệu ảnh số
+
+1 . 1 . Định_mức lao_động
+
+1 . 1 . 1 . Nội_dung công_việc
+
+1 . 1 . 1 . 1 . Đo nối trạm cố_định , điểm khống_chế ảnh và điểm kiểm_tra
+
+a ) Đo nối trạm cố_định
+
+- Tiếp_điểm ( Tìm điểm gốc ) : Chuẩn_bị vật_tư , tài_liệu , máy_móc , sổ_sách , dụng_cụ . Tìm điểm ( toạ_độ , độ cao ) tại thực_địa , kiểm_tra , chỉnh_lí ghi_chú điểm . Thông hướng và di_chuyển .
+
+- Chọn điểm :
+
++ Chuẩn_bị phục_vụ công_việc ;
+
++ Xác_định vị_trí điểm , thông hướng ;
+
++ Vẽ ghi_chú điểm .
+
+- Đo ngắm và tính_toán toạ_độ , độ cao :
+
++ Đo ngắm và tính_toán toạ_độ , độ cao bằng công_nghệ Gns :
+
+Chuẩn_bị vật_tư , tài_liệu , kiểm_nghiệm thiết_bị ;
+
+Đo ngắm bằng công_nghệ Gns ;
+
+Tính_toán kết_quả .
+
++ Đo ngắm và tính_toán toạ_độ , độ cao bằng phương_pháp toàn đạc điện_tử :
+
+Chuẩn_bị vật_tư , tài_liệu , kiểm_nghiệm thiết_bị ;
+
+Đo ngắm bằng phương_pháp toàn đạc điện_tử ;
+
+Tính_toán kết_quả .
+
+b ) Đo nối điểm khống_chế ảnh và điểm kiểm_tra
+
+- Chọn điểm :
+
++ Xác_định điểm khống_chế trong khu bay tại thực_địa ;
+
++ Đóng cọc hoặc rải tiêu khống_chế ;
+
++ Vẽ sơ_đồ vị_trí điểm khống_chế ảnh và điểm kiểm_tra ;
+
++ Chụp ảnh tại thực_địa_vị_trí điểm khống_chế ảnh và điểm kiểm_tra .
+
+- Đo ngắm và tính_toán toạ_độ , độ cao :
+
++ Đo ngắm và tính_toán toạ_độ , độ cao bằng công_nghệ Gns :
+
+Chuẩn_bị vật_tư , tài_liệu , kiểm_nghiệm thiết_bị ;
+
+Đo ngắm bằng công_nghệ Gns ;
+
+Tính_toán kết_quả .
+
++ Đo ngắm và tính_toán toạ_độ , độ cao bằng phương_pháp toàn đạc điện_tử :
+
+Chuẩn_bị vật_tư , tài_liệu , kiểm_nghiệm thiết_bị ;
+
+Đo ngắm bằng phương_pháp toàn đạc điện_tử ;
+
+Tính_toán kết_quả .
+
+1 . 1 . 1 . 2 . Tổ_chức bay chụp ảnh
+
+- Bay chụp ảnh Uav :
+
++ Công_tác chuẩn_bị bay chụp : Kiểm_tra tình_trạng hoạt_động của Uav , máy chụp ảnh , Gns , thiết_bị điều_khiển mặt_đất và các thiết_bị khác kèm theo ;
+
++ Thực_hiện bay chụp ảnh Uav : Giám_sát hoạt_động của Uav và các thiết_bị . Trường_hợp không đảm_bảo bay chụp ( do thời_tiết , do thiết_bị hoạt_động không ổn_định ) thì dừng bay và điều_khiển Uav về vị_trí xuất_phát ;
+
++ Sao lưu dữ_liệu thu_nhận Uav , kiểm_tra và đánh_giá sơ_bộ dữ_liệu .
+
+- Đo Gns tại trạm cố_định :
+
+Sử_dụng máy thu Gns đa tần_số , thu tín_hiệu trong suốt quá_trình bay chụp Uav .
+
+1 . 1 . 2 . Phân_loại khó_khăn
+
+1 . 1 . 2 . 1 . Đo nối trạm cố_định , điểm khống_chế ảnh và điểm kiểm_tra
+
+Loại 1 : vùng đồng_bằng quang_đãng ; vùng đồng_cỏ , đồi thấp , thoải , ít ruộng bậc_thang , khe hẻm , vùng trung_du có địa_hình lượn sóng , đôi chỗ bị chia_cắt bởi khe , suối , thực_phủ thoáng , đều ; vùng bãi sông , bãi bồi , sú vẹt mọc thành khu_vực rõ_rệt ; vùng nông_thôn có cấu_trúc đơn_giản , ranh_giới rõ_rệt , ít địa_vật , dân_cư chiếm dưới 40 % diện_tích vùng .
+
+Loại 2 : vùng đồng_bằng , vùng thị_trấn nhỏ có địa_hình , địa_vật không phức_tạp ; vùng trung_du , đồi san_sát , thực_phủ là vùng cây nhân_tạo , tầm nhìn thoáng ; vùng bãi sông , bãi bồi , thực_vật mọc không thành bãi ; dân_cư chiếm dưới 60 % diện_tích vùng .
+
+Loại 3 : khu_vực dân_cư dày_đặc , kiểu thành_phố nhỏ ; khu_vực thị_xã , nhà_cửa san_sát , ranh_giới địa_hình , địa_vật phức_tạp ; vùng núi thấp , độ dốc tương_đối lớn , địa_hình bị chia_cắt nham_nhở , đi_lại rất khó_khăn ; vùng đồng lầy có nhiều bụi cây , bụi gai ; dân_cư chiếm dưới 80 % diện_tích vùng .
+
+Loại 4 : khu_vực thành_phố lớn , nhà_cửa dày_đặc ; khu_vực rừng rậm , khó đi_lại ; vùng_biên_giới , hải_đảo .
+
+1 . 1 . 2 . 2 . Tổ_chức bay chụp ảnh
+
+Không phân_loại khó_khăn .
+
+1 . 1 . 3 . Định_biên
+
+Bảng_số 05
+
+1 . 1 . 4 . Định_mức
+
+Bảng_số 06
+
+1 . 2 . Định_mức dụng_cụ lao_động
+
+1 . 2 . 1 . Đo nối trạm cố_định , điểm khống_chế ảnh và điểm kiểm_tra
+
+Bảng_số 07
+
+Ghi_chú : Mức cho từng trường_hợp tính theo hệ_số quy_định trong Bảng_số 08 đối_với mức quy_định tại Bảng_số 07 :
+
+Bảng_số 08
+
+1 . 2 . 2 . Tổ_chức bay chụp ảnh : ca / km2
+
+Bảng_số 09
+
+Ghi_chú : Mức cho từng trường_hợp tính theo hệ_số quy_định trong Bảng_số 10 đối_với mức quy_định tại Bảng_số 09 :
+
+Bảng_số 10
+
+1 . 3 . Định_mức sử_dụng máy_móc , thiết_bị
+
+1 . 3 . 1 . Đo nối trạm cố_định , điểm Kca và điểm kiểm_tra
+
+Bảng_số 11
+
+1 . 3 . 2 . Tổ_chức bay chụp ảnh
+
+Bảng_số 12
+
+Ghi_chú : Mức cho từng trường_hợp ( độ phân_giải ảnh ) tính theo hệ_số quy_định trong Bảng_số 10 đối_với mức quy_định tại Bảng_số 12 .
+
+1 . 4 . Định_mức tiêu_hao vật_liệu
+
+1 . 4 . 1 . Đo nối trạm cố_định , điểm khống_chế ảnh và điểm kiểm_tra
+
+1 . 4 . 1 . 1 . Đo nối trạm cố_định : Tính cho 01 đơn_vị sản_phẩm ( 01 điểm )
+
+Bảng_số 13
+
+Ghi_chú : Mức quy_định như nhau cho các loại khó_khăn .
+
+1 . 4 . 1 . 2 . Đo nối điểm khống_chế ảnh và điểm kiểm_tra : Tính cho 01 đơn_vị sản_phẩm ( 01 điểm )
+
+Bảng_số 14
+
+Ghi_chú : Mức quy_định như nhau cho các loại khó_khăn .
+
+1 . 4 . 2 . Tổ_chức bay chụp : Tính cho 01 km2
+
+Bảng_số 15
+
+Ghi_chú : Mức cho từng trường_hợp ( độ phân_giải ảnh ) tính theo hệ_số quy_định trong Bảng_số 10 đối_với mức quy_định tại Bảng_số 15 .
+
+1 . 5 . Định_mức tiêu_hao năng_lượng
+
+Mức điện_năng ( kW / đơn_vị sản_phẩm ) cho các dụng_cụ và thiết_bị quy_định cho từng bước công_việc trong Bảng_số 16 :
+
+Bảng_số 16
+
+Ghi_chú : Mức điện_năng cho các loại khó_khăn khác nhau là như nhau .
+
+1 . 6 . Định_mức tiêu_hao nhiên_liệu
+
+Mức xăng ( lít ) cho ô_tô quy_định cho từng bước công_việc trong Bảng_số 17 :
+
+Bảng_số 17
+
+2 . Xử_lí dữ_liệu ảnh số
+
+2 . 1 . Định_mức lao_động
+
+2 . 1 . 1 . Nội_dung công_việc
+
+2 . 1 . 1 . 1 . Xử_lí dữ_liệu sau bay chụp
+
+a ) Sao lưu dữ_liệu ảnh gốc từ máy_ảnh , dữ_liệu đo Gns từ trạm cố_định và dữ_liệu thu Gns từ Uav ;
+
+b ) Tính_toán xác_định toạ_độ tâm chụp và các nguyên_tố định_hướng ảnh ;
+
+c ) Kiểm_tra chất_lượng dữ_liệu sau bay chụp
+
+- Kiểm_tra khái_quát các điều_kiện bay chụp ;
+
+- Kiểm_tra độ chờm ảnh ra biên các phân khu hoặc tiếp biên với các khu khác ;
+
+- Kiểm_tra độ phủ dọc , độ phủ ngang của ảnh ;
+
+- Kiểm_tra chất_lượng ảnh chụp , đánh_giá chất_lượng của các điểm khống_chế ảnh , điểm kiểm_tra .
+
+2 . 1 . 1 . 2 . Bình_sai khối ảnh
+
+a ) Tạo_lập môi_trường làm_việc ( lập Project ) :
+
+- Lập project cho khối ảnh , đặt tên theo khu bay chụp , chọn vị_trí lưu dữ_liệu ảnh , thiết_lập cơ_sở toán_học theo quy_định ;
+
+- Nhập dữ_liệu ảnh gốc ;
+
+- Nhập toạ_độ tâm ảnh và các nguyên_tố định_hướng ảnh ;
+
+- Nhập toạ_độ , độ cao_điểm khống_chế ảnh , điểm kiểm_tra ;
+
+- Nhập thông_số máy_ảnh .
+
+b ) Bình_sai khối ảnh
+
+- Chọn , đo điểm khống_chế ảnh , điểm kiểm_tra ;
+
+- Liên_kết , bình_sai khối ảnh .
+
+c ) Đánh_giá chất_lượng bình_sai khối ảnh .
+
+2 . 1 . 1 . 3 . Tạo đám mây_điểm
+
+- Tạo đám mây điểm dày_đặc từ kết_quả khối ảnh đã được tính_toán bình_sai và rà_soát , loại_bỏ các điểm có giá_trị độ cao đột_biến so với khu_vực xung_quanh ;
+
+- Thực_hiện tiếp biên đám mây điểm giữa các khối ảnh liền kề .
+
+2 . 1 . 1 . 4 . Thành_lập mô_hình số bề_mặt
+
+- Lập mô_hình số bề_mặt Dsm cho khu bay . Thiết_lập kích_thước ô lưới của Dsm theo tỉ_lệ bản_đồ cần thành_lập ;
+
+- Biên_tập , cắt mô_hình số bề_mặt theo dạng hình chữ_nhật phủ chờm 1cm ra ngoài khung trong của mảnh bản_đồ cần thành_lập .
+
+2 . 1 . 1 . 5 . Thành_lập bình_đồ ảnh
+
+- Sử_dụng mô_hình số bề_mặt và ảnh gốc để thành_lập bình_đồ ảnh theo khối ảnh ;
+
+- Tiếp_biên giữa các khối ảnh liền kề theo địa_vật cùng tên trên bình_đồ ảnh ;
+
+- Cắt , chia mảnh bình_đồ ảnh theo dạng hình chữ_nhật phủ chờm 1 cm ra ngoài khung trong của mảnh bản_đồ cần thành_lập .
+
+2 . 1 . 1 . 6 . Thành_lập mô_hình số độ cao
+
+a ) Thành_lập mô_hình số độ cao Dem
+
+- Sử_dụng dữ_liệu đầu_vào ( Đám mây điểm , Bình_đồ ảnh ) tiến_hành phân_loại , khoanh vùng địa_hình , địa_vật , thực_phủ , mặt_nước , xác_định các khu_vực phải đo vẽ bổ_sung ngoại nghiệp độ cao địa_hình ;
+
+- Xác_định bề_mặt mặt_đất , tiến_hành lọc bỏ các đối_tượng nằm phía trên mặt_đất từ dữ_liệu đám mây điểm ;
+
+- Nội suy độ cao mặt_đất tại các khu_vực đã được lọc bỏ từ các điểm độ cao xung_quanh ; tạo Dem sơ_bộ cho toàn_bộ khu bay ;
+
+- Sử_dụng bình_đồ ảnh , Dsm , dữ_liệu số_hoá mặt_nước , dữ_liệu đo vẽ bổ_sung ngoại nghiệp độ cao địa_hình tiến_hành chuẩn_hoá , hiệu_chỉnh Dem sơ_bộ ; tạo Dem cho toàn_bộ khu bay .
+
+b ) Biên_tập , cắt sản_phẩm Dem theo hình chữ_nhật chờm phủ 1 cm ra ngoài khung trong của mảnh bản_đồ .
+
+c ) Kiểm_tra , đánh_giá chất_lượng
+
+- Kiểm_tra , đánh_giá độ chính_xác , độ phù_hợp giữa Dem với bình_đồ ảnh và các dữ_liệu phân_loại , lọc điểm ;
+
+- Đo kiểm_tra , đánh_giá độ chính_xác về độ cao của Dem tại thực_địa .
+
+2 . 1 . 2 . Phân_loại khó_khăn
+
+Loại 1 : vùng đồng_bằng có dân_cư thưa_thớt , địa_vật đơn_giản ; vùng đồi núi thấp có ít thực_phủ , dân_cư thưa .
+
+Loại 2 : vùng đồng_bằng có dân_cư tương_đối đông_đúc ; các thị_trấn ; vùng đồi núi xen_kẽ .
+
+Loại 3 : vùng đồng_bằng dân_cư đông_đúc ; khu_vực đô_thị , các khu công_nghiệp có địa_vật phức_tạp , dày_đặc , nhiều nhà cao_tầng ; vùng núi cao có phủ thực_vật dày_đặc .
+
+2 . 1 . 3 . Định biên : 01 Đđbđv_iii . 3
+
+2 . 1 . 4 . Định_mức : công / mảnh
+
+Bảng_số 18
+
+Ghi_chú :
+
+( 1 ) Mức cho các bước công_việc chi_tiết tính theo hệ_số quy_định trong Bảng_số 19 đối_với mức quy_định tại Bảng_số 18 :
+
+Bảng_số 19
+
+( 2 ) Mức trong Bảng_số 18 quy_định cho 01 mảnh bản_đồ địa_hình ( công_việc 1 và 2 ) và 01 mảnh Csdlnđlqg ( công_việc 3 và 4 ) . Mức cho 01 km2 tính theo công_thức dưới :
+
+M ( km2 ) = M ( mảnh ) / S ( mảnh )
+
+Trong đó :
+
++ M ( km2 ) là mức tính theo đơn_vị tính km2
+
++ M ( mảnh ) là mức tính theo đơn_vị tính mảnh bản_đồ , Csdlnđlqg
+
++ S ( mảnh ) là diện_tích thực_địa của mảnh bản_đồ , Csdlnđlqg theo quy_định tại Bảng_số 04 .
+
+2 . 2 . Định_mức dụng_cụ lao_động : ca / mảnh
+
+Bảng_số 20
+
+Ghi_chú :
+
+( 1 ) Mức cho từng loại tỉ_lệ tính theo hệ_số quy_định trong Bảng_số 21 đối_với mức quy_định tại Bảng_số 20 :
+
+Bảng_số 21
+
+( 2 ) Mức cho các bước công_việc chi_tiết tính theo hệ_số quy_định trong Bảng_số 19 đối_với mức quy_định tại Bảng_số 21 ;
+
+( 3 ) Mức cho đơn_vị tính km2 theo quy_định tại ghi_chú ( 2 ) Bảng_số 18 .
+
+2 . 3 . Định_mức sử_dụng máy_móc , thiết_bị : ca / mảnh
+
+Bảng_số 22
+
+Ghi_chú :
+
+( 1 ) Mức cho từng tỉ_lệ tính theo hệ_số quy_định trong Bảng_số 21 đối_với mức quy_định tại Bảng_số 22 ;
+
+( 2 ) Mức cho các bước công_việc chi_tiết tính theo hệ_số quy_định trong Bảng_số 19 đối_với mức quy_định tại ghi_chú ( 1 ) trên ;
+
+( 3 ) Mức cho đơn_vị tính km2 theo quy_định tại ghi_chú ( 2 ) Bảng_số 18 .
+
+2 . 4 . Định_mức tiêu_hao vật_liệu : Tính cho 01 mảnh
+
+Bảng_số 23
+
+Ghi_chú :
+
+( 1 ) Mức trong Bảng_số 23 quy_định cho mảnh 1 : 2000 . Mức cho các tỉ_lệ khác tính theo hệ_số trong Bảng_số 24 đối_với mức quy_định tại Bảng_số 23 :
+
+Bảng_số 24
+
+( 2 ) Mức quy_định như nhau cho các khoảng cao đều , độ phân_giải ảnh và loại khó_khăn của mỗi tỉ_lệ tại Bảng_số 24 ;
+
+( 3 ) Mức cho đơn_vị tính km2 theo quy_định tại ghi_chú ( 2 ) Bảng_số 18 .
+
+2 . 5 . Định_mức tiêu_hao năng_lượng
+
+Điện_năng tiêu_thụ của các dụng_cụ và thiết_bị dùng điện hoạt_động khi Xử_lí dữ_liệu ảnh số cho 01 mảnh
+
+Bảng_số 25
+
+Ghi_chú :
+
+( 1 ) Mức cho từng tỉ_lệ tính theo hệ_số quy_định trong Bảng_số 21 đối_với mức quy_định tại Bảng_số 25 ;
+
+( 2 ) Mức cho các bước công_việc chi_tiết tính theo hệ_số quy_định trong Bảng_số 19 đối_với mức quy_định tại ghi_chú ( 1 ) trên ;
+
+( 3 ) Mức cho đơn_vị tính km2 theo quy_định tại ghi_chú ( 2 ) Bảng_số 18 .
+
+2 . 6 . Định_mức tiêu_hao nhiên_liệu
+
+Không tiêu_hao nhiên_liệu . / .

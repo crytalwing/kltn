@@ -1,0 +1,325 @@
+Thông_tư số 15/2022/tt-btttt ngày 31 tháng 10 năm 2022 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Bưu_chính ngày 17 tháng 6 năm 2010 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 48/2022/NĐ-CP ngày 26 tháng 7 năm 2022 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định số 37/2021/QĐ-TTg ngày 18 tháng 12 năm 2021 </QĐ> của Thủ_tướng Chính_phủ về Mạng bưu_chính phục_vụ cơ_quan Đảng , Nhà_nước ;
+
+Căn_cứ <QĐ rel="CC"> Quyết_định số 41/2011/QĐ-TTg ngày 03 tháng 8 năm 2011 </QĐ> của Thủ_tướng Chính_phủ về việc chỉ_định doanh_nghiệp thực_hiện duy_trì , quản_lí mạng bưu_chính công_cộng , cung_ứng dịch_vụ bưu_chính công_ích , dịch_vụ bưu_chính_quốc_tế ;
+
+Theo đề_nghị của Cục_trưởng Cục Bưu_điện Trung_ương ;
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <QĐ rel="None"> <TT rel="None"> Thông_tư Quyết_định số 37/2021/QĐ-TTg ngày 18 tháng 12 năm 2021 </TT> </QĐ> của Thủ_tướng Chính_phủ về Mạng bưu_chính phục_vụ cơ_quan Đảng , Nhà_nước .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <QĐ rel="None"> Quyết_định số 37/2021/QĐ-TTg ngày 18 tháng 12 năm 2021 </QĐ> của Thủ_tướng Chính_phủ về Mạng bưu_chính phục_vụ cơ_quan Đảng , Nhà_nước ( sau đây được gọi tắt là <QĐ rel="None"> Quyết_định số 37/2021/QĐ-TTg </QĐ>) gồm : dịch_vụ ; chất_lượng dịch_vụ ; an_toàn , an_ninh trong cung_cấp dịch_vụ ; kết_nối_mạng ; kiểm_tra , giám_sát ; lưu_trữ , báo_cáo và tổ_chức thực_hiện việc cung_cấp dịch_vụ bưu_chính Kt1 .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với Cục Bưu_điện Trung_ương ; Tổng_công_ti Bưu_điện Việt_nam ; các cơ_quan , tổ_chức , cá_nhân có liên_quan đến hoạt_động của Mạng bưu_chính phục_vụ cơ_quan Đảng , Nhà_nước ( sau đây gọi là Mạng bưu_chính Kt1 ) .
+
+Chương_ii
+
+Dịch_vụ Và Chất_lượng Dịch_vụ
+
+Điều 3 . Dịch_vụ bưu_chính Kt1
+
+1 . Dịch_vụ bưu_chính Kt1 theo phạm_vi cung_cấp dịch_vụ gồm : dịch_vụ bưu_chính Kt1 nội_tỉnh và dịch_vụ bưu_chính Kt1 liên tỉnh .
+
+2 . Dịch_vụ bưu_chính Kt1 theo đặc_tính dịch_vụ gồm :
+
+a ) Dịch_vụ Kt1 : là dịch_vụ bưu_chính Kt1 không có yêu_cầu về độ mật và độ khẩn .
+
+b ) Dịch_vụ Kt1 theo độ mật ( a , B , C ) : là dịch_vụ bưu_chính Kt1 có yêu_cầu về độ Tuyệt_mật , Tối_mật , Mật và yêu_cầu cao về bảo_đảm an_toàn , an_ninh .
+
+c ) Dịch_vụ Kt1 theo độ khẩn ( Hoả_tốc , Hẹn giờ ) :
+
+- Dịch_vụ Kt1 Hoả_tốc : là dịch_vụ bưu_chính Kt1 có yêu_cầu về tốc_độ xử_lí nhanh ;
+
+- Dịch_vụ Kt1 Hẹn giờ : là dịch_vụ bưu_chính Kt1 có yêu_cầu phát đến địa_chỉ nhận theo thời_gian thoả_thuận giữa người gửi và đơn_vị cung_cấp dịch_vụ .
+
+d ) Dịch_vụ Kt1 theo độ mật ( a , B , C ) và độ khẩn ( Hoả_tốc , Hẹn giờ ) :
+
+- Dịch_vụ Kt1 theo độ mật và Hoả_tốc : là dịch_vụ Kt1 theo độ mật có yêu_cầu về tốc_độ xử_lí nhanh ;
+
+- Dịch_vụ Kt1 theo độ mật và Hẹn giờ : là dịch_vụ Kt1 theo độ mật có yêu_cầu phát đến địa_chỉ nhận theo thời_gian thoả_thuận giữa người gửi và đơn_vị cung_cấp dịch_vụ .
+
+Điều 4 . Chất_lượng dịch_vụ bưu_chính Kt1
+
+1 . An_toàn bưu gửi : 100 % bưu gửi được phát đến địa_chỉ nhận trong tình_trạng không bị suy_suyển , hư_hỏng làm ảnh_hưởng đến nội_dung bưu gửi , trừ trường_hợp do sự_kiện bất_khả_kháng theo quy_định của pháp_luật .
+
+2 . Thời_gian phục_vụ : dịch_vụ bưu_chính Kt1 được cung_cấp liên_tục 24 giờ trong một ngày và 07 ngày trong một tuần , kể_cả ngày nghỉ lễ , Tết .
+
+3 . Tần_suất phát : bưu gửi Kt1 được phát tối_thiểu 02 lần / ngày , riêng cấp xã tối_thiểu 01 lần / ngày . Tần_suất phát ở địa_bàn có điều_kiện địa_lí đặc_biệt quy_định tại Phụ_lục I ban_hành kèm theo Thông_tư này .
+
+4 . Thời_gian toàn trình :
+
+a ) Thời_gian toàn trình dịch_vụ bưu_chính Kt1 là khoảng thời_gian tính từ khi bưu gửi được chấp_nhận cho đến khi được phát lần thứ nhất đến địa_chỉ nhận ghi trên bưu gửi .
+
+Trường_hợp bưu gửi sử_dụng đồng_thời nhiều dịch_vụ bưu_chính Kt1 thì thời_gian toàn trình được tính theo dịch_vụ có thời_gian toàn trình ngắn nhất .
+
+b ) Thời_gian toàn trình dịch_vụ bưu_chính Kt1 được xác_định theo công_thức J + n ( trong đó J là ngày chấp_nhận , được thể_hiện bằng dấu ngày trên bưu gửi và n là số ngày làm_việc ) .
+
+c ) Trong phạm_vi nội_tỉnh , thời_gian toàn trình tối_đa là :
+
+- Dịch_vụ Kt1 và dịch_vụ Kt1 theo độ mật : J + 1 , 5 ;
+
+- Dịch_vụ Kt1 Hoả_tốc : J + 1 .
+
+d ) Trong phạm_vi liên tỉnh , thời_gian toàn trình tối_đa là :
+
+- Dịch_vụ Kt1 và dịch_vụ Kt1 theo độ mật : J + 3 , 5 ;
+
+- Dịch_vụ Kt1 Hoả_tốc : J + 2 , 5 .
+
+đ ) Bưu gửi Kt1 Hẹn giờ được phát theo thời_gian yêu_cầu của người gửi đến địa_chỉ nhận trước hoặc đúng giờ hẹn ghi trên bưu gửi .
+
+e ) Đối_với địa_bàn thuộc danh_mục vùng có điều_kiện địa_lí đặc_biệt nêu tại khoản 3 Điều này , thời_gian toàn trình được cộng thêm tối_đa 2 , 5 ngày so với thời_gian toàn trình quy_định tại điểm c , điểm d khoản 4 Điều này , trừ trường_hợp do sự_kiện bất_khả_kháng theo quy_định của pháp_luật .
+
+g ) Quy_định về việc phát bưu gửi Kt1 :
+
+- Trong giờ làm_việc : bưu gửi Kt1 được phát tại địa_chỉ nhận ghi trên bưu gửi ;
+
+- Ngoài giờ làm_việc , thứ Bảy , Chủ_nhật và ngày nghỉ lễ , Tết : bưu gửi Kt1 có độ khẩn được phát đến đầu_mối do đối_tượng sử_dụng dịch_vụ chỉ_định theo quy_định tại khoản 4 Điều 17 Thông_tư này .
+
+5 . Thời_hiệu giải_quyết khiếu_nại : 06 tháng , kể từ ngày kết_thúc thời_gian toàn trình của bưu gửi Kt1 .
+
+6 . Thời_hạn giải_quyết khiếu_nại : không quá 10 ngày làm_việc kể từ ngày nhận được khiếu_nại .
+
+Chương_iii
+
+An_toàn , An_ninh Trong Cung_cấp Dịch_vụ
+
+Điều 5 . Bảo_đảm an_toàn , an_ninh
+
+Việc bảo_đảm an_toàn , an_ninh trong cung_cấp dịch_vụ bưu_chính Kt1 được thực_hiện theo quy_định tại Điều 6 <QĐ rel="DC"> Quyết_định số 37/2021/QĐ-TTg </QĐ> và các yêu_cầu sau :
+
+1 . Mạng bưu_chính Kt1 do Cục Bưu_điện Trung_ương trực_tiếp khai_thác được đầu_tư_trang thiết_bị , phương_tiện vận_chuyển chuyên_dùng ; được bố_trí_lực_lượng chuyên_trách bảo_vệ để bảo_đảm an_toàn , an_ninh trong cung_cấp dịch_vụ .
+
+2 . Mạng bưu_chính công_cộng khi cung_cấp dịch_vụ bưu_chính Kt1 phải đáp_ứng các yêu_cầu sau :
+
+a ) Tại cấp tỉnh : phải thành_lập bưu_cục khai_thác dịch_vụ bưu_chính Kt1 .
+
+b ) Tại cấp huyện , cấp xã : phải bố_trí khu_vực để khai_thác riêng dịch_vụ bưu_chính Kt1 .
+
+Trường_hợp cấp xã không bố_trí được khu_vực để khai_thác riêng dịch_vụ bưu_chính Kt1 thì Tổng_công_ti Bưu_điện Việt_nam chủ_động bố_trí địa_điểm đáp_ứng yêu_cầu cung_cấp dịch_vụ và bảo_đảm an_toàn , an_ninh .
+
+c ) Chỉ_định người lao_động chịu trách_nhiệm về hoạt_động cung_cấp dịch_vụ bưu_chính Kt1 .
+
+d ) Ưu_tiên_cung_cấp dịch_vụ bưu_chính Kt1 trước tất_cả các loại dịch_vụ bưu_chính khác .
+
+3 . Cơ_sở khai_thác dịch_vụ bưu_chính Kt1 phải có thiết_bị để giám_sát hoạt_động cung_cấp dịch_vụ .
+
+4 . Túi chứa bưu gửi Kt1 màu đỏ , được làm bằng chất_liệu dai bền , chống cháy , chống thấm nước . Thùng chứa bưu gửi Kt1 làm bằng chất_liệu chống cháy , chống thấm nước , chống vỡ . Túi , thùng chứa bưu gửi Kt1 được niêm_phong hoặc có khoá bảo_vệ ; được quản_lí và giám_sát chặt_chẽ trong suốt quá_trình cung_cấp dịch_vụ .
+
+5 . Bưu gửi Kt1 Tuyệt_mật được tổ_chức đi phát bằng phương_tiện ô_tô ngay sau khi chấp_nhận và khai_thác .
+
+6 . Phương_tiện vận_chuyển chuyên_dùng là phương_tiện để vận_chuyển và phát bưu gửi Kt1 ; có thùng làm bằng chất_liệu chống cháy , chống thấm nước , chống vỡ , có khoá bảo_vệ và được giám_sát chặt_chẽ trong suốt quá_trình vận_chuyển .
+
+7 . Trường_hợp cần_thiết khi vận_chuyển và phát bưu gửi Kt1 chứa bí_mật nhà_nước , đơn_vị cung_cấp dịch_vụ chủ_động bố_trí người bảo_vệ hoặc phối_hợp với cơ_quan công_an để được bố_trí_lực_lượng chuyên_trách bảo_vệ .
+
+8 . Trường_hợp có yêu_cầu kiểm_tra của cơ_quan_chức_năng trong quá_trình vận_chuyển bưu gửi Kt1 chứa bí_mật nhà_nước , người điều_khiển phương_tiện vận_chuyển hoặc người áp_tải phải kịp_thời báo_cáo lãnh_đạo phụ_trách trực_tiếp trước khi phối_hợp với cơ_quan_chức_năng và tuân_thủ theo quy_định của pháp_luật .
+
+Điều 6 . Bảo_đảm an_toàn , bảo_mật dữ_liệu hệ_thống mạng máy_tính và phần_mềm ứng_dụng
+
+1 . Hệ_thống mạng máy_tính và phần_mềm ứng_dụng phục_vụ_việc cung_cấp dịch_vụ bưu_chính Kt1 được thiết_kế theo các phân_vùng mạng , chức_năng phù_hợp với hệ_thống thông_tin theo cấp_độ tương_ứng , được triển_khai bảo_đảm an_toàn theo cấp_độ đáp_ứng các yêu_cầu tại Điều 19 <NĐ rel="DC"> Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 </NĐ> của Chính_phủ về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ .
+
+2 . Việc đồng_bộ dữ_liệu liên_quan tới quản_lý , khai_thác bưu gửi Kt1 trên mạng bưu_chính công_cộng về máy_chủ bưu_chính Kt1 do Cục Bưu_điện Trung_ương quản_lí phải được thực_hiện qua đường truyền riêng , áp_dụng các biện_pháp xác_thực , mã_hoá đảm_bảo các tiêu_chuẩn về an_toàn , bảo_mật .
+
+Điều 7 . Xử_lí vi_phạm và bồi_thường thiệt_hại
+
+1 . Mọi vi_phạm đối_với bưu gửi Kt1 chứa bí_mật nhà_nước phải được điều_tra làm rõ ; tuỳ theo tính_chất , mức_độ , hậu_quả của hành_vi vi_phạm gây ra sẽ bị xử_lí kỉ_luật , xử_lí vi_phạm hành_chính hoặc truy_cứu trách_nhiệm hình_sự .
+
+2 . Việc bồi_thường thiệt_hại đối_với bưu gửi Kt1 được thực_hiện theo quy_định của pháp_luật về bưu_chính .
+
+Chương_iv
+
+Kết_nối_mạng
+
+Điều 8 . Quy_định chung về kết_nối Mạng
+
+1 . Cục Bưu_điện Trung_ương và Tổng_công_ti Bưu_điện Việt_nam phải thực_hiện việc kết_nối_mạng và cung_cấp dịch_vụ bưu_chính Kt1 đáp_ứng các yêu_cầu bảo_đảm bí_mật nhà_nước ; an_toàn , an_ninh ; thống_nhất trong tổ_chức quản_lý , vận_hành , khai_thác ; tuân_thủ quy_định về trang thiết_bị , phương_tiện vận_chuyển chuyên_dùng ; quy_định nghiệp_vụ và tiêu_chuẩn người lao_động tham_gia trực_tiếp vào quá_trình cung_cấp dịch_vụ .
+
+2 . Việc kết_nối được thực_hiện theo Hợp_đồng kết_nối giữa hai bên theo quy_định tại Thông_tư này và pháp_luật liên_quan ; bảo_đảm nguyên_tắc kịp_thời , công_khai , minh_bạch .
+
+Điều 9 . Hợp_đồng kết_nối
+
+1 . Nội_dung chính của Hợp_đồng kết_nối
+
+a ) Thông_tin chung về đơn_vị ( tên , địa_chỉ trụ_sở , số điện_thoại ) và người đại_diện theo pháp_luật của đơn_vị ( họ và tên ; chức_vụ ; số điện_thoại liên_hệ ; địa_chỉ thư điện_tử và các thông_tin cần_thiết khác ) .
+
+b ) Thông_tin liên_quan đến việc thực_hiện kết_nối :
+
+- Địa_điểm kết_nối ; thông_tin về đầu_mối liên_hệ của các bên ( họ và tên ; chức_vụ ; số điện_thoại liên_hệ ; địa_chỉ thư điện_tử và các thông_tin cần_thiết khác ) và thông_báo bằng văn_bản khi có sự thay_đổi thông_tin về đầu_mối liên_hệ ; điều_kiện của người lao_động tham_gia trực_tiếp vào quá_trình cung_cấp dịch_vụ bưu_chính Kt1 ;
+
+- Chất_lượng dịch_vụ ; chi_phí kết_nối ; đối soát sản_lượng bưu gửi và xác_nhận chất_lượng dịch_vụ ; giảm trừ giá_trị thanh_toán khi có vi_phạm nghĩa_vụ ; phối_hợp xử_lí khi có khiếu_nại về chất_lượng cung_cấp dịch_vụ hoặc có sự_cố về an_ninh , an_toàn trong cung_cấp dịch_vụ ; cơ_sở dữ_liệu và chia_sẻ dữ_liệu trong cung_cấp dịch_vụ ;
+
+- Quyền và nghĩa_vụ khác của các bên .
+
+2 . Ký_kết Hợp_đồng kết_nối
+
+a ) Cục Bưu_điện Trung_ương và Tổng_công_ti Bưu_điện Việt_nam thoả_thuận các nội_dung của Hợp_đồng kết_nối . Sau khi thống_nhất , hai bên kí_kết Hợp_đồng kết_nối .
+
+b ) Cục Bưu_điện Trung_ương có trách_nhiệm thông_báo với Bộ Thông_tin và Truyền_thông sau khi kí_kết và khi có sửa_đổi , bổ_sung Hợp_đồng kết_nối .
+
+Chương V
+
+Kiểm_tra , Giám_sát
+
+Điều 10 . Kiểm_tra , giám_sát cung_cấp dịch_vụ
+
+1 . Kiểm_tra định_kì
+
+a ) Hằng năm , Bộ Thông_tin và Truyền_thông ( Cục Bưu_điện Trung_ương ) thực_hiện kiểm_tra , giám_sát theo kế_hoạch hoạt_động cung_cấp dịch_vụ bưu_chính Kt1 trên toàn mạng_lưới . Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc trung_ương , Sở Văn_hoá , Thông_tin , Thể_thao và Du_lịch tỉnh Bạc_liêu ( gọi chung là Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc trung_ương ) kiểm_tra , giám_sát hoạt_động cung_cấp dịch_vụ bưu_chính Kt1 thông_qua mạng bưu_chính công_cộng tại địa_phương .
+
+b ) Nội_dung kiểm_tra , giám_sát bao_gồm : việc chấp_hành các quy_định về cung_cấp dịch_vụ , chất_lượng dịch_vụ , kết_nối_mạng , an_toàn , an_ninh và các nội_dung liên_quan khác trong hoạt_động cung_cấp dịch_vụ bưu_chính Kt1 .
+
+2 . Kiểm_tra đột_xuất
+
+a ) Bộ Thông_tin và Truyền_thông ( Cục Bưu_điện Trung_ương ) quyết_định kiểm_tra đột_xuất hoạt_động cung_cấp dịch_vụ bưu_chính Kt1 trên toàn mạng . Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc trung_ương quyết_định kiểm_tra đột_xuất hoạt_động cung_cấp dịch_vụ bưu_chính Kt1 thông_qua mạng bưu_chính công_cộng trên địa_bàn khi cần_thiết .
+
+b ) Khi kiểm_tra đột_xuất , cơ_quan quyết_định kiểm_tra phải thông_báo thời_gian , nội_dung kiểm_tra cho đơn_vị được kiểm_tra biết trước tối_thiểu 01 ( một ) ngày làm_việc trước ngày tiến_hành kiểm_tra .
+
+Điều 11 . Chi_phí kiểm_tra , giám_sát
+
+Chi_phí kiểm_tra , giám_sát do ngân_sách nhà_nước cấp và được bố_trí trong dự_toán kinh_phí hoạt_động của cơ_quan kiểm_tra , giám_sát .
+
+Chương_vi
+
+Báo_cáo Và Lưu_trữ
+
+Điều 12 . Chế_độ báo_cáo
+
+1 . Chế_độ báo_cáo định_kì
+
+a ) Tên báo_cáo : Báo_cáo hoạt_động cung_cấp dịch_vụ bưu_chính Kt1 .
+
+b ) Nội_dung yêu_cầu báo_cáo :
+
+- Hoạt_động cung_cấp dịch_vụ bưu_chính Kt1 ;
+
+- Đề_xuất , kiến_nghị để bảo_đảm cung_cấp dịch_vụ bưu_chính Kt1 trong giai_đoạn tiếp_theo .
+
+c ) Đối_tượng thực_hiện báo_cáo :
+
+- Cục Bưu_điện Trung_ương ;
+
+- Tổng_công_ti Bưu_điện Việt_nam và Bưu_điện tỉnh , thành_phố trực_thuộc trung_ương ;
+
+- Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc trung_ương .
+
+d ) Cơ_quan nhận và thời_hạn gửi báo_cáo :
+
+- Cục Bưu_điện Trung_ương có trách_nhiệm báo_cáo Bộ Thông_tin và Truyền_thông trước ngày 20 tháng 7 đối_với báo_cáo 6 tháng đầu năm , trước ngày 20 tháng 01 năm sau liền kề đối_với báo_cáo năm ;
+
+- Tổng_công_ti Bưu_điện Việt_nam , Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc trung_ương có trách_nhiệm báo_cáo Cục Bưu_điện Trung_ương ; Bưu_điện tỉnh , thành_phố trực_thuộc trung_ương báo_cáo Sở Thông_tin và Truyền_thông tại địa_phương trước ngày 10 tháng 7 đối_với báo_cáo 6 tháng đầu năm và trước ngày 10 tháng 01 năm sau liền kề đối_với báo_cáo năm .
+
+đ ) Báo_cáo được thể_hiện dưới hình_thức văn_bản giấy hoặc văn_bản điện_tử có chữ_kí số của người đại_diện đơn_vị lập báo_cáo và gửi đến cơ_quan nhận báo_cáo qua hệ_thống văn_bản điện_tử .
+
+e ) Tần_suất thực_hiện báo_cáo : 06 tháng và hằng năm .
+
+g ) Thời_gian chốt số_liệu báo_cáo :
+
+- Báo_cáo 06 tháng đầu năm được tính bắt_đầu_từ ngày 01 tháng 01 cho đến hết ngày 30 tháng 6 ;
+
+- Báo_cáo năm được tính bắt_đầu_từ ngày 01 tháng 01 cho đến hết ngày 31 tháng 12 của năm .
+
+h ) Các đối_tượng thực_hiện báo_cáo theo biểu_mẫu quy_định tại Phụ_lục Ii ban_hành kèm theo Thông_tư này .
+
+2 . Chế_độ báo_cáo đột_xuất
+
+a ) Chế_độ báo_cáo đột_xuất được thực_hiện để giúp đơn_vị quản_lí nhà_nước tổng_hợp các thông_tin ngoài các thông_tin theo chế_độ báo_cáo định_kì quy_định tại khoản 1 Điều này .
+
+b ) Báo_cáo đột_xuất được thực_hiện theo yêu_cầu bằng văn_bản hành_chính .
+
+c ) Kết_cấu , nội_dung , phương_thức , thời_gian chốt số_liệu , thời_hạn báo_cáo đột_xuất , nơi nhận báo_cáo và các nội_dung khác có liên_quan được thực_hiện theo văn_bản yêu_cầu .
+
+Điều 13 . Lưu_trữ tài_liệu
+
+1 . Tài_liệu bản giấy về bưu gửi Kt1 là các tài_liệu được tạo_lập ở dạng văn_bản hình_thành trong quá_trình cung_cấp dịch_vụ bưu_chính Kt1 .
+
+2 . Tài_liệu điện_tử về bưu gửi Kt1 là tài_liệu được tạo_lập ở dạng thông_điệp dữ_liệu hình_thành trong quá_trình cung_cấp dịch_vụ bưu_chính Kt1 . Tài_liệu lưu_trữ điện_tử được bảo_quản và sử_dụng theo phương_pháp chuyên_môn , nghiệp_vụ riêng_biệt .
+
+3 . Thời_hạn lưu_trữ tối_thiểu là 02 ( hai ) năm đối_với tài_liệu bản giấy , 05 ( năm ) năm đối_với tài_liệu điện_tử kể từ ngày bưu gửi Kt1 được chấp_nhận .
+
+Chương_vii
+
+Tổ_chức Thực_hiện
+
+Điều 14 . Trách_nhiệm của Cục Bưu_điện Trung_ương
+
+1 . Chủ_trì kiểm_tra , giám_sát việc cung_cấp dịch_vụ bưu_chính Kt1 tại địa_phương theo quy_định tại Điều 10 Thông_tư này ; đánh_giá về mức_độ an_toàn , an_ninh và chất_lượng dịch_vụ trên toàn mạng ; thực_hiện các biện_pháp phòng , tránh và khắc_phục kịp_thời khi xảy ra sự_cố trong cung_cấp dịch_vụ bưu_chính Kt1 .
+
+2 . Thực_hiện các biện_pháp_bảo_vệ an_toàn cơ_sở hạ_tầng cung_cấp dịch_vụ bưu_chính Kt1 do Cục Bưu_điện Trung_ương quản_lý , điều_hành , khai_thác ; phát_hiện , ngăn_chặn kịp_thời trường_hợp lợi_dụng việc cung_cấp dịch_vụ bưu_chính Kt1 để hoạt_động xâm_phạm an_ninh quốc_gia , trật_tự , an_toàn xã_hội .
+
+3 . Quy_định thời_gian toàn trình chi_tiết các dịch_vụ bưu_chính Kt1 ( đến cấp xã ) bảo_đảm đáp_ứng yêu_cầu về an_toàn , an_ninh và chất_lượng dịch_vụ .
+
+4 . Chủ_trì , phối_hợp với các đơn_vị liên_quan đào_tạo , tập_huấn nâng cao_trình_độ nghiệp_vụ , nhận_thức về an_toàn , an_ninh cho cán_bộ , công_chức , viên_chức và người lao_động tham_gia trực_tiếp vào quá_trình cung_cấp dịch_vụ bưu_chính Kt1 .
+
+5 . Tuân_thủ quy_định về tuyển_chọn người lao_động , quy_định nghiệp_vụ và quy_trình cung_cấp dịch_vụ bưu_chính Kt1 .
+
+6 . Bảo_đảm bí_mật các thông_tin liên_quan đến đối_tượng sử_dụng dịch_vụ bưu_chính Kt1 theo quy_định của pháp_luật .
+
+7 . Thông_báo với cơ_quan có thẩm_quyền khi phát_hiện hoặc nghi_ngờ không bảo_đảm an_toàn , an_ninh ; hoặc khi xảy ra lộ , mất bí_mật nhà_nước trong việc cung_cấp dịch_vụ bưu_chính Kt1 .
+
+8 . Báo_cáo Bộ Thông_tin và Truyền_thông hoạt_động cung_cấp dịch_vụ bưu_chính Kt1 theo quy_định tại Điều 12 Thông_tư này hoặc khi xảy ra sự_cố về an_toàn , an_ninh .
+
+Điều 15 . Trách_nhiệm của Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc trung_ương
+
+1 . Kiểm_tra , giám_sát hoạt_động cung_cấp dịch_vụ bưu_chính Kt1 trên địa_bàn và báo_cáo kết_quả với Bộ Thông_tin và Truyền_thông ( Cục Bưu_điện Trung_ương ) .
+
+2 . Báo_cáo Bộ Thông_tin và Truyền_thông ( Cục Bưu_điện Trung_ương ) hoạt_động cung_cấp dịch_vụ bưu_chính Kt1 theo quy_định tại Điều 12 Thông_tư này .
+
+3 . Tham_mưu , giúp Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương thực_hiện trách_nhiệm quản_lí hoạt_động cung_cấp và sử_dụng dịch_vụ bưu_chính Kt1 trên địa_bàn theo quy_định của pháp_luật về bưu_chính và quy_định của pháp_luật liên_quan .
+
+Điều 16 . Trách_nhiệm của Tổng_công_ti Bưu_điện Việt_nam
+
+1 . Kiểm_tra , đánh_giá về mức_độ an_toàn , an_ninh trong cung_cấp dịch_vụ bưu_chính Kt1 tại địa_phương ; thực_hiện các biện_pháp phòng_tránh và khắc_phục kịp_thời khi xảy ra sự_cố trong cung_cấp dịch_vụ bưu_chính Kt1 tại địa_phương .
+
+2 . Chủ_trì thực_hiện các biện_pháp_bảo_vệ an_toàn cơ_sở hạ_tầng cung_cấp dịch_vụ bưu_chính Kt1 do Tổng_công_ti Bưu_điện Việt_nam quản_lý ; phát_hiện , ngăn_chặn kịp_thời trường_hợp lợi_dụng việc cung_cấp dịch_vụ bưu_chính Kt1 phục_vụ đối_tượng tại địa_phương để hoạt_động xâm_phạm an_ninh quốc_gia , trật_tự , an_toàn xã_hội tại địa_phương .
+
+3 . Phối_hợp với Cục Bưu_điện Trung_ương quy_định về thời_gian toàn trình chi_tiết các dịch_vụ bưu_chính Kt1 ( đến cấp xã ) bảo_đảm đáp_ứng yêu_cầu về an_toàn , an_ninh và chất_lượng dịch_vụ .
+
+4 . Chủ_trì , phối_hợp với Cục Bưu_điện Trung_ương đào_tạo , tập_huấn nâng cao_trình_độ nghiệp_vụ , nhận_thức về an_toàn , an_ninh cho người lao_động tham_gia trực_tiếp vào quá_trình cung_cấp dịch_vụ bưu_chính Kt1 .
+
+5 . Tuân_thủ quy_định về tuyển_chọn người lao_động , quy_định nghiệp_vụ và quy_trình cung_cấp dịch_vụ bưu_chính Kt1 .
+
+6 . Bảo_đảm bí_mật các thông_tin liên_quan đến đối_tượng sử_dụng dịch_vụ bưu_chính Kt1 theo quy_định của pháp_luật .
+
+7 . Bảo_đảm dữ_liệu trong quá_trình cung_cấp dịch_vụ bưu_chính Kt1 được tự_động cập_nhật theo thời_gian thực về máy_chủ bưu_chính Kt1 của Cục Bưu_điện Trung_ương đầy_đủ , chính_xác .
+
+8 . Thông_báo với cơ_quan có thẩm_quyền khi phát_hiện hoặc nghi_ngờ không bảo_đảm an_toàn , an_ninh ; hoặc khi xảy ra lộ , mất bí_mật nhà_nước trong việc cung_cấp dịch_vụ bưu_chính Kt1 .
+
+9 . Báo_cáo Cục Bưu_điện Trung_ương và chỉ_đạo Bưu_điện tỉnh , thành_phố trực_thuộc trung_ương báo_cáo Sở Thông_tin và Truyền_thông tại địa_phương hoạt_động cung_cấp dịch_vụ bưu_chính Kt1 theo quy_định tại Điều 12 Thông_tư này .
+
+10 . Báo_cáo Cục Bưu_điện Trung_ương ngay khi xảy ra sự_cố về an_toàn , an_ninh trong cung_cấp dịch_vụ bưu_chính Kt1 .
+
+Điều 17 . Trách_nhiệm của đối_tượng sử_dụng dịch_vụ
+
+1 . Làm bì hoặc đóng_gói tài_liệu , vật chứa bí_mật nhà_nước sử_dụng dịch_vụ bưu_chính Kt1 theo đúng quy_định của pháp_luật về bảo_vệ bí_mật nhà_nước và quy_định của pháp_luật về bưu_chính .
+
+2 . Cung_cấp thông_tin về bưu gửi khi có yêu_cầu .
+
+3 . Ghi đúng , đầy_đủ , rõ_ràng tên ( họ tên ) , địa_chỉ của cơ_quan , tổ_chức gửi và cơ_quan , tổ_chức , cá_nhân nhận khi sử_dụng dịch_vụ bưu_chính Kt1 .
+
+4 . Chỉ_định và cung_cấp đầu_mối tiếp_nhận bưu gửi Kt1 ngoài giờ làm_việc , thứ Bảy , Chủ_nhật , ngày nghỉ lễ , Tết cho đơn_vị cung_cấp dịch_vụ để bảo_đảm phát bưu gửi theo đúng quy_định .
+
+Điều 18 . Trách_nhiệm của các tổ_chức liên_quan đến hoạt_động vận_chuyển bưu gửi Kt1
+
+1 . Ưu_tiên giao_nhận , vận_chuyển nhanh_chóng , chính_xác , kịp_thời túi , thùng chứa bưu gửi Kt1 trước các loại bưu gửi , hàng_hoá khác .
+
+2 . Nơi lưu_giữ bưu gửi Kt1 phải có khoá bảo_vệ , có thiết_bị giám_sát ; riêng đối_với bưu gửi Kt1 chứa bí_mật nhà_nước phải được bảo_quản ở nơi an_toàn và có phương_án bảo_vệ .
+
+Điều 19 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 01 năm 2023 và thay_thế <TT rel="None"> Thông_tư số 16/2017/TT-BTTTT ngày 23 tháng 6 năm 2017 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông về Quy_định chi_tiết một_số nội_dung và biện_pháp thi_hành <QĐ rel="None"> Quyết_định số 55/2016/QĐ-TTg ngày 26 tháng 12 năm 2016 </QĐ> của Thủ_tướng Chính_phủ về Mạng bưu_chính phục_vụ cơ_quan Đảng , Nhà_nước .
+
+2 . Chánh Văn_phòng ; Cục_trưởng Cục Bưu_điện Trung_ương ; Tổng_giám_đốc Tổng_công_ti Bưu_điện Việt_nam ; Thủ_trưởng các cơ_quan , đơn_vị trực_thuộc Bộ Thông_tin và Truyền_thông ; Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc trung_ương và các cơ_quan , tổ_chức có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+3 . Trong quá_trình triển_khai thực_hiện , nếu có vấn_đề vướng_mắc , các cơ_quan , tổ_chức liên_quan phản_ánh kịp_thời về Bộ Thông_tin và Truyền_thông ( Cục Bưu_điện Trung_ương ) để xem_xét , bổ_sung , sửa_đổi . / .

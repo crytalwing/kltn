@@ -1,0 +1,1009 @@
+Thông_tư số 28/2018/tt-btnmt ngày 26 tháng 12 năm 2018 của bộ tài_nguyên và môi_trường
+
+Căn_cứ <LT rel="CC"> Luật_khoáng_sản năm 2010 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật hàng không dân_dụng Việt_nam năm 2006 </LT> ;
+
+Căn_cứ Luật sửa_đổi , bổ_sung một_số điều của <LT rel="None"> Luật hàng không dân_dụng Việt_nam năm 2014 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 158/2016/NĐ-CP ngày 29 tháng 11 năm 2016 </NĐ> của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật_khoáng_sản ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 36/2017/NĐ-CP ngày 04 tháng 04 năm 2017 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Tổng_cục_trưởng Tổng_cục Địa_chất và Khoáng_sản Việt_nam , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư quy_định kĩ_thuật công_tác bay đo từ và trọng_lực trong điều_tra cơ_bản địa_chất về khoáng_sản và thăm_dò khoáng_sản .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+1 . Thông_tư này quy_định kĩ_thuật về công_tác bay đo từ và trọng_lực trong hoạt_động điều_tra cơ_bản địa_chất về khoáng_sản và thăm_dò khoáng_sản trên lãnh_thổ Việt_nam .
+
+2 . Thông_tư này không áp_dụng đối_với việc sử_dụng vệ_tinh , máy_bay không người lái để đo từ và trọng_lực trong hoạt_động điều_tra cơ_bản địa_chất về khoáng_sản và thăm_dò khoáng_sản .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với cơ_quan quản_lí nhà_nước về khoáng_sản , tổ_chức , đơn_vị thực_hiện công_tác bay đo từ và trọng_lực trong hoạt_động điều_tra cơ_bản địa_chất về khoáng_sản , thăm_dò khoáng_sản .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các thuật_ngữ dưới đây được hiểu như sau :
+
+1 . Phương_pháp bay đo từ là phương_pháp đo giá_trị trường từ bằng các thiết_bị chuyên_dụng đặt trên máy_bay .
+
+2 . Phương_pháp bay đo trọng_lực là phương_pháp đo giá_trị trường trọng_lực bằng các thiết_bị chuyên_dụng đặt trên máy_bay .
+
+3 . Trường trọng_lực bình_thường là giá_trị trường trọng_lực tính trên mặt Trái_đất lí_thuyết , có dạng Ellipsoid .
+
+4 . Hiệu_chỉnh kết_quả đo trọng_lực là việc tính_toán để loại_trừ ảnh_hưởng của các yếu_tố : Độ cao , lớp trung_gian , địa_hình , hiệu_ứng chuyển_động của máy_bay , thuỷ_triều và độ cong trái_đất lên kết_quả đo .
+
+5 . Trường từ của Trái_đất là một đại_lượng vec tơ . Giá_trị cường_độ của trường từ gọi là trường từ toàn_phần , kí_hiệu là T .
+
+6 . Trường từ bình_thường ( ký_hiệu là T0 ) là một khái_niệm quy_ước , được tính_toán từ các giá_trị trường đo được tại những điểm được cho là không có dị_thường từ .
+
+7 . Dị_thường từ ( ký_hiệu là Ta ) là hiệu giá_trị giữa trường từ đo được sau khi đã thực_hiện các phép hiệu_chỉnh và liên_kết ( ký_hiệu là T ) với giá_trị trường từ bình_thường T0 tại một điểm đo : Ta = T - t0 .
+
+8 . Mạng_lưới tuyến bay đo là tập_hợp mạng_lưới tuyến bay đo thường , tuyến bay đo tựa , tuyến bay đo kiểm_tra và tuyến bay đo liên_kết .
+
+9 . Mạng_lưới tuyến bay đo thường là mạng_lưới tuyến bay đo được thiết_kế theo tỉ_lệ đo vẽ để bay đo từ , trọng_lực trên toàn_bộ vùng bay .
+
+10 . Mạng_lưới tuyến bay đo tựa là mạng_lưới tuyến bay đo dùng để liên_kết tài_liệu từ , trọng_lực trong một vùng bay .
+
+11 . Tuyến bay đo kiểm_tra là tuyến bay đo đã được lựa_chọn để bay đo kiểm_tra hệ_thống máy , thiết_bị đo ghi cho mỗi chuyến bay .
+
+12 . Tuyến bay đo liên_kết là tuyến bay đo để liên_kết số_liệu đo từ , trọng_lực giữa các vùng bay với nhau .
+
+13 . Các cụm từ viết tắt trong Thông_tư này quy_định tại bảng 1 như sau :
+
+Bảng 1 . Các cụm từ viết tắt
+
+Điều 4 . Mạng_lưới tuyến bay đo , độ cao và tốc_độ bay
+
+1 . Mạng_lưới tuyến bay đo từ , trọng_lực được thực_hiện theo tỉ_lệ điều_tra ; khoảng_cách các tuyến bay đo thường , khoảng_cách các tuyến bay đo tựa được quy_định tại Bảng 2 khoản này .
+
+Bảng 2 . Khoảng_cách_mạng_lưới các tuyến bay đo
+
+2 . Khoảng_cách giữa các tuyến bay đo thường_khi bay thực_tế không lệch quá một phần ba ( 1 / 3 ) khoảng_cách giữa hai tuyến liền kề so với thiết_kế .
+
+3 . Yêu_cầu thiết_kế hướng ( phương vị ) tuyến bay đo :
+
+a ) Hướng tuyến bay đo thường được thiết_kế vuông_góc hoặc gần vuông_góc với phương cấu_trúc địa_chất chung của vùng bay nhưng không nhỏ hơn 45 ;
+
+b ) Hướng tuyến bay đo tựa được thiết_kế vuông_góc với tuyến bay đo thường ;
+
+c ) Không thiết_kế tuyến bay đo thường theo hướng 90 hoặc 270 đối_với bay đo từ .
+
+4 . Yêu_cầu thiết_kế tuyến bay đo liên_kết :
+
+a ) Tuyến bay đo liên_kết được thiết_kế để đo chờm phủ lên cả hai vùng bay đo trên vùng có đặc_điểm trường từ ổn_định ;
+
+b ) Việc liên_kết giữa hai vùng bay phải có ít_nhất ba tuyến bay đo liên_kết ; chiều dài mỗi tuyến bay đo liên_kết chờm trên từng vùng bay tối_thiểu 10 km .
+
+5 . Độ cao bay đo từ và bay đo trọng_lực của tuyến bay đo thường , tuyến bay đo tựa tối_đa là 500m tính từ điểm_cao nhất của mặt địa_hình trên tuyến bay , trừ độ cao bay đo quy_định tại khoản 2 Điều 17 , điểm b khoản 2 và điểm b khoản 3 Điều 18 , khoản 2 Điều 37 và khoản 1 Điều 38 Thông_tư này . Việc xác_định độ cao bay đo cụ_thể được thực_hiện theo đề_án , dự_án , nhiệm_vụ ( sau đây gọi chung là đề_án ) do cơ_quan nhà_nước có thẩm_quyền phê_duyệt .
+
+6 . Yêu_cầu về tốc_độ bay :
+
+a ) Tốc_độ bay đo từ 500 km / h ;
+
+b ) Tốc_độ bay đo trọng_lực 250 km / h và giữ ổn_định tốc_độ trong toàn_bộ quá_trình bay đo .
+
+Điều 5 . Chuẩn_bị thực_hiện bay đo từ và bay đo trọng_lực
+
+1 . Đơn_vị thực_hiện bay đo từ và bay đo trọng_lực có trách_nhiệm :
+
+a ) Phối_hợp với cơ_quan , đơn_vị cung_cấp dịch_vụ bay để xin cấp phép bay , thông_báo kế_hoạch bay theo quy_định của pháp_luật ;
+
+b ) Đăng_kí nhà_nước về hoạt_động điều_tra cơ_bản địa_chất về khoáng_sản và thăm_dò khoáng_sản ;
+
+c ) Xem_xét , đánh_giá đặc_điểm khí_hậu , thời_tiết , địa_hình để tính_toán thời_gian bay đo cho phù_hợp ;
+
+d ) Kiểm_tra , kiểm_định , hiệu chuẩn máy , thiết_bị phục_vụ công_tác bay đo theo quy_định của pháp_luật ;
+
+đ ) Chuẩn_bị vật_tư , vật_liệu , tài_liệu có liên_quan ;
+
+e ) Vận_chuyển máy , thiết_bị và nhân_lực tới vùng bay .
+
+2 . Công_tác chuẩn_bị trước mỗi chuyến bay đo :
+
+Đơn_vị được giao nhiệm_vụ bay đo từ , bay đo trọng_lực và các đơn_vị liên_quan có trách_nhiệm :
+
+a ) Thực_hiện các quy_định tại khoản 1 Điều này ;
+
+b ) Kiểm_tra hoạt_động của toàn_bộ hệ_thống_thiết_bị đo ;
+
+c ) Xác_định điều_kiện bay , kế_hoạch bay ;
+
+d ) Thực_hiện các thủ_tục bay đo theo quy_định của pháp_luật .
+
+Điều 6 . Phòng_ngừa , ứng_phó , khắc_phục sự_cố trong quá_trình bay đo
+
+1 . Đơn_vị được giao nhiệm_vụ bay đo từ , bay đo trọng_lực và các cơ_quan , đơn_vị liên_quan theo chức_năng nhiệm_vụ có trách_nhiệm thực_hiện các biện_pháp để phòng_ngừa , ứng_phó , khắc_phục sự_cố trong quá_trình bay đo .
+
+2 . Việc phòng_ngừa , ứng_phó , khắc_phục sự_cố trong quá_trình bay đo thực_hiện theo quy_định của pháp_luật .
+
+Điều 7 . Các dạng công_tác bay đo từ và trọng_lực
+
+Mỗi_một đề_án bay đo từ hoặc bay đo trọng_lực , đơn_vị được giao nhiệm_vụ bay đo phải thực_hiện các dạng công_tác bay gồm bay khảo_sát , bay đo kĩ_thuật , bay đo sản_xuất và bay chuyển trường , cụ_thể như sau :
+
+1 . Bay khảo_sát tổng_quan toàn vùng bay để xác_định điều_kiện địa_hình , địa_vật , khí_hậu , điều_kiện cất_cánh , hạ_cánh nhằm phục_vụ xây_dựng kế_hoạch bay an_toàn , hợp_lý , hiệu_quả .
+
+2 . Bay đo kĩ_thuật gồm các dạng bay sau :
+
+a ) Bay để kiểm_tra máy , thiết_bị và xác_định các thông_số kĩ_thuật . Đối_với bay đo từ phải thực_hiện bay đo bù từ_trường , bay xác_định_ảnh_hưởng của trường từ theo hướng bay và bay xác_định độ trễ của thiết_bị đo ghi . Đối_với bay đo trọng_lực phải thực_hiện bay đo trên tuyến bay chuẩn theo quy_định tại khoản 2 Điều 38 Thông_tư này để kiểm_tra máy đo trọng_lực ;
+
+b ) Bay chọn tuyến bay kiểm_tra ;
+
+c ) Bay đo theo tuyến bay đo tựa , tuyến bay đo liên_kết đã thiết_kế .
+
+3 . Bay đo sản_xuất là việc thực_hiện công_tác bay đo từ , bay đo trọng_lực theo mạng_lưới tuyến bay đo thường đã thiết_kế .
+
+4 . Bay chuyển trường là bay chuyển máy_bay từ sân_bay này đến sân_bay khác trong quá_trình thực_hiện đề_án .
+
+Điều 8 . Công_tác lắp_đặt , tháo_dỡ máy , thiết_bị
+
+1 . Việc lắp_đặt máy đo từ , trọng_lực và các thiết_bị khác có liên_quan thực_hiện theo quy_định kĩ_thuật và thiết_kế của đơn_vị cung_cấp máy_bay .
+
+2 . Công_tác lắp_đặt máy , thiết_bị bảo_đảm kết_nối toàn_bộ hệ_thống máy và thiết_bị liên_quan ( hệ_thống thu_thập số_liệu , hệ_thống dẫn đường định_vị Gps , hệ_thống_thiết_bị đo độ cao ) ; vận_hành kiểm_tra bảo_đảm toàn_bộ hệ_thống máy và thiết_bị hoạt_động bình_thường .
+
+3 . Việc tháo_dỡ máy và các thiết_bị khác liên_quan được thực_hiện trong các trường_hợp sau :
+
+a ) Kết_thúc mùa bay ;
+
+b ) Bảo_dưỡng định_kì máy_bay theo quy_định của pháp_luật hoặc của nhà sản_xuất ;
+
+c ) Máy_bay , máy và thiết_bị liên_quan có sự_cố hoặc không đảm_bảo_an_toàn để thực_hiện bay .
+
+Điều 9 . Giám_sát công_tác bay đo từ và trọng_lực ; kiểm_tra , nghiệm_thu , thẩm_định kết_quả bay đo từ và trọng_lực
+
+1 . Việc giám_sát công_tác bay đo từ và trọng_lực được thực_hiện theo quy_định của pháp_luật trong toàn_bộ quá_trình từ lắp_đặt , tháo_dỡ máy , thiết_bị cho đến khi kết_thúc quá_trình bay đo .
+
+2 . Việc kiểm_tra , nghiệm_thu , thẩm_định kết_quả bay đo từ , trọng_lực thực_hiện theo các quy_định hiện_hành về điều_tra cơ_bản địa_chất về khoáng_sản và thăm_dò khoáng_sản và các quy_định pháp_luật khác có liên_quan .
+
+Điều 10 . Lưu_giữ , khai_thác , sử_dụng , công_bố thông_tin
+
+Việc lưu_giữ , khai_thác , sử_dụng , công_bố thông_tin , số_liệu , kết_quả bay đo từ và trọng_lực thực_hiện theo quy_định của pháp_luật .
+
+Chương_ii
+
+Công_tác Trắc_địa Định_vị Dẫn Tuyến Bay Đo Từ Và Bay Đo Trọng_lực
+
+Điều 11 . Yêu_cầu kĩ_thuật công_tác trắc_địa định_vị dẫn tuyến bay đo từ và trọng_lực
+
+1 . Trước mỗi mùa bay , hệ_thống định_vị , dẫn đường ( máy Gps ) phải được kiểm_tra các thông_số về toạ_độ , độ cao tại mốc trắc_địa quốc_gia và tại vị_trí lắp_đặt máy Gps trên máy_bay .
+
+2 . Việc dẫn tuyến bay đo để thực_hiện các dạng công_tác bay đo quy_định tại Điều 7 Thông_tư này không lệch quá một phần ba ( 1 / 3 ) khoảng_cách giữa hai tuyến bay đo liền kề đã thiết_kế .
+
+3 . Độ chính_xác xác_định vị_trí điểm đo : Về mặt_phẳng ( Mxy ) 15m ; về độ cao ( mh ) 0 , 8m .
+
+Điều 12 . Công_tác trắc_địa trên mặt_đất
+
+1 . Việc đo câu nối toạ_độ , độ cao từ mốc trắc_địa quốc_gia đến hai điểm đặt máy Gps tại các vị_trí cố_định trên mặt_đất ( gọi chung là máy Gps_tĩnh ) phải đạt độ chính_xác về mặt_phẳng Mxy 1m , về độ cao mh 0 , 3m trước khi bay đo từ và trọng_lực trên mạng_lưới tuyến đã thiết_kế . Trong trường_hợp thuận_lợi được đặt máy Gps tĩnh_tại vị_trí điểm toạ_độ độ cao Nhà_nước .
+
+2 . Hai máy Gps_tĩnh phải đo liên_tục trong thời_gian từ khi máy_bay cất_cánh bay đo từ , trọng_lực đến khi máy_bay hạ_cánh .
+
+Điều 13 . Công_tác trắc_địa cho một chuyến bay đo
+
+1 . Trước khi thực_hiện một chuyến bay đo từ , trọng_lực , đơn_vị thực_hiện yêu_cầu đội_ngũ kĩ_thuật bay đo phải triển_khai các nội_dung sau :
+
+a ) Lập kế_hoạch bay đo trong ngày ;
+
+b ) Chuyển_đổi toạ_độ thiết_kế tuyến bay về toạ_độ mặc_định của máy Gps lắp_đặt trên máy_bay ( gọi chung là máy Gps_động ) ;
+
+c ) Xác_định toạ_độ điểm đầu và điểm cuối các tuyến bay đo ;
+
+d ) Nhập toạ_độ mạng_lưới tuyến bay đo đã thiết_kế vào máy Gps lắp_đặt trên máy_bay .
+
+2 . Khi máy_bay cất_cánh để bay đo , cán_bộ kĩ_thuật trắc_địa phối_hợp với tổ lái dẫn máy_bay vào tuyến bay đo , vận_hành thiết_bị ghi số_liệu toạ_độ , độ cao các điểm đo của tuyến bay đo ; kiểm_tra việc ghi số_liệu đo và theo_dõi hoạt_động của các thiết_bị đo trong toàn_bộ quá_trình bay đo .
+
+3 . Cán_bộ kĩ_thuật trắc_địa có trách_nhiệm phối_hợp với tổ lái kiểm_tra độ lệch về mặt_phẳng và độ cao tuyến bay đảm_bảo bay đúng tuyến bay đo đã thiết_kế .
+
+Điều 14 . Văn_phòng thực_địa công_tác trắc_địa
+
+Kết_thúc một ngày bay đo từ , trọng_lực , đội_ngũ kĩ_thuật bay đo phải thực_hiện công_tác văn_phòng với các nội_dung sau :
+
+1 . Chuyển số_liệu , lưu_giữ số_liệu vào máy_tính và thiết_bị lưu_giữ ngoài . Kiểm_tra , đánh_giá sơ_bộ chất_lượng số_liệu đo hàng ngày .
+
+2 . Xử_lí đồng_bộ số_liệu đo của hai ( 02 ) máy Gps_tĩnh và máy Gps động bằng phần_mềm chuyên_dụng kèm theo .
+
+3 . Chuyển giá_trị toạ_độ và độ cao các điểm đo trên máy_bay về hệ toạ_độ quốc_gia hiện_hành .
+
+4 . Lập sơ_đồ tuyến bay thực_tế theo các dạng công_tác bay đo quy_định tại Điều 7 Thông_tư này trên nền bản_đồ địa_hình theo tỉ_lệ đã thiết_kế để phục_vụ công_tác xử_lí các số_liệu bay đo từ , trọng_lực và hoàn_thiện các bộ bản_đồ theo yêu_cầu của đề_án bay đo .
+
+5 . Thống_kê các tuyến bay đo từ , trọng_lực trong ngày ; kiểm_tra , xác_định các đoạn tuyến bay đo chưa đạt yêu_cầu kĩ_thuật , đề_xuất kế_hoạch bay đo bổ_sung .
+
+Chương_iii
+
+Công_tác Bay Đo Từ
+
+Điều 15 . Yêu_cầu chung về máy và thiết_bị đo từ trên máy_bay
+
+1 . Đầu thu từ có độ nhạy 1 nT .
+
+2 . Thiết_bị đo ghi phải có thiết_bị bù từ_trường và phần_mềm bù từ_trường tự_động .
+
+3 . Khối thu_thập dữ_liệu điều_khiển chung , đảm_bảo đồng_bộ mọi dữ_liệu theo thời_gian thực của máy Gps và các thiết_bị phụ_trợ khác . Tốc_độ đo ghi từ 01giây / 01 số_liệu đo đến 0 , 1 giây / 01 số_liệu đo .
+
+4 . Có phần_mềm xử_lý , hiệu_chỉnh , liên_kết số_liệu đo .
+
+Điều 16 . Yêu_cầu về lắp_đặt máy , thiết_bị đo từ tại máy_bay
+
+1 . Việc lắp_đặt máy , thiết_bị đo từ tại máy_bay phải thực_hiện theo quy_định tại khoản 1 , Khoản 2 Điều 8 Thông_tư này .
+
+2 . Đối_với đầu thu máy đo từ phải lắp_đặt theo thiết_kế phù_hợp với loại máy_bay được sử_dụng tại một trong các vị_trí sau :
+
+a ) Tại vị_trí giá ( cần ) kéo_dài về phần đuôi ( hoặc đầu ) máy_bay ;
+
+b ) Tại vị_trí đầu ngoài cùng của cánh máy_bay ;
+
+c ) Thả bằng cáp xuống phía dưới thân máy_bay .
+
+Điều 17 . Bay khảo_sát tổng_quan toàn vùng bay
+
+1 . Mỗi đề_án bay đo từ phải thực_hiện ít_nhất một chuyến bay khảo_sát tổng_quan toàn vùng bay để xác_định khái_quát ranh_giới vùng bay , điều_kiện địa_hình , địa_vật phục_vụ công_tác xây_dựng kế_hoạch và tổ_chức bay đảm_bảo_an_toàn , hiệu_quả .
+
+2 . Độ cao bay khảo_sát tổng_quan toàn vùng bay không thấp hơn độ cao bay đo từ của tuyến bay đã thiết_kế .
+
+Điều 18 . Bay bù từ_trường và bay xác_định_ảnh_hưởng của trường từ theo hướng bay
+
+1 . Bay bù từ_trường và bay xác_định_ảnh_hưởng của trường từ theo hướng bay được thực_hiện khi bắt_đầu một mùa bay hoặc vùng bay có hướng của các tuyến bay đo không trùng với hướng tuyến bay đo của vùng bay trước đó .
+
+Kỹ_thuật bay bù từ_trường và bay xác_định_ảnh_hưởng của trường từ theo hướng bay thực_hiện theo quy_định tại khoản 2 , khoản 3 Điều này .
+
+2 . Bay bù từ_trường để xác_định giá_trị trường từ của máy_bay ảnh_hưởng đến kết_quả đo , cụ_thể :
+
+a ) Vùng bay bù từ_trường phải đáp_ứng các yêu_cầu : Gần khu_vực bay đo ; có trường từ tương_đối bình_ổn ;
+
+b ) Bay bù từ_trường thực_hiện ở độ cao từ 2000m đến 3000m tính từ mặt địa_hình ;
+
+c ) Tất_cả các máy , thiết_bị đo được lắp_đặt trên máy_bay và thiết_bị của máy_bay được đặt ở chế_độ hoạt_động bình_thường tương_tự khi bay đo ;
+
+d ) Kỹ_thuật bay bù từ_trường : Bay theo 4 cạnh của hình_vuông , kích_thước mỗi cạnh từ 5km đến 10km . Hướng của các cạnh hình_vuông phù_hợp với hướng của tuyến bay đo thường và tuyến bay đo tựa . Khi bay trên mỗi cạnh của hình_vuông phải thay_đổi ba lần chuyển_động của máy_bay theo độ nghiêng ( roll ) 5 , hướng ( yaw ) 5 , độ cao ( pitch ) 10 ;
+
+đ ) Giá_trị trường từ đo được khi thay_đổi các trạng_thái của máy_bay được tự_động tính_toán và bù vào kết_quả đo trường từ trong quá_trình bay đo sản_xuất . Sau khi bù tự_động , giới_hạn nhiễu khi bay không vượt quá 4nT .
+
+3 . Bay xác_định giá_trị ảnh_hưởng của trường từ theo hướng bay nhằm thu_thập số_liệu để hiệu_chỉnh sự ảnh_hưởng của hướng bay đến kết_quả đo , cụ_thể :
+
+a ) Vị_trí trung_tâm bay ( a ) theo quy_định tại Hình 1 khoản này phải đáp_ứng các yêu_cầu : Gần khu_vực bay đo ; có trường từ tương_đối bình_ổn ;
+
+b ) Bay xác_định giá_trị ảnh_hưởng của trường từ theo hướng bay được thực_hiện ở độ cao từ 2000m đến 3000m tính từ mặt địa_hình ;
+
+c ) Tất_cả các máy , thiết_bị đo được lắp_đặt trên máy_bay và thiết_bị của máy_bay được đặt ở chế_độ hoạt_động bình_thường tương_tự khi bay đo ;
+
+d ) Kỹ_thuật bay : Bay theo bốn ( 04 ) hướng qua vị_trí trung_tâm ( a ) quy_định tại Hình 1 theo các hướng phù_hợp với hướng của tuyến bay đo thường và tuyến bay đo tựa .
+
+Trình_tự bay đo thực_hiện lần_lượt từ vị_trí bắt_đầu 1 đến vị_trí kết_thúc 6 theo sơ_đồ tại Hình 1 :
+
+Hình 1 : Sơ_đồ bay đo xác_định giá_trị ảnh_hưởng của trường từ theo các hướng bay
+
+Điều 19 . Bay xác_định độ trễ của thiết_bị đo ghi
+
+Bay đo xác_định độ trễ của thiết_bị đo ghi để xác_định độ trễ về thời_gian đo ghi của thiết_bị nhằm hiệu_chỉnh số_liệu đo . Việc bay đo xác_định độ trễ của thiết_bị đo ghi phải đáp_ứng các yêu_cầu sau :
+
+1 . Vị_trí bay đo được lựa_chọn nơi có dị_thường đơn điển_hình để thực_hiện bay ( cầu sắt , đường tàu_hoả ) .
+
+2 . Bay lần_lượt theo hai hướng ngược nhau trên vị_trí đã lựa_chọn tại khoản 1 Điều này .
+
+3 . Độ cao bay đo là 500m tính từ vị_trí đã lựa_chọn .
+
+Điều 20 . Lựa_chọn xác_định_tuyến bay đo kiểm_tra
+
+1 . Tuyến bay đo kiểm_tra được lựa_chọn khi đáp_ứng các yêu_cầu sau :
+
+a ) Vị_trí gần vùng bay đo , địa_hình không quá phức_tạp ;
+
+b ) Trường từ của tuyến bay đo tương_đối bình_ổn ;
+
+c ) Độ dài tuyến bay đo từ 15km đến 20km .
+
+2 . Việc bay lựa_chọn xác_định_tuyến bay kiểm_tra được thực_hiện vào ngày thời_tiết thuận_lợi , không có bão từ .
+
+3 . Độ cao bay lựa_chọn xác_định_tuyến bay kiểm_tra bằng độ cao của tuyến bay đo thường quy_định tại khoản 5 Điều 4 Thông_tư này .
+
+4 . Xử_lí_số_liệu , lựa_chọn xác_định_tuyến bay đo kiểm_tra .
+
+Điều 21 . Đo biến_thiên từ
+
+1 . Công_tác đo biến_thiên từ thực_hiện theo tiêu_chuẩn quốc_gia Tcvn 9427 : 2012 - Điều_tra , đánh_giá và thăm_dò khoáng_sản - Đo biến_thiên từ . Trường_hợp đo biến_thiên từ cho công_tác bay đo từ trên biển thực_hiện theo quy_định tại các khoản 2 , 3 và khoản 4 Điều này .
+
+2 . Khoảng_cách từ trạm đo biến_thiên từ đến vùng bay đo theo phương vĩ_tuyến 350km .
+
+3 . Trường_hợp vùng bay đo có kích_thước theo phương kinh_tuyến 200km thì sử_dụng một trạm đo biến_thiên từ . Trường_hợp vùng bay đo có kích_thước theo phương kinh_tuyến > 200km thì thực_hiện như sau :
+
+a ) Đặt hai trạm đo biến_thiên từ ở phía Bắc và phía Nam vùng bay ;
+
+b ) Sử_dụng đồng_thời_giá_trị của cả hai trạm đo biến_thiên từ để tính hiệu_chỉnh theo công_thức sau :
+
+Trong đó :
+
+- dTbt : Giá_trị biến_thiên trung_bình ;
+
+- V1 : Vĩ_độ của trạm biến_thiên 1 ;
+
+- V2 : Vĩ_độ của trạm biến_thiên 2 ;
+
+- dT1 : Giá_trị biến_thiên của trạm biến_thiên 1 ;
+
+- dT2 : Giá_trị biến_thiên của trạm biến_thiên 2 .
+
+Điều 22 . Yêu_cầu kĩ_thuật bay đo từ
+
+1 . Công_tác bay đo từ chỉ tiến_hành khi không có bão từ .
+
+2 . Chu_trình một chuyến bay đo được thực_hiện theo sơ_đồ quy_định tại Hình 2 khoản này , lần_lượt như sau :
+
+a ) Xuất_phát từ sân_bay ;
+
+b ) Tuyến bay đo kiểm_tra ;
+
+c ) Các tuyến bay đo trong vùng bay ;
+
+d ) Tuyến bay đo kiểm_tra ;
+
+đ ) Về sân_bay ( kết_thúc chuyến bay ) .
+
+Hình 2 : Sơ_đồ thực_hiện một chuyến bay đo từ
+
+3 . Yêu_cầu đối_với người vận_hành hệ_thống máy , thiết_bị đo từ :
+
+a ) Tuân_thủ quy_định an_toàn lao_động , an_toàn hàng không theo quy_định của pháp_luật ;
+
+b ) Thường_xuyên theo_dõi tình_trạng hoạt_động của máy , thiết_bị và ghi_chép đầy_đủ các thông_tin , số_liệu của tuyến bay vào nhật_kí bay đo theo mẫu_số 01 ban_hành kèm theo Thông_tư này ;
+
+c ) Khi kết_thúc chuyến bay , có trách_nhiệm chuyển số_liệu từ máy , thiết_bị đo ghi cho bộ_phận văn_phòng thực_địa , kí xác_nhận thời_gian của chuyến bay vào nhật_kí bay ;
+
+4 . Việc bay đo từ đối_với tuyến bay đo tựa , tuyến bay đo liên_kết phải thực_hiện bay đo liên_tục và có độ cao cùng độ cao bay đo của tuyến bay đo thường .
+
+5 . Phải bay đo lại khi có một trong các trường_hợp sau :
+
+a ) Độ dài các đoạn tuyến bay đo > 5 km mà có độ lệch lớn hơn một phần ba ( 1 / 3 ) khoảng_cách tuyến bay đo so với tuyến bay đo đã thiết_kế ;
+
+b ) Giá_trị biến_thiên từ đo được thay_đổi > 05 nT trong khoảng thời_gian 05 phút hoặc không ghi được giá_trị biến_thiên từ ;
+
+c ) Không ghi được một trong các loại số_liệu sau : Thời_gian , giá_trị trường từ , giá_trị toạ_độ và thời_gian thực của máy Gps trên máy_bay ;
+
+d ) Tuyến bay đo tựa , tuyến bay đo liên_kết không được bay đo liên_tục .
+
+Điều 23 . Công_tác văn_phòng thực_địa
+
+1 . Tiếp_nhận và lưu_giữ số_liệu , tài_liệu từ người vận_hành hệ_thống máy , thiết_bị đo .
+
+2 . Kiểm_tra , đánh_giá số_liệu , tài_liệu thu_thập :
+
+a ) Xây_dựng sơ_đồ tuyến bay đo thực_tế ;
+
+b ) Kiểm_tra độ cao , xác_định độ lệch của tuyến bay đo thực_tế so với tuyến bay đo đã thiết_kế ;
+
+c ) Thống_kê các đoạn tuyến bay đo không đạt yêu_cầu kĩ_thuật và các đoạn tuyến phải tiến_hành bay lại theo quy_định tại khoản 5 Điều 22 Thông_tư này ;
+
+d ) Xử_lí sơ_bộ số_liệu đo ; xây_dựng đồ_thị theo tuyến bay ;
+
+đ ) Đánh_giá sai_số của tuyến bay đo kiểm_tra thực_hiện theo công_thức :
+
+Trong đó :
+
+- d : Sai_số của tuyến bay đo kiểm_tra ;
+
+- T1i , T2i : giá_trị trường từ của tuyến bay đo kiểm_tra lượt_đi và lượt về theo sơ_đồ tại Hình 2 khoản 2 Điều 22 Thông_tư này ;
+
+- N : số điểm tính sai_số .
+
+e ) Kết_quả đánh_giá sai_số của tuyến bay đo kiểm_tra quy_định tại điểm đ khoản này phải 5 nT ;
+
+g ) Thống_kê độ dài tuyến bay đo .
+
+3 . Lập kế_hoạch cho chuyến bay đo tiếp_theo .
+
+Điều 24 . Công_tác văn_phòng hàng năm
+
+1 . Tính giá_trị trường từ toàn_phần T tại mỗi điểm đo từ của tuyến bay đo như sau :
+
+Trong đó :
+
+a ) T : Giá_trị trường từ toàn_phần tại điểm đo đã được hiệu_chỉnh biến_thiên từ và tính theo năm thành_lập bản_đồ .
+
+b ) Tđo : Giá_trị trường từ toàn_phần tại điểm đo của tuyến bay đo ;
+
+c ) dTbt : Giá_trị biến_thiên từ tại thời_điểm đo từ_trường của tuyến bay đo được tính theo khoản 2 Điều này ;
+
+d ) dTbtk : Đại_lượng biến_thiên thế_kỉ được tính theo khoản 3 Điều này ;
+
+đ ) dTde : Giá_trị ảnh_hưởng của trường từ theo hướng bay đo được tính theo khoản 4 Điều này .
+
+2 . Giá_trị biến_thiên từ dTbt tại mỗi điểm đo từ của tuyến bay đo được tính như sau :
+
+Trong đó :
+
+a ) dTbt : Giá_trị biến_thiên trường từ tại thời_điểm đo từ_trường của tuyến bay đo ;
+
+b ) Tđbt : Giá_trị trường từ đo tại trạm biến_thiên từ ở cùng thời_điểm đo của tuyến bay đo ;
+
+c ) Ttbn : Giá_trị trường từ trung_bình năm tại điểm đo biến_thiên ( trường_hợp không có giá_trị trường từ trung_bình năm tại điểm đo biến_thiên từ thì lấy giá_trị trường từ trung_bình trong khoảng thời_gian đo biến_thiên ) .
+
+3 . Giá_trị biến_thiên thế_kỉ dTbtk là trung_bình của hiệu các giá_trị trường từ bình_thường giữa các năm trên cùng toạ_độ , được tính như sau :
+
+Trong đó :
+
+a ) T0iđo và T0ithl : Giá_trị trường từ bình_thường T0 của năm thực_hiện bay đo và của năm thành_lập bản_đồ tại cùng nút toạ_độ thứ i .
+
+b ) N : Số giá_trị tính .
+
+4 . Giá_trị ảnh_hưởng của trường từ ( dTde ) theo hướng bay đo được tính như sau :
+
+dTde = Ttb - Ttb _ hướng
+
+Trong đó :
+
+a ) Ttb _ hướng : Giá_trị trường từ trung_bình hướng . Giá_trị trường từ trung_bình hướng ( Ttb _ hướng ) là trung_bình_cộng của bảy ( 7 ) hoặc chín ( 9 ) số_liệu bay đo tại vị_trí trung_tâm ( a ) quy_định tại Hình 1 khoản 3 Điều 18 Thông_tư này ;
+
+b ) Ttb : Giá_trị trường từ trung_bình được tính như sau :
+
+Số_liệu để tính giá_trị hiệu_chỉnh ảnh_hưởng của trường từ theo hướng bay đo là giá_trị trường từ toàn_phần ( t ) đã được hiệu_chỉnh biến_thiên từ quy_định tại khoản 2 Điều này và hiệu_chỉnh độ trễ của thiết_bị đo ghi quy_định tại khoản này ; xác_định toạ_độ và điểm đo tại vị_trí trung_tâm ( a ) vùng bay đo theo quy_định tại Hình 1 khoản 3 Điều 18 Thông_tư này .
+
+5 . Giá_trị độ trễ của thiết_bị đo ghi được tính bằng một phần hai ( 1 / 2 ) khoảng thời_gian giữa hai cực_trị của dị_thường_khi bay đo từ qua dị_thường đơn quy_định tại khoản 1 Điều 19 Thông_tư này .
+
+Điều 25 . Công_tác thành_lập bản_đồ trường từ
+
+1 . Liên_kết tài_liệu bay đo từ : Cân_bằng mạng_lưới tuyến bay đo tựa bằng phương_pháp trung_bình theo quy_định sau :
+
+a ) Chọn tuyến bay đo tựa nằm giữa vùng bay , cắt qua khu_vực trường từ bình_ổn ;
+
+b ) Tính giá_trị độ lệch trung_bình giữa các điểm giao_cắt của tuyến bay đo tựa và tuyến bay đo thường theo công_thức :
+
+Trong đó :
+
+- k : Giá_trị độ lệch trung_bình của tuyến bay đo tựa k ;
+
+- Ti tua : Giá_trị đo của tuyến bay đo tựa k tại điểm giao_cắt thứ i ;
+
+- Tthgi : Giá_trị đo của tuyến bay đo thường tại điểm giao_cắt thứ i ;
+
+- N là số điểm giao_cắt giữa tuyến bay đo tựa và tuyến bay đo thường .
+
+Tuyến bay đo tựa k phải hiệu_chỉnh giá_trị là - k nT .
+
+c ) Thực_hiện liên_kết tuyến bay đo tựa bằng tuyến bay đo thường cho tất_cả các tuyến bay đo tựa ;
+
+d ) Giá_trị độ lệch giữa tuyến bay đo tựa k và tuyến bay đo thường y tại các điểm giao_cắt sau khi tuyến bay đo tựa đã được cân_bằng tính như sau :
+
+Với mỗi tuyến bay đo thường sẽ có nhiều nhất k giá_trị độ lệch giao_cắt với tuyến bay đo tựa được dùng để liên_kết .
+
+đ ) Giá_trị trường từ trên tuyến bay đo thường được liên_kết với tuyến bay đo tựa sau khi đã được cân_bằng theo công_thức :
+
+Tthglk = Tt hg + f ( Spki )
+
+Trong đó :
+
+- Tthglk : Giá_trị tuyến bay đo thường được liên_kết ;
+
+- Tt hg : Giá_trị tuyến bay đo thường chưa liên_kết ;
+
+- f ( Spki ) : Là giá_trị trung_bình hoặc hàm bậc nhất , bậc hai của các giá_trị độ lệch giữa tuyến bay đo tựa sau khi cân_bằng với tuyến bay đo thường tại các nút giao_cắt .
+
+2 . Đánh_giá sai_số bản_đồ trường từ :
+
+Sai_số bản_đồ trường từ ( m ) được xác_định bởi sai_số bình_phương trung_bình giữa các nút giao_cắt của tuyến bay đo tựa và tuyến bay đo thường được tính như sau :
+
+Trong đó :
+
+a ) n : số điểm giao_cắt ;
+
+b ) Ti = Tthglk - Ttua ;
+
+c ) Tthglk : Giá_trị trường từ của tuyến bay đo thường tại điểm giao_cắt với tuyến bay đo tựa sau khi đã hiệu_chỉnh theo quy_định tại Điều 24 Thông_tư này và được liên_kết theo quy_định tại khoản 1 Điều này ;
+
+d ) Ttua : Giá_trị trường từ của tuyến bay đo tựa tại điểm giao_cắt với tuyến bay đo thường sau khi đã hiệu_chỉnh theo quy_định Điều 24 Thông_tư này .
+
+3 . Độ chính_xác của bản_đồ trường từ được phân_loại như sau :
+
+a ) Độ chính_xác thấp khi m > 15nT ;
+
+b ) Độ chính_xác trung_bình khi 5 m 15 nT ;
+
+c ) Độ chính_xác cao khi m < 5 nT .
+
+4 . Tính dị_thường trường từ ( Ta ) được tính theo công_thức :
+
+Ta = Tthglk - T0
+
+Trong đó :
+
+a ) Tthglk : Giá_trị trường từ của tuyến bay đo thường tại điểm giao_cắt với tuyến bay đo tựa sau khi đã hiệu_chỉnh theo quy_định tại Điều 24 Thông_tư này và được liên_kết theo quy_định tại khoản 1 Điều này ;
+
+b ) T0 : Giá_trị trường từ bình_thường tại cùng một điểm đo .
+
+Điều 26 . Sản_phẩm của công_tác bay đo từ
+
+1 . Sơ_đồ , bản_đồ kết_quả bay đo từ , gồm :
+
+a ) Sơ_đồ thực_tế tuyến bay đo ;
+
+b ) Bản_đồ trường từ toàn_phần T ( năm thành_lập ) ;
+
+c ) Bản_đồ dị_thường trường từ Ta ;
+
+d ) Bản_đồ đồ_thị dị_thường trường từ Ta .
+
+2 . Bản_đồ biến_đổi trung_gian , gồm :
+
+a ) Bản_đồ trường từ chuyển về cực , về xích_đạo ;
+
+b ) Bản_đồ đạo_hàm bậc nhất thành_phần thẳng_đứng ;
+
+c ) Bản_đồ đạo_hàm bậc hai thành_phần thẳng_đứng ;
+
+d ) Bản_đồ nâng trường từ , hạ trường từ ;
+
+đ ) Các bản_đồ biến_đổi trung_gian có liên_quan khác .
+
+3 . Sơ_đồ , bản_đồ giải_thích địa_chất tài_liệu bay đo từ , gồm :
+
+a ) Bản_đồ cấu_trúc địa_chất theo tài_liệu bay đo từ ;
+
+b ) Sơ_đồ dự_báo triển_vọng khoáng_sản theo tài_liệu bay đo từ .
+
+4 . Báo_cáo tổng_kết công_tác bay đo từ .
+
+Điều 27 . Nội_dung sơ_đồ thực_tế tuyến bay đo
+
+1 . Sơ_đồ thực_tế tuyến bay đo quy_định tại điểm a khoản 1 Điều 26 Thông_tư này được xây_dựng trên nền bản_đồ địa_hình_giản lược cùng tỉ_lệ bay đo ; sơ_đồ thể_hiện đầy_đủ , phân_biệt rõ các tuyến bay đo thường , tuyến bay đo tựa , tuyến bay đo kiểm_tra , tuyến bay đo liên_kết và tuyến bay đo lại ; đường bao vùng bay thiết_kế và vùng bay thực_tế ; đường bao các vùng được bay đo chi_tiết , bay đo ở tỉ_lệ khác nhau , bay đo ở độ cao khác nhau .
+
+2 . Sơ_đồ phải thể_hiện chi_tiết tên của mỗi tuyến bay đo và có kí_hiệu mũi_tên để chỉ hướng bay đo .
+
+Điều 28 . Nội_dung bản_đồ trường từ toàn_phần T
+
+1 . Bản_đồ được xây_dựng trên nền bản_đồ địa_hình_giản lược cùng tỉ_lệ bay đo , ghi rõ năm thành_lập bản_đồ ; được thể_hiện màu_sắc theo các gam màu tăng dần từ xanh - nâu - đỏ tương_ứng với giá_trị trường từ từ thấp đến cao .
+
+2 . Độ chênh_lệch giữa các đường đẳng trị của trường từ được lựa_chọn có trị_số gấp từ hai ( 2 ) đến ba ( 3 ) lần so với sai_số bản_đồ trường từ toàn_phần .
+
+3 . Đường đẳng trị trường từ thể_hiện màu đen , lực nét nhỏ hơn 0 , 3mm . Đường đẳng trị trường từ chính ( chẵn 500 , 1000 ) có lực nét bằng 1 , 5 đến 2 lần lực nét đường đẳng trị khác ; đường đẳng trị ghi giá_trị trường từ ( đơn_vị nT ) và có hướng về phía trường từ lớn hơn .
+
+4 . Tại điểm cực_trị của dị_thường trường từ phải ghi giá_trị trường từ , đồng_thời phải lược bỏ một_số đường đẳng trị .
+
+Điều 29 . Nội_dung bản_đồ trường dị_thường từ Ta
+
+1 . Bản_đồ được xây_dựng trên nền bản_đồ địa_hình_giản lược cùng tỉ_lệ bay đo ; được thể_hiện màu xanh hoặc màu đỏ ( dị_thường trường từ có giá_trị dương là màu đỏ , dị_thường trường từ có giá_trị âm là màu xanh ) ; thể_hiện phân_biệt trường dị_thường từ theo cường_độ bằng độ đậm nhạt của màu_sắc ; phải có thang màu_sắc chỉ_dẫn theo màu thực_tế trên bản_đồ .
+
+2 . Đường đẳng trị trường dị_thường từ có giá_trị dương là đường_nét liền , lực nét nhỏ hơn 0 , 3mm . Đường đẳng trị trường dị_thường từ có giá_trị âm là đường_nét gạch , lực nét nhỏ hơn 0 , 3mm . Đường đẳng trị trường dị_thường từ có giá_trị bằng không ( 0 ) là đường chấm gạch , lực nét nhỏ hơn 0 , 3mm . Các đường đẳng trị trường dị_thường từ chính có độ chênh_lệch 500nT tính từ đường không ( 0 ) , lực nét từ 1 , 5 đến 2 lần so với lực nét của đường đẳng trị khác .
+
+3 . Trên đường đẳng trị ghi giá_trị trường dị_thường từ ( đơn_vị nT ) hướng về phía trường từ lớn hơn .
+
+4 . Tại những nơi giá_trị cực_trị của dị_thường từ quá lớn hoặc quá nhỏ thì ghi giá_trị của dị_thường trường từ tại điểm cực_trị đồng_thời phải lược bỏ một_số đường đẳng trị .
+
+Điều 30 . Nội_dung bản_đồ đồ_thị dị_thường trường từ Ta
+
+1 . Bản_đồ đồ_thị được xây_dựng trên nền bản_đồ địa_hình_giản lược cùng tỉ_lệ bay đo ; thể_hiện màu đỏ ( gồm cả đường đồ_thị và miền trường ) đối_với trường dị_thường từ Ta có giá_trị dương ; thể_hiện màu xanh ( gồm cả đường đồ_thị và miền trường ) đối_với trường dị_thường từ Ta có giá_trị âm ; tại những vị_trí có cả trường dị_thường từ Ta có giá_trị âm và giá_trị dương thì thể_hiện màu đỏ của trường dị_thường từ có giá_trị dương .
+
+2 . Thể_hiện đầy_đủ các tuyến bay đo thực_tế ( tuyến bay đo thường , tuyến bay đo tựa , tuyến bay đo liên_kết , tên tuyến bay đo , hướng bay đo ) và đồ_thị của trường dị_thường từ đối_với từng tuyến bay đo .
+
+3 . Ghi_chú trong chú giải bản_đồ và đóng_khung đánh_dấu đối_với khu_vực trường dị_thường từ có cường_độ mạnh mà cắt đồ_thị tuyến liền kề ; thể_hiện kí_hiệu , giá_trị trường từ tại các điểm cực_trị dị_thường từ đối_với trường dị_thường từ lớn mà hẹp .
+
+Điều 31 . Nội_dung bản_đồ cấu_trúc địa_chất theo tài_liệu bay đo từ
+
+1 . Bản_đồ cấu_trúc địa_chất theo tài_liệu bay đo từ phải thể_hiện đầy_đủ các kết_quả quy_định tại khoản 2 , 3 và khoản 4 Điều này .
+
+2 . Kết_quả xác_định và phân_tích đứt_gãy : thể_hiện các đứt_gãy đã xác_định ; phân_vùng cấu_trúc địa_chất .
+
+3 . Kết_quả khoanh định các khối magma . Trường_hợp khối magma đã xác_định được các giai_đoạn thành tạo , mức_độ hoạt_động , tính_chất địa động_lực thì thể_hiện chi_tiết theo mức_độ xác_định .
+
+4 . Kết_quả tổng_hợp phân_tích các đặc_trưng địa_vật_lí và các thành tạo địa_chất - địa_vật_lý .
+
+Điều 32 . Nội_dung sơ_đồ dự_báo triển_vọng khoáng_sản theo tài_liệu bay đo từ
+
+Sơ_đồ dự_báo triển_vọng khoáng_sản theo tài_liệu bay đo phải thể_hiện đầy_đủ các nội_dung : Hệ_thống đứt_gãy ; các đới dị_thường từ ; các cấu_trúc địa_chất dự_đoán có triển_vọng khoáng_sản ; các mỏ và điểm_quặng khoáng_sản đã biết trong vùng ; kết_quả phân_vùng cấu_trúc .
+
+Điều 33 . Báo_cáo tổng_kết công_tác bay đo từ
+
+1 . Báo_cáo tổng_kết công_tác bay đo từ gồm thuyết_minh và các bản_vẽ kèm theo ; phải thể_hiện đầy_đủ các nội_dung đã thực_hiện , kết_quả đạt được , sản_phẩm của đề_án ; đề_xuất , kiến_nghị .
+
+2 . Báo_cáo tổng_kết công_tác bay đo từ phải được số_hoá , lưu_trữ , quản_lí theo quy_định của pháp_luật về điều_tra cơ_bản địa_chất về khoáng_sản .
+
+Chương_iv
+
+Công_tác Bay Đo Trọng_lực
+
+Điều 34 . Yêu_cầu về máy và thiết_bị đo trọng_lực
+
+1 . Máy đo trọng_lực phải lắp_đặt đồng_bộ với các thiết_bị đo độ cao , hệ_thống dẫn đường_bay định_vị Gps , trong đó có ít_nhất ba ( 03 ) máy thu Gps 2 tần gồm một ( 01 ) máy Gps động lắp trên máy_bay , hai ( 02 ) máy Gps tĩnh đặt trong vùng hoặc gần vùng bay đo .
+
+2 . Có khối thu_thập dữ_liệu điều_khiển chung , đảm_bảo đồng_bộ mọi dữ_liệu theo thời_gian thực Gps và các thiết_bị phụ_trợ khác . Tốc_độ đo ghi từ 01giây / 01 số_liệu đo đến 0 , 1giây / 01 số_liệu đo ; có phần_mềm xử_lý , hiệu_chỉnh , liên_kết số_liệu .
+
+3 . Máy , thiết_bị đo trọng_lực phải bảo_đảm thời_hạn , điều_kiện sử_dụng theo quy_định của nhà sản_xuất ; phải được vận_hành kiểm_tra các thông_số kĩ_thuật của máy , thiết_bị bảo_đảm hoạt_động bình_thường , đạt yêu_cầu trước khi lắp_đặt trên máy_bay .
+
+Điều 35 . Lắp_đặt máy , thiết_bị đo trọng_lực tại máy_bay ; lựa_chọn vị_trí dừng đỗ máy_bay
+
+1 . Việc lắp_đặt máy , thiết_bị đo trọng_lực tại máy_bay phải thực_hiện theo quy_định tại khoản 1 , khoản 2 Điều 8 Thông_tư này và các yêu_cầu sau :
+
+a ) Lắp_đặt tại vị_trí ít bị rung lắc nhất của máy_bay ;
+
+b ) Sau khi lắp_đặt phải đo độ chênh cao , độ lệch của anten Gps và máy trọng_lực . Các thông_số này được sử_dụng trong quá_trình xử_lí_số_liệu , tài_liệu trọng_lực ;
+
+c ) Cài_đặt , khởi_động máy đo trọng_lực theo trình_tự , hướng_dẫn của nhà sản_xuất ; vận_hành đo xác_định nhiễu nền của máy đo trọng_lực sau khi đã cài_đặt ; giá_trị nhiễu nền đo được phải bảo_đảm nhỏ hơn giá_trị nhiễu nền theo hướng_dẫn của nhà sản_xuất .
+
+2 . Duy_trì trạng_thái hoạt_động của máy đo trọng_lực thường_xuyên , liên_tục trong toàn_bộ thời_gian thực_hiện công_tác bay đo từ khi bắt_đầu cho đến khi kết_thúc bay đo trọng_lực .
+
+3 . Lựa_chọn vị_trí dừng đỗ của máy_bay để có khoảng_cách phù_hợp đến các loại máy_bay , phương_tiện vận_chuyển khác nhằm giảm nhiễu ảnh_hưởng đến kết_quả đo của máy đo trọng_lực .
+
+Điều 36 . Xác_định toạ_độ và đo nối trọng_lực từ điểm_chuẩn trọng_lực quốc_gia tới vị_trí dừng đỗ của máy_bay
+
+1 . Định_vị toạ_độ , độ cao vị_trí máy_bay dừng đỗ và đo câu nối với điểm_chuẩn trọng_lực quốc_gia để xác_định giá_trị trọng_lực tại vị_trí dừng đỗ máy_bay . Nguyên_tắc đo theo chu_trình từ điểm_chuẩn trọng_lực quốc_gia đến vị_trí dừng đỗ máy_bay và ngược_lại .
+
+2 . Nhập toạ_độ , độ cao , giá_trị trọng_lực tại vị_trí dừng đỗ máy_bay vào máy đo trọng_lực để làm cơ_sở xác_định trường trọng_lực trong quá_trình bay đo .
+
+Điều 37 . Bay khảo_sát tổng_quan toàn vùng bay
+
+1 . Mỗi đề_án , nhiệm_vụ bay đo trọng_lực phải thực_hiện ít_nhất một chuyến bay khảo_sát tổng_quan toàn vùng bay để xác_định khái_quát ranh_giới vùng bay , điều_kiện địa_hình , địa_vật phục_vụ công_tác xây_dựng kế_hoạch và tổ_chức bay đảm_bảo_an_toàn , hiệu_quả .
+
+2 . Độ cao bay khảo_sát tổng_quan toàn vùng bay không thấp hơn độ cao bay đo trọng_lực của tuyến bay đã thiết_kế .
+
+Điều 38 . Bay kiểm_tra máy đo trọng_lực
+
+1 . Bay kiểm_tra máy đo độ cao tương_đối ở các độ cao : 200m , 400m , 600m , 800m và 1000m .
+
+2 . Yêu_cầu tuyến bay đo kiểm_tra ( tuyến chuẩn ) máy đo trọng_lực :
+
+a ) Tuyến bay đo kiểm_tra máy đo trọng_lực phải xác_định toạ_độ điểm đầu và điểm cuối của tuyến bay ; có độ dài từ 30 km đến 40 km .
+
+b ) Được lựa_chọn tại khu_vực có địa_hình không quá phức_tạp ; giá_trị trường trọng_lực của tuyến bay đo kiểm_tra phải có sự thay_đổi chênh_lệch trong khoảng từ 10mGal đến 20mGal ;
+
+c ) Trường trọng_lực của tuyến bay đo kiểm_tra phải được đo trọng_lực chi_tiết tại mặt_đất .
+
+3 . Yêu_cầu kĩ_thuật bay kiểm_tra máy đo trọng_lực , xử_lí_số_liệu đo và tính sai_số kết_quả đo :
+
+a ) Bay tối_thiểu mười ( 10 ) lượt bay tại tuyến bay kiểm_tra ở độ cao và tốc_độ bay trong giới_hạn của máy đo trọng_lực theo hướng_dẫn của nhà sản_xuất ;
+
+b ) Xử_lí_số_liệu đo ;
+
+c ) Sai_số bình_phương trung_bình ( d ) kết_quả bay đo so với giá_trị đo mặt_đất của tuyến bay đo kiểm_tra máy đo trọng_lực được tính như sau :
+
+Trong đó :
+
+- Gimd : Giá_trị trường trọng_lực đo trên mặt_đất tại điểm thứ i ;
+
+- Gihk : Giá_trị trường trọng_lực đo của tuyến bay kiểm_tra tại điểm thứ i ;
+
+- N : Số điểm tính sai_số .
+
+Sai_số bình_phương trung_bình kết_quả bay đo so với giá_trị đo mặt_đất trên tuyến bay đo kiểm_tra máy trọng_lực 0 , 65 mG al .
+
+Điều 39 . Công_tác chuẩn_bị trước mỗi chuyến bay đo trọng_lực
+
+1 . Kiểm_tra thông_số kĩ_thuật của máy đo trọng_lực , đảm_bảo các thông_số đáp_ứng yêu_cầu kĩ_thuật hoặc yêu_cầu của nhà sản_xuất .
+
+2 . Kiểm_tra toàn_bộ hệ_thống_thiết_bị của máy đo trọng_lực , bảo_đảm hoạt_động ở trạng_thái_bình_thường .
+
+3 . Đo xác_định dịch_chuyển điểm 0 :
+
+a ) Trước và sau khi kết_thúc chuyến bay đo phải tiến_hành đo ghi số_liệu trọng_lực để xác_định dịch_chuyển điểm 0 trong thời_gian đo ghi liên_tục từ 20 đến 30 phút ;
+
+b ) Trong quá_trình đo ghi xác_định dịch_chuyển điểm 0 phải dừng mọi hoạt_động làm ảnh_hưởng , rung lắc máy_bay .
+
+Điều 40 . Lựa_chọn xác_định_tuyến bay đo kiểm_tra
+
+1 . Tuyến bay đo kiểm_tra được lựa_chọn khi đáp_ứng các yêu_cầu sau :
+
+a ) Vị_trí gần vùng bay đo , địa_hình không quá phức_tạp ;
+
+b ) Trường trọng_lực của tuyến bay đo tương_đối bình_ổn ;
+
+c ) Độ dài tuyến bay đo từ 15km đến 20km .
+
+2 . Việc bay lựa_chọn xác_định_tuyến bay kiểm_tra được thực_hiện vào ngày thời_tiết thuận_lợi .
+
+3 . Độ cao bay lựa_chọn xác_định_tuyến bay kiểm_tra bằng độ cao của tuyến bay đo trọng_lực thực_hiện theo quy_định tại khoản 5 Điều 4 Thông_tư này .
+
+4 . Xử_lí_số_liệu , lựa_chọn xác_định_tuyến bay đo kiểm_tra .
+
+Điều 41 . Yêu_cầu kĩ_thuật bay đo trọng_lực
+
+1 . Chu_trình thực_hiện một chuyến bay đo quy_định tại Hình 3 khoản này lần_lượt như sau :
+
+a ) Xuất_phát từ sân_bay ;
+
+b ) Tuyến bay đo kiểm_tra ;
+
+c ) Các tuyến bay đo trong vùng bay ;
+
+d ) Tuyến bay đo kiểm_tra ;
+
+đ ) Về sân_bay ( kết_thúc chuyến bay ) .
+
+Hình 3 : Sơ_đồ thực_hiện một chuyến bay đo trọng_lực
+
+2 . Yêu_cầu đối_với người vận_hành hệ_thống máy , thiết_bị đo trọng_lực :
+
+a ) Tuân_thủ quy_định an_toàn lao_động , an_toàn hàng không theo quy_định của pháp_luật ;
+
+b ) Thường_xuyên theo_dõi tình_trạng hoạt_động của máy , thiết_bị và ghi_chép đầy_đủ các thông_tin , số_liệu của tuyến bay vào nhật_kí bay đo theo mẫu_số 01 ban_hành kèm theo Thông_tư này ;
+
+c ) Khi kết_thúc chuyến bay , có trách_nhiệm chuyển số_liệu từ máy , thiết_bị đo ghi cho bộ_phận văn_phòng thực_địa , kí xác_nhận thời_gian của chuyến bay vào nhật_kí bay .
+
+3 . Việc bay đo trọng_lực đối_với tuyến bay đo tựa , tuyến bay đo liên_kết phải thực_hiện bay đo liên_tục và có độ cao cùng độ cao bay đo của tuyến bay đo thường .
+
+4 . Phải bay đo lại khi có một trong các trường_hợp sau :
+
+a ) Độ dài các đoạn tuyến bay đo > 5 km mà có độ lệch lớn hơn một phần ba ( 1 / 3 ) khoảng_cách tuyến bay đo so với tuyến bay đo đã thiết_kế ;
+
+b ) Không ghi được một trong các loại số_liệu sau : Thời_gian , giá_trị trường trọng_lực , giá_trị toạ_độ và thời_gian thực của máy Gps trên máy_bay ;
+
+c ) Giá_trị đo xác_định dịch_chuyển điểm 0 trước và sau chuyến bay đo vượt quá giá_trị cho phép của nhà sản_xuất máy trọng_lực hàng_không ;
+
+d ) Tuyến bay đo tựa , tuyến bay đo liên_kết không bay đo liên_tục .
+
+Điều 42 . Công_tác văn_phòng thực_địa
+
+1 . Tiếp_nhận và lưu_giữ số_liệu , tài_liệu trọng_lực từ người vận_hành hệ_thống máy , thiết_bị đo .
+
+2 . Kiểm_tra , đánh_giá số_liệu , tài_liệu thu_thập :
+
+a ) Xây_dựng bản_đồ tuyến bay thực_tế ;
+
+b ) Kiểm_tra độ cao , xác_định độ lệch của tuyến bay thực_tế so với thiết_kế ;
+
+c ) Thống_kê các đoạn tuyến bay đo không đạt yêu_cầu kĩ_thuật và các đoạn tuyến phải tiến_hành bay lại theo quy_định tại khoản 5 Điều 22 Thông_tư này ;
+
+3 . Tính các hiệu_chỉnh trọng_lực :
+
+a ) Hiệu_chỉnh độ dịch_chuyển điểm 0 được xác_định như sau :
+
+Trong đó :
+
+- d : Độ dịch_chuyển mG al / h ;
+
+- thgtr : Thời_gian đo trước chuyến bay ;
+
+- th gs : Thời_gian đo sau chuyến bay ;
+
+- gtr : Giá_trị trọng_lực đo trước chuyến bay ;
+
+- gs : Giá_trị trọng_lực đo sau chuyến bay .
+
+b ) Hiệu_chỉnh ảnh_hưởng chuyển_động của máy_bay ( Eotvot ) lên kết_quả đo được tính như sau :
+
+Trong đó :
+
+- v : Vận_tốc của máy_bay ;
+
+- A : Hướng của tuyến bay đo ;
+
+- v1 = Rcos : Vận_tốc quay của Trái_đất , : Vĩ_độ ;
+
+- = 2p / 86164 : Vận_tốc góc của Trái_đất ;
+
+- R : Bán_kính của Trái_đất ;
+
+c ) Tính dị_thường độ cao ( Fair ) được tính như sau :
+
+Trong đó :
+
+- gfa : Giá_trị dị_thường Fair ;
+
+- gđ : Giá_trị đo đã hiệu_chỉnh EtVot ;
+
+- gfa : Giá_trị hiệu_chỉnh Fair , gfa = 0 . 3086 x h ( mG al ) , h là độ cao máy_bay so với mặt ellipsoid tính bằng mét ;
+
+- g0 : Giá_trị trường trọng_lực bình_thường được tính như sau : g0 = 978032 , 53359 x ( 1 + 0 , 0053024x sin2B - 0 , 0000058 x sin2 2b ) ( mG al ) ; B - Vĩ_độ của điểm đo .
+
+4 . Đánh_giá sai_số trên tuyến bay đo kiểm_tra được tính như sau :
+
+Trong đó :
+
+- gfa1 và gfa2 : Giá_trị dị_thường trọng_lực Fair của tuyến bay đo kiểm_tra lượt_đi và lượt về theo sơ_đồ quy_định tại Hình 3 khoản 1 Điều 41 Thông_tư này ;
+
+- N : Số điểm tính sai_số ;
+
+- Sai_số trên tuyến kiểm_tra 0 , 65 mG al .
+
+5 . Thống_kê độ dài tuyến bay đo , các dị_thường đã phát_hiện .
+
+6 . Lập kế_hoạch cho chuyến bay tiếp_theo .
+
+Điều 43 . Công_tác văn_phòng hàng năm
+
+1 . Tính giá_trị dị_thường lớp trung_gian ( dị_thường Bu ghe ) theo công_thức sau :
+
+gB = gđ + gfa + gB - gec + gt - g0
+
+Trong đó :
+
+a ) gB : Giá_trị dị_thường Bu ghe ;
+
+b ) gđ : Giá_trị đo đã hiệu_chỉnh Etvot theo quy_định tại điểm b , khoản 3 Điều 42 Thông_tư này ;
+
+c ) gfa : Giá_trị hiệu_chỉnh Fair , gfa = 0 . 3086 x h ( mG al ) , h là độ cao máy_bay so với mặt ellipsoid tính bằng mét ;
+
+d ) gB : Giá_trị hiệu_chỉnh Bu ghe thực_hiện theo quy_định tại khoản 2 Điều này ;
+
+đ ) gt : Giá_trị hiệu_chỉnh địa_hình thực_hiện theo quy_định tại khoản 3 Điều này ;
+
+g ) gce : Giá_trị hiệu_chỉnh độ cong của Trái_đất theo quy_định tại khoản 4 Điều này ;
+
+h ) g0 : Giá_trị trường trọng_lực bình_thường .
+
+2 . Tính giá_trị hiệu_chỉnh Bu ghe , đơn_vị tính là mG al :
+
+a ) Hiệu_chỉnh Bu ghe khi bay trên đất_liền tính theo công_thức :
+
+b ) Hiệu_chỉnh Bu ghe khi bay trên biển tính theo công_thức :
+
+Trong đó :
+
+- H : Độ sâu đáy biển tại điểm hình_chiếu của máy_bay trên mặt_biển tính bằng mét ;
+
+- : Giá_trị mật_độ trung_bình lớp giữa là 2 , 67 g / cm3 , trường_hợp tuỳ theo điều_kiện địa_chất cụ_thể thì xem_xét sử_dụng giá_trị mật_độ trung_bình lớp giữa thực_tế ;
+
+- nb : Mật_độ trung_bình của nước biển là 1 , 03g / cm3 .
+
+3 . Tính hiệu_chỉnh ảnh_hưởng của địa_hình :
+
+a ) Sử_dụng phương_pháp hiệu_chỉnh phù_hợp và được thể_hiện rõ trong đề_án bay đo trọng_lực đã được phê_duyệt ;
+
+b ) Việc hiệu_chỉnh địa_hình được tiến_hành theo bản_đồ địa_hình hoặc số_liệu độ cao số ( dem ) ở tỉ_lệ đáp_ứng yêu_cầu về độ chính_xác ;
+
+c ) Sử_dụng giá_trị mật_độ trung_bình lớp giữa khi tính dị_thường Bu ghe để tính hiệu_chỉnh ảnh_hưởng địa_hình .
+
+4 . Hiệu_chỉnh độ cong của Trái_đất được tính như sau :
+
+Trong đó :
+
+a ) h : Độ cao so với mực nước biển tính bằng km .
+
+b ) : Mật_độ thực_tế của lớp giữa .
+
+5 . Liên_kết tài_liệu bay đo trọng_lực : Việc liên_kết tài_liệu bay đo trọng_lực dựa vào mạng_lưới tuyến bay đo tựa trong vùng bay đo . Phương_pháp liên_kết tài_liệu bay đo trọng_lực thực_hiện tương_tự phương_pháp liên_kết số_liệu bay đo từ quy_định tại khoản 1 Điều 25 Thông_tư này .
+
+Điều 44 . Công_tác văn_phòng hàng năm
+
+1 . Nội_dung công_việc :
+
+a ) Thống_kê , hệ_thống_hoá các tài_liệu nguyên_thuỷ đã thực_hiện của đề_án ;
+
+b ) Đánh_giá sai_số bản_đồ trường trọng_lực ( m ) theo quy_định tại khoản 2 Điều này ;
+
+c ) Xử_lý , phân_tích và luận giải địa_chất theo tài_liệu trọng_lực ;
+
+d ) Viết báo_cáo tổng_kết .
+
+2 . Đánh_giá sai_số bản_đồ trường trọng_lực ( m ) :
+
+Sai_số bản_đồ trường trọng_lực được xác_định bởi sai_số bình_phương trung_bình giữa các nút giao_cắt của tuyến bay đo tựa và tuyến bay đo thường được tính như sau :
+
+Trong đó :
+
+a ) n : số điểm giao_cắt ;
+
+b ) Gi = g _ thglk - g _ tua ;
+
+c ) g _ thglk : Giá_trị trường trọng_lực của tuyến bay đo thường tại điểm giao_cắt với tuyến bay đo tựa sau khi đã hiệu_chỉnh theo quy_định tại khoản 3 Điều 42 , khoản 1 , 2 , 3 và khoản 4 Điều 43 và được liên_kết theo quy_định tại khoản 5 Điều 43 Thông_tư này ;
+
+d ) g _ tua : Giá_trị trường trọng_lực của tuyến bay đo tựa tại điểm giao_cắt với tuyến bay đo thường sau khi đã hiệu_chỉnh theo quy_định tại khoản 3 Điều 42 , khoản 1 , 2 , 3 và khoản 4 Điều 43 Thông_tư này ;
+
+3 . Độ chính_xác của bản_đồ trường trọng_lực được phân_loại như sau :
+
+a ) Độ chính_xác thấp khi m > 5mGal ;
+
+b ) Độ chính_xác trung_bình khi 1 m 5 mG al ;
+
+c ) Độ chính_xác cao khi m < 1 mG al .
+
+Điều 45 . Sản_phẩm của công_tác bay đo trọng_lực
+
+1 . Sơ_đồ , bản_đồ trường trọng_lực , gồm :
+
+a ) Sơ_đồ thực_tế tuyến bay đo ;
+
+b ) Bản_đồ dị_thường Fair ;
+
+c ) Bản_đồ dị_thường Bu ghe .
+
+2 . Bản_đồ biến_đổi trung_gian , gồm :
+
+a ) Bản_đồ đạo_hàm bậc nhất thành_phần thẳng_đứng ;
+
+b ) Bản_đồ đạo_hàm bậc hai thành_phần thẳng_đứng ;
+
+c ) Bản_đồ Gradient thành_phần nằm ngang ;
+
+d ) Bản_đồ nâng trường , hạ trường .
+
+đ ) Các bản_đồ biến_đổi trung_gian có liên_quan khác .
+
+3 . Sơ_đồ , bản_đồ giải_thích địa_chất tài_liệu bay đo trọng_lực , gồm :
+
+a ) Bản_đồ cấu_trúc địa_chất theo tài_liệu trọng_lực ;
+
+b ) Sơ_đồ dự_báo triển_vọng khoáng_sản theo tài_liệu bay đo trọng_lực ;
+
+c ) Sơ_đồ cấu_trúc sâu vỏ Trái_đất theo tài_liệu bay đo trọng_lực ;
+
+4 . Báo_cáo tổng_kết công_tác bay đo trọng_lực .
+
+Điều 46 . Nội_dung sơ_đồ thực_tế tuyến bay đo
+
+Sơ_đồ thực_tế tuyến bay đo trọng_lực quy_định tại điểm a khoản 1 Điều 45 Thông_tư này được xây_dựng tương_tự sơ_đồ thực_tế tuyến bay đo từ quy_định tại Điều 27 Thông_tư này .
+
+Điều 47 . Nội_dung bản_đồ cấu_trúc địa_chất theo tài_liệu bay đo trọng_lực
+
+1 . Bản_đồ cấu_trúc địa_chất theo tài_liệu bay đo trọng_lực phải thể_hiện đầy_đủ các kết_quả theo quy_định tại khoản 2 , 3 và khoản 4 Điều này .
+
+2 . Kết_quả xác_định và phân_tích đứt_gãy : thể_hiện các đứt_gãy đã xác_định ; phân_vùng cấu_trúc địa_chất .
+
+3 . Kết_quả khoanh định các khối magma . Trường_hợp khối magma đã xác_định được các giai_đoạn thành tạo , mức_độ hoạt_động , tính_chất địa động_lực thì thể_hiện chi_tiết theo mức_độ xác_định .
+
+4 . Kết_quả tổng_hợp phân_tích các đặc_trưng địa_vật_lí và các thành tạo địa_chất - địa_vật_lý .
+
+Điều 48 . Nội_dung sơ_đồ dự_báo triển_vọng khoáng_sản theo tài_liệu bay đo trọng_lực
+
+Sơ_đồ dự_báo triển_vọng khoáng_sản theo tài_liệu bay đo phải thể_hiện đầy_đủ các nội_dung : Hệ_thống đứt_gãy ; các đới dị_thường trọng_lực ; các cấu_trúc địa_chất dự_đoán có triển_vọng khoáng_sản ; các mỏ và điểm_quặng khoáng_sản đã biết trong vùng ; kết_quả phân_vùng cấu_trúc .
+
+Điều 49 . Nội_dung sơ_đồ cấu_trúc sâu vỏ Trái_đất
+
+Sơ_đồ cấu_trúc vỏ Trái_đất được thành_lập trên đó thể_hiện các nội_dung sau :
+
+1 . Các đơn_vị cấu_trúc địa_chất được phân_chia theo quy_mô và độ sâu phát_triển khác nhau thành các bậc cấu_trúc như vùng , miền , khối , đới cấu_trúc .
+
+2 . Hình_thái các bề_mặt móng kết_tinh .
+
+3 . Hệ_thống đứt_gãy sâu xác_định theo tài_liệu trọng_lực .
+
+4 . Các khối magma xâm_nhập xác_định theo tài_liệu trọng_lực .
+
+Điều 50 . Báo_cáo tổng_kết công_tác bay đo trọng_lực
+
+1 . Báo_cáo tổng_kết công_tác bay đo trọng_lực gồm thuyết_minh và các bản_vẽ kèm theo ; phải thể_hiện đầy_đủ các nội_dung đã thực_hiện , kết_quả đạt được , sản_phẩm của đề_án ; đề_xuất , kiến_nghị .
+
+2 . Báo_cáo tổng_kết công_tác bay đo trọng_lực phải được số_hoá , lưu_trữ , quản_lí theo quy_định của pháp_luật về điều_tra cơ_bản địa_chất về khoáng_sản .
+
+Chương V
+
+Điều_khoản Thi_hành Và Tổ_chức Thực_hiện
+
+Điều 51 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 02 năm 2019 .
+
+2 . Các quy_định có liên_quan đến công_tác đo trọng_lực hàng không phục_vụ cho công_tác địa_chất , thăm_dò khoáng_sản quy_định tại <TT rel="HHL"> Thông_tư số 08/2012/TT-BTNMT ngày 08 tháng 8 năm 2012 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định về đo trọng_lực chi_tiết hết hiệu_lực thi_hành kể từ ngày Thông_tư này có hiệu_lực thi_hành .
+
+Điều 52 . Tổ_chức thực_hiện
+
+1 . Các Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thực_hiện Thông_tư này .
+
+2 . Tổng_cục_trưởng Tổng_cục Địa_chất và Khoáng_sản Việt_nam có trách_nhiệm hướng_dẫn , theo_dõi và kiểm_tra việc thực_hiện Thông_tư này . / .
+
+Mẫu_số 1
+
+Nhật_ký Bay Đo Từ , Trọng_lực
+
+( Ban_hành kèm theo <TT rel="DC"> Thông_tư số 28/2018/TT-BTNMT ngày 26 tháng 12 năm 2018 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường )
+
+Ngày_tháng năm
+
+Chuyến bay số : . .
+
+Vùng bay : .
+
+I - Tổ_bay :
+
+- Lái chính : .
+
+- Lái phụ :
+
+Ii - Vận_hành máy , thiết_bị ( ký và ghi họ tên ) :
+
+1 . .
+
+2 . .
+
+3 . .
+
+Iii - Nhiệm_vụ chuyến bay :
+
+. .
+
+Iv - Điều_kiện thời_tiết vùng bay :
+
+. .
+
+V - Thời_gian bay :

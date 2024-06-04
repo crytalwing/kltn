@@ -1,0 +1,113 @@
+Thông_tư số 04/2019/tt-btttt ngày 05 tháng 07 năm 2019 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật giao_dịch điện_tử ngày 29 t háng 11 năm 2005 ;
+
+Căn_cứ Nghị_định số 130/2018/NĐ-CP ngày 27 tháng 9 năm 2018 của Chính_phủ quy_định chi_tiết thi_hành Luật giao_dịch điện_tử về chữ_kí số và dịch_vụ chứng_thực chữ_kí số ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Giám_đốc Trung_tâm Chứng_thực điện_tử quốc_gia ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định về việc liên_thông giữa Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia và Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ .
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về việc liên_thông giữa Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia và Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với cá_nhân , tổ_chức sau :
+
+1 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia ;
+
+2 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ ;
+
+3 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng ;
+
+4 . Cơ_quan , tổ_chức và cá_nhân sử_dụng chữ_kí số công_cộng , chữ_kí số chuyên_dùng Chính_phủ ;
+
+5 . Cơ_quan , tổ_chức , cá_nhân phát_triển ứng_dụng sử_dụng chữ_kí số .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Chứng_thư số gốc của Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia là chứng_thư số do Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia tự_cấp cho mình .
+
+2 . Chứng_thư số gốc của Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí chuyên_dùng Chính_phủ là chứng_thư số do Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ tự_cấp cho mình .
+
+3 . Chứng_thư số công_cộng là chứng_thư số do tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng cấp cho thuê_bao .
+
+4 . Chứng_thư số chuyên_dùng Chính_phủ là chứng_thư số do Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ cấp cho thuê_bao .
+
+5 . Chứng_thư số Sha - 1 là chứng_thư số sử_dụng hàm băm an_toàn Sha - 1 trong thuật_toán kí chứng_thư số .
+
+6 . Chứng_thư số Sha - 256 là chứng_thư số sử_dụng hàm băm an_toàn Sha - 256 trong thuật_toán kí chứng_thư số .
+
+7 . Chữ_kí số công_cộng là chữ_kí số được tạo ra bằng việc sử_dụng khoá bí_mật tương_ứng với khoá công_khai ghi trên chứng_thư số công_cộng .
+
+8 . Chữ_kí số chuyên_dùng Chính_phủ là chữ_kí số được tạo ra bằng việc sử_dụng khoá bí_mật tương_ứng với khoá công_khai ghi trên chứng_thư số chuyên_dùng Chính_phủ .
+
+9 . Mô_hình công_nhận chéo là mô_hình liên_thông giữa hai tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số , trong đó , các cơ_quan , tổ_chức và cá_nhân sử_dụng chứng_thư số được cấp bởi tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số này tin_cậy các chứng_thư số gốc của tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số kia và ngược_lại .
+
+Điều 4 . Mô_hình liên_thông
+
+Mô_hình liên_thông giữa Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia và Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ là mô_hình công_nhận chéo .
+
+Các chứng_thư số gốc tin_cậy của Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia và Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ được quy_định tại Điều 5 Thông_tư này .
+
+Điều 5 . Danh_sách các chứng_thư số gốc tin_cậy
+
+1 . Danh_sách các chứng_thư số gốc tin_cậy bao_gồm :
+
+a ) Các chứng_thư số gốc của Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia ;
+
+b ) Các chứng_thư số gốc của Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ .
+
+2 . Danh_sách các chứng_thư số gốc tin_cậy quy_định tại khoản 1 Điều này được quy_định tại Phụ_lục I kèm theo Thông_tư này .
+
+Điều 6 . Quy_định về các trường thông_tin trong chứng_thư số của thuê_bao
+
+1 . Các trường thông_tin trong chứng_thư số công_cộng và chứng_thư số chuyên_dùng Chính_phủ phải tuân_thủ quy_định về định_dạng và nội_dung các trường thông_tin trong chứng_thư số của thuê_bao tại Phụ_lục Ii kèm theo Thông_tư này .
+
+2 . Các trường thông_tin trong chứng_thư số công_cộng không thuộc quy_định tại Phụ_lục Ii kèm theo Thông_tư này phải tuân_thủ quy_định của Bộ Thông_tin và Truyền_thông về định_dạng chứng_thư số công_cộng .
+
+3 . Các trường thông_tin trong chứng_thư số chuyên_dùng Chính_phủ không thuộc quy_định tại Phụ_lục Ii kèm theo Thông_tư này phải tuân_thủ hướng_dẫn của Ban Cơ_yếu Chính_phủ về định_dạng chứng_thư số chuyên_dùng Chính_phủ .
+
+Điều 7 . Quy_định đối_với chức_năng kí số , kiểm_tra hiệu_lực chứng_thư số , chữ_kí số của các ứng_dụng sử_dụng chữ_kí số
+
+1 . Đối_với chức_năng kí số : Ứng_dụng phải cho phép người kí là thuê_bao của các tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng và thuê_bao của Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ thực_hiện kí số .
+
+2 . Đối_với chức_năng kiểm_tra hiệu_lực chứng_thư số , chữ_kí số : Ứng_dụng phải cho phép người ký , người nhận kiểm_tra hiệu_lực chứng_thư số công_cộng , chữ_kí số công_cộng và hiệu_lực chứng_thư số chuyên_dùng Chính_phủ , chữ_kí số chuyên_dùng Chính_phủ theo quy_định tại các Điều 78 và 79 Nghị_định số 130/2018/NĐ-CP ngày 27/9/2018 của Chính_phủ quy_định chi_tiết thi_hành Luật giao_dịch điện_tử về chữ_kí số và dịch_vụ chứng_thực chữ_kí số .
+
+Điều 8 . Tổ_chức thực_hiện
+
+1 . Trung_tâm Chứng_thực điện_tử quốc_gia ( Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia ) có trách_nhiệm :
+
+a ) Chủ_trì , phối_hợp với Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ hướng_dẫn việc thực_hiện quy_định về các trường thông_tin trong chứng_thư số của thuê_bao ; đảm_bảo việc trao_đổi các chứng_thư số gốc tin_cậy của Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia và Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ chính_xác và an_toàn ;
+
+b ) Công_bố danh_sách các chứng_thư số gốc tin_cậy của Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia trên trang thông_tin điện_tử htp : / / www . rootca . gov . vn ;
+
+c ) Hàng năm rà_soát , trình Bộ Thông_tin và Truyền_thông cập_nhật , ban_hành danh_sách các chứng_thư số gốc tin_cậy khi có sự thay_đổi về các chứng_thư số gốc của Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số quốc_gia và Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ .
+
+2 . Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ có trách_nhiệm :
+
+a ) Thực_hiện hướng_dẫn về các trường thông_tin trong chứng_thư số chuyên_dùng Chính_phủ ;
+
+b ) Công_bố danh_sách các chứng_thư số gốc tin_cậy của Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ trên trang thông_tin điện_tử htp : / / ca . gov . vn .
+
+3 . Các tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số công_cộng có trách_nhiệm thực_hiện quy_định về các trường thông_tin trong chứng_thư số công_cộng .
+
+4 . Cơ_quan , tổ_chức , cá_nhân phát_triển ứng_dụng sử_dụng chữ_kí số có trách_nhiệm thực_hiện quy_định đối_với chức_năng kí số , kiểm_tra hiệu_lực chứng_thư số , chữ_kí số của các ứng_dụng sử_dụng chữ_kí số theo quy_định tại Điều 7 Thông_tư này .
+
+Điều 9 . Điều_khoản chuyển_tiếp
+
+Các chứng_thư số của thuê_bao được cấp trước ngày Thông_tư này có hiệu_lực thi_hành được tiếp_tục sử_dụng cho đến khi hết hiệu_lực hoặc được chủ_động chuyển_đổi để đáp_ứng quy_định về các trường thông_tin trong chứng_thư số của thuê_bao theo quy_định tại Điều 6 Thông_tư này .
+
+Điều 10 . Điều_khoản thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 9 năm 2019 .
+
+2 . Chánh Văn_phòng , Giám_đốc Trung_tâm Chứng_thực điện_tử quốc_gia , Thủ_trưởng Tổ_chức cung_cấp dịch_vụ chứng_thực chữ_kí số chuyên_dùng Chính_phủ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ , các tổ_chức và cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+3 . Trong quá_trình thực_hiện , nếu có khó_khăn , vướng_mắc , các cơ_quan , tổ_chức và cá_nhân phản_ánh kịp_thời về Bộ Thông_tin và Truyền_thông để xem_xét , giải_quyết . / .

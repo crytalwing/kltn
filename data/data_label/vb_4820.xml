@@ -1,0 +1,181 @@
+Thông_tư số 26/2023/tt-btnmt ngày 29 tháng 12 năm 2023 của bộ tài_nguyên và môi_trường
+
+Căn_cứ <LT rel="CC"> Luật_khoáng_sản ngày 17 tháng 11 năm 2010 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 03/2019/NĐ-CP ngày 04 tháng 01 năm 2019 </NĐ> của Chính_phủ về hoạt_động viễn_thám ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 68/2022/NĐ-CP ngày 22 tháng 9 năm 2022 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Theo đề_nghị của Cục_trưởng Cục Viễn_thám quốc_gia , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ;
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành <TT rel="None"> Thông_tư Quy_định về kĩ_thuật </TT> giám_sát bằng công_nghệ viễn_thám đối_với một_số nội_dung , hạng_mục trong khai_thác mỏ lộ_thiên .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về kĩ_thuật giám_sát bằng công_nghệ viễn_thám đối_với hoạt_động theo_dõi , giám_sát vị_trí , diện_tích khu_vực khai_thác khoáng_sản và một_số công_trình phụ_trợ ( bao_gồm bãi_thải , hồ chứa quặng đuôi , khu_vực trồng cây để cải_tạo , phục_hồi môi_trường ) trong khai_thác mỏ lộ_thiên
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với cơ_quan , tổ_chức và cá_nhân có liên_quan đến hoạt_động giám_sát khai_thác mỏ lộ_thiên bằng công_nghệ viễn_thám .
+
+Điều 3 . Cơ_sở toán_học
+
+Hệ quy chiếu và hệ toạ_độ thực_hiện theo <TT rel="DC"> Thông_tư số 973/2001/TT-TCĐC ngày 20 tháng 6 năm 2001 </TT> của Tổng_cục Địa_chính hướng_dẫn áp_dụng Hệ quy chiếu và Hệ toạ_độ quốc_gia Vn - 2000 . Cụ_thể như sau : lưới chiếu Utm , ê - líp - xô - ít Wgs84 ; múi chiếu 3 , hệ_số điều_chỉnh tỉ_lệ biến_dạng chiều dài k0 = 0 , 9999 cho bản_đồ đến tỉ_lệ 1 : 10 . 000 ; múi chiếu 6 , hệ_số điều_chỉnh tỉ_lệ biến_dạng chiều dài k0 = 0 , 9996 cho bản_đồ tỉ_lệ 1 : 10 . 000 và nhỏ hơn .
+
+Điều 4 . Các nội_dung công_việc
+
+1 . Thu_thập tài_liệu .
+
+2 . Yêu_cầu về dữ_liệu ảnh viễn_thám .
+
+3 . Xử_lí dữ_liệu ảnh viễn_thám .
+
+4 . Chiết_xuất thông_tin các nội_dung giám_sát .
+
+5 . Biên_tập thông_tin , dữ_liệu .
+
+6 . Phân_tích , tổng_hợp , xác_định vị_trí , phạm_vi các nội_dung giám_sát .
+
+7 . Lập báo_cáo kết_quả giám_sát .
+
+Chương_ii
+
+Quy_định Kỹ_thuật
+
+Điều 5 . Thu_thập tài_liệu
+
+1 . Tài_liệu thu_thập
+
+Dữ_liệu ảnh viễn_thám ; Giấy_phép khai_thác khoáng_sản do cơ_quan quản_lí nhà_nước có thẩm_quyền cấp phép ( nếu có ) ; Báo_cáo đánh_giá tác_động môi_trường do cơ_quan có thẩm_quyền phê_duyệt hoặc bản cam_kết bảo_vệ môi_trường ( nếu có ) ; Cơ_sở dữ_liệu nền địa_lí quốc_gia ; Bản_đồ hiện_trạng sử_dụng đất các thời_kỳ ; Các bản_đồ khác có liên_quan .
+
+2 . Yêu_cầu kĩ_thuật
+
+a ) Tài_liệu thu_thập có_thể ở dạng giấy hoặc dạng số và phải đảm_bảo tính pháp_lý ;
+
+b ) Cơ_sở dữ_liệu nền địa_lí phải đảm_bảo độ chính_xác , mức_độ chi_tiết đáp_ứng yêu_cầu giám_sát ;
+
+c ) Các loại bản_đồ phải đảm_bảo phù_hợp yêu_cầu về tỉ_lệ , năm thành_lập phục_vụ giám_sát .
+
+Điều 6 . Yêu_cầu về dữ_liệu ảnh viễn_thám
+
+1 . Dữ_liệu ảnh viễn_thám phải đảm_bảo đáp_ứng yêu_cầu tại Điều 7 <TT rel="DC"> Thông_tư số 10/2015/TT-BTNMT ngày 25 tháng 3 năm 2015 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định kĩ_thuật về sản_xuất ảnh viễn_thám quang_học độ phân_giải cao và siêu cao để cung_cấp đến người sử_dụng .
+
+2 . Dữ_liệu ảnh viễn_thám phải có độ phân_giải không_gian , thời_gian phù_hợp với yêu_cầu nội_dung và mức_độ chi_tiết của đối_tượng giám_sát , cụ_thể như sau :
+
+a ) Dữ_liệu ảnh viễn_thám độ phân_giải lớn hơn 10 m : phục_vụ chiết tách thông_tin giám_sát khai_thác và các đối_tượng liên_quan với mức_độ chi_tiết theo yêu_cầu tương_đương bản_đồ chuyên_đề tỉ_lệ nhỏ hơn 1 : 50 . 000 ;
+
+b ) Dữ_liệu ảnh viễn_thám độ phân_giải cao từ 1 m đến 10 m : phục_vụ chiết tách thông_tin giám_sát khai_thác và các đối_tượng liên_quan với mức_độ chi_tiết theo yêu_cầu tương_đương bản_đồ chuyên_đề tỉ_lệ 1 : 10 . 000 - 1 : 50 . 000 ;
+
+c ) Dữ_liệu ảnh viễn_thám có độ phân_giải siêu cao dưới 1 m : phục_vụ chiết tách thông_tin giám_sát khai_thác và các đối_tượng liên_quan với mức_độ chi_tiết theo yêu_cầu tương_đương bản_đồ chuyên_đề tỉ_lệ 1 : 5 . 000 - 1 : 10 . 000 ;
+
+d ) Dữ_liệu Uav ( Unmanned Aerial_vehicle - thiết_bị bay không người lái ) : phục_vụ chiết tách thông_tin giám_sát khai_thác và các đối_tượng liên_quan với mức_độ chi_tiết theo yêu_cầu tương_đương bản_đồ chuyên_đề tỉ_lệ 1 : 5 . 000 hoặc lớn hơn .
+
+3 . Trong trường_hợp dữ_liệu ảnh viễn_thám bị mây và thời_điểm_ảnh chụp cũ không đảm_bảo yêu_cầu giám_sát thì đặt chụp ảnh viễn_thám bổ_sung .
+
+Điều 7 . Xử_lí dữ_liệu ảnh viễn_thám
+
+Dữ_liệu ảnh viễn_thám được xử_lí theo quy_định tại Điều 20 , Điều 21 , Điều 22 , Điều 23 , Điều 24 <TT rel="DC"> Thông_tư số 10/2015/TT-BTNMT ngày 25 tháng 3 năm 2015 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định kĩ_thuật về sản_xuất ảnh viễn_thám quang_học độ phân_giải cao và siêu cao để cung_cấp đến người sử_dụng .
+
+Điều 8 . Chiết_xuất thông_tin các nội_dung giám_sát
+
+1 . Lấy mẫu phổ và xây_dựng mẫu giải đoán ảnh
+
+a ) Lấy mẫu phổ : chuẩn_bị các bản_đồ , sơ_đồ , thông_tin chung về khu_vực cần lấy mẫu phổ ; xác_định các dấu_hiệu của các đối_tượng cần lấy mẫu trong khu_vực giám_sát ; xác_định vị_trí lấy mẫu và tiến_hành khoanh vẽ các vùng lấy mẫu phổ ; với mỗi đối_tượng được lấy mẫu phải bao_gồm các mẫu dùng để huấn_luyện và các mẫu dùng để kiểm_tra kết_quả phân_loại , kích_thước của từng mẫu , số_lượng mẫu được lấy phù_hợp với nhu_cầu giám_sát ; các điểm_ảnh mẫu , vùng mẫu phải đại_diện cho các đối_tượng cần giám_sát trên toàn_bộ khu_vực ; kiểm_tra số_liệu , tính_toán , phân_tích và đánh_giá kết_quả lấy mẫu ;
+
+b ) Xây_dựng mẫu giải đoán ảnh : xây_dựng kế_hoạch , chuẩn_bị các bản_đồ , sơ_đồ , thông_tin chung về khu_vực định lấy mẫu ; xác_định các dấu_hiệu của đối_tượng cần xây_dựng mẫu giải đoán ; chiết_xuất hình_ảnh tương_ứng với mỗi mẫu đối_tượng cần giải đoán ; mô_tả mẫu giải đoán ảnh cho từng đối_tượng dựa trên các đặc_điểm về hình_dạng , kích_thước , màu_sắc , độ đậm nhạt , cấu_trúc , vị_trí , phân_bố trong không_gian và mối liên_quan với các đối_tượng khác trong khu_vực ;
+
+c ) Yêu_cầu kĩ_thuật : mẫu phổ và mẫu giải đoán ảnh cho các đối_tượng phải phân_bố đều khắp vùng giám_sát và có hình_ảnh rõ_ràng , các điểm_ảnh mẫu / vùng mẫu được chọn đầy_đủ theo đặc_trưng của loại mỏ khai_thác khoáng_sản , công_trình phụ_trợ , đối_tượng đặc_trưng có trong khu_vực giám ; các mẫu phổ phục_vụ công_tác phân_loại ảnh phải đảm_bảo tính tách_biệt lẫn nhau .
+
+2 . Phân_loại ảnh viễn_thám hoặc giải đoán bằng phương_pháp trực_tiếp để chiết_xuất các vùng khai_thác khoáng_sản và các đối_tượng liên_quan .
+
+a ) Phân_loại ảnh viễn_thám : phân_loại các đối_tượng giám_sát và các đối_tượng khác trên ảnh viễn_thám sử_dụng các mẫu phổ được thành_lập ở điểm a khoản 1 Điều này ; kiểm_tra , đánh_giá độ chính_xác kết_quả phân_loại sử_dụng các mẫu kiểm_tra được thành_lập ở điểm a khoản 1 Điều này ; chỉnh_sửa , hoàn_thiện kết_quả sau phân_loại : rà_soát , kiểm_tra , loại_bỏ các vùng không đáng tin_cậy ; xuất kết_quả phân_loại theo khuôn_dạng thống_nhất ;
+
+b ) Giải đoán ảnh viễn_thám bằng phương_pháp trực_tiếp : giải đoán , khoanh vẽ các dấu_hiệu , phạm_vi các đối_tượng giám_sát trên ảnh viễn_thám , sử_dụng các mẫu giải đoán ảnh đã được thiết_lập ở điểm b khoản 1 Điều này ; chỉnh_sửa , hoàn_thiện kết_quả giải đoán : rà_soát , kiểm_tra , loại_bỏ các vùng không đáng tin_cậy ; xuất kết_quả giải đoán theo khuôn_dạng thống_nhất ;
+
+c ) Yêu_cầu kĩ_thuật : các đối_tượng giám_sát sau khi được phân_loại hoặc giải đoán trực_tiếp là các vùng ảnh thể_hiện đúng tính_chất , đặc_trưng của khu_vực khai_thác khoáng_sản và phù_hợp với các tài_liệu bổ_trợ .
+
+3 . Điều_tra bổ_sung ngoại_nghiệp
+
+a ) Nội_dung : thiết_kế các tuyến khảo_sát ngoại_nghiệp ; lập danh_sách các nội_dung đi điều_tra thực_địa ; điều_tra , điều vẽ bổ_sung các yếu_tố nội_dung có biến_động ; tiếp biên , sửa_chữa , hoàn_thiện kết_quả ; hoàn_thiện hệ_thống các bảng thống_kê , các sơ_đồ , các tài_liệu chỉ_dẫn bổ_sung ; cập_nhật các thông_tin điều_tra bổ_sung ngoại_nghiệp ;
+
+b ) Yêu_cầu kĩ_thuật : kiểm_tra lại vị_trí , phạm_vi các đối_tượng giám_sát ở khu_vực khai_thác khoáng_sản trực_tiếp trên thực_địa . Nếu có sự sai khác so với kết_quả của công_tác_nội nghiệp cần thực_hiện lại các bước ở khoản 1 và khoản 2 Điều này .
+
+4 . Kiểm_tra , hoàn_thiện kết_quả chiết_xuất các thông_tin .
+
+Điều 9 . Biên_tập thông_tin , dữ_liệu
+
+1 . Quy_định các lớp thông_tin bao_gồm :
+
+a ) Nhóm lớp thông_tin nền địa_lí được lấy từ cơ_sở dữ_liệu nền địa_lí quốc_gia , bao_gồm : cơ_sở toán_học , địa_hình , thuỷ_văn , dân_cư , giao_thông , biên_giới quốc_gia , địa_giới hành_chính , phủ thực_vật đảm_bảo độ chính_xác , phù_hợp với mức_độ chi_tiết theo yêu_cầu tương_đương bản_đồ chuyên_đề ở tỉ_lệ quy_định tại khoản 2 Điều 6 của Thông_tư này ;
+
+b ) Lớp thông_tin cấp phép khai_thác khoáng_sản được thu_nhận từ giấy_phép khai_thác khoáng_sản ;
+
+c ) Nhóm lớp thông_tin về vị_trí , diện_tích các công_trình phụ_trợ được nhập từ báo_cáo đánh_giá tác_động môi_trường ;
+
+d ) Nhóm lớp thông_tin về các nội_dung giám_sát được chiết_xuất từ dữ_liệu ảnh viễn_thám .
+
+2 . Biên_tập các lớp thông_tin , xác_định vị_trí , phạm_vi các đối_tượng giám_sát đúng phép , vượt phép , trái_phép gồm các công_việc sau : rà_soát , xử_lí các vấn_đề về dữ_liệu trước khi tổng_hợp , chuẩn_hoá dữ_liệu , kiểm_tra dữ_liệu .
+
+3 . Yêu_cầu kĩ_thuật
+
+a ) Các lớp thông_tin thuộc cơ_sở dữ_liệu nền địa_lí đảm_bảo độ chính_xác theo yêu_cầu và mức_độ chi_tiết của nội_dung giám_sát và tuân theo Qcvn 42 : 2020 / btnmt ban_hành kèm theo <TT rel="DC"> Thông_tư số 06/2020/TT-BTNMT ngày 31 tháng 8 năm 2020 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Quy_chuẩn kĩ_thuật quốc_gia về chuẩn thông_tin địa_lí cơ_sở ;
+
+b ) Mô_hình cấu_trúc của lớp thông_tin về cấp phép khai_thác khoáng_sản quy_định tại Phụ_lục I kèm theo Thông_tư này ;
+
+c ) Mô_hình cấu_trúc của lớp thông_tin về vị_trí , diện_tích các công_trình phụ_trợ quy_định tại Phụ_lục Ii kèm theo Thông_tư này ;
+
+d ) Mô_hình cấu_trúc của lớp thông_tin về diễn_biến khai_thác khoáng_sản quy_định tại Phụ_lục Iii kèm theo Thông_tư này .
+
+Điều 10 . Phân_tích , tổng_hợp , xác_định vị_trí , phạm_vi các nội_dung giám_sát
+
+1 . Nội_dung
+
+a ) Tích_hợp các dữ_liệu chuyên_môn từ các tài_liệu liên_quan ;
+
+b ) Phân_tích , xử_lí tổng_hợp các dữ_liệu , so_sánh phạm_vi khu_vực khai_thác khoáng_sản được chiết_xuất từ ảnh với vùng được cấp phép để làm cơ_sở khoanh vùng khai_thác khoáng_sản vượt phép hoặc trái_phép ;
+
+c ) Phân_tích , xử_lí tổng_hợp các dữ_liệu , so_sánh phạm_vi các công_trình phụ_trợ được chiết_xuất từ ảnh với vùng được xác_định theo báo_cáo đánh_giá tác_động môi_trường đã được phê_duyệt để làm cơ_sở phát_hiện những sai_phạm ;
+
+d ) Tính_toán diện_tích vùng khai_thác khoáng_sản vượt phép , trái_phép hoặc vùng có sai_phạm của các công_trình phụ_trợ so với báo_cáo đánh_giá tác_động môi_trường đã được phê_duyệt ;
+
+đ ) Biên_tập , trình_bày theo thiết_kế kĩ_thuật chi_tiết ;
+
+e ) Kiểm_tra , sửa_chữa , hoàn_thiện sản_phẩm .
+
+2 . Yêu_cầu kĩ_thuật
+
+a ) Xác_định được những vị_trí có biến_động giữa các thời_kì về khai_thác khoáng_sản và công_trình phụ_trợ từ 1 mm trở lên đối_với khu_vực rõ_rệt và từ 1 , 5 mm trở lên đối_với khu_vực không rõ_rệt tính theo tỉ_lệ bản_đồ ;
+
+b ) Xác_định được những vùng có hoạt_động khai_thác khoáng_sản vượt phép , trái_phép hoặc những vùng có sai_phạm của công_trình phụ_trợ so với báo_cáo đánh_giá tác_động môi_trường đã được phê_duyệt từ 1 mm trở lên đối_với khu_vực rõ_rệt và từ 1 , 5 mm trở lên đối_với khu_vực không rõ_rệt tính theo tỉ_lệ bản_đồ .
+
+Điều 11 . Lập báo_cáo kết_quả giám_sát
+
+1 . Xuất ra các bảng_số_liệu đánh_giá diễn_biến khai_thác khoáng_sản theo bảng quy_định tại Phụ_lục Iv kèm theo Thông_tư này .
+
+2 . Lập báo_cáo giám_sát khai_thác khoáng_sản và các đối_tượng liên_quan bằng công_nghệ viễn_thám theo quy_định tại Phụ_lục V kèm theo Thông_tư này .
+
+3 . Quản_lý , lưu_trữ bảo_quản , khai_thác và sử_dụng kết_quả giám_sát bằng công_nghệ viễn_thám đối_với một_số nội_dung trong khai_thác mỏ lộ_thiên
+
+a ) Kết_quả giám_sát bằng công_nghệ viễn_thám đối_với các nội_dung quy_định tại Điều 1 Thông_tư này được quản_lý , lưu_trữ , bảo_quản , khai_thác và sử_dụng theo <TT rel="DC"> Thông_tư số 03/2022/TT-BTNMT ngày 28 tháng 02 năm 2022 </TT> của Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành quy_định kĩ_thuật và định mức kinh_tế - kĩ_thuật về công_tác thu_nhận , lưu_trữ , bảo_quản và cung_cấp thông_tin , dữ_liệu tài_nguyên và môi_trường .
+
+b ) Kết_quả giám_sát bằng công_nghệ viễn_thám trong khai_thác mỏ lộ_thiên được sử_dụng để hỗ_trợ hoạt_động quản_lí nhà_nước về khoáng_sản và công_tác thanh_tra , kiểm_tra .
+
+Chương_iii
+
+Điều_khoản Thi_hành
+
+Điều 12 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực thi_hành kể từ ngày 15 tháng 02 năm 2024 .
+
+Điều 13 . Tổ_chức thực_hiện
+
+1 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Cục_trưởng Cục Viễn_thám quốc_gia có trách_nhiệm tổ_chức phổ_biến , kiểm_tra việc thực_hiện Thông_tư này .
+
+3 . Trong quá_trình thực_hiện , nếu có khó_khăn , vướng_mắc thì các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , Quyết_định . / .

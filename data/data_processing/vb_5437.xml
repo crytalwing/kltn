@@ -1,0 +1,251 @@
+Thông_tư số 28/2022/tt-bgtvt ngày 29 tháng 11 năm 2022 của bộ giao_thông vận_tải
+
+Căn_cứ Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật An_toàn thông_tin mạng ngày 19 tháng 11 năm 2015 ;
+
+Căn_cứ Luật Giao_dịch điện_tử ngày 29 tháng 11 năm 2005 ;
+
+Căn_cứ Luật Tiếp_cận thông_tin ngày 06 tháng 4 năm 2016 ;
+
+Căn_cứ Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính_phủ quy_định về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ ;
+
+Căn_cứ Nghị_định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính_phủ quy_định quản_lý , kết_nối và chia_sẻ dữ_liệu số của cơ_quan nhà_nước .
+
+Căn_cứ Nghị_định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Giao_thông vận_tải ;
+
+Theo đề_nghị của Giám_đốc Trung_tâm Công_nghệ thông_tin và Cục_trưởng Cục Đăng_kiểm Việt_nam ;
+
+Bộ_trưởng Bộ Giao_thông vận_tải ban_hành Thông_tư quy_định về quản_lý , duy_trì , chia_sẻ và đảm_bảo_an_toàn thông_tin dữ_liệu đăng_kiểm phương_tiện giao_thông vận_tải .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh và đối_tượng áp_dụng
+
+1 . Phạm_vi điều_chỉnh
+
+a ) Thông_tư này quy_định về các hoạt_động : tạo_lập , cập_nhật , quản_lý , duy_trì , kết_nối , chia_sẻ , sử_dụng và đảm_bảo_an_toàn thông_tin dữ_liệu đăng_kiểm phương_tiện giao_thông vận_tải thuộc phạm_vi quản_lí của Bộ Giao_thông vận_tải ;
+
+b ) Thông_tư này không điều_chỉnh đối_với dữ_liệu về tàu_bay .
+
+2 . Đối_tượng áp_dụng
+
+a ) Cơ_quan , tổ_chức , cá_nhân_tạo_lập , cập_nhật , quản_lý , duy_trì , kết_nối , chia_sẻ , sử_dụng dữ_liệu đăng_kiểm phương_tiện giao_thông vận_tải ;
+
+b ) Cơ_quan , tổ_chức , cá_nhân được chia_sẻ , kết_nối dữ_liệu đăng_kiểm phương_tiện giao_thông vận_tải ;
+
+c ) Các tổ_chức , cá_nhân khác có liên_quan đến hoạt_động kết_nối , chia_sẻ , sử_dụng dữ_liệu đăng_kiểm phương_tiện giao_thông vận_tải .
+
+Điều 2 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Phương_tiện giao_thông vận_tải ( sau đây gọi là phương_tiện ) bao_gồm phương_tiện giao_thông cơ_giới đường_bộ , xe_máy chuyên_dùng , tàu_biển , phương_tiện thuỷ nội_địa , phương_tiện giao_thông đường_sắt .
+
+2 . Nền_tảng tích_hợp , chia_sẻ dữ_liệu Bộ Giao_thông vận_tải là nền_tảng phục_vụ_việc kết_nối , chia_sẻ dữ_liệu các hệ_thống thông_tin , cơ_sở dữ_liệu trong nội_bộ Bộ Giao_thông vận_tải và giữa Bộ Giao_thông vận_tải với các bộ , ngành , địa_phương .
+
+3 . Cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện là Cục Đăng_kiểm Việt_nam .
+
+Điều 3 . Nguyên_tắc tạo_lập , cập_nhật , quản_lý , duy_trì , kết_nối , chia_sẻ , sử_dụng và đảm_bảo_an_toàn thông_tin dữ_liệu đăng_kiểm phương_tiện
+
+1 . Tuân_thủ các quy_định về bảo_vệ bí_mật nhà_nước ; các quy_định về bảo_đảm an_toàn thông_tin mạng , các quy_định về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ .
+
+2 . Quản_lí kết_nối và chia_sẻ dữ_liệu tuân_thủ theo quy_định tại Điều 5 , Điều 6 , Điều 7 của Nghị_định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính_phủ quy_định quản_lý , kết_nối và chia_sẻ dữ_liệu số của cơ_quan nhà_nước .
+
+3 . Bảo_đảm sự đầy_đủ , chính_xác của dữ_liệu nhằm phục_vụ công_tác quản_lý , sử_dụng dữ_liệu đăng_kiểm phương_tiện .
+
+4 . Phù_hợp với Khung Kiến_trúc Chính_phủ điện_tử Việt_nam , Kiến_trúc Chính_phủ điện_tử Bộ Giao_thông vận_tải .
+
+5 . Tuân_thủ các quy_định về bảo_mật thông_tin ; các quy_định về quyền sở_hữu trí_tuệ liên_quan đến dữ_liệu ; quyền riêng_tư của tổ_chức , cá_nhân .
+
+6 . Tuân_thủ các quy_định , hướng_dẫn kĩ_thuật về trao_đổi dữ_liệu , ứng_dụng công_nghệ thông_tin trong cơ_quan nhà_nước .
+
+Chương_ii
+
+Tạo_lập , Cập_nhật , Tích_hợp Dữ_liệu Đăng_kiểm Phương_tiện
+
+Điều 4 . Cơ_sở dữ_liệu đăng_kiểm phương_tiện
+
+1 . Cơ_sở dữ_liệu đăng_kiểm phương_tiện là tập_hợp các dữ_liệu có liên_quan đến phương_tiện được tạo_lập trong quá_trình thực_hiện các thủ_tục kiểm_định , kiểm_tra , chứng_nhận an_toàn kĩ_thuật và bảo_vệ môi_trường phương_tiện giao_thông cơ_giới đường_bộ , xe_máy chuyên_dùng , tàu_biển , phương_tiện thuỷ nội_địa , phương_tiện giao_thông đường_sắt .
+
+2 . Thông_tin tối_thiểu trong cơ_sở dữ_liệu đăng_kiểm phương_tiện bao_gồm :
+
+a ) Thông_tin về phương_tiện giao_thông cơ_giới đường_bộ quy_định tại Phụ_lục I ban_hành kèm theo Thông_tư này ;
+
+b ) Thông_tin về xe_máy chuyên_dùng quy_định tại Phụ_lục Ii ban_hành kèm theo Thông_tư này ;
+
+c ) Thông_tin về tàu_biển quy_định tại Phụ_lục Iii ban_hành kèm theo Thông_tư này ;
+
+d ) Thông_tin về phương_tiện thuỷ nội_địa quy_định tại Phụ_lục Iv ban_hành kèm theo Thông_tư này ;
+
+đ ) Thông_tin về phương_tiện giao_thông đường_sắt quy_định tại Phụ_lục V ban_hành kèm theo Thông_tư này .
+
+Điều 5 . Tạo_lập , cập_nhật , tích_hợp dữ_liệu đăng_kiểm phương_tiện
+
+1 . Các đơn_vị kiểm_định , kiểm_tra , chứng_nhận an_toàn kĩ_thuật và bảo_vệ môi_trường cho phương_tiện thực_hiện tạo_lập , cập_nhật dữ_liệu sau khi hoàn_thành_công_tác kiểm_định , kiểm_tra , cấp giấy chứng_nhận , hồ_sơ đăng_kiểm thông_qua phần_mềm do cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện quản_lí thống_nhất và cấp quyền sử_dụng .
+
+Trường_hợp tàu_biển được kiểm_tra ở nước_ngoài thì việc tạo_lập , cập_nhật dữ_liệu được thực_hiện trong thời_hạn không quá ba ( 03 ) ngày làm_việc kể từ ngày đăng_kiểm viên trở_lại đơn_vị .
+
+2 . Dữ_liệu đăng_kiểm phương_tiện sau khi được tạo_lập , cập_nhật sẽ được cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện tích_hợp vào cơ_sở dữ_liệu đăng_kiểm phương_tiện trong thời_hạn không quá một ( 01 ) ngày làm_việc .
+
+Chương_iii
+
+Quản_lý , Duy_trì Dữ_liệu Đăng_kiểm Phương_tiện
+
+Điều 6 . Hệ_thống thông_tin dữ_liệu đăng_kiểm phương_tiện
+
+1 . Hệ_thống thông_tin dữ_liệu đăng_kiểm phương_tiện là hệ_thống công_nghệ thông_tin gồm hạ_tầng công_nghệ thông_tin , phần_mềm và cơ_sở dữ_liệu đăng_kiểm phương_tiện .
+
+2 . Vai_trò , chức_năng của hệ_thống thông_tin dữ_liệu đăng_kiểm phương_tiện
+
+a ) Quản_lí tập_trung thông_tin dữ_liệu đăng_kiểm phương_tiện trong phạm_vi cả nước ;
+
+b ) Cung_cấp các chức_năng hỗ_trợ hoạt_động tạo_lập , cập_nhật , kết_nối , chia_sẻ dữ_liệu đăng_kiểm phương_tiện .
+
+3 . Cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện và đơn_vị tạo_lập , cập_nhật dữ_liệu đăng_kiểm phương_tiện có trách_nhiệm bảo_đảm :
+
+a ) Hệ_thống thông_tin và hạ_tầng kết_nối_mạng phù_hợp để tạo_lập , cập_nhật , quản_lý , kết_nối , chia_sẻ dữ_liệu đăng_kiểm phương_tiện ;
+
+b ) Công_cụ , biện_pháp để bảo_vệ dữ_liệu và xác_thực dữ_liệu trong quá_trình kết_nối , chia_sẻ dữ_liệu đăng_kiểm phương_tiện ;
+
+c ) Các điều_kiện kĩ_thuật , nguồn_lực khác phục_vụ_việc tạo_lập , cập_nhật , kết_nối , chia_sẻ dữ_liệu đăng_kiểm phương_tiện .
+
+Điều 7 . Kinh_phí xây_dựng , duy_trì , nâng_cấp , quản_lý , vận_hành hệ_thống thông_tin dữ_liệu đăng_kiểm phương_tiện
+
+Kinh_phí xây_dựng , duy_trì , nâng_cấp , quản_lý , vận_hành hệ_thống thông_tin dữ_liệu đăng_kiểm phương_tiện được đảm_bảo bằng nguồn vốn ngân_sách nhà_nước và nguồn kinh_phí hợp_pháp khác theo quy_định của pháp_luật .
+
+Điều 8 . Đảm_bảo_an_toàn thông_tin
+
+1 . Các cơ_quan , tổ_chức , cá_nhân tham_gia vào hoạt_động tạo_lập , cập_nhật , quản_lý , duy_trì , kết_nối , chia_sẻ , sử_dụng dữ_liệu đăng_kiểm phương_tiện có trách_nhiệm bảo_đảm an_toàn thông_tin đối_với hệ_thống thông_tin dữ_liệu đăng_kiểm phương_tiện .
+
+2 . Việc bảo_đảm an_toàn thông_tin phải phù_hợp với nhiệm_vụ , quyền_hạn và bảo_đảm lợi_ích hợp_pháp của tổ_chức , cá_nhân có liên_quan theo quy_định của pháp_luật .
+
+3 . Cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện đề_xuất hồ_sơ_cấp_độ an_toàn hệ_thống thông_tin và thực_hiện phương_án bảo_đảm an_toàn thông_tin theo cấp_độ được phê_duyệt theo quy_định của Nghị_định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính_phủ về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ .
+
+Chương_iv
+
+Kết_nối , Chia_sẻ , Sử_dụng Dữ_liệu Đăng_kiểm Phương_tiện
+
+Điều 9 . Đối_tượng , phương_thức kết_nối , chia_sẻ dữ_liệu đăng_kiểm phương_tiện
+
+1 . Cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện thực_hiện kết_nối , chia_sẻ dữ_liệu đăng_kiểm phương_tiện phục_vụ công_tác quản_lí nhà_nước của ngành vào cơ_sở dữ_liệu dùng chung của Bộ Giao_thông vận_tải .
+
+2 . Đối_tượng được cung_cấp , chia_sẻ dữ_liệu đăng_kiểm phương_tiện
+
+a ) Các cơ_quan phục_vụ công_tác quản_lí nhà_nước ;
+
+b ) Chủ sở_hữu hoặc người quản_lí phương_tiện hợp_pháp theo quy_định của pháp_luật ;
+
+c ) Các tổ_chức , cá_nhân khác khi có yêu_cầu .
+
+3 . Các thông_tin trong cơ_sở dữ_liệu đăng_kiểm phương_tiện được cung_cấp , chia_sẻ là các thông_tin quy_định tại khoản 2 Điều 4 của Thông_tư này .
+
+4 . Phương_thức chia_sẻ dữ_liệu
+
+a ) Thông_qua nền_tảng tích_hợp , chia_sẻ dữ_liệu Bộ Giao_thông vận_tải ;
+
+b ) Kết_nối trực_tiếp giữa hệ_thống thông_tin dữ_liệu đăng_kiểm phương_tiện và hệ_thống thông_tin của tổ_chức sử_dụng dữ_liệu ;
+
+c ) Tra_cứu thông_tin trực_tuyến trên Trang thông_tin điện_tử của cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện ;
+
+d ) Cung_cấp thông_tin dạng văn_bản .
+
+Điều 10 . Thực_hiện kết_nối , chia_sẻ , sử_dụng dữ_liệu đăng_kiểm phương_tiện
+
+1 . Chia_sẻ dữ_liệu đăng_kiểm phương_tiện theo phương_thức thông_qua nền_tảng tích_hợp , chia_sẻ dữ_liệu Bộ Giao_thông vận_tải
+
+Các cơ_quan quy_định tại điểm a khoản 2 Điều 9 của Thông_tư này có nhu_cầu sử_dụng dữ_liệu đăng_kiểm phương_tiện gửi đề_nghị bằng văn_bản tới cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện nêu rõ mục_đích sử_dụng , danh_mục thông_tin cần chia_sẻ , phương_thức kết_nối và tần_suất sử_dụng dữ_liệu .
+
+Căn_cứ đề_nghị , cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện Quyết_định chia_sẻ dữ_liệu ; phối_hợp với cơ_quan quản_lí nền_tảng tích_hợp , chia_sẻ dữ_liệu Bộ Giao_thông vận_tải thiết_lập kết_nối ; cấp quyền truy_cập và hướng_dẫn kĩ_thuật thực_hiện kết_nối . Trường_hợp không đồng_ý phải có văn_bản trả_lời và nêu rõ lí_do .
+
+2 . Chia_sẻ dữ_liệu đăng_kiểm phương_tiện theo phương_thức thông_qua kết_nối trực_tiếp giữa hệ_thống thông_tin dữ_liệu đăng_kiểm phương_tiện và hệ_thống thông_tin của tổ_chức sử_dụng dữ_liệu
+
+Các tổ_chức quy_định tại điểm b , điểm c khoản 2 Điều 9 có nhu_cầu sử_dụng dữ_liệu đăng_kiểm phương_tiện gửi đề_nghị bằng văn_bản tới cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện nêu rõ mục_đích sử_dụng , danh_mục thông_tin cần chia_sẻ , phương_thức kết_nối và tần_suất sử_dụng dữ_liệu .
+
+Căn_cứ đề_nghị , cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện Quyết_định chia_sẻ dữ_liệu ; cấp quyền truy_cập và hướng_dẫn kĩ_thuật thực_hiện kết_nối . Trường_hợp không đồng_ý phải có văn_bản trả_lời và nêu rõ lí_do .
+
+3 . Chia_sẻ dữ_liệu đăng_kiểm phương_tiện theo phương_thức tra_cứu thông_tin trực_tuyến trên Trang thông_tin điện_tử của cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện
+
+Các đối_tượng quy_định tại khoản 2 Điều 9 của Thông_tư này được quyền tra_cứu thông_tin về đăng_kiểm phương_tiện do mình sở_hữu hoặc quản_lí hợp_pháp trên Trang thông_tin điện_tử của cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện mà không cần cấp tài_khoản , mã khoá .
+
+Trường_hợp các cơ_quan quy_định tại điểm a khoản 2 Điều 9 của Thông_tư này có nhu_cầu cấp tài_khoản , mã khoá và địa_chỉ truy_cập thì gửi đề_nghị bằng văn_bản tới cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện nêu rõ mục_đích sử_dụng và các thông_tin có nhu_cầu được chia_sẻ . Căn_cứ đề_nghị , cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện Quyết_định chia_sẻ dữ_liệu ; cấp tài_khoản , mã khoá và địa_chỉ truy_cập . Trường_hợp không đồng_ý phải có văn_bản trả_lời và nêu rõ lí_do .
+
+4 . Chia_sẻ dữ_liệu đăng_kiểm phương_tiện theo phương_thức cung_cấp thông_tin dạng văn_bản
+
+a ) Các cơ_quan , tổ_chức , cá_nhân quy_định tại khoản 2 Điều 9 của Thông_tư này có nhu_cầu sử_dụng dữ_liệu đăng_kiểm phương_tiện gửi đề_nghị bằng văn_bản tới cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện hoặc đơn_vị kiểm_tra , kiểm_định , chứng_nhận an_toàn kĩ_thuật cho phương_tiện , trong đó nêu rõ mục_đích sử_dụng và các thông_tin có nhu_cầu được chia_sẻ .
+
+Căn_cứ đề_nghị , cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện hoặc đơn_vị kiểm_tra , kiểm_định , chứng_nhận an_toàn kĩ_thuật cho phương_tiện cung_cấp thông_tin dạng văn_bản trong phạm_vi quyền_hạn .
+
+b ) Tổ_chức , cá_nhân quy_định tại điểm b , điểm c khoản 2 Điều 9 của Thông_tư này khi được cung_cấp thông_tin dạng văn_bản phải trả chi_phí thực_tế để in , sao , chụp và gửi thông_tin theo quy_định tại Thông_tư số 46/2018/TT-BTC ngày 14 tháng 5 năm 2018 của Bộ_trưởng Bộ Tài_chính quy_định chi_tiết chi_phí thực_tế để in , sao , chụp và gửi thông_tin theo quy_định tại khoản 2 Điều 12 của Luật Tiếp_cận thông_tin .
+
+Điều 11 . Tạm ngừng , chấm_dứt kết_nối , chia_sẻ dữ_liệu trên môi_trường điện_tử
+
+1 . Cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện tạm ngừng kết_nối , chia_sẻ dữ_liệu trong các trường_hợp sau :
+
+a ) Nâng_cấp , mở_rộng , bảo_trì hệ_thống thông_tin , cơ_sở hạ_tầng thông_tin ;
+
+b ) Trường_hợp bất_khả_kháng làm gián_đoạn kết_nối , chia_sẻ dữ_liệu hoặc có ảnh_hưởng đến hoạt_động của hệ_thống thông_tin , sự an_toàn dữ_liệu ;
+
+c ) Cơ_quan , tổ_chức được kết_nối , chia_sẻ dữ_liệu đăng_kiểm phương_tiện sử_dụng không đúng mục_đích , phạm_vi dữ_liệu đã nêu trong văn_bản đề_nghị kết_nối , chia_sẻ dữ_liệu ;
+
+d ) Việc kết_nối từ cơ_quan , tổ_chức được kết_nối , chia_sẻ dữ_liệu đăng_kiểm phương_tiện được xác_định có khả_năng làm mất an_toàn , an_ninh .
+
+2 . Cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện chấm_dứt kết_nối , chia_sẻ dữ_liệu trong những trường_hợp sau :
+
+a ) Việc kết_nối không_thể khôi_phục do sự_cố hoặc do điều_kiện khách_quan mà cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện không_thể tiếp_tục duy_trì chia_sẻ dữ_liệu ;
+
+b ) Cơ_quan , tổ_chức , cá_nhân được kết_nối , chia_sẻ dữ_liệu đăng_kiểm phương_tiện không có nhu_cầu tiếp_tục kết_nối và sử_dụng dữ_liệu ;
+
+c ) Theo yêu_cầu của cơ_quan có thẩm_quyền phù_hợp với các quy_định của pháp_luật .
+
+Chương V
+
+Tổ_chức Thực_hiện
+
+Điều 12 . Trách_nhiệm của cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện
+
+1 . Xây_dựng , duy_trì , nâng_cấp , quản_lý , vận_hành hệ_thống thông_tin dữ_liệu đăng_kiểm phương_tiện .
+
+2 . Thiết_lập các dữ_liệu danh_mục trong cơ_sở dữ_liệu đăng_kiểm phương_tiện .
+
+3 . Tập_huấn nghiệp_vụ cho tổ_chức , cá_nhân thực_hiện tạo_lập , cập_nhật , duy_trì , quản_lí cơ_sở dữ_liệu đăng_kiểm phương_tiện .
+
+4 . Kiểm_tra việc tạo_lập , cập_nhật , kết_nối , chia_sẻ dữ_liệu đăng_kiểm phương_tiện .
+
+5 . Tiếp_nhận , giải_quyết các vướng_mắc phát_sinh trong quá_trình kết_nối , chia_sẻ , sử_dụng dữ_liệu đăng_kiểm phương_tiện .
+
+6 . Tạm ngừng , chấm_dứt việc chia_sẻ , kết_nối dữ_liệu đăng_kiểm phương_tiện theo quy_định tại Điều 11 của Thông_tư này .
+
+Điều 13 . Trách_nhiệm của đơn_vị tạo_lập , cập_nhật dữ_liệu đăng_kiểm phương_tiện
+
+1 . Kịp_thời tạo_lập , cập_nhật dữ_liệu đăng_kiểm phương_tiện theo quy_định tại Điều 5 của Thông_tư này .
+
+2 . Bảo_mật , bảo_đảm an_toàn thông_tin trong quá_trình tạo_lập , cập_nhật , sử_dụng dữ_liệu đăng_kiểm phương_tiện .
+
+3 . Sử_dụng thông_tin trong cơ_sở dữ_liệu đăng_kiểm phương_tiện khi thực_hiện kiểm_định , kiểm_tra , chứng_nhận an_toàn kĩ_thuật và bảo_vệ môi_trường phương_tiện để đảm_bảo sự thống_nhất .
+
+4 . Thông_báo kịp_thời , phối_hợp với cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện giải_quyết các vướng_mắc trong quá_trình tạo_lập , cập_nhật , sử_dụng dữ_liệu .
+
+5 . Cung_cấp thông_tin dữ_liệu đăng_kiểm phương_tiện do mình tạo_lập , cập_nhật bằng phương_thức quy_định tại điểm d khoản 4 Điều 9 của Thông_tư này khi có yêu_cầu .
+
+Điều 14 . Trách_nhiệm của cơ_quan , tổ_chức , cá_nhân được kết_nối , chia_sẻ dữ_liệu đăng_kiểm phương_tiện
+
+1 . Sử_dụng , bảo_mật dữ_liệu đúng mục_đích , phạm_vi đã nêu trong văn_bản đề_nghị kết_nối , chia_sẻ dữ_liệu ; phù_hợp với quy_định của Thông_tư này và các quy_định pháp_luật có liên_quan .
+
+2 . Bảo_mật và sử_dụng đúng tài_khoản , mã khoá , phương_thức kết_nối , địa_chỉ truy_cập đã được cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện cung_cấp .
+
+3 . Thông_báo kịp_thời , phối_hợp với cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện về vướng_mắc phát_sinh trong quá_trình kết_nối , chia_sẻ , sử_dụng dữ_liệu đăng_kiểm phương_tiện .
+
+4 . Không được chia_sẻ dữ_liệu đăng_kiểm phương_tiện được cung_cấp cho bên thứ ba khi chưa được phép của cơ_quan quản_lí dữ_liệu đăng_kiểm phương_tiện .
+
+Điều 15 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 02 năm 2023 .
+
+2 . Trường_hợp các văn_bản quy_phạm_pháp_luật dẫn chiếu trong Thông_tư này được sửa_đổi , bổ_sung , thay_thế_thì thực_hiện theo các quy_định của văn_bản quy_phạm_pháp_luật sửa_đổi , bổ_sung , thay_thế đó .
+
+Điều 16 . Trách_nhiệm thi_hành
+
+Chánh Văn_phòng Bộ , Cục_trưởng Cục Đăng_kiểm Việt_nam , Giám_đốc Trung_tâm Công_nghệ thông_tin , Thủ_trưởng các đơn_vị và các tổ_chức , cá_nhân liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .

@@ -1,0 +1,185 @@
+Thông_tư số 06/2018/tt-btttt ngày 09 tháng 05 năm 2018 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Luật Tần_số vô_tuyến_điện ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị trạm gốc thông_tin di_động W - cd ma Fdd .
+
+Điều 1 . Ban_hành kèm theo Thông_tư này Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị trạm gốc thông_tin di_động W - cd ma Fdd ( qcvn 16 : 2018 / bt ) .
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2019 . Quy_chuẩn kĩ_thuật quốc_gia về thiết_bị trạm gốc thông_tin di_động W - cd ma Fdd , Ký_hiệu Qcvn 16 : 2010 / bt quy_định tại Khoản 15 Điều 1 Thông_tư số 18/2010/TT-BTTTT ngày 30 tháng 7 năm 2010 của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_chuẩn kĩ_thuật quốc_gia về viễn_thông hết hiệu_lực pháp_luật kể từ ngày Thông_tư này có hiệu_lực thi_hành .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 16 : 2018 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Thiết_bị Trạm Gốc Thông_tin_di_động W - cd ma Fdd
+
+National technical regulation on base stations for W - cd ma Fdd
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Điều_kiện môi_trường
+
+2 . 2 . Yêu_cầu chung
+
+2 . 3 . Mặt_nạ phổ phát_xạ
+
+2 . 3 . 1 . Định_nghĩa
+
+2 . 3 . 2 . Giới_hạn
+
+2 . 3 . 3 . Phương_pháp đo_kiểm
+
+2 . 4 . Tỷ_số công_suất rò kênh lân_cận ( aclr )
+
+2 . 4 . 1 . Định_nghĩa
+
+2 . 4 . 2 . Giới_hạn
+
+2 . 4 . 3 . Giới_hạn Aclr luỹ kế trong trạm gốc hoạt_động đa băng hoặc phổ không liền kề
+
+2 . 4 . 4 . Phương_pháp đo_kiểm
+
+2 . 5 . Phát_xạ giả của máy_phát
+
+2 . 5 . 1 . Định_nghĩa
+
+2 . 5 . 2 . Giới_hạn
+
+2 . 5 . 3 . Phương_pháp đo_kiểm
+
+2 . 6 . Công_suất ra cực_đại của trạm gốc
+
+2 . 6 . 1 . Định_nghĩa
+
+2 . 6 . 2 . Giới_hạn
+
+2 . 6 . 3 . Phương_pháp đo_kiểm
+
+2 . 7 . Xuyên điều_chế phát
+
+2 . 7 . 1 . Định_nghĩa
+
+2 . 7 . 2 . Giới_hạn
+
+2 . 7 . 3 . Phương_pháp đo_kiểm
+
+2 . 8 . Các phát_xạ giả của máy thu
+
+2 . 8 . 1 . Định_nghĩa
+
+2 . 8 . 2 . Giới_hạn
+
+2 . 8 . 3 . Phương_pháp đo_kiểm
+
+2 . 9 . Các đặc_tính chặn
+
+2 . 9 . 1 . Định_nghĩa
+
+2 . 9 . 2 . Giới_hạn
+
+2 . 9 . 3 . Phương_pháp đo_kiểm
+
+2 . 10 . Các đặc_tính xuyên điều_chế của máy thu
+
+2 . 10 . 1 . Định_nghĩa
+
+2 . 10 . 2 . Giới_hạn
+
+2 . 10 . 3 . Phương_pháp đo_kiểm
+
+2 . 11 . Độ chọn_lọc kênh lân_cận của máy thu
+
+2 . 11 . 1 . Định_nghĩa
+
+2 . 11 . 2 . Giới_hạn
+
+2 . 11 . 3 . Phương_pháp đo_kiểm
+
+2 . 12 . Độ nhạy chuẩn
+
+2 . 12 . 1 . Định_nghĩa
+
+2 . 12 . 2 . Giới_hạn
+
+2 . 12 . 3 . Phương_pháp đo_kiểm
+
+2 . 13 . Công_suất ngõ ra Bs trong nhà để bảo_vệ kênh lân_cận
+
+2 . 13 . 1 . Định_nghĩa
+
+2 . 13 . 2 . Giới_hạn
+
+2 . 13 . 3 . Phương_pháp đo_kiểm
+
+2 . 14 . Phát_xạ giả bức_xạ
+
+2 . 14 . 1 . Định_nghĩa
+
+2 . 14 . 2 . Giới_hạn
+
+2 . 14 . 3 . Phương_pháp đo_kiểm
+
+3 . Phương_pháp_đo
+
+3 . 1 . Các điều_kiện đo_kiểm
+
+3 . 2 . Giải_thích các kết_quả đo
+
+3 . 3 . Đo_kiểm các tham_số
+
+3 . 3 . 1 . Giới_thiệu
+
+3 . 3 . 2 . Đo_kiểm mặt_nạ phổ phát_xạ
+
+3 . 3 . 3 . Đo_kiểm tỉ_số công_suất rò kênh lân_cận ( aclr )
+
+3 . 3 . 4 . Đo_kiểm các phát_xạ giả của máy_phát
+
+3 . 3 . 5 . Đo_kiểm công_suất ra cực_đại của trạm gốc
+
+3 . 3 . 6 . Đo_kiểm xuyên điều_chế phát
+
+3 . 3 . 7 . Đo_kiểm các phát_xạ giả của máy thu
+
+3 . 3 . 8 . Đo_kiểm các đặc_tính chặn
+
+3 . 3 . 9 . Đo_kiểm các đặc_tính xuyên điều_chế của máy thu
+
+3 . 3 . 10 . Đo kiểm độ chọn_lọc kênh lân_cận ( acs )
+
+3 . 3 . 11 . Đo kiểm độ nhạy chuẩn
+
+3 . 3 . 12 . Đo_kiểm công_suất ngõ ra Bs trong nhà để bảo_vệ kênh lân_cận
+
+3 . 3 . 13 . Đo_kiểm các phát_xạ giả bức_xạ
+
+4 . Quy_định Về Quản_lý
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+6 . Tổ_chức Thực_hiện

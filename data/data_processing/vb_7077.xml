@@ -1,0 +1,101 @@
+Thông_tư số 10/2019/tt-btttt ngày 04 tháng 10 năm 2019 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ngày 29 tháng 6 năm 2006 ;
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Luật Tần_số vô_tuyến_điện ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều Luật tiêu_chuẩn và quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 17/2017/NĐ-CP ngày 17 tháng 02 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện từ cho thiết_bị đầu_cuối và phụ_trợ trong hệ_thống thông_tin di_động .
+
+Điều 2 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2020 .
+
+2 . Thông_tư số 02/2015/TT-BTTTT ngày 27 tháng 02 năm 2015 của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_chuẩn kĩ_thuật quốc_gia về tương_thích điện từ đối_với các thiết_bị đầu_cuối và phụ_trợ trong hệ_thống thông_tin di_động Gsm và Dcs hết hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2020 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 86 : 2019 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia
+
+Về Tương_thích Điện_từ Cho Thiết_bị Đầu_cuối Và Phụ_trợ Trong Hệ_thống Thông_tin_di_động
+
+National technical regulation
+
+on electromagnetic compatibility for mobile terminals and ancillary equipment of digital cellular telecommunication systems
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Ký_hiệu
+
+1 . 6 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Phát_xạ
+
+2 . 1 . 1 . Hệ_thống Gsm và Dcs
+
+2 . 1 . 2 . Hệ_thống Cd ma trải phổ trực_tiếp ( utra và E - utra )
+
+2 . 2 . Miễn_nhiễm
+
+2 . 2 . 1 . Hệ_thống Gsm và Dcs
+
+2 . 2 . 2 . Hệ_thống Cd ma trải phổ trực_tiếp ( utra và E - utra )
+
+2 . 3 . Điều_kiện đo_kiểm
+
+2 . 3 . 1 . Quy_định chung
+
+2 . 3 . 2 . Bố_trí tín_hiệu đo_kiểm
+
+2 . 3 . 3 . Băng tần loại_trừ
+
+2 . 3 . 4 . Đáp_ứng băng hẹp của máy thu và phần thu của máy thu phát song công
+
+2 . 3 . 5 . Điều_chế đo kiểm thông_thường
+
+2 . 4 . Đánh_giá chỉ_tiêu
+
+2 . 4 . 1 . Quy_định chung
+
+2 . 4 . 2 . Thiết_bị có_thể cung_cấp kết_nối thông_tin liên_tục
+
+2 . 4 . 3 . Thiết_bị không_thể cung_cấp kết_nối thông_tin liên_tục
+
+2 . 4 . 4 . Thiết_bị phụ_trợ
+
+2 . 4 . 5 . Phân_loại thiết_bị
+
+2 . 5 . Tiêu_chí chất_lượng
+
+2 . 5 . 1 . Tiêu_chí chất_lượng hệ_thống Gsm và Dcs
+
+2 . 5 . 2 . Tiêu_chí chất_lượng hệ_thống Cd ma trải phổ trực_tiếp ( utra và E - utra )
+
+3 . Quy_định Về Quản_lý
+
+4 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+5 . Tổ_chức Thực_hiện

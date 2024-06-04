@@ -1,0 +1,637 @@
+Thông_tư số 30/2019/tt-bct ngày 18 tháng 11 năm 2019 của bộ công_thương
+
+Căn_cứ Luật Điện_lực ngày 03 tháng 12 năm 2004 và Luật sửa_đổi , bổ_sung một_số điều của Luật Điện_lực ngày 20 tháng 11 năm 2012 ;
+
+Căn_cứ Nghị_định số 98/2017/NĐ-CP ngày 18 tháng 8 năm 2017 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Công_thương ;
+
+Căn_cứ Nghị_định số 137/2013/NĐ-CP ngày 21 tháng 10 năm 2013 của Chính_phủ quy_định chi_tiết thi_hành một_số điều của Luật Điện_lực và Luật sửa_đổi , bổ_sung một_số điều của Luật Điện_lực ;
+
+Theo đề_nghị của Cục_trưởng Cục Điều_tiết điện_lực ;
+
+Bộ_trưởng Bộ Công_thương ban_hành Thông_tư sửa_đổi , bổ_sung một_số điều của Thông_tư số 25/2016/TT-BCT ngày 30 tháng 11 năm 2016 của Bộ_trưởng Bộ Công_thương quy_định hệ_thống điện truyền_tải và Thông_tư số 39/2015/TT-BCT ngày 18 tháng 11 năm 2015 của Bộ_trưởng Bộ Công_thương quy_định hệ_thống điện_phân_phối .
+
+Điều 1 . Sửa_đổi , bổ_sung một_số điều của Thông_tư số 25/2016/TT-BCT ngày 30 tháng 11 năm 2016 của Bộ_trưởng Bộ Công_thương quy_định hệ_thống điện truyền_tải
+
+1 . Bổ_sung Khoản 5a sau Khoản 5 , Khoản 6a sau Khoản 6 Điều 3 như sau :
+
+5a . Công_suất định_mức của nhà_máy_điện là tổng_công_suất định_mức của các tổ máy trong nhà_máy_điện ở chế_độ vận_hành ổn_định , bình_thường và được nhà sản_xuất công_bố theo thiết_kế của tổ máy . Đối_với nhà_máy_điện mặt_trời , công_suất định_mức của nhà_máy_điện mặt_trời là công_suất điện xoay chiều_tối_đa có_thể phát được của nhà_máy được tính_toán và công_bố , phù_hợp với công_suất điện một_chiều của nhà_máy_điện mặt_trời theo quy_hoạch .
+
+6a . Dim ( viết tắt theo tiếng Anh : Dispatch Instruction_management ) là hệ_thống quản_lí thông_tin Lệnh điều_độ giữa cấp điều_độ có quyền điều_khiển với nhà_máy_điện hoặc Trung_tâm Điều_khiển các nhà_máy_điện .
+
+2 . Sửa_đổi Khoản 10 , Khoản 35 , Khoản 49 , Khoản 53 Điều 3 như sau :
+
+10 . Điều_khiển tần_số trong hệ_thống điện ( sau đây viết tắt là điều_khiển tần_số ) là quá_trình điều_khiển trong hệ_thống điện để duy_trì sự vận_hành ổn_định của hệ_thống , bao_gồm điều_khiển tần_số sơ_cấp , điều_khiển tần_số thứ cấp và điều_khiển tần_số cấp 3 :
+
+a ) Điều_khiển tần_số sơ_cấp là quá_trình điều_khiển tức_thời tần_số hệ_thống điện được thực_hiện tự_động bởi số_lượng lớn các tổ máy phát_điện có trang_bị hệ_thống điều_tốc ;
+
+b ) Điều_khiển tần_số thứ cấp là quá_trình điều_khiển tiếp_theo của điều_khiển tần_số sơ_cấp được thực_hiện thông_qua tác_động của hệ_thống Agc nhằm đưa tần_số về dải làm_việc lâu_dài cho phép .
+
+c ) Điều_khiển tần_số cấp 3 là quá_trình điều_khiển tiếp_theo của điều_khiển tần_số thứ cấp được thực_hiện bằng Lệnh điều_độ để đưa tần_số hệ_thống điện vận_hành ổn_định theo quy_định hiện_hành và đảm_bảo phân_bố kinh_tế công_suất phát các tổ máy phát_điện .
+
+35 . Mức nhấp_nháy điện_áp ngắn_hạn ( Pst ) và mức nhấp_nháy điện_áp dài_hạn ( Plt ) là giá_trị đo theo tiêu_chuẩn quốc_gia hiện_hành . Trường_hợp giá_trị đo Pst và Plt chưa có trong tiêu_chuẩn quốc_gia , đo theo Tiêu_chuẩn Iec hiện_hành do Ủy_ban Kỹ_thuật điện quốc_tế công_bố .
+
+49 . Thiết_bị ổn_định hệ_thống điện Ps ( viết tắt theo tiếng Anh : Power System_stabilizer ) là thiết_bị đưa tín_hiệu bổ_sung tác_động vào bộ tự_động điều_chỉnh điện_áp ( avr ) để làm suy_giảm mức dao_động công_suất trong hệ_thống điện .
+
+53 . Sa_thải phụ_tải tự_động là tác_động cát tải tự_động của rơ_le theo tín_hiệu tần_số , điện_áp , mức công_suất truyền_tải của hệ_thống điện khi tần_số , điện_áp , mức công_suất truyền_tải ra ngoài ngưỡng cho phép theo tính_toán của Đơn_vị vận_hành hệ_thống điện và thị_trường điện . .
+
+3 . Sửa_đổi Điều 7 như sau :
+
+Điều 7 . Cân_bằng pha
+
+1 . Trong chế_độ vận_hành bình_thường , thành_phần thứ tự nghịch của điện_áp pha không được vượt quá 3 % điện_áp danh định đối_với các cấp điện_áp danh định trong lưới_điện truyền_tải .
+
+2 . Cho phép thành_phần thứ tự nghịch của điện_áp pha trên lưới_điện truyền_tải trong một_số thời_điểm vượt quá giá_trị quy_định tại Khoản 1 Điều này nhưng phải đảm_bảo 95 % các giá_trị đo với thời_gian đo ít_nhất 01 tuần và tần_suất lấy mẫu 10 phút / lần không được vượt quá giới_hạn quy_định . .
+
+4 . Sửa_đổi Khoản 1 , Khoản 2 và bổ_sung Khoản 6 Điều 8 như sau :
+
+1 . Sóng hài điện_áp
+
+a ) Tổng_biến_dạng sóng hài điện_áp là tỉ_lệ giữa giá_trị hiệu_dụng của sóng hài điện_áp với giá_trị hiệu_dụng của điện_áp bậc cơ_bản được tính theo công_thức sau :
+
+Trong đó :
+
+- Thd : Tổng_biến_dạng sóng hài điện_áp ;
+
+- Vi : Giá_trị hiệu_dụng của sóng hài điện_áp bậc y và N là bậc cao nhất của sóng hài cần đánh_giá ;
+
+- Vl : Giá_trị hiệu_dụng của điện_áp bậc cơ_bản ( tần_số 50 Hz ) .
+
+b ) Giá_trị cực_đại cho phép của tổng biến_dạng sóng hài điện_áp do các thành_phần sóng hài bậc cao gây ra đối_với các cấp điện_áp 220 kV và 500 kV phải nhỏ hơn hoặc bằng 3 % .
+
+2 . Sóng hài dòng_điện
+
+a ) Tổng_biến_dạng sóng hài dòng_điện là tỉ_lệ giữa giá_trị hiệu_dụng của sóng hài dòng_điện với giá_trị hiệu_dụng của dòng_điện bậc cơ_bản ở chế_độ phụ_tải , công_suất phát cực_đại được tính theo công_thức sau :
+
+Trong đó :
+
+- Td : Tổng_biến_dạng sóng hài dòng_điện ;
+
+- Ii : Giá_trị hiệu_dụng của sóng hài dòng_điện bậc y và N là bậc cao nhất của sóng hài cần đánh_giá ;
+
+- Il : Giá_trị hiệu_dụng của dòng_điện bậc cơ_bản ( tần_số 50 Hz ) ở phụ_tải , công_suất phát cực_đại ( phụ_tải , công_suất phát cực_đại là giá_trị trung_bình của 12 phụ_tải , công_suất phát cực_đại tương_ứng với 12 tháng trước đó , trường_hợp đối_với các đấu nối mới hoặc không thu_thập được giá_trị phụ_tải , công_suất phát cực_đại tương_ứng với 12 tháng trước đó thì sử_dụng giá_trị phụ_tải , công_suất phát cực_đại trong toàn_bộ thời_gian thực_hiện phép đo ) .
+
+b ) Giá_trị cực_đại cho phép của tổng biến_dạng sóng hài dòng_điện do các thành_phần sóng hài bậc cao gây ra đối_với các cấp điện_áp 220 kV và 500 kV phải nhỏ hơn hoặc bằng 3 % .
+
+6 . Cho phép đỉnh nhọn bất_thường của sóng hài trên lưới_điện truyền_tải vượt quá tổng biến_dạng sóng hài quy_định tại Khoản 1 và Khoản 2 Điều này nhưng phải đảm_bảo 95 % giá_trị đo sóng hài điện_áp và sóng hài dòng_điện với thời_gian đo ít_nhất 01 tuần và tần_suất lấy mẫu 10 phút / lần không được vượt quá giới_hạn quy_định .
+
+5 . Sửa_đổi Điều 12 như sau :
+
+Điều 12 . Dòng_điện ngắn mạch và thời_gian loại_trừ sự_cố
+
+1 . Dòng_điện ngắn mạch lớn nhất cho phép
+
+a ) Trị_số dòng_điện ngắn mạch lớn nhất cho phép và thời_gian tối_đa loại_trừ sự_cố bằng bảo_vệ chính trong hệ_thống điện truyền_tải được quy_định tại Bảng 6 như sau :
+
+Bảng 6
+
+Dòng_điện ngắn mạch lớn nhất cho phép và thời_gian tối_đa loại_trừ sự_cố bằng bảo_vệ chính
+
+b ) Bảo_vệ chính trang thiết_bị điện là bảo_vệ chủ_yếu và được lắp_đặt , chỉnh định để thực_hiện tác_động trước_tiên , đảm_bảo các tiêu_chí về độ chọn_lọc , độ tin_cậy tác_động và thời_gian tác_động của hệ_thống bảo_vệ khi có sự_cố xảy ra trong phạm_vi bảo_vệ đối_với trang thiết_bị được bảo_vệ ;
+
+c ) Thanh cái 110 kV của các trạm biến_áp 500 kV , 220 kV trong lưới_điện truyền_tải được áp_dụng dòng_điện ngắn mạch lớn nhất cho phép là 40 kA .
+
+2 . Thiết_bị đóng cắt trên lưới_điện truyền_tải phải có đủ khả_năng cắt dòng_điện ngắn mạch lớn nhất qua thiết_bị đóng cắt trong ít_nhất 10 năm tiếp_theo kể từ thời_điểm dự_kiến đưa thiết_bị vào vận_hành và chịu_đựng được dòng_điện ngắn mạch này trong thời_gian tối_thiểu từ 01 giây trở lên .
+
+3 . Đối_với tổ máy thuỷ_điện và nhiệt_điện có công_suất lớn hơn 30 Mw , tổng giá_trị điện kháng siêu quá_độ chưa bão_hoà của tổ máy phát_điện ( Xd - % ) và điện kháng ngắn mạch của máy biến_áp đầu cực ( Uk - % ) tính trong hệ đơn_vị tương_đối ( đơn_vị pu quy về công_suất biểu_kiến định_mức của tổ máy phát_điện ) không được nhỏ hơn 40 % .
+
+Trường_hợp không đáp_ứng được yêu_cầu trên , chủ đầu_tư có trách_nhiệm tính_toán , đầu_tư và lắp_đặt thêm kháng điện để tổng giá_trị của Xd , Uk và kháng điện tính trong hệ đơn_vị tương_đối ( đơn_vị pu quy về công_suất biểu_kiến định_mức của tổ máy phát_điện ) không được nhỏ hơn 40 % .
+
+4 . Các công_trình điện_đấu nối vào hệ_thống điện truyền_tải có giá_trị dòng_điện ngắn mạch tại điểm đấu nối theo tính_toán mà lớn hơn giá_trị dòng_điện ngắn mạch lớn nhất cho phép quy_định tại Bảng 6 thì chủ đầu_tư các công_trình điện có trách_nhiệm áp_dụng các biện_pháp để dòng_điện ngắn mạch tại điểm đấu nối xuống thấp hơn hoặc bằng giá_trị dòng_điện ngắn mạch lớn nhất cho phép quy_định tại Bảng 6 . 5 .
+
+5 . Đơn_vị truyền_tải_điện có trách_nhiệm thông_báo giá_trị dòng_điện ngắn mạch lớn nhất tại điểm đấu nối tại thời_điểm hiện_tại và theo tính_toán trong ít_nhất 10 năm tiếp_theo để Khách_hàng sử_dụng lưới_điện truyền_tải phối_hợp trong quá_trình đầu_tư , lắp_đặt thiết_bị , đảm_bảo thiết_bị đóng cắt có đủ khả_năng đóng cắt dòng_điện ngắn mạch lớn nhất tại điểm đấu nối trong ít_nhất 10 năm tiếp_theo kể từ thời_điểm dự_kiến đưa thiết_bị vào vận_hành . .
+
+6 . Sửa_đổi Khoản 3 Điều 28 như sau :
+
+3 . Trường_hợp phương_án đấu nối đề_nghị của khách_hàng không phù_hợp với quy_hoạch phát_triển điện_lực đã được phê_duyệt , Đơn_vị truyền_tải_điện có trách_nhiệm thông_báo cho khách_hàng có nhu_cầu đấu nối biết để thực_hiện điều_chỉnh , bổ_sung quy_hoạch theo quy_định . .
+
+7 . Sửa_đổi Khoản 1 Điều 31 như sau :
+
+1 . Khách_hàng sử_dụng lưới_điện truyền_tải có trách_nhiệm đầu_tư , lắp_đặt , quản_lí vận_hành hệ_thống thông_tin trong phạm_vi quản_lí của mình và đảm_bảo kết_nối hệ_thống này với hệ_thống thông_tin của Đơn_vị truyền_tải_điện và cấp điều_độ có quyền điều_khiển ; đảm_bảo thông_tin liên_lạc , truyền dữ_liệu ( bao_gồm cả dữ_liệu của hệ_thống Scada , Pmu , giám_sát ghi sự_cố ) đầy_đủ , tin_cậy và liên_tục phục_vụ vận_hành hệ_thống điện và thị_trường điện . Các phương_tiện thông_tin liên_lạc tối_thiểu phục_vụ công_tác điều_độ , vận_hành trong hệ_thống điện truyền_tải gồm kênh trực thông , điện_thoại , fax và Dim phải hoạt_động tin_cậy và liên_tục . .
+
+8 . Sửa_đổi Khoản 1 , Khoản 2 Điều 32 như sau :
+
+1 . Trạm biến_áp có cấp điện_áp từ 220 kV trở lên , nhà_máy_điện có công_suất lắp_đặt trên 30 Mw và nhà_máy_điện_đấu nối vào lưới_điện truyền_tải chưa kết_nối đến Trung_tâm điều_khiển phải được trang_bị Gateway hoặc Rtu và thiết_lập hai kết_nối độc_lập về mặt vật_lí với hệ_thống Scada của cấp điều_độ có quyền điều_khiển .
+
+2 . Trạm biến_áp có cấp điện_áp từ 220 kV trở lên , nhà_máy_điện có công_suất lắp_đặt trên 30 Mw và các nhà_máy_điện_đấu nối vào lưới_điện truyền_tải đã kết_nối và được điều_khiển , thao_tác xa từ Trung_tâm điều_khiển phải được trang_bị Gateway hoặc Rtu và thiết_lập một kết_nối với hệ_thống Scad A của Cấp điều_độ có quyền điều_khiển và hai kết_nối với hệ_thống điều_khiển tại Trung_tâm điều_khiển . .
+
+9 . Sửa_đổi Điều 36 như sau :
+
+Điều 36 . Hệ_thống sa_thải phụ_tải tự_động
+
+1 . Khách_hàng sử_dụng lưới_điện truyền_tải có trách_nhiệm phối_hợp với các đơn_vị liên_quan để thống_nhất lắp_đặt thiết_bị và đảm_bảo hoạt_động của hệ_thống sa_thải phụ_tải tự_động trong hệ_thống điện của mình theo tính_toán và yêu_cầu của Cấp điều_độ có quyền điều_khiển .
+
+2 . Hệ_thống sa_thải phụ_tải tự_động phải được thiết_kế , chỉnh định đảm_bảo các yêu_cầu sau :
+
+a ) Độ tin_cậy không nhỏ hơn 99 % ;
+
+b ) Việc sa_thải không thành_công của một phụ_tải nào đó không làm ảnh_hưởng đến hoạt_động của toàn_bộ hệ_thống điện ;
+
+c ) Trình_tự sa_thải và lượng công_suất sa_thải phải tuân_thủ mức phân_bổ của Cấp điều_độ có quyền điều_khiển , không được thay_đổi trong bất_kì trường_hợp nào nếu không có sự cho phép của cấp điều_độ có quyền điều_khiển .
+
+3 . Trình_tự khôi_phục phụ_tải_điện phải tuân_thủ theo Lệnh điều_độ của cấp điều_độ có quyền điều_khiển . .
+
+10 . Sửa_đổi Khoản 2 Điều 37 như sau :
+
+2 . Yêu_cầu kết_nối của Trung_tâm điều_khiển
+
+a ) Yêu_cầu về kết_nối hệ_thống thông_tin
+
+- Có một đường truyền dữ_liệu kết_nối với hệ_thống thông_tin của cấp điều_độ có quyền điều_khiển . Trường_hợp có nhiều cấp điều_độ có quyền điều_khiển , các cấp điều_độ có trách_nhiệm thống_nhất phương_thức chia_sẻ thông_tin ;
+
+- Có hai đường truyền dữ_liệu ( một đường truyền làm_việc , một đường truyền dự_phòng ) kết_nối với hệ_thống điều_khiển và thông_tin của nhà_máy_điện , trạm điện do Trung_tâm điều_khiển thực_hiện điều_khiển từ xa ;
+
+- Các phương_tiện thông_tin liên_lạc tối_thiểu phục_vụ công_tác điều_độ gồm trực thông , điện_thoại , fax , Dim và mạng máy_tính phải hoạt_động tốt .
+
+b ) Yêu_cầu về kết_nối hệ_thống Scada
+
+- Có một kết_nối với hệ_thống Scada của Cấp điều_độ có quyền điều_khiển . Trường_hợp có nhiều cấp điều_độ có quyền điều_khiển , các cấp điều_độ có trách_nhiệm chia_sẻ thông_tin ;
+
+- Có hai kết_nối với thiết_bị đầu_cuối RTU / Gateway , hệ_thống điều_khiển của nhà_máy_điện , trạm điện và thiết_bị đóng cắt trên lưới_điện do Trung_tâm điều_khiển thực_hiện điều_khiển từ xa ;
+
+c ) Trung_tâm điều_khiển phải trang_bị màn_hình giám_sát và kết_nối với hệ_thống camera giám_sát an_ninh tại nhà_máy_điện , trạm điện và thiết_bị đóng cắt trên lưới_điện về Trung_tâm điều_khiển . .
+
+11 . Sửa_đổi Khoản 3 Điều 38 như sau :
+
+3 . Tổ máy phát_điện của nhà_máy_điện phải có khả_năng tham_gia vào việc điều_khiển tần_số sơ_cấp khi tần_số lệch ra khỏi dải_chết của hệ_thống điều_tốc và đáp_ứng toàn_bộ công_suất điều_khiển tần_số sơ_cấp của tổ máy trong 15 giây và duy_trì công_suất này tối_thiểu 15 giây . Công_suất điều_khiển tần_số sơ_cấp của tổ máy được tính_toán theo độ lệch tần_số thực_tế và các thông_số cài_đặt do Đơn_vị vận_hành hệ_thống điện và thị_trường điện yêu_cầu . .
+
+12 . Sửa_đổi Điều 42 như sau :
+
+Điều 42 . Yêu_cầu kĩ_thuật đối_với nhà_máy_điện gió , nhà_máy_điện mặt_trời
+
+1 . Nhà_máy_điện gió , nhà_máy_điện mặt_trời phải có khả_năng duy_trì vận_hành phát công_suất tác_dụng theo các chế_độ sau :
+
+a ) Chế_độ phát tự_do : Vận_hành phát_điện công_suất lớn nhất có_thể theo sự_biến_đổi của nguồn năng_lượng sơ_cấp ( gió hoặc mặt_trời ) ;
+
+b ) Chế_độ điều_khiển công_suất phát :
+
+Nhà_máy_điện gió , nhà_máy_điện mặt_trời phải có khả_năng giới_hạn công_suất phát theo Lệnh điều_độ trong các trường_hợp sau :
+
+- Trường_hợp nguồn năng_lượng sơ_cấp biến_thiên thấp hơn giá_trị giới_hạn theo Lệnh điều_độ thì phát công_suất lớn nhất có_thể ;
+
+- Trường_hợp nguồn năng_lượng sơ_cấp biến_thiên bằng hoặc lớn hơn giá_trị giới_hạn theo Lệnh điều_độ thì phát công_suất đúng giá_trị giới_hạn theo Lệnh điều_độ với sai_số trong dải 01 % công_suất định_mức .
+
+2 . Nhà_máy_điện gió , nhà_máy_điện mặt_trời tại mọi thời_điểm đang nối lưới phải có khả_năng duy_trì vận_hành phát_điện trong thời_gian tối_thiểu tương_ứng với các dải_tần_số vận_hành theo quy_định tại Bảng 8 như sau :
+
+Bảng 8
+
+Thời_gian tối_thiểu duy_trì vận_hành phát_điện của nhà_máy_điện gió , nhà_máy_điện mặt_trời tương_ứng với các dải_tần_số của hệ_thống điện
+
+3 . Khi tần_số hệ_thống điện lớn hơn 50 , 5 Hz , nhà_máy_điện gió , nhà_máy_điện mặt_trời có khả_năng giảm công_suất tác_dụng theo độ dốc tương_đối của đường đặc tuyến tĩnh ( droop characteristics ) trong dải từ 2 % đến 10 % . Giá_trị cài_đặt độ dốc tương_đối của đường đặc tuyến tĩnh do cấp điều_độ có quyền điều_khiển tính_toán và xác_định .
+
+4 . Nhà_máy_điện gió , nhà_máy_điện mặt_trời phải có khả_năng điều_chỉnh công_suất phản_kháng theo đặc_tính như hình_vẽ dưới đây và mô_tả tại Điểm a , Điểm b Khoản này :
+
+a ) Trường_hợp nhà_máy_điện phát công_suất tác_dụng lớn hơn hoặc bằng 20 % công_suất tác_dụng định_mức và điện_áp tại điểm đấu nối trong dải 10 % điện_áp danh định , nhà_máy_điện phải có khả_năng điều_chỉnh liên_tục công_suất phản_kháng trong dải hệ_số công_suất 0 , 95 ( ứng với chế_độ phát công_suất phản_kháng ) đến 0 , 95 ( ứng với chế_độ nhận công_suất phản_kháng ) tại điểm đấu nối ứng với công_suất định_mức ;
+
+b ) Trường_hợp nhà_máy_điện phát công_suất tác_dụng nhỏ hơn 20 % công_suất định_mức , nhà_máy_điện có_thể giảm khả_năng nhận hoặc phát công_suất phản_kháng phù_hợp với đặc_tính của nhà_máy_điện .
+
+5 . Chế_độ điều_khiển điện_áp và công_suất phản_kháng :
+
+a ) Nhà_máy_điện gió , nhà_máy_điện mặt_trời có khả_năng điều_khiển điện_áp và công_suất phản_kháng theo các chế_độ sau :
+
+- Chế_độ điều_khiển điện_áp theo đặc_tính độ dốc điều_chỉnh điện_áp ( đặc_tính quan_hệ điện_áp / công_suất phản_kháng ) ;
+
+- Chế_độ điều_khiển theo giá_trị đặt công_suất phản_kháng ;
+
+- Chế_độ điều_khiển theo hệ_số công_suất .
+
+b ) Nếu điện_áp tại điểm đấu nối trong dải 10 % điện_áp danh định , nhà_máy_điện gió và nhà_máy_điện mặt_trời phải có khả_năng điều_chỉnh điện_áp tại phía hạ_áp máy biến_áp tăng áp với độ sai_lệch không quá 0 , 5 % điện_áp định_mức ( so với giá_trị đặt điện_áp ) bất_cứ khi nào công_suất phản_kháng của tổ máy phát_điện còn nằm trong dải làm_việc cho phép và hoàn_thành trong thời_gian không quá 05 giây .
+
+6 . Nhà_máy_điện gió , nhà_máy_điện mặt_trời tại mọi thời_điểm đang nối lưới phải có khả_năng duy_trì vận_hành phát_điện tương_ứng với dải điện_áp tại điểm đấu nối trong thời_gian như sau :
+
+a ) Điện_áp dưới 0 , 3 pu , thời_gian duy_trì tối_thiểu là 0 , 15 giây ;
+
+b ) Điện_áp từ 0 , 3 pu đến dưới 0 , 9 pu , thời_gian duy_trì tối_thiểu được tính theo công_thức sau :
+
+Tmin = 4 x U - 0 , 6
+
+Trong đó :
+
+- Tmin ( giây ) : Thời_gian duy_trì phát_điện tối_thiểu ;
+
+- U ( pu ) : Điện_áp thực_tế tại điểm đấu nối tính theo đơn_vị pu ( đơn_vị tương_đối ) .
+
+c ) Điện_áp từ 0 , 9 pu đến dưới 1 , 1 pu , nhà_máy_điện gió và nhà_máy_điện mặt_trời phải duy_trì vận_hành phát_điện liên_tục ;
+
+d ) Điện_áp từ 1 , 1 pu đến dưới 1 , 15 pu , nhà_máy_điện gió và nhà_máy_điện mặt_trời phải duy_trì vận_hành phát_điện trong thời_gian 03 giây ;
+
+đ ) Điện_áp từ 1 , 15 pu đến dưới 1 , 2 pu , nhà_máy_điện gió và nhà_máy_điện mặt_trời phải duy_trì vận_hành phát_điện trong thời_gian 0 , 5 giây .
+
+7 . Độ mất cân_bằng pha , tổng biến_dạng sóng hài và mức nhấp_nháy điện_áp do nhà_máy_điện gió , nhà_máy_điện mặt_trời gây ra tại điểm đấu nối không được vượt quá giá_trị quy_định tại Điều 7 , Điều 8 và Điều 9 Thông_tư này .
+
+8 . Nhà_máy_điện gió , nhà_máy_điện mặt_trời phải đầu_tư các trang thiết_bị , hệ_thống điều_khiển , tự_động đảm_bảo kết_nối ổn_định , tin_cậy và bảo_mật với hệ_thống điều_khiển công_suất tổ máy ( agc ) của Đơn_vị vận_hành hệ_thống điện và thị_trường điện phục_vụ điều_khiển từ xa công_suất nhà_máy theo Lệnh điều_độ của Đơn_vị vận_hành hệ_thống điện và thị_trường điện .
+
+13 . Sửa_đổi Điểm a Khoản 2 Điều 59 như sau :
+
+a ) Mức dự_phòng điều tần thứ cấp , dự_phòng khởi_động nhanh thấp hơn mức yêu_cầu ở chế_độ vận_hành bình_thường .
+
+14 . Sửa_đổi Điểm b Khoản 3 Điều 64 như sau :
+
+b ) Sa_thải phụ_tải theo từng tuyến đường_dây bằng rơ_le tự_động sa_thải hoặc sa_thải phụ_tải theo Lệnh điều_độ .
+
+15 . Bổ_sung Khoản 2a sau Khoản 2 Điều 69 như sau :
+
+2a . Cung_cấp thông_tin về nguồn năng_lượng sơ_cấp ( thông_tin về thuỷ_văn đối_với nhà_máy thuỷ_điện , than - dầu - chất_đốt đối_với nhà_máy nhiệt_điện , thông_tin quan_trắc khí_tượng đối_với nhà_máy_điện gió , mặt_trời ) , dự_báo_công_suất , sản_lượng của nhà_máy và truyền số_liệu về Đơn_vị vận_hành hệ_thống điện và thị_trường điện .
+
+16 . Sửa_đổi Điều 72 như sau :
+
+Điều 72 . Các loại dịch_vụ phụ_trợ
+
+Các loại dịch_vụ phụ_trợ trong hệ_thống điện bao_gồm :
+
+1 . Điều_khiển tần_số thứ cấp ( Điều tần thứ cấp ) .
+
+2 . Khởi_động nhanh .
+
+3 . Điều_chỉnh điện_áp .
+
+4 . Dự_phòng vận_hành phải phát để đảm_bảo_an_ninh hệ_thống điện .
+
+5 . Khởi_động đen .
+
+17 . Sửa_đổi Điều 73 như sau :
+
+Điều 73 . Yêu_cầu kĩ_thuật đối_với các dịch_vụ phụ_trợ
+
+1 . Điều tần thứ cấp : Tổ máy phát_điện cung_cấp dịch_vụ điều tần thứ cấp phải có khả_năng bắt_đầu cung_cấp công_suất điều tần trong vòng 20 giây kể từ khi nhận được tín_hiệu Agc từ Đơn_vị vận_hành hệ_thống điện và thị_trường điện và cung_cấp toàn_bộ công_suất điều tần thứ cấp đã đăng_kí trong vòng 10 phút và duy_trì mức công_suất này tối_thiểu 15 phút .
+
+2 . Khởi_động nhanh : Tổ máy phát_điện cung_cấp dự_phòng khởi_động nhanh phải có khả_năng tăng đến công_suất định_mức trong vòng 25 phút và duy_trì ở mức công_suất này tối_thiểu 08 giờ .
+
+3 . Điều_chỉnh điện_áp : Tổ máy phát_điện cung_cấp dịch_vụ điều_chỉnh điện_áp phải có khả_năng thay_đổi công_suất phản_kháng ngoài dải điều_chỉnh quy_định tại Khoản 2 Điều 38 Thông_tư này , đáp_ứng yêu_cầu của Đơn_vị vận_hành hệ_thống điện và thị_trường điện .
+
+4 . Dự_phòng vận_hành phải phát để đảm_bảo_an_ninh hệ_thống điện : Tổ máy phát_điện cung_cấp dịch_vụ dự_phòng vận_hành phải phát để đảm_bảo_an_ninh hệ_thống điện phải có khả_năng tăng đến công_suất định_mức trong vòng 01 giờ và duy_trì mức công_suất định_mức tối_thiểu trong 08 giờ ( không bao_gồm thời_gian khởi_động ) .
+
+5 . Khởi_động đen : Tổ máy phát_điện cung_cấp dịch_vụ khởi_động đen phải có khả_năng tự khởi_động từ trạng_thái nguội mà không cần nguồn cấp từ hệ_thống điện quốc_gia và phải có khả_năng kết_nối , cấp điện cho hệ_thống điện sau khi đã khởi_động thành_công .
+
+18 . Sửa_đổi Điều 74 như sau :
+
+Điều 74 : Xác_định nhu_cầu và vận_hành dịch_vụ phụ_trợ
+
+1 . Nguyên_tắc chung để xác_định nhu_cầu dịch_vụ phụ_trợ , bao_gồm :
+
+a ) Đảm_bảo duy_trì mức dự_phòng điện_năng và công_suất của hệ_thống điện để đáp_ứng các tiêu_chuẩn vận_hành và an_ninh hệ_thống điện ;
+
+b ) Đảm_bảo chi_phí tối_thiểu phù_hợp với các điều_kiện , ràng_buộc trong hệ_thống điện quốc_gia .
+
+2 . Đơn_vị vận_hành hệ_thống điện và thị_trường điện có trách_nhiệm tính_toán và trình Tập_đoàn Điện_lực Việt_nam nhu_cầu dịch_vụ phụ_trợ cho hệ_thống điện quốc_gia theo Quy_trình xác_định nhu_cầu và vận_hành dịch_vụ phụ_trợ do Cục Điều_tiết điện_lực ban_hành .
+
+3 . Trước ngày 01 tháng 11 hàng năm , Tập_đoàn Điện_lực Việt_nam có trách_nhiệm trình Cục Điều_tiết điện_lực thông_qua nhu_cầu dịch_vụ phụ_trợ cho hệ_thống điện quốc_gia năm tới để làm cơ_sở lập kế_hoạch mua và huy_động các dịch_vụ phụ_trợ trong kế_hoạch vận_hành hệ_thống điện quốc_gia năm tới .
+
+19 . Sửa_đổi Điểm b Khoản 1 Điều 85 như sau :
+
+b ) Khi xảy ra trạng_thái mất cân_bằng trên hệ_thống điện , Đơn_vị vận_hành hệ_thống điện và thị_trường điện huy_động các tổ máy phát_điện cung_cấp dịch_vụ phụ_trợ và điều_chỉnh công_suất phát của các tổ máy phát_điện căn_cứ vào thứ_tự huy_động của các tổ máy phát_điện trong hệ_thống để đưa hệ_thống điện_trở_lại trạng_thái cân_bằng và duy_trì mức dự_phòng theo quy_định .
+
+20 . Bổ_sung Khoản 4 Điều 90 như sau :
+
+4 . Đơn_vị truyền_tải_điện có trách_nhiệm báo_cáo theo quy_định tại Khoản 1 , Khoản 2 và Khoản 3 Điều này bằng văn_bản theo đường văn_thư và thư điện_tử ( email ) . .
+
+21 . Bổ_sung Khoản 5 Điều 91 như sau :
+
+5 . Đơn_vị vận_hành hệ_thống điện và thị_trường có trách_nhiệm báo_cáo theo quy_định tại Khoản 1 , Khoản 2 , Khoản 3 và Khoản 4 Điều này bằng văn_bản theo đường văn_thư và thư điện_tử ( email ) . .
+
+Điều 2 . Sửa_đổi , bổ_sung một_số điều của Thông_tư số 39/2015/TT-BCT ngày 18 tháng 11 năm 2015 của Bộ_trưởng Bộ Công_thương quy_định hệ_thống điện_phân_phối
+
+1 . Bổ_sung Khoản 3a sau Khoản 3 Điều 3 như sau :
+
+3a . Công_suất định_mức của nhà_máy_điện là tổng_công_suất định_mức của các tổ máy trong nhà_máy_điện ở chế_độ vận_hành ổn_định , bình_thường và được nhà sản_xuất công_bố theo thiết_kế của tổ máy . Đối_với nhà_máy_điện mặt_trời , công_suất định_mức của nhà_máy_điện mặt_trời là công_suất điện xoay chiều_tối_đa có_thể phát được của nhà_máy được tính_toán và công_bố trong thiết_kế kĩ_thuật đã được phê_duyệt , phù_hợp với công_suất điện một_chiều của nhà_máy_điện mặt_trời theo quy_hoạch . .
+
+2 . Sửa_đổi , bổ_sung Điều 5 như sau :
+
+Điều 5 . Điện_áp
+
+1 . Các cấp điện_áp danh định trong hệ_thống điện_phân_phối bao_gồm 110 kV , 35 kV , 22 kV , 15 kV , 10 kV , 06 kV và 0 , 38 kV .
+
+2 . Độ lệch điện_áp vận_hành cho phép trên lưới_điện_phân_phối trong chế_độ vận_hành bình_thường :
+
+a ) Độ lệch điện_áp vận_hành cho phép tại thanh cái trên lưới_điện_phân_phối của Đơn_vị phân_phối điện so với điện_áp danh định là + 10 % và - 05 % ;
+
+b ) Độ lệch điện_áp vận_hành cho phép tại điểm đấu nối so với điện_áp danh định như sau :
+
+- Tại điểm đấu nối với Khách_hàng sử_dụng điện là 05 % ;
+
+- Tại điểm đấu nối với nhà_máy_điện là + 10 % và - 05 % ;
+
+- Trường_hợp nhà_máy_điện và khách sử_dụng điện_đấu nối vào cùng một thanh cái , đường_dây trên lưới_điện_phân_phối thì điện_áp tại điểm đấu nối do Đơn_vị phân_phối điện quản_lí vận_hành lưới_điện khu_vực Quyết_định đảm_bảo phù_hợp với yêu_cầu kĩ_thuật vận_hành lưới_điện_phân_phối và đảm_bảo chất_lượng điện_áp cho khách_hàng sử_dụng điện theo quy_định .
+
+3 . Đối_với lưới_điện chưa ổn_định sau sự_cố , cho phép độ lệch điện_áp tại điểm đấu nối với Khách_hàng sử_dụng điện bị ảnh_hưởng trực_tiếp do sự_cố trong khoảng + 5 % và - 10 % so với điện_áp danh định .
+
+4 . Trong chế_độ sự_cố hệ_thống điện hoặc khôi_phục sự_cố , cho phép mức dao_động điện_áp trên lưới_điện_phân_phối trong khoảng 10 % so với điện_áp danh định .
+
+5 . Trong thời_gian sự_cố , điện_áp tại nơi xảy ra sự_cố và vùng lân_cận có_thể giảm quá_độ đến giá_trị bằng 0 ở pha bị sự_cố hoặc tăng quá 110 % điện_áp danh định ở các pha không bị sự_cố cho đến khi sự_cố được loại_trừ .
+
+6 . Dao_động điện_áp tại điểm đấu nối trên lưới_điện_phân_phối do phụ_tải của khách_hàng sử_dụng điện dao_động hoặc do thao_tác thiết_bị đóng cắt trong nội_bộ nhà_máy_điện gây ra không được vượt quá 2 , 5 % điện_áp danh định và phải nằm trong phạm_vi giá_trị điện_áp vận_hành cho phép được quy_định tại Khoản 2 Điều này .
+
+7 . Trường_hợp Khách_hàng sử_dụng lưới_điện_phân_phối có yêu_cầu chất_lượng điện_áp cao hơn so với quy_định tại Khoản 2 Điều này , Khách_hàng sử_dụng lưới_điện_phân_phối có_thể thoả_thuận với Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện . Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện có trách_nhiệm lấy ý_kiến của cấp điều_độ có quyền điều_khiển trước khi thoả_thuận thống_nhất với khách_hàng .
+
+3 . Sửa_đổi Điều 6 như sau :
+
+Điều 6 . Cân_bằng pha
+
+1 . Trong chế_độ làm_việc bình_thường , thành_phần thứ tự nghịch của điện_áp pha không vượt quá 03 % điện_áp danh định đối_với cấp điện_áp 110 kV hoặc 05 % điện_áp danh định đối_với cấp điện_áp trung áp và hạ_áp .
+
+2 . Cho phép thành_phần thứ tự nghịch của điện_áp pha trên lưới_điện_phân_phối trong một_số thời_điểm vượt quá giá_trị quy_định tại Khoản 1 Điều này nhưng phải đảm_bảo 95 % các giá_trị đo với thời_gian đo là ít_nhất 01 tuần và tần_suất lấy mẫu 10 phút / lần không được vượt quá giới_hạn quy_định .
+
+4 . Sửa_đổi , bổ_sung Điều 7 như sau :
+
+Điều 7 . Sóng_hài
+
+1 . Sóng hài điện_áp :
+
+a ) Tổng_biến_dạng sóng hài điện_áp là tỉ_lệ giữa giá_trị hiệu_dụng của sóng hài điện_áp với giá_trị hiệu_dụng của điện_áp bậc cơ_bản được tính theo công_thức sau :
+
+Trong đó :
+
+- Thd : Tổng_biến_dạng sóng hài điện_áp ; Vi : Giá_trị hiệu_dụng của sóng hài điện_áp bậc y và N là bậc cao nhất của sóng hài cần đánh_giá ;
+
+- Vl : Giá_trị hiệu_dụng của điện_áp bậc cơ_bản ( tần_số 50 Hz ) .
+
+b ) Độ biến_dạng sóng hài điện_áp tối_đa cho phép trên lưới_điện_phân_phối quy_định trong Bảng 1a như sau :
+
+Bảng 1a
+
+Độ biến_dạng sóng hài điện_áp tối_đa cho phép
+
+2 . Sóng hài dòng_điện :
+
+a ) Tổng_biến_dạng sóng hài dòng_điện là tỉ_lệ giữa giá_trị hiệu_dụng của sóng hài dòng_điện với giá_trị hiệu_dụng của dòng_điện bậc cơ_bản ở phụ_tải / công_suất phát cực_đại được tính theo công_thức sau :
+
+Trong đó :
+
+- Td : Tổng_biến_dạng sóng hài dòng_điện ;
+
+- Ii : Giá_trị hiệu_dụng của sóng hài dòng_điện bậc y và N là bậc cao nhất của sóng hài cần đánh_giá ;
+
+- Il : Giá_trị hiệu_dụng của dòng_điện bậc cơ_bản ( tần_số 50 Hz ) ở phụ_tải , công_suất phát cực_đại ( phụ_tải , công_suất phát cực_đại là giá_trị trung_bình của 12 giá_trị phụ_tải , công_suất phát cực_đại tương_ứng với 12 tháng trước đó , trường_hợp đối_với các đấu nối mới hoặc không thu_thập được giá_trị phụ_tải , công_suất cực_đại tương_ứng với 12 tháng trước đó thì sử_dụng giá_trị phụ_tải , công_suất phát cực_đại trong toàn_bộ thời_gian thực_hiện phép đo ) .
+
+b ) Nhà_máy_điện_đấu nối vào lưới_điện_phân_phối phải đảm_bảo không gây ra biến_dạng sóng hài dòng_điện vượt quá giá_trị quy_định tại Bảng 1b như sau :
+
+Bảng 1b
+
+Độ biến_dạng sóng hài dòng_điện tối_đa cho phép đối_với nhà_máy_điện
+
+c ) Phụ_tải_điện_đấu nối vào lưới_điện_phân_phối phải đảm_bảo không gây ra biến_dạng sóng hài dòng_điện vượt quá giá_trị quy_định tại Bảng 1c như sau :
+
+Bảng 1c
+
+Biến_dạng sóng hài dòng_điện tối_đa cho phép đối_với phụ_tải_điện
+
+3 . Cho phép đỉnh nhọn bất_thường của sóng hài trên lưới_điện_phân_phối vượt quá tổng biến_dạng sóng hài quy_định tại Khoản 1 và Khoản 2 Điều này nhưng phải đảm_bảo 95 % các giá_trị đo sóng hài điện_áp và sóng hài dòng_điện với thời_gian đo ít_nhất 01 tuần và tần_suất lấy mẫu 10 phút / lần không được vượt quá giới_hạn quy_định . .
+
+5 . Sửa_đổi Điều 8 như sau :
+
+Điều 8 . Nhấp_nháy điện_áp
+
+1 . Trong điều_kiện vận_hành bình_thường , mức nhấp_nháy điện_áp tại mọi điểm đấu nối không được vượt quá giới_hạn quy_định trong Bảng 2 như sau :
+
+Bảng 2
+
+Mức nhấp_nháy điện_áp
+
+2 . Mức nhấp_nháy điện_áp ngắn_hạn ( Pst ) và mức nhấp_nháy điện_áp dài_hạn ( Plt ) là giá_trị đo theo tiêu_chuẩn quốc_gia hiện_hành . Trường_hợp giá_trị đo Pst và Plt chưa có trong tiêu_chuẩn quốc_gia , đo theo Tiêu_chuẩn Iec hiện_hành do Ủy_ban Kỹ_thuật điện quốc_tế công_bố . .
+
+6 . Sửa_đổi Điều 9 như sau :
+
+Điều 9 . Dòng_điện ngắn mạch và thời_gian loại_trừ sự_cố
+
+1 . Dòng_điện ngắn mạch lớn nhất cho phép trên lưới_điện_phân_phối và thời_gian tối_đa loại_trừ sự_cố của bảo_vệ chính được quy_định trong Bảng 3 như sau :
+
+Bảng 3
+
+Dòng_điện ngắn mạch lớn nhất cho phép và thời_gian tối_đa loại_trừ sự_cố
+
+2 . Thiết_bị đóng cắt trên lưới_điện_phân_phối phải có đủ khả_năng cắt dòng_điện ngắn mạch lớn nhất qua thiết_bị đóng cắt trong ít_nhất 10 năm tiếp_theo kể từ thời_điểm dự_kiến đưa thiết_bị vào vận_hành và chịu_đựng dòng_điện ngắn mạch này trong thời_gian tối_thiểu 01 giây trở lên .
+
+3 . Đối_với đường_dây trung áp có nhiều phân_đoạn , khó phối_hợp bảo_vệ giữa các thiết_bị đóng cắt trên lưới_điện , cho phép thời_gian loại_trừ sự_cố của bảo_vệ chính tại một_số vị_trí đóng cắt lớn hơn giá_trị quy_định tại Khoản 1 Điều này nhưng phải nhỏ hơn 01 giây và phải đảm_bảo_an_toàn cho thiết_bị và lưới_điện .
+
+4 . Các công_trình điện_đấu nối vào hệ_thống điện_phân_phối có giá_trị dòng_điện ngắn mạch tại điểm đấu nối theo tính_toán mà lớn hơn giá_trị dòng_điện ngắn mạch lớn nhất cho phép quy_định tại Bảng 3 , chủ đầu_tư các công_trình điện có trách_nhiệm áp_dụng các biện_pháp để dòng_điện ngắn mạch tại điểm đấu nối xuống thấp hơn hoặc bằng giá_trị dòng_điện ngắn mạch lớn nhất cho phép quy_định tại Bảng 3 .
+
+5 . Đơn_vị phân_phối điện có trách_nhiệm thông_báo giá_trị dòng_điện ngắn mạch lớn nhất tại điểm đấu nối để Khách_hàng sử_dụng lưới_điện_phân_phối phối_hợp trong quá_trình đầu_tư , lắp_đặt thiết_bị , đảm_bảo thiết_bị đóng cắt có đủ khả_năng đóng cắt dòng_điện ngắn mạch lớn nhất tại điểm đấu nối trong ít_nhất 10 năm tiếp_theo kể từ khi dự_kiến đưa thiết_bị vào vận_hành . .
+
+7 . Bổ_sung Điều 17a sau Điều 17 như sau :
+
+Điều 17a . Công_bố thông_tin về độ tin_cậy cung_cấp điện , tổn_thất điện_năng và chất_lượng dịch_vụ khách_hàng
+
+1 . Trước ngày 10 hàng tháng , Đơn_vị phân_phối điện có trách_nhiệm công_bố trên Trang thông_tin điện_tử của đơn_vị các thông_tin về độ tin_cậy cung_cấp điện , tổn_thất điện_năng và chất_lượng dịch_vụ khách_hàng của tháng trước liền kề .
+
+2 . Trước ngày 31 tháng 01 hàng năm , Đơn_vị phân_phối điện có trách_nhiệm công_bố trên Trang thông_tin điện_tử của đơn_vị các thông_tin về độ tin_cậy cung_cấp điện , tổn_thất điện_năng và chất_lượng dịch_vụ khách_hàng của năm trước liền kề . .
+
+8 . Sửa_đổi Khoản 2 Điều 28 như sau :
+
+2 . Trường_hợp phương_án đấu nối đề_nghị của khách_hàng không phù_hợp với quy_hoạch phát_triển điện_lực đã được phê_duyệt , Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện có trách_nhiệm thông_báo cho Khách_hàng sử_dụng lưới_điện_phân_phối biết để thực_hiện điều_chỉnh , bổ_sung quy_hoạch theo quy_định . .
+
+9 . Sửa_đổi Điều 32 như sau :
+
+Điều 32 . Yêu_cầu về biến_dạng sóng hài
+
+Biến_dạng sóng hài cho phép tại điểm đấu nối với lưới_điện_phân_phối phải đảm_bảo các yêu_cầu quy_định tại Điều 7 Thông_tư này . .
+
+10 . Sửa_đổi Khoản 1 , Khoản 2 Điều 38 như sau :
+
+1 . Nhà_máy_điện_đấu nối vào lưới_điện_phân_phối có công_suất từ 10 Mw trở lên ( không phân_biệt cấp điện_áp_đấu nối ) và các trạm biến_áp 110 kV chưa kết_nối đến Trung_tâm điều_khiển phải được trang_bị Gateway hoặc Rtu và thiết_lập hai kết_nối độc_lập về mặt vật_lí với hệ_thống Scada của cấp điều_độ có quyền điều_khiển . Trường_hợp nhà_máy_điện , trạm biến_áp có nhiều cấp điều_độ có quyền điều_khiển , các cấp điều_độ có trách_nhiệm chia_sẻ thông_tin phục_vụ phối_hợp vận_hành hệ_thống điện .
+
+2 . Nhà_máy_điện_đấu nối vào lưới_điện_phân_phối có công_suất từ 10 Mw trở lên , các trạm biến_áp 110 kV đã kết_nối đến Trung_tâm điều_khiển phải được trang_bị Gateway hoặc Rtu được thiết_lập một kết_nối với hệ_thống Scada của Cấp điều_độ có quyền điều_khiển và hai kết_nối với hệ_thống điều_khiển tại Trung_tâm điều_khiển . .
+
+11 . Sửa_đổi , bổ_sung Điều 40 như sau :
+
+Điều 40 . Yêu_cầu đối_với nhà_máy_điện gió , nhà_máy_điện mặt_trời đấu nối vào lưới_điện_phân_phối từ cấp điện_áp trung áp trở_lên
+
+1 . Nhà_máy_điện gió , nhà_máy_điện mặt_trời phải có khả_năng duy_trì vận_hành phát công_suất tác_dụng theo các chế_độ sau :
+
+a ) Chế_độ phát tự_do : Vận_hành phát_điện công_suất lớn nhất có_thể theo sự_biến_đổi của nguồn năng_lượng sơ_cấp ( gió hoặc mặt_trời ) ;
+
+b ) Chế_độ điều_khiển công_suất phát :
+
+Nhà_máy_điện gió , nhà_máy_điện mặt_trời phải có khả_năng giới_hạn công_suất phát theo Lệnh điều_độ trong các trường_hợp sau :
+
+- Trường_hợp nguồn năng_lượng sơ_cấp biến_thiên thấp hơn giá_trị giới_hạn theo Lệnh điều_độ thì phát công_suất lớn nhất có_thể ;
+
+- Trường_hợp nguồn năng_lượng sơ_cấp biến_thiên bằng hoặc lớn hơn giá_trị giới_hạn theo Lệnh điều_độ thì phát công_suất đúng giá_trị giới_hạn theo Lệnh điều_độ với sai_số trong dải 01 % công_suất định_mức .
+
+2 . Nhà_máy_điện gió , nhà_máy_điện mặt_trời tại mọi thời_điểm đang nối lưới phải có khả_năng duy_trì vận_hành phát_điện trong thời_gian tối_thiểu tương_ứng với các dải_tần_số vận_hành theo quy_định tại Bảng 8 như sau :
+
+Bảng 8
+
+Thời_gian tối_thiểu duy_trì vận_hành phát_điện của nhà_máy_điện gió nhà_máy_điện mặt_trời tương_ứng với các dải_tần_số của hệ_thống điện
+
+3 . Khi tần_số hệ_thống điện lớn hơn 50 , 5 Hz , nhà_máy_điện gió , nhà_máy_điện mặt_trời có khả_năng giảm công_suất tác_dụng theo độ dốc tương_đối của đường đặc tuyến tĩnh ( droop characteristics ) trong dải từ 2 % đến 10 % . Giá_trị cài_đặt độ dốc tương_đối của đường đặc tuyến tĩnh do cấp điều_độ có quyền điều_khiển tính_toán và xác_định .
+
+4 . Nhà_máy_điện gió , nhà_máy_điện mặt_trời phải có khả_năng điều_chỉnh công_suất phản_kháng theo đặc_tính như hình_vẽ dưới đây và mô_tả tại Điểm a , Điểm b Khoản này :
+
+a ) Trường_hợp nhà_máy_điện phát công_suất tác_dụng lớn hơn hoặc bằng 20 % công_suất tác_dụng định_mức và điện_áp tại điểm đấu nối trong dải 10 % điện_áp danh định , nhà_máy_điện phải có khả_năng điều_chỉnh liên_tục công_suất phản_kháng trong dải hệ_số công_suất 0 , 95 ( ứng với chế_độ phát công_suất phản_kháng ) đến 0 , 95 ( ứng với chế_độ nhận công_suất phản_kháng ) tại điểm đấu nối ứng với công_suất định_mức ;
+
+b ) Trường_hợp nhà_máy_điện phát công_suất tác_dụng nhỏ hơn 20 % công_suất định_mức , nhà_máy_điện có_thể giảm khả_năng nhận hoặc phát công_suất phản_kháng phù_hợp với đặc_tính của nhà_máy_điện .
+
+5 . Chế_độ điều_khiển điện_áp và công_suất phản_kháng :
+
+a ) Nhà_máy_điện gió , nhà_máy_điện mặt_trời có khả_năng điều_khiển điện_áp và công_suất phản_kháng theo các chế_độ sau :
+
+- Chế_độ điều_khiển điện_áp theo đặc_tính độ dốc điều_chỉnh điện_áp ( đặc_tính quan_hệ điện_áp / công_suất phản_kháng ) ;
+
+- Chế_độ điều_khiển theo giá_trị đặt công_suất phản_kháng ;
+
+- Chế_độ điều_khiển theo hệ_số công_suất .
+
+b ) Nếu điện_áp tại điểm đấu nối trong dải 10 % điện_áp danh định , nhà_máy_điện gió và nhà_máy_điện mặt_trời phải có khả_năng điều_chỉnh điện_áp tại phía hạ_áp máy biến_áp tăng áp với độ sai_lệch không quá 0 , 5 % điện_áp định_mức ( so với giá_trị đặt điện_áp ) bất_cứ khi nào công_suất phản_kháng của tổ máy phát_điện còn nằm trong dải làm_việc cho phép và hoàn_thành trong thời_gian không quá 05 giây .
+
+6 . Nhà_máy_điện gió , nhà_máy_điện mặt_trời tại mọi thời_điểm đang nối lưới phải có khả_năng duy_trì vận_hành phát_điện tương_ứng với dải điện_áp tại điểm đấu nối trong thời_gian như sau :
+
+a ) Điện_áp dưới 0 , 3 pu , thời_gian duy_trì tối_thiểu là 0 , 15 giây ;
+
+b ) Điện_áp từ 0 , 3 pu đến dưới 0 , 9 pu , thời_gian duy_trì tối_thiểu được tính theo công_thức sau :
+
+Tmin = 4 x U - 0 , 6
+
+Trong đó :
+
+- Tmin ( giây ) : Thời_gian duy_trì phát_điện tối_thiểu ;
+
+- U ( pu ) : Điện_áp thực_tế tại điểm đấu nối tính theo đơn_vị pu ( đơn_vị tương_đối ) .
+
+c ) Điện_áp từ 0 , 9 pu đến dưới 1 , 1 pu , nhà_máy_điện gió và nhà_máy_điện mặt_trời phải duy_trì vận_hành phát_điện liên_tục ;
+
+d ) Điện_áp từ 1 , 1 pu đến dưới 1 , 15 pu , nhà_máy_điện gió và nhà_máy_điện mặt_trời phải duy_trì vận_hành phát_điện trong thời_gian 03 giây ;
+
+đ ) Điện_áp từ 1 , 15 pu đến dưới 1 , 2 pu , nhà_máy_điện gió và nhà_máy_điện mặt_trời phải duy_trì vận_hành phát_điện trong thời_gian 0 , 5 giây .
+
+7 . Độ mất cân_bằng pha , tổng biến_dạng sóng hài và mức nhấp_nháy điện_áp do nhà_máy_điện gió , nhà_máy_điện mặt_trời gây ra tại điểm đấu nối không được vượt quá giá_trị quy_định tại Điều 6 , Điều 7 và Điều 8 Thông_tư này .
+
+8 . Nhà_máy_điện gió , nhà_máy_điện mặt_trời phải đầu_tư các trang thiết_bị , hệ_thống điều_khiển , tự_động đảm_bảo kết_nối ổn_định , tin_cậy và bảo_mật với hệ_thống điều_khiển công_suất tổ máy ( agc ) của Đơn_vị vận_hành hệ_thống điện và thị_trường điện phục_vụ điều_khiển từ xa công_suất nhà_máy theo Lệnh điều_độ của Đơn_vị vận_hành hệ_thống điện và thị_trường điện . .
+
+12 . Sửa_đổi , bổ_sung Điều 41 như sau :
+
+Điều 41 . Yêu_cầu đối_với hệ_thống điện mặt_trời đấu nối vào lưới_điện_phân_phối cấp điện_áp hạ_áp
+
+Hệ_thống điện mặt_trời được phép đấu nối với lưới_điện hạ_áp khi đáp_ứng các yêu_cầu sau :
+
+1 . Công_suất đấu nối
+
+a ) Tổng_công_suất đặt của hệ_thống điện mặt_trời đấu nối vào cấp điện_áp hạ_áp của trạm biến_áp hạ_thế không được vượt quá công_suất đặt của trạm biến_áp đó ;
+
+b ) Hệ_thống điện mặt_trời có công_suất dưới 20 kWp trở xuống được đấu nối vào lưới_điện 01 pha hoặc 03 pha theo thoả_thuận với Đơn_vị phân_phối điện , Đơn_vị phân_phối và bán_lẻ điện ;
+
+c ) Hệ_thống điện mặt_trời có công_suất từ 20 kWp trở lên phải đấu nối vào lưới_điện 03 pha .
+
+2 . Tại mọi thời_điểm đang nối lưới , hệ_thống điện mặt_trời được phép đấu nối với lưới_điện hạ_áp phải có khả_năng duy_trì vận_hành phát_điện trong thời_gian tối_thiểu tương_ứng với các dải_tần_số vận_hành theo quy_định tại Bảng 5a như sau :
+
+Bảng 5a
+
+Thời_gian tối_thiểu duy_trì vận_hành phát_điện tương_ứng với các dải_tần_số của hệ_thống điện
+
+3 . Khi tần_số hệ_thống điện lớn hơn 50 , 5 Hz , hệ_thống điện mặt_trời có công_suất từ 20 kWp trở lên phải giảm công_suất tác_dụng xác_định theo công_thức sau :
+
+Trong đó :
+
+- P : Mức giảm công_suất phát_tác_dụng ( mw ) ;
+
+- Pm : Công_suất tác_dụng tương_ứng với thời_điểm trước khi thực_hiện giảm công_suất ( mw ) ;
+
+- fn : Tần_số hệ_thống điện trước khi thực_hiện giảm công_suất ( Hz ) .
+
+4 . Hệ_thống điện mặt_trời phải có khả_năng duy_trì vận_hành phát_điện liên_tục trong các dải điện_áp tại điểm đấu nối theo quy_định tại Bảng 5b như sau :
+
+Bảng 5b
+
+Thời_gian tối_thiểu duy_trì vận_hành phát_điện tương_ứng với các dải điện_áp tại điểm đấu nối
+
+5 . Hệ_thống điện mặt_trời đấu nối vào lưới_điện hạ_áp không được phát công_suất phản_kháng vào lưới_điện và hoạt_động ở chế_độ tiêu_thụ công_suất suất phản_kháng với hệ_số công_suất ( cos ) lớn hơn 0 , 98 .
+
+6 . Hệ_thống điện mặt_trời không được gây ra sự xâm_nhập của dòng_điện một chiều vào lưới_điện_phân_phối vượt quá giá_trị 0 , 5 % dòng định_mức tại điểm đấu nối .
+
+7 . Hệ_thống điện mặt_trời đấu nối vào lưới_điện hạ_áp phải tuân theo các quy_định về điện_áp , cân_bằng pha , sóng hài , nhấp_nháy điện_áp và chế_độ nối đất quy_định tại Điều 5 , Điều 6 , Điều 7 , Điều 8 và Điều 10 Thông_tư này .
+
+8 . Hệ_thống điện mặt_trời phải trang_bị thiết_bị bảo_vệ đảm_bảo các yêu_cầu sau :
+
+a ) Tự ngắt kết_nối với lưới_điện_phân_phối khi xảy ra sự_cố nội_bộ hệ_thống điện mặt_trời ;
+
+b ) Tự ngắt kết_nối khi xảy ra sự_cố mất điện từ lưới_điện_phân_phối và không phát_điện lên lưới khi lưới_điện_phân_phối đang mất điện ;
+
+c ) Không tự_động kết_nối lại lưới_điện khi chưa đảm_bảo các điều_kiện sau :
+
+- Tần_số của lưới_điện duy_trì trong dải từ 48Hz đến 51Hz trong thời_gian tối_thiểu 60 giây ;
+
+- Điện_áp tất_cả các pha tại điểm đấu nối duy_trì trong dải từ 85 % đến 110 % điện_áp định_mức trong thời_gian tối_thiểu 60 giây .
+
+d ) Đối_với hệ_thống điện mặt_trời đấu nối vào lưới_điện hạ_áp 03 pha , khách_hàng có đề_nghị đấu nối phải thoả_thuận , thống_nhất các yêu_cầu về hệ_thống bảo_vệ với Đơn_vị phân_phối điện nhưng tối_thiểu bao_gồm các bảo_vệ quy_định tại các Điểm a , Điểm b , Điểm c Khoản này , bảo_vệ quá áp , thấp áp và bảo_vệ theo tần_số .
+
+13 . Sửa_đổi Khoản 2 Điều 42 như sau :
+
+2 . Yêu_cầu kết_nối của Trung_tâm điều_khiển
+
+a ) Yêu_cầu về kết_nối hệ_thống thông_tin :
+
+- Có một đường truyền dữ_liệu kết_nối với hệ_thống thông_tin của cấp điều_độ có quyền điều_khiển . Trường_hợp có nhiều cấp điều_độ có quyền điều_khiển , các cấp điều_độ có trách_nhiệm thống_nhất phương_thức chia_sẻ thông_tin ;
+
+- Có hai đường truyền dữ_liệu ( một đường truyền làm_việc , một đường truyền dự_phòng ) kết_nối với hệ_thống điều_khiển và thông_tin của nhà_máy_điện , trạm điện do Trung_tâm điều_khiển thực_hiện điều_khiển từ xa ;
+
+- Các phương_tiện thông_tin liên_lạc tối_thiểu phục_vụ công_tác điều_độ gồm trực thông , điện_thoại , fax và mạng máy_tính phải hoạt_động tốt .
+
+b ) Yêu_cầu về kết_nối hệ_thống Scada :
+
+- Có một kết_nối với hệ_thống Scada của cấp điều_độ có quyền điều_khiển . Trường_hợp có nhiều cấp điều_độ có quyền điều_khiển , các cấp điều_độ có trách_nhiệm chia_sẻ thông_tin ;
+
+- Có hai kết_nối với thiết_bị đầu_cuối RTU / Gateway , hệ_thống điều_khiển của nhà_máy_điện , trạm điện và thiết_bị đóng cắt trên lưới_điện do Trung_tâm điều_khiển thực_hiện điều_khiển từ xa .
+
+c ) Trung_tâm điều_khiển phải trang_bị màn_hình giám_sát và kết_nối với hệ_thống camera giám_sát an_ninh tại nhà_máy_điện , trạm điện và thiết_bị đóng cắt trên lưới_điện về Trung_tâm điều_khiển . .
+
+14 . Bổ_sung Khoản 3 Điều 43 như sau :
+
+3 . Trường_hợp tại thời_điểm làm hồ_sơ đề_nghị đấu nối vào cấp điện_áp trung áp và 110 kV mà chưa có đầy_đủ các thông_tin , tài_liệu quy_định tại Khoản 2 Điều này , Khách_hàng sử_dụng lưới_điện_phân_phối có trách_nhiệm thoả_thuận với Đơn_vị phân_phối điện về việc cung_cấp thông_tin , tài_liệu và ghi rõ trong thoả_thuận_đấu nối . .
+
+15 . Sửa_đổi tên Điều 44 như sau :
+
+Điều 44 . Trình_tự thoả_thuận_đấu nối đối_với Khách_hàng sử_dụng lưới_điện_phân_phối có đề_nghị đấu nối ở cấp điện_áp 110 kV và khách_hàng sở_hữu tổ máy phát_điện có đề_nghị đấu nối vào lưới_điện trung áp
+
+16 . Sửa_đổi Điểm c Khoản 2 Điều 44 như sau :
+
+c ) Lấy ý_kiến của cấp điều_độ có quyền điều_khiển và các đơn_vị có liên_quan đến đấu nối về ảnh_hưởng của việc đấu nối đối_với hệ_thống điện , lưới_điện khu_vực , yêu_cầu kết_nối với hệ_thống thông_tin và hệ_thống Scada của cấp điều_độ có quyền điều_khiển , các yêu_cầu về rơ_le bảo_vệ , tự_động_hoá và các nội_dung liên_quan đến yêu_cầu kĩ_thuật với thiết_bị tại điểm đấu nối ; .
+
+17 . Sửa_đổi Khoản 2 Điều 45 như sau :
+
+2 . Đối_với khách_hàng sử_dụng điện có trạm điện riêng đấu nối vào lưới_điện trung áp : Trong thời_hạn 02 ngày làm_việc kể từ khi nhận đầy_đủ hồ_sơ hợp_lệ của khách_hàng , Đơn_vị phân_phối điện hoặc Đơn_vị phân_phối và bán_lẻ điện có trách_nhiệm khảo_sát hiện_trường , thoả_thuận và kí Thoả_thuận_đấu nối với khách_hàng sử_dụng điện có trạm điện riêng đấu nối vào lưới_điện trung áp . .
+
+18 . Sửa_đổi Khoản 2 Điều 51 như sau :
+
+2 . Đối_với Khách_hàng sử_dụng điện có trạm điện riêng đấu nối vào lưới_điện trung áp : Trong thời_hạn 05 ngày làm_việc kể từ ngày nhận đầy_đủ hồ_sơ đóng điện điểm đấu nối hợp_lệ của Khách_hàng sử_dụng điện có trạm điện riêng đấu nối vào lưới_điện trung áp theo quy_định tại Điều 48 Thông_tư này , Đơn_vị phân_phối điện có trách_nhiệm phối_hợp với khách_hàng hoàn_thành đóng điện chạy thử , nghiệm_thu và đóng điện vận_hành chính_thức cho khách_hàng có đề_nghị đấu nối . .
+
+19 . Sửa_đổi Khoản 2 , Khoản 6 Điều 52 như sau :
+
+2 . Trường_hợp hai bên không thống_nhất về kết_quả kiểm_tra và nguyên_nhân gây ra vi_phạm , hai bên phải thoả_thuận về phạm_vi kiểm_tra để khách_hàng thuê Đơn_vị thí_nghiệm độc_lập tiến_hành kiểm_tra , thí_nghiệm lại . Trường_hợp kết_quả kiểm_tra của Đơn_vị thí_nghiệm độc_lập cho thấy các vi_phạm gây ra do thiết_bị của khách_hàng mà khách_hàng không chấp_nhận các giải_pháp khắc_phục hoặc không hoàn_thành việc khắc_phục theo thời_gian đã cam_kết với Đơn_vị phân_phối điện , Đơn_vị phân_phối điện có quyền tách đấu nối các thiết_bị của khách_hàng ra khỏi lưới_điện_phân_phối . Thời_gian khắc_phục do hai bên thoả_thuận , trường_hợp hai bên không thống_nhất được thời_gian khắc_phục , các bên giải_quyết tranh_chấp theo Quy_định về kiểm_tra hoạt_động điện_lực và sử_dụng điện , giải_quyết tranh_chấp hợp_đồng mua_bán điện do Bộ Công_thương ban_hành . .
+
+6 . Trong quá_trình vận_hành , nếu tại điểm đấu nối phát_hiện nguy_cơ không đảm_bảo vận_hành an_toàn cho hệ_thống điện do các thiết_bị thuộc sở_hữu của khách_hàng gây ra , Đơn_vị phân_phối điện phải thông_báo ngay cho cấp điều_độ có quyền điều_khiển , Khách_hàng sử_dụng lưới_điện_phân_phối có trạm điện riêng để khắc_phục , loại_trừ nguy_cơ không đảm_bảo vận_hành an_toàn cho hệ_thống điện . Trường_hợp nguyên_nhân kĩ_thuật không khắc_phục được hoặc có nghi_ngờ thiết_bị của Khách_hàng sử_dụng lưới_điện_phân_phối gây ảnh_hưởng xấu đến lưới_điện_phân_phối , Đơn_vị phân_phối điện có quyền yêu_cầu khách_hàng tiến_hành kiểm_tra , thí_nghiệm lại các thiết_bị thuộc phạm_vi quản_lí của khách_hàng theo quy_định tại Khoản 1 và Khoản 2 Điều này . .
+
+20 . Bổ_sung Điểm d Khoản 2 Điều 64 như sau :
+
+d ) Đơn_vị phát_điện có trách_nhiệm cung_cấp thông_tin về nguồn năng_lượng sơ_cấp ( thông_tin về thuỷ_văn đối_với nhà_máy thuỷ_điện , than - dầu - chất_đốt đối_với nhà_máy nhiệt_điện , thông_tin quan_trắc khí_tượng đối_với nhà_máy_điện gió , mặt_trời ) , dự_báo_công_suất , sản_lượng của nhà_máy và truyền số_liệu về Cấp điều_độ điều_khiển theo Quy_trình lập kế_hoạch vận_hành hệ_thống điện quốc_gia do Cục Điều_tiết điện_lực ban_hành .
+
+21 . Sửa_đổi Điều 79 như sau :
+
+Điều 79 . Điều_khiển phụ_tải_điện
+
+1 . Điều_khiển phụ_tải_điện trong hệ_thống điện bao_gồm các biện_pháp :
+
+a ) Ngừng , giảm mức cung_cấp điện ;
+
+b ) Sa_thải phụ_tải_điện ;
+
+c ) Điều_chỉnh phụ_tải_điện của khách_hàng sử_dụng điện khi tham_gia vào các chương_trình quản_lí nhu_cầu điện .
+
+2 . Cấp điều_độ có quyền điều_khiển và Đơn_vị phân_phối điện thực_hiện điều_khiển phụ_tải_điện theo quy_định tại Quy_trình điều_độ hệ_thống điện quốc_gia và Quy_định nội_dung , trình_tự thực_hiện các chương_trình điều_chỉnh phụ_tải_điện do Bộ Công_thương ban_hành . .
+
+22 . Sửa_đổi Khoản 1 Điều 82 như sau :
+
+1 . Sa_thải phụ_tải tự_động là sa_thải do rơ_le tần_số , điện_áp và mức công_suất tác_động để cắt có chọn_lọc phụ_tải nhằm giữ hệ_thống điện vận_hành trong giới_hạn cho phép , tránh mất điện trên diện rộng . .
+
+23 . Bổ_sung Khoản 4 Điều 99 như sau :
+
+4 . Tổng_công_ti Điện_lực và Đơn_vị phân_phối điện có trách_nhiệm báo_cáo theo quy_định tại Khoản 1 , Khoản 2 và Khoản 3 Điều này bằng văn_bản theo đường văn_thư và thư điện_tử ( email ) . .
+
+Điều 3 . Bãi_bỏ một_số điều , khoản của Thông_tư số 25/2016/TT-BCT ngày 30 tháng 11 năm 2016 của Bộ_trưởng Bộ Công_thương quy_định hệ_thống điện truyền_tải và Thông_tư số 39/2015/TT-BCT ngày 18 tháng 11 năm 2015 của Bộ_trưởng Bộ Công_thương quy_định hệ_thống điện_phân_phối
+
+1 . Bãi_bỏ Khoản 8 , Khoản 9 , Khoản 36 Điều 3 và Chương Iv Thông_tư số 25/2016/TT-BCT ngày 30 tháng 11 năm 2016 của Bộ_trưởng Bộ Công_thương quy_định hệ_thống điện truyền_tải .
+
+2 . Bãi_bỏ Chương Iv và Điều 101 Thông_tư số 39/2015/TT-BCT ngày 18 tháng 11 năm 2015 của Bộ_trưởng Bộ Công_thương quy_định hệ_thống điện_phân_phối .
+
+Điều 4 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành từ ngày 03 tháng 01 năm 2020 .
+
+2 . Trong quá_trình thực_hiện , nếu phát_sinh vướng_mắc , các đơn_vị có liên_quan phản_ánh về Cục Điều_tiết điện_lực để xem_xét , giải_quyết theo thẩm_quyền hoặc báo_cáo về Bộ Công_thương để giải_quyết . / .

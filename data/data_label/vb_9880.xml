@@ -1,0 +1,127 @@
+Thông_tư số 23/2015/tt-btttt ngày 17 tháng 08 năm 2015 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Viễn_thông ngày 23 tháng 11 năm 2009 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 </NĐ> của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của <LT rel="CC"> Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 132/2013/NĐ-CP ngày 16 tháng 10 năm 2013 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Điều 2 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 3 năm 2016 và thay_thế Quy_chuẩn kĩ_thuật quốc_gia về máy di_động W - cd ma Fdd , kí_hiệu Qcvn 15 : 2010 / bt ban_hành kèm theo <TT rel="DC"> Thông_tư số 18/2010/TT-BTTTT ngày 30 tháng 7 năm 2010 </TT> của Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Quy_chuẩn kĩ_thuật quốc_gia về viễn_thông .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 15 : 2015 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia Về Thiết_bị Đầu_cuối Thông_tin_di_động W - cd ma Fdd
+
+National technical regulation on W - cd ma Fdd mobile station
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Ký_hiệu
+
+1 . 6 . Chữ_viết tắt 9
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Điều_kiện môi_trường
+
+2 . 2 . Các yêu_cầu kĩ_thuật
+
+2 . 2 . 1 . Công_suất ra cực_đại của máy_phát
+
+2 . 2 . 2 . Công_suất ra cực_đại của máy phát đối_với Dc - hsupa
+
+2 . 2 . 3 . Mặt_nạ phổ phát_xạ của máy_phát
+
+2 . 2 . 4 . Mặt_nạ phổ phát_xạ của máy phát đối_với Dc - hsupa
+
+2 . 2 . 5 . Phát_xạ giả của máy_phát
+
+2 . 2 . 6 . Phát_xạ giả của máy phát đối_với Dc - hsupa
+
+2 . 2 . 7 . Công_suất ra cực_tiểu của máy_phát
+
+2 . 2 . 8 . Công_suất ra cực_tiểu của máy phát đối_với Dc - hsupa
+
+2 . 2 . 9 . Độ chọn_lọc kênh lân_cận của máy thu
+
+2 . 2 . 10 . Đặc_tính chặn của máy thu
+
+2 . 2 . 11 . Đáp_ứng giả của máy thu
+
+2 . 2 . 12 . Đặc_tính xuyên điều_chế của máy thu
+
+2 . 2 . 13 . Phát_xạ giả của máy thu
+
+2 . 2 . 14 . Điều_khiển công_suất ra khi mất đồng_bộ
+
+2 . 2 . 15 . Tỷ_số công_suất rò kênh lân_cận của máy phát ( aclr )
+
+2 . 2 . 16 . Tỷ_số công_suất rò kênh lân_cận đối_với Dc - hsupa
+
+2 . 2 . 17 . Phát_xạ giả bức_xạ
+
+2 . 2 . 18 . Chức_năng điều_khiển và giám_sát
+
+3 . Phương_pháp_đo
+
+3 . 1 . Các điều_kiện về môi_trường đo_kiểm
+
+3 . 2 . Giải_thích các kết_quả đo
+
+3 . 3 . Phương_pháp đo
+
+3 . 3 . 1 . Công_suất ra cực_đại của máy_phát
+
+3 . 3 . 2 . Công_suất ra cực_đại của máy phát đối_với Dc - hsupa
+
+3 . 3 . 3 . Mặt_nạ phổ phát_xạ của máy_phát
+
+3 . 3 . 4 . Mặt_nạ phổ phát_xạ của máy phát đối_với Dc - hsupa
+
+3 . 3 . 5 . Phát_xạ giả của máy_phát
+
+3 . 3 . 6 . Phát_xạ giả của máy phát đối_với Dc - hsupa
+
+3 . 3 . 7 . Công_suất ra cực_tiểu của máy_phát
+
+3 . 3 . 8 . Công_suất ra cực_tiểu của máy phát đối_với Dc - hsupa
+
+3 . 3 . 9 . Độ chọn_lọc kênh lân_cận của máy thu ( acs )
+
+3 . 3 . 10 . Đặc_tính chặn của máy thu
+
+3 . 3 . 11 . Đáp_ứng giả của máy thu
+
+3 . 3 . 12 . Đặc_tính xuyên điều_chế của máy thu
+
+3 . 3 . 13 . Phát_xạ giả của máy thu
+
+3 . 3 . 14 . Điều_khiển công_suất ra khi mất đồng_bộ
+
+3 . 3 . 15 . Tỷ_số công_suất rò kênh lân_cận của máy_phát
+
+3 . 3 . 16 . Tỷ_số công_suất rò kênh lân_cận của máy phát đối_với Dc - hsupa
+
+3 . 3 . 17 . Phát_xạ giả bức_xạ
+
+3 . 3 . 18 . Các chức_năng điều_khiển và giám_sát
+
+4 . Quy_định Về Quản_lý
+
+5 . Trách_nhiệm Của Tổ_chức , Cá_nhân
+
+6 . Tổ_chức Thực_hiện

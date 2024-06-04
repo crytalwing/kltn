@@ -1,0 +1,125 @@
+Thông_tư số 17/2023/tt-btttt ngày 27 tháng 11 năm 2023 của bộ thông_tin và truyền_thông
+
+Căn_cứ Luật Viễn_thông ngày 23 tháng 11 năm 2009 ;
+
+Căn_cứ Luật Tần_số vô_tuyến_điện ngày 23 tháng 11 năm 2009 , Luật sửa_đổi , bổ_sung một_số điều của Luật Tần_số vô_tuyến_điện ngày 09 tháng 11 năm 2022 ;
+
+Căn_cứ Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết và hướng_dẫn thi_hành một_số điều của Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính_phủ sửa_đổi , bổ_sung một_số điều của Nghị_định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính_phủ quy_định chi_tiết thi_hành một_số điều Luật Tiêu_chuẩn và Quy_chuẩn kĩ_thuật ;
+
+Căn_cứ Nghị_định số 48/2022/NĐ-CP ngày 26 tháng 7 năm 2022 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Theo đề_nghị của Vụ_trưởng Vụ Khoa_học và Công_nghệ ,
+
+Điều 2 . Hiệu_lực thi_hành
+
+1 . Thông_tư này có hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2024 .
+
+2 . Khoản 15 , Điều 1 Thông_tư số 29/2011/TT-BTTTT ngày 26 tháng 10 năm 2011 của Bộ_trưởng Bộ Thông_tin và Truyền_thông hết hiệu_lực thi_hành kể từ ngày 01 tháng 7 năm 2024 .
+
+Điều 3 . Chánh Văn_phòng , Vụ_trưởng Vụ Khoa_học và Công_nghệ , Thủ_trưởng các cơ_quan , đơn_vị thuộc Bộ Thông_tin và Truyền_thông , Giám_đốc Sở Thông_tin và Truyền_thông các tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này . / .
+
+Qcvn 55 : 2023 / bt
+
+Quy_chuẩn_kỹ_thuật Quốc_gia
+
+Về Thiết_bị Vô_tuyến Cự_ly_ngắn
+
+Dải_tần Từ 9 kHz Đến 25 MHz Và Thiết_bị Vòng Từ Hoạt_động Trong Dải_tần Từ 9 kHz Đến 30 MHz
+
+National technical regulation
+
+on Short Range_device ( srd ) - Radio equipment to be used
+
+in the 9 kHz to 25 MHz frequency range and inductive loop systems in the frequency range 9 kHz to 30 MHz
+
+Mục_lục
+
+1 . Quy_định Chung
+
+1 . 1 . Phạm_vi điều_chỉnh
+
+1 . 2 . Đối_tượng áp_dụng
+
+1 . 3 . Tài_liệu viện_dẫn
+
+1 . 4 . Giải_thích từ_ngữ
+
+1 . 5 . Ký_hiệu
+
+1 . 6 . Chữ_viết tắt
+
+2 . Quy_định Kỹ_thuật
+
+2 . 1 . Yêu_cầu kĩ_thuật
+
+2 . 1 . 1 . Các yêu_cầu chung
+
+2 . 1 . 2 . Thiết_bị đo_kiểm
+
+2 . 1 . 3 . Thiết_kế cơ và điện
+
+2 . 1 . 4 . Công_bố thông_tin sản_phẩm
+
+2 . 1 . 5 . Thiết_bị đo kiểm phụ_trợ
+
+2 . 1 . 6 . Giải_thích kết_quả đo
+
+2 . 2 . Điều_kiện đo kiểm , nguồn điện và nhiệt_độ môi_trường
+
+2 . 2 . 1 . Điều_kiện môi_trường
+
+2 . 2 . 2 . Nguồn điện đo_kiểm
+
+2 . 2 . 3 . Điều_kiện đo kiểm bình_thường
+
+2 . 2 . 4 . Điều_kiện đo kiểm tới hạn
+
+2 . 3 . Các điều_kiện chung
+
+2 . 3 . 1 . Các tín_hiệu đo kiểm bình_thường và điều_chế đo_kiểm
+
+2 . 3 . 2 . Ăng ten giả
+
+2 . 3 . 3 . Bộ ghép đo
+
+2 . 3 . 4 . Vị_trí đo kiểm và sơ_đồ đo chung đối_với các phép đo bức_xạ
+
+2 . 3 . 5 . Chế_độ hoạt_động của máy_phát
+
+2 . 3 . 6 . Máy thu đo
+
+2 . 4 . Các yêu_cầu đối_với máy_phát
+
+2 . 4 . 1 . Phân_loại máy_phát
+
+2 . 4 . 2 . Trường H ( bức_xạ )
+
+2 . 4 . 3 . Dòng sóng mang Rf
+
+2 . 4 . 4 . Trường E bức_xạ
+
+2 . 4 . 5 . Dải_tần được cho phép hoạt_động
+
+2 . 4 . 6 . Dải_tần hoạt_động
+
+2 . 4 . 7 . Băng_thông điều_chế
+
+2 . 4 . 8 . Phát_xạ giả dẫn của máy_phát
+
+2 . 4 . 9 . Phát_xạ giả miền bức_xạ của máy phát ( < 30 MHz )
+
+2 . 4 . 10 . Phát_xạ giả miền bức_xạ của máy phát ( > 30 MHz )
+
+2 . 4 . 11 . Độ ổn_định tần_số máy_phát
+
+2 . 5 . Các yêu_cầu đối_với máy thu
+
+2 . 5 . 1 . Độ chọn_lọc kênh lân_cận
+
+2 . 5 . 2 . Đặc_tính chặn hay mức giảm độ nhạy thu đối_với tín_hiệu không mong_muốn
+
+2 . 5 . 3 . Phát_xạ giả của máy thu
+
+2 . 6 . Độ không đảm_bảo đo

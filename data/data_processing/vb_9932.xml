@@ -1,0 +1,187 @@
+Thông_tư số 39/2015/tt-btnmt ngày 09 tháng 07 năm 2015 của bộ tài_nguyên và môi_trường
+
+Căn_cứ Nghị_định số 21/2013/NĐ-CP ngày 04 tháng 3 năm 2013 của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Tài_nguyên và Môi_trường ;
+
+Căn_cứ Quyết_định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 của Thủ_tướng Chính_phủ quy_định về thu_nhận , xử_lý , khai_thác và sử_dụng dữ_liệu viễn_thám quốc_gia ;
+
+Căn_cứ Quyết_định số 76/2014/QĐ-TTg ngày 24 tháng 12 năm 2014 của Thủ_tướng Chính_phủ sửa_đổi , bổ_sung một_số điều của Quyết_định số 81/2010/QĐ-TTg ngày 13 tháng 12 năm 2010 của Thủ_tướng Chính_phủ quy_định về thu_nhận , lưu_trữ , xử_lý , khai_thác và sử_dụng dữ_liệu viễn_thám quốc_gia ;
+
+Xét đề_nghị của Cục_trưởng Cục Viễn_thám quốc_gia , Vụ_trưởng Vụ Khoa_học và Công_nghệ và Vụ_trưởng Vụ Pháp_chế ,
+
+Bộ_trưởng Bộ Tài_nguyên và Môi_trường ban_hành Thông_tư quy_định kĩ_thuật vận_hành trạm thu ảnh vệ_tinh .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về kĩ_thuật trong việc vận_hành trạm thu ảnh vệ_tinh .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Thông_tư này áp_dụng đối_với các cơ_quan , tổ_chức , cá_nhân liên_quan đến việc quản_lí và vận_hành trạm thu ảnh vệ_tinh ở Việt_nam .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Vận_hành trạm thu ảnh vệ_tinh là việc sử_dụng các thiết_bị của trạm thu ảnh vệ_tinh để thu_nhận , xử_lí và lưu_trữ dữ_liệu viễn_thám .
+
+2 . Ca_trực là khoảng thời_gian làm_việc liên_tục được quy_định cho nhóm vận_hành trạm thu ảnh vệ_tinh .
+
+3 . Kế_hoạch thu ảnh bao_gồm các thông_số chụp ảnh của Trạm điều_khiển vệ_tinh gửi sang trạm thu ảnh vệ_tinh để thu_nhận tín_hiệu khi vệ_tinh bay qua .
+
+4 . Danh_mục dữ_liệu ảnh viễn_thám là tập_hợp các thông_tin dữ_liệu ảnh viễn_thám thu được từ trạm thu ảnh vệ_tinh , được lưu_trữ trực_tuyến phục_vụ_việc tra_cứu thông_tin của ảnh .
+
+5 . Nhiễu là ảnh_hưởng của năng_lượng không cần_thiết bởi một hoặc nhiều nguồn phát_xạ , bức_xạ hoặc những cảm_ứng trên máy thu trong hệ_thống thông_tin vô_tuyến_điện , dẫn đến làm giảm chất_lượng , gián_đoạn hoặc bị mất hẳn thông_tin mà có_thể khôi_phục được nếu không có những năng_lượng không cần_thiết đó .
+
+6 . Tỷ_lệ lỗi bit ( Bit Error_rate - BER ) là tỉ_số giữa bit bị lỗi trên tổng_số bit nhận được .
+
+Chương_ii
+
+Quy_định Về Hạ_tầng Trạm Thu Và Môi_trường Làm_việc
+
+Điều 4 . Vị_trí lắp_đặt ăng ten
+
+1 . Ăng ten phải được lắp_đặt tại vị_trí thông_thoáng trong toàn_bộ vòng phương vị 360 với góc ngẩng 3 để tiếp_nhận hoàn_toàn tín_hiệu từ vệ_tinh viễn_thám . Vị_trí lắp_đặt ăng ten phải được trang_bị hệ_thống camera hồng_ngoại để giám_sát quá_trình vận_hành hệ_thống ăng ten .
+
+2 . Ăng ten khi chuyển_động chiếm một không_gian hình_cầu tuỳ theo đường_kính của ăng ten . Xung_quanh vị_trí ăng ten phải được lắp_đặt vành_đai bảo_vệ an_toàn có đường_kính 1 , 5 lần đường_kính ăng ten .
+
+3 . Hệ_thống ăng ten của trạm thu ảnh vệ_tinh phải được trang_bị hệ_thống chống sét và tiếp đất tuân theo Quy_chuẩn kĩ_thuật quốc_gia về chống sét cho các trạm viễn_thông và mạng cáp ngoại_vi viễn_thông ban_hành kèm theo Thông_tư số 10/2011/TT-BTTTT ngày 14 tháng 4 năm 2011 của Bộ_trưởng Bộ Thông_tin và Truyền_thông ( qcvn : 32 : 2011 / bt ) .
+
+Điều 5 . Hệ_thống cung_cấp điện
+
+1 . Trạm thu ảnh vệ_tinh phải được trang_bị hệ_thống cung_cấp điện dự_phòng để duy_trì hoạt_động trong thời_gian xảy ra sự_cố mất điện_lưới quốc_gia . Hệ_thống cung_cấp điện dự_phòng bao_gồm : hệ_thống ổn_định nguồn điện , hệ_thống lưu_điện và máy phát_điện dự_phòng .
+
+2 . Hệ_thống lưu_điện phải bảo_đảm duy_trì hoạt_động cho trạm thu ảnh vệ_tinh trong thời_gian tối_thiểu là ba_mươi ( 30 ) phút sau khi nguồn điện_lưới quốc_gia bị ngắt .
+
+3 . Máy phát_điện dự_phòng phải có chế_độ tự_động kích_hoạt chậm nhất là một ( 01 ) phút sau khi nguồn điện_lưới quốc_gia bị ngắt .
+
+Điều 6 . Môi_trường làm_việc
+
+1 . Vị_trí lắp_đặt trạm thu ảnh vệ_tinh phải đăng_kí với Cục Tần_số và Vô_tuyến_điện trực_thuộc Bộ Thông_tin và Truyền_thông để tránh nhiễu .
+
+2 . Các thiết_bị lắp_đặt ngoài_trời phải đảm_bảo hoạt_động ổn_định trong điều_kiện nhiệt_độ từ - 15 C tới + 45 C , chịu được tốc_độ gió tới 90km / h và lượng mưa tối_đa là 37mm / h .
+
+3 . Phòng lắp_đặt các thiết_bị trạm thu ảnh vệ_tinh phải được trang_bị điều_hoà đảm_bảo nhiệt_độ từ 18 C tới 25 C và độ_ẩm từ 40 % tới 70 % .
+
+4 . Trạm thu ảnh vệ_tinh phải được phòng_chống cháy nổ theo quy_định của Luật phòng cháy , chữa_cháy ngày 29 tháng 6 năm 2001 .
+
+Điều 7 . Hệ_thống mạng
+
+1 . Trạm thu ảnh vệ_tinh và trạm điều_khiển vệ_tinh phải được nối_mạng nội_bộ với nhau để trao_đổi thông_tin .
+
+2 . Hệ_thống mạng phải được trang_bị một máy_chủ đảm_bảo_an_ninh mạng .
+
+Chương_iii
+
+Quy_định Kỹ_thuật Vận_hành Trạm Thu Ảnh_vệ_tinh
+
+Điều 8 . Điều_kiện vận_hành trạm thu ảnh vệ_tinh
+
+1 . Hệ_thống trạm thu ảnh vệ_tinh phải đảm_bảo ở trạng_thái hoạt_động liên_tục hai mươi tư giờ một ngày và bảy ngày trong một tuần .
+
+2 . Công_tác vận_hành trạm thu phải do người vận_hành có trình_độ đại_học thuộc một trong các chuyên_ngành sau : trắc_địa , bản_đồ , viễn_thám , điện_tử viễn_thông , công_nghệ thông_tin và đã được tham_gia khoá đào_tạo về vận_hành trạm thu ảnh vệ_tinh .
+
+Điều 9 . Ca_trực
+
+Việc vận_hành trạm thu ảnh vệ_tinh được chia theo ca trực . Kết_quả làm_việc và các sự_cố kĩ_thuật xảy ra trong ca trực ( nếu có ) phải được ghi vào_sổ trực ( theo mẫu tại Phụ_lục số 01 ban_hành kèm theo Thông_tư này ) . Sau khi kết_thúc ca trực , phải tiến_hành bàn_giao_ca giữa hai nhóm vận_hành và kí vào_sổ trực .
+
+Điều 10 . Công_tác chuẩn_bị trước khi thu_nhận
+
+1 . Kiểm_tra trạng_thái sẵn_sàng hoạt_động của thiết_bị : Ăng ten ; thiết_bị điều_khiển ăng ten ; thiết_bị chuyển_đổi tần_số ; thiết_bị dò tín_hiệu ; thiết_bị đo phổ tần_số ; bộ giải điều_chế tín_hiệu , thiết_bị Gps , thiết_bị đo gió .
+
+2 . Chạy thử hệ_thống_thiết_bị điều_khiển ăng ten ; kiểm_tra các thông_số kĩ_thuật của các thiết_bị sau khi chạy thử và ghi lại các thông_số vào_sổ trực .
+
+3 . Kiểm_tra thiết_bị trong phòng , tình_trạng hoạt_động và các cấu_hình của các máy_chủ thu_nhận , xử_lí và lưu_trữ tín_hiệu .
+
+4 . Kiểm_tra kế_hoạch thu ảnh và sự đồng_bộ về mặt thời_gian giữa hệ_thống điều_khiển ăng ten và hệ_thống xử_lí tín_hiệu .
+
+5 . Trong trường_hợp xảy ra xung_đột về kế_hoạch thu ảnh giữa các vệ_tinh phải xin ý_kiến người quản_lí trạm thu để lựa_chọn vệ_tinh có mức_độ ưu_tiên cao hơn .
+
+Điều 11 . Thu_nhận và xử_lí tín_hiệu vệ_tinh
+
+1 . Khi hệ_thống bắt_đầu thu tín_hiệu , người vận_hành phải theo_dõi tín_hiệu thu_nhận được , kiểm_tra sơ_bộ các kênh truyền tín_hiệu , thời_gian truyền tín_hiệu , vị_trí thu theo kế_hoạch thu ảnh và chất_lượng của tín_hiệu thu được từ vệ_tinh . Tất_cả các thông_tin trên phải được ghi vào_sổ trực hàng ngày .
+
+2 . Người vận_hành phải giám_sát các quá_trình thu_nhận , xử_lí tín_hiệu vệ_tinh ra dữ_liệu viễn_thám mức 0 và lưu_trữ dữ_liệu này trên hệ_thống lưu_trữ trực_tuyến của trạm thu ảnh vệ_tinh .
+
+Điều 12 . Đánh_giá chất_lượng ảnh viễn_thám
+
+Đánh_giá sơ_bộ chất_lượng ảnh viễn_thám : được chia thành các mức Rất tốt , Tốt , Xấu và Không sử_dụng được . Trong đó , mức Rất tốt là ảnh được xử_lí từ tín_hiệu có giá_trị Ber bằng 0 , mức Tốt là ảnh được xử_lí từ tín_hiệu có giá_trị Ber nằm trong khoảng cho phép của nhà sản_xuất , mức xấu là ảnh được xử_lí từ tín_hiệu có giá_trị Ber lớn dẫn đến ảnh xử_lí ra bị nhiễu , gây khó_khăn trong quá_trình sử_dụng , mức Không sử_dụng được là ảnh được xử_lí từ tín_hiệu có giá_trị Ber quá lớn dẫn đến không xử_lí ra được ảnh hoặc ảnh được xử_lí ra bị nhiễu nặng , không sử_dụng được .
+
+Điều 13 . Đánh_giá độ che_phủ mây
+
+Đối_với ảnh viễn_thám quang_học , người vận_hành phải đánh_giá mức_độ che_phủ mây . Việc đánh_giá mức_độ che_phủ mây tuân theo quy_định tại khoản 2 Điều 7 Thông_tư số 10/2015/TT-BTNMT ngày 25 tháng 3 năm 2015 của Bộ_trưởng Bộ Tài_nguyên và Môi_trường quy_định kĩ_thuật về sản_xuất ảnh viễn_thám quang_học độ phân_giải cao và siêu cao để cung_cấp đến người sử_dụng .
+
+Điều 14 . Cập_nhật danh_mục dữ_liệu ảnh viễn_thám
+
+Việc cập_nhật danh_mục dữ_liệu ảnh viễn_thám của trạm thu ảnh vệ_tinh phải được kiểm_tra ngay sau quá_trình đánh_giá chất_lượng ảnh và độ che_phủ mây .
+
+Điều 15 . Sao lưu dữ_liệu viễn_thám mức 0
+
+1 . Dữ_liệu viễn_thám mức 0 sau khi thu_nhận phải được sao ra băng từ thành hai ( 02 ) bản để sử_dụng lâu_dài . Việc sao lưu dữ_liệu viễn_thám mức 0 phải được thực_hiện hàng ngày , vào cuối ca trực .
+
+2 . Băng_từ phải được dán nhãn và đánh_số có hệ_thống để thuận_tiện trong việc quản_lý .
+
+3 . Hai bản_sao_băng từ phải được cất_giữ ở hai ( 02 ) toà nhà khác nhau để phòng_tránh rủi_ro .
+
+4 . Dữ_liệu dự_phòng phải được sao lưu định_kì sau 03 năm , trong trường_hợp phát_hiện ra lỗi phải thực_hiện sao lưu lại cho cả hai ( 02 ) bản .
+
+Điều 16 . Theo_dõi và đánh_giá đơn hàng chụp ảnh viễn_thám
+
+1 . Khi kết_thúc quá_trình vận_hành thu ảnh , người vận_hành phải phân_loại ảnh viễn_thám đã được đánh_giá chất_lượng và độ che_phủ mây cho từng đơn hàng theo quy_định tại Điều 12 và 13 của Thông_tư này .
+
+2 . Đối_với ảnh có chất_lượng chưa đạt yêu_cầu của khách_hàng , người vận_hành phải báo_cáo lên cơ_quan quản_lí nhà_nước về viễn_thám để làm thủ_tục đặt chụp lại .
+
+Điều 17 . Báo_cáo kết_quả thu ảnh viễn_thám
+
+Kết_quả thu ảnh viễn_thám phải được báo_cáo bằng văn_bản theo định_kì hàng tháng , hàng quý , hàng năm và theo yêu_cầu đột_xuất của cơ_quan quản_lí nhà_nước về viễn_thám ( theo mẫu tại Phụ_lục số 02 ban_hành kèm theo Thông_tư này ) .
+
+Điều 18 . Xử_lí dữ_liệu viễn_thám từ mức 0 lên các mức cơ_bản
+
+Việc xử_lí dữ_liệu viễn_thám từ mức 0 ra sản_phẩm ảnh viễn_thám tại trạm thu chỉ được thực_hiện khi có yêu_cầu của cấp có thẩm_quyền .
+
+Điều 19 . Vận_hành trạm thu theo chế_độ khẩn_cấp
+
+1 . Việc vận_hành trạm thu theo chế_độ khẩn_cấp được thực_hiện khi có yêu_cầu trực_tiếp của Tổng_bí_thư , Chủ_tịch Quốc_hội , Chủ_tịch nước , Thủ_tướng Chính_phủ .
+
+2 . Sau khi kết_thúc việc thu_nhận ảnh theo chế_độ khẩn_cấp , dữ_liệu phải được ưu_tiên sản_xuất ra sản_phẩm ảnh viễn_thám và cung_cấp theo yêu_cầu .
+
+Điều 20 . Phối_hợp vận_hành giữa trạm thu ảnh vệ_tinh và trạm điều_khiển vệ_tinh
+
+1 . Trạm điều_khiển vệ_tinh có trách_nhiệm lập và gửi kế_hoạch thu ảnh viễn_thám tới trạm thu ảnh vệ_tinh để trạm thu ảnh vệ_tinh thu_nhận tín_hiệu khi vệ_tinh bay qua . Thông_tin về kế_hoạch thu ảnh giữa trạm thu ảnh vệ_tinh và trạm điều_khiển vệ_tinh được trao_đổi hàng ngày thông_qua hòm_thư điện_tử chung , điện_thoại hoặc fax .
+
+2 . Khoá bảo_mật dữ_liệu ảnh viễn_thám được thay định_kì hai ( 02 ) tuần một lần .
+
+3 . Khi thực_hiện tắt hệ_thống trạm thu ảnh vệ_tinh phải thông_báo cho trạm điều_khiển vệ_tinh .
+
+Điều 21 . Bảo_mật thông_tin dữ_liệu
+
+Người vận_hành phải có trách_nhiệm tuân_thủ các quy_định hiện_hành về bảo_mật thông_tin và dữ_liệu nhằm đảm_bảo_an_ninh và an_toàn dữ_liệu ảnh viễn_thám thu được tại trạm thu ảnh vệ_tinh .
+
+Điều 22 . Xử_lí_sự_cố kĩ_thuật
+
+1 . Khi phát_hiện ra sự_cố kĩ_thuật trong quá_trình vận_hành , người vận_hành phải miêu_tả sự_cố vào_sổ Theo_dõi sự_cố ( theo mẫu tại Phụ_lục số 03 ban_hành kèm theo Thông_tư này ) .
+
+2 . Tổ_chức họp nhóm để xử_lí_sự_cố theo đúng hướng_dẫn và quy_định của nhà sản_xuất . Các bước xử_lí_sự_cố phải được ghi chi_tiết để làm tài_liệu tham_khảo .
+
+Điều 23 . Bảo_trì hệ_thống trạm thu ảnh vệ_tinh
+
+Các thiết_bị trạm thu ảnh vệ_tinh phải được bảo_trì , bảo_dưỡng theo định_kì hàng tháng , sáu ( 06 ) tháng và hàng năm theo quy_định của nhà sản_xuất .
+
+Chương_iv
+
+Điều_khoản Thi_hành
+
+Điều 24 . Hiệu_lực thi_hành
+
+Thông_tư này có hiệu_lực kể từ ngày 25 tháng 8 năm 2015 .
+
+Điều 25 . Tổ_chức thực_hiện
+
+1 . Bộ , cơ_quan ngang Bộ , cơ_quan thuộc Chính_phủ ; Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc Trung_ương và các tổ_chức , cá_nhân có liên_quan chịu trách_nhiệm thi_hành Thông_tư này .
+
+2 . Cục Viễn_thám quốc_gia , Bộ Tài_nguyên và Môi_trường có trách_nhiệm kiểm_tra việc thực_hiện Thông_tư này .
+
+Trong quá_trình thực_hiện , nếu có vướng_mắc , đề_nghị các cơ_quan , tổ_chức , cá_nhân phản_ánh kịp_thời về Bộ Tài_nguyên và Môi_trường để xem_xét , quyết_định . / .

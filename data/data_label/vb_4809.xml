@@ -1,0 +1,147 @@
+Thông_tư số 22/2023/tt-btttt ngày 31 tháng 12 năm 2023 của bộ thông_tin và truyền_thông
+
+Căn_cứ <LT rel="CC"> Luật Công_nghệ thông_tin ngày 29 tháng 6 năm 2006 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật Tiếp_cận thông_tin ngày 06 tháng 4 năm 2016 </LT> ;
+
+Căn_cứ <LT rel="CC"> Luật An_toàn thông_tin mạng ngày 19 tháng 11 năm 2015 </LT> ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 48/2022/NĐ-CP ngày 26 tháng 7 năm 2022 </NĐ> của Chính_phủ quy_định chức_năng , nhiệm_vụ , quyền_hạn và cơ_cấu tổ_chức của Bộ Thông_tin và Truyền_thông ;
+
+Căn_cứ <NĐ rel="CC"> Nghị_định số 42/2022/NĐ-CP ngày 24 tháng 6 năm 2022 </NĐ> của Chính_phủ quy_định về việc cung_cấp thông_tin và dịch_vụ công trực_tuyến của cơ_quan nhà_nước trên môi_trường mạng ;
+
+Theo đề_nghị của Cục_trưởng Cục chuyển_đổi số quốc_gia ;
+
+Bộ_trưởng Bộ Thông_tin và Truyền_thông ban_hành Thông_tư quy_định cấu_trúc , bố_cục , yêu_cầu kĩ_thuật cho cổng thông_tin điện_tử và trang thông_tin điện_tử của cơ_quan nhà_nước .
+
+Chương I
+
+Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Thông_tư này quy_định về cấu_trúc , bố_cục , yêu_cầu kĩ_thuật cho cổng thông_tin điện_tử và trang thông_tin điện_tử của cơ_quan nhà_nước .
+
+Điều 2 . Đối_tượng áp_dụng
+
+1 . Bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ ; Tổng_cục , Cục và cơ_quan tương_đương ; Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương ; cơ_quan chuyên_môn thuộc Ủy_ban nhân_dân tỉnh , thành_phố trực_thuộc trung_ương ; Ủy_ban nhân_dân huyện , quận , thị_xã , thành_phố thuộc tỉnh , thành_phố trực_thuộc trung_ương ( sau đây gọi chung là Ủy_ban nhân_dân cấp huyện ) ; Ủy_ban nhân_dân xã , phường , thị_trấn thuộc huyện , quận , thị_xã , thành_phố thuộc tỉnh , thành_phố trực_thuộc trung_ương ( sau đây gọi chung là Ủy_ban nhân_dân cấp xã ) .
+
+2 . Các tổ_chức , cá_nhân tham_gia hoặc có liên_quan trong việc cung_cấp giải_pháp , xây_dựng , phát_triển , nâng_cấp , mở_rộng , vận_hành , kết_nối với cổng thông_tin điện_tử và trang thông_tin điện_tử của cơ_quan nhà_nước .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Thông_tư này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . Trang thông_tin điện_tử của cơ_quan nhà_nước là trang thông_tin điện_tử theo quy_định tại khoản 21 Điều 3 <NĐ rel="DC"> Nghị_định số 72/2013/NĐ-CP ngày 15/7/2013 </NĐ> của Chính_phủ về quản_lý , cung_cấp , sử_dụng dịch_vụ Internet và thông_tin trên mạng và có tên_miền theo quy_định tại khoản 4 Điều 6 <NĐ rel="DC"> Nghị_định số 42/2022/NĐ-CP ngày 24/6/2022 </NĐ> của Chính_phủ quy_định về việc cung_cấp thông_tin và dịch_vụ công trực_tuyến của cơ_quan nhà_nước trên môi_trường mạng . Mỗi trang thông_tin điện_tử của cơ_quan nhà_nước là thành_phần của một cổng thông_tin điện_tử của cơ_quan nhà_nước ( gọi tắt là trang thành_phần ) .
+
+2 . Đầu trang ( Header ) là phần trên cùng của cổng thông_tin điện_tử và trang thông_tin điện_tử và hiển_thị đồng_nhất trong các giao_diện . Đầu trang bao_gồm các thông_tin để nhận_diện cổng thông_tin điện_tử và trang thông_tin điện_tử , một_số tiện_ích , cũng như thanh điều hướng của trang .
+
+3 . Chân_trang ( Footer ) là phần nằm cuối_cùng của cổng thông_tin điện_tử và trang thông_tin điện_tử và hiển_thị đồng_nhất trong các giao_diện . Chân_trang của cổng thông_tin điện_tử và trang thông_tin điện_tử phải có đầy_đủ thông_tin về đơn_vị quản_lí vận_hành và chịu trách_nhiệm về nội_dung , các thông_tin tối_thiểu cần có gồm : tên đơn_vị , người chịu trách_nhiệm , địa_chỉ , số điện_thoại liên_hệ , địa_chỉ thư điện_tử của đơn_vị .
+
+4 . Thanh điều hướng : là phần chứa các liên_kết hoặc biểu_tượng để giúp người sử_dụng thuận_tiện khi tìm_kiếm , truy_cập nội_dung trên giao_diện , truy_cập các phần quan_trọng của cổng thông_tin điện_tử , trang thông_tin điện_tử như trang_chủ , giới_thiệu , thông_tin hoặc dịch_vụ , liên_hệ , tài_khoản cá_nhân và nhiều tính_năng khác .
+
+5 . Web Content Accessibility_guidelines ( wcag ) : là tiêu_chuẩn quốc_tế về nội_dung trên cổng thông_tin điện_tử và trang thông_tin điện_tử để bảo_đảm truy_cập thuận_tiện cho mọi người , bao_gồm cả những người khuyết_tật .
+
+Chương_ii
+
+Quy_định Kỹ_thuật Đối_với Cổng Thông_tin Điện_tử Và Trang Thông_tin Điện_tử
+
+Điều 4 . Yêu_cầu chung đối_với cổng thông_tin điện_tử và trang thông_tin điện_tử
+
+1 . Tuân_thủ quy_định về cung_cấp thông_tin của cơ_quan nhà_nước trên môi_trường mạng tại Chương Ii <NĐ rel="DC"> Nghị_định số 42/2022/NĐ-CP ngày 24/6/2022 </NĐ> của Chính_phủ quy_định về việc cung_cấp thông_tin và dịch_vụ công trực_tuyến của cơ_quan nhà_nước trên môi_trường mạng , Điều 28 <LT rel="DC"> Luật Công_nghệ thông_tin và Điều 20 <NĐ rel="DC"> Nghị_định số 64/2007/NĐ-CP ngày 10/4/2007 </NĐ> </LT> về ứng_dụng công_nghệ thông_tin trong hoạt_động của cơ_quan nhà_nước .
+
+2 . Tuân_thủ Khung kiến_trúc Chính_phủ điện_tử , Chính_phủ số Việt_nam và Kiến_trúc Chính_phủ điện_tử , Chính_phủ số cấp_bộ hiện_hành đối_với cổng thông_tin điện_tử và trang thông_tin điện_tử cấp_bộ ; Kiến_trúc Chính_quyền điện_tử , Chính_quyền số cấp tỉnh hiện_hành đối_với cổng thông_tin điện_tử và trang thông_tin điện_tử cấp tỉnh .
+
+3 . Các thông_tin của cơ_quan nhà_nước trên môi_trường mạng được lưu_trữ dưới dạng dữ_liệu có cấu_trúc , lưu_trữ trong cơ_sở dữ_liệu và chia_sẻ dưới dạng dịch_vụ web ( web service ) để bảo_đảm khả_năng sẵn_sàng kết_nối , chia_sẻ thông_tin giữa các hệ_thống thông_tin của cơ_quan nhà_nước .
+
+4 . Cổng thông_tin điện_tử hoặc trang thông_tin điện_tử có phương_án dự_phòng bảo_đảm duy_trì hoạt_động an_toàn , liên_tục và khắc_phục khi có sự_cố xảy ra , trừ những trường_hợp bất_khả_kháng theo quy_định của pháp_luật .
+
+5 . Cơ_quan chủ_quản cổng thông_tin điện_tử hoặc trang thông_tin điện_tử có quy_chế quản_lý , vận_hành và cung_cấp thông_tin bao_gồm nội_dung về quy_trình xử_lí_sự_cố , tiếp_nhận và xử_lí thông_tin vi_phạm theo quy_định của pháp_luật .
+
+6 . Cổng thông_tin điện_tử hoặc trang thông_tin điện_tử được gắn mã giám_sát trên Hệ_thống giám_sát , đo_lường mức_độ cung_cấp và sử_dụng dịch_vụ Chính_phủ số ( Hệ_thống Emc ) trên cơ_sở thông_tin được cung_cấp theo mẫu tại Phụ_lục I ban_hành kèm theo Thông_tư này .
+
+7 . Cấu_trúc , bố_cục trên giao_diện cổng thông_tin điện_tử và trang thông_tin điện_tử .
+
+a ) Cổng thông_tin điện_tử và trang thông_tin điện_tử có nhãn thể_hiện việc đã kết_nối với Hệ_thống Emc ;
+
+b ) Cổng thông_tin điện_tử có hiển_thị đường_dẫn tại trang_chủ dẫn đến các trang thành_phần của cổng ;
+
+c ) Trang thông_tin điện_tử có đường_dẫn tại trang_chủ đến cổng thông_tin điện_tử mà trang trực_thuộc ;
+
+d ) Bảo_đảm sự tương_đồng về màu_sắc , bố_cục giữa cổng và các trang thành_phần tại giao_diện Đầu trang và giao_diện Chân_trang .
+
+8 . Tuân_thủ về lưu_trữ dữ_liệu theo quy_định của pháp_luật về lưu_trữ , an_toàn thông_tin mạng , an_ninh mạng và pháp_luật khác có liên_quan .
+
+9 . Bảo_đảm đáp_ứng các yêu_cầu về dữ_liệu đặc_tả được quy_định tại Phụ_lục Iv ban_hành kèm theo Thông_tư này .
+
+10 . Các yêu_cầu đối_với cổng thông_tin điện_tử
+
+a ) Triển_khai trên hạ_tầng có khả_năng mở_rộng theo nhu_cầu sử_dụng ;
+
+b ) Đáp_ứng các yêu_cầu về an_toàn thông_tin đối_với hệ_thống thông_tin cấp_độ 3 trở lên .
+
+11 . Các yêu_cầu đối_với trang thông_tin điện_tử có_thể triển_khai trên hạ_tầng thông_thường tuỳ theo nhu_cầu sử_dụng .
+
+Điều 5 . Yêu_cầu chức_năng đối_với cổng thông_tin điện_tử và trang thông_tin điện_tử
+
+Yêu_cầu chức_năng tối_thiểu của cổng thông_tin điện_tử và trang thông_tin điện_tử nêu tại Phụ_lục Ii ban_hành kèm theo Thông_tư này .
+
+Điều 6 . Yêu_cầu hiệu_năng đối_với cổng thông_tin điện_tử và trang thông_tin điện_tử
+
+1 . Hiệu_năng tải trang dành cho trải nghiệm người sử_dụng : thời_gian hiển_thị nội_dung đầu_tiên , thời_gian hiển_thị nội_dung lâu nhất , thời_gian tải nội_dung , thời_gian đáp_ứng , chi_tiết tại Phụ_lục Ii ban_hành kèm theo Thông_tư này .
+
+2 . Hiệu_năng của hệ_thống bao_gồm : thời_gian phản_hồi trung_bình , thời_gian phản_hồi chậm nhất , truy_cập đồng_thời , số người sử_dụng hoạt_động đồng_thời , chi_tiết tại Phụ_lục Ii ban_hành kèm theo Thông_tư này .
+
+Điều 7 . Yêu_cầu về an_toàn thông_tin đối_với cổng thông_tin điện_tử và trang thông_tin điện_tử
+
+1 . Cổng thông_tin điện_tử và trang thông_tin điện_tử phải tuân_thủ theo quy_định của pháp_luật về bảo_đảm an_toàn hệ_thống thông_tin theo cấp_độ và quy_định của pháp_luật khác có liên_quan .
+
+2 . Việc xác_định cấp_độ an_toàn thông_tin đối_với cổng thông_tin điện_tử tuân_thủ theo quy_định tại khoản 10 Điều 4 Thông_tư này .
+
+Chương_iii
+
+Quy_định Về Kết_nối Phục_vụ Công_tác Giám_sát , Đo_lường , Đánh_giá
+
+Điều 8 . Quy_định chung về kết_nối , thu_thập dữ_liệu đối_với Hệ_thống Emc
+
+1 . Dữ_liệu được Hệ_thống Emc thu_thập từ cổng thông_tin điện_tử và trang thông_tin điện_tử được quy_định tại Phụ_lục Iii ban_hành kèm theo Thông_tư này .
+
+2 . Các cổng thông_tin điện_tử và trang thông_tin điện_tử phải được kết_nối với Hệ_thống Emc trước khi chính_thức đưa vào sử_dụng để quản_lý , giám_sát hiệu_quả , mức_độ cung_cấp , sử_dụng thông_tin của cơ_quan nhà_nước trên môi_trường mạng .
+
+3 . Cơ_quan , tổ_chức có các hoạt_động kết_nối , chia_sẻ dữ_liệu với Hệ_thống Emc có trách_nhiệm lưu lại nhật_kí ( log ) thực_hiện kết_nối để phục_vụ công_tác theo_dõi , kiểm_tra , giám_sát tối_thiểu 01 năm kể từ thời_điểm kết_nối hoàn_thành .
+
+Điều 9 . Quyền của cơ_quan , tổ_chức thực_hiện kết_nối với Hệ_thống Emc
+
+1 . Khai_thác , sử_dụng dữ_liệu thu_thập trên Hệ_thống Emc trong phạm_vi được phân_quyền quản_lý .
+
+2 . Đề_nghị cơ_quan quản_lí Hệ_thống Emc giải_quyết các vướng_mắc về kĩ_thuật làm ảnh_hưởng đến quyền khai_thác , sử_dụng thông_tin ; các sự_cố kĩ_thuật trong quá_trình kết_nối thông_qua thư điện_tử , qua số điện_thoại liên_hệ , tại trụ_sở cơ_quan quản_lí Hệ_thống Emc ( Cục Chuyển_đổi số quốc_gia - Bộ Thông_tin và Truyền_thông ) hoặc bằng văn_bản đề_nghị hỗ_trợ , giải_quyết vướng_mắc .
+
+Điều 10 . Trách_nhiệm của cơ_quan , tổ_chức thực_hiện kết_nối với Hệ_thống Emc
+
+1 . Phối_hợp với cơ_quan quản_lí Hệ_thống Emc định_kì rà_soát , đánh_giá bảo_đảm kết_nối kĩ_thuật duy_trì ổn_định , liên_tục .
+
+2 . Thông_báo cho cơ_quan quản_lí Hệ_thống Emc khi có sự thay_đổi về mã nhúng , cấu_hình hệ_thống , cấu_hình kết_nối , các vấn_đề khiến dữ_liệu không đầy_đủ xảy ra từ phía cổng thông_tin điện_tử hoặc trang thông_tin điện_tử .
+
+3 . Thông_báo cho cơ_quan quản_lí Hệ_thống Emc khi có sự thay_đổi về đầu_mối chịu trách_nhiệm phối_hợp về cổng thông_tin điện_tử và trang thông_tin điện_tử theo mẫu phiếu cung_cấp thông_tin tại Phụ_lục I ban_hành kèm theo Thông_tư này .
+
+Điều 11 . Trách_nhiệm của cơ_quan quản_lí Hệ_thống Emc
+
+1 . Chủ_trì , phối_hợp với cơ_quan , tổ_chức có cổng thông_tin điện_tử và trang thông_tin điện_tử và cơ_quan , tổ_chức có liên_quan giải_quyết , xử_lí_sự_cố , vướng_mắc phát_sinh trong quá_trình kết_nối .
+
+2 . Phối_hợp đơn_vị có liên_quan thực_hiện rà_soát , đánh_giá , bảo_đảm dữ_liệu thu_thập tại Phụ_lục Iii ban_hành kèm theo Thông_tư này đầy_đủ , chính_xác ; toàn_vẹn mã nhúng ; cấu_hình kết_nối đầy_đủ , hoạt_động bình_thường .
+
+Chương_iv
+
+Tổ_chức Thực_hiện
+
+Điều 12 . Điều_khoản chuyển_tiếp
+
+Đối_với các cổng thông_tin điện_tử và trang thông_tin điện_tử đang vận_hành , khai_thác trước ngày Thông_tư này có hiệu_lực , cơ_quan chủ_quản hệ_thống thông_tin tiến_hành rà_soát danh_sách các cổng thông_tin điện_tử và trang thông_tin điện_tử ; phối_hợp với cơ_quan quản_lí Hệ_thống Emc để thiết_lập mã giám_sát để quản_lý , giám_sát hiệu_quả , mức_độ cung_cấp , sử_dụng thông_tin của cơ_quan nhà_nước trên môi_trường mạng . Việc rà_soát phải hoàn_thành trong vòng 01 năm từ thời_điểm Thông_tư này có hiệu_lực .
+
+Điều 13 . Hiệu_lực và trách_nhiệm thi_hành
+
+1 . Thông_tư này có hiệu_lực từ ngày 05 tháng 4 năm 2024 ; bãi_bỏ Điều 16 , 17 , 18 , 19 , 20 , 21 và 22 <TT rel="None"> Thông_tư số 32/2017/TT-BTTTT ngày 15/11/2017 </TT> của Bộ Thông_tin và Truyền_thông quy_định về việc cung_cấp dịch_vụ công trực_tuyến và bảo_đảm khả_năng truy_cập thuận_tiện đối_với trang thông_tin điện_tử hoặc cổng thông_tin điện_tử của cơ_quan nhà_nước và <TT rel="None"> Thông_tư số 24/2011/TT-BTTTT ngày 20/9/2011 </TT> của Bộ Thông_tin và Truyền_thông quy_định về việc tạo_lập , sử_dụng và lưu_trữ dữ_liệu đặc_tả trên cổng thông_tin điện_tử hoặc trang thông_tin điện_tử của cơ_quan nhà_nước .
+
+2 . Bộ Thông_tin và Truyền_thông ( Cục Chuyển_đổi số quốc_gia ) có trách_nhiệm tổ_chức kiểm_tra , giám_sát , đánh_giá đối_với các cổng thông_tin điện_tử , trang thông_tin điện_tử của các cơ_quan nhà_nước theo quy_định của pháp_luật ; tổ_chức công_bố và xếp_hạng các cổng thông_tin điện_tử , trang thông_tin điện_tử của cơ_quan nhà_nước định_kì hằng năm .
+
+3 . Trong quá_trình thực_hiện Thông_tư này , nếu có vướng_mắc , các cơ_quan , đơn_vị liên_hệ với Bộ Thông_tin và Truyền_thông ( Cục Chuyển_đổi số quốc_gia ) để phối_hợp giải_quyết . / .

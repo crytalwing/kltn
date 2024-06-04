@@ -1,0 +1,941 @@
+Luật số 86/2015/qh13 ngày 19 tháng 11 năm 2015 của quốc_hội
+
+Căn_cứ <HP rel="CC"> Hiến_pháp nước Cộng_hoà xã_hội chủ_nghĩa Việt_nam </HP> ;
+
+Quốc_hội ban_hành Luật an_toàn thông_tin mạng .
+
+Chương I
+
+Những Quy_định Chung
+
+Điều 1 . Phạm_vi điều_chỉnh
+
+Luật này quy_định về hoạt_động an_toàn thông_tin mạng , quyền , trách_nhiệm của cơ_quan , tổ_chức , cá_nhân trong việc bảo_đảm an_toàn thông_tin mạng ; mật_mã dân_sự ; tiêu_chuẩn , quy_chuẩn kĩ_thuật về an_toàn thông_tin mạng ; kinh_doanh trong lĩnh_vực an_toàn thông_tin mạng ; phát_triển nguồn nhân_lực an_toàn thông_tin mạng ; quản_lí nhà_nước về an_toàn thông_tin mạng .
+
+Điều 2 . Đối_tượng áp_dụng
+
+Luật này áp_dụng đối_với cơ_quan , tổ_chức , cá_nhân Việt_nam , tổ_chức , cá_nhân nước_ngoài trực_tiếp tham_gia hoặc có liên_quan đến hoạt_động an_toàn thông_tin mạng tại Việt_nam .
+
+Điều 3 . Giải_thích từ_ngữ
+
+Trong Luật này , các từ_ngữ dưới đây được hiểu như sau :
+
+1 . An_toàn thông_tin mạng là sự bảo_vệ thông_tin , hệ_thống thông_tin trên mạng tránh bị truy_nhập , sử_dụng , tiết_lộ , gián_đoạn , sửa_đổi hoặc phá_hoại trái_phép nhằm bảo_đảm tính nguyên_vẹn , tính bảo_mật và tính khả_dụng của thông_tin .
+
+2 . Mạng là môi_trường trong đó thông_tin được cung_cấp , truyền đưa , thu_thập , xử_lý , lưu_trữ và trao_đổi thông_qua mạng viễn_thông và mạng máy_tính .
+
+3 . Hệ_thống thông_tin là tập_hợp_phần_cứng , phần_mềm và cơ_sở dữ_liệu được thiết_lập phục_vụ mục_đích tạo_lập , cung_cấp , truyền đưa , thu_thập , xử_lý , lưu_trữ và trao_đổi thông_tin trên mạng .
+
+4 . Hệ_thống thông_tin quan_trọng quốc_gia là hệ_thống thông_tin mà khi bị phá_hoại sẽ làm tổn_hại đặc_biệt nghiêm_trọng tới quốc_phòng , an_ninh quốc_gia .
+
+5 . Chủ_quản hệ_thống thông_tin là cơ_quan , tổ_chức , cá_nhân có thẩm_quyền quản_lí trực_tiếp đối_với hệ_thống thông_tin .
+
+6 . Xâm_phạm an_toàn thông_tin mạng là hành_vi truy_nhập , sử_dụng , tiết_lộ , làm gián_đoạn , sửa_đổi , phá_hoại trái_phép thông_tin , hệ_thống thông_tin .
+
+7 . Sự_cố an_toàn thông_tin mạng là việc thông_tin , hệ_thống thông_tin bị gây nguy_hại , ảnh_hưởng tới tính nguyên_vẹn , tính bảo_mật hoặc tính khả_dụng .
+
+8 . Rủi_ro an_toàn thông_tin mạng là những nhân_tố chủ_quan hoặc khách_quan có khả_năng ảnh_hưởng tới trạng_thái an_toàn thông_tin mạng .
+
+9 . Đánh_giá rủi_ro an_toàn thông_tin mạng là việc phát_hiện , phân_tích , ước_lượng mức_độ tổn_hại , mối đe_doạ đối_với thông_tin , hệ_thống thông_tin .
+
+10 . Quản_lí rủi_ro an_toàn thông_tin mạng là việc đưa ra các biện_pháp nhằm giảm_thiểu rủi_ro an_toàn thông_tin mạng .
+
+11 . Phần_mềm độc_hại là phần_mềm có khả_năng gây ra hoạt_động không bình_thường cho một phần hay toàn_bộ hệ_thống thông_tin hoặc thực_hiện sao_chép , sửa_đổi , xoá_bỏ trái_phép thông_tin lưu_trữ trong hệ_thống thông_tin .
+
+12 . Hệ_thống lọc phần_mềm độc_hại là tập_hợp_phần_cứng , phần_mềm được kết_nối vào mạng để phát_hiện , ngăn_chặn , lọc và thống_kê phần_mềm độc_hại .
+
+13 . Địa_chỉ điện_tử là địa_chỉ được sử_dụng để gửi , nhận thông_tin trên mạng bao_gồm địa_chỉ thư điện_tử , số điện_thoại , địa_chỉ Internet và hình_thức tương_tự khác .
+
+14 . Xung_đột thông_tin là việc hai hoặc nhiều tổ_chức trong nước và nước_ngoài sử_dụng biện_pháp công_nghệ , kĩ_thuật thông_tin gây tổn_hại đến thông_tin , hệ_thống thông_tin trên mạng .
+
+15 . Thông_tin cá_nhân là thông_tin gắn với việc xác_định_danh_tính của một người cụ_thể .
+
+16 . Chủ_thể thông_tin cá_nhân là người được xác_định từ_thông_tin cá_nhân đó .
+
+17 . Xử_lí thông_tin cá_nhân là việc thực_hiện một hoặc một số thao_tác thu_thập , biên_tập , sử_dụng , lưu_trữ , cung_cấp , chia_sẻ , phát_tán thông_tin cá_nhân trên mạng nhằm mục_đích thương_mại .
+
+18 . Mật_mã dân_sự là kĩ_thuật mật_mã và sản_phẩm mật_mã được sử_dụng để bảo_mật hoặc xác_thực đối_với thông_tin không thuộc phạm_vi bí_mật nhà_nước .
+
+19 . Sản_phẩm an_toàn thông_tin mạng là phần_cứng , phần_mềm có chức_năng bảo_vệ thông_tin , hệ_thống thông_tin .
+
+20 . Dịch_vụ an_toàn thông_tin mạng là dịch_vụ bảo_vệ thông_tin , hệ_thống thông_tin .
+
+Điều 4 . Nguyên_tắc bảo_đảm an_toàn thông_tin mạng
+
+1 . Cơ_quan , tổ_chức , cá_nhân có trách_nhiệm bảo_đảm an_toàn thông_tin mạng . Hoạt_động an_toàn thông_tin mạng của cơ_quan , tổ_chức , cá_nhân phải đúng quy_định của pháp_luật , bảo_đảm quốc_phòng , an_ninh quốc_gia , bí_mật nhà_nước , giữ vững ổn_định chính_trị , trật_tự , an_toàn xã_hội và thúc_đẩy phát_triển kinh_tế - xã_hội .
+
+2 . Tổ_chức , cá_nhân không được xâm_phạm an_toàn thông_tin mạng của tổ_chức , cá_nhân khác .
+
+3 . Việc xử_lí_sự_cố an_toàn thông_tin mạng phải bảo_đảm quyền và lợi_ích hợp_pháp của tổ_chức , cá_nhân , không xâm_phạm đến đời_sống riêng_tư , bí_mật cá_nhân , bí_mật gia_đình của cá_nhân , thông_tin riêng của tổ_chức .
+
+4 . Hoạt_động an_toàn thông_tin mạng phải được thực_hiện thường_xuyên , liên_tục , kịp_thời và hiệu_quả .
+
+Điều 5 . Chính_sách của Nhà_nước về an_toàn thông_tin mạng
+
+1 . Đẩy_mạnh đào_tạo , phát_triển nguồn nhân_lực và xây_dựng cơ_sở hạ_tầng , kĩ_thuật an_toàn thông_tin mạng đáp_ứng yêu_cầu ổn_định chính_trị , phát_triển kinh_tế - xã_hội , bảo_đảm quốc_phòng , an_ninh quốc_gia , trật_tự , an_toàn xã_hội .
+
+2 . Khuyến_khích nghiên_cứu , phát_triển , áp_dụng biện_pháp kĩ_thuật , công_nghệ , hỗ_trợ xuất_khẩu , mở_rộng thị_trường cho sản_phẩm , dịch_vụ an_toàn thông_tin mạng do tổ_chức , cá_nhân trong nước sản_xuất , cung_cấp ; tạo điều_kiện nhập_khẩu sản_phẩm , công_nghệ hiện_đại mà tổ_chức , cá_nhân trong nước chưa có năng_lực sản_xuất , cung_cấp .
+
+3 . Bảo_đảm môi_trường cạnh_tranh lành_mạnh trong hoạt_động_kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng ; khuyến_khích , tạo điều_kiện cho tổ_chức , cá_nhân tham_gia đầu_tư , nghiên_cứu , phát_triển và cung_cấp sản_phẩm , dịch_vụ an_toàn thông_tin mạng .
+
+4 . Nhà_nước bố_trí kinh_phí để bảo_đảm an_toàn thông_tin mạng của cơ_quan nhà_nước và an_toàn thông_tin mạng cho hệ_thống thông_tin quan_trọng quốc_gia .
+
+Điều 6 . Hợp_tác quốc_tế về an_toàn thông_tin mạng
+
+1 . Hợp_tác quốc_tế về an_toàn thông_tin mạng phải tuân_thủ các nguyên_tắc sau đây :
+
+a ) Tôn_trọng độc_lập , chủ_quyền và toàn_vẹn lãnh_thổ quốc_gia , không can_thiệp vào công_việc nội_bộ của nhau , bình_đẳng và các bên cùng có lợi ;
+
+b ) Phù_hợp với quy_định của pháp_luật Việt_nam , điều_ước quốc_tế mà Cộng_hoà xã_hội chủ_nghĩa Việt_nam là thành_viên .
+
+2 . Nội_dung hợp_tác quốc_tế về an_toàn thông_tin mạng gồm :
+
+a ) Hợp_tác quốc_tế trong đào_tạo , nghiên_cứu và ứng_dụng khoa_học , kĩ_thuật , công_nghệ về an_toàn thông_tin mạng ;
+
+b ) Hợp_tác quốc_tế trong phòng , chống hành_vi vi_phạm_pháp_luật về an_toàn thông_tin mạng ; điều_tra , xử_lí_sự_cố an_toàn thông_tin mạng , ngăn_chặn hoạt_động lợi_dụng mạng để khủng_bố ;
+
+c ) Hoạt_động hợp_tác quốc_tế khác về an_toàn thông_tin mạng .
+
+Điều 7 . Các hành_vi bị nghiêm_cấm
+
+1 . Ngăn_chặn việc truyền_tải thông_tin trên mạng , can_thiệp , truy_nhập , gây nguy_hại , xoá , thay_đổi , sao_chép và làm sai_lệch thông_tin trên mạng trái pháp_luật .
+
+2 . Gây ảnh_hưởng , cản_trở trái pháp_luật tới hoạt_động bình_thường của hệ_thống thông_tin hoặc tới khả_năng truy_nhập hệ_thống thông_tin của người sử_dụng .
+
+3 . Tấn_công , vô_hiệu_hoá trái pháp_luật làm mất tác_dụng của biện_pháp_bảo_vệ an_toàn thông_tin mạng của hệ_thống thông_tin ; tấn_công , chiếm quyền điều_khiển , phá_hoại hệ_thống thông_tin .
+
+4 . Phát_tán thư rác , phần_mềm độc_hại , thiết_lập hệ_thống thông_tin giả_mạo , lừa_đảo .
+
+5 . Thu_thập , sử_dụng , phát_tán , kinh_doanh trái pháp_luật thông_tin cá_nhân của người khác ; lợi_dụng sơ_hở , điểm yếu của hệ_thống thông_tin để thu_thập , khai_thác thông_tin cá_nhân .
+
+6 . Xâm_nhập trái pháp_luật bí_mật mật_mã và thông_tin đã mã_hoá_hợp_pháp của cơ_quan , tổ_chức , cá_nhân ; tiết_lộ thông_tin về sản_phẩm mật_mã dân_sự , thông_tin về khách_hàng sử_dụng hợp_pháp sản_phẩm mật_mã dân_sự ; sử_dụng , kinh_doanh các sản_phẩm mật_mã dân_sự không rõ nguồn_gốc .
+
+Điều 8 . Xử_lí vi_phạm_pháp_luật về an_toàn thông_tin mạng
+
+Người nào có hành_vi vi_phạm_quy_định của Luật này thì tuỳ theo tính_chất , mức_độ vi_phạm mà bị xử_lí kỉ_luật , xử_phạt vi_phạm hành_chính hoặc bị truy_cứu trách_nhiệm hình_sự ; nếu gây thiệt_hại thì phải bồi_thường theo quy_định của pháp_luật .
+
+Chương_ii
+
+Bảo_đảm An_toàn Thông_tin_mạng
+
+Mục 1 . Bảo_vệ Thông_tin_mạng
+
+Điều 9 . Phân_loại thông_tin
+
+1 . Cơ_quan , tổ_chức sở_hữu thông_tin phân_loại thông_tin theo thuộc_tính bí_mật để có biện_pháp_bảo_vệ phù_hợp .
+
+2 . Thông_tin thuộc phạm_vi bí_mật nhà_nước được phân_loại và bảo_vệ theo quy_định của pháp_luật về bảo_vệ bí_mật nhà_nước .
+
+Cơ_quan , tổ_chức sử_dụng thông_tin đã phân_loại và chưa phân_loại trong hoạt_động thuộc lĩnh_vực của mình phải có trách_nhiệm xây_dựng quy_định , thủ_tục để xử_lí thông_tin ; xác_định nội_dung và phương_pháp ghi truy_nhập được phép vào thông_tin đã được phân_loại .
+
+Điều 10 . Quản_lí gửi thông_tin
+
+1 . Việc gửi thông_tin trên mạng phải bảo_đảm các yêu_cầu sau đây :
+
+a ) Không giả_mạo nguồn_gốc gửi thông_tin ;
+
+b ) Tuân_thủ quy_định của Luật này và quy_định khác của pháp_luật có liên_quan .
+
+2 . Tổ_chức , cá_nhân không được gửi thông_tin mang tính thương_mại vào địa_chỉ điện_tử của người tiếp_nhận khi chưa được người tiếp_nhận đồng_ý hoặc khi người tiếp_nhận đã từ_chối , trừ trường_hợp người tiếp_nhận có nghĩa_vụ phải tiếp_nhận thông_tin theo quy_định của pháp_luật .
+
+3 . Doanh_nghiệp viễn_thông , doanh_nghiệp cung_cấp dịch_vụ ứng_dụng viễn_thông và doanh_nghiệp cung_cấp dịch_vụ công_nghệ thông_tin gửi thông_tin có trách_nhiệm sau đây :
+
+a ) Tuân_thủ quy_định của pháp_luật về lưu_trữ thông_tin , bảo_vệ thông_tin cá_nhân , thông_tin riêng của tổ_chức , cá_nhân ;
+
+b ) Áp_dụng biện_pháp ngăn_chặn , xử_lí khi nhận được thông_báo của tổ_chức , cá_nhân về việc gửi thông_tin vi_phạm_quy_định của pháp_luật ;
+
+c ) Có phương_thức để người tiếp_nhận thông_tin có khả_năng từ_chối việc tiếp_nhận thông_tin ;
+
+d ) Cung_cấp điều_kiện kĩ_thuật và nghiệp_vụ cần_thiết để cơ_quan nhà_nước có thẩm_quyền thực_hiện nhiệm_vụ quản_lý , bảo_đảm an_toàn thông_tin mạng khi có yêu_cầu .
+
+Điều 11 . Phòng_ngừa , phát_hiện , ngăn_chặn và xử_lí phần_mềm độc_hại
+
+1 . Cơ_quan , tổ_chức , cá_nhân có trách_nhiệm thực_hiện phòng_ngừa , ngăn_chặn phần_mềm độc_hại theo hướng_dẫn , yêu_cầu của cơ_quan nhà_nước có thẩm_quyền .
+
+2 . Chủ_quản hệ_thống thông_tin quan_trọng quốc_gia triển_khai hệ_thống kĩ_thuật nghiệp_vụ nhằm phòng_ngừa , phát_hiện , ngăn_chặn và xử_lí kịp_thời phần_mềm độc_hại .
+
+3 . Doanh_nghiệp cung_cấp dịch_vụ thư điện_tử , truyền đưa , lưu_trữ thông_tin phải có hệ_thống lọc phần_mềm độc_hại trong quá_trình gửi , nhận , lưu_trữ thông_tin trên hệ_thống của mình và báo_cáo cơ_quan nhà_nước có thẩm_quyền theo quy_định của pháp_luật .
+
+4 . Doanh_nghiệp cung_cấp dịch_vụ Internet có biện_pháp quản_lý , phòng_ngừa , phát_hiện , ngăn_chặn phát_tán phần_mềm độc_hại và xử_lí theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền .
+
+5 . Bộ Thông_tin và Truyền_thông chủ_trì , phối_hợp với Bộ Quốc_phòng , Bộ Công_an và bộ , ngành có liên_quan tổ_chức phòng_ngừa , phát_hiện , ngăn_chặn và xử_lí phần_mềm độc_hại gây ảnh_hưởng đến quốc_phòng , an_ninh quốc_gia .
+
+Điều 12 . Bảo_đảm an_toàn tài_nguyên viễn_thông
+
+1 . Cơ_quan , tổ_chức , cá_nhân sử_dụng tài_nguyên viễn_thông có trách_nhiệm sau đây :
+
+a ) Áp_dụng biện_pháp quản_lí và kĩ_thuật để ngăn_chặn mất an_toàn thông_tin mạng xuất_phát từ tần_số , kho số , tên_miền và địa_chỉ Internet của mình ;
+
+b ) Phối_hợp , cung_cấp thông_tin liên_quan đến an_toàn tài_nguyên viễn_thông theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền .
+
+2 . Doanh_nghiệp cung_cấp dịch_vụ trên Internet có trách_nhiệm quản_lý , phối_hợp ngăn_chặn mất an_toàn thông_tin mạng xuất_phát từ tài_nguyên Internet , từ khách_hàng của mình ; cung_cấp đầy_đủ thông_tin theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền ; phối_hợp kết_nối , định_tuyến để bảo_đảm hệ_thống máy_chủ tên_miền quốc_gia Việt_nam hoạt_động an_toàn , ổn_định .
+
+3 . Bộ Thông_tin và Truyền_thông có trách_nhiệm thực_hiện bảo_đảm an_toàn thông_tin mạng cho hệ_thống máy_chủ tên_miền quốc_gia Việt_nam .
+
+Điều 13 . Ứng_cứu sự_cố an_toàn thông_tin mạng
+
+1 . Ứng_cứu sự_cố an_toàn thông_tin mạng là hoạt_động nhằm xử_lý , khắc_phục sự_cố gây mất an_toàn thông_tin mạng .
+
+2 . Ứng_cứu sự_cố an_toàn thông_tin mạng phải tuân_thủ các nguyên_tắc sau đây :
+
+a ) Kịp_thời , nhanh_chóng , chính_xác , đồng_bộ và hiệu_quả ;
+
+b ) Tuân_thủ quy_định của pháp_luật về điều_phối ứng_cứu sự_cố an_toàn thông_tin mạng ;
+
+c ) Có sự phối_hợp giữa cơ_quan , tổ_chức , doanh_nghiệp trong nước và nước_ngoài .
+
+3 . Bộ , cơ_quan ngang bộ , cơ_quan thuộc Chính_phủ , Ủy_ban nhân_dân cấp tỉnh , doanh_nghiệp viễn_thông , chủ_quản hệ_thống thông_tin quan_trọng quốc_gia phải thành_lập hoặc chỉ_định bộ_phận chuyên_trách ứng_cứu sự_cố an_toàn thông_tin mạng .
+
+4 . Bộ Thông_tin và Truyền_thông có trách_nhiệm điều_phối ứng_cứu sự_cố an_toàn thông_tin mạng trên toàn_quốc ; quy_định chi_tiết về điều_phối ứng_cứu sự_cố an_toàn thông_tin mạng .
+
+Điều 14 . Ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng quốc_gia
+
+1 . Ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng quốc_gia là hoạt_động ứng_cứu sự_cố trong tình_huống thảm_hoạ hoặc theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền nhằm bảo_đảm an_toàn thông_tin mạng quốc_gia .
+
+2 . Ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng quốc_gia phải tuân_thủ các nguyên_tắc sau đây :
+
+a ) Tổ_chức thực_hiện theo phân_cấp ;
+
+b ) Thực_hiện tại_chỗ , nhanh_chóng , nghiêm_ngặt , phối_hợp chặt_chẽ ;
+
+c ) Áp_dụng các biện_pháp kĩ_thuật , bảo_đảm hiệu_quả , khả_thi .
+
+3 . Hệ_thống phương_án ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng quốc_gia gồm :
+
+a ) Phương_án ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng quốc_gia ;
+
+b ) Phương_án ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng của cơ_quan nhà_nước , tổ_chức chính_trị , tổ_chức chính_trị - xã_hội ;
+
+c ) Phương_án ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng của địa_phương ;
+
+d ) Phương_án ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng của doanh_nghiệp viễn_thông .
+
+4 . Trách_nhiệm bảo_đảm an_toàn thông_tin mạng quốc_gia được quy_định như sau :
+
+a ) Thủ_tướng Chính_phủ Quyết_định hệ_thống phương_án ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng quốc_gia ;
+
+b ) Bộ Thông_tin và Truyền_thông có trách_nhiệm chủ_trì điều_phối công_tác ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng quốc_gia ;
+
+c ) Bộ , ngành , Ủy_ban nhân_dân các cấp và cơ_quan , tổ_chức có liên_quan trong phạm_vi nhiệm_vụ , quyền_hạn của mình có trách_nhiệm phối_hợp , chỉ_đạo ứng_cứu khẩn_cấp bảo_đảm an_toàn thông_tin mạng quốc_gia ;
+
+d ) Doanh_nghiệp viễn_thông có trách_nhiệm thực_hiện biện_pháp ứng_cứu khẩn_cấp , phối_hợp với Bộ Thông_tin và Truyền_thông , bộ , ngành , Ủy_ban nhân_dân các cấp có liên_quan để bảo_đảm an_toàn thông_tin mạng quốc_gia .
+
+Điều 15 . Trách_nhiệm của cơ_quan , tổ_chức , cá_nhân trong bảo_đảm an_toàn thông_tin mạng
+
+1 . Cơ_quan , tổ_chức , cá_nhân tham_gia hoạt_động an_toàn thông_tin mạng có trách_nhiệm phối_hợp với cơ_quan nhà_nước có thẩm_quyền và tổ_chức , cá_nhân khác trong việc bảo_đảm an_toàn thông_tin mạng .
+
+2 . Cơ_quan , tổ_chức , cá_nhân sử_dụng dịch_vụ trên mạng có trách_nhiệm thông_báo kịp_thời cho doanh_nghiệp cung_cấp dịch_vụ hoặc bộ_phận chuyên_trách ứng_cứu sự_cố khi phát_hiện các hành_vi phá_hoại hoặc sự_cố an_toàn thông_tin mạng .
+
+Mục 2 . Bảo_vệ Thông_tin Cá_nhân
+
+Điều 16 . Nguyên_tắc bảo_vệ thông_tin cá_nhân trên mạng
+
+1 . Cá_nhân tự bảo_vệ thông_tin cá_nhân của mình và tuân_thủ quy_định của pháp_luật về cung_cấp thông_tin cá_nhân khi sử_dụng dịch_vụ trên mạng .
+
+2 . Cơ_quan , tổ_chức , cá_nhân xử_lí thông_tin cá_nhân có trách_nhiệm bảo_đảm an_toàn thông_tin mạng đối_với thông_tin do mình xử_lý .
+
+3 . Tổ_chức , cá_nhân xử_lí thông_tin cá_nhân phải xây_dựng và công_bố công_khai biện_pháp xử_lý , bảo_vệ thông_tin cá_nhân của tổ_chức , cá_nhân mình .
+
+4 . Việc bảo_vệ thông_tin cá_nhân thực_hiện theo quy_định của Luật này và quy_định khác của pháp_luật có liên_quan .
+
+5 . Việc xử_lí thông_tin cá_nhân phục_vụ mục_đích bảo_đảm quốc_phòng , an_ninh quốc_gia , trật_tự , an_toàn xã_hội hoặc không nhằm mục_đích thương_mại được thực_hiện theo quy_định khác của pháp_luật có liên_quan .
+
+Điều 17 . Thu_thập và sử_dụng thông_tin cá_nhân
+
+1 . Tổ_chức , cá_nhân xử_lí thông_tin cá_nhân có trách_nhiệm sau đây :
+
+a ) Tiến_hành thu_thập thông_tin cá_nhân sau khi có sự đồng_ý của chủ_thể thông_tin cá_nhân về phạm_vi , mục_đích của việc thu_thập và sử_dụng thông_tin đó ;
+
+b ) Chỉ sử_dụng thông_tin cá_nhân đã thu_thập vào mục_đích khác mục_đích ban_đầu sau khi có sự đồng_ý của chủ_thể thông_tin cá_nhân ;
+
+c ) Không được cung_cấp , chia_sẻ , phát_tán thông_tin cá_nhân mà mình đã thu_thập , tiếp_cận , kiểm_soát cho bên thứ ba , trừ trường_hợp có sự đồng_ý của chủ_thể thông_tin cá_nhân đó hoặc theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền .
+
+2 . Cơ_quan nhà_nước chịu trách_nhiệm bảo_mật , lưu_trữ thông_tin cá_nhân do mình thu_thập .
+
+3 . Chủ_thể thông_tin cá_nhân có quyền yêu_cầu tổ_chức , cá_nhân xử_lí thông_tin cá_nhân cung_cấp thông_tin cá_nhân của mình mà tổ_chức , cá_nhân đó đã thu_thập , lưu_trữ .
+
+Điều 18 . Cập_nhật , sửa_đổi và huỷ_bỏ thông_tin cá_nhân
+
+1 . Chủ_thể thông_tin cá_nhân có quyền yêu_cầu tổ_chức , cá_nhân xử_lí thông_tin cá_nhân cập_nhật , sửa_đổi , huỷ_bỏ thông_tin cá_nhân của mình mà tổ_chức , cá_nhân đó đã thu_thập , lưu_trữ hoặc ngừng cung_cấp thông_tin cá_nhân của mình cho bên thứ ba .
+
+2 . Ngay khi nhận được yêu_cầu của chủ_thể thông_tin cá_nhân về việc cập_nhật , sửa_đổi , huỷ_bỏ thông_tin cá_nhân hoặc đề_nghị ngừng cung_cấp thông_tin cá_nhân cho bên thứ ba , tổ_chức , cá_nhân xử_lí thông_tin cá_nhân có trách_nhiệm sau đây :
+
+a ) Thực_hiện yêu_cầu và thông_báo cho chủ_thể thông_tin cá_nhân hoặc cung_cấp cho chủ_thể thông_tin cá_nhân_quyền tiếp_cận để tự cập_nhật , sửa_đổi , huỷ_bỏ thông_tin cá_nhân của mình ;
+
+b ) Áp_dụng biện_pháp phù_hợp để bảo_vệ thông_tin cá_nhân ; thông_báo cho chủ_thể thông_tin cá_nhân đó trong trường_hợp chưa thực_hiện được yêu_cầu do yếu_tố kĩ_thuật hoặc yếu_tố khác .
+
+3 . Tổ_chức , cá_nhân xử_lí thông_tin cá_nhân phải huỷ_bỏ thông_tin cá_nhân đã được lưu_trữ khi đã hoàn_thành mục_đích sử_dụng hoặc hết thời_hạn lưu_trữ và thông_báo cho chủ_thể thông_tin cá_nhân biết , trừ trường_hợp pháp_luật có quy_định khác .
+
+Điều 19 . Bảo_đảm an_toàn thông_tin cá_nhân trên mạng
+
+1 . Tổ_chức , cá_nhân xử_lí thông_tin cá_nhân phải áp_dụng biện_pháp quản_lý , kĩ_thuật phù_hợp để bảo_vệ thông_tin cá_nhân do mình thu_thập , lưu_trữ ; tuân_thủ các tiêu_chuẩn , quy_chuẩn kĩ_thuật về bảo_đảm an_toàn thông_tin mạng .
+
+2 . Khi xảy ra hoặc có nguy_cơ xảy ra sự_cố an_toàn thông_tin mạng , tổ_chức , cá_nhân xử_lí thông_tin cá_nhân cần áp_dụng biện_pháp khắc_phục , ngăn_chặn trong thời_gian sớm nhất .
+
+Điều 20 . Trách_nhiệm của cơ_quan quản_lí nhà_nước trong bảo_vệ thông_tin cá_nhân trên mạng
+
+1 . Thiết_lập kênh thông_tin trực_tuyến để tiếp_nhận kiến_nghị , phản_ánh của tổ_chức , cá_nhân liên_quan đến bảo_đảm an_toàn thông_tin cá_nhân trên mạng .
+
+2 . Định_kì hằng năm tổ_chức thanh_tra , kiểm_tra đối_với tổ_chức , cá_nhân xử_lí thông_tin cá_nhân ; tổ_chức thanh_tra , kiểm_tra đột_xuất trong trường_hợp cần_thiết .
+
+Mục 3 . Bảo_vệ Hệ_thống Thông_tin
+
+Điều 21 . Phân_loại cấp_độ an_toàn hệ_thống thông_tin
+
+1 . Phân_loại cấp_độ an_toàn hệ_thống thông_tin là việc xác_định cấp_độ an_toàn thông_tin của hệ_thống thông_tin theo cấp_độ tăng dần từ 1 đến 5 để áp_dụng biện_pháp quản_lí và kĩ_thuật nhằm bảo_vệ hệ_thống thông_tin phù_hợp theo cấp_độ .
+
+2 . Hệ_thống thông_tin được phân_loại theo cấp_độ an_toàn như sau :
+
+a ) Cấp_độ 1 là cấp_độ mà khi bị phá_hoại sẽ làm tổn_hại tới quyền và lợi_ích hợp_pháp của tổ_chức , cá_nhân nhưng không làm tổn_hại tới lợi_ích công_cộng , trật_tự , an_toàn xã_hội , quốc_phòng , an_ninh quốc_gia ;
+
+b ) Cấp_độ 2 là cấp_độ mà khi bị phá_hoại sẽ làm tổn_hại nghiêm_trọng tới quyền và lợi_ích hợp_pháp của tổ_chức , cá_nhân hoặc làm tổn_hại tới lợi_ích công_cộng nhưng không làm tổn_hại tới trật_tự , an_toàn xã_hội , quốc_phòng , an_ninh quốc_gia ;
+
+c ) Cấp_độ 3 là cấp_độ mà khi bị phá_hoại sẽ làm tổn_hại nghiêm_trọng tới sản_xuất , lợi_ích công_cộng và trật_tự , an_toàn xã_hội hoặc làm tổn_hại tới quốc_phòng , an_ninh quốc_gia ;
+
+d ) Cấp_độ 4 là cấp_độ mà khi bị phá_hoại sẽ làm tổn_hại đặc_biệt nghiêm_trọng tới lợi_ích công_cộng và trật_tự , an_toàn xã_hội hoặc làm tổn_hại nghiêm_trọng tới quốc_phòng , an_ninh quốc_gia ;
+
+đ ) Cấp_độ 5 là cấp_độ mà khi bị phá_hoại sẽ làm tổn_hại đặc_biệt nghiêm_trọng tới quốc_phòng , an_ninh quốc_gia .
+
+3 . Chính_phủ quy_định chi_tiết về tiêu_chí , thẩm_quyền , trình_tự , thủ_tục xác_định cấp_độ an_toàn hệ_thống thông_tin và trách_nhiệm bảo_đảm an_toàn hệ_thống thông_tin theo từng cấp_độ .
+
+Điều 22 . Nhiệm_vụ bảo_vệ hệ_thống thông_tin
+
+1 . Xác_định cấp_độ an_toàn thông_tin của hệ_thống thông_tin .
+
+2 . Đánh_giá và quản_lí rủi_ro an_toàn hệ_thống thông_tin .
+
+3 . Đôn_đốc , giám_sát , kiểm_tra công_tác bảo_vệ hệ_thống thông_tin .
+
+4 . Tổ_chức triển_khai các biện_pháp_bảo_vệ hệ_thống thông_tin .
+
+5 . Thực_hiện chế_độ báo_cáo theo quy_định .
+
+6 . Tổ_chức tuyên_truyền , nâng cao nhận_thức về an_toàn thông_tin mạng .
+
+Điều 23 . Biện_pháp_bảo_vệ hệ_thống thông_tin
+
+1 . Ban_hành quy_định về bảo_đảm an_toàn thông_tin mạng trong thiết_kế , xây_dựng , quản_lý , vận_hành , sử_dụng , nâng_cấp , huỷ_bỏ hệ_thống thông_tin .
+
+2 . Áp_dụng biện_pháp quản_lý , kĩ_thuật theo tiêu_chuẩn , quy_chuẩn kĩ_thuật an_toàn thông_tin mạng để phòng , chống nguy_cơ , khắc_phục sự_cố an_toàn thông_tin mạng .
+
+3 . Kiểm_tra , giám_sát việc tuân_thủ quy_định và đánh_giá hiệu_quả của các biện_pháp quản_lí và kĩ_thuật được áp_dụng .
+
+4 . Giám_sát an_toàn hệ_thống thông_tin .
+
+Điều 24 . Giám_sát an_toàn hệ_thống thông_tin
+
+1 . Giám_sát an_toàn hệ_thống thông_tin là hoạt_động lựa_chọn đối_tượng giám_sát , thu_thập , phân_tích trạng_thái thông_tin của đối_tượng giám_sát nhằm xác_định những nhân_tố ảnh_hưởng đến an_toàn hệ_thống thông_tin ; báo_cáo , cảnh_báo hành_vi xâm_phạm an_toàn thông_tin mạng hoặc hành_vi có khả_năng gây ra sự_cố an_toàn thông_tin mạng đối_với hệ_thống thông_tin ; tiến_hành phân_tích yếu_tố then_chốt ảnh_hưởng tới trạng_thái an_toàn thông_tin mạng ; đề_xuất thay_đổi biện_pháp kĩ_thuật .
+
+2 . Đối_tượng giám_sát an_toàn hệ_thống thông_tin gồm tường lửa , kiểm_soát truy_nhập , tuyến thông_tin chủ_yếu , máy_chủ_quan_trọng , thiết_bị quan_trọng hoặc thiết_bị đầu_cuối quan_trọng .
+
+3 . Doanh_nghiệp viễn_thông , doanh_nghiệp cung_cấp dịch_vụ công_nghệ thông_tin , doanh_nghiệp cung_cấp dịch_vụ an_toàn thông_tin mạng có trách_nhiệm phối_hợp với chủ_quản hệ_thống thông_tin trong việc giám_sát an_toàn hệ_thống thông_tin theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền .
+
+Điều 25 . Trách_nhiệm của chủ_quản hệ_thống thông_tin
+
+1 . Chủ_quản hệ_thống thông_tin có trách_nhiệm thực_hiện bảo_vệ hệ_thống thông_tin theo quy_định tại các điều 22 , 23 và 24 của Luật này .
+
+2 . Chủ_quản hệ_thống thông_tin sử_dụng ngân_sách nhà_nước thực_hiện trách_nhiệm quy_định tại khoản 1 Điều này và có trách_nhiệm sau đây :
+
+a ) Có phương_án bảo_đảm an_toàn thông_tin mạng được cơ_quan nhà_nước có thẩm_quyền thẩm_định khi thiết_lập , mở_rộng hoặc nâng_cấp hệ_thống thông_tin ;
+
+b ) Chỉ_định cá_nhân , bộ_phận phụ_trách về an_toàn thông_tin mạng .
+
+Điều 26 . Hệ_thống thông_tin quan_trọng quốc_gia
+
+1 . Khi thiết_lập , mở_rộng và nâng_cấp hệ_thống thông_tin quan_trọng quốc_gia phải thực_hiện kiểm_định an_toàn thông_tin trước khi đưa vào vận_hành , khai_thác .
+
+2 . Bộ Thông_tin và Truyền_thông chủ_trì , phối_hợp với Bộ Quốc_phòng , Bộ Công_an và bộ , ngành có liên_quan xây_dựng Danh_mục hệ_thống thông_tin quan_trọng quốc_gia trình Thủ_tướng Chính_phủ ban_hành .
+
+Điều 27 . Trách_nhiệm bảo_đảm an_toàn thông_tin mạng cho hệ_thống thông_tin quan_trọng quốc_gia
+
+1 . Chủ_quản hệ_thống thông_tin quan_trọng quốc_gia có trách_nhiệm sau đây :
+
+a ) Thực_hiện quy_định tại khoản 2 Điều 25 của Luật này ;
+
+b ) Định_kì đánh_giá rủi_ro an_toàn thông_tin mạng . Việc đánh_giá rủi_ro an_toàn thông_tin mạng phải do tổ_chức chuyên_môn được cơ_quan nhà_nước có thẩm_quyền chỉ_định thực_hiện ;
+
+c ) Triển_khai biện_pháp dự_phòng cho hệ_thống thông_tin ;
+
+d ) Lập kế_hoạch bảo_vệ , lập phương_án và diễn_tập phương_án bảo_vệ hệ_thống thông_tin quan_trọng quốc_gia .
+
+2 . Bộ Thông_tin và Truyền_thông có trách_nhiệm sau đây :
+
+a ) Chủ_trì , phối_hợp với chủ_quản hệ_thống thông_tin quan_trọng quốc_gia , Bộ Công_an và bộ , ngành có liên_quan hướng_dẫn , đôn_đốc , thanh_tra , kiểm_tra công_tác bảo_vệ an_toàn thông_tin mạng đối_với hệ_thống thông_tin quan_trọng quốc_gia , trừ hệ_thống thông_tin quy_định tại khoản 3 và khoản 4 Điều này ;
+
+b ) Yêu_cầu doanh_nghiệp viễn_thông , doanh_nghiệp cung_cấp dịch_vụ công_nghệ thông_tin , doanh_nghiệp cung_cấp dịch_vụ an_toàn thông_tin mạng tham_gia_tư_vấn , hỗ_trợ kĩ_thuật , ứng_cứu sự_cố an_toàn thông_tin mạng cho hệ_thống thông_tin quan_trọng quốc_gia .
+
+3 . Bộ Công_an chủ_trì hướng_dẫn , đôn_đốc , thanh_tra , kiểm_tra công_tác bảo_vệ an_toàn thông_tin mạng đối_với hệ_thống thông_tin quan_trọng quốc_gia do Bộ Công_an quản_lý ; phối_hợp với Bộ Thông_tin và Truyền_thông , chủ_quản hệ_thống thông_tin quan_trọng quốc_gia , bộ , ngành , Ủy_ban nhân_dân các cấp có liên_quan trong việc bảo_vệ hệ_thống thông_tin quan_trọng quốc_gia khác khi có yêu_cầu của cơ_quan nhà_nước có thẩm_quyền .
+
+4 . Bộ Quốc_phòng chủ_trì hướng_dẫn , đôn_đốc , thanh_tra , kiểm_tra công_tác bảo_vệ an_toàn thông_tin mạng đối_với hệ_thống thông_tin quan_trọng quốc_gia do Bộ Quốc_phòng quản_lý .
+
+5 . Ban Cơ_yếu Chính_phủ chủ_trì tổ_chức triển_khai giải_pháp dùng mật_mã để bảo_vệ thông_tin trong hệ_thống thông_tin quan_trọng quốc_gia của cơ_quan nhà_nước , tổ_chức chính_trị , tổ_chức chính_trị - xã_hội ; phối_hợp với chủ_quản hệ_thống thông_tin quan_trọng quốc_gia trong việc giám_sát an_toàn thông_tin mạng theo quy_định của pháp_luật .
+
+Mục 4 . Ngăn_chặn Xung_đột Thông_tin Trên Mạng
+
+Điều 28 . Trách_nhiệm của tổ_chức , cá_nhân trong việc ngăn_chặn xung_đột thông_tin trên mạng
+
+1 . Tổ_chức , cá_nhân trong phạm_vi nhiệm_vụ , quyền_hạn của mình có trách_nhiệm sau đây :
+
+a ) Ngăn_chặn thông_tin phá_hoại xuất_phát từ hệ_thống thông_tin của mình ; hợp_tác xác_định nguồn , đẩy_lùi , khắc_phục hậu_quả tấn_công mạng được thực_hiện thông_qua hệ_thống thông_tin của tổ_chức , cá_nhân trong nước và nước_ngoài ;
+
+b ) Ngăn_chặn hành_động của tổ_chức , cá_nhân trong nước và nước_ngoài có mục_đích phá_hoại tính nguyên_vẹn của mạng ;
+
+c ) Loại_trừ việc tổ_chức thực_hiện hoạt_động trái pháp_luật trên mạng có ảnh_hưởng nghiêm_trọng đến quốc_phòng , an_ninh quốc_gia , trật_tự , an_toàn xã_hội của tổ_chức , cá_nhân trong nước và nước_ngoài .
+
+2 . Chính_phủ quy_định chi_tiết về ngăn_chặn xung_đột thông_tin trên mạng .
+
+Điều 29 . Ngăn_chặn hoạt_động sử_dụng mạng để khủng_bố
+
+1 . Các biện_pháp ngăn_chặn hoạt_động sử_dụng mạng để khủng_bố gồm :
+
+a ) Vô_hiệu_hoá nguồn Internet sử_dụng để thực_hiện_hành_vi khủng_bố ;
+
+b ) Ngăn_chặn việc thiết_lập và mở_rộng trao_đổi thông_tin về các tín_hiệu , nhân_tố , phương_pháp và cách sử_dụng Internet để thực_hiện_hành_vi khủng_bố , về mục_tiêu và hoạt_động của các tổ_chức khủng_bố trên mạng ;
+
+c ) Trao_đổi kinh_nghiệm và thực_tiễn kiểm_soát các nguồn Internet , tìm và kiểm_soát nội_dung của trang tin điện_tử có mục_đích khủng_bố .
+
+2 . Chính_phủ quy_định chi_tiết về trách_nhiệm thực_hiện và các biện_pháp ngăn_chặn hoạt_động sử_dụng mạng để khủng_bố quy_định tại khoản 1 Điều này .
+
+Chương_iii
+
+Mật_mã Dân_sự
+
+Điều 30 . Sản_phẩm , dịch_vụ mật_mã dân_sự
+
+1 . Sản_phẩm mật_mã dân_sự là các tài_liệu , trang thiết_bị kĩ_thuật và nghiệp_vụ mật_mã để bảo_vệ thông_tin không thuộc phạm_vi bí_mật nhà_nước .
+
+2 . Dịch_vụ mật_mã dân_sự gồm dịch_vụ bảo_vệ thông_tin sử_dụng sản_phẩm mật_mã dân_sự ; kiểm_định , đánh_giá sản_phẩm mật_mã dân_sự ; tư_vấn bảo_mật , an_toàn thông_tin mạng sử_dụng sản_phẩm mật_mã dân_sự .
+
+Điều 31 . Kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự
+
+1 . Doanh_nghiệp phải có Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự khi kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự thuộc Danh_mục sản_phẩm , dịch_vụ mật_mã dân_sự .
+
+2 . Doanh_nghiệp được cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự khi đáp_ứng đủ các điều_kiện sau đây :
+
+a ) Có đội_ngũ quản_lý , điều_hành , kĩ_thuật đáp_ứng yêu_cầu chuyên_môn về bảo_mật , an_toàn thông_tin ;
+
+b ) Có hệ_thống trang thiết_bị , cơ_sở vật_chất phù_hợp với quy_mô cung_cấp sản_phẩm , dịch_vụ mật_mã dân_sự ;
+
+c ) Có phương_án kĩ_thuật phù_hợp với tiêu_chuẩn , quy_chuẩn kĩ_thuật ;
+
+d ) Có phương_án bảo_mật và an_toàn thông_tin mạng trong quá_trình quản_lí và cung_cấp sản_phẩm , dịch_vụ mật_mã dân_sự ;
+
+đ ) Có phương_án kinh_doanh phù_hợp .
+
+3 . Sản_phẩm mật_mã dân_sự phải được kiểm_định , chứng_nhận hợp quy trước khi lưu_thông trên thị_trường .
+
+4 . Doanh_nghiệp được cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự phải nộp phí theo quy_định của pháp_luật về phí và lệ_phí .
+
+5 . Chính_phủ ban_hành Danh_mục sản_phẩm , dịch_vụ mật_mã dân_sự và quy_định chi_tiết Điều này .
+
+Điều 32 . Trình_tự , thủ_tục đề_nghị cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự
+
+1 . Doanh_nghiệp đề_nghị cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự nộp hồ_sơ đề_nghị cấp Giấy_phép tại Ban Cơ_yếu Chính_phủ .
+
+2 . Hồ_sơ đề_nghị cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự được lập thành hai bộ , gồm :
+
+a ) Đơn đề_nghị cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự ;
+
+b ) Bản_sao Giấy chứng_nhận đăng_kí doanh_nghiệp hoặc Giấy chứng_nhận đăng_kí đầu_tư hoặc giấy_tờ khác có giá_trị tương_đương ;
+
+c ) Bản_sao văn_bằng hoặc chứng_chỉ chuyên_môn về bảo_mật , an_toàn thông_tin của đội_ngũ quản_lý , điều_hành , kĩ_thuật ;
+
+d ) Phương_án kĩ_thuật gồm tài_liệu về đặc_tính kĩ_thuật , tham_số kĩ_thuật của sản_phẩm ; tiêu_chuẩn , quy_chuẩn kĩ_thuật của sản_phẩm ; tiêu_chuẩn , chất_lượng dịch_vụ ; các biện_pháp , giải_pháp kĩ_thuật ; phương_án bảo_hành , bảo_trì sản_phẩm ;
+
+đ ) Phương_án bảo_mật và an_toàn thông_tin mạng trong quá_trình quản_lí và cung_cấp sản_phẩm , dịch_vụ mật_mã dân_sự ;
+
+e ) Phương_án kinh_doanh gồm phạm_vi , đối_tượng cung_cấp , quy_mô số_lượng sản_phẩm , dịch_vụ hệ_thống phục_vụ khách_hàng và bảo_đảm kĩ_thuật .
+
+3 . Trong thời_hạn 30 ngày kể từ ngày nhận đủ hồ_sơ , Ban Cơ_yếu Chính_phủ thẩm_định và cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự ; trường_hợp từ_chối cấp thì phải thông_báo bằng văn_bản và nêu rõ lí_do .
+
+4 . Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự có thời_hạn 10 năm .
+
+Điều 33 . Sửa_đổi , bổ_sung , cấp lại , gia_hạn , tạm đình_chỉ và thu_hồi Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự
+
+1 . Việc sửa_đổi , bổ_sung Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự được thực_hiện trong trường_hợp_doanh_nghiệp đã được cấp Giấy_phép thay_đổi tên , thay_đổi người đại_diện theo pháp_luật hoặc thay_đổi , bổ_sung sản_phẩm , dịch_vụ mật_mã dân_sự .
+
+Doanh_nghiệp có trách_nhiệm nộp hồ_sơ đề_nghị sửa_đổi , bổ_sung Giấy_phép tại Ban Cơ_yếu Chính_phủ . Hồ_sơ được lập thành hai bộ , gồm :
+
+a ) Đơn đề_nghị sửa_đổi , bổ_sung Giấy_phép ;
+
+b ) Bản_sao Giấy chứng_nhận đăng_kí doanh_nghiệp hoặc Giấy chứng_nhận đăng_kí đầu_tư hoặc giấy_tờ khác có giá_trị tương_đương ;
+
+c ) Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự đã được cấp ;
+
+d ) Phương_án kĩ_thuật , phương_án bảo_mật và an_toàn thông_tin mạng , phương_án kinh_doanh đối_với sản_phẩm , dịch_vụ bổ_sung theo quy_định tại các điểm d , đ và e khoản 2 Điều 32 của Luật này trong trường_hợp_doanh_nghiệp đề_nghị bổ_sung sản_phẩm , dịch_vụ mật_mã dân_sự , ngành , nghề kinh_doanh ;
+
+Trong thời_hạn 10 ngày làm_việc kể từ ngày nhận đủ hồ_sơ , Ban Cơ_yếu Chính_phủ thẩm_định , sửa_đổi , bổ_sung và cấp lại Giấy_phép cho doanh_nghiệp ; trường_hợp từ_chối cấp thì phải thông_báo bằng văn_bản và nêu rõ lí_do .
+
+2 . Trường_hợp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự bị mất hoặc bị hư_hỏng , doanh_nghiệp gửi đơn đề_nghị cấp lại Giấy_phép , trong đó nêu rõ lí_do , tới Ban Cơ_yếu Chính_phủ . Trong thời_hạn 05 ngày làm_việc kể từ ngày nhận được đơn đề_nghị , Ban Cơ_yếu Chính_phủ xem_xét và cấp lại Giấy_phép cho doanh_nghiệp .
+
+3 . Doanh_nghiệp không vi_phạm các quy_định của pháp_luật về kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự được gia_hạn Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự một lần với thời_gian gia_hạn không quá 01 năm .
+
+Hồ_sơ đề_nghị gia_hạn Giấy_phép phải được gửi tới Ban Cơ_yếu Chính_phủ chậm nhất_là 60 ngày trước ngày Giấy_phép hết hạn . Hồ_sơ đề_nghị gia_hạn Giấy_phép được lập thành hai bộ , gồm :
+
+a ) Đơn đề_nghị gia_hạn Giấy_phép ;
+
+b ) Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự đang có hiệu_lực ;
+
+c ) Báo_cáo hoạt_động của doanh_nghiệp trong 02 năm gần nhất .
+
+Trong thời_hạn 20 ngày kể từ ngày nhận đủ hồ_sơ , Ban Cơ_yếu Chính_phủ thẩm_định , Quyết_định gia_hạn và cấp lại Giấy_phép cho doanh_nghiệp ; trường_hợp từ_chối cấp thì phải thông_báo bằng văn_bản và nêu rõ lí_do .
+
+4 . Doanh_nghiệp bị tạm đình_chỉ hoạt_động_kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự có thời_hạn không quá 06 tháng trong các trường_hợp sau đây :
+
+a ) Cung_cấp sản_phẩm , dịch_vụ không đúng với nội_dung ghi trên Giấy_phép ;
+
+b ) Không đáp_ứng được một trong các điều_kiện quy_định tại khoản 2 Điều 31 của Luật này ;
+
+c ) Các trường_hợp khác theo quy_định của pháp_luật .
+
+5 . Doanh_nghiệp bị thu_hồi Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự trong các trường_hợp sau đây :
+
+a ) Không triển_khai cung_cấp dịch_vụ trong thời_hạn 01 năm kể từ ngày được cấp Giấy_phép mà không có_lí_do chính_đáng ;
+
+b ) Giấy_phép đã hết hạn ;
+
+c ) Hết thời_hạn tạm đình_chỉ mà doanh_nghiệp không khắc_phục được các lí_do quy_định tại khoản 4 Điều này .
+
+Điều 34 . Xuất_khẩu , nhập_khẩu sản_phẩm mật_mã dân_sự
+
+1 . Khi xuất_khẩu , nhập_khẩu sản_phẩm mật_mã dân_sự thuộc Danh_mục sản_phẩm mật_mã dân_sự xuất_khẩu , nhập_khẩu theo giấy_phép , doanh_nghiệp phải có Giấy_phép xuất_khẩu , nhập_khẩu sản_phẩm mật_mã dân_sự do cơ_quan nhà_nước có thẩm_quyền cấp .
+
+2 . Doanh_nghiệp được cấp Giấy_phép xuất_khẩu , nhập_khẩu sản_phẩm mật_mã dân_sự khi đáp_ứng đủ các điều_kiện sau đây :
+
+a ) Có Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự ;
+
+b ) Sản_phẩm mật_mã dân_sự nhập_khẩu phải được chứng_nhận , công_bố hợp quy theo quy_định tại Điều 39 của Luật này ;
+
+c ) Đối_tượng và mục_đích sử_dụng sản_phẩm mật_mã dân_sự không gây phương_hại đến quốc_phòng , an_ninh quốc_gia và trật_tự , an_toàn xã_hội .
+
+3 . Hồ_sơ đề_nghị cấp Giấy_phép xuất_khẩu , nhập_khẩu sản_phẩm mật_mã dân_sự gồm :
+
+a ) Đơn đề_nghị cấp Giấy_phép xuất_khẩu , nhập_khẩu sản_phẩm mật_mã dân_sự ;
+
+b ) Bản_sao Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự ;
+
+c ) Bản_sao Giấy chứng_nhận hợp quy đối_với sản_phẩm mật_mã dân_sự nhập_khẩu .
+
+4 . Trong thời_hạn 10 ngày làm_việc kể từ ngày nhận đủ hồ_sơ , Ban Cơ_yếu Chính_phủ thẩm_định và cấp Giấy_phép xuất_khẩu , nhập_khẩu sản_phẩm mật_mã dân_sự cho doanh_nghiệp ; trường_hợp từ_chối cấp thì phải thông_báo bằng văn_bản và nêu rõ lí_do .
+
+5 . Chính_phủ ban_hành Danh_mục sản_phẩm mật_mã dân_sự xuất_khẩu , nhập_khẩu theo giấy_phép và quy_định chi_tiết Điều này .
+
+Điều 35 . Trách_nhiệm của doanh_nghiệp kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự
+
+1 . Quản_lí hồ_sơ , tài_liệu về giải_pháp kĩ_thuật , công_nghệ của sản_phẩm .
+
+2 . Lập , lưu_giữ và bảo_mật thông_tin của khách_hàng , tên , loại_hình , số_lượng và mục_đích sử_dụng của sản_phẩm , dịch_vụ mật_mã dân_sự .
+
+3 . Định_kì hằng năm báo_cáo Ban Cơ_yếu Chính_phủ về tình_hình kinh_doanh , xuất_khẩu , nhập_khẩu sản_phẩm , dịch_vụ mật_mã dân_sự và tổng_hợp thông_tin khách_hàng trước ngày 31 tháng 12 .
+
+4 . Có các biện_pháp_bảo_đảm an_ninh , an_toàn trong vận_chuyển và bảo_quản sản_phẩm mật_mã dân_sự .
+
+5 . Từ_chối cung_cấp sản_phẩm , dịch_vụ mật_mã dân_sự khi phát_hiện tổ_chức , cá_nhân vi_phạm_pháp_luật về sử_dụng sản_phẩm , dịch_vụ mật_mã dân_sự , vi_phạm cam_kết đã thoả_thuận về sử_dụng sản_phẩm , dịch_vụ do doanh_nghiệp cung_cấp .
+
+6 . Tạm ngừng hoặc ngừng cung_cấp sản_phẩm , dịch_vụ mật_mã dân_sự để bảo_đảm quốc_phòng , an_ninh quốc_gia , trật_tự , an_toàn xã_hội theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền .
+
+7 . Phối_hợp , tạo điều_kiện cho cơ_quan nhà_nước có thẩm_quyền thực_hiện các biện_pháp nghiệp_vụ khi có yêu_cầu .
+
+Điều 36 . Trách_nhiệm của tổ_chức , cá_nhân sử_dụng sản_phẩm , dịch_vụ mật_mã dân_sự
+
+1 . Tuân_thủ các quy_định đã cam_kết với doanh_nghiệp cung_cấp sản_phẩm mật_mã dân_sự về quản_lí sử_dụng khoá mã , chuyển_nhượng , sửa_chữa , bảo_dưỡng , bỏ , tiêu_huỷ sản_phẩm mật_mã dân_sự và các nội_dung khác có liên_quan .
+
+2 . Cung_cấp các thông_tin cần_thiết liên_quan tới khoá mã cho cơ_quan nhà_nước có thẩm_quyền khi có yêu_cầu .
+
+3 . Phối_hợp , tạo điều_kiện cho cơ_quan nhà_nước có thẩm_quyền thực_hiện các biện_pháp ngăn_ngừa tội_phạm đánh_cắp thông_tin , khoá mã và sử_dụng sản_phẩm mật_mã dân_sự vào những mục_đích không hợp_pháp .
+
+4 . Tổ_chức , cá_nhân sử_dụng sản_phẩm mật_mã dân_sự không do doanh_nghiệp được cấp phép kinh_doanh sản_phẩm mật_mã dân_sự cung_cấp phải khai_báo với Ban Cơ_yếu Chính_phủ , trừ cơ_quan đại_diện ngoại_giao , cơ_quan lãnh_sự của nước_ngoài và cơ_quan đại_diện của tổ_chức quốc_tế liên Chính_phủ tại Việt_nam .
+
+Chương_iv
+
+Tiêu_chuẩn , Quy_chuẩn_kỹ_thuật An_toàn Thông_tin_mạng
+
+Điều 37 . Tiêu_chuẩn , quy_chuẩn kĩ_thuật an_toàn thông_tin mạng
+
+1 . Tiêu_chuẩn an_toàn thông_tin mạng gồm tiêu_chuẩn quốc_tế , tiêu_chuẩn khu_vực , tiêu_chuẩn nước_ngoài , tiêu_chuẩn quốc_gia và tiêu_chuẩn cơ_sở đối_với hệ_thống thông_tin , phần_cứng , phần_mềm , hệ_thống quản_lý , vận_hành an_toàn thông_tin mạng được công_bố , thừa_nhận áp_dụng tại Việt_nam .
+
+2 . Quy_chuẩn kĩ_thuật an_toàn thông_tin mạng gồm quy_chuẩn kĩ_thuật quốc_gia và quy_chuẩn kĩ_thuật địa_phương đối_với hệ_thống thông_tin , phần_cứng , phần_mềm , hệ_thống quản_lý , vận_hành an_toàn thông_tin mạng được xây_dựng , ban_hành và áp_dụng tại Việt_nam .
+
+Điều 38 . Quản_lí tiêu_chuẩn , quy_chuẩn kĩ_thuật an_toàn thông_tin mạng
+
+1 . Chứng_nhận hợp quy về an_toàn thông_tin mạng là việc tổ_chức chứng_nhận sự phù_hợp chứng_nhận hệ_thống thông_tin , phần_cứng , phần_mềm , hệ_thống quản_lý , vận_hành an_toàn thông_tin mạng phù_hợp với quy_chuẩn kĩ_thuật an_toàn thông_tin mạng .
+
+2 . Công_bố hợp quy về an_toàn thông_tin mạng là việc tổ_chức , doanh_nghiệp công_bố về sự phù_hợp của hệ_thống thông_tin , phần_cứng , phần_mềm , hệ_thống quản_lý , vận_hành an_toàn thông_tin mạng với quy_chuẩn kĩ_thuật an_toàn thông_tin mạng .
+
+3 . Chứng_nhận hợp chuẩn về an_toàn thông_tin mạng là việc tổ_chức chứng_nhận sự phù_hợp chứng_nhận hệ_thống thông_tin , phần_cứng , phần_mềm , hệ_thống quản_lý , vận_hành an_toàn thông_tin mạng phù_hợp với tiêu_chuẩn an_toàn thông_tin mạng .
+
+4 . Công_bố hợp chuẩn về an_toàn thông_tin mạng là việc tổ_chức , doanh_nghiệp công_bố về sự phù_hợp của hệ_thống thông_tin , phần_cứng , phần_mềm , hệ_thống quản_lý , vận_hành an_toàn thông_tin mạng với tiêu_chuẩn an_toàn thông_tin mạng .
+
+5 . Bộ Khoa_học và Công_nghệ chủ_trì , phối_hợp với cơ_quan có liên_quan tổ_chức thẩm_định và công_bố tiêu_chuẩn quốc_gia về an_toàn thông_tin mạng theo quy_định của pháp_luật về tiêu_chuẩn , quy_chuẩn kĩ_thuật .
+
+6 . Bộ Thông_tin và Truyền_thông có trách_nhiệm sau đây :
+
+a ) Xây_dựng dự_thảo tiêu_chuẩn quốc_gia an_toàn thông_tin mạng , trừ tiêu_chuẩn quốc_gia quy_định tại khoản 7 Điều này ;
+
+b ) Ban_hành quy_chuẩn kĩ_thuật quốc_gia an_toàn thông_tin mạng , trừ quy_chuẩn quốc_gia quy_định tại khoản 7 Điều này ; quy_định về đánh_giá hợp quy về an_toàn thông_tin mạng ;
+
+c ) Quản_lí chất_lượng sản_phẩm , dịch_vụ an_toàn thông_tin mạng , trừ sản_phẩm , dịch_vụ mật_mã dân_sự ;
+
+d ) Đăng_ký , chỉ_định và quản_lí hoạt_động của tổ_chức chứng_nhận sự phù_hợp về an_toàn thông_tin mạng , trừ tổ_chức chứng_nhận sự phù_hợp đối_với sản_phẩm , dịch_vụ mật_mã dân_sự .
+
+7 . Ban Cơ_yếu Chính_phủ có trách_nhiệm giúp Bộ_trưởng Bộ Quốc_phòng xây_dựng dự_thảo tiêu_chuẩn quốc_gia đối_với sản_phẩm , dịch_vụ mật_mã dân_sự trình cơ_quan nhà_nước có thẩm_quyền công_bố và hướng_dẫn thực_hiện ; xây_dựng , trình Bộ_trưởng Bộ Quốc_phòng_ban_hành quy_chuẩn kĩ_thuật quốc_gia đối_với sản_phẩm , dịch_vụ mật_mã dân_sự , chỉ_định và quản_lí hoạt_động của tổ_chức chứng_nhận sự phù_hợp đối_với sản_phẩm , dịch_vụ mật_mã dân_sự ; quản_lí chất_lượng sản_phẩm , dịch_vụ mật_mã dân_sự .
+
+8 . Ủy_ban nhân_dân cấp tỉnh xây_dựng , ban_hành và hướng_dẫn thực_hiện quy_chuẩn kĩ_thuật địa_phương về an_toàn thông_tin mạng ; quản_lí chất_lượng sản_phẩm , dịch_vụ an_toàn thông_tin mạng trên địa_bàn .
+
+Điều 39 . Đánh_giá hợp chuẩn , hợp quy về an_toàn thông_tin mạng
+
+1 . Việc đánh_giá hợp chuẩn , hợp quy về an_toàn thông_tin mạng được thực_hiện trong các trường_hợp sau đây :
+
+a ) Trước khi tổ_chức , cá_nhân đưa sản_phẩm an_toàn thông_tin mạng vào lưu_thông trên thị_trường phải thực_hiện chứng_nhận hợp quy hoặc công_bố hợp quy và sử_dụng dấu hợp quy ;
+
+b ) Phục_vụ hoạt_động quản_lí nhà_nước về an_toàn thông_tin mạng .
+
+2 . Việc đánh_giá hợp chuẩn , hợp quy về an_toàn thông_tin mạng phục_vụ hệ_thống thông_tin quan_trọng quốc_gia và phục_vụ hoạt_động quản_lí nhà_nước về an_toàn thông_tin mạng được thực_hiện_tại tổ_chức chứng_nhận sự phù_hợp do Bộ_trưởng Bộ Thông_tin và Truyền_thông chỉ_định .
+
+3 . Việc đánh_giá hợp chuẩn , hợp quy đối_với sản_phẩm , dịch_vụ mật_mã dân_sự được thực_hiện_tại tổ_chức chứng_nhận sự phù_hợp do Bộ_trưởng Bộ Quốc_phòng chỉ_định .
+
+4 . Việc thừa_nhận kết_quả đánh_giá hợp chuẩn , hợp quy về an_toàn thông_tin mạng giữa Việt_nam với quốc_gia , vùng lãnh_thổ khác , giữa tổ_chức chứng_nhận sự phù_hợp của Việt_nam với tổ_chức chứng_nhận sự phù_hợp của quốc_gia , vùng lãnh_thổ khác được thực_hiện theo quy_định của pháp_luật về tiêu_chuẩn , quy_chuẩn kĩ_thuật .
+
+Chương V
+
+Kinh_doanh Trong Lĩnh_vực An_toàn Thông_tin_mạng
+
+Mục 1 . Cấp Giấy_phép Kinh_doanh Sản_phẩm , Dịch_vụ An_toàn Thông_tin_mạng
+
+Điều 40 . Kinh_doanh trong lĩnh_vực an_toàn thông_tin mạng
+
+1 . Kinh_doanh trong lĩnh_vực an_toàn thông_tin mạng là ngành , nghề kinh_doanh có điều_kiện . Kinh_doanh trong lĩnh_vực an_toàn thông_tin mạng gồm kinh_doanh sản_phẩm an_toàn thông_tin mạng và kinh_doanh dịch_vụ an_toàn thông_tin mạng .
+
+2 . Doanh_nghiệp kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng quy_định tại Điều 41 của Luật này phải có Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng do cơ_quan nhà_nước có thẩm_quyền cấp . Thời_hạn của Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng là 10 năm .
+
+3 . Việc kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng phải tuân_thủ quy_định của Luật này và quy_định khác của pháp_luật có liên_quan .
+
+Điều_kiện kinh_doanh , trình_tự thủ_tục cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự , việc xuất_khẩu , nhập_khẩu sản_phẩm mật_mã dân_sự , trách_nhiệm của doanh_nghiệp kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự và việc sử_dụng sản_phẩm , dịch_vụ mật_mã dân_sự thực_hiện theo quy_định tại Chương Iii của Luật này .
+
+Điều_kiện kinh_doanh , trình_tự , thủ_tục cấp Giấy_phép kinh_doanh dịch_vụ chứng_thực chữ_kí điện_tử thực_hiện theo quy_định của pháp_luật về giao_dịch điện_tử .
+
+Điều 41 . Sản_phẩm , dịch_vụ trong lĩnh_vực an_toàn thông_tin mạng
+
+1 . Dịch_vụ an_toàn thông_tin mạng gồm :
+
+a ) Dịch_vụ kiểm_tra , đánh_giá an_toàn thông_tin mạng ;
+
+b ) Dịch_vụ bảo_mật thông_tin không sử_dụng mật_mã dân_sự ;
+
+c ) Dịch_vụ mật_mã dân_sự ;
+
+d ) Dịch_vụ chứng_thực chữ_kí điện_tử ;
+
+đ ) Dịch_vụ tư_vấn an_toàn thông_tin mạng ;
+
+e ) Dịch_vụ giám_sát an_toàn thông_tin mạng ;
+
+g ) Dịch_vụ ứng_cứu sự_cố an_toàn thông_tin mạng ;
+
+h ) Dịch_vụ khôi_phục dữ_liệu ;
+
+i ) Dịch_vụ phòng_ngừa , chống tấn_công mạng ;
+
+k ) Dịch_vụ an_toàn thông_tin mạng khác .
+
+2 . Sản_phẩm an_toàn thông_tin mạng gồm :
+
+a ) Sản_phẩm mật_mã dân_sự ;
+
+b ) Sản_phẩm kiểm_tra , đánh_giá an_toàn thông_tin mạng ;
+
+c ) Sản_phẩm giám_sát an_toàn thông_tin mạng ;
+
+d ) Sản_phẩm chống tấn_công , xâm_nhập ;
+
+đ ) Sản_phẩm an_toàn thông_tin mạng khác .
+
+3 . Chính_phủ quy_định chi_tiết danh_mục sản_phẩm , dịch_vụ an_toàn thông_tin mạng quy_định tại điểm k khoản 1 và điểm đ khoản 2 Điều này .
+
+Điều 42 . Điều_kiện cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng
+
+1 . Doanh_nghiệp được cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng , trừ sản_phẩm , dịch_vụ quy_định tại các điểm a , b , c , d khoản 1 và điểm a khoản 2 Điều 41 của Luật này , khi đáp_ứng đủ các điều_kiện sau đây :
+
+a ) Phù_hợp với chiến_lược , quy_hoạch , kế_hoạch phát_triển an_toàn thông_tin mạng quốc_gia ;
+
+b ) Có hệ_thống trang thiết_bị , cơ_sở vật_chất phù_hợp với quy_mô cung_cấp sản_phẩm , dịch_vụ an_toàn thông_tin mạng ;
+
+c ) Có đội_ngũ quản_lý , điều_hành , kĩ_thuật đáp_ứng được yêu_cầu chuyên_môn về an_toàn thông_tin ;
+
+d ) Có phương_án kinh_doanh phù_hợp .
+
+2 . Doanh_nghiệp được cấp Giấy_phép kinh_doanh dịch_vụ kiểm_tra , đánh_giá an_toàn thông_tin mạng khi đáp_ứng đủ các điều_kiện sau đây :
+
+a ) Các điều_kiện quy_định tại khoản 1 Điều này ;
+
+b ) Là doanh_nghiệp được thành_lập và hoạt_động hợp_pháp trên lãnh_thổ Việt_nam , trừ doanh_nghiệp có vốn đầu_tư nước_ngoài ;
+
+c ) Người đại_diện theo pháp_luật , đội_ngũ quản_lý , điều_hành , kĩ_thuật là công_dân Việt_nam thường_trú tại Việt_nam ;
+
+d ) Có phương_án kĩ_thuật phù_hợp với tiêu_chuẩn , quy_chuẩn kĩ_thuật ;
+
+đ ) Có phương_án bảo_mật thông_tin khách_hàng trong quá_trình cung_cấp dịch_vụ ;
+
+e ) Đội_ngũ quản_lý , điều_hành , kĩ_thuật có văn_bằng hoặc chứng_chỉ chuyên_môn về kiểm_tra , đánh_giá an_toàn thông_tin .
+
+3 . Doanh_nghiệp được cấp Giấy_phép kinh_doanh dịch_vụ bảo_mật thông_tin không sử_dụng mật_mã dân_sự khi đáp_ứng đủ các điều_kiện sau đây :
+
+a ) Các điều_kiện quy_định tại các điểm a , b , c , d và đ khoản 2 Điều này ;
+
+b ) Đội_ngũ quản_lí điều_hành , kĩ_thuật có văn_bằng hoặc chứng_chỉ chuyên_môn về bảo_mật thông_tin .
+
+4 . Chính_phủ quy_định chi_tiết Điều này .
+
+Điều 43 . Hồ_sơ đề_nghị cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng
+
+1 . Doanh_nghiệp đề_nghị cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng nộp hồ_sơ đề_nghị cấp Giấy_phép tại Bộ Thông_tin và Truyền_thông .
+
+2 . Hồ_sơ đề_nghị cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng được lập thành năm bộ , gồm :
+
+a ) Đơn đề_nghị cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng , trong đó nêu rõ loại_hình sản_phẩm , dịch_vụ an_toàn thông_tin mạng sẽ kinh_doanh ;
+
+b ) Bản_sao Giấy chứng_nhận đăng_kí doanh_nghiệp , Giấy chứng_nhận đăng_kí đầu_tư hoặc giấy_tờ khác có giá_trị tương_đương ;
+
+c ) Bản thuyết_minh hệ_thống_thiết_bị kĩ_thuật bảo_đảm phù_hợp với quy_định của pháp_luật ;
+
+d ) Phương_án kinh_doanh gồm phạm_vi , đối_tượng cung_cấp sản_phẩm , dịch_vụ , tiêu_chuẩn , chất_lượng sản_phẩm , dịch_vụ ;
+
+đ ) Bản_sao văn_bằng hoặc chứng_chỉ chuyên_môn về an_toàn thông_tin của đội_ngũ quản_lý , điều_hành , kĩ_thuật .
+
+3 . Ngoài giấy_tờ , tài_liệu quy_định tại khoản 2 Điều này , hồ_sơ đề_nghị cấp Giấy_phép kinh_doanh dịch_vụ kiểm_tra , đánh_giá an_toàn thông_tin hoặc dịch_vụ bảo_mật thông_tin không sử_dụng mật_mã dân_sự còn phải có :
+
+a ) Phiếu lí_lịch tư_pháp của người đại_diện theo pháp_luật và đội_ngũ quản_lý , điều_hành , kĩ_thuật ;
+
+b ) Phương_án kĩ_thuật ;
+
+c ) Phương_án bảo_mật thông_tin khách_hàng trong quá_trình cung_cấp dịch_vụ .
+
+Điều 44 . Thẩm_định hồ_sơ và cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng
+
+1 . Trong thời_hạn 40 ngày kể từ ngày nhận đủ hồ_sơ , Bộ Thông_tin và Truyền_thông chủ_trì , phối_hợp với bộ , ngành có liên_quan thẩm_định và cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng , trừ kinh_doanh sản_phẩm , dịch_vụ quy_định tại điểm c , điểm d khoản 1 và điểm a khoản 2 Điều 41 của Luật này ; trường_hợp từ_chối cấp thì phải thông_báo bằng văn_bản và nêu rõ lí_do .
+
+2 . Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng có nội_dung chính sau đây :
+
+a ) Tên doanh_nghiệp , tên giao_dịch của doanh_nghiệp bằng tiếng Việt và tiếng nước_ngoài ( nếu có ) ; địa_chỉ trụ_sở chính tại Việt_nam ;
+
+b ) Tên của người đại_diện theo pháp_luật ;
+
+c ) Số giấy_phép , ngày cấp giấy_phép , ngày hết hạn giấy_phép ;
+
+d ) Sản_phẩm , dịch_vụ an_toàn thông_tin mạng được phép kinh_doanh .
+
+3 . Doanh_nghiệp được cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng phải nộp phí theo quy_định của pháp_luật về phí và lệ_phí .
+
+Điều 45 . Sửa_đổi , bổ_sung , gia_hạn , tạm đình_chỉ , thu_hồi và cấp lại Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng
+
+1 . Việc sửa_đổi , bổ_sung Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng được thực_hiện trong trường_hợp_doanh_nghiệp đã được cấp Giấy_phép thay_đổi tên , thay_đổi người đại_diện theo pháp_luật hoặc thay_đổi , bổ_sung sản_phẩm , dịch_vụ an_toàn thông_tin mạng mà mình cung_cấp .
+
+Doanh_nghiệp có trách_nhiệm nộp hồ_sơ đề_nghị sửa_đổi , bổ_sung nội_dung Giấy_phép tại Bộ Thông_tin và Truyền_thông . Hồ_sơ được lập thành hai bộ , gồm đơn đề_nghị sửa_đổi , bổ_sung nội_dung Giấy_phép , báo_cáo mô_tả chi_tiết nội_dung đề_nghị sửa_đổi , bổ_sung và các tài_liệu khác có liên_quan .
+
+Trong thời_hạn 10 ngày làm_việc kể từ ngày nhận đủ hồ_sơ , Bộ Thông_tin và Truyền_thông thẩm_định , sửa_đổi , bổ_sung và cấp lại Giấy_phép cho doanh_nghiệp ; trường_hợp từ_chối cấp thì phải thông_báo bằng văn_bản và nêu rõ lí_do .
+
+2 . Trường_hợp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin bị mất hoặc bị hư_hỏng , doanh_nghiệp gửi đơn đề_nghị cấp lại Giấy_phép , trong đó nêu rõ lí_do , tới Bộ Thông_tin và Truyền_thông . Trong thời_hạn 05 ngày làm_việc kể từ ngày nhận được đơn đề_nghị , Bộ Thông_tin và Truyền_thông xem_xét và cấp lại Giấy_phép cho doanh_nghiệp .
+
+3 . Doanh_nghiệp không vi_phạm_quy_định của pháp_luật về kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng được gia_hạn Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng một lần với thời_gian gia_hạn không quá 01 năm . Hồ_sơ đề_nghị gia_hạn Giấy_phép phải được gửi tới Bộ Thông_tin và Truyền_thông chậm nhất_là 60 ngày trước ngày Giấy_phép hết hạn . Hồ_sơ đề_nghị gia_hạn Giấy_phép được lập thành hai bộ , gồm :
+
+a ) Đơn đề_nghị gia_hạn Giấy_phép ;
+
+b ) Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng đang có hiệu_lực ;
+
+c ) Báo_cáo hoạt_động của doanh_nghiệp trong 02 năm gần nhất .
+
+Trong thời_hạn 20 ngày kể từ ngày nhận đủ hồ_sơ , Bộ Thông_tin và Truyền_thông thẩm_định , Quyết_định gia_hạn và cấp lại Giấy_phép cho doanh_nghiệp ; trường_hợp từ_chối cấp thì phải thông_báo bằng văn_bản và nêu rõ lí_do .
+
+4 . Doanh_nghiệp bị tạm đình_chỉ hoạt_động_kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng có thời_hạn không quá 06 tháng trong các trường_hợp sau đây :
+
+a ) Cung_cấp dịch_vụ không đúng với nội_dung ghi trên Giấy_phép ;
+
+b ) Không đáp_ứng được một trong các điều_kiện quy_định tại Điều 42 của Luật này ;
+
+c ) Các trường_hợp khác theo quy_định của pháp_luật .
+
+5 . Doanh_nghiệp bị thu_hồi Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng trong các trường_hợp sau đây :
+
+a ) Không triển_khai cung_cấp dịch_vụ trong thời_hạn 01 năm kể từ ngày được cấp Giấy_phép mà không có_lí_do chính_đáng ;
+
+b ) Giấy_phép đã hết hạn ;
+
+c ) Hết thời_hạn tạm đình_chỉ mà doanh_nghiệp không khắc_phục được các lí_do quy_định tại khoản 4 Điều này .
+
+Điều 46 . Trách_nhiệm của doanh_nghiệp kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng
+
+1 . Quản_lí hồ_sơ , tài_liệu về giải_pháp kĩ_thuật , công_nghệ của sản_phẩm .
+
+2 . Lập , lưu_giữ và bảo_mật thông_tin của khách_hàng .
+
+3 . Định_kì hằng năm báo_cáo Bộ Thông_tin và Truyền_thông về tình_hình kinh_doanh , xuất_khẩu , nhập_khẩu sản_phẩm , dịch_vụ an_toàn thông_tin mạng trước ngày 31 tháng 12 .
+
+4 . Từ_chối cung_cấp sản_phẩm , dịch_vụ an_toàn thông_tin mạng khi phát_hiện tổ_chức , cá_nhân vi_phạm_pháp_luật về sử_dụng sản_phẩm , dịch_vụ an_toàn thông_tin mạng , vi_phạm cam_kết đã thoả_thuận về sử_dụng sản_phẩm , dịch_vụ do doanh_nghiệp cung_cấp .
+
+5 . Tạm ngừng hoặc ngừng cung_cấp sản_phẩm , dịch_vụ an_toàn thông_tin mạng để bảo_đảm quốc_phòng , an_ninh quốc_gia , trật_tự , an_toàn xã_hội theo yêu_cầu của cơ_quan nhà_nước có thẩm_quyền .
+
+6 . Phối_hợp , tạo điều_kiện cho cơ_quan nhà_nước có thẩm_quyền thực_hiện các biện_pháp nghiệp_vụ khi có yêu_cầu .
+
+Mục 2 . Quản_lý_nhập_khẩu Sản_phẩm An_toàn Thông_tin_mạng
+
+Điều 47 . Nguyên_tắc quản_lí nhập_khẩu sản_phẩm an_toàn thông_tin mạng
+
+1 . Việc quản_lí nhập_khẩu đối_với sản_phẩm an_toàn thông_tin mạng được thực_hiện theo quy_định của Luật này và quy_định khác của pháp_luật có liên_quan .
+
+2 . Việc nhập_khẩu sản_phẩm an_toàn thông_tin mạng của cơ_quan , tổ_chức , cá_nhân được hưởng quyền ưu_đãi , miễn_trừ ngoại_giao thực_hiện theo quy_định của pháp_luật về hải_quan , pháp_luật về ưu_đãi , miễn_trừ dành cho cơ_quan đại_diện ngoại_giao , cơ_quan lãnh_sự của nước_ngoài và cơ_quan đại_diện của tổ_chức quốc_tế liên Chính_phủ tại Việt_nam .
+
+3 . Trong trường_hợp Việt_nam chưa có quy_chuẩn kĩ_thuật an_toàn thông_tin mạng tương_ứng_đối_với sản_phẩm an_toàn thông_tin mạng nhập_khẩu thì áp_dụng theo thoả_thuận quốc_tế , điều_ước quốc_tế mà Cộng_hoà xã_hội chủ_nghĩa Việt_nam là thành_viên .
+
+Điều 48 . Sản_phẩm nhập_khẩu theo giấy_phép trong lĩnh_vực an_toàn thông_tin mạng
+
+1 . Khi nhập_khẩu sản_phẩm an_toàn thông_tin mạng thuộc Danh_mục sản_phẩm an_toàn thông_tin mạng nhập_khẩu theo giấy_phép do Chính_phủ quy_định , doanh_nghiệp phải có Giấy_phép nhập_khẩu sản_phẩm an_toàn thông_tin mạng do cơ_quan nhà_nước có thẩm_quyền cấp .
+
+2 . Tổ_chức , doanh_nghiệp nhập_khẩu sản_phẩm an_toàn thông_tin mạng phải thực_hiện chứng_nhận , công_bố hợp quy trước khi nhập_khẩu theo quy_định tại Điều 39 của Luật này .
+
+3 . Tổ_chức , doanh_nghiệp được cấp Giấy_phép nhập_khẩu sản_phẩm an_toàn thông_tin mạng khi đáp_ứng đủ các điều_kiện sau đây :
+
+a ) Có Giấy_phép kinh_doanh sản_phẩm an_toàn thông_tin mạng ;
+
+b ) Sản_phẩm an_toàn thông_tin mạng phải thực_hiện chứng_nhận , công_bố hợp quy theo quy_định tại Điều 39 của Luật này ;
+
+c ) Đối_tượng và mục_đích sử_dụng sản_phẩm an_toàn thông_tin mạng không gây phương_hại đến quốc_phòng , an_ninh quốc_gia và trật_tự , an_toàn xã_hội .
+
+4 . Bộ Thông_tin và Truyền_thông quy_định chi_tiết về trình_tự , thủ_tục , hồ_sơ_cấp Giấy_phép nhập_khẩu sản_phẩm an_toàn thông_tin mạng theo giấy_phép .
+
+Chương_vi
+
+Phát_triển Nguồn Nhân_lực An_toàn Thông_tin_mạng
+
+Điều 49 . Đào_tạo , bồi_dưỡng nghiệp_vụ về an_toàn thông_tin mạng
+
+1 . Chủ_quản hệ_thống thông_tin có trách_nhiệm đào_tạo và bồi_dưỡng kiến_thức , nghiệp_vụ cho cán_bộ quản_lý , kĩ_thuật về an_toàn thông_tin mạng .
+
+2 . Cán_bộ chuyên_trách về an_toàn thông_tin mạng được bố_trí , tạo điều_kiện làm_việc phù_hợp với chuyên_môn , được ưu_tiên bồi_dưỡng nghiệp_vụ về an_toàn thông_tin mạng .
+
+3 . Nhà_nước khuyến_khích tổ_chức , cá_nhân đầu_tư , liên_doanh , liên_kết với tổ_chức khác để đầu_tư xây_dựng cơ_sở giáo_dục đại_học , cơ_sở giáo_dục nghề_nghiệp nhằm đào_tạo nhân_lực trong lĩnh_vực an_toàn thông_tin mạng .
+
+4 . Bộ Nội_vụ chủ_trì , phối_hợp với Bộ Thông_tin và Truyền_thông , bộ , ngành có liên_quan xây_dựng kế_hoạch và tổ_chức thực_hiện đào_tạo , bồi_dưỡng kiến_thức , nghiệp_vụ về an_toàn thông_tin mạng cho cán_bộ , công_chức , viên_chức .
+
+Điều 50 . Văn_bằng , chứng_chỉ đào_tạo về an_toàn thông_tin mạng
+
+1 . Cơ_sở giáo_dục đại_học , cơ_sở giáo_dục nghề_nghiệp trong phạm_vi nhiệm_vụ , quyền_hạn của mình cấp văn_bằng , chứng_chỉ đào_tạo về an_toàn thông_tin mạng .
+
+2 . Bộ Giáo_dục và Đào_tạo chủ_trì , phối_hợp với Bộ Thông_tin và Truyền_thông , bộ , ngành có liên_quan công_nhận văn_bằng giáo_dục đại_học về an_toàn thông_tin mạng do tổ_chức nước_ngoài cấp .
+
+3 . Bộ Lao_động Thương_binh và Xã_hội chủ_trì , phối_hợp với Bộ Thông_tin và Truyền_thông , bộ , ngành có liên_quan công_nhận văn_bằng , chứng_chỉ_giáo_dục nghề_nghiệp về an_toàn thông_tin mạng do tổ_chức nước_ngoài cấp .
+
+Chương_vii
+
+Quản_lý Nhà_nước Về An_toàn Thông_tin_mạng
+
+Điều 51 . Nội_dung quản_lí nhà_nước về an_toàn thông_tin mạng
+
+1 . Xây_dựng chiến_lược , quy_hoạch , kế_hoạch và chính_sách trong lĩnh_vực an_toàn thông_tin mạng ; xây_dựng và chỉ_đạo thực_hiện chương_trình quốc_gia về an_toàn thông_tin mạng .
+
+2 . Ban_hành và tổ_chức thực_hiện văn_bản quy_phạm_pháp_luật về an_toàn thông_tin mạng ; xây_dựng , công_bố tiêu_chuẩn quốc_gia , ban_hành quy_chuẩn kĩ_thuật về an_toàn thông_tin mạng .
+
+3 . Quản_lí nhà_nước về mật_mã dân_sự .
+
+4 . Quản_lí công_tác đánh_giá , công_bố hợp chuẩn , hợp quy về an_toàn thông_tin mạng .
+
+5 . Quản_lí công_tác giám_sát an_toàn hệ_thống thông_tin .
+
+6 . Thẩm_định về an_toàn thông_tin mạng trong hồ_sơ thiết_kế hệ_thống thông_tin .
+
+7 . Tuyên_truyền , phổ_biến pháp_luật về an_toàn thông_tin mạng .
+
+8 . Quản_lí hoạt_động_kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng .
+
+9 . Tổ_chức nghiên_cứu , ứng_dụng khoa_học và công_nghệ về an_toàn thông_tin mạng ; phát_triển nguồn nhân_lực an_toàn thông_tin mạng ; đào_tạo cán_bộ chuyên_trách về an_toàn thông_tin mạng .
+
+10 . Kiểm_tra , thanh_tra , giải_quyết khiếu_nại , tố_cáo , xử_lí vi_phạm_pháp_luật về an_toàn thông_tin mạng .
+
+11 . Hợp_tác quốc_tế về an_toàn thông_tin mạng .
+
+Điều 52 . Trách_nhiệm quản_lí nhà_nước về an_toàn thông_tin mạng
+
+1 . Chính_phủ thống_nhất quản_lí nhà_nước về an_toàn thông_tin mạng .
+
+2 . Bộ Thông_tin và Truyền_thông chịu trách_nhiệm trước Chính_phủ thực_hiện quản_lí nhà_nước về an_toàn thông_tin mạng , có nhiệm_vụ , quyền_hạn sau đây :
+
+a ) Ban_hành hoặc xây_dựng , trình cấp có thẩm_quyền ban_hành_văn_bản quy_phạm_pháp_luật , chiến_lược , quy_hoạch , kế_hoạch , tiêu_chuẩn quốc_gia , quy_chuẩn kĩ_thuật quốc_gia về an_toàn thông_tin mạng ;
+
+b ) Thẩm_định về an_toàn thông_tin mạng trong hồ_sơ thiết_kế hệ_thống thông_tin ;
+
+c ) Quản_lí công_tác giám_sát an_toàn hệ_thống thông_tin trên toàn_quốc , trừ hệ_thống thông_tin quy_định tại điểm c khoản 3 và điểm b khoản 5 Điều này ;
+
+d ) Quản_lí công_tác đánh_giá về an_toàn thông_tin mạng ;
+
+đ ) Cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ an_toàn thông_tin mạng , Giấy_phép nhập_khẩu sản_phẩm an_toàn thông_tin , trừ sản_phẩm , dịch_vụ mật_mã dân_sự ;
+
+e ) Nghiên_cứu , ứng_dụng khoa_học và công_nghệ về an_toàn thông_tin mạng ; đào_tạo , bồi_dưỡng , phát_triển nguồn nhân_lực ;
+
+g ) Quản_lí và thực_hiện hợp_tác quốc_tế về an_toàn thông_tin mạng ;
+
+h ) Kiểm_tra , thanh_tra , giải_quyết khiếu_nại , tố_cáo và xử_lí vi_phạm_pháp_luật về an_toàn thông_tin mạng ;
+
+i ) Chủ_trì , phối_hợp với bộ , ngành , Ủy_ban nhân_dân cấp tỉnh và doanh_nghiệp có liên_quan trong việc bảo_đảm an_toàn thông_tin mạng ;
+
+k ) Tổ_chức tuyên_truyền , phổ_biến pháp_luật về an_toàn thông_tin mạng ;
+
+l ) Định_kì hằng năm báo_cáo Chính_phủ về hoạt_động an_toàn thông_tin mạng .
+
+3 . Bộ Quốc_phòng có nhiệm_vụ , quyền_hạn sau đây :
+
+a ) Ban_hành hoặc xây_dựng , trình cấp có thẩm_quyền ban_hành_văn_bản quy_phạm_pháp_luật , chiến_lược , quy_hoạch , kế_hoạch , tiêu_chuẩn quốc_gia , quy_chuẩn kĩ_thuật quốc_gia về an_toàn thông_tin mạng thuộc lĩnh_vực do Bộ Quốc_phòng quản_lý ;
+
+b ) Kiểm_tra , thanh_tra , giải_quyết khiếu_nại , tố_cáo và xử_lí vi_phạm_pháp_luật trong hoạt_động bảo_đảm an_toàn thông_tin mạng thuộc lĩnh_vực do Bộ Quốc_phòng quản_lý ;
+
+c ) Thực_hiện quản_lí công_tác giám_sát an_toàn hệ_thống thông_tin thuộc Bộ Quốc_phòng .
+
+4 . Ban Cơ_yếu Chính_phủ giúp Bộ_trưởng Bộ Quốc_phòng thực_hiện quản_lí nhà_nước về mật_mã dân_sự , có nhiệm_vụ sau đây :
+
+a ) Xây_dựng , trình cấp có thẩm_quyền ban_hành_văn_bản quy_phạm_pháp_luật về quản_lí mật_mã dân_sự ;
+
+b ) Chủ_trì , phối_hợp với bộ , ngành có liên_quan xây_dựng , trình cơ_quan nhà_nước có thẩm_quyền ban_hành tiêu_chuẩn quốc_gia , quy_chuẩn kĩ_thuật quốc_gia đối_với sản_phẩm , dịch_vụ mật_mã dân_sự ;
+
+c ) Quản_lí hoạt_động_kinh_doanh , sử_dụng mật_mã dân_sự ; quản_lí chất_lượng sản_phẩm , dịch_vụ mật_mã dân_sự ; quản_lí công_tác đánh_giá , công_bố hợp chuẩn , hợp quy đối_với sản_phẩm , dịch_vụ mật_mã dân_sự ;
+
+d ) Xây_dựng , trình cấp có thẩm_quyền ban_hành Danh_mục sản_phẩm , dịch_vụ mật_mã dân_sự và Danh_mục sản_phẩm mật_mã dân_sự xuất_khẩu , nhập_khẩu theo giấy_phép ;
+
+đ ) Cấp Giấy_phép kinh_doanh sản_phẩm , dịch_vụ mật_mã dân_sự , Giấy_phép xuất_khẩu , nhập_khẩu sản_phẩm mật_mã dân_sự ;
+
+e ) Kiểm_tra , thanh_tra , giải_quyết khiếu_nại , tố_cáo và xử_lí vi_phạm_pháp_luật trong hoạt_động_kinh_doanh , sử_dụng mật_mã dân_sự ;
+
+g ) Hợp_tác quốc_tế về mật_mã dân_sự .
+
+5 . Bộ Công_an có nhiệm_vụ , quyền_hạn sau đây :
+
+a ) Chủ_trì , phối_hợp với bộ , ngành có liên_quan xây_dựng và trình cấp có thẩm_quyền ban_hành hoặc ban_hành theo thẩm_quyền và hướng_dẫn thực_hiện văn_bản quy_phạm_pháp_luật về bảo_vệ bí_mật nhà_nước , phòng , chống tội_phạm mạng , lợi_dụng mạng để xâm_phạm an_ninh quốc_gia , trật_tự , an_toàn xã_hội ;
+
+b ) Thực_hiện quản_lí công_tác giám_sát an_toàn hệ_thống thông_tin thuộc Bộ Công_an ;
+
+c ) Tổ_chức , chỉ_đạo , triển_khai công_tác phòng , chống tội_phạm , tổ_chức điều_tra tội_phạm mạng và hành_vi vi_phạm_pháp_luật khác trong lĩnh_vực an_toàn thông_tin mạng ;
+
+d ) Phối_hợp với Bộ Thông_tin và Truyền_thông , bộ , ngành có liên_quan kiểm_tra , thanh_tra về an_toàn thông_tin mạng , xử_lí vi_phạm_pháp_luật về an_toàn thông_tin mạng theo thẩm_quyền .
+
+6 . Bộ Nội_vụ có trách_nhiệm tổ_chức đào_tạo , bồi_dưỡng kiến_thức , nghiệp_vụ an_toàn thông_tin mạng cho cán_bộ , công_chức , viên_chức .
+
+7 . Bộ Giáo_dục và Đào_tạo có trách_nhiệm tổ_chức đào_tạo , phổ_biến kiến_thức về an_toàn thông_tin mạng trong cơ_sở giáo_dục đại_học .
+
+8 . Bộ Lao_động - Thương_binh và Xã_hội có trách_nhiệm tổ_chức đào_tạo , bồi_dưỡng , phổ_biến kiến_thức về an_toàn thông_tin mạng trong cơ_sở giáo_dục nghề_nghiệp .
+
+9 . Bộ Tài_chính có trách_nhiệm hướng_dẫn , bố_trí kinh_phí thực_hiện nhiệm_vụ bảo_đảm an_toàn thông_tin mạng theo quy_định của pháp_luật .
+
+10 . Bộ , cơ_quan ngang bộ trong phạm_vi nhiệm_vụ , quyền_hạn của mình có trách_nhiệm quản_lí an_toàn thông_tin mạng của ngành mình và phối_hợp với Bộ Thông_tin và Truyền_thông thực_hiện quản_lí nhà_nước về an_toàn thông_tin mạng .
+
+11 . Ủy_ban nhân_dân cấp tỉnh trong phạm_vi nhiệm_vụ , quyền_hạn của mình thực_hiện quản_lí nhà_nước về an_toàn thông_tin mạng ở địa_phương .
+
+Chương_viii
+
+Điều_khoản Thi_hành
+
+Điều 53 . Hiệu_lực thi_hành
+
+Luật này có hiệu_lực thi_hành từ ngày 01 tháng 7 năm 2016 .
+
+Điều 54 . Quy_định chi_tiết
+
+Chính_phủ , cơ_quan nhà_nước có thẩm_quyền quy_định chi_tiết các điều , khoản được giao trong Luật .
+
+Luật này đã được Quốc_hội nước Cộng_hoà xã_hội chủ_nghĩa Việt_nam khoá Xiii , kì họp thứ 10 thông_qua_ngày 19 tháng 11 năm 2015 .
