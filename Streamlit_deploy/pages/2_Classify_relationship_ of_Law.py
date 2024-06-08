@@ -30,6 +30,33 @@ def tokenization(data, max_length):
 
     return tokenizer_pad, vocab_size, words_to_index
 
+def load_dicchar():
+    dic = {}
+    char1252 = 'à|á|ả|ã|ạ|ầ|ấ|ẩ|ẫ|ậ|ằ|ắ|ẳ|ẵ|ặ|è|é|ẻ|ẽ|ẹ|ề|ế|ể|ễ|ệ|ì|í|ỉ|ĩ|ị|ò|ó|ỏ|õ|ọ|ồ|ố|ổ|ỗ|ộ|ờ|ớ|ở|ỡ|ợ|ù|ú|ủ|ũ|ụ|ừ|ứ|ử|ữ|ự|ỳ|ý|ỷ|ỹ|ỵ|À|Á|Ả|Ã|Ạ|Ầ|Ấ|Ẩ|Ẫ|Ậ|Ằ|Ắ|Ẳ|Ẵ|Ặ|È|É|Ẻ|Ẽ|Ẹ|Ề|Ế|Ể|Ễ|Ệ|Ì|Í|Ỉ|Ĩ|Ị|Ò|Ó|Ỏ|Õ|Ọ|Ồ|Ố|Ổ|Ỗ|Ộ|Ờ|Ớ|Ở|Ỡ|Ợ|Ù|Ú|Ủ|Ũ|Ụ|Ừ|Ứ|Ử|Ữ|Ự|Ỳ|Ý|Ỷ|Ỹ|Ỵ'.split(
+        '|')
+    charutf8 = "à|á|ả|ã|ạ|ầ|ấ|ẩ|ẫ|ậ|ằ|ắ|ẳ|ẵ|ặ|è|é|ẻ|ẽ|ẹ|ề|ế|ể|ễ|ệ|ì|í|ỉ|ĩ|ị|ò|ó|ỏ|õ|ọ|ồ|ố|ổ|ỗ|ộ|ờ|ớ|ở|ỡ|ợ|ù|ú|ủ|ũ|ụ|ừ|ứ|ử|ữ|ự|ỳ|ý|ỷ|ỹ|ỵ|À|Á|Ả|Ã|Ạ|Ầ|Ấ|Ẩ|Ẫ|Ậ|Ằ|Ắ|Ẳ|Ẵ|Ặ|È|É|Ẻ|Ẽ|Ẹ|Ề|Ế|Ể|Ễ|Ệ|Ì|Í|Ỉ|Ĩ|Ị|Ò|Ó|Ỏ|Õ|Ọ|Ồ|Ố|Ổ|Ỗ|Ộ|Ờ|Ớ|Ở|Ỡ|Ợ|Ù|Ú|Ủ|Ũ|Ụ|Ừ|Ứ|Ử|Ữ|Ự|Ỳ|Ý|Ỷ|Ỹ|Ỵ".split(
+        '|')
+    for i in range(len(char1252)):
+        dic[char1252[i]] = charutf8[i]
+    return dic
+
+# Chuyển đổi mã kí tự 1252 sang UTF-8
+def covert_unicode(text):
+    dicchar = load_dicchar()
+    return re.sub(
+        r'à|á|ả|ã|ạ|ầ|ấ|ẩ|ẫ|ậ|ằ|ắ|ẳ|ẵ|ặ|è|é|ẻ|ẽ|ẹ|ề|ế|ể|ễ|ệ|ì|í|ỉ|ĩ|ị|ò|ó|ỏ|õ|ọ|ồ|ố|ổ|ỗ|ộ|ờ|ớ|ở|ỡ|ợ|ù|ú|ủ|ũ|ụ|ừ|ứ|ử|ữ|ự|ỳ|ý|ỷ|ỹ|ỵ|À|Á|Ả|Ã|Ạ|Ầ|Ấ|Ẩ|Ẫ|Ậ|Ằ|Ắ|Ẳ|Ẵ|Ặ|È|É|Ẻ|Ẽ|Ẹ|Ề|Ế|Ể|Ễ|Ệ|Ì|Í|Ỉ|Ĩ|Ị|Ò|Ó|Ỏ|Õ|Ọ|Ồ|Ố|Ổ|Ỗ|Ộ|Ờ|Ớ|Ở|Ỡ|Ợ|Ù|Ú|Ủ|Ũ|Ụ|Ừ|Ứ|Ử|Ữ|Ự|Ỳ|Ý|Ỷ|Ỹ|Ỵ',
+        lambda x: dicchar[x.group()], text)
+
+def text_preprocessing(document):
+    # Chuyển đổi mã kí tự 1252 sang UTF-8
+    document['Text'] = document['Text'].apply(covert_unicode)
+    # Đưa về dạng chữ thường
+    document['Text'] = document['Text'].str.lower()
+    # xóa các ký tự không cần thiết
+    document['Text'] = document['Text'].apply(lambda x: re.sub(r'[^\w\s]', '', str(x)))
+    document = document['Text'].apply(lambda y: re.sub(r'[^\s\wáàảãạăắằẳẵặâấầẩẫậéèẻẽẹêếềểễệóòỏõọôốồổỗộơớờởỡợíìỉĩịúùủũụưứừửữựýỳỷỹỵđ_]',' ',str(y)))
+    return document
+
 def entity_Extraction(A, sentence):
     
     regex_patterns = [r'([^;.<()>:]*)(Hiến_pháp) (?:(nước cộng_hoà xã_hội chủ_nghĩa việt_nam)|(\d+))([^;.<()>:]*)', "Bộ_luật", "Luật", "Pháp_lệnh", "Lệnh", "Quyết_định", 
@@ -87,10 +114,12 @@ def main(input_A,input_B):
 
     X = entity_Extraction(A_processing, B_processing)
     X['Text'] = X.apply(lambda d: f"{d['Thực thể tham chiếu']} {d['Nội dung trước thực thể được tham chiếu']} {d['Thực thể được tham chiếu']} {d['Nội dung sau thực thể được tham chiếu']}".strip(), axis=1)
-    
+    X['Text'] = text_preprocessing(X)
+
     data_tokenizer_pad_new, vocab_size_new, words_to_index_new = tokenization(X['Text'], max_length)
 
     label = ['BTT', 'DC', 'DHD', 'DSD', 'CC', 'HHL', 'None']
+
 
 
     # Dự đoán trên dữ liệu mới (X_new)
@@ -102,24 +131,27 @@ def main(input_A,input_B):
     label_encode = label_encode.fit(label)
     y_pred_original = label_encode.inverse_transform(np.argmax(predictions, axis=1))
 
-    
+    y_pred_original_lst = []
 
-    if y_pred_original == 'BTT':
-        y_pred_original_text = 'Bị thay thế'
-    elif y_pred_original == 'DC':
-        y_pred_original_text = 'Dẫn chiếu'
-    elif y_pred_original == 'DHD':
-        y_pred_original_text = 'Được hướng dẫn'
-    elif y_pred_original == 'DSD':
-        y_pred_original_text = 'Được sửa đổi hoặc bổ sung'
-    elif y_pred_original == 'CC':
-        y_pred_original_text = 'Căn cứ'
-    elif y_pred_original == 'HHL':
-        y_pred_original_text = 'Hết hiệu lực'
-    else:
-        y_pred_original_text = 'Không có quan hệ với thực thể tham chiếu'
+    for i in y_pred_original:
+        if i == 'BTT':
+            y_pred_original_text = 'Bị thay thế'
+        elif i == 'DC':
+            y_pred_original_text = 'Dẫn chiếu'
+        elif i == 'DHD':
+            y_pred_original_text = 'Được hướng dẫn'
+        elif i == 'DSD':
+            y_pred_original_text = 'Được sửa đổi hoặc bổ sung'
+        elif i == 'CC':
+            y_pred_original_text = 'Căn cứ'
+        elif i == 'HHL':
+            y_pred_original_text = 'Hết hiệu lực'
+        else:
+            y_pred_original_text = 'Không có quan hệ với thực thể tham chiếu'
+        
+        y_pred_original_lst.append(y_pred_original_text)
 
-    output = pd.DataFrame({'Thực thể tham chiếu': X['Thực thể tham chiếu'], 'Quan hệ': [y_pred_original_text], 'Thực thể được tham chiếu': X['Thực thể được tham chiếu']})
+    output = pd.DataFrame({'Thực thể tham chiếu': X['Thực thể tham chiếu'], 'Quan hệ': y_pred_original_lst, 'Thực thể được tham chiếu': X['Thực thể được tham chiếu']})
 
     output['Thực thể được tham chiếu'] = output['Thực thể được tham chiếu'].astype(str).str.pad(width=155, side='right')
     
@@ -128,10 +160,28 @@ def main(input_A,input_B):
 
 if __name__ == "__main__":
 
+    
+
     st.write("# Phân loại quan hệ tham chiếu")
 
+    tabs_font_css = """
+    <style>
+    div[class*="stTextArea"] label {
+        font-size: 30px;
+        color: red;
+    }
+
+    div[class*="stTextInput"] label {
+        font-size: 30px;
+        color: cyan;
+    }
+    </style>
+    """
+
+    st.write(tabs_font_css, unsafe_allow_html=True)
+    
     input_A = st.text_input("Nhập đối tượng tham chiếu", "")
-    input_B = st.text_input("Nhập đoạn văn chứa đối tượng được tham chiếu", "")
+    input_B = st.text_area("Nhập đoạn văn chứa đối tượng được tham chiếu", "")
 
     if(input_B != ""):
         main(input_A, input_B)
