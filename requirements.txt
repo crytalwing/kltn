@@ -1,3 +1,4 @@
+ipykernel
 selenium
 webdriver_manager
 undetected-chromedriver
@@ -8,10 +9,9 @@ pytesseract
 plotly
 matplotlib
 nbformat>=4.2.0
-tensorflow>=2.14.0
+tensorflow==2.14.0
 underthesea
 keras-self-attention
 fasttext-wheel
 spacy
-ipykernel
-streamlit
+streamlit==1.21.0

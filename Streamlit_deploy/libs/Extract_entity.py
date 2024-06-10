@@ -1,9 +1,8 @@
 import re
-import pandas as pd
-from pyvi import ViTokenizer, ViPosTagger
 import json
 import string
 import enchant
+from pyvi import ViTokenizer
 
 class tvpl_function:
     def __init__(self):
@@ -78,11 +77,7 @@ class tvpl_function:
                 break     
         
         return row
-    
-    # đổi về chữ thường
-    def text_lower(self, text):
-        return text.lower()
-    
+
     #  Tìm và thay thế các ký tự không in được trong text thành khoảng trắng
     def  replace_non_printable_chars(self, row):
         return  ''.join(char if char in string.printable or char.lower() in self.pattern else ' ' for char in row)
@@ -91,55 +86,51 @@ class tvpl_function:
         row = self.covert_unicode(row)                          # Chuẩn hóa bảng mã kí 
         row = self.removeUnnecessaryPart(row)                   # Loại bỏ phần không cần thiết
         row = self.replace_non_printable_chars(row)             # Thay thế các chuỗi không in được thành khoảng trắng
-        row = self.text_lower(row)                              # Đổi thành chữ thường
         
         result_line = []
         for line in row.splitlines():           
-            if line != ' ' and line != '':
-                line = line.replace('\n', '').replace('\t', '')                 # Loại \n và \t trong dòng
-                line = self.Handling_Stuck_Syllables(line)                      # Tách âm tiết bị dính nhau
-                line = ViTokenizer.tokenize(line).lstrip().rstrip()             # Tách câu, tách từ tiếng 
+            if line.strip():
+                line = self.sentence_processing(line)           # Tách âm tiết bị dính nhau
+                line = self.split_word(line)                    # Tách câu, tách từ tiếng              
                 result_line.append(line)
+        
         row = "\n\n".join(result_line)
-
-        row = row.replace(" / ", "/")
-        row = row.replace(" - ", "-")
         row = self.highlight_object(row)
 
         return row
 
-    # Chuẩn hóa y và i (vd: tỷ lệ -> tỉ lệ, bác sỹ -> bác sĩ)
-    def chuan_hoa_y_i(self, word):
-        set_yi ={1: 'yýỳỷỹỵ', 2: 'iíìỉĩị'}
-        index_yi = None
-        index_setyi = None
-        for i in range(6):
-            if set_yi[1][i] in word or set_yi[2][i] in word:
-                index_yi = word.index(set_yi[1][i]) if set_yi[1][i] in word else word.index(set_yi[2][i])
-                index_setyi = i
-                break
+    # Tách câu, tách từ tiếng 
+    def split_word(self, sentence):
+        pattern = re.compile(r'\d{1,4}(/|-)\d{1,4}(/|-)?\w{0,7}(-\w{2,4})?|\d{1,4}(/|-)\w{2,7}(-\w{2,4})?')
+        result = ''
+        i_start = 0
+        str_list =  sentence.split()
+        
+        for i, word in enumerate(sentence.split()):
+            if pattern.match(word):
+                text = ' '.join(str_list[i_start:i])
+                text = ViTokenizer.tokenize(text)
+                result += f'{text} {str_list[i]} '
+                i_start = i + 1
 
-        if index_yi is not None:
-            if len(word) == 1 and word in set_yi[2]:
-                word = set_yi[1][index_setyi]
-            elif (len(word) > 1 and index_yi == len(word) - 1 and word[index_yi] in set_yi[1] 
-            and word[:index_yi] in ['b','c','ch','d','đ','g','gh','h','k','kh','l','m','n','ng','ngh','nh','p','ph','r','s','t','th','tr','v','x']):
-                word = word[:index_yi] + set_yi[2][index_setyi]
+        if i_start < len(str_list):
+            text = ' '.join(str_list[i_start:])
+            text = ViTokenizer.tokenize(text)
+            result += text
 
-        return word
+        return result.strip()   
 
-    # Xử lý các âm tiết bị lỗi dính nhau trong từng câu của văn bản
-    def Handling_Stuck_Syllables(self, sentence):
+    # Xử lý câu
+    def sentence_processing(self, sentence):
         result_sentence = []
-        sentence = self.split_speicalChar(sentence) # Tách các kí tự đặc biệt (ví dụ: 'luật.' -> 'luật .')
-        for word in sentence.split():       # xét từng chữ
-            word = self.standardize_Tone(word)  # Chuẩn hóa thanh điệu
-            word = self.chuan_hoa_y_i(word)     # Chuẩn hóa y/i
+        sentence = self.word_processing(sentence)           # Xử lý từ cơ bản
+
+        for word in sentence.split():                  
             # Nếu từ không chứa kí tự, từ có nghĩa, là số ký hiệu hoặc là từ tiếng anh thì bỏ qua
             if (len(word) == 1
                     or any(char in word for char in self.specialCharset)
                     or any(char in word.lower() for char in ["f","j","w","z"])
-                    or any(char in '0123456789' for char in word)
+                    or any(char.isnumeric() for char in word)
                     or self.words_en.check(word) 
                     or self.syllable_check(word) 
                     ):
@@ -168,17 +159,50 @@ class tvpl_function:
             result_sentence.append(text if text else word) # nếu False thì từ được giữ nguyên
 
         return ' '.join(result_sentence)
+    
+    # Xử lý từ
+    def word_processing(self, sentence):
+        result = []
+        pattern = re.compile(r'\d{1,4}(/|-)\d{1,4}(/|-)?\w{0,7}(-\w{2,4})?|\d{1,4}(/|-)\w{2,7}(-\w{2,4})?')
+        for word in sentence.split():
+            word = self.standardize_Tone(word)  # Chuẩn hóa thanh điệu
+            word = self.chuan_hoa_y_i(word)     # Chuẩn hóa y/i
 
-    # Tách các kí tự đặc biệt 
-    def split_speicalChar(self, text):  
-        for i in self.specialCharset:
-            if i in text:
-                text = text.replace(i, f" {i} ")
-        return text
+            if word.isupper() and not pattern.match(word):
+                word = word.capitalize()
+
+            for i in self.specialCharset:
+                if ('/' in word or '-' in word) and pattern.match(word) and (i == '/' or i == '-'):
+                    continue
+                if i in word:
+                    word = word.replace(i, f" {i} ")    # Tách các kí tự đặc biệt 
+            result.append(word)
+        
+        return ' '.join(result).replace('  ', ' ').strip()
+
+
+    # Chuẩn hóa y và i (vd: tỷ lệ -> tỉ lệ, bác sỹ -> bác sĩ)
+    def chuan_hoa_y_i(self, word):
+        set_yi ={1: 'yýỳỷỹỵ', 2: 'iíìỉĩị'}
+        index_yi = None
+        index_setyi = None
+        for i in range(6):
+            if set_yi[1][i] in word or set_yi[2][i] in word:
+                index_yi = word.index(set_yi[1][i]) if set_yi[1][i] in word else word.index(set_yi[2][i])
+                index_setyi = i
+                break
+
+        if index_yi is not None:
+            if len(word) == 1 and word in set_yi[2]:
+                word = set_yi[1][index_setyi]
+            elif (len(word) > 1 and index_yi == len(word) - 1 and word[index_yi] in set_yi[1] 
+            and word[:index_yi] in ['b','c','ch','d','đ','g','gh','h','k','kh','l','m','n','ng','ngh','nh','p','ph','r','s','t','th','tr','v','x']):
+                word = word[:index_yi] + set_yi[2][index_setyi]
+
+        return word
 
     # Trả kết quả xử lý tách các âm tiết dính nhau
-    def split_syllable(self, syllable):
-        
+    def split_syllable(self, syllable):  
         memories = []
         while syllable != '':
             text_len = len(syllable)    # Độ dài từ hiện tại
@@ -244,5 +268,26 @@ class tvpl_function:
     # làm đối tượng nổi bật
     def highlight_object(self, sentence):
         for key in self.type_documents:
-            sentence = sentence.replace(key.lower(), key)           
+            if key.lower() in sentence.lower():
+                i_start = sentence.lower().index(key.lower())
+                i_end = i_start + len(key)
+                text = sentence[i_start : i_end]
+                sentence = sentence.replace(text, key)    
+
+        
+        pattern = r'(\w)_(\w)'
+        matches = re.findall(pattern, sentence)
+        matches = list(set(matches))
+        for match in matches:
+            if match[0].islower() and match[1].isupper():
+                key_word = '_'.join(match)
+                sentence = sentence.replace(key_word, key_word.lower())
+                
+        if 'pháp lệnh' in sentence.lower():
+            start_index = sentence.lower().index('pháp lệnh')
+            end_index = start_index + len('pháp lệnh')
+            if sentence[start_index-1] == '_':
+                sentence = sentence[:start_index - 1] + " " +sentence[start_index:]
+            sentence = sentence[:start_index] + 'Pháp_lệnh' + sentence[end_index:]
+
         return sentence

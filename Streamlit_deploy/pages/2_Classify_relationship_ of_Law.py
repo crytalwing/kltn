@@ -59,8 +59,17 @@ def text_preprocessing(document):
 
 def entity_Extraction(A, sentence):
     
-    regex_patterns = [r'([^;.<()>:]*)(Hiến_pháp) (?:(nước cộng_hoà xã_hội chủ_nghĩa việt_nam)|(\d+))([^;.<()>:]*)', "Bộ_luật", "Luật", "Pháp_lệnh", "Lệnh", "Quyết_định", 
-                      "Nghị_định", "Nghị_quyết", "Nghị_quyết liên_tịch", "Thông_tư", "Thông_tư liên_tịch", "Chỉ_thị"]
+    regex_patterns = [r'([^;.<()>:]*)(Hiến_pháp) (?:(nước cộng_hoà xã_hội chủ_nghĩa việt_nam)|(\d+))([^;.<()>:]*)', 
+                      "Bộ_luật", 
+                      "Luật", 
+                      "Pháp_lệnh", 
+                      "Lệnh", 
+                      "Quyết_định", 
+                      "Nghị_định", 
+                      "Nghị_quyết", 
+                      "Nghị_quyết liên_tịch", 
+                      "Thông_tư", 
+                      "Thông_tư liên_tịch", "Chỉ_thị"]
 
     list_B = {
         'Thực thể tham chiếu': [],
@@ -74,27 +83,28 @@ def entity_Extraction(A, sentence):
         elif (key == 'Nghị_định' or key == 'Thông_tư') and 'liên_tịch' in sentence[sentence.find(key) + 9 : sentence.find(key) + 20]:
                 continue
         else:
-            pattern = r'([^;.<()>:]*)'+rf'({key})' + r' ((?:(?!ngày|số|này|tại|theo|thì|và|[A-ZĐ])\w+[ _])+)?(số)?\s?(\d+?[\w]+(?:(?:/|-)+(?:\d|\w)+)+)?\s?(ngày \d{1,2}(?: tháng |[-]|[/])\d{1,2}(?: năm |[-]|[/])\d{4})?([^;.<()>:]*)'
+            pattern = rf'({key})' + r' ((?:(?!ngày|tháng|năm|số)\w+[\s_,]+)+)?(_số|số)?\s?(\d+?[\w]+(?:(?:/|-)+(?:\d|\w)+)+)?\s?((?:năm |tháng |ngày |)(?:\d{4}|\d{1,2}){1})?((?: năm | tháng |[-]|[/])(?:\d{4}|\d{1,2}))?((?: năm |[-]|[/])\d{4})?'
             matches = re.findall(pattern, sentence)
-
+        
         list_entity = list(set(matches))
         if list_entity:     
             for entity in list_entity:
-                start_entity = entity[0]
-                end_entity = entity[-1]
-                entity_tuple = tuple(filter(lambda x: x != '', entity[1:-1]))
-                B = ' '. join(entity_tuple).replace('  ', ' ')
-                
-                if len(entity_tuple) < 2 or B in A:
+                entity = list(entity)
+                entity[4] = ''.join(entity[4:])
+                entity = [item for item in entity[:5] if item]
+
+                B = ' '.join(entity).replace('  ', ' ')
+                if len(entity) < 2 or B in A:
                     continue
-                
-                list_B['Thực thể tham chiếu'].append(A)
-                list_B['Nội dung trước thực thể được tham chiếu'].append(start_entity)
-                list_B['Thực thể được tham chiếu'].append(B)
-                list_B['Nội dung sau thực thể được tham chiếu'].append(end_entity)
+                pattern_i = r'([\w+\s_^;.<()>:]+)' + rf'{B}' + r'([\w+\s_^;.<()>:]+)'
+                match_i = re.findall(pattern_i, sentence)
+                for match in match_i:
+                    list_B['Thực thể tham chiếu'].append(A)
+                    list_B['Nội dung trước thực thể được tham chiếu'].append(match[0])
+                    list_B['Thực thể được tham chiếu'].append(B)
+                    list_B['Nội dung sau thực thể được tham chiếu'].append(match[1])
 
-
-    df = pd.DataFrame(list_B) 
+    df = pd.DataFrame(list_B)
 
     return df
 
@@ -151,11 +161,13 @@ def main(input_A,input_B):
         
         y_pred_original_lst.append(y_pred_original_text)
 
-    output = pd.DataFrame({'Thực thể tham chiếu': X['Thực thể tham chiếu'], 'Quan hệ': y_pred_original_lst, 'Thực thể được tham chiếu': X['Thực thể được tham chiếu']})
+    st.markdown(f"<hr><br> <u>Văn bản:</u> <h4>{A_processing}</h4> <br>", unsafe_allow_html=True)
+
+    output = pd.DataFrame({'Quan hệ': y_pred_original_lst, 'Thực thể được tham chiếu': X['Thực thể được tham chiếu']})
 
     output['Thực thể được tham chiếu'] = output['Thực thể được tham chiếu'].astype(str).str.pad(width=155, side='right')
     
-    st.write(output, heigth=300)
+    st.dataframe(output, width=700, height=400)
 
 
 if __name__ == "__main__":
