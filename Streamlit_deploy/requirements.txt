@@ -1,2 +1,11 @@
-- streamlit 1.21.0
-- tensorflow 2.14
+keras_self_attention==0.51.0
+matplotlib==3.7.0
+numpy==1.24.2
+pandas==1.5.3
+plotly==5.13.1
+pyenchant==3.2.2
+pyvi==0.1.1
+scikit_learn==1.2.2
+streamlit==1.21.0
+tensorflow==2.14.0
+tensorflow_intel==2.14.0
